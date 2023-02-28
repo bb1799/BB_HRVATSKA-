@@ -1,1 +1,731 @@
-
+#EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
+#EXTINF:-1 tvg-id="htv1" tvg-name="INFO KANAL" tvg-logo="http://144.76.182.124/exyulogo/exyu.png" group-title="EXYU TV",INFO KANAL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1526
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="http://144.76.182.124/exyulogo/RTS1.png" group-title="SRBIJA",RTS 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/112
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://144.76.182.124/exyulogo/hrt1.png" group-title="HRVATSKA",HRT 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/75
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-logo="http://144.76.182.124/exyulogo/obn.png" group-title="BOSNA I HERCEGOVINA",OBN
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/66
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA" tvg-logo="http://144.76.182.124/exyulogo/prva.png" group-title="SRBIJA",PRVA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/109
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK" tvg-logo="http://144.76.182.124/exyulogo/pink.png" group-title="SRBIJA",PINK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/105
+#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/nova_s_logo.png" group-title="SRBIJA",NOVA S
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/381
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA BH" tvg-logo="http://144.76.182.124/exyulogo/novabh.png" group-title="BOSNA I HERCEGOVINA",NOVA BH
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/530
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA HR" tvg-logo="http://144.76.182.124/exyulogo/nova.png" group-title="HRVATSKA",NOVA HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/73
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SRB" tvg-logo="http://144.76.182.124/exyulogo/n1srb.png" group-title="SRBIJA",N1 SRB
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/399
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="http://144.76.182.124/exyulogo/n1hr.png" group-title="HRVATSKA",N1 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/107
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 BH" tvg-logo="http://144.76.182.124/exyulogo/n1bh.png" group-title="BOSNA I HERCEGOVINA",N1 BH
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/521
+#EXTINF:-1 tvg-id="b92" tvg-name="B92" tvg-logo="http://144.76.182.124/exyulogo/b92.png" group-title="SRBIJA",B92
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/106
+#EXTINF:-1 tvg-id="bn" tvg-name="BN" tvg-logo="http://144.76.182.124/exyulogo/bntv.png" group-title="BOSNA I HERCEGOVINA",BN
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/65
+#EXTINF:-1 tvg-id="bn-sat" tvg-name="BN 2" tvg-logo="http://144.76.182.124/exyulogo/bn2.png" group-title="BOSNA I HERCEGOVINA",BN 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2756
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://144.76.182.124/exyulogo/rtrs.png" group-title="BOSNA I HERCEGOVINA",RTRS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/64
+#EXTINF:-1 tvg-id="rtrs-plus" tvg-name="RTRS PLUS" tvg-logo="http://144.76.182.124/exyulogo/rtrsplus.png" group-title="BOSNA I HERCEGOVINA",RTRS PLUS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/63
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1" tvg-logo="http://144.76.182.124/exyulogo/bht1.png" group-title="BOSNA I HERCEGOVINA",BHT 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/58
+#EXTINF:-1 tvg-id="24vesti" tvg-name="24 VESTI" tvg-logo="http://144.76.182.124/exyulogo/24vesti.png" group-title="MAKEDONIJA",24 VESTI
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/601
+#EXTINF:-1 tvg-id="pink-3" tvg-name="VESTI" tvg-logo="http://144.76.182.124/exyulogo/vesti.jpg" group-title="SRBIJA",VESTI
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/102
+#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY" tvg-logo="http://144.76.182.124/exyulogo/happy.png" group-title="SRBIJA",HAPPY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/85
+#EXTINF:-1 tvg-id="tanjug-tacno" tvg-name="TANJUG" tvg-logo="http://144.76.182.124/exyulogo/tanjug.png" group-title="SRBIJA",TANJUG
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14128
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-logo="http://144.76.182.124/exyulogo/RTS2.png" group-title="SRBIJA",RTS 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/110
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3" tvg-logo="http://144.76.182.124/exyulogo/rts3.png" group-title="SRBIJA",RTS 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/145
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS DRAMA" tvg-logo="http://144.76.182.124/exyulogo/drama.jpeg" group-title="SRBIJA",RTS DRAMA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/902
+#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS KOLO" tvg-logo="http://144.76.182.124/exyulogo/kolo.jpeg" group-title="SRBIJA",RTS KOLO
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/901
+#EXTINF:-1 tvg-id="rts-muzika" tvg-name="RTS MUZIKA" tvg-logo="http://144.76.182.124/exyulogo/muzika.png" group-title="SRBIJA",RTS MUZIKA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/900
+#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS SVET" tvg-logo="http://144.76.182.124/exyulogo/svet.png" group-title="SRBIJA",RTS SVET
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1882
+#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS TREZOR" tvg-logo="http://144.76.182.124/exyulogo/trezor.jpeg" group-title="SRBIJA",RTS TREZOR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/899
+#EXTINF:-1 tvg-id="rts-zivot" tvg-name="RTS ZIVOT" tvg-logo="http://144.76.182.124/exyulogo/zivot.png" group-title="SRBIJA",RTS ZIVOT
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/898
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="http://144.76.182.124/exyulogo/hrt2.png" group-title="HRVATSKA",HRT 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/74
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://144.76.182.124/exyulogo/HRT3.png" group-title="HRVATSKA",HRT 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/355
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="http://144.76.182.124/exyulogo/hrt4.png" group-title="HRVATSKA",HRT 4
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/281
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT Int." tvg-logo="http://144.76.182.124/exyulogo/hrtint.png" group-title="HRVATSKA",HRT Int.
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1529
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV 1" tvg-logo="http://144.76.182.124/exyulogo/rtv1.png" group-title="SRBIJA",RTV 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/165
+#EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV 2" tvg-logo="http://144.76.182.124/exyulogo/rtv2.png" group-title="SRBIJA",RTV 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/164
+#EXTINF:-1 tvg-id="prva-files" tvg-name="PRVA FILES" tvg-logo="http://144.76.182.124/exyulogo/files.png" group-title="SRBIJA",PRVA FILES
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3664
+#EXTINF:-1 tvg-id="prva-kick" tvg-name="PRVA KICK" tvg-logo="http://144.76.182.124/exyulogo/prvakick.png" group-title="SRBIJA",PRVA KICK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/598
+#EXTINF:-1 tvg-id="prva-max" tvg-name="PRVA MAX" tvg-logo="http://144.76.182.124/exyulogo/prvamax.png" group-title="SRBIJA",PRVA MAX
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/597
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="PRVA PLUS" tvg-logo="http://144.76.182.124/exyulogo/Prvaplus.png" group-title="SRBIJA",PRVA PLUS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/292
+#EXTINF:-1 tvg-id="prva-world" tvg-name="PRVA WORLD" tvg-logo="http://144.76.182.124/exyulogo/prvaworld.png" group-title="SRBIJA",PRVA WORLD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1495
+#EXTINF:-1 tvg-id="kurir-tv" tvg-name="KURIR TV" tvg-logo="http://144.76.182.124/exyulogo/kurir.png" group-title="SRBIJA",KURIR TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2876
+#EXTINF:-1 tvg-id="k1-tv" tvg-name="K1" tvg-logo="http://144.76.182.124/exyulogo/k1.png" group-title="SRBIJA",K1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2757
+#EXTINF:-1 tvg-id="pink-2" tvg-name="RED TV" tvg-logo="http://144.76.182.124/exyulogo/red.jpg" group-title="SRBIJA",RED TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/103
+#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR TV" tvg-logo="http://144.76.182.124/exyulogo/superstar.png" group-title="SRBIJA",SUPERSTAR TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/652
+#EXTINF:-1 tvg-id="star-tv" tvg-name="SUPERSTAR TV 2" tvg-logo="http://144.76.182.124/exyulogo/superstar.png" group-title="SRBIJA",SUPERSTAR TV 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/5272
+#EXTINF:-1 tvg-id="htv1" tvg-name="ZADRUGA 1" tvg-logo="http://144.76.182.124/exyulogo/zadruga.png" group-title="SRBIJA",ZADRUGA 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1509
+#EXTINF:-1 tvg-id="htv1" tvg-name="ZADRUGA 2" tvg-logo="http://144.76.182.124/exyulogo/zadruga.png" group-title="SRBIJA",ZADRUGA 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1510
+#EXTINF:-1 tvg-id="htv1" tvg-name="ZADRUGA 3" tvg-logo="http://144.76.182.124/exyulogo/zadruga.png" group-title="SRBIJA",ZADRUGA 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1511
+#EXTINF:-1 tvg-id="htv1" tvg-name="ZADRUGA 4" tvg-logo="http://144.76.182.124/exyulogo/zadruga.png" group-title="SRBIJA",ZADRUGA 4
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/5273
+#EXTINF:-1 tvg-id="htv1" tvg-name="PAROVI" tvg-logo="http://144.76.182.124/exyulogo/happyparovi.png" group-title="SRBIJA",PAROVI
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/536
+#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV" tvg-logo="http://144.76.182.124/exyulogo/idjtv.png" group-title="SRBIJA",IDJ TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/609
+#EXTINF:-1 tvg-id="toxic-tv" tvg-name="TOXIC TV" tvg-logo="http://144.76.182.124/exyulogo/toxic.png" group-title="SRBIJA",TOXIC TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3663
+#EXTINF:-1 tvg-id="mtv-uk" tvg-name="MTV" tvg-logo="http://144.76.182.124/exyulogo/mtv.jpg" group-title="SRBIJA",MTV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/161
+#EXTINF:-1 tvg-id="mtv-hits-international" tvg-name="MTV HITS" tvg-logo="http://144.76.182.124/exyulogo/mtvhits.png" group-title="SRBIJA",MTV HITS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3681
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-logo="http://144.76.182.124/exyulogo/rtl.png" group-title="HRVATSKA",RTL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/71
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://144.76.182.124/exyulogo/rtl2.png" group-title="HRVATSKA",RTL 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/72
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL ADRIA" tvg-logo="http://144.76.182.124/exyulogo/rtladria.png" group-title="HRVATSKA",RTL ADRIA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1921
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-logo="http://144.76.182.124/exyulogo/rtlcrime.png" group-title="HRVATSKA",RTL CRIME
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1528
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING" tvg-logo="http://144.76.182.124/exyulogo/living.png" group-title="HRVATSKA",RTL LIVING
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/469
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION" tvg-logo="http://144.76.182.124/exyulogo/passion.png" group-title="HRVATSKA",RTL PASSION
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/905
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV" tvg-logo="http://144.76.182.124/exyulogo/doma.png" group-title="HRVATSKA",DOMA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/70
+#EXTINF:-1 tvg-id="o-kanal" tvg-name="O KANAL" tvg-logo="http://144.76.182.124/exyulogo/okanal.png" group-title="BOSNA I HERCEGOVINA",O KANAL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/268
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT" tvg-logo="http://144.76.182.124/exyulogo/hayat.png" group-title="BOSNA I HERCEGOVINA",HAYAT
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/61
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="HAYAT PLUS" tvg-logo="http://144.76.182.124/exyulogo/hayatplus.png" group-title="BOSNA I HERCEGOVINA",HAYAT PLUS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/60
+#EXTINF:-1 tvg-id="minitv" tvg-name="MINI TV" tvg-logo="http://144.76.182.124/exyulogo/mini.png" group-title="DECIJI",MINI TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/160
+#EXTINF:-1 tvg-id="babytv" tvg-name="BABY TV" tvg-logo="http://144.76.182.124/exyulogo/babytv.png" group-title="DECIJI",BABY TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/267
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR." tvg-logo="http://144.76.182.124/exyulogo/nickjr.png" group-title="DECIJI",NICK JR.
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/587
+#EXTINF:-1 tvg-id="nickelodeon-rs" tvg-name="NICKELODEON" tvg-logo="http://144.76.182.124/exyulogo/nickelodeon.png" group-title="DECIJI",NICKELODEON
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/169
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="HAYATOVCI" tvg-logo="http://144.76.182.124/exyulogo/hayatovci.png" group-title="DECIJI",HAYATOVCI
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/596
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24KITCHEN" tvg-logo="http://144.76.182.124/exyulogo/24kitchen.png" group-title="SRBIJA",24KITCHEN
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/77
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL KOCKICA" tvg-logo="http://144.76.182.124/exyulogo/rtlkockica.png" group-title="DECIJI",RTL KOCKICA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/599
+#EXTINF:-1 tvg-id="htv1" tvg-name="MASA I MEDVED" tvg-logo="http://144.76.182.124/exyulogo/masa.png" group-title="DECIJI",MASA I MEDVED
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/903
+#EXTINF:-1 tvg-id="" tvg-name="PEPA PRASE" tvg-logo="http://serv.mediaking.fi:8080/images/281ffbf5eb2a3916b9c1eb8f28637836.jpeg" group-title="DECIJI",PEPA PRASE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1497
+#EXTINF:-1 tvg-id="pikaboo" tvg-name="PIKABOO" tvg-logo="http://144.76.182.124/exyulogo/pikaboo.png" group-title="DECIJI",PIKABOO
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/600
+#EXTINF:-1 tvg-id="minimax" tvg-name="MINIMAX" tvg-logo="http://144.76.182.124/exyulogo/minimax.jpg" group-title="DECIJI",MINIMAX
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/586
+#EXTINF:-1 tvg-id="htv1" tvg-name="IDJ KIDS" tvg-logo="http://144.76.182.124/exyulogo/idjkids.jpeg" group-title="DECIJI",IDJ KIDS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1890
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="DA VINCI KIDS" tvg-logo="http://144.76.182.124/exyulogo/davinci.png" group-title="DECIJI",DA VINCI KIDS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3665
+#EXTINF:-1 tvg-id="ftv" tvg-name="FEDERALNA TV" tvg-logo="http://144.76.182.124/exyulogo/ftv.png" group-title="BOSNA I HERCEGOVINA",FEDERALNA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/57
+#EXTINF:-1 tvg-id="televizija-alfa" tvg-name="ALFA TV" tvg-logo="http://144.76.182.124/exyulogo/alfabih.png" group-title="BOSNA I HERCEGOVINA",ALFA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/284
+#EXTINF:-1 tvg-id="face-tv" tvg-name="FACE TV" tvg-logo="http://144.76.182.124/exyulogo/face.png" group-title="BOSNA I HERCEGOVINA",FACE TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/59
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="PLAVA VINKOVACKA" tvg-logo="http://144.76.182.124/exyulogo/vinkovacka.jpg" group-title="HRVATSKA",PLAVA VINKOVACKA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/299
+#EXTINF:-1 tvg-id="jabukatv" tvg-name="OTV" tvg-logo="http://144.76.182.124/exyulogo/otv.png" group-title="HRVATSKA",OTV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2892
+#EXTINF:-1 tvg-id="ostv" tvg-name="OSJECKA" tvg-logo="http://144.76.182.124/exyulogo/osjecka.png" group-title="HRVATSKA",OSJECKA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/607
+#EXTINF:-1 tvg-id="tv-sarajevo" tvg-name="TV SARAJEVO" tvg-logo="http://144.76.182.124/exyulogo/tvsarajevo.png" group-title="BOSNA I HERCEGOVINA",TV SARAJEVO
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/616
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="AL JAZEERA" tvg-logo="http://144.76.182.124/exyulogo/aljazeera.png" group-title="BOSNA I HERCEGOVINA",AL JAZEERA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/56
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://144.76.182.124/exyulogo/z1.png" group-title="HRVATSKA",Z1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2721
+#EXTINF:-1 tvg-id="ntv-ic" tvg-name="NTV IC KAKANJ" tvg-logo="http://144.76.182.124/exyulogo/kakanj.png" group-title="BOSNA I HERCEGOVINA",NTV IC KAKANJ
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2888
+#EXTINF:-1 tvg-id="htv1" tvg-name="POSAVINA TV" tvg-logo="http://144.76.182.124/exyulogo/posavina.jpg" group-title="HRVATSKA",POSAVINA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/608
+#EXTINF:-1 tvg-id="htv1" tvg-name="MOJA TV" tvg-logo="http://144.76.182.124/exyulogo/mojatvsport.png" group-title="BOSNA I HERCEGOVINA",MOJA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2720
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="ARENA PREMIUM 1" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" group-title="SPORTSKI",ARENA PREMIUM 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/4095
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ARENA PREMIUM 2" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" group-title="SPORTSKI",ARENA PREMIUM 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/4096
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="ARENA PREMIUM 3" tvg-logo="http://144.76.182.124/exyulogo/arenap3.png" group-title="SPORTSKI",ARENA PREMIUM 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/4097
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ARENA SPORT 1" tvg-logo="http://144.76.182.124/exyulogo/arena1.png" group-title="SPORTSKI",ARENA SPORT 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/10
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 2" tvg-logo="http://144.76.182.124/exyulogo/arena2.png" group-title="SPORTSKI",ARENA SPORT 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/9
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ARENA SPORT 3" tvg-logo="http://144.76.182.124/exyulogo/arena3.png" group-title="SPORTSKI",ARENA SPORT 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/8
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ARENA SPORT 4" tvg-logo="http://144.76.182.124/exyulogo/arena4.png" group-title="SPORTSKI",ARENA SPORT 4
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/7
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ARENA SPORT 5" tvg-logo="http://144.76.182.124/exyulogo/arena5.png" group-title="SPORTSKI",ARENA SPORT 5
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/6
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ARENA SPORT 1 HR" tvg-logo="http://144.76.182.124/exyulogo/arena1.png" group-title="SPORTSKI",ARENA SPORT 1 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/11
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ARENA SPORT 2 HR" tvg-logo="http://144.76.182.124/exyulogo/arena2.png" group-title="SPORTSKI",ARENA SPORT 2 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/522
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ARENA SPORT 3 HR" tvg-logo="http://144.76.182.124/exyulogo/arena3.png" group-title="SPORTSKI",ARENA SPORT 3 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/523
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ARENA SPORT 4 HR" tvg-logo="http://144.76.182.124/exyulogo/arena4.png" group-title="SPORTSKI",ARENA SPORT 4 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/524
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="ARENA SPORT 5 HR" tvg-logo="http://144.76.182.124/exyulogo/arena5.png" group-title="SPORTSKI",ARENA SPORT 5 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/525
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="ARENA SPORT 6 HR" tvg-logo="http://144.76.182.124/exyulogo/arena6.png" group-title="SPORTSKI",ARENA SPORT 6 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2940
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="ARENA SPORT 7 HR" tvg-logo="http://144.76.182.124/exyulogo/arena7.png" group-title="SPORTSKI",ARENA SPORT 7 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3773
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="ARENA SPORT 8 HR" tvg-logo="http://144.76.182.124/exyulogo/arena8.png" group-title="SPORTSKI",ARENA SPORT 8 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3774
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="ARENA SPORT 9 HR" tvg-logo="http://144.76.182.124/exyulogo/arena9.png" group-title="SPORTSKI",ARENA SPORT 9 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3775
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="ARENA SPORT 10 HR" tvg-logo="http://144.76.182.124/exyulogo/arena10.png" group-title="SPORTSKI",ARENA SPORT 10 HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3776
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="ARENA SPORT 1 BH" tvg-logo="http://144.76.182.124/exyulogo/arena1.png" group-title="SPORTSKI",ARENA SPORT 1 BH
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3694
+#EXTINF:-1 tvg-id="arena-fight" tvg-name="ARENA SPORT FIGHT" tvg-logo="http://144.76.182.124/exyulogo/arenafight.png" group-title="SPORTSKI",ARENA SPORT FIGHT
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3899
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="SPORT KLUB HD" tvg-logo="http://144.76.182.124/exyulogo/skhd.png" group-title="SPORTSKI",SPORT KLUB HD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1459
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="SPORT KLUB 1" tvg-logo="http://144.76.182.124/exyulogo/sk1n.jpeg" group-title="SPORTSKI",SPORT KLUB 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SPORT KLUB 2" tvg-logo="http://144.76.182.124/exyulogo/sk2.png" group-title="SPORTSKI",SPORT KLUB 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/13
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SPORT KLUB 3" tvg-logo="http://144.76.182.124/exyulogo/sk3.png" group-title="SPORTSKI",SPORT KLUB 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/12
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="SPORT KLUB 4" tvg-logo="http://144.76.182.124/exyulogo/sk4.png" group-title="SPORTSKI",SPORT KLUB 4
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/142
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="SPORT KLUB 5" tvg-logo="http://144.76.182.124/exyulogo/sk5.png" group-title="SPORTSKI",SPORT KLUB 5
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/143
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="SPORT KLUB 6" tvg-logo="http://144.76.182.124/exyulogo/sk6.png" group-title="SPORTSKI",SPORT KLUB 6
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/144
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="SPORT KLUB 7" tvg-logo="http://144.76.182.124/exyulogo/sk7.png" group-title="SPORTSKI",SPORT KLUB 7
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2101
+#EXTINF:-1 tvg-id="golf-klub" tvg-name="SPORT KLUB GOLF" tvg-logo="http://144.76.182.124/exyulogo/golf.png" group-title="SPORTSKI",SPORT KLUB GOLF
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/5202
+#EXTINF:-1 tvg-id="eurosport" tvg-name="EUROSPORT 1" tvg-logo="http://144.76.182.124/exyulogo/eurosport1.png" group-title="SPORTSKI",EUROSPORT 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/4
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="http://144.76.182.124/exyulogo/eurosport2.png" group-title="SPORTSKI",EUROSPORT 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/5
+#EXTINF:-1 tvg-id="htv1" tvg-name="MAX SPORT 1" tvg-logo="http://144.76.182.124/exyulogo/maxsport1.png" group-title="SPORTSKI",MAX SPORT 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14218
+#EXTINF:-1 tvg-id="htv1" tvg-name="MAX SPORT 2" tvg-logo="http://144.76.182.124/exyulogo/maxsport2.png" group-title="SPORTSKI",MAX SPORT 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14219
+#EXTINF:-1 tvg-id="nova-sport-rs" tvg-name="NOVA SPORT" tvg-logo="http://144.76.182.124/exyulogo/nsport.png" group-title="SPORTSKI",NOVA SPORT
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1513
+#EXTINF:-1 tvg-id="fight-network" tvg-name="FIGHT NETWORK" tvg-logo="http://144.76.182.124/exyulogo/fightchannel.png" group-title="SPORTSKI",FIGHT NETWORK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3
+#EXTINF:-1 tvg-id="htv1" tvg-name="ZVEZDA TV" tvg-logo="http://144.76.182.124/exyulogo/zvezda.png" group-title="SPORTSKI",ZVEZDA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3471
+#EXTINF:-1 tvg-id="htv1" tvg-name="PARTIZAN TV" tvg-logo="http://144.76.182.124/exyulogo/partizan.png" group-title="SPORTSKI",PARTIZAN TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3472
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="GRAND" tvg-logo="http://144.76.182.124/exyulogo/grand.png" group-title="SRBIJA",GRAND
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/46
+#EXTINF:-1 tvg-id="htv1" tvg-name="GRAND 2" tvg-logo="http://144.76.182.124/exyulogo/grand2.png" group-title="SRBIJA",GRAND 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/401
+#EXTINF:-1 tvg-id="dmsat" tvg-name="DM SAT" tvg-logo="http://144.76.182.124/exyulogo/dmsat.png" group-title="SRBIJA",DM SAT
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/37
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="HAYAT FOLK" tvg-logo="http://144.76.182.124/exyulogo/hayatfolk.png" group-title="BOSNA I HERCEGOVINA",HAYAT FOLK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/35
+#EXTINF:-1 tvg-id="hayat-music" tvg-name="HAYAT MUSIC" tvg-logo="http://144.76.182.124/exyulogo/hayatmusic.png" group-title="BOSNA I HERCEGOVINA",HAYAT MUSIC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/615
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN MUSIC" tvg-logo="http://144.76.182.124/exyulogo/bnmusic.jpg" group-title="BOSNA I HERCEGOVINA",BN MUSIC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/40
+#EXTINF:-1 tvg-id="pink-action" tvg-name="PINK ACTION" tvg-logo="http://144.76.182.124/exyulogo/pinkaction.png" group-title="PINK PAKET",PINK ACTION
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/86
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="PINK BH" tvg-logo="http://144.76.182.124/exyulogo/pinkbh.png" group-title="PINK PAKET",PINK BH
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1514
+#EXTINF:-1 tvg-id="pink-classic" tvg-name="PINK CLASSIC" tvg-logo="http://144.76.182.124/exyulogo/pinkc.png" group-title="PINK PAKET",PINK CLASSIC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1515
+#EXTINF:-1 tvg-id="pink-comedy" tvg-name="PINK COMEDY" tvg-logo="http://144.76.182.124/exyulogo/pinkcomedy.png" group-title="PINK PAKET",PINK COMEDY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/93
+#EXTINF:-1 tvg-id="pink-action-3" tvg-name="PINK CRIME & MYSTERY" tvg-logo="http://144.76.182.124/exyulogo/pinkcrime&mistery.png" group-title="PINK PAKET",PINK CRIME & MYSTERY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/584
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="PINK EXTRA" tvg-logo="http://144.76.182.124/exyulogo/pinkextra.png" group-title="PINK PAKET",PINK EXTRA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/101
+#EXTINF:-1 tvg-id="pink-family" tvg-name="PINK FAMILY" tvg-logo="http://144.76.182.124/exyulogo/pinkfamily.png" group-title="PINK PAKET",PINK FAMILY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1516
+#EXTINF:-1 tvg-id="pink-film" tvg-name="PINK FILM" tvg-logo="http://144.76.182.124/exyulogo/pinkfilm.png" group-title="PINK PAKET",PINK FILM
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/100
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="PINK FOLK 1" tvg-logo="http://144.76.182.124/exyulogo/pinkfolk.png" group-title="PINK PAKET",PINK FOLK 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2754
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="PINK FOLK 2" tvg-logo="http://144.76.182.124/exyulogo/pinkfolk2.png" group-title="PINK PAKET",PINK FOLK 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/36
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="PINK HA HA" tvg-logo="http://144.76.182.124/exyulogo/pinkhaha.png" group-title="PINK PAKET",PINK HA HA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/583
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="PINK HITS" tvg-logo="http://144.76.182.124/exyulogo/hits.png" group-title="PINK PAKET",PINK HITS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2753
+#EXTINF:-1 tvg-id="pink-hits-2" tvg-name="PINK HITS 2" tvg-logo="http://144.76.182.124/exyulogo/hits2.jpeg" group-title="PINK PAKET",PINK HITS 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1506
+#EXTINF:-1 tvg-id="pink-horror" tvg-name="PINK HORROR" tvg-logo="http://144.76.182.124/exyulogo/pinkhorror.png" group-title="PINK PAKET",PINK HORROR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/90
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="PINK KIDS" tvg-logo="http://144.76.182.124/exyulogo/pinkkids.png" group-title="PINK PAKET",PINK KIDS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/87
+#EXTINF:-1 tvg-id="pink-koncert" tvg-name="PINK KONCERT" tvg-logo="http://144.76.182.124/exyulogo/Pinkkoncert.png" group-title="PINK PAKET",PINK KONCERT
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/208
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="PINK KUVAR" tvg-logo="http://144.76.182.124/exyulogo/pinkkuvar.png" group-title="PINK PAKET",PINK KUVAR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/271
+#EXTINF:-1 tvg-id="pink-lol" tvg-name="PINK LOL" tvg-logo="http://144.76.182.124/exyulogo/pinklol.png" group-title="PINK PAKET",PINK LOL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/582
+#EXTINF:-1 tvg-id="pink-m" tvg-name="PINK M" tvg-logo="http://144.76.182.124/exyulogo/pinkm.png" group-title="PINK PAKET",PINK M
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/626
+#EXTINF:-1 tvg-id="pink-movies" tvg-name="PINK MOVIES" tvg-logo="http://144.76.182.124/exyulogo/pinkmovies.png" group-title="PINK PAKET",PINK MOVIES
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/97
+#EXTINF:-1 tvg-id="pink-music" tvg-name="PINK MUSIC" tvg-logo="http://144.76.182.124/exyulogo/pinkmusic.png" group-title="PINK PAKET",PINK MUSIC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/45
+#EXTINF:-1 tvg-id="pink-music-2" tvg-name="PINK MUSIC 2" tvg-logo="http://144.76.182.124/exyulogo/pinkmusic2.png" group-title="PINK PAKET",PINK MUSIC 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/166
+#EXTINF:-1 tvg-id="pink-pedia" tvg-name="PINK PEDIA" tvg-logo="http://144.76.182.124/exyulogo/pinkpedia.jpg" group-title="PINK PAKET",PINK PEDIA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/88
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="PINK PLUS" tvg-logo="http://144.76.182.124/exyulogo/pinkplus.png" group-title="PINK PAKET",PINK PLUS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/99
+#EXTINF:-1 tvg-id="pink-premium" tvg-name="PINK PREMIUM" tvg-logo="http://144.76.182.124/exyulogo/pinkpremium.png" group-title="PINK PAKET",PINK PREMIUM
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/98
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="PINK REALITY" tvg-logo="http://144.76.182.124/exyulogo/pinkreality.png" group-title="PINK PAKET",PINK REALITY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/94
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="PINK ROMANCE" tvg-logo="http://144.76.182.124/exyulogo/romance.png" group-title="PINK PAKET",PINK ROMANCE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1505
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="http://144.76.182.124/exyulogo/pinkscifi.png" group-title="PINK PAKET",PINK SCI-FI & FANTASY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/580
+#EXTINF:-1 tvg-id="pink-serije" tvg-name="PINK SERIJE" tvg-logo="http://144.76.182.124/exyulogo/pinkserije.png" group-title="PINK PAKET",PINK SERIJE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/96
+#EXTINF:-1 tvg-id="pink-show" tvg-name="PINK SHOW" tvg-logo="http://144.76.182.124/exyulogo/pinkshow.png" group-title="PINK PAKET",PINK SHOW
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/633
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="PINK SOAP" tvg-logo="http://144.76.182.124/exyulogo/pinksoap.png" group-title="PINK PAKET",PINK SOAP
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/91
+#EXTINF:-1 tvg-id="pink-style" tvg-name="PINK STYLE" tvg-logo="http://144.76.182.124/exyulogo/pinkstyle.png" group-title="PINK PAKET",PINK STYLE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1920
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="PINK SUPER KIDS" tvg-logo="http://144.76.182.124/exyulogo/pinksuperkids.png" group-title="PINK PAKET",PINK SUPER KIDS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/585
+#EXTINF:-1 tvg-id="pink-action-2" tvg-name="PINK THRILLER" tvg-logo="http://144.76.182.124/exyulogo/pinkthriller.png" group-title="PINK PAKET",PINK THRILLER
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/95
+#EXTINF:-1 tvg-id="pink-western" tvg-name="PINK WESTERN" tvg-logo="http://144.76.182.124/exyulogo/pinkwestern.png" group-title="PINK PAKET",PINK WESTERN
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/89
+#EXTINF:-1 tvg-id="pink-world" tvg-name="PINK WORLD" tvg-logo="http://144.76.182.124/exyulogo/world.jpg" group-title="PINK PAKET",PINK WORLD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/581
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="PINK WORLD CINEMA" tvg-logo="http://144.76.182.124/exyulogo/worldcinema.jpg" group-title="PINK PAKET",PINK WORLD CINEMA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14217
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="PINK ZABAVA" tvg-logo="http://144.76.182.124/exyulogo/pinkzabava.png" group-title="PINK PAKET",PINK ZABAVA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/92
+#EXTINF:-1 tvg-id="novi-pazar" tvg-name="NOVI PAZAR" tvg-logo="http://144.76.182.124/exyulogo/npazar.png" group-title="SRBIJA",NOVI PAZAR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/291
+#EXTINF:-1 tvg-id="kopernikus" tvg-name="KCN 1" tvg-logo="http://144.76.182.124/exyulogo/kcn1.png" group-title="SRBIJA",KCN 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/279
+#EXTINF:-1 tvg-id="htv1" tvg-name="KCN 2" tvg-logo="http://144.76.182.124/exyulogo/kcn2.png" group-title="SRBIJA",KCN 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/280
+#EXTINF:-1 tvg-id="belle-amie" tvg-name="RTV BELLE AMIE" tvg-logo="http://144.76.182.124/exyulogo/belle.png" group-title="SRBIJA",RTV BELLE AMIE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3680
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://144.76.182.124/exyulogo/amc.png" group-title="FILMSKI",AMC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/260
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/disney.png" group-title="DECIJI",DISNEY CHANNEL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1889
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="http://144.76.182.124/exyulogo/hbohd.png" group-title="FILMSKI",HBO
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/81
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2" tvg-logo="http://144.76.182.124/exyulogo/hbo2.png" group-title="FILMSKI",HBO 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/273
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3" tvg-logo="http://144.76.182.124/exyulogo/hbo3.png" group-title="FILMSKI",HBO 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/274
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="http://144.76.182.124/exyulogo/fox.png" group-title="FILMSKI",FOX
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/148
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX CRIME" tvg-logo="http://144.76.182.124/exyulogo/foxcrime.png" group-title="FILMSKI",FOX CRIME
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/210
+#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX LIFE" tvg-logo="http://144.76.182.124/exyulogo/foxlife.png" group-title="FILMSKI",FOX LIFE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/147
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="FOX MOVIES" tvg-logo="http://144.76.182.124/exyulogo/Fox_movies.png" group-title="FILMSKI",FOX MOVIES
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/277
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PICKBOX" tvg-logo="http://144.76.182.124/exyulogo/pickbox.png" group-title="FILMSKI",PICKBOX
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14158
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="http://144.76.182.124/exyulogo/cinemax.png" group-title="FILMSKI",CINEMAX
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/275
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2" tvg-logo="http://144.76.182.124/exyulogo/cinemax2.png" group-title="FILMSKI",CINEMAX 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/276
+#EXTINF:-1 tvg-id="cinestar-tv-rs" tvg-name="CINESTAR TV 1" tvg-logo="http://144.76.182.124/exyulogo/cinestartv1.png" group-title="FILMSKI",CINESTAR TV 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2935
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="CINESTAR TV 2" tvg-logo="http://144.76.182.124/exyulogo/cinestartv2.png" group-title="FILMSKI",CINESTAR TV 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2936
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CINESTAR TV PREMIERE 1" tvg-logo="http://144.76.182.124/exyulogo/CINESTAR1.png" group-title="FILMSKI",CINESTAR TV PREMIERE 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/370
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CINESTAR TV PREMIERE 2" tvg-logo="http://144.76.182.124/exyulogo/cinestar2.png" group-title="FILMSKI",CINESTAR TV PREMIERE 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/371
+#EXTINF:-1 tvg-id="cinestar-action-thriller-rs" tvg-name="CINESTAR TV ACTION" tvg-logo="http://144.76.182.124/exyulogo/cinestaraction.png" group-title="FILMSKI",CINESTAR TV ACTION
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/713
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CINESTAR TV FANTASY" tvg-logo="http://144.76.182.124/exyulogo/cinestarfantasy.png" group-title="FILMSKI",CINESTAR TV FANTASY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2937
+#EXTINF:-1 tvg-id="cinemania" tvg-name="CINEMANIA" tvg-logo="http://144.76.182.124/exyulogo/cinemania.png" group-title="FILMSKI",CINEMANIA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/82
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA" tvg-logo="http://144.76.182.124/exyulogo/diva.png" group-title="FILMSKI",DIVA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3679
+#EXTINF:-1 tvg-id="htv1" tvg-name="MAX CRO SELECT 1" tvg-logo="http://144.76.182.124/exyulogo/cromax.png" group-title="FILMSKI",MAX CRO SELECT 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3482
+#EXTINF:-1 tvg-id="htv1" tvg-name="MAX CRO SELECT 2" tvg-logo="http://144.76.182.124/exyulogo/cromax.png" group-title="FILMSKI",MAX CRO SELECT 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3483
+#EXTINF:-1 tvg-id="htv1" tvg-name="MAX CRO SELECT 3" tvg-logo="http://144.76.182.124/exyulogo/cromax.png" group-title="FILMSKI",MAX CRO SELECT 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3484
+#EXTINF:-1 tvg-id="htv1" tvg-name="MAX CRO SELECT 4" tvg-logo="http://144.76.182.124/exyulogo/cromax.png" group-title="FILMSKI",MAX CRO SELECT 4
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3485
+#EXTINF:-1 tvg-id="htv1" tvg-name="MAX CRO SELECT 5" tvg-logo="http://144.76.182.124/exyulogo/cromax.png" group-title="FILMSKI",MAX CRO SELECT 5
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/3486
+#EXTINF:-1 tvg-id="kinotv" tvg-name="KINO TV" tvg-logo="http://144.76.182.124/exyulogo/kino.png" group-title="FILMSKI",KINO TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1496
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://144.76.182.124/exyulogo/klasik.png" group-title="FILMSKI",KLASIK TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/69
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="ANIMAL PLANET" tvg-logo="http://144.76.182.124/exyulogo/animalplanet.png" group-title="DOKUMENTARNI",ANIMAL PLANET
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/149
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-logo="http://144.76.182.124/exyulogo/bbcearth.png" group-title="DOKUMENTARNI",BBC EARTH
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1888
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://144.76.182.124/exyulogo/cia.png" group-title="DOKUMENTARNI",CRIME & INVESTIGATION
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/269
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/discovery.png" group-title="DOKUMENTARNI",DISCOVERY CHANNEL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/78
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://144.76.182.124/exyulogo/discoverysci.png" group-title="DOKUMENTARNI",DISCOVERY SCIENCE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1886
+#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY" tvg-logo="http://144.76.182.124/exyulogo/history.jpg" group-title="DOKUMENTARNI",HISTORY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/203
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="HISTORY 2" tvg-logo="http://144.76.182.124/exyulogo/history2.png" group-title="DOKUMENTARNI",HISTORY 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/589
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="LOV I RIBOLOV" tvg-logo="http://144.76.182.124/exyulogo/loviribolov.png" group-title="DOKUMENTARNI",LOV I RIBOLOV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/68
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/natgeo.png" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC CHANNEL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/79
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="NAT GEO WILD" tvg-logo="http://144.76.182.124/exyulogo/natgeowild.png" group-title="DOKUMENTARNI",NAT GEO WILD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/588
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="VIASAT EXPLORE" tvg-logo="http://144.76.182.124/exyulogo/explorer-viasat.png" group-title="DOKUMENTARNI",VIASAT EXPLORE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/301
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY" tvg-logo="http://144.76.182.124/exyulogo/Viasat_History.png" group-title="DOKUMENTARNI",VIASAT HISTORY
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/302
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE" tvg-logo="http://144.76.182.124/exyulogo/Viasat_Nature.png" group-title="DOKUMENTARNI",VIASAT NATURE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/303
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="TRAVEL CHANNEL" tvg-logo="http://144.76.182.124/exyulogo/travel.png" group-title="DOKUMENTARNI",TRAVEL CHANNEL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/159
+#EXTINF:-1 tvg-id="dox-tv" tvg-name="DOX TV" tvg-logo="http://144.76.182.124/exyulogo/dox.png" group-title="DOKUMENTARNI",DOX TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14157
+#EXTINF:-1 tvg-id="tlc-uk" tvg-name="TLC" tvg-logo="http://144.76.182.124/exyulogo/tlc.png" group-title="DOKUMENTARNI",TLC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/157
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E!" tvg-logo="http://144.76.182.124/exyulogo/e!.jpg" group-title="DOKUMENTARNI",E!
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/611
+#EXTINF:-1 tvg-id="studio-b-yu" tvg-name="STUDIO B" tvg-logo="http://144.76.182.124/exyulogo/studiob.png" group-title="SRBIJA",STUDIO B
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/83
+#EXTINF:-1 tvg-id="mrt1" tvg-name="MRT 1" tvg-logo="http://144.76.182.124/exyulogo/mrt1.png" group-title="MAKEDONIJA",MRT 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/48
+#EXTINF:-1 tvg-id="mrt2" tvg-name="MRT 2" tvg-logo="http://144.76.182.124/exyulogo/mrt2.jpg" group-title="MAKEDONIJA",MRT 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/602
+#EXTINF:-1 tvg-id="mrt-3-mk" tvg-name="MRT 3" tvg-logo="http://144.76.182.124/exyulogo/mrt3.png" group-title="MAKEDONIJA",MRT 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/614
+#EXTINF:-1 tvg-id="kanal5" tvg-name="KANAL 5" tvg-logo="http://144.76.182.124/exyulogo/kanal5mk.png" group-title="MAKEDONIJA",KANAL 5
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/53
+#EXTINF:-1 tvg-id="telma" tvg-name="TELMA" tvg-logo="http://144.76.182.124/exyulogo/telma.png" group-title="MAKEDONIJA",TELMA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/52
+#EXTINF:-1 tvg-id="alfa-tv" tvg-name="ALFA TV MK" tvg-logo="http://144.76.182.124/exyulogo/alfam.png" group-title="MAKEDONIJA",ALFA TV MK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/51
+#EXTINF:-1 tvg-id="htv1" tvg-name="KUMANOVO TV" tvg-logo="http://144.76.182.124/exyulogo/kumanovo.jpg" group-title="MAKEDONIJA",KUMANOVO TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/605
+#EXTINF:-1 tvg-id="sitel" tvg-name="SITEL" tvg-logo="http://144.76.182.124/exyulogo/sitel.png" group-title="MAKEDONIJA",SITEL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/54
+#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1" tvg-logo="http://144.76.182.124/exyulogo/rtcg1.jpg" group-title="CRNA GORA",RTCG 1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/627
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-logo="http://144.76.182.124/exyulogo/rtcg2.png" group-title="CRNA GORA",RTCG 2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/606
+#EXTINF:-1 tvg-id="tvcg-sat" tvg-name="RTCG SAT" tvg-logo="http://144.76.182.124/exyulogo/rtcg.png" group-title="CRNA GORA",RTCG SAT
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/84
+#EXTINF:-1 tvg-id="prva-tv-cg" tvg-name="PRVA M" tvg-logo="http://144.76.182.124/exyulogo/prvatvmontenegro.jpg" group-title="CRNA GORA",PRVA M
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/610
+#EXTINF:-1 tvg-id="nova-m" tvg-name="NOVA M" tvg-logo="http://144.76.182.124/exyulogo/novam.png" group-title="CRNA GORA",NOVA M
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1870
+#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="TV VIJESTI" tvg-logo="http://144.76.182.124/exyulogo/tvvijesti.jpeg" group-title="CRNA GORA",TV VIJESTI
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1508
+#EXTINF:-1 tvg-id="htv1" tvg-name="PALMA PLUS" tvg-logo="http://144.76.182.124/exyulogo/palma_plus.png" group-title="SRBIJA",PALMA PLUS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/80
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="http://144.76.182.124/exyulogo/atv.png" group-title="BOSNA I HERCEGOVINA",ATV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/62
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV VALENTINO" tvg-logo="http://144.76.182.124/exyulogo/otvvalentino.png" group-title="BOSNA I HERCEGOVINA",OTV VALENTINO
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/146
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="TV DUGA PLUS" tvg-logo="http://144.76.182.124/exyulogo/duga.png" group-title="SRBIJA",TV DUGA PLUS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/34
+#EXTINF:-1 tvg-id="balkanika" tvg-name="BALKANIKA" tvg-logo="http://144.76.182.124/exyulogo/balkanika.png" group-title="SRBIJA",BALKANIKA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/44
+#EXTINF:-1 tvg-id="htv1" tvg-name="YU PLANET" tvg-logo="http://144.76.182.124/exyulogo/yuplanet.png" group-title="SRBIJA",YU PLANET
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/43
+#EXTINF:-1 tvg-id="mtv-igman" tvg-name="MTV IGMAN" tvg-logo="http://144.76.182.124/exyulogo/igmantv.png" group-title="BOSNA I HERCEGOVINA",MTV IGMAN
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/528
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="IZVORNA TV" tvg-logo="http://144.76.182.124/exyulogo/izvorna.png" group-title="BOSNA I HERCEGOVINA",IZVORNA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/624
+#EXTINF:-1 tvg-id="htv1" tvg-name="GLAS DRINE" tvg-logo="http://144.76.182.124/exyulogo/gd.jpeg" group-title="BOSNA I HERCEGOVINA",GLAS DRINE
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/622
+#EXTINF:-1 tvg-id="tv-hram" tvg-name="TV HRAM" tvg-logo="http://144.76.182.124/exyulogo/hram.png" group-title="SRBIJA",TV HRAM
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1412
+#EXTINF:-1 tvg-id="htv1" tvg-name="HERC" tvg-logo="http://144.76.182.124/exyulogo/herc.jpeg" group-title="SRBIJA",HERC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1507
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC MUSIC" tvg-logo="http://144.76.182.124/exyulogo/cmc.png" group-title="HRVATSKA",CMC MUSIC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1527
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LAUDATO TV" tvg-logo="http://144.76.182.124/exyulogo/laudato.jpeg" group-title="HRVATSKA",LAUDATO TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1531
+#EXTINF:-1 tvg-id="rtv-ze" tvg-name="RTV ZENICA" tvg-logo="http://144.76.182.124/exyulogo/zenica.png" group-title="BOSNA I HERCEGOVINA",RTV ZENICA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1946
+#EXTINF:-1 tvg-id="htv1" tvg-name="SANDZAK TV" tvg-logo="http://144.76.182.124/exyulogo/sandzak.jpeg" group-title="SRBIJA",SANDZAK TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2088
+#EXTINF:-1 tvg-id="sevdah-tv" tvg-name="SEVDAH TV" tvg-logo="http://144.76.182.124/exyulogo/sevdah.png" group-title="BOSNA I HERCEGOVINA",SEVDAH TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/4185
+#EXTINF:-1 tvg-id="una-tv" tvg-name="UNA TV" tvg-logo="http://144.76.182.124/exyulogo/una.png" group-title="BOSNA I HERCEGOVINA",UNA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/4395
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/RTS1.png" group-title="KANALI U SD KVALITETU",RTS 1 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2544
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK - SD" tvg-logo="http://144.76.182.124/exyulogo/pink.png" group-title="KANALI U SD KVALITETU",PINK - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2547
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA - SD" tvg-logo="http://144.76.182.124/exyulogo/prva.png" group-title="KANALI U SD KVALITETU",PRVA - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2551
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA HR - SD" tvg-logo="http://144.76.182.124/exyulogo/nova.png" group-title="KANALI U SD KVALITETU",NOVA HR - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/2545
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 - SD" tvg-logo="http://144.76.182.124/exyulogo/RTS2.png" group-title="KANALI U SD KVALITETU",RTS 2 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/1407
+#EXTINF:-1 tvg-id="htv1" tvg-name="B92 - SD" tvg-logo="http://144.76.182.124/exyulogo/b92.png" group-title="KANALI U SD KVALITETU",B92 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14452
+#EXTINF:-1 tvg-id="blictv" tvg-name="BLIC TV" tvg-logo="https://i.ibb.co/zS38DMD/blic-tv-yt-scrn-e1654072215431.jpg" group-title="SRBIJA",BLIC TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15583
+#EXTINF:-1 tvg-id="" tvg-name="INSTA TV" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAA+VBMVEX////qFW/dHXrBL5LjGXXXIX/HK43lGHO/MJTbHnzVIoHMKInPJoa6M5jkGXTELZDJKovZoMi2JpXgG3fqA2vTI4PoFnHOJ4f77vXvW467JZLKb7HbAGz89PrbkMa8MpbLZqvzjrLyp8jsvNvahsDSVKTVC3rsmsW6AIrBAIPJAH3nAGH0udPqg7XAAIXFAIDOAHjbcLDmaqa1C4/14vDYWaLyf6/3x972z+PwZZ7HV6ncV5753OnZS5rfTJTpaKTpAFvtSIS/QJznh7vfPY3PR53pOojqSo/RYaz63+nnrtPzk7TpVJLkjLjhncvUcq7rfajtnb7jdKqiJkL9AAAGAUlEQVR4nO2cDVfiRhSGo4Cs6aqtgZgqsYoQ1CUWaIS4RGhdBKEiK///x3QmmZkESFDU6uye9zkHNR8k8fFO5s7koqIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACl4+GuG0zguZjnj/DnD+Qy1GKwI6wLNp5CETlgLyHG+xPD3P/+/rN92t3z+CPnESKXoK2AnZEPwK30xfgnYoy/KZ04+RGVkMvTF2RQQc5vzEn3SAduULEMPCUz+DlmQBVmQlVq0BVmIrFVkbUksKy2ZrK+cGwllSRZZR57DKO1D1nJZuwcmXz6ELMh6T1nvnjqIsWH6x5P13pGltaqMJmQ9JasgLrAoMgfIeo4suSJr68AwAyDraVlbNxxJMnipZUXHO4uydnbiZc2ZWiYq4uqVsnT9o2Xt7jN8WXxhP1B1mirflVMXs7Juy3eXl5flyydoz3OtWjOyhCfWDQYZVkRWuhDe4LN6tj8YaDmdyhLzzO8s66Z0yPhKZEWWiKvTuxPHMAznpHwhZF2U6KqX4RQtS8iy1q3O1I5CvHVteyousGU37UEgK6v3i0NyhGHrao0EVJMzyH1cb7h/JLaWUqk7TyyNuKyyp7wGs5Hhsqbu/MbMurawzg4Cq18Ua7yBviau+d8PlSWWSvslI7LzKJB1+zpXimI0AlW94uI2Iqs1v86XtX0flWhc5fiVmceSyJqY0Z3N0gaRdfbw/MMblfF4vBApStWPLLUa844kWduD2T/RcCCbrAdzdm/3lsqaW7kM5zqfr8U4adP71TjuHUmysvPKW/wyZJE1jzkhobWzwuGNBFk27RJjW3OCrEIz8RyyylIOSWSVn390d0Rk5cctgkMW6feg8VSIrE7sWxJkacPEk0gra7SarLqfmPr56TfShdHU1PE3EFlWI/YtRFbR88I2Z3ie10gXvidfkzSyTPfw4DDSXE5Wk9U451m82iama6qaDzZEZQ07kRoImp5qhcIXcYjHQkEngRWJtuHjVbcY6aRlkeUdkSR+PxVe6YqypntU1h5tiz1iiAx1mCHaDNtsp2G3R8lsauE06fxwJ9IVFjWSkeb64Y1QFlmlU3+8E+pZUZbTop4enRr5aihTVa2xzIrK6vHTOJ6PW21rSbKuRCS1tv2xoZ4WtqSRxSYdxIoVZfHekCpzlYaqWsEty5eVWewl3U68rO3vYrmvs1kHTbY8i8naEX/XF8oak9AaGW1V5dFEZVldY2F/c6rFyjoWyzk+RSNfBv9Gslwiq+L1VHUakZWx7MUuzuwtl2UIWWs/qyyDZltuXtyyAlmZTExstbQfPbIcvmIFWe7e+YgPd4xGkD/kef7EZFlWozo0DMdxDP6rG524BxZhmnXP71l92YY7r4ms6Xn+2uTDnUrNnym95hkAk0V1WRl/+rTDPJq2trQ3dNNZuXvDF8kan5/XTee65suq1qiQGr9lMVk0CeVTyprNNj3GyeqHeVaV5FlruX6Y+8km6yXNUKlUHMUYT+06iRnvG50PnYpo8GX1OhG6/ByxstKRDN4sNpvRrOOnkLUMKktdnOdSkpphtin/2DCuGe7cvsFp7URZRjf26c4PMOsQK+viDU7bzSTJ8uIfhWW7iceSTdZMMzwbvfqsrV6irE5CrYM+PzgqyppnzfSGG2Vn/igrYk6tJFnF2OGO/2xndnevL4kssTVe1kZ9MfFeCTt4XrEoyxxvJj6R3h5EZ1CH9yKDV95bljgxLQx5ohnSx9GvaYluJ+M/N1yQZVR6SVM0vq30sbiwVvrDxoZbNwcc/4l08ONkMrlhUzRH5OdJvV6f3LHH92cbd/UVaIS0P/spOw2tdiNKtxctZmt0GYNIMZu+fuz6E1/39In0Faf/3oUhs7UOn1ihA6+iWV4Y8py6EFEUEikMCeaRebFD8GW2opQqilb+0VqHfj+9xmod2Mfq8AkLaQtwJZclV5mk5LIQWZAFWZC1oix8OJOCf1UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN6a/wAP+S6mFU/vUwAAAABJRU5ErkJggg==" group-title="SRBIJA",INSTA TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15694
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="https://www.viasatworld.com/media/1431/tv1000_balkan_rgb-vw.png" group-title="FILMSKI",TV 1000
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15695
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN SPIN" tvg-logo="https://satkurier.pl/uploads/74803.jpg" group-title="FILMSKI",AXN SPIN
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15696
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DOCU BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="FILMSKI",DOCU BOX
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15697
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-name="RTL CROATIA WORLD" tvg-logo="https://nettvplus.com/wp-content/uploads/2020/06/rtl_tv_news_page.png" group-title="HRVATSKA",RTL CROATIA WORLD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15698
+#EXTINF:-1 tvg-id="discovery-turbo-uk" tvg-name="DISCOVERY TURBO XTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Discovery_Turbo_Xtra.png/800px-Discovery_Turbo_Xtra.png" group-title="DOKUMENTARNI",DISCOVERY TURBO XTRA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15699
+#EXTINF:-1 tvg-id="doku-tv" tvg-name="DOKU TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DOKUTV_logo.png" group-title="DOKUMENTARNI",DOKU TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15700
+#EXTINF:-1 tvg-id="filmbox-plus" tvg-name="FILM BOX STARS" tvg-logo="https://tvprofil.com/img/kanali-logo/FilmboxStars_Black.png" group-title="FILMSKI",FILM BOX STARS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15701
+#EXTINF:-1 tvg-id="b1-tv" tvg-name="B1 TV" tvg-logo="https://tvprofil.com/img/kanali-logo/b1tv-logo.png" group-title="BOSNA I HERCEGOVINA",B1 TV
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15702
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="ARENA PREMIUM 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/arenap1.png" group-title="KANALI U SD KVALITETU",ARENA PREMIUM 1 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15708
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ARENA PREMIUM 2 - SD" tvg-logo="http://144.76.182.124/exyulogo/arenap2.png" group-title="KANALI U SD KVALITETU",ARENA PREMIUM 2 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15709
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC DRAMA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/epic_drama_logo.png" group-title="FILMSKI",EPIC DRAMA
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15704
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="ARENA PREMIUM 3 - SD" tvg-logo="http://144.76.182.124/exyulogo/arenap3.png" group-title="KANALI U SD KVALITETU",ARENA PREMIUM 3 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15710
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="SPORT KLUB 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/sk1n.jpeg" group-title="KANALI U SD KVALITETU",SPORT KLUB 1 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15714
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SPORT KLUB 2 - SD" tvg-logo="http://144.76.182.124/exyulogo/sk2.png" group-title="KANALI U SD KVALITETU",SPORT KLUB 2 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15715
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 BH - SD" tvg-logo="http://144.76.182.124/exyulogo/n1bh.png" group-title="KANALI U SD KVALITETU",N1 BH - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15740
+#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S - SD" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/nova_s_logo.png" group-title="KANALI U SD KVALITETU",NOVA S - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15741
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT - SD" tvg-logo="http://144.76.182.124/exyulogo/hayat.png" group-title="KANALI U SD KVALITETU",HAYAT - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15742
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 - SD" tvg-logo="http://144.76.182.124/exyulogo/hrt1.png" group-title="KANALI U SD KVALITETU",HRT 1 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/15751
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SRB - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",N1 SRB - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18485
+#EXTINF:-1 tvg-id="eurosport" tvg-name="EUROSPORT 1 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",EUROSPORT 1 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18487
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",EUROSPORT 2 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18488
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",HRT 2 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18553
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",RTL - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18554
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",RTL 2 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18555
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",HRT 3 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18556
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",HRT 4 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18557
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",DOMA TV - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/18558
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ARENA SPORT 1 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",ARENA SPORT 1 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/19384
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 2 - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",ARENA SPORT 2 - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/19385
+#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",HAPPY - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/19386
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",RTRS - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/19387
+#EXTINF:-1 tvg-id="bn" tvg-name="BN - SD" tvg-logo="" group-title="KANALI U SD KVALITETU",BN - SD
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/19388
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hip Hop Banjaluka" tvg-logo="" group-title="Radio",Radio Hip Hop Banjaluka
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/293
+#EXTINF:-1 tvg-id="" tvg-name="Radio 055 Bijeljina" tvg-logo="" group-title="Radio",Radio 055 Bijeljina
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/294
+#EXTINF:-1 tvg-id="" tvg-name="Radio Best Sipovo" tvg-logo="" group-title="Radio",Radio Best Sipovo
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/297
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antena Zagreb" tvg-logo="" group-title="Radio",Radio Antena Zagreb
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/305
+#EXTINF:-1 tvg-id="" tvg-name="Radio 057 Zadar" tvg-logo="" group-title="Radio",Radio 057 Zadar
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/306
+#EXTINF:-1 tvg-id="" tvg-name="Radio 101 Zagreb" tvg-logo="" group-title="Radio",Radio 101 Zagreb
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/307
+#EXTINF:-1 tvg-id="" tvg-name="Radio 1 Cakovec HR" tvg-logo="http://serv.mediaking.fi:8080/images/3314cb5a293ac886f32c6c4e1fabf11c.jpg" group-title="Radio",Radio 1 Cakovec HR
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/309
+#EXTINF:-1 tvg-id="" tvg-name="Radio 101 Rock Zagreb" tvg-logo="" group-title="Radio",Radio 101 Rock Zagreb
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/310
+#EXTINF:-1 tvg-id="" tvg-name="Radio 808 Zagreb" tvg-logo="" group-title="Radio",Radio 808 Zagreb
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/311
+#EXTINF:-1 tvg-id="" tvg-name="Radio 92 Slavonski Brod" tvg-logo="" group-title="Radio",Radio 92 Slavonski Brod
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/312
+#EXTINF:-1 tvg-id="" tvg-name="Radio Centar POREC" tvg-logo="http://serv.mediaking.fi:8080/images/a8daca5d1007f2ff5a5e818ae76d309f.png" group-title="Radio",Radio Centar POREC
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/313
+#EXTINF:-1 tvg-id="" tvg-name="Club Music Folk Radio Osijek" tvg-logo="" group-title="Radio",Club Music Folk Radio Osijek
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/314
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dalmacija Osijek" tvg-logo="" group-title="Radio",Radio Dalmacija Osijek
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/315
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dubrovnik" tvg-logo="" group-title="Radio",Radio Dubrovnik
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/316
+#EXTINF:-1 tvg-id="" tvg-name="Novi radio - Zadar" tvg-logo="" group-title="Radio",Novi radio - Zadar
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/317
+#EXTINF:-1 tvg-id="" tvg-name="Radio Stari Grad Sarajevo" tvg-logo="" group-title="Radio",Radio Stari Grad Sarajevo
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/318
+#EXTINF:-1 tvg-id="" tvg-name="Radio Narodni Zagreb" tvg-logo="" group-title="Radio",Radio Narodni Zagreb
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/319
+#EXTINF:-1 tvg-id="" tvg-name="Radio Glas Drine" tvg-logo="" group-title="Radio",Radio Glas Drine
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/321
+#EXTINF:-1 tvg-id="" tvg-name="Radio D Podgorica" tvg-logo="" group-title="Radio",Radio D Podgorica
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/322
+#EXTINF:-1 tvg-id="" tvg-name="Radio GBK Svedska" tvg-logo="" group-title="Radio",Radio GBK Svedska
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/323
+#EXTINF:-1 tvg-id="" tvg-name="Radio GBK Folk Svedska" tvg-logo="" group-title="Radio",Radio GBK Folk Svedska
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/324
+#EXTINF:-1 tvg-id="" tvg-name="Radio BUM Kumanovo MK" tvg-logo="" group-title="Radio",Radio BUM Kumanovo MK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/326
+#EXTINF:-1 tvg-id="" tvg-name="Radio City Skopje" tvg-logo="" group-title="Radio",Radio City Skopje
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/327
+#EXTINF:-1 tvg-id="" tvg-name="Radio Folk Skopje" tvg-logo="" group-title="Radio",Radio Folk Skopje
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/328
+#EXTINF:-1 tvg-id="" tvg-name="Radio HIT Skopje" tvg-logo="" group-title="Radio",Radio HIT Skopje
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/329
+#EXTINF:-1 tvg-id="" tvg-name="Hit Radio MK" tvg-logo="" group-title="Radio",Hit Radio MK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/330
+#EXTINF:-1 tvg-id="" tvg-name="Radio PINK" tvg-logo="http://serv.mediaking.fi:8080/images/ee90bcd373a12ef0a66f5a2fd4796d9e.png" group-title="Radio",Radio PINK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/331
+#EXTINF:-1 tvg-id="" tvg-name="Radio S1" tvg-logo="http://serv.mediaking.fi:8080/images/8ddf878039b70767c4a5bcf4f0c4f65e.png" group-title="Radio",Radio S1
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/332
+#EXTINF:-1 tvg-id="" tvg-name="Radio S2" tvg-logo="http://serv.mediaking.fi:8080/images/fac989447cad2edbc89fbcba70003b36.png" group-title="Radio",Radio S2
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/333
+#EXTINF:-1 tvg-id="" tvg-name="Radio S3" tvg-logo="http://serv.mediaking.fi:8080/images/c0828e0381730befd1f7a025057c74fb.png" group-title="Radio",Radio S3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/334
+#EXTINF:-1 tvg-id="" tvg-name="Radio S4" tvg-logo="http://serv.mediaking.fi:8080/images/7e7cb6814b74d6596098fc80127569a5.png" group-title="Radio",Radio S4
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/335
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kosava" tvg-logo="http://serv.mediaking.fi:8080/images/68e6861ec6ec86e4efc4d80a8ceb1149.png" group-title="Radio",Radio Kosava
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/211
+#EXTINF:-1 tvg-id="" tvg-name="PLAY Radio" tvg-logo="" group-title="Radio",PLAY Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/212
+#EXTINF:-1 tvg-id="" tvg-name="TDI RADIO" tvg-logo="http://serv.mediaking.fi:8080/images/a4b4507ee28be37dc1189257960eef4d.png" group-title="Radio",TDI RADIO
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/213
+#EXTINF:-1 tvg-id="" tvg-name="NAXI RADIO" tvg-logo="http://serv.mediaking.fi:8080/images/74c8134b977a65345f03e88aa3f22bc4.png" group-title="Radio",NAXI RADIO
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/214
+#EXTINF:-1 tvg-id="" tvg-name="HIT FM Radio" tvg-logo="" group-title="Radio",HIT FM Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/215
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pingvin" tvg-logo="http://serv.mediaking.fi:8080/images/a5c3190fd8fc0a6cbf0cb645b8add9d0.png" group-title="Radio",Radio Pingvin
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/216
+#EXTINF:-1 tvg-id="" tvg-name="Prvi Radio Uzice" tvg-logo="http://serv.mediaking.fi:8080/images/f63fa2647d1537bbc279972a8719d731.png" group-title="Radio",Prvi Radio Uzice
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/217
+#EXTINF:-1 tvg-id="" tvg-name="BUM Radio" tvg-logo="http://serv.mediaking.fi:8080/images/62552feb96cabdb632095611d79f0420.png" group-title="Radio",BUM Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/218
+#EXTINF:-1 tvg-id="" tvg-name="JAT Radio" tvg-logo="http://serv.mediaking.fi:8080/images/b28c197774bc8c9501d3d6352e679e00.png" group-title="Radio",JAT Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/219
+#EXTINF:-1 tvg-id="" tvg-name="BUM BUM Radio" tvg-logo="http://serv.mediaking.fi:8080/images/78d3cab8aa662b4aa4cd2763c8be8901.png" group-title="Radio",BUM BUM Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/220
+#EXTINF:-1 tvg-id="" tvg-name="Top FM Radio" tvg-logo="http://serv.mediaking.fi:8080/images/b28354b543375bfa94dabaeda722927f.png" group-title="Radio",Top FM Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/221
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bubamara" tvg-logo="http://serv.mediaking.fi:8080/images/747ae77ebb0ea8c503d43002581f94d0.png" group-title="Radio",Radio Bubamara
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/222
+#EXTINF:-1 tvg-id="" tvg-name="Radio Like Beograd uzivo" tvg-logo="" group-title="Radio",Radio Like Beograd uzivo
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/223
+#EXTINF:-1 tvg-id="" tvg-name="OK Radio" tvg-logo="http://serv.mediaking.fi:8080/images/444bcb3a3fcf8389296c49467f27e1d6.png" group-title="Radio",OK Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/224
+#EXTINF:-1 tvg-id="" tvg-name="Radio Delta Novi Sad" tvg-logo="http://serv.mediaking.fi:8080/images/d9e0c0eee793b1bbb80e6a219ec2bc37.jpg" group-title="Radio",Radio Delta Novi Sad
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/225
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3" tvg-logo="http://serv.mediaking.fi:8080/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="Radio",Radio 3
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/226
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nostalgija" tvg-logo="http://serv.mediaking.fi:8080/images/7300581c73a12d137ca529f641ffc4c5.png" group-title="Radio",Radio Nostalgija
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/227
+#EXTINF:-1 tvg-id="" tvg-name="Radio Novosti" tvg-logo="" group-title="Radio",Radio Novosti
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/230
+#EXTINF:-1 tvg-id="" tvg-name="Radio 202" tvg-logo="" group-title="Radio",Radio 202
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/232
+#EXTINF:-1 tvg-id="" tvg-name="Radio DAK" tvg-logo="http://serv.mediaking.fi:8080/images/aa7099327c3323bec7c64e600a70b4a4.png" group-title="Radio",Radio DAK
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/233
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Jaz" tvg-logo="" group-title="Radio",Radio NAXI Jaz
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/234
+#EXTINF:-1 tvg-id="" tvg-name="Bravo FM Radio" tvg-logo="http://serv.mediaking.fi:8080/images/fd9ab41e47a9ef4f6477a8a000bf404f.png" group-title="Radio",Bravo FM Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/236
+#EXTINF:-1 tvg-id="" tvg-name="CIty Radio" tvg-logo="" group-title="Radio",CIty Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/237
+#EXTINF:-1 tvg-id="" tvg-name="Naxi Radio 80-e" tvg-logo="http://serv.mediaking.fi:8080/images/9fb3470834e650315426a57b8c35dcda.png" group-title="Radio",Naxi Radio 80-e
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/239
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Caffe Radio" tvg-logo="http://serv.mediaking.fi:8080/images/f92006f20eab6a07063b115de6a971de.png" group-title="Radio",Radio NAXI Caffe Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/240
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Classic Radio" tvg-logo="http://serv.mediaking.fi:8080/images/edb380aa56cdb388196ee713a3ecd850.png" group-title="Radio",Radio NAXI Classic Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/241
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI Evergreen Radio" tvg-logo="http://serv.mediaking.fi:8080/images/2229aba7aa270d7304e18e6838645c3b.png" group-title="Radio",Radio NAXI Evergreen Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/242
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI MIX Radio" tvg-logo="http://serv.mediaking.fi:8080/images/b7f42ba4c693066091fc1bd9b202fd8d.png" group-title="Radio",Radio NAXI MIX Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/243
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI House Radio" tvg-logo="http://serv.mediaking.fi:8080/images/2c6ee8feac7e72eda2a97f4269781d78.png" group-title="Radio",Radio NAXI House Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/244
+#EXTINF:-1 tvg-id="" tvg-name="Radio AS Šabac" tvg-logo="http://serv.mediaking.fi:8080/images/facd3b7dee9f39dcc4e262f47d4f77bb.jpg" group-title="Radio",Radio AS Šabac
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/245
+#EXTINF:-1 tvg-id="" tvg-name="Radio Morava" tvg-logo="http://serv.mediaking.fi:8080/images/229f62a67b84a43127706ae79813f20d.png" group-title="Radio",Radio Morava
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/246
+#EXTINF:-1 tvg-id="" tvg-name="Radio COOL" tvg-logo="http://serv.mediaking.fi:8080/images/b1f4f9a523e36fd969f4573e25af4540.png" group-title="Radio",Radio COOL
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/247
+#EXTINF:-1 tvg-id="" tvg-name="Radio Karolina" tvg-logo="http://serv.mediaking.fi:8080/images/605fcc505ec12363ed7d9df00ea3d6c2.png" group-title="Radio",Radio Karolina
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/250
+#EXTINF:-1 tvg-id="" tvg-name="Radio DeLuxe Beograd" tvg-logo="http://serv.mediaking.fi:8080/images/6f4734979e18fdf96ee2624b03dc493c.png" group-title="Radio",Radio DeLuxe Beograd
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/252
+#EXTINF:-1 tvg-id="" tvg-name="Radio 101 Zagreb" tvg-logo="http://serv.mediaking.fi:8080/images/1dbb928714c63e01af06ed9a5a61d905.png" group-title="Radio",Radio 101 Zagreb
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/253
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI KIDS Radio" tvg-logo="" group-title="Radio",Radio NAXI KIDS Radio
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/255
+#EXTINF:-1 tvg-id="" tvg-name="Radio KISS FM" tvg-logo="http://serv.mediaking.fi:8080/images/4188679c1d8a284ccc41a6b601869e05.png" group-title="Radio",Radio KISS FM
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/256
+#EXTINF:-1 tvg-id="" tvg-name="Radio I FM" tvg-logo="http://serv.mediaking.fi:8080/images/0aeb58794c29d040e7da234b563a7574.png" group-title="Radio",Radio I FM
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/257
+#EXTINF:-1 tvg-id="" tvg-name="Radio Stari Grad" tvg-logo="http://serv.mediaking.fi:8080/images/e3e5e8d87db661e88b9a9ad720833bca.png" group-title="Radio",Radio Stari Grad
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/258
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bijeljina" tvg-logo="" group-title="Radio",Radio Bijeljina
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/285
+#EXTINF:-1 tvg-id="" tvg-name="Radio Carsija Sarajevo" tvg-logo="" group-title="Radio",Radio Carsija Sarajevo
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/290
+#EXTINF:-1 tvg-id="" tvg-name="Radio PULS" tvg-logo="" group-title="Radio",Radio PULS
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14121
+#EXTINF:-1 tvg-id="" tvg-name="Radio Banovina" tvg-logo="http://serv.mediaking.fi:8080/images/d31efbcff165db7402729e803d64cd11.png" group-title="Radio",Radio Banovina
+http://iptvmedia.pro:8080/alexander.smiljanic@gmail.com/alex12365/14449
