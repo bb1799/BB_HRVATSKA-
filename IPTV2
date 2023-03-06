@@ -1,4 +1,84 @@
 #EXTM3U x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="*** HRVATSKA ***" tvg-logo="" group-title="***HRVATSKA***",*** HRVATSKA ***
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28
+#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="" group-title="***HRVATSKA***",HRT 1
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1
+#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 1 HD
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5641
+#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2" tvg-logo="" group-title="***HRVATSKA***",HRT 2
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/2
+#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 2 HD
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5642
+#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3" tvg-logo="" group-title="***HRVATSKA***",HRT 3
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3
+#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 3 HD
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5643
+#EXTINF:-1 tvg-id="HRT4" tvg-name="HRT 4" tvg-logo="" group-title="***HRVATSKA***",HRT 4
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4
+#EXTINF:-1 tvg-id="HRT4" tvg-name="HRT 4 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 4 HD
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5644
+#EXTINF:-1 tvg-id="HTVInt.hr" tvg-name="HRTInt." tvg-logo="" group-title="***HRVATSKA***",HRT Int.
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/482
+#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Nova TV" tvg-logo="" group-title="***HRVATSKA***",Nova TV
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5
+#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Nova TV ***" tvg-logo="" group-title="***HRVATSKA***",Nova TV ***
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39408
+#EXTINF:-1 tvg-id="b15172799930677479e454e0ffa7c3e1" tvg-name="Doma TV" tvg-logo="" group-title="***HRVATSKA***",Doma TV
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/29
+#EXTINF:-1 tvg-id="b15172799930677479e454e0ffa7c3e1" tvg-name="Doma TV  ***" tvg-logo="" group-title="***HRVATSKA***",Doma TV  ***
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/172
+#EXTINF:-1 tvg-id="2001235482" tvg-name="RTL Televizija" tvg-logo="" group-title="***HRVATSKA***",RTL Televizija
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6
+#EXTINF:-1 tvg-id="2001235482" tvg-name="RTL Televizija  ***" tvg-logo="" group-title="***HRVATSKA***",RTL Televizija  ***
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1417
+#EXTINF:-1 tvg-id="2001235483" tvg-name="RTL 2" tvg-logo="" group-title="***HRVATSKA***",RTL 2
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/7
+#EXTINF:-1 tvg-id="2001235483" tvg-name="RTL 2 ***" tvg-logo="" group-title="***HRVATSKA***",RTL 2 ***
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42701
+#EXTINF:-1 tvg-id="UNA TV" tvg-name="Una TV HR" tvg-logo="" group-title="***HRVATSKA***",Una TV HR
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39713
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="" group-title="***HRVATSKA***",RTL Crime
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/15
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="" group-title="***HRVATSKA***",RTL Passion
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/8
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="" group-title="***HRVATSKA***",RTL Living
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/9
+#EXTINF:-1 tvg-id="RTL Adria" tvg-name="RTL Adria" tvg-logo="" group-title="***HRVATSKA***",RTL Adria
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5707
+#EXTINF:-1 tvg-id="20012321621" tvg-name="RTL Croatia World" tvg-logo="" group-title="***HRVATSKA***",RTL Croatia World
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5708
+#EXTINF:-1 tvg-id="200123216" tvg-name="Nova World" tvg-logo="" group-title="***HRVATSKA***",Nova World
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39951
+#EXTINF:-1 tvg-id="20012312" tvg-name="Nova Family" tvg-logo="" group-title="***HRVATSKA***",Nova Family
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39156
+#EXTINF:-1 tvg-id="N1 HR" tvg-name="N1 HR" tvg-logo="" group-title="***HRVATSKA***",N1 HR
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/11
+#EXTINF:-1 tvg-id="2001237877" tvg-name="Laudato TV" tvg-logo="" group-title="***HRVATSKA***",Laudato TV
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/10
+#EXTINF:-1 tvg-id="2001235801" tvg-name="Slavonska Tv" tvg-logo="" group-title="***HRVATSKA***",Slavonska Tv
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/12
+#EXTINF:-1 tvg-id="2001235486" tvg-name="Z1" tvg-logo="" group-title="***HRVATSKA***",Z1 TV
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/447
+#EXTINF:-1 tvg-id="2001236010" tvg-name="Plava Vinkovacka " tvg-logo="" group-title="***HRVATSKA***",Plava Vinkovacka 
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/13
+#EXTINF:-1 tvg-id="20012326617" tvg-name="TV Sibenik" tvg-logo="" group-title="***HRVATSKA***",TV Sibenik
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5806
+#EXTINF:-1 tvg-id="2001237884" tvg-name="Kanal Ri" tvg-logo="" group-title="***HRVATSKA***",Kanal Ri
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4029
+#EXTINF:-1 tvg-id="2001235627" tvg-name="Osjecka TV" tvg-logo="" group-title="***HRVATSKA***",Osjecka TV
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/368
+#EXTINF:-1 tvg-id="3410bc9bcabb60aa7f395bd6cb197673" tvg-name="Trend TV" tvg-logo="" group-title="***HRVATSKA***",Trend TV
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/14
+#EXTINF:-1 tvg-id="20012321183" tvg-name="Aurora TV" tvg-logo="" group-title="***HRVATSKA***",Aurora TV
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16675
+#EXTINF:-1 tvg-id="Mreža TV Zagreb_max" tvg-name="Mreza Split" tvg-logo="" group-title="***HRVATSKA***",Mreza Split
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16973
+#EXTINF:-1 tvg-id="20012321623" tvg-name="Zdrava Tv" tvg-logo="" group-title="***HRVATSKA***",Zdrava Tv
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/658
+#EXTINF:-1 tvg-id="1f0cf3209da75cd636940d32abca65ac" tvg-name="Jabuka" tvg-logo="" group-title="***HRVATSKA***",Jabuka
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/659
+
 #EXTINF:-1 tvg-id="MRT1.mk" tvg-name="MRT  1" tvg-logo="" group-title=" ***MAKEDONIJA*** ",MRT  1
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/30
 #EXTINF:-1 tvg-id="MRT1.mk" tvg-name="MRT 1 ***" tvg-logo="" group-title=" ***MAKEDONIJA*** ",MRT 1 ***
@@ -267,84 +347,7 @@ http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1424
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1425
 #EXTINF:-1 tvg-id="29032236378" tvg-name="Insta TV" tvg-logo="" group-title="***SRBIJA***",Insta TV
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44385
-#EXTINF:-1 tvg-id="" tvg-name="*** HRVATSKA ***" tvg-logo="" group-title="***HRVATSKA***",*** HRVATSKA ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28
-#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="" group-title="***HRVATSKA***",HRT 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1
-#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 1 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5641
-#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2" tvg-logo="" group-title="***HRVATSKA***",HRT 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/2
-#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 2 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5642
-#EXTINF:-1 tvg-id="HTV3" tvg-name="HRT 3" tvg-logo="" group-title="***HRVATSKA***",HRT 3
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3
-#EXTINF:-1 tvg-id="HTV3" tvg-name="HRT 3 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 3 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5643
-#EXTINF:-1 tvg-id="HTV4" tvg-name="HRT 4" tvg-logo="" group-title="***HRVATSKA***",HRT 4
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4
-#EXTINF:-1 tvg-id="HTV4" tvg-name="HRT 4 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 4 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5644
-#EXTINF:-1 tvg-id="HTVInt.hr" tvg-name="HRT Int." tvg-logo="" group-title="***HRVATSKA***",HRT Int.
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/482
-#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Nova TV" tvg-logo="" group-title="***HRVATSKA***",Nova TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5
-#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Nova TV ***" tvg-logo="" group-title="***HRVATSKA***",Nova TV ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39408
-#EXTINF:-1 tvg-id="b15172799930677479e454e0ffa7c3e1" tvg-name="Doma TV" tvg-logo="" group-title="***HRVATSKA***",Doma TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/29
-#EXTINF:-1 tvg-id="b15172799930677479e454e0ffa7c3e1" tvg-name="Doma TV  ***" tvg-logo="" group-title="***HRVATSKA***",Doma TV  ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/172
-#EXTINF:-1 tvg-id="2001235482" tvg-name="RTL Televizija" tvg-logo="" group-title="***HRVATSKA***",RTL Televizija
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6
-#EXTINF:-1 tvg-id="2001235482" tvg-name="RTL Televizija  ***" tvg-logo="" group-title="***HRVATSKA***",RTL Televizija  ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1417
-#EXTINF:-1 tvg-id="2001235483" tvg-name="RTL 2" tvg-logo="" group-title="***HRVATSKA***",RTL 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/7
-#EXTINF:-1 tvg-id="2001235483" tvg-name="RTL 2 ***" tvg-logo="" group-title="***HRVATSKA***",RTL 2 ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42701
-#EXTINF:-1 tvg-id="UNA TV" tvg-name="Una TV HR" tvg-logo="" group-title="***HRVATSKA***",Una TV HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39713
-#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="" group-title="***HRVATSKA***",RTL Crime
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/15
-#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="" group-title="***HRVATSKA***",RTL Passion
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/8
-#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="" group-title="***HRVATSKA***",RTL Living
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/9
-#EXTINF:-1 tvg-id="RTL Adria" tvg-name="RTL Adria" tvg-logo="" group-title="***HRVATSKA***",RTL Adria
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5707
-#EXTINF:-1 tvg-id="20012321621" tvg-name="RTL Croatia World" tvg-logo="" group-title="***HRVATSKA***",RTL Croatia World
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5708
-#EXTINF:-1 tvg-id="200123216" tvg-name="Nova World" tvg-logo="" group-title="***HRVATSKA***",Nova World
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39951
-#EXTINF:-1 tvg-id="20012312" tvg-name="Nova Family" tvg-logo="" group-title="***HRVATSKA***",Nova Family
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39156
-#EXTINF:-1 tvg-id="N1 HR" tvg-name="N1 HR" tvg-logo="" group-title="***HRVATSKA***",N1 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/11
-#EXTINF:-1 tvg-id="2001237877" tvg-name="Laudato TV" tvg-logo="" group-title="***HRVATSKA***",Laudato TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/10
-#EXTINF:-1 tvg-id="2001235801" tvg-name="Slavonska Tv" tvg-logo="" group-title="***HRVATSKA***",Slavonska Tv
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/12
-#EXTINF:-1 tvg-id="2001235486" tvg-name="Z1" tvg-logo="" group-title="***HRVATSKA***",Z1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/447
-#EXTINF:-1 tvg-id="2001236010" tvg-name="Plava Vinkovacka " tvg-logo="" group-title="***HRVATSKA***",Plava Vinkovacka 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/13
-#EXTINF:-1 tvg-id="20012326617" tvg-name="TV Sibenik" tvg-logo="" group-title="***HRVATSKA***",TV Sibenik
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5806
-#EXTINF:-1 tvg-id="2001237884" tvg-name="Kanal Ri" tvg-logo="" group-title="***HRVATSKA***",Kanal Ri
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4029
-#EXTINF:-1 tvg-id="2001235627" tvg-name="Osjecka TV" tvg-logo="" group-title="***HRVATSKA***",Osjecka TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/368
-#EXTINF:-1 tvg-id="3410bc9bcabb60aa7f395bd6cb197673" tvg-name="Trend TV" tvg-logo="" group-title="***HRVATSKA***",Trend TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/14
-#EXTINF:-1 tvg-id="20012321183" tvg-name="Aurora TV" tvg-logo="" group-title="***HRVATSKA***",Aurora TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16675
-#EXTINF:-1 tvg-id="Mreža TV Zagreb_max" tvg-name="Mreza Split" tvg-logo="" group-title="***HRVATSKA***",Mreza Split
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16973
-#EXTINF:-1 tvg-id="20012321623" tvg-name="Zdrava Tv" tvg-logo="" group-title="***HRVATSKA***",Zdrava Tv
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/658
-#EXTINF:-1 tvg-id="1f0cf3209da75cd636940d32abca65ac" tvg-name="Jabuka" tvg-logo="" group-title="***HRVATSKA***",Jabuka
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/659
+
 #EXTINF:-1 tvg-id="" tvg-name="*** BOSNA ***" tvg-logo="" group-title=" ***BOSNA***",*** BOSNA ***
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39
 #EXTINF:-1 tvg-id="BHT1" tvg-name="BHT 1 " tvg-logo="" group-title=" ***BOSNA***",BHT 1 
@@ -734,204 +737,6 @@ http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1424
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1425
 #EXTINF:-1 tvg-id="29032236378" tvg-name="Insta TV" tvg-logo="" group-title="***SRBIJA***",Insta TV
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44385
-#EXTINF:-1 tvg-id="" tvg-name="*** HRVATSKA ***" tvg-logo="" group-title="***HRVATSKA***",*** HRVATSKA ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28
-#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="" group-title="***HRVATSKA***",HRT 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1
-#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 1 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5641
-#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2" tvg-logo="" group-title="***HRVATSKA***",HRT 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/2
-#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 2 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5642
-#EXTINF:-1 tvg-id="HTV3" tvg-name="HRT 3" tvg-logo="" group-title="***HRVATSKA***",HRT 3
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3
-#EXTINF:-1 tvg-id="HTV3" tvg-name="HRT 3 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 3 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5643
-#EXTINF:-1 tvg-id="HTV4" tvg-name="HRT 4" tvg-logo="" group-title="***HRVATSKA***",HRT 4
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4
-#EXTINF:-1 tvg-id="HTV4" tvg-name="HRT 4 HD" tvg-logo="" group-title="***HRVATSKA***",HRT 4 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5644
-#EXTINF:-1 tvg-id="HTVInt.hr" tvg-name="HRT Int." tvg-logo="" group-title="***HRVATSKA***",HRT Int.
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/482
-#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Nova TV" tvg-logo="" group-title="***HRVATSKA***",Nova TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5
-#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Nova TV ***" tvg-logo="" group-title="***HRVATSKA***",Nova TV ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39408
-#EXTINF:-1 tvg-id="b15172799930677479e454e0ffa7c3e1" tvg-name="Doma TV" tvg-logo="" group-title="***HRVATSKA***",Doma TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/29
-#EXTINF:-1 tvg-id="b15172799930677479e454e0ffa7c3e1" tvg-name="Doma TV  ***" tvg-logo="" group-title="***HRVATSKA***",Doma TV  ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/172
-#EXTINF:-1 tvg-id="2001235482" tvg-name="RTL Televizija" tvg-logo="" group-title="***HRVATSKA***",RTL Televizija
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6
-#EXTINF:-1 tvg-id="2001235482" tvg-name="RTL Televizija  ***" tvg-logo="" group-title="***HRVATSKA***",RTL Televizija  ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1417
-#EXTINF:-1 tvg-id="2001235483" tvg-name="RTL 2" tvg-logo="" group-title="***HRVATSKA***",RTL 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/7
-#EXTINF:-1 tvg-id="2001235483" tvg-name="RTL 2 ***" tvg-logo="" group-title="***HRVATSKA***",RTL 2 ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42701
-#EXTINF:-1 tvg-id="UNA TV" tvg-name="Una TV HR" tvg-logo="" group-title="***HRVATSKA***",Una TV HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39713
-#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="" group-title="***HRVATSKA***",RTL Crime
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/15
-#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="" group-title="***HRVATSKA***",RTL Passion
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/8
-#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="" group-title="***HRVATSKA***",RTL Living
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/9
-#EXTINF:-1 tvg-id="RTL Adria" tvg-name="RTL Adria" tvg-logo="" group-title="***HRVATSKA***",RTL Adria
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5707
-#EXTINF:-1 tvg-id="20012321621" tvg-name="RTL Croatia World" tvg-logo="" group-title="***HRVATSKA***",RTL Croatia World
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5708
-#EXTINF:-1 tvg-id="200123216" tvg-name="Nova World" tvg-logo="" group-title="***HRVATSKA***",Nova World
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39951
-#EXTINF:-1 tvg-id="20012312" tvg-name="Nova Family" tvg-logo="" group-title="***HRVATSKA***",Nova Family
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39156
-#EXTINF:-1 tvg-id="N1 HR" tvg-name="N1 HR" tvg-logo="" group-title="***HRVATSKA***",N1 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/11
-#EXTINF:-1 tvg-id="2001237877" tvg-name="Laudato TV" tvg-logo="" group-title="***HRVATSKA***",Laudato TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/10
-#EXTINF:-1 tvg-id="2001235801" tvg-name="Slavonska Tv" tvg-logo="" group-title="***HRVATSKA***",Slavonska Tv
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/12
-#EXTINF:-1 tvg-id="2001235486" tvg-name="Z1" tvg-logo="" group-title="***HRVATSKA***",Z1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/447
-#EXTINF:-1 tvg-id="2001236010" tvg-name="Plava Vinkovacka " tvg-logo="" group-title="***HRVATSKA***",Plava Vinkovacka 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/13
-#EXTINF:-1 tvg-id="20012326617" tvg-name="TV Sibenik" tvg-logo="" group-title="***HRVATSKA***",TV Sibenik
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/5806
-#EXTINF:-1 tvg-id="2001237884" tvg-name="Kanal Ri" tvg-logo="" group-title="***HRVATSKA***",Kanal Ri
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4029
-#EXTINF:-1 tvg-id="2001235627" tvg-name="Osjecka TV" tvg-logo="" group-title="***HRVATSKA***",Osjecka TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/368
-#EXTINF:-1 tvg-id="3410bc9bcabb60aa7f395bd6cb197673" tvg-name="Trend TV" tvg-logo="" group-title="***HRVATSKA***",Trend TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/14
-#EXTINF:-1 tvg-id="20012321183" tvg-name="Aurora TV" tvg-logo="" group-title="***HRVATSKA***",Aurora TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16675
-#EXTINF:-1 tvg-id="Mreža TV Zagreb_max" tvg-name="Mreza Split" tvg-logo="" group-title="***HRVATSKA***",Mreza Split
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16973
-#EXTINF:-1 tvg-id="20012321623" tvg-name="Zdrava Tv" tvg-logo="" group-title="***HRVATSKA***",Zdrava Tv
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/658
-#EXTINF:-1 tvg-id="1f0cf3209da75cd636940d32abca65ac" tvg-name="Jabuka" tvg-logo="" group-title="***HRVATSKA***",Jabuka
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/659
-#EXTINF:-1 tvg-id="" tvg-name="*** BOSNA ***" tvg-logo="" group-title=" ***BOSNA***",*** BOSNA ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39
-#EXTINF:-1 tvg-id="BHT1" tvg-name="BHT 1 " tvg-logo="" group-title=" ***BOSNA***",BHT 1 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/38
-#EXTINF:-1 tvg-id="BHT1" tvg-name="BHT 1 HD" tvg-logo="" group-title=" ***BOSNA***",BHT 1 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/418
-#EXTINF:-1 tvg-id="OBN" tvg-name="OBN" tvg-logo="" group-title=" ***BOSNA***",OBN
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/40
-#EXTINF:-1 tvg-id="OBN" tvg-name="OBN ***" tvg-logo="" group-title=" ***BOSNA***",OBN ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1293
-#EXTINF:-1 tvg-id="FTV" tvg-name="Federalna TV" tvg-logo="" group-title=" ***BOSNA***",Federalna TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41
-#EXTINF:-1 tvg-id="FTV" tvg-name="Federalna TV ***" tvg-logo="" group-title=" ***BOSNA***",Federalna TV ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42686
-#EXTINF:-1 tvg-id="FACE TV" tvg-name="Face TV" tvg-logo="" group-title=" ***BOSNA***",Face TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42
-#EXTINF:-1 tvg-id="FACE TV" tvg-name="Face TV ***" tvg-logo="" group-title=" ***BOSNA***",Face TV ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42685
-#EXTINF:-1 tvg-id="Hayat TV" tvg-name="Hayat TV" tvg-logo="" group-title=" ***BOSNA***",Hayat TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43
-#EXTINF:-1 tvg-id="Hayat TV" tvg-name="Hayat TV ***" tvg-logo="" group-title=" ***BOSNA***",Hayat TV ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42687
-#EXTINF:-1 tvg-id="20012313907" tvg-name="Hayat Plus" tvg-logo="" group-title=" ***BOSNA***",Hayat Plus
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44
-#EXTINF:-1 tvg-id="Nova BH" tvg-name="Nova BH" tvg-logo="" group-title=" ***BOSNA***",Nova BH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/47
-#EXTINF:-1 tvg-id="Nova BH" tvg-name="Nova BH***" tvg-logo="" group-title=" ***BOSNA***",Nova BH***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42831
-#EXTINF:-1 tvg-id="BN.ba" tvg-name="BN TV" tvg-logo="" group-title=" ***BOSNA***",BN TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/49
-#EXTINF:-1 tvg-id="BN 2 HD" tvg-name="BN 2" tvg-logo="" group-title=" ***BOSNA***",BN 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39700
-#EXTINF:-1 tvg-id="Pink BH" tvg-name="Pink BH" tvg-logo="" group-title=" ***BOSNA***",Pink BH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/48
-#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="" group-title=" ***BOSNA***",RTRS
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/25
-#EXTINF:-1 tvg-id="RTRS Plus" tvg-name="RTRS Plus" tvg-logo="" group-title=" ***BOSNA***",RTRS Plus
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/26
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV Banja Luka" tvg-logo="" group-title=" ***BOSNA***",ATV Banja Luka
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/45
-#EXTINF:-1 tvg-id="N1 BA" tvg-name="N1 BiH" tvg-logo="" group-title=" ***BOSNA***",N1 BiH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/277
-#EXTINF:-1 tvg-id="N1 BA" tvg-name="N1 BH ***" tvg-logo="" group-title=" ***BOSNA***",N1 BH ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42830
-#EXTINF:-1 tvg-id="AL Jazeera Balkans" tvg-name="Al Jazeera Balkans" tvg-logo="" group-title=" ***BOSNA***",Al Jazeera Balkans
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/50
-#EXTINF:-1 tvg-id="O Kanal" tvg-name="0 Kanal" tvg-logo="" group-title=" ***BOSNA***",0 Kanal
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1294
-#EXTINF:-1 tvg-id="UNA TV" tvg-name="Una TV BH" tvg-logo="" group-title=" ***BOSNA***",Una TV BH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39714
-#EXTINF:-1 tvg-id="PrvaBH.ba" tvg-name="PRVA 1 BH (test)" tvg-logo="" group-title=" ***BOSNA***",PRVA 1 BH (test)
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43335
-#EXTINF:-1 tvg-id="20012325283" tvg-name="TataBrada" tvg-logo="" group-title=" ***BOSNA***",TataBrada
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39178
-#EXTINF:-1 tvg-id="VIKOM" tvg-name="Vikom TV" tvg-logo="" group-title=" ***BOSNA***",Vikom TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28609
-#EXTINF:-1 tvg-id="TVTKTuzla.ba" tvg-name="TV TK Tuzla" tvg-logo="" group-title=" ***BOSNA***",TV TK Tuzla
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/51
-#EXTINF:-1 tvg-id="20012313914" tvg-name="K3" tvg-logo="" group-title=" ***BOSNA***",K3
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/678
-#EXTINF:-1 tvg-id="ELTA 1" tvg-name="Elta 1" tvg-logo="" group-title=" ***BOSNA***",Elta 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/351
-#EXTINF:-1 tvg-id="20012323468" tvg-name="Elta 2" tvg-logo="" group-title=" ***BOSNA***",Elta 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39498
-#EXTINF:-1 tvg-id="29032214931" tvg-name="Sandzak TV" tvg-logo="" group-title="***SRBIJA***",Sandzak TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/688
-#EXTINF:-1 tvg-id="RTV USK HD" tvg-name="RTV USK HD" tvg-logo="" group-title=" ***BOSNA***",RTV USK HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16336
-#EXTINF:-1 tvg-id="20012323469" tvg-name="B1 Gradacac" tvg-logo="" group-title=" ***BOSNA***",B1 Gradacac
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/350
-#EXTINF:-1 tvg-id="ALFA TV" tvg-name="Alfa TV " tvg-logo="" group-title=" ***BOSNA***",Alfa TV 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/46
-#EXTINF:-1 tvg-id="RTV Sarajevo" tvg-name="TV Sarajevo" tvg-logo="" group-title=" ***BOSNA***",TV Sarajevo
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/53
-#EXTINF:-1 tvg-id="20012319874" tvg-name="NTV IC Kakanj" tvg-logo="" group-title=" ***BOSNA***",NTV IC Kakanj
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/448
-#EXTINF:-1 tvg-id="20012320349" tvg-name="RTV Sana" tvg-logo="" group-title=" ***BOSNA***",RTV Sana
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6169
-#EXTINF:-1 tvg-id="20012323471" tvg-name="Kanal 6" tvg-logo="" group-title=" ***BOSNA***",Kanal 6
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/449
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="Duga" tvg-logo="" group-title=" ***BOSNA***",Duga
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/457
-#EXTINF:-1 tvg-id="rtv-slon" tvg-name="TV Slon Extra" tvg-logo="" group-title=" ***BOSNA***",TV Slon Extra
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16750
-#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-name="TV Zenica" tvg-logo="" group-title=" ***BOSNA***",TV Zenica
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16751
-#EXTINF:-1 tvg-id="29032213925" tvg-name="Bosanska Posavina TV" tvg-logo="" group-title=" ***BOSNA***",Bosanska Posavina TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16752
-#EXTINF:-1 tvg-id="20012310" tvg-name="RTV Herceg Bosna" tvg-logo="" group-title=" ***BOSNA***",RTV Herceg Bosna
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16753
-#EXTINF:-1 tvg-id="20012313926" tvg-name="Glas Drine" tvg-logo="" group-title=" ***BOSNA***",Glas Drine
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16754
-#EXTINF:-1 tvg-id="20012320138" tvg-name="Podrinje" tvg-logo="" group-title=" ***BOSNA***",Podrinje
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16755
-#EXTINF:-1 tvg-id="20012313922" tvg-name="Hit Brcko" tvg-logo="" group-title=" ***BOSNA***",Hit Brcko
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16756
-#EXTINF:-1 tvg-id="20012313918" tvg-name="City TV Mostar" tvg-logo="" group-title=" ***BOSNA***",City TV Mostar
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16766
-#EXTINF:-1 tvg-id="20012313916" tvg-name="MTV Igman" tvg-logo="" group-title=" ***BOSNA***",MTV Igman
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/686
-#EXTINF:-1 tvg-id="29032213929" tvg-name="Televizija 5 HD" tvg-logo="" group-title=" ***BOSNA***",Televizija 5 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/331
-#EXTINF:-1 tvg-id="RTCG Sat" tvg-name="RTCG Sat" tvg-logo="" group-title=" ***CRNA GORA*** ",RTCG Sat
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/357
-#EXTINF:-1 tvg-id="rtcg1" tvg-name="RTCG 1" tvg-logo="" group-title=" ***CRNA GORA*** ",RTCG 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/424
-#EXTINF:-1 tvg-id="rtcg2" tvg-name="RTCG 2" tvg-logo="" group-title=" ***CRNA GORA*** ",RTCG 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/358
-#EXTINF:-1 tvg-id="prva-tv-cg" tvg-name="Prva TV CG" tvg-logo="" group-title=" ***CRNA GORA*** ",Prva TV CG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/24726
-#EXTINF:-1 tvg-id="nova-m" tvg-name="Nova m" tvg-logo="" group-title=" ***SLOVENIJA*** ",Nova m
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/419
-#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="Vijesti Crg" tvg-logo="" group-title=" ***CRNA GORA*** ",Vijesti Crg
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/359
-#EXTINF:-1 tvg-id="" tvg-name="TV 7 CG" tvg-logo="" group-title=" ***CRNA GORA*** ",TV 7 CG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/361
-#EXTINF:-1 tvg-id="TV Nikšić" tvg-name="Niksic CG" tvg-logo="" group-title=" ***CRNA GORA*** ",Niksic CG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/40101
-#EXTINF:-1 tvg-id="" tvg-name="TV Budva" tvg-logo="" group-title=" ***CRNA GORA*** ",TV Budva
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41323
 
 #EXTINF:-1 tvg-id="" tvg-name="***SLOVENIJA***" tvg-logo="" group-title=" ***SLOVENIJA*** ",***SLOVENIJA***
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/38241
@@ -1289,6 +1094,7 @@ http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/295
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16974
 #EXTINF:-1 tvg-id="" tvg-name="GB TV" tvg-logo="" group-title="***DECJI*** ",GB TV
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4157
+
 #EXTINF:-1 tvg-id="" tvg-name="*** MUZIKA ***" tvg-logo="" group-title=" ***MUZIKA***",*** MUZIKA ***
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/867
 #EXTINF:-1 tvg-id="HTV1" tvg-name="Grand TV" tvg-logo="" group-title=" ***MUZIKA***",Grand TV
@@ -1339,8 +1145,6 @@ http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3226
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/691
 #EXTINF:-1 tvg-id="" tvg-name="Valentino Etno" tvg-logo="" group-title=" ***MUZIKA***",Valentino Etno
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43719
-#EXTINF:-1 tvg-id="2001234722" tvg-name="Libertas TV" tvg-logo="" group-title="***HRVATSKA***",Libertas TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6259
 #EXTINF:-1 tvg-id="29032210692" tvg-name="DMC" tvg-logo="" group-title=" ***MUZIKA***",DMC
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6260
 #EXTINF:-1 tvg-id="2903225590" tvg-name="Hayat Music" tvg-logo="" group-title=" ***MUZIKA***",Hayat Music
@@ -1915,384 +1719,6 @@ http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/249
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/248
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera English HD" tvg-logo="" group-title=" ***DOKUMENTARNI***",Aljazeera English HD
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/40038
-#EXTINF:-1 tvg-id="" tvg-name="*** KIDS ***" tvg-logo="" group-title="***DECJI*** ",*** KIDS ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/216
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SR" tvg-logo="" group-title="***DECJI*** ",Nickelodeon SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/45492
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HR" tvg-logo="" group-title="***DECJI*** ",Nickelodeon HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/206
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NickJr." tvg-logo="" group-title="***DECJI*** ",NickJr.
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/205
-#EXTINF:-1 tvg-id="2c0dbaf549c5a24a150d0eae8be9d4bd" tvg-name="RTL Kockica" tvg-logo="" group-title="***DECJI*** ",RTL Kockica
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/209
-#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci" tvg-logo="" group-title="***DECJI*** ",Hayatovci
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/210
-#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="" group-title="***DECJI*** ",Pikaboo
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/215
-#EXTINF:-1 tvg-id="15122111347" tvg-name="TNT Kids" tvg-logo="" group-title="***DECJI*** ",TNT Kids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/203
-#EXTINF:-1 tvg-id="minimax" tvg-name="MiniMax" tvg-logo="" group-title="***DECJI*** ",MiniMax
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/208
-#EXTINF:-1 tvg-id="minitv" tvg-name="Mini tv" tvg-logo="" group-title="***DECJI*** ",Mini tv
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/211
-#EXTINF:-1 tvg-id="151221100" tvg-name="VaVooM" tvg-logo="" group-title="***DECJI*** ",VaVooM
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3409
-#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="" group-title="***DECJI*** ",Pink Kids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/373
-#EXTINF:-1 tvg-id="1512215382" tvg-name="SuperKids" tvg-logo="" group-title="***DECJI*** ",SuperKids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/374
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="" group-title="***DECJI*** ",Boomerang
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/214
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="" group-title="***DECJI*** ",Cartoon Network
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1292
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr." tvg-logo="" group-title="***DECJI*** ",Disney Jr.
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/438
-#EXTINF:-1 tvg-id="" tvg-name="Kazabuka" tvg-logo="" group-title="***DECJI*** ",Kazabuka
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42908
-#EXTINF:-1 tvg-id="2903223" tvg-name="Hey Kids" tvg-logo="" group-title="***DECJI*** ",Hey Kids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/40093
-#EXTINF:-1 tvg-id="15122110659" tvg-name="JimJam" tvg-logo="" group-title="***DECJI*** ",JimJam
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/300
-#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="" group-title="***DECJI*** ",Baby TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/212
-#EXTINF:-1 tvg-id="15122110660" tvg-name="Duck TV" tvg-logo="" group-title="***DECJI*** ",Duck TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/213
-#EXTINF:-1 tvg-id="15122111303" tvg-name="Masa i Medo" tvg-logo="" group-title="***DECJI*** ",Masa i Medo
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28179
-#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="" group-title="***DECJI*** ",Looney Tunes
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3182
-#EXTINF:-1 tvg-id="" tvg-name="Tom And Jery" tvg-logo="" group-title="***DECJI*** ",Tom And Jery
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3826
-#EXTINF:-1 tvg-id="" tvg-name="Karusel" tvg-logo="" group-title="***DECJI*** ",Karusel
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/295
-#EXTINF:-1 tvg-id="" tvg-name="Gametoon HD" tvg-logo="" group-title="***DECJI*** ",Gametoon HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16974
-#EXTINF:-1 tvg-id="" tvg-name="GB TV" tvg-logo="" group-title="***DECJI*** ",GB TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4157
-#EXTINF:-1 tvg-id="" tvg-name="*** MUZIKA ***" tvg-logo="" group-title=" ***MUZIKA***",*** MUZIKA ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/867
-#EXTINF:-1 tvg-id="HTV1" tvg-name="Grand TV" tvg-logo="" group-title=" ***MUZIKA***",Grand TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/223
-#EXTINF:-1 tvg-id="29032297" tvg-name="Grand TV 2" tvg-logo="" group-title=" ***MUZIKA***",Grand TV 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/224
-#EXTINF:-1 tvg-id="2903225596" tvg-name="Balkanika" tvg-logo="" group-title=" ***MUZIKA***",Balkanika
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/243
-#EXTINF:-1 tvg-id="2903225588" tvg-name="DM Sat" tvg-logo="" group-title=" ***MUZIKA***",DM Sat
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/225
-#EXTINF:-1 tvg-id="2903224750" tvg-name="Hayat Folk" tvg-logo="" group-title=" ***MUZIKA***",Hayat Folk
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/235
-#EXTINF:-1 tvg-id="2903225592" tvg-name="BN Music" tvg-logo="" group-title=" ***MUZIKA***",BN Music
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/226
-#EXTINF:-1 tvg-id="2903225586" tvg-name="Pink Folk 1" tvg-logo="" group-title=" ***MUZIKA***",Pink Folk 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/227
-#EXTINF:-1 tvg-id="2903225587" tvg-name="Pink Folk 2" tvg-logo="" group-title=" ***MUZIKA***",Pink Folk 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/228
-#EXTINF:-1 tvg-id="29032213915" tvg-name="Izvorna TV" tvg-logo="" group-title=" ***MUZIKA***",Izvorna TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/344
-#EXTINF:-1 tvg-id="200820217873" tvg-name="Dobra Svadba" tvg-logo="" group-title=" ***MUZIKA***",Dobra Svadba
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3223
-#EXTINF:-1 tvg-id="2903227873" tvg-name="Dobra Exclusive" tvg-logo="" group-title=" ***MUZIKA***",Dobra Exclusive
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1123
-#EXTINF:-1 tvg-id="2903224860" tvg-name="Sevdah TV" tvg-logo="" group-title=" ***MUZIKA***",Sevdah TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/367
-#EXTINF:-1 tvg-id="2903225819" tvg-name="TV Banovina" tvg-logo="" group-title=" ***MUZIKA***",TV Banovina
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/233
-#EXTINF:-1 tvg-id="29032220129" tvg-name="Posavina TV" tvg-logo="" group-title=" ***MUZIKA***",Posavina TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/232
-#EXTINF:-1 tvg-id="2903227843" tvg-name="Narodna TV" tvg-logo="" group-title=" ***MUZIKA***",Narodna TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28251
-#EXTINF:-1 tvg-id="" tvg-name="TOP Sound" tvg-logo="" group-title=" ***MUZIKA***",TOP Sound
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28541
-#EXTINF:-1 tvg-id="2903226022" tvg-name="Roma TV" tvg-logo="" group-title=" ***MUZIKA***",Roma TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/296
-#EXTINF:-1 tvg-id="" tvg-name="Upera Balkan TV" tvg-logo="" group-title=" ***MUZIKA***",Upera Balkan TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3396
-#EXTINF:-1 tvg-id="2903225121" tvg-name="Pink Music 1" tvg-logo="" group-title=" ***MUZIKA***",Pink Music 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/230
-#EXTINF:-1 tvg-id="2903224867" tvg-name="Pink Music 2" tvg-logo="" group-title=" ***MUZIKA***",Pink Music 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/229
-#EXTINF:-1 tvg-id="29032210806" tvg-name="YU Planet" tvg-logo="" group-title=" ***MUZIKA***",YU Planet
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/348
-#EXTINF:-1 tvg-id="210820213" tvg-name="Dobra Muzicka" tvg-logo="" group-title=" ***MUZIKA***",Dobra Muzicka
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3226
-#EXTINF:-1 tvg-id="2903225161" tvg-name="OTV Valentino" tvg-logo="" group-title=" ***MUZIKA***",OTV Valentino
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/691
-#EXTINF:-1 tvg-id="" tvg-name="Valentino Etno" tvg-logo="" group-title=" ***MUZIKA***",Valentino Etno
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43719
-#EXTINF:-1 tvg-id="2001234722" tvg-name="Libertas TV" tvg-logo="" group-title="***HRVATSKA***",Libertas TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6259
-#EXTINF:-1 tvg-id="29032210692" tvg-name="DMC" tvg-logo="" group-title=" ***MUZIKA***",DMC
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/6260
-#EXTINF:-1 tvg-id="2903225590" tvg-name="Hayat Music" tvg-logo="" group-title=" ***MUZIKA***",Hayat Music
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/234
-#EXTINF:-1 tvg-id="29032299" tvg-name="IDJ TV" tvg-logo="" group-title=" ***MUZIKA***",IDJ TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/342
-#EXTINF:-1 tvg-id="" tvg-name="Toxic" tvg-logo="" group-title=" ***MUZIKA***",Toxic
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44069
-#EXTINF:-1 tvg-id="2903225377" tvg-name="Jugoton" tvg-logo="" group-title=" ***MUZIKA***",Jugoton
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/459
-#EXTINF:-1 tvg-id="2903225591" tvg-name="CMC" tvg-logo="" group-title=" ***MUZIKA***",CMC
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/231
-#EXTINF:-1 tvg-id="" tvg-name="OKK" tvg-logo="" group-title=" ***MUZIKA***",OKK
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39717
-#EXTINF:-1 tvg-id="2903226932" tvg-name="Pink Hits 1" tvg-logo="" group-title=" ***MUZIKA***",Pink Hits 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/443
-#EXTINF:-1 tvg-id="2903225383" tvg-name="Pink Hits 2" tvg-logo="" group-title=" ***MUZIKA***",Pink Hits 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/444
-#EXTINF:-1 tvg-id="29032230764" tvg-name="MTV 00s" tvg-logo="" group-title=" ***MUZIKA***",MTV 00s
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/236
-#EXTINF:-1 tvg-id="2903225940" tvg-name="MTV 80s" tvg-logo="" group-title=" ***MUZIKA***",MTV 80s
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/241
-#EXTINF:-1 tvg-id="2903225892" tvg-name="MTV 90s" tvg-logo="" group-title=" ***MUZIKA***",MTV 90s
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/239
-#EXTINF:-1 tvg-id="29032210858" tvg-name="MTV Live" tvg-logo="" group-title=" ***MUZIKA***",MTV Live
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/37475
-#EXTINF:-1 tvg-id="2903225925" tvg-name="MTV Adria" tvg-logo="" group-title=" ***MUZIKA***",MTV Adria
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/238
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="" group-title=" ***MUZIKA***",MTV Hits
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/240
-#EXTINF:-1 tvg-id="2903224895" tvg-name="MTV Club" tvg-logo="" group-title=" ***MUZIKA***",MTV Club
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/17504
-#EXTINF:-1 tvg-id="29032213918" tvg-name="City TV" tvg-logo="" group-title=" ***MUZIKA***",City TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/245
-#EXTINF:-1 tvg-id="" tvg-name="The Voice" tvg-logo="" group-title=" ***MUZIKA***",The Voice
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/244
-#EXTINF:-1 tvg-id="29032233337" tvg-name="MCM Top" tvg-logo="" group-title=" ***MUZIKA***",MCM Top
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/237
-#EXTINF:-1 tvg-id="" tvg-name="Jukebox " tvg-logo="" group-title=" ***MUZIKA***",Jukebox 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39672
-#EXTINF:-1 tvg-id="" tvg-name="Magic TV" tvg-logo="" group-title=" ***MUZIKA***",Magic TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/242
-#EXTINF:-1 tvg-id="" tvg-name="*** SPORT ***" tvg-logo="" group-title=" ***SPORT*** ",*** SPORT ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/868
-#EXTINF:-1 tvg-id="20012332168" tvg-name="Arena Sport 1 Premium SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 1 Premium SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39240
-#EXTINF:-1 tvg-id="20012332168" tvg-name="Arena Sport 1 Premium HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 1 Premium HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42568
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Premium BH" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 1 Premium BH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/45542
-#EXTINF:-1 tvg-id="20012332169" tvg-name="Arena Sport 2 Premium SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 2 Premium SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39241
-#EXTINF:-1 tvg-id="20012332169" tvg-name="Arena Sport 2 Premium HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 2 Premium HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44114
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 Premium BH" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 2 Premium BH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/45543
-#EXTINF:-1 tvg-id="20012332170" tvg-name="Arena Sport 3 Premium SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 3 Premium SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39242
-#EXTINF:-1 tvg-id="20012332170" tvg-name="Arena Sport 3 Premium HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 3 Premium HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44115
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 Premium BH" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 3 Premium BH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/45544
-#EXTINF:-1 tvg-id="Arena Sport 1 RS" tvg-name="Arena Sport 1 SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 1 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/97
-#EXTINF:-1 tvg-id="Arena Sport 1 RS" tvg-name="Arena Sport 1 SR HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 1 SR HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/643
-#EXTINF:-1 tvg-id="Arena Sport 2 RS" tvg-name="Arena Sport 2 SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 2 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/98
-#EXTINF:-1 tvg-id="Arena Sport 2 RS" tvg-name="Arena Sport 2 SR HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 2 SR HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/677
-#EXTINF:-1 tvg-id="Arena Sport 3 RS" tvg-name="Arena Sport 3 SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 3 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/99
-#EXTINF:-1 tvg-id="20012314812" tvg-name="Arena Sport 3 SR HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 3 SR HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/645
-#EXTINF:-1 tvg-id="Arena Sport 4 RS" tvg-name="Arena Sport 4 SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 4 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/100
-#EXTINF:-1 tvg-id="Arena Sport 4 RS" tvg-name="Arena Sport 4 SR HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 4 SR HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/646
-#EXTINF:-1 tvg-id="Arena Sport 5 RS" tvg-name="Arena Sport 5 SR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 5 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/101
-#EXTINF:-1 tvg-id="Arena Sport 5 RS" tvg-name="Arena Sport 5 SR HD" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 5 SR HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1398
-#EXTINF:-1 tvg-id="Arena Sport 1 HR" tvg-name="Arena Sport 1 HR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 1 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/102
-#EXTINF:-1 tvg-id="Arena Sport 2 HR" tvg-name="Arena Sport 2 HR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 2 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/103
-#EXTINF:-1 tvg-id="Arena Sport 3 HR" tvg-name="Arena Sport 3 HR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 3 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/104
-#EXTINF:-1 tvg-id="20012314727" tvg-name="Arena Sport 4 HR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 4 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/112
-#EXTINF:-1 tvg-id="ArenaSport5.hr" tvg-name="Arena Sport 5 HR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 5 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/114
-#EXTINF:-1 tvg-id="20012314729" tvg-name="Arena Sport 6 HR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 6 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/352
-#EXTINF:-1 tvg-id="20012326887" tvg-name="Arena Sport 7 HR " tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 7 HR 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/38772
-#EXTINF:-1 tvg-id="Arena Sport 8 HR" tvg-name="Arena Sport 8 HR " tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 8 HR 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/38773
-#EXTINF:-1 tvg-id="20012326889" tvg-name="Arena Sport 9 HR" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 9 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/38774
-#EXTINF:-1 tvg-id="20012326890" tvg-name="Arena Sport 10 HR " tvg-logo="" group-title=" ***SPORT*** ",Arena Sport 10 HR 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/38775
-#EXTINF:-1 tvg-id="Arena Sport 1 BiH" tvg-name="Arena Sport BIH" tvg-logo="" group-title=" ***SPORT*** ",Arena Sport BIH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43829
-#EXTINF:-1 tvg-id="Sport Klub 1" tvg-name="Sport Klub 1 SR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 1 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/116
-#EXTINF:-1 tvg-id="Sport Klub 1" tvg-name="Sport Klub 1 SR ***" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 1 SR ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/40052
-#EXTINF:-1 tvg-id="SportKlub2.rs" tvg-name="Sport Klub 2 SR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 2 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/117
-#EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="Sport Klub 3 SR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 3 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/118
-#EXTINF:-1 tvg-id="SportKlub4.rs" tvg-name="Sport Klub 4 SR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 4 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44849
-#EXTINF:-1 tvg-id="SportKlub5.rs" tvg-name="Sport Klub 5 SR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 5 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44850
-#EXTINF:-1 tvg-id="SportKlub6.rs" tvg-name="Sport Klub 6 SR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 6 SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44851
-#EXTINF:-1 tvg-id="SK1 HR" tvg-name="Sport Klub 1 HR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 1 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/119
-#EXTINF:-1 tvg-id="SK2 HR" tvg-name="Sport Klub 2 HR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 2 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/120
-#EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="Sport Klub 3 HR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 3 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/121
-#EXTINF:-1 tvg-id="SK4" tvg-name="Sport Klub 4 HR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 4 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/353
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="Sport Klub 5 HR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 5 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/694
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="Sport Klub 6 HR" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 6 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/355
-#EXTINF:-1 tvg-id="SK HD" tvg-name="Sport Klub HD" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/738
-#EXTINF:-1 tvg-id="Arenasport7.hr" tvg-name="Sport Klub 7" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 7
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16876
-#EXTINF:-1 tvg-id="Arenasport8.hr" tvg-name="Sport Klub 8" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 8
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16877
-#EXTINF:-1 tvg-id="SK 9 HD (SR)" tvg-name="Sport Klub 9" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 9
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16878
-#EXTINF:-1 tvg-id="SK 10 HD (SR)" tvg-name="Sport Klub 10" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub 10
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16879
-#EXTINF:-1 tvg-id="SportKlubGolf.rs" tvg-name="Sport Klub Golf" tvg-logo="" group-title=" ***SPORT*** ",Sport Klub Golf
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39834
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1" tvg-logo="" group-title=" ***SPORT*** ",Eurosport 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/128
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="EuroSport 1 HD" tvg-logo="" group-title=" ***SPORT*** ",EuroSport 1 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/2709
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD BG/EN Audio" tvg-logo="" group-title=" ***SPORT*** ",Eurosport 1 HD BG/EN Audio
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42684
-#EXTINF:-1 tvg-id="Eurosport2.rs" tvg-name="Eurosport 2" tvg-logo="" group-title=" ***SPORT*** ",Eurosport 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/129
-#EXTINF:-1 tvg-id="Eurosport2.rs" tvg-name="EuroSport 2 HD" tvg-logo="" group-title=" ***SPORT*** ",EuroSport 2 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/2711
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD BG/EN Audio" tvg-logo="" group-title=" ***SPORT*** ",Eurosport 2 HD BG/EN Audio
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42688
-#EXTINF:-1 tvg-id="MAXSport 1" tvg-name="Max Sport 1 HR" tvg-logo="" group-title=" ***SPORT*** ",Max Sport 1 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43197
-#EXTINF:-1 tvg-id="MAXSport 2" tvg-name="Max Sport 2 HR" tvg-logo="" group-title=" ***SPORT*** ",Max Sport 2 HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43198
-#EXTINF:-1 tvg-id="NovaSport.rs" tvg-name="Nova Sport" tvg-logo="" group-title=" ***SPORT*** ",Nova Sport
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3105
-#EXTINF:-1 tvg-id="20012335664" tvg-name="MNE Sport 1" tvg-logo="" group-title=" ***SPORT*** ",MNE Sport 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44841
-#EXTINF:-1 tvg-id="20012335665" tvg-name="MNE Sport 2" tvg-logo="" group-title=" ***SPORT*** ",MNE Sport 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44842
-#EXTINF:-1 tvg-id="20012335666" tvg-name="MNE Sport 3" tvg-logo="" group-title=" ***SPORT*** ",MNE Sport 3
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/44843
-#EXTINF:-1 tvg-id="29032220205" tvg-name="Šport TV 1 SL" tvg-logo="" group-title=" ***SPORT*** ",Šport TV 1 SL
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41720
-#EXTINF:-1 tvg-id="29032220206" tvg-name="Šport TV 2 SL" tvg-logo="" group-title=" ***SPORT*** ",Šport TV 2 SL
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41721
-#EXTINF:-1 tvg-id="29032220207" tvg-name="Šport TV 3 SL" tvg-logo="" group-title=" ***SPORT*** ",Šport TV 3 SL
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41722
-#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 1 CH" tvg-logo="" group-title=" ***SPORT*** ",Blue Sport 1 CH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41613
-#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 2 CH" tvg-logo="" group-title=" ***SPORT*** ",Blue Sport 2 CH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41614
-#EXTINF:-1 tvg-id="29032221471" tvg-name="Max Sport 1 BG" tvg-logo="" group-title=" ***SPORT*** ",Max Sport 1 BG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/182
-#EXTINF:-1 tvg-id="29032221472" tvg-name="Max Sport 2 BG" tvg-logo="" group-title=" ***SPORT*** ",Max Sport 2 BG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/183
-#EXTINF:-1 tvg-id="29032221473" tvg-name="Max Sport 3 BG" tvg-logo="" group-title=" ***SPORT*** ",Max Sport 3 BG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/184
-#EXTINF:-1 tvg-id="29032221474" tvg-name="Max Sport 4 BG" tvg-logo="" group-title=" ***SPORT*** ",Max Sport 4 BG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/185
-#EXTINF:-1 tvg-id="290322208" tvg-name="Diema Sport HD" tvg-logo="" group-title=" ***SPORT*** ",Diema Sport HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/390
-#EXTINF:-1 tvg-id="290322209" tvg-name="Diema Sport 2 HD" tvg-logo="" group-title=" ***SPORT*** ",Diema Sport 2 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/391
-#EXTINF:-1 tvg-id="290322210" tvg-name="Diema Sport 3 HD" tvg-logo="" group-title=" ***SPORT*** ",Diema Sport 3 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39657
-#EXTINF:-1 tvg-id="15122120028" tvg-name="Nova Sport BG" tvg-logo="" group-title=" ***SPORT*** ",Nova Sport BG
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/392
-#EXTINF:-1 tvg-id="" tvg-name="Ring HD" tvg-logo="" group-title=" ***SPORT*** ",Ring HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3774
-#EXTINF:-1 tvg-id="29032214798" tvg-name="SportTV 1" tvg-logo="" group-title=" ***SPORT*** ",SportTV 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/433
-#EXTINF:-1 tvg-id="29032214799" tvg-name="SportTV 2" tvg-logo="" group-title=" ***SPORT*** ",SportTV 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/434
-#EXTINF:-1 tvg-id="29032214800" tvg-name="SportTV 3" tvg-logo="" group-title=" ***SPORT*** ",SportTV 3
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/435
-#EXTINF:-1 tvg-id="29032214801" tvg-name="SportTV 4" tvg-logo="" group-title=" ***SPORT*** ",SportTV 4
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/436
-#EXTINF:-1 tvg-id="29032214802" tvg-name="SportTV 5" tvg-logo="" group-title=" ***SPORT*** ",SportTV 5
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/437
-#EXTINF:-1 tvg-id="29032233311" tvg-name="Eleven Sports 1 HD" tvg-logo="" group-title=" ***SPORT*** ",Eleven Sports 1 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/612
-#EXTINF:-1 tvg-id="PL-ElevenSports2" tvg-name="Eleven Sports 2 HD" tvg-logo="" group-title=" ***SPORT*** ",Eleven Sports 2 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/613
-#EXTINF:-1 tvg-id="PL-ElevenSports3" tvg-name="Eleven Sports 3 HD" tvg-logo="" group-title=" ***SPORT*** ",Eleven Sports 3 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/614
-#EXTINF:-1 tvg-id="PL-ElevenSports4" tvg-name="Eleven Sports 4 HD" tvg-logo="" group-title=" ***SPORT*** ",Eleven Sports 4 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/615
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Eleven Sports 5 HD" tvg-logo="" group-title=" ***SPORT*** ",Eleven Sports 5 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/616
-#EXTINF:-1 tvg-id="290322109" tvg-name="Bein Sport 1 FR" tvg-logo="" group-title=" ***SPORT*** ",Bein Sport 1 FR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16843
-#EXTINF:-1 tvg-id="29032214770" tvg-name="Bein Sport 2 FR" tvg-logo="" group-title=" ***SPORT*** ",Bein Sport 2 FR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16844
-#EXTINF:-1 tvg-id="29032214771" tvg-name="Bein Sport 3 FR" tvg-logo="" group-title=" ***SPORT*** ",Bein Sport 3 FR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16933
-#EXTINF:-1 tvg-id="29032219883" tvg-name="RMC Sport 1 HD " tvg-logo="" group-title=" ***SPORT*** ",RMC Sport 1 HD 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1073
-#EXTINF:-1 tvg-id="29032219884" tvg-name="RMC Sport 2 HD " tvg-logo="" group-title=" ***SPORT*** ",RMC Sport 2 HD 
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1074
-#EXTINF:-1 tvg-id="2903227873" tvg-name="RMC Sport 3 HD" tvg-logo="" group-title=" ***SPORT*** ",RMC Sport 3 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1075
-#EXTINF:-1 tvg-id="DAZN 1 DE" tvg-name="DAZN Bar 1" tvg-logo="" group-title=" ***SPORT*** ",DAZN Bar 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/345
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 1 ***" tvg-logo="" group-title=" ***SPORT*** ",DAZN Bar 1 ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/43624
-#EXTINF:-1 tvg-id="DAZN 2 DE" tvg-name="DAZN Bar 2" tvg-logo="" group-title=" ***SPORT*** ",DAZN Bar 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/346
-#EXTINF:-1 tvg-id="15122120137" tvg-name="NBA" tvg-logo="" group-title=" ***SPORT*** ",NBA
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/569
-#EXTINF:-1 tvg-id="FightChannel.svn" tvg-name="Fight Channel" tvg-logo="" group-title=" ***SPORT*** ",Fight Channel
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/422
-#EXTINF:-1 tvg-id="" tvg-name="FightBox HD" tvg-logo="" group-title=" ***SPORT*** ",FightBox HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/377
-#EXTINF:-1 tvg-id="Arena Fight" tvg-name="Arena Fight" tvg-logo="" group-title=" ***SPORT*** ",Arena Fight
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39710
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="" group-title=" ***SPORT*** ",Extreme Sports
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/40097
-#EXTINF:-1 tvg-id="24Kitchen.hr" tvg-name="Moja TV Premier Liga BH" tvg-logo="" group-title=" ***SPORT*** ",Moja TV Premier Liga BH
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/388
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Lig tv 1" tvg-logo="" group-title=" ***SPORT*** ",Lig tv 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/683
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Lig TV 2" tvg-logo="" group-title=" ***SPORT*** ",Lig TV 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/684
-#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="SyS 1" tvg-logo="" group-title=" ***SPORT*** ",SyS 1
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/301
-#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="SyS 2" tvg-logo="" group-title=" ***SPORT*** ",SyS 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/302
-#EXTINF:-1 tvg-id="29032232848" tvg-name="Bundesliga 1 HD" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 1 HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/263
-#EXTINF:-1 tvg-id="29032232848" tvg-name="Bundesliga 1 HD ***" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 1 HD ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/366
-#EXTINF:-1 tvg-id="29032232849" tvg-name="Bundesliga 2" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 2
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/384
-#EXTINF:-1 tvg-id="29032232850" tvg-name="Bundesliga 3" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 3
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/385
-#EXTINF:-1 tvg-id="29032232851" tvg-name="Bundesliga 4" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 4
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/386
-#EXTINF:-1 tvg-id="29032232852" tvg-name="Bundesliga 5" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 5
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/387
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Bundesliga 6" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 6
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/655
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="Bundesliga 7" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 7
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3055
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Bundesliga 8" tvg-logo="" group-title=" ***SPORT*** ",Bundesliga 8
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3056
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool TV" tvg-logo="" group-title=" ***SPORT*** ",Liverpool TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/41975
 
 #EXTINF:-1 tvg-id="" tvg-name="*** Erotski Kanali ***" tvg-logo="" group-title=" ***EROTSKI*** ",*** Erotski Kanali ***
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/813
@@ -2419,60 +1845,6 @@ http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39549
 #EXTINF:-1 tvg-id="" tvg-name="Radio Dvojka Chicago" tvg-logo="" group-title="***RADIO***",Radio Dvojka Chicago
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39552
 
-#EXTINF:-1 tvg-id="" tvg-name="*** KIDS ***" tvg-logo="" group-title="***DECJI*** ",*** KIDS ***
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/216
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SR" tvg-logo="" group-title="***DECJI*** ",Nickelodeon SR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/45492
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HR" tvg-logo="" group-title="***DECJI*** ",Nickelodeon HR
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/206
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NickJr." tvg-logo="" group-title="***DECJI*** ",NickJr.
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/205
-#EXTINF:-1 tvg-id="2c0dbaf549c5a24a150d0eae8be9d4bd" tvg-name="RTL Kockica" tvg-logo="" group-title="***DECJI*** ",RTL Kockica
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/209
-#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci" tvg-logo="" group-title="***DECJI*** ",Hayatovci
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/210
-#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="" group-title="***DECJI*** ",Pikaboo
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/215
-#EXTINF:-1 tvg-id="15122111347" tvg-name="TNT Kids" tvg-logo="" group-title="***DECJI*** ",TNT Kids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/203
-#EXTINF:-1 tvg-id="minimax" tvg-name="MiniMax" tvg-logo="" group-title="***DECJI*** ",MiniMax
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/208
-#EXTINF:-1 tvg-id="minitv" tvg-name="Mini tv" tvg-logo="" group-title="***DECJI*** ",Mini tv
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/211
-#EXTINF:-1 tvg-id="151221100" tvg-name="VaVooM" tvg-logo="" group-title="***DECJI*** ",VaVooM
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3409
-#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="" group-title="***DECJI*** ",Pink Kids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/373
-#EXTINF:-1 tvg-id="1512215382" tvg-name="SuperKids" tvg-logo="" group-title="***DECJI*** ",SuperKids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/374
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="" group-title="***DECJI*** ",Boomerang
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/214
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="" group-title="***DECJI*** ",Cartoon Network
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/1292
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr." tvg-logo="" group-title="***DECJI*** ",Disney Jr.
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/438
-#EXTINF:-1 tvg-id="" tvg-name="Kazabuka" tvg-logo="" group-title="***DECJI*** ",Kazabuka
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42908
-#EXTINF:-1 tvg-id="2903223" tvg-name="Hey Kids" tvg-logo="" group-title="***DECJI*** ",Hey Kids
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/40093
-#EXTINF:-1 tvg-id="15122110659" tvg-name="JimJam" tvg-logo="" group-title="***DECJI*** ",JimJam
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/300
-#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="" group-title="***DECJI*** ",Baby TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/212
-#EXTINF:-1 tvg-id="15122110660" tvg-name="Duck TV" tvg-logo="" group-title="***DECJI*** ",Duck TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/213
-#EXTINF:-1 tvg-id="15122111303" tvg-name="Masa i Medo" tvg-logo="" group-title="***DECJI*** ",Masa i Medo
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/28179
-#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="" group-title="***DECJI*** ",Looney Tunes
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3182
-#EXTINF:-1 tvg-id="" tvg-name="Tom And Jery" tvg-logo="" group-title="***DECJI*** ",Tom And Jery
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/3826
-#EXTINF:-1 tvg-id="" tvg-name="Karusel" tvg-logo="" group-title="***DECJI*** ",Karusel
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/295
-#EXTINF:-1 tvg-id="" tvg-name="Gametoon HD" tvg-logo="" group-title="***DECJI*** ",Gametoon HD
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16974
-#EXTINF:-1 tvg-id="" tvg-name="GB TV" tvg-logo="" group-title="***DECJI*** ",GB TV
-http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/4157
 #EXTINF:-1 tvg-id="" tvg-name="*** MUZIKA ***" tvg-logo="" group-title=" ***MUZIKA***",*** MUZIKA ***
 http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/867
 #EXTINF:-1 tvg-id="HTV1" tvg-name="Grand TV" tvg-logo="" group-title=" ***MUZIKA***",Grand TV
