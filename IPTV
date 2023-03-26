@@ -1,475 +1,1132 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="Hrvatska " tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Hrvatska.png" group-title="Hrvatska",Hrvatska 
-http://zvjerka.com:1194/mirkocosic/3024840255/24
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/19.%20HRT1.png" group-title="Hrvatska",HRT 1
-http://zvjerka.com:1194/mirkocosic/3024840255/25
-#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/20.%20HRT2.png" group-title="Hrvatska",HRT 2
-http://zvjerka.com:1194/mirkocosic/3024840255/26
-#EXTINF:-1 tvg-id="hrt3" tvg-name="HRT 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/21.%20HRT3.png" group-title="Hrvatska",HRT 3
-http://zvjerka.com:1194/mirkocosic/3024840255/27
-#EXTINF:-1 tvg-id="hrt4" tvg-name="HTV 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/22.%20HRT4.png" group-title="Hrvatska",HRT 4
-http://zvjerka.com:1194/mirkocosic/3024840255/28
-#EXTINF:-1 tvg-id="hrtint" tvg-name="HRT int." tvg-logo="http://62.210.209.80:82/logo_channels/hrt5.png" group-title="Hrvatska",HTV 5
-http://zvjerka.com:1194/mirkocosic/3024840255/29
-#EXTINF:-1 tvg-id="novatv" tvg-name="Nova TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/33.%20NOVA%20TV.png" group-title="Hrvatska",Nova TV (H265)
-http://zvjerka.com:1194/mirkocosic/3024840255/30
-#EXTINF:-1 tvg-id="novatv" tvg-name="Nova TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/33.%20NOVA%20TV.png" group-title="Hrvatska",Nova TV
-http://zvjerka.com:1194/mirkocosic/3024840255/7990
-#EXTINF:-1 tvg-id="rtltv" tvg-name="RTL" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/44.%20RTL.png" group-title="Hrvatska",RTL (H265)
-http://zvjerka.com:1194/mirkocosic/3024840255/31
-#EXTINF:-1 tvg-id="rtltv" tvg-name="RTL" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/44.%20RTL.png" group-title="Hrvatska",RTL HR
-http://zvjerka.com:1194/mirkocosic/3024840255/7991
-#EXTINF:-1 tvg-id="" tvg-name="RTL Adria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/80/RTL_Adria_%282020-.n.v.%29.png/revision/latest?cb=20200225184616" group-title="Hrvatska",RTL Adria
-http://zvjerka.com:1194/mirkocosic/3024840255/9162
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/45.%20RTL%202.png" group-title="Hrvatska",RTL 2
-http://zvjerka.com:1194/mirkocosic/3024840255/32
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
-http://zvjerka.com:1194/mirkocosic/3024840255/33
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/rtl-kockica-logo.png" group-title="Hrvatska",RTL Kockica
-http://zvjerka.com:1194/mirkocosic/3024840255/34
-#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska",RTL Living
-http://zvjerka.com:1194/mirkocosic/3024840255/35
-#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL PASSION
-http://zvjerka.com:1194/mirkocosic/3024840255/36
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma TV
-http://zvjerka.com:1194/mirkocosic/3024840255/37
-#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/10.%20DIVA.png" group-title="Hrvatska",Diva
-http://zvjerka.com:1194/mirkocosic/3024840255/38
-#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/27.%20N1%20HR.png" group-title="Hrvatska",N1 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/39
-#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CMC_TV_logo.png" group-title="Hrvatska",CMC
-http://zvjerka.com:1194/mirkocosic/3024840255/40
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska televizija" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/SlavonskaTelevizija.png" group-title="Hrvatska",Slavonska televizija
-http://zvjerka.com:1194/mirkocosic/3024840255/41
-#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/23.%20LAUDATO%20TV.png" group-title="Hrvatska",Laudato TV
-http://zvjerka.com:1194/mirkocosic/3024840255/42
-#EXTINF:-1 tvg-id="jabukatv" tvg-name="Jabuka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/25.%20JABUKA%20TV.png" group-title="Hrvatska",Jabuka TV
-http://zvjerka.com:1194/mirkocosic/3024840255/43
-#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/OTV%20VALENTINO.png" group-title="Hrvatska",OTV Valentino
-http://zvjerka.com:1194/mirkocosic/3024840255/44
-#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/63.%20Z1.png" group-title="Hrvatska",Z1
-http://zvjerka.com:1194/mirkocosic/3024840255/45
-#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/64.%20OSJECKA%20TV.png" group-title="Hrvatska",Osjecka TV
-http://zvjerka.com:1194/mirkocosic/3024840255/46
-#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/5.%20banovina.png" group-title="Hrvatska",Banovina TV
-http://zvjerka.com:1194/mirkocosic/3024840255/47
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/65.%20VINKOVACKA%20TV.png" group-title="Hrvatska",Vinkovacka TV
-http://zvjerka.com:1194/mirkocosic/3024840255/48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 1 HD   hls
+http://89.187.169.111:4065/live?hls=1&channelId=65&deviceMac=00:1A:79:54:52:85&split=f79a363349b28c47651b894165d28d31&anycast=29572d54ebf9f9fd0633c2147b293d23&token=513787671443
 
-#EXTINF:-1 tvg-id="" tvg-name="Edukativni" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Education.png" group-title="Edukativni",Edukativni
-http://zvjerka.com:1194/mirkocosic/3024840255/85
-#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/24kitchen_bg.png" group-title="Edukativni",24 Kitchen
-http://zvjerka.com:1194/mirkocosic/3024840255/86
-#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/ANIMAL%20PLANET.png" group-title="Edukativni",Animal Planet
-http://zvjerka.com:1194/mirkocosic/3024840255/87
-#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/9.%20CBS%20REALITY.png" group-title="Edukativni",CBS Reality
-http://zvjerka.com:1194/mirkocosic/3024840255/88
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/1.%20CNN.png" group-title="Edukativni",CNN
-http://zvjerka.com:1194/mirkocosic/3024840255/89
-#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Investigation" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/CRIME%20INVESTIGATION.jpg" group-title="Edukativni",Crime & Investigation
-http://zvjerka.com:1194/mirkocosic/3024840255/90
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DA%20VINCI%20LEARNING%20ok.png" group-title="Edukativni",Da Vinci Learning
-http://zvjerka.com:1194/mirkocosic/3024840255/91
-#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DISCOVERY%20CHANNEL.png" group-title="Edukativni",Discovery Channel
-http://zvjerka.com:1194/mirkocosic/3024840255/92
-#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Discovery ID" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/ID%20DISCOVERY.png" group-title="Edukativni",Discovery ID
-http://zvjerka.com:1194/mirkocosic/3024840255/93
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DISCOVERY%20SCIENCE.png" group-title="Edukativni",Discovery Science HD
-http://zvjerka.com:1194/mirkocosic/3024840255/94
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="Discovery TLC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/tlc-logo.png" group-title="Edukativni",Discovery TLC
-http://zvjerka.com:1194/mirkocosic/3024840255/96
-#EXTINF:-1 tvg-id="" tvg-name="Fine Living" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/00/Fine_Living_%282016-.n.v.%29.png/revision/latest?cb=20180302191111" group-title="Edukativni",Fine Living
-http://zvjerka.com:1194/mirkocosic/3024840255/4435
-#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBOX" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/10.%20DOCU%20BOX%20OK.png" group-title="Edukativni",DocuBOX
-http://zvjerka.com:1194/mirkocosic/3024840255/97
-#EXTINF:-1 tvg-id="planet-earth" tvg-name="Planet Earth" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/11.%20planet%20earth.png" group-title="Edukativni",Planet Earth
-http://zvjerka.com:1194/mirkocosic/3024840255/98
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/12.%20BBC%20EARTH.png" group-title="Edukativni",BBC Earth
-http://zvjerka.com:1194/mirkocosic/3024840255/99
-#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/14.%20History%20channwl.png" group-title="Edukativni",History Channel
-http://zvjerka.com:1194/mirkocosic/3024840255/100
-#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History Channel 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/13.%20history%202.png" group-title="Edukativni",History Channel 2
-http://zvjerka.com:1194/mirkocosic/3024840255/101
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/16.%20NatGeo.png" group-title="Edukativni",National Geographic
-http://zvjerka.com:1194/mirkocosic/3024840255/103
-#EXTINF:-1 tvg-id="" tvg-name="DTX Discovery" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/DTX.png" group-title="Edukativni",DTX Discovery
-http://zvjerka.com:1194/mirkocosic/3024840255/2012
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/travel-channel-logo.png" group-title="Edukativni",Travel Channel
-http://zvjerka.com:1194/mirkocosic/3024840255/104
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explore" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/17.%20Viasat%20Explore.png" group-title="Edukativni",Viasat Explore
-http://zvjerka.com:1194/mirkocosic/3024840255/105
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/18.%20VIASAT%20HISTORY%20OK.png" group-title="Edukativni",Viasat History
-http://zvjerka.com:1194/mirkocosic/3024840255/106
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/19.%20Viasat%20Nature.png" group-title="Edukativni",Viasat Nature
-http://zvjerka.com:1194/mirkocosic/3024840255/107
-#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="Poljoprivredna TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="Edukativni",Poljoprivredna TV
-http://zvjerka.com:1194/mirkocosic/3024840255/108
-#EXTINF:-1 tvg-id="" tvg-name="LUXE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/1280px-Luxe-TV-Logo.svg.png" group-title="Edukativni",LUXE TV
-http://zvjerka.com:1194/mirkocosic/3024840255/6589
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Trip" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngeXIbIbnAK_2pujSjnu6uQ_w4kyFxpE_sXYgyY=s900-c-k-c0x00ffffff-no-rj" group-title="Edukativni",Balkan Trip
-http://zvjerka.com:1194/mirkocosic/3024840255/9070
-#EXTINF:-1 tvg-id="" tvg-name="Sport" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Sport.png" group-title="Sport",Sport
-http://zvjerka.com:1194/mirkocosic/3024840255/109
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport (test)" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Nova%20sport.jpg" group-title="Sport",Nova Sport (test)
-http://zvjerka.com:1194/mirkocosic/3024840255/110
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1
-http://zvjerka.com:1194/mirkocosic/3024840255/111
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2
-http://zvjerka.com:1194/mirkocosic/3024840255/112
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3
-http://zvjerka.com:1194/mirkocosic/3024840255/113
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4
-http://zvjerka.com:1194/mirkocosic/3024840255/114
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5
-http://zvjerka.com:1194/mirkocosic/3024840255/115
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1 Premium (TEST)" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 Premium (TEST)
-http://zvjerka.com:1194/mirkocosic/3024840255/116
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2 Premium (TEST)" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 Premium (TEST)
-http://zvjerka.com:1194/mirkocosic/3024840255/117
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3 Premium (TEST)" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 Premium (TEST)
-http://zvjerka.com:1194/mirkocosic/3024840255/118
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 SR
-http://zvjerka.com:1194/mirkocosic/3024840255/9649
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 SR
-http://zvjerka.com:1194/mirkocosic/3024840255/9650
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 SR" tvg-logo="" group-title="Sport",Arena Sport 3 SR
-http://zvjerka.com:1194/mirkocosic/3024840255/9651
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 SD" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4 SD
-http://zvjerka.com:1194/mirkocosic/3024840255/119
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/120
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/121
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/122
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/123
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/124
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/arena6_logo.png" group-title="Sport",Arena Sport 6 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/125
-#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="Arena Sport Premier Liga BiH" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport Premier Liga BiH
-http://zvjerka.com:1194/mirkocosic/3024840255/126
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/dazn%20bar.png" group-title="Sport",DAZN 1 Bar
-http://zvjerka.com:1194/mirkocosic/3024840255/130
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/dazn%20bar.png" group-title="Sport",DAZN 2 Bar
-http://zvjerka.com:1194/mirkocosic/3024840255/131
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/25.%20FOX%20SPORT%201.png" group-title="Sport",FOX Sports 1
-http://zvjerka.com:1194/mirkocosic/3024840255/140
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/25.%20FOX%20SPORT%201.png" group-title="Sport",FOX Sports 2
-http://zvjerka.com:1194/mirkocosic/3024840255/141
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/25.%20FOX%20SPORT%201.png" group-title="Sport",FOX Sports 3
-http://zvjerka.com:1194/mirkocosic/3024840255/142
-#EXTINF:-1 tvg-id="eurosport" tvg-name="EUROSPORT 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/British-Eurosport%201%20hd.png" group-title="Sport",EUROSPORT 1 HD
-http://zvjerka.com:1194/mirkocosic/3024840255/143
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/Eurosport_2_HD.png" group-title="Sport",EUROSPORT 2 HD
-http://zvjerka.com:1194/mirkocosic/3024840255/144
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/NBA_TV.png" group-title="Sport",NBA TV
-http://zvjerka.com:1194/mirkocosic/3024840255/145
-#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/zvezda.jpg" group-title="Sport",Zvezda TV
-http://zvjerka.com:1194/mirkocosic/3024840255/6591
-#EXTINF:-1 tvg-id="" tvg-name="Partizan TV" tvg-logo="https://www.partizan.tv/tv_00000.png" group-title="Sport",Partizan TV
-http://zvjerka.com:1194/mirkocosic/3024840255/6592
-#EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fight-channel-logo.png" group-title="Sport",Fight Channel
-http://zvjerka.com:1194/mirkocosic/3024840255/146
-#EXTINF:-1 tvg-id="" tvg-name="UFC/FightBox" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/UFC.jpg" group-title="Sport",UFC/FightBox
-http://zvjerka.com:1194/mirkocosic/3024840255/2010
-#EXTINF:-1 tvg-id="hntv" tvg-name="HNTV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/HNTV.jpg" group-title="Sport",HNTV
-http://zvjerka.com:1194/mirkocosic/3024840255/147
-#EXTINF:-1 tvg-id="kreator-tv" tvg-name="Kreator TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/logo-kreator-tv-3d.png" group-title="Sport",Kreator TV
-http://zvjerka.com:1194/mirkocosic/3024840255/148
-#EXTINF:-1 tvg-id="" tvg-name="Lov i Ribolov" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/Lov%20i%20ribolov%20ok.png" group-title="Sport",Lov i Ribolov
-http://zvjerka.com:1194/mirkocosic/3024840255/149
-#EXTINF:-1 tvg-id="" tvg-name="Sport Digital HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/sport%20digital%20hd.png" group-title="Sport",Sport Digital HD
-http://zvjerka.com:1194/mirkocosic/3024840255/150
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 1 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/151
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 2 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/152
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 3 HR
-http://zvjerka.com:1194/mirkocosic/3024840255/153
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 1 SR
-http://zvjerka.com:1194/mirkocosic/3024840255/154
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 2 SR
-http://zvjerka.com:1194/mirkocosic/3024840255/155
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 3 SR
-http://zvjerka.com:1194/mirkocosic/3024840255/156
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 4
-http://zvjerka.com:1194/mirkocosic/3024840255/157
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 5
-http://zvjerka.com:1194/mirkocosic/3024840255/158
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 6
-http://zvjerka.com:1194/mirkocosic/3024840255/159
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 7
-http://zvjerka.com:1194/mirkocosic/3024840255/160
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 8
-http://zvjerka.com:1194/mirkocosic/3024840255/161
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 9
-http://zvjerka.com:1194/mirkocosic/3024840255/162
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 10
-http://zvjerka.com:1194/mirkocosic/3024840255/163
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub Start
-http://zvjerka.com:1194/mirkocosic/3024840255/164
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/real%20madrid%20tv.png" group-title="Sport",Real Madrid TV
-http://zvjerka.com:1194/mirkocosic/3024840255/165
-#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/barca%20tv.png" group-title="Sport",Barca TV
-http://zvjerka.com:1194/mirkocosic/3024840255/166
-#EXTINF:-1 tvg-id="" tvg-name="Bayern TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/bayern%20tv.png" group-title="Sport",Bayern TV
-http://zvjerka.com:1194/mirkocosic/3024840255/167
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SPORT%201.png" group-title="Sport",Sport 1 HD
-http://zvjerka.com:1194/mirkocosic/3024840255/168
-#EXTINF:-1 tvg-id="" tvg-name="Sportska TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/sportska%20tv.png" group-title="Sport",Sportska TV
-http://zvjerka.com:1194/mirkocosic/3024840255/169
-#EXTINF:-1 tvg-id="" tvg-name="SOS" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/sos_kanal.png" group-title="Sport",SOS
-http://zvjerka.com:1194/mirkocosic/3024840255/170
-#EXTINF:-1 tvg-id="" tvg-name="Super tennis" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERTENNIS.png" group-title="Sport",Super tennis
-http://zvjerka.com:1194/mirkocosic/3024840255/171
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax.png" group-title="Film",Cinemax 1
-http://zvjerka.com:1194/mirkocosic/3024840255/173
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax-2.png" group-title="Film",Cinemax 2
-http://zvjerka.com:1194/mirkocosic/3024840255/174
-#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_action_logo.png" group-title="Film",Cinestar Action
-http://zvjerka.com:1194/mirkocosic/3024840255/175
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinestartv_fantasy_logo.png" group-title="Film",CineStar Fantasy
-http://zvjerka.com:1194/mirkocosic/3024840255/176
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Film",CineStar Premiere 1
-http://zvjerka.com:1194/mirkocosic/3024840255/177
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="Film",CineStar Premiere 2
-http://zvjerka.com:1194/mirkocosic/3024840255/178
-#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinestar_TV1_logo.png" group-title="Film",CineStar TV
-http://zvjerka.com:1194/mirkocosic/3024840255/179
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Film",Cinestar TV 2
-http://zvjerka.com:1194/mirkocosic/3024840255/8823
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Comedy" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/cinestartv_comedy_logo.png" group-title="Film",Cinestar Comedy
-http://zvjerka.com:1194/mirkocosic/3024840255/180
-#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinemania-logo.png" group-title="Film",Cinemania
-http://zvjerka.com:1194/mirkocosic/3024840255/181
-#EXTINF:-1 tvg-id="film-klub" tvg-name="Film Klub" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/14.%20FILM%20KLUB.png" group-title="Film",Film Klub
-http://zvjerka.com:1194/mirkocosic/3024840255/182
-#EXTINF:-1 tvg-id="filmbox-hd" tvg-name="FILMBOX" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/filmbox_extra_pl_hd.png" group-title="Film",FILMBOX
-http://zvjerka.com:1194/mirkocosic/3024840255/183
-#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-logo.png" group-title="Film",FOX
-http://zvjerka.com:1194/mirkocosic/3024840255/184
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX Crime" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/17.%20FOX%20CRIME.png" group-title="Film",FOX Crime
-http://zvjerka.com:1194/mirkocosic/3024840255/185
-#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX Life" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox_life_ru.png" group-title="Film",FOX Life
-http://zvjerka.com:1194/mirkocosic/3024840255/186
-#EXTINF:-1 tvg-id="fox-movies" tvg-name="FOX Movies" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-movies-logo.png" group-title="Film",FOX Movies
-http://zvjerka.com:1194/mirkocosic/3024840255/187
-#EXTINF:-1 tvg-id="" tvg-name="FOX Business" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/FOX%20Business.jpg" group-title="Film",FOX Business
-http://zvjerka.com:1194/mirkocosic/3024840255/188
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO Adria
-http://zvjerka.com:1194/mirkocosic/3024840255/189
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO 2 HD
-http://zvjerka.com:1194/mirkocosic/3024840255/190
-#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO 3 HD
-http://zvjerka.com:1194/mirkocosic/3024840255/191
-#EXTINF:-1 tvg-id="" tvg-name="HBO GO" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO GO
-http://zvjerka.com:1194/mirkocosic/3024840255/8827
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 1
-http://zvjerka.com:1194/mirkocosic/3024840255/8824
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 2
-http://zvjerka.com:1194/mirkocosic/3024840255/8825
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 4" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 4
-http://zvjerka.com:1194/mirkocosic/3024840255/8826
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SuperStar (TEST)" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERSTAR.png" group-title="Film",SuperStar (TEST)
-http://zvjerka.com:1194/mirkocosic/3024840255/192
-#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/25.%20KINO%20TV.png" group-title="Film",Kino TV
-http://zvjerka.com:1194/mirkocosic/3024840255/193
-#EXTINF:-1 tvg-id="klasiktv" tvg-name="Klasik Tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/KlasikTV_logo.png" group-title="Film",Klasik Tv
-http://zvjerka.com:1194/mirkocosic/3024840255/194
-#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/27.%20M1%20FILM.png" group-title="Film",M1 Film
-http://zvjerka.com:1194/mirkocosic/3024840255/195
-#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickBox TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PICKBOX.png" group-title="Film",PickBox TV
-http://zvjerka.com:1194/mirkocosic/3024840255/196
-#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/scifi_adria_logo.jpg" group-title="Film",SciFi
-http://zvjerka.com:1194/mirkocosic/3024840255/197
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/amc_logo_2016.png" group-title="Film",AMC
-http://zvjerka.com:1194/mirkocosic/3024840255/198
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/1.%20AXN.png" group-title="Film",AXN
-http://zvjerka.com:1194/mirkocosic/3024840255/199
-#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/axn_spin_logo.png" group-title="Film",AXN Spin
-http://zvjerka.com:1194/mirkocosic/3024840255/200
-#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="Comedy Central Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/comedy-centra-extra-logo.png" group-title="Film",Comedy Central Extra
-http://zvjerka.com:1194/mirkocosic/3024840255/202
-#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/viasat-tv-1000.png" group-title="Film",TV 1000
-http://zvjerka.com:1194/mirkocosic/3024840255/204
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 1
-http://zvjerka.com:1194/mirkocosic/3024840255/205
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 2
-http://zvjerka.com:1194/mirkocosic/3024840255/206
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 3
-http://zvjerka.com:1194/mirkocosic/3024840255/207
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 4
-http://zvjerka.com:1194/mirkocosic/3024840255/208
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 5
-http://zvjerka.com:1194/mirkocosic/3024840255/209
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 6
-http://zvjerka.com:1194/mirkocosic/3024840255/210
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 7" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 7
-http://zvjerka.com:1194/mirkocosic/3024840255/211
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 8
-http://zvjerka.com:1194/mirkocosic/3024840255/212
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 9
-http://zvjerka.com:1194/mirkocosic/3024840255/213
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Horror" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Horror
-http://zvjerka.com:1194/mirkocosic/3024840255/214
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Kino" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Kino
-http://zvjerka.com:1194/mirkocosic/3024840255/215
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Premium" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Premium
-http://zvjerka.com:1194/mirkocosic/3024840255/216
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Gold" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Gold
-http://zvjerka.com:1194/mirkocosic/3024840255/217
-#EXTINF:-1 tvg-id="" tvg-name="Muzika" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Music.jpg" group-title="Muzika",Muzika
-http://zvjerka.com:1194/mirkocosic/3024840255/218
-#EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/7.%20dm%20sat.jpg" group-title="Muzika",DM Sat
-http://zvjerka.com:1194/mirkocosic/3024840255/219
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/8.%20GRAND%202.png" group-title="Muzika",Grand 2
-http://zvjerka.com:1194/mirkocosic/3024840255/220
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/9.%20grand%20televizija.png" group-title="Muzika",Grand Narodna TV
-http://zvjerka.com:1194/mirkocosic/3024840255/221
-#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/IzvornaTV_logo.png" group-title="Muzika",Izvorna TV
-http://zvjerka.com:1194/mirkocosic/3024840255/222
-#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/jugoton-tv-logo.png" group-title="Muzika",Jugoton TV
-http://zvjerka.com:1194/mirkocosic/3024840255/223
-#EXTINF:-1 tvg-id="kopernikus" tvg-name="K::CN 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 1
-http://zvjerka.com:1194/mirkocosic/3024840255/224
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 2
-http://zvjerka.com:1194/mirkocosic/3024840255/225
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 3
-http://zvjerka.com:1194/mirkocosic/3024840255/226
-#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/71.%20SEVDAH%20TV.png" group-title="Muzika",Sevdah TV
-http://zvjerka.com:1194/mirkocosic/3024840255/227
-#EXTINF:-1 tvg-id="" tvg-name="Moj Kanal BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/12.%20MOJ%20KANAL%20OK.png" group-title="Muzika",Moj Kanal BiH
-http://zvjerka.com:1194/mirkocosic/3024840255/228
-#EXTINF:-1 tvg-id="mtv-adria" tvg-name="MTV Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/4.%20MTV%20ADRIA.png" group-title="Muzika",MTV Adria
-http://zvjerka.com:1194/mirkocosic/3024840255/229
-#EXTINF:-1 tvg-id="mtv-base" tvg-name="MTV Base" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/13.%20MTV%20BASE.jpg" group-title="Muzika",MTV Base
-http://zvjerka.com:1194/mirkocosic/3024840255/230
-#EXTINF:-1 tvg-id="" tvg-name="Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/14.%20NARODNA%20TV.jpg" group-title="Muzika",Narodna TV
-http://zvjerka.com:1194/mirkocosic/3024840255/231
-#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV Hits" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/15.%20MTV%20HITS.png" group-title="Muzika",MTV Hits
-http://zvjerka.com:1194/mirkocosic/3024840255/232
-#EXTINF:-1 tvg-id="" tvg-name="Balkanika TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/16.%20Balkanika.png" group-title="Muzika",Balkanika TV
-http://zvjerka.com:1194/mirkocosic/3024840255/233
-#EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/planeta_tv.png" group-title="Muzika",Planeta TV
-http://zvjerka.com:1194/mirkocosic/3024840255/234
-#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Muzicki/IDJTV.jpg" group-title="Muzika",IDJ TV
-http://zvjerka.com:1194/mirkocosic/3024840255/235
-#EXTINF:-1 tvg-id="" tvg-name="Duga TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png" group-title="Muzika",Duga TV
-http://zvjerka.com:1194/mirkocosic/3024840255/236
-#EXTINF:-1 tvg-id="" tvg-name="Djeciji" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Kids.jpg" group-title="Djeciji",Djeciji
-http://zvjerka.com:1194/mirkocosic/3024840255/237
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry 24 h" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/4.%20tom%20and%20jerry.png" group-title="Djeciji",Tom and Jerry 24 h
-http://zvjerka.com:1194/mirkocosic/3024840255/238
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/7.%20Cartoon%20network.png" group-title="Djeciji",Cartoon Network
-http://zvjerka.com:1194/mirkocosic/3024840255/239
-#EXTINF:-1 tvg-id="babytv" tvg-name="BABY TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/babatv-logo.png" group-title="Djeciji",BABY TV
-http://zvjerka.com:1194/mirkocosic/3024840255/240
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/boomerang_it_logo.png" group-title="Djeciji",Boomerang
-http://zvjerka.com:1194/mirkocosic/3024840255/241
-#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Disney_Channel_2014.png" group-title="Djeciji",Disney channel
-http://zvjerka.com:1194/mirkocosic/3024840255/242
-#EXTINF:-1 tvg-id="" tvg-name="Mini Ultra TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/9.%20MINI%20ULTRA.jpg" group-title="Djeciji",Mini Ultra TV
-http://zvjerka.com:1194/mirkocosic/3024840255/243
-#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/minimax-logo.png" group-title="Djeciji",Minimax
-http://zvjerka.com:1194/mirkocosic/3024840255/244
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/11.%20NICK%20JR.png" group-title="Djeciji",Nick Jr.
-http://zvjerka.com:1194/mirkocosic/3024840255/245
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Nickelodeon-logo.png" group-title="Djeciji",Nickelodeon
-http://zvjerka.com:1194/mirkocosic/3024840255/246
-#EXTINF:-1 tvg-id="" tvg-name="Ultra TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Ultra-tv-logo.png" group-title="Djeciji",Ultra TV
-http://zvjerka.com:1194/mirkocosic/3024840255/247
-#EXTINF:-1 tvg-id="tnt-kids" tvg-name="TNT Kids" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/TNT.png" group-title="Djeciji",TNT Kids
-http://zvjerka.com:1194/mirkocosic/3024840255/248
-#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pikaboo_logo.png" group-title="Djeciji",Pikaboo
-http://zvjerka.com:1194/mirkocosic/3024840255/249
-#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/TOGGO%20PLUS.png" group-title="Djeciji",Toggo Plus
-http://zvjerka.com:1194/mirkocosic/3024840255/250
-#EXTINF:-1 tvg-id="" tvg-name="Tropik TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TROPIK-TV.png" group-title="Djeciji",Tropik TV
-http://zvjerka.com:1194/mirkocosic/3024840255/251
-#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Masa%20i%20Medo.png" group-title="Djeciji",Masa i Medo
-http://zvjerka.com:1194/mirkocosic/3024840255/252
-#EXTINF:-1 tvg-id="" tvg-name="Sundjer Bob" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sundjer%20Bob.png" group-title="Djeciji",Sundjer Bob
-http://zvjerka.com:1194/mirkocosic/3024840255/253
-#EXTINF:-1 tvg-id="" tvg-name="Vavoom TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Vavoom.png" group-title="Djeciji",Vavoom TV
-http://zvjerka.com:1194/mirkocosic/3024840255/254
-#EXTINF:-1 tvg-id="" tvg-name="Pink" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/72.%20PINK%201.png" group-title="Pink",Pink
-http://zvjerka.com:1194/mirkocosic/3024840255/255
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 1
-http://zvjerka.com:1194/mirkocosic/3024840255/256
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 2
-http://zvjerka.com:1194/mirkocosic/3024840255/257
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 3
-http://zvjerka.com:1194/mirkocosic/3024840255/258
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 4
-http://zvjerka.com:1194/mirkocosic/3024840255/259
-#EXTINF:-1 tvg-id="pink-action" tvg-name="Pink Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-action-logo.png" group-title="Pink",Pink Action
-http://zvjerka.com:1194/mirkocosic/3024840255/260
-#EXTINF:-1 tvg-id="pink-comedy" tvg-name="Pink Comedy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkComedy.png" group-title="Pink",Pink Comedy
-http://zvjerka.com:1194/mirkocosic/3024840255/261
-#EXTINF:-1 tvg-id="pink-action-3" tvg-name="Pink Crime & Mystery" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/CRIME.png" group-title="Pink",Pink Crime & Mystery
-http://zvjerka.com:1194/mirkocosic/3024840255/262
-#EXTINF:-1 tvg-id="pink-film" tvg-name="Pink Film" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-film-logo.png" group-title="Pink",Pink Film
-http://zvjerka.com:1194/mirkocosic/3024840255/263
-#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/PinkFolk1_SRB.png" group-title="Pink",Pink Folk 1
-http://zvjerka.com:1194/mirkocosic/3024840255/264
-#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/Pink_Folk2.png" group-title="Pink",Pink Folk 2
-http://zvjerka.com:1194/mirkocosic/3024840255/265
-#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="PINK HA HA" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/PINK%20HAHA.png" group-title="Pink",PINK HA HA
-http://zvjerka.com:1194/mirkocosic/3024840255/266
-#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-kids-logo.png" group-title="Pink",Pink Kids
-http://zvjerka.com:1194/mirkocosic/3024840255/267
-#EXTINF:-1 tvg-id="pink-movies" tvg-name="Pink Movies" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/pink-movies-logo.png" group-title="Pink",Pink Movies
-http://zvjerka.com:1194/mirkocosic/3024840255/268
-#EXTINF:-1 tvg-id="pink-music" tvg-name="Pink Music 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkMusic_logo.png" group-title="Pink",Pink Music 1
-http://zvjerka.com:1194/mirkocosic/3024840255/269
-#EXTINF:-1 tvg-id="pink-music-2" tvg-name="Pink Music 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkMusic2_logo.png" group-title="Pink",Pink Music 2
-http://zvjerka.com:1194/mirkocosic/3024840255/270
-#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkPlus.png" group-title="Pink",Pink Plus
-http://zvjerka.com:1194/mirkocosic/3024840255/271
-#EXTINF:-1 tvg-id="pink-premium" tvg-name="Pink Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkPremium.png" group-title="Pink",Pink Premium
-http://zvjerka.com:1194/mirkocosic/3024840255/272
-#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Pink",Pink Reality
-http://zvjerka.com:1194/mirkocosic/3024840255/273
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="Pink Romance" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Romance_logo.png" group-title="Pink",Pink Romance
-http://zvjerka.com:1194/mirkocosic/3024840255/274
-#EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkHorror.png" group-title="Pink",Pink Horror
-http://zvjerka.com:1194/mirkocosic/3024840255/275
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_SciFi_Fantasy_logo.png" group-title="Pink",Pink Sci Fi & Fantasy
-http://zvjerka.com:1194/mirkocosic/3024840255/276
-#EXTINF:-1 tvg-id="pink-action-2" tvg-name="Pink Thriler" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Thriller_logo.png" group-title="Pink",Pink Thriler
-http://zvjerka.com:1194/mirkocosic/3024840255/277
-#EXTINF:-1 tvg-id="pink-serije" tvg-name="Pink Serije" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Serije_logo.png" group-title="Pink",Pink Serije
-http://zvjerka.com:1194/mirkocosic/3024840255/278
-#EXTINF:-1 tvg-id="pink-show" tvg-name="Pink Show" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkShow.png" group-title="Pink",Pink Show
-http://zvjerka.com:1194/mirkocosic/3024840255/279
-#EXTINF:-1 tvg-id="pink-soap" tvg-name="PINK SOAP" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkSoap_logo2.png" group-title="Pink",PINK SOAP
-http://zvjerka.com:1194/mirkocosic/3024840255/280
-#EXTINF:-1 tvg-id="pink-western" tvg-name="Pink Western" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/PINK%20WESTERN.png" group-title="Pink",Pink Western
-http://zvjerka.com:1194/mirkocosic/3024840255/281
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkWorldCinema_logo.png" group-title="Pink",Pink World Cinema
-http://zvjerka.com:1194/mirkocosic/3024840255/282
-#EXTINF:-1 tvg-id="pink-zabava" tvg-name="Pink Zabava" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkZabava_logo.png" group-title="Pink",Pink Zabava
-http://zvjerka.com:1194/mirkocosic/3024840255/283
-#EXTINF:-1 tvg-id="pink-bravo" tvg-name="PINK Bravo" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/PinkBravo-uzivotv.jpeg" group-title="Pink",PINK Bravo
-http://zvjerka.com:1194/mirkocosic/3024840255/284
-#EXTINF:-1 tvg-id="pink-hits" tvg-name="PINK Hits 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkHits_logo.png" group-title="Pink",PINK Hits 1
-http://zvjerka.com:1194/mirkocosic/3024840255/285
-#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Kuvar_logo.png" group-title="Pink",Pink Kuvar
-http://zvjerka.com:1194/mirkocosic/3024840255/286
-#EXTINF:-1 tvg-id="pink-classic" tvg-name="Pink Classic" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-classic-logo.png" group-title="Pink",Pink Classic
-http://zvjerka.com:1194/mirkocosic/3024840255/287
-#EXTINF:-1 tvg-id="pink-extra" tvg-name="Pink Extra" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkExtra.png" group-title="Pink",Pink Extra
-http://zvjerka.com:1194/mirkocosic/3024840255/288
-#EXTINF:-1 tvg-id="pink-family" tvg-name="Pink Family" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-family-logo.png" group-title="Pink",Pink Family
-http://zvjerka.com:1194/mirkocosic/3024840255/289
-#EXTINF:-1 tvg-id="pink-koncert" tvg-name="Pink Koncert" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkKoncert_logo.png" group-title="Pink",Pink Koncert
-http://zvjerka.com:1194/mirkocosic/3024840255/290
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkSuperKids_logo.png" group-title="Pink",Pink Super Kids
-http://zvjerka.com:1194/mirkocosic/3024840255/291
-#EXTINF:-1 tvg-id="pink-lol" tvg-name="Pink LOL" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LOL.png" group-title="Pink",Pink LOL
-http://zvjerka.com:1194/mirkocosic/3024840255/292
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 1 HD
+http://bk3.ddstream.info:7080/HRT_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 1.
+http://strimer3.ddstream.info:97/live?channelId=340&deviceMac=00:1A:79:54:52:85&split=d2c6ed621f1c7c5b4307efafe53a38f6&anycast=68687d23bc5ea8f3cae5bf543aa977d6&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 2 HD   hls
+http://89.187.169.111:4066/live?hls=1&channelId=66&deviceMac=00:1A:79:54:52:85&split=2fa7405c403b351e0bdfeb85d3dddc14&anycast=fa0597eae19103b8783f79519d844dd2&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 2
+http://bk3.ddstream.info:7080/HRT_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 2 HD
+http://strimer1.iptv-max.com:121/live?channelId=1903&deviceMac=00:1A:79:54:52:85&split=97948f8766de493f119b6d4cb1c231a5&anycast=2ce13005810bec37ab07ed3fe9b26405&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 3
+http://bk6.ddstream.info:7080/HRT_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 3 HD
+http://strimer1.ddstream.info:82/live?channelId=1700&deviceMac=00:1A:79:54:52:85&split=ced3bebae47ce05f7e662791cf66715c&anycast=d89b2d08d8fdf3bf594198400af673a8&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 4
+http://bk3.ddstream.info:7080/HRT_4/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",HRT 5 Int
+http://bk6.ddstream.info:7080/HRT_5/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Nova TV   hls
+http://89.187.169.111:4064/live?hls=1&channelId=64&deviceMac=00:1A:79:54:52:85&split=3763c3a98e21a4ba51f6ff80250a20bb&anycast=4e77ce288e20ed99e86ac3eb2fcae9c9&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Nova TV
+http://bk3.ddstream.info:7080/Nova_TV_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Nova TV.
+http://strimer1.iptv-max.com:115/live?channelId=1899&deviceMac=00:1A:79:54:52:85&split=f2a36dd05a22be8456c738120f889eb4&anycast=ec56166a7b3bb4a7785c608265f42ba1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL   hls
+http://89.187.169.111:4063/live?hls=1&channelId=63&deviceMac=00:1A:79:54:52:85&split=e6a6d04e7b0ce293d7e7622d1ff4f1b2&anycast=37f3b459f9611c574991875754f6f6e1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL.
+http://bk3.ddstream.info:7080/RTL/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL 2
+http://bk3.ddstream.info:7080/RTL_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Doma
+http://bk3.ddstream.info:7080/Doma/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Doma HD
+http://strimer1.ddstream.info:83/live?channelId=1624&deviceMac=00:1A:79:54:52:85&split=88247618ceb75ff6ebebc1469233e976&anycast=236a2a7850af92749639e20e1dfcacef&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Adria *hevc*
+http://bk6.ddstream.info:7080/RTL_Adria/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Living
+http://bk6.ddstream.info:7080/RTL_Living/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Passion 
+http://bk6.ddstream.info:7080/RTL_Passion/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Crime
+http://bk6.ddstream.info:7080/RTL_Crime/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Croatia World
+http://sport.ddstream.info:7108/live?channelId=353&deviceMac=00:1A:79:54:52:85&split=1629e7957474846392426031e76afb9c&anycast=a21a967bd55cbfe86e6ab1ca6f496509&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Laudato TV
+http://bk6.ddstream.info:7080/Laudato/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",N1 Hrvatski
+http://bk4.ddstream.info:7080/N1_hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Otvorena TV
+http://bk6.ddstream.info:7080/OTV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Klasik TV
+http://bk6.ddstream.info:7080/Klasik_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Z1
+http://bk6.ddstream.info:7080/Z1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",MrezaZG
+http://bk6.ddstream.info:7080/Mreza_ZG/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Televizija Dalmacija
+http://bk6.ddstream.info:7080/TV_Dalmacija/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Jadran TV
+http://bk6.ddstream.info:7080/Jadran_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",TV Sibenik
+http://bk6.ddstream.info:7080/ZV_Sibenik/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",KanalRi
+http://bk6.ddstream.info:7080/Kanal_RI/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",TV Nova
+http://bk6.ddstream.info:7080/TV_Nova/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",VTV Varazdin
+http://bk6.ddstream.info:7080/VTV_Varazdin/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Osjecka TV
+http://bk6.ddstream.info:7080/Osjecka_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Slavonska TV
+http://bk6.ddstream.info:7080/Slavonska/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Vinkovacka tv
+http://bk6.ddstream.info:7080/Vinkovacka/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Trendtv
+http://bk6.ddstream.info:7080/Trend_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Dubrovacka TV
+http://bk6.ddstream.info:7080/Dubrovacka_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",TV Zapad
+http://bk6.ddstream.info:7080/TV_Zapad/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Maria Vision
+http://strimer1.iptv-max.com:85/live?channelId=1808&deviceMac=00:1A:79:54:52:85&split=53370e730bd8041f12dd9af942013b79&anycast=c9c8595f2fee107ac2b6ff6d66576a2b&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Medjugorje misa uzivo
+http://strimer1.ddstream.info:85/live?channelId=1584&deviceMac=00:1A:79:54:52:85&split=e7ea643c379132ee1f2633ba6df058a9&anycast=c40d600e594a0065fbb19a56c732ea39&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Medjugorje TV int
+http://strimer1.ddstream.info:85/live?channelId=1597&deviceMac=00:1A:79:54:52:85&split=649507162bac2700936da2cc78d6a810&anycast=e1df96911a79afb9015fa9523f7c5c03&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",MAx Sport 1 HD
+http://bk3.ddstream.info:7080/Max_sport_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Max Sport 1 HD .
+http://sport.ddstream.info:7103/live?channelId=547&deviceMac=00:1A:79:54:52:85&split=8c415cb18e3a329d775e4a077582076a&anycast=762b8011bf62762fb7c33a4f07517877&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Max Sport 2 HD
+http://bk6.ddstream.info:7080/Max_Sport_2_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 FullHD HR *hevc*
+http://bk3.ddstream.info:7080/Arena_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 1 HR
+http://bk3.ddstream.info:7080/Arena_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 FullHD HR *hevc*
+http://bk3.ddstream.info:7080/Arena_2_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 2 HR
+http://bk3.ddstream.info:7080/Arena_2_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 FullHD HR *hevc*
+http://bk3.ddstream.info:7080/Arena_3_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 3 HR
+http://bk3.ddstream.info:7080/Arena_3_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 4 HR
+http://bk3.ddstream.info:7080/Arena_4_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 5 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_5_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 6 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_6_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 7 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_7_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 8 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_8_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 9 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_9_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Fight
+http://strimer5.ddstream.info:7111/live?channelId=1494&deviceMac=00:1A:79:54:52:85&split=0fc519b29a117423f5a970dc5896430b&anycast=438a8d7b2f5c5808bd9caa6a5fbf9442&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena ESport
+http://sport.ddstream.info:7097/live?channelId=425&deviceMac=00:1A:79:54:52:85&split=266bfb61914b33f6783605a6460e449e&anycast=93fa25e6e383e944016df2ecf298d952&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HD   hls
+http://89.187.169.111:5779/live?hls=1&channelId=1779&deviceMac=00:1A:79:54:52:85&split=6ca0011f6f8d08484899c4fa5e0f2334&anycast=afa83c9523a416921e0b2d30688c7ad5&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HD
+http://bk4.ddstream.info:7080/sport_klub_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 HD   hls
+http://89.187.169.111:4032/live?hls=1&channelId=32&deviceMac=00:1A:79:54:52:85&split=de3976d2b1794f335565a11cfcf0d53a&anycast=ec0c3fe546c58a1d7e20d64c80d64861&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 HD .
+http://bk3.ddstream.info:7080/SportKlub_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 HD   hls
+http://89.187.169.111:4033/live?hls=1&channelId=33&deviceMac=00:1A:79:54:52:85&split=8f681e49b70b34b20bad29750b9edd91&anycast=8957199292afb6850becf4d7ca1fbac4&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 HD .
+http://bk3.ddstream.info:7080/SportKlub_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 4
+http://bk6.ddstream.info:7080/Sport_Klub_4/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 5
+http://bk6.ddstream.info:7080/Sport_Klub_5/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 6
+http://bk6.ddstream.info:7080/Sport_Klub_6/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",SK 1 SD
+http://strimer3.iptv-max.com:99/live?channelId=31&deviceMac=00:1A:79:54:52:85&split=dde9b2a008d58f83940ac0115f27d5a1&anycast=ed6162b512e6f2c94fcbf2cad420b12d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HR FullHD *hevc*
+http://bk3.ddstream.info:7080/Sport_klub_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 1 HD HR
+http://bk3.ddstream.info:7080/Sport_klub_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 2 HD HR
+http://bk3.ddstream.info:7080/Sport_klub_2_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 3 HD HR
+http://bk3.ddstream.info:7080/Sport_klub_3_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",SPORT Klub HD
+http://bk6.ddstream.info:7080/Sport_Klub_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Nova Sport S
+http://bk6.ddstream.info:7080/NOVA_Sport_RS/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Eurosport 1
+http://bk4.ddstream.info:7080/Eurosport_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Eurosport 1 HD
+http://bk6.ddstream.info:7080/Europort_1_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Eurosport 2
+http://bk6.ddstream.info:7080/Europort_2_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",ZVEZDA TV HD
+http://sport.ddstream.info:7095/live?channelId=1706&deviceMac=00:1A:79:54:52:85&split=916c3603975b256523204676146fe8ab&anycast=ab2b6302d5702e4bc92624cd2c0c196e&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",TV Partizan HD
+http://strimer3.ddstream.info:88/live?channelId=1707&deviceMac=00:1A:79:54:52:85&split=b02260989a7424838e561a9a0fd1602e&anycast=6b55bc49937ce719112468d96235e7d1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sportska TV
+http://strimer5.ddstream.info:7096/live?channelId=898&deviceMac=00:1A:79:54:52:85&split=d6c9aaa1e24e425617e0173f9717128b&anycast=6792fc992bbd56296a160da379a425a7&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",HGTV
+http://bk5.ddstream.info:7080/HGTV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Discovery
+http://bk5.ddstream.info:7080/Discovery/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Discovery Science
+http://bk5.ddstream.info:7080/Discovery_science/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Discovery ID
+http://bk5.ddstream.info:7080/Discovery_ID/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Crime & Investigation
+http://bk5.ddstream.info:7080/Crime_investigetion/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",History Channel HD
+http://bk5.ddstream.info:7080/History/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",History 2
+http://bk5.ddstream.info:7080/History_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Viasat History
+http://bk5.ddstream.info:7080/Viasat_history/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",National Geographic
+http://bk5.ddstream.info:7080/Nat_geo/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",NatGeo Wild
+http://bk5.ddstream.info:7080/Natgeo_wild/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Animal Planet
+http://bk5.ddstream.info:7080/Animal_planet/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",BBC Earth
+http://bk5.ddstream.info:7080/BBC_earth/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Viasat Nature
+http://bk5.ddstream.info:7080/Viasat_nature/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Viasat Explorer
+http://bk5.ddstream.info:7080/Viasat_explorer/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Doku TV
+http://bk5.ddstream.info:7080/Doku_tv/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",TLC
+http://bk5.ddstream.info:7080/TLC/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",TV Doctor HD
+http://bk5.ddstream.info:7080/Doctor_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Balkan Trip
+http://bk5.ddstream.info:7080/Balkan_trip/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Agro TV
+http://bk5.ddstream.info:7080/Agro/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",24 Kitchen
+http://bk5.ddstream.info:7080/24_kitchen/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Kitchen
+http://bk5.ddstream.info:7080/Kitchen/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",E! Entertainment TV
+http://bk5.ddstream.info:7080/Entertaiment/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Travel
+http://bk5.ddstream.info:7080/Travel/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Luxe TV
+http://strimer5.ddstream.info:7097/live?channelId=1679&deviceMac=00:1A:79:54:52:85&split=baeee40191c987a15067d15f094a19f1&anycast=66c27b3ce3c348f3a558ea8f07b11cf3&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",CBS Reality
+http://bk5.ddstream.info:7080/CBS_reality/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Lov i Ribolov
+http://bk5.ddstream.info:7080/Lov_ribolov/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",kanal lov
+http://ostali.ddstream.info:7093/live?channelId=520&deviceMac=00:1A:79:54:52:85&split=35be015e523b7d40219f2fac4707051b&anycast=cfd359610e967da05c58b75431512df1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Fishing and Hunting
+http://strimer1.ddstream.info:84/live?channelId=544&deviceMac=00:1A:79:54:52:85&split=cb1788b0cc65f93a9a00d9a6bb260371&anycast=6d0b92a667d0cb73d97c4a7232f4501d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Fishing TV
+http://ostali.ddstream.info:7093/live?channelId=1230&deviceMac=00:1A:79:54:52:85&split=bcbf0952a9c2d2da91011c1fe843be5d&anycast=0a7b610768bd5932bdca88edb4250eea&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Baby Maxi
+http://strimer1.ddstream.info:94/live?channelId=1130&deviceMac=00:1A:79:54:52:85&split=bc3dfffdca4be2c1cdd561b678a20314&anycast=2e8291cee5b76e647d4d623fe6c1852a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Baby MaX Eng
+http://strimer1.ddstream.info:109/live?channelId=1218&deviceMac=00:1A:79:54:52:85&split=8f01c76e329f01c22869784805e2ebcb&anycast=d9e49cc390b18ed842d9dd498c38bee0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",KidsPLUS
+http://strimer1.ddstream.info:82/live?channelId=493&deviceMac=00:1A:79:54:52:85&split=9583987472b6de14d559a3830abcfcc7&anycast=ada34c1fe131813a974f02c228d9ba00&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Baby TV
+http://strimer3.ddstream.info:83/live?channelId=1047&deviceMac=00:1A:79:54:52:85&split=0d12e4fef6c286fab20f7626dd9d506e&anycast=28d41d67d6e02493f7010ee870be3fe7&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Cartoon Network
+http://strimer3.ddstream.info:83/live?channelId=405&deviceMac=00:1A:79:54:52:85&split=9fa397ef2fa24524144452a4279c753e&anycast=ba0fe3fab7c606b3e332331c510cf153&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Lana Cartoons Eng
+http://strimer3.iptv-max.com:83/live?channelId=1293&deviceMac=00:1A:79:54:52:85&split=a639f0866c03923a9932a573c8341765&anycast=6932e7debe32c44939afcf66275e7af6&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Kazbuka TV
+http://sport.ddstream.info:7098/live?channelId=1920&deviceMac=00:1A:79:54:52:85&split=7f6c1be8aa808355ee8784d1c18f1e7b&anycast=b3a8177c594bfaa7ca51d7952d1f372f&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",RTL Kockica
+http://strimer3.ddstream.info:88/live?channelId=71&deviceMac=00:1A:79:54:52:85&split=fb2eb023dc8987e0da883ad2dfc1b323&anycast=d7d6a400e3cd3ef9c4c0e1a381f0a9ce&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nickelodeon sr
+http://strimer3.ddstream.info:91/live?channelId=1561&deviceMac=00:1A:79:54:52:85&split=0743aa6de9e61813a57e7140f19e9b98&anycast=3e419d7ec803d22ad82a2c2fe5e1bd1a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nickelodeon hr
+http://strimer1.ddstream.info:94/live?channelId=280&deviceMac=00:1A:79:54:52:85&split=a899657742b9a9b0b11cdf78b5754daf&anycast=573cd3a2d15775c2d310c167318065a0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nick Junior sr
+http://sport.ddstream.info:7111/live?channelId=1562&deviceMac=00:1A:79:54:52:85&split=b2e20ed60b73504828a3ef5a32732798&anycast=90da7c927cebb017694b81816689758c&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nick Junior hr
+http://strimer3.ddstream.info:82/live?channelId=1394&deviceMac=00:1A:79:54:52:85&split=ccaefdad20988633f53c69f160919065&anycast=b0f409b06977816b0a1e2e27e4ed6357&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Boomerang
+http://strimer3.ddstream.info:81/live?channelId=180&deviceMac=00:1A:79:54:52:85&split=0b3ee1a16ee0cffccb15fba36f9add32&anycast=84a220b1ec5f913c8473563f40f7d021&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Minimax
+http://strimer1.ddstream.info:81/live?channelId=1563&deviceMac=00:1A:79:54:52:85&split=cc06852133854ac9d78a3d1f5ef36411&anycast=9bff42d39d0c3730b6b25f85de424daf&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Hitovci
+http://strimer3.ddstream.info:83/live?channelId=106&deviceMac=00:1A:79:54:52:85&split=558aa08d5af3a3615b7ca5c7db991eda&anycast=9adf7ba3d2425e69a844368ae17b5446&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Tropik TV
+http://sport.ddstream.info:7093/live?channelId=1919&deviceMac=00:1A:79:54:52:85&split=a8493be0fcb8f81bb7e284beaac5ab94&anycast=a6e570398df8eef08fcb9ea297d09c5a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Artic Crtic
+http://strimer3.ddstream.info:85/live?channelId=1334&deviceMac=00:1A:79:54:52:85&split=b77bfd0300897c68f2aa66ba59ac8ace&anycast=757b29f383f57a263418dcded69e4bdb&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Mont kIDS
+http://sport.ddstream.info:7090/live?channelId=1439&deviceMac=00:1A:79:54:52:85&split=388d99b2a36ad171fb2679eca636ebb3&anycast=0ceb95b5c1c6788c2d5961e87edc5a10&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Disney Junior TV
+http://ostali.ddstream.info:7100/live?channelId=1289&deviceMac=00:1A:79:54:52:85&split=624e4f8558913d0424cf7c5183e55bd2&anycast=383779b6f121a2a171a86fd77706427a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Mini Ultra TV
+http://strimer3.ddstream.info:81/live?channelId=1663&deviceMac=00:1A:79:54:52:85&split=2dd3a925a5bd86b5b36abf2d581c1277&anycast=d92a74a72b48f81e303a2711da3b1f7a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Pikaboo
+http://strimer3.ddstream.info:87/live?channelId=519&deviceMac=00:1A:79:54:52:85&split=4012a3ad771445b04cc0954a894db136&anycast=796d14c4eab5139865da9295bf5f2174&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Music
+http://strimer1.ddstream.info:87/live?channelId=92&deviceMac=00:1A:79:54:52:85&split=fb682f4a99f9903545dffe49e972b129&anycast=03d0ee3aeef867ca04179c6917315ddd&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Music 2
+http://strimer3.ddstream.info:85/live?channelId=150&deviceMac=00:1A:79:54:52:85&split=4d657d22ca7d63457a7e4c82607b07e2&anycast=7e40ce99877b7b29db530ad06fac3954&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink hits 2
+http://sport.ddstream.info:7097/live?channelId=117&deviceMac=00:1A:79:54:52:85&split=0f954d05aae1670fd09711fd3bd8faa1&anycast=a03f1155d30801a02b2aefaa81084580&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Folk 1
+http://strimer3.ddstream.info:85/live?channelId=93&deviceMac=00:1A:79:54:52:85&split=5fe4cb82b5df42d7a43bdc4788d414f7&anycast=6e0978311624f27fa8381b2110b67bc8&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Folk 2
+http://sport.ddstream.info:7096/live?channelId=95&deviceMac=00:1A:79:54:52:85&split=11c003b970559e21595f3c99a5b052a5&anycast=269e5b7927467d4a9c66d6227fb7594b&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Folk Muzika
+http://strimer3.ddstream.info:83/live?channelId=890&deviceMac=00:1A:79:54:52:85&split=9d790a42db61d73fa8b5ce89c83d0cff&anycast=26a9a34653bb0d77831086e525a12c18&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Grand TV
+http://sport.ddstream.info:7093/live?channelId=89&deviceMac=00:1A:79:54:52:85&split=9c45815b8dd998901f70ba8bf24139ca&anycast=628f4e389d8e339cfa54c0a6c94d4c44&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Grand TV 2
+http://strimer1.ddstream.info:84/live?channelId=445&deviceMac=00:1A:79:54:52:85&split=6d98bdd88e002b109075a57c114ac739&anycast=3d15abb5ed7ed214594524438010c632&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Uzivo Teka
+http://sport.ddstream.info:7092/live?channelId=38&deviceMac=00:1A:79:54:52:85&split=374fe6e13c7fd525b33d056bc007edc2&anycast=c4333defa999317a36754e52d87a7370&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",ToxiC Music TV
+http://ostali.ddstream.info:7095/live?channelId=733&deviceMac=00:1A:79:54:52:85&split=d769e76e5b820bf98d7905d4e2577911&anycast=1ff2d2bd576243fdc0b3a9c353029917&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",IDJTV
+http://strimer3.ddstream.info:84/live?channelId=1273&deviceMac=00:1A:79:54:52:85&split=eb0effa68d20493084d7003031335747&anycast=90ba6f35aef71873b322204a735b4b70&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",BN Music
+http://strimer3.ddstream.info:81/live?channelId=142&deviceMac=00:1A:79:54:52:85&split=f7c42cebe90bbecbb1e2197aea5a68c9&anycast=8a46128814046d94d79786f460713dd1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",DM Sat
+http://sport.ddstream.info:7090/live?channelId=102&deviceMac=00:1A:79:54:52:85&split=e42acec20fcf155ef599fb2d58b0c980&anycast=b49095f0b5386ca1efd688625d730112&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Boem Televizija
+http://sport.ddstream.info:7096/live?channelId=323&deviceMac=00:1A:79:54:52:85&split=841693eec737a86c80f0ea30f1a63d7b&anycast=1ddd4d7d176e157763e7a828eec326e0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",KCN 2
+http://strimer3.ddstream.info:90/live?channelId=185&deviceMac=00:1A:79:54:52:85&split=c3cc24d1c90db309f9b2ebb0b05e71da&anycast=c9ac32a92d1add85f31f49818135e17d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Svet Plus
+http://strimer1.ddstream.info:84/live?channelId=1408&deviceMac=00:1A:79:54:52:85&split=67742d026af78c8f33c1cfe88f90b48b&anycast=684abd1f2201fd4de6c45f4f2e15c3ee&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",TV VimiNacijum
+http://strimer3.ddstream.info:89/live?channelId=1586&deviceMac=00:1A:79:54:52:85&split=4d2f3056503aace77d7f284749a6b264&anycast=9794b74be9c98940c98abf8dafbbf20c&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",OTV Valentino
+http://strimer5.ddstream.info:7096/live?channelId=18&deviceMac=00:1A:79:54:52:85&split=d43831dc71bebc88fdc5ed994f8844c0&anycast=c1a603e43a055880cf0bae7612cd0374&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",TV SEHARA
+http://sport.ddstream.info:7092/live?channelId=1203&deviceMac=00:1A:79:54:52:85&split=0934906ce75ab8d23a7b2d35a32e28bd&anycast=d961c42f09c5f6e4e810571ab7a9b422&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Sevdah TV
+http://strimer5.ddstream.info:7091/live?channelId=1398&deviceMac=00:1A:79:54:52:85&split=eabff176479cd1cc2fd8de7415e9a797&anycast=957b128bfd27f920958eb45e1ce73570&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Bujrum TV
+http://ostali.ddstream.info:7093/live?channelId=739&deviceMac=00:1A:79:54:52:85&split=da5f6be1f3c6b9612ff4c73455ef72bd&anycast=f690b0e9d92c7faa3c56083574d49f6f&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",HTV Folk
+http://strimer1.ddstream.info:81/live?channelId=730&deviceMac=00:1A:79:54:52:85&split=31e32ea379a54064d679aef10122e965&anycast=1a42223e9aef81ddeabb1b1a4aa7c471&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Folk Melody
+http://ostali.ddstream.info:7101/live?channelId=1657&deviceMac=00:1A:79:54:52:85&split=d476e2d414171ca6fa20c472328d8310&anycast=1cfa1012668cfe0851c2392b102d5243&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",DiskoS TV
+http://ostali.ddstream.info:7094/live?channelId=729&deviceMac=00:1A:79:54:52:85&split=240c843ff72593acfac20d73515a3b4b&anycast=a236e533c0ca7ce6673ce92b2616528f&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Izvorna TV
+http://sport.ddstream.info:7098/live?channelId=515&deviceMac=00:1A:79:54:52:85&split=9b1faad9be538d7de3c59f50314f07b7&anycast=013ee8a8f19b7050b2e886d59da29f7b&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Yu planet radio
+http://strimer5.ddstream.info:7092/live?channelId=382&deviceMac=00:1A:79:54:52:85&split=6b0e0092a8ed5b993abd3961e4426464&anycast=397995b19842ad2769a9591ecc580014&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Duga TV
+http://strimer3.ddstream.info:82/live?channelId=339&deviceMac=00:1A:79:54:52:85&split=8c2eddd30ee6c79d3fc23c63e1cd9747&anycast=d7cd54cac5a31f5b39cbff0b0b876a95&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Art Fit
+http://strimer3.ddstream.info:84/live?channelId=1163&deviceMac=00:1A:79:54:52:85&split=91e233ebe5f41b23675c6755a477f540&anycast=7113228177ff0366aaeb1c47e8691d8a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max 1
+http://bk5.ddstream.info:7080/Max_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max 2
+http://bk5.ddstream.info:7080/Max_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MAX Mix HD
+http://strimer1.ddstream.info:85/live?channelId=1409&deviceMac=00:1A:79:54:52:85&split=8819374a434ddf0da4fd35a3e8e86b5b&anycast=5625014beab89f069c6e7f97c2e3333e&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MAX1 HD premium Hevc
+http://bk5.ddstream.info:7080/MAX1_HD_premium_Hevc/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MAX2 HD premium Hevc
+http://bk5.ddstream.info:7080/MAX2_HD_premium_Hevc/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Action
+http://bk5.ddstream.info:7080/Max_Action/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Comedy
+http://bk5.ddstream.info:7080/Max_Comedy/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Oldies
+http://bk5.ddstream.info:7080/Max_Oldies/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Adventure
+http://bk5.ddstream.info:7080/Max_Adventure/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max PluS
+http://strimer3.ddstream.info:90/live?channelId=469&deviceMac=00:1A:79:54:52:85&split=53722120ef853e60fb19c5062f39725e&anycast=52a79327ed3edfdebc3c501480c3e472&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max HorroR
+http://bk5.ddstream.info:7080/Max_HorroR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SciFi
+http://bk5.ddstream.info:7080/Max_SciFi/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Serije
+http://bk5.ddstream.info:7080/Max_Serije/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max oldies Series
+http://bk5.ddstream.info:7080/Max_oldies_Series/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",ExYu Serijski
+http://bk5.ddstream.info:7080/ExYu_Serijski/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",ExYU Film
+http://bk5.ddstream.info:7080/ExYU_Film/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Top YU Film
+http://bk5.ddstream.info:7080/Top_YU_Film/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT UHD
+http://strimer1.ddstream.info:83/live?channelId=1612&deviceMac=00:1A:79:54:52:85&split=aecb874d49323cde25006228bc8183ec&anycast=5fc8d47b7378168468acc490ff6404f5&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT UHD 2
+http://strimer1.ddstream.info:83/live?channelId=1613&deviceMac=00:1A:79:54:52:85&split=85c5d44e360ed63b26578d4b2da54fb4&anycast=6c4307070a830ff16bb39b9a5ec6c2a0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 1
+http://bk5.ddstream.info:7080/Max_SELECT_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 2
+http://bk5.ddstream.info:7080/Max_SELECT_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 3
+http://bk5.ddstream.info:7080/Max_SELECT_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 4
+http://bk5.ddstream.info:7080/Max_SELECT_4/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 5
+http://bk5.ddstream.info:7080/Max_SELECT_5/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 6
+http://bk5.ddstream.info:7080/Max_SELECT_6/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 7
+http://bk5.ddstream.info:7080/Max_SELECT_7/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 8
+http://bk5.ddstream.info:7080/Max_SELECT_8/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie 1 HD
+http://bk5.ddstream.info:7080/MiX_Movie_1_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie 2 HD
+http://bk5.ddstream.info:7080/MiX_Movie_2_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie 3 HD
+http://bk5.ddstream.info:7080/MiX_Movie_3_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Mix Movies Western
+http://bk5.ddstream.info:7080/Mix_Movies_Western/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie Romance
+http://bk5.ddstream.info:7080/MiX_Movie_Romance/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Hits Movies
+http://bk5.ddstream.info:7080/MiX_Hits_Movies/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Diva TV
+http://bk5.ddstream.info:7080/Diva_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Epic Drama
+http://bk5.ddstream.info:7080/Epic_Drama/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",TDC Kanal
+http://strimer5.ddstream.info:7092/live?channelId=1570&deviceMac=00:1A:79:54:52:85&split=87cd75bfd8818d754660cc4793d3fdf6&anycast=0173001ffffff8c944712cdc255ff7e8&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",TV 1000
+http://bk5.ddstream.info:7080/TV_1000/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Nova Max
+http://strimer1.iptv-max.com:108/live?channelId=864&deviceMac=00:1A:79:54:52:85&split=06c71beb0cd607fb8b42d5fa3c20d01d&anycast=0b2a13e26ac2f5433bf4666a98a26b5d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Nova Serije
+http://sport.ddstream.info:7126/live?channelId=108&deviceMac=00:1A:79:54:52:85&split=ec60a02a5869e177263feddbf6c88ccc&anycast=3fc10348296e09d6dc197e90f6ce3359&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Film KLub
+http://ostali.ddstream.info:7094/live?channelId=718&deviceMac=00:1A:79:54:52:85&split=ada670376af3a8ecf039487379aba9bb&anycast=5156715005723724e28a9e0c06d58b43&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Super Star TV
+http://bk5.ddstream.info:7080/Super_Star_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Star TV
+http://bk5.ddstream.info:7080/Star_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",HBO Adria
+http://bk5.ddstream.info:7080/HBO_Adria/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",HBO 2
+http://bk5.ddstream.info:7080/HBO_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",HBO 3
+http://bk5.ddstream.info:7080/HBO_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinemax
+http://bk5.ddstream.info:7080/Cinemax/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinemax 2
+http://bk5.ddstream.info:7080/Cinemax_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Premiere 1
+http://bk5.ddstream.info:7080/Cinestar_Premiere_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Premiere 2
+http://bk5.ddstream.info:7080/Cinestar_Premiere_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",CineStar TV
+http://bk5.ddstream.info:7080/CineStar_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Fantasy
+http://bk5.ddstream.info:7080/Cinestar_Fantasy/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Action
+http://bk5.ddstream.info:7080/Cinestar_Action/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Kino TV
+http://bk5.ddstream.info:7080/Kino_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",FOX
+http://bk5.ddstream.info:7080/FOX/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",FOX Life
+http://bk5.ddstream.info:7080/FOX_Life/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",FOX Crime
+http://bk5.ddstream.info:7080/FOX_Crime/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Fox Movies
+http://bk5.ddstream.info:7080/Fox_Movies/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Pickbox TV
+http://bk5.ddstream.info:7080/Pickbox_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",M1 Film
+http://strimer3.iptv-max.com:109/live?channelId=707&deviceMac=00:1A:79:54:52:85&split=3b5e136afb719be3904c66066aadd68d&anycast=01623af4e34dcd590641631dab4d32f6&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",M1 Gold
+http://strimer1.iptv-max.com:101/live?channelId=731&deviceMac=00:1A:79:54:52:85&split=b754a580f1de672052d1a6686a0c5d57&anycast=f221e316877df27294f10564704ce856&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",AXN
+http://bk5.ddstream.info:7080/AXN/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",AMC
+http://strimer3.ddstream.info:90/live?channelId=1635&deviceMac=00:1A:79:54:52:85&split=06d44379ee9b80245b1ad6762fc103e9&anycast=b8c295e48651de30585512a9e202e239&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",SciFi
+http://strimer3.ddstream.info:88/live?channelId=179&deviceMac=00:1A:79:54:52:85&split=b64c29d53fd622fe90477ae7b5388a1f&anycast=23e8156ee26d667e959c280f95ee5331&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",max Living
+http://strimer1.ddstream.info:82/live?channelId=61&deviceMac=00:1A:79:54:52:85&split=74b5354eac4dc9a49b0105e708722a34&anycast=dc697c8b1de99bcad35acd6b6cab8717&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",max Zabava
+http://strimer1.ddstream.info:85/live?channelId=1044&deviceMac=00:1A:79:54:52:85&split=5aadf7e2a63c274c21d6d7f9b119e438&anycast=007127a931c15195d4c59099948a2d28&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",max Dokus
+http://strimer1.ddstream.info:85/live?channelId=1335&deviceMac=00:1A:79:54:52:85&split=3fd2acb4e36771ae347b70acadc98af7&anycast=895971283e150fb95378535440c03c54&token=513787671443
 
 
