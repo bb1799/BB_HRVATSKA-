@@ -1,92 +1,92 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 1 HD   hls
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" group-title="HRVATSKA",HRT 1 HD   hls
 http://89.187.169.111:4065/live?hls=1&channelId=65&deviceMac=00:1A:79:54:52:85&split=f79a363349b28c47651b894165d28d31&anycast=29572d54ebf9f9fd0633c2147b293d23&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 1 HD
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" group-title="HRVATSKA",HRT 1 HD
 http://bk3.ddstream.info:7080/HRT_1/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 1.
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" group-title="HRVATSKA",HRT 1.
 http://strimer3.ddstream.info:97/live?channelId=340&deviceMac=00:1A:79:54:52:85&split=d2c6ed621f1c7c5b4307efafe53a38f6&anycast=68687d23bc5ea8f3cae5bf543aa977d6&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 2 HD   hls
+#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2" group-title="HRVATSKA",HRT 2 HD   hls
 http://89.187.169.111:4066/live?hls=1&channelId=66&deviceMac=00:1A:79:54:52:85&split=2fa7405c403b351e0bdfeb85d3dddc14&anycast=fa0597eae19103b8783f79519d844dd2&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 2
+#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2" group-title="HRVATSKA",HRT 2
 http://bk3.ddstream.info:7080/HRT_2/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 2 HD
+#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2" group-title="HRVATSKA",HRT 2 HD
 http://strimer1.iptv-max.com:121/live?channelId=1903&deviceMac=00:1A:79:54:52:85&split=97948f8766de493f119b6d4cb1c231a5&anycast=2ce13005810bec37ab07ed3fe9b26405&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 3
+#EXTINF:-1 tvg-id="hrt3" tvg-name="HRT 3" group-title="HRVATSKA",HRT 3
 http://bk6.ddstream.info:7080/HRT_3/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 3 HD
+#EXTINF:-1 tvg-id="hrt3" tvg-name="HRT 3" group-title="HRVATSKA",HRT 3 HD
 http://strimer1.ddstream.info:82/live?channelId=1700&deviceMac=00:1A:79:54:52:85&split=ced3bebae47ce05f7e662791cf66715c&anycast=d89b2d08d8fdf3bf594198400af673a8&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 4
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" group-title="HRVATSKA",HRT 4
 http://bk3.ddstream.info:7080/HRT_4/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",HRT 5 Int
+#EXTINF:-1 tvg-name="HRT INT." group-title="HRVATSKA",HRT 5 Int
 http://bk6.ddstream.info:7080/HRT_5/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",Nova TV   hls
+#EXTINF:-1 tvg-name="NOVA TV" group-title="HRVATSKA",Nova TV   hls
 http://89.187.169.111:4064/live?hls=1&channelId=64&deviceMac=00:1A:79:54:52:85&split=3763c3a98e21a4ba51f6ff80250a20bb&anycast=4e77ce288e20ed99e86ac3eb2fcae9c9&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",Nova TV
+#EXTINF:-1 tvg-name="NOVA TV" group-title="HRVATSKA",Nova TV
 http://bk3.ddstream.info:7080/Nova_TV_HR/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",Nova TV.
+#EXTINF:-1 tvg-name="NOVA TV" group-title="HRVATSKA",Nova TV.
 http://strimer1.iptv-max.com:115/live?channelId=1899&deviceMac=00:1A:79:54:52:85&split=f2a36dd05a22be8456c738120f889eb4&anycast=ec56166a7b3bb4a7785c608265f42ba1&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",RTL   hls
+#EXTINF:-1 tvg-name="RTL" group-title="HRVATSKA",RTL   hls
 http://89.187.169.111:4063/live?hls=1&channelId=63&deviceMac=00:1A:79:54:52:85&split=e6a6d04e7b0ce293d7e7622d1ff4f1b2&anycast=37f3b459f9611c574991875754f6f6e1&token=513787671443
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",RTL.
+#EXTINF:-1 tvg-name="RTL" group-title="HRVATSKA",RTL.
 http://bk3.ddstream.info:7080/RTL/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",RTL 2
+#EXTINF:-1 tvg-name="RTL2" group-title="HRVATSKA",RTL 2
 http://bk3.ddstream.info:7080/RTL_2/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",Doma
+#EXTINF:-1 group-title="HRVATSKA",Doma TV
 http://bk3.ddstream.info:7080/Doma/mpegts?token=sHk1kkkkJJk89jk
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="HRVATSKA",Doma HD
+#EXTINF:-1 tvg-name="DOMA TV" group-title="HRVATSKA",Doma HD
 http://strimer1.ddstream.info:83/live?channelId=1624&deviceMac=00:1A:79:54:52:85&split=88247618ceb75ff6ebebc1469233e976&anycast=236a2a7850af92749639e20e1dfcacef&token=513787671443
 
 
