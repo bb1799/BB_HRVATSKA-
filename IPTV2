@@ -1,13 +1,13 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 #EXTINF:-1 tvg-id="" tvg-name="-----------EXYU----------" tvg-logo="" group-title="EXYU",-----------EXYU----------
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1579
-#EXTINF:-1 tvg-id="htv1.hr" tvg-name="HRT 1" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%201.png" group-title="EXYU",HRT 1
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%201.png" group-title="EXYU",HRT 1
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1140
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%202.png" group-title="EXYU",HRT 2
+#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%202.png" group-title="EXYU",HRT 2
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1141
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%203.png" group-title="EXYU",HRT 3
+#EXTINF:-1 tvg-id="hrt3" tvg-name="HRT 3" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%203.png" group-title="EXYU",HRT 3
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1142
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%204.png" group-title="EXYU",HRT 4
+#EXTINF:-1 tvg-id="hrt4" tvg-name="HRT 4" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%204.png" group-title="EXYU",HRT 4
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1143
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="http://epg.serbianforum.org/logo_znaci/RTS%201.png" group-title="EXYU",RTS 1
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1144
@@ -45,7 +45,7 @@ http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1168
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1169
 #EXTINF:-1 tvg-id="bn" tvg-name="BN BiH" tvg-logo="http://epg.serbianforum.org/logo_znaci/BN.png" group-title="EXYU",BN BiH
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1178
-#EXTINF:-1 tvg-id="nova.hr" tvg-name="Nova tv" tvg-logo="https://epg.serbianforum.org/logo_znaci/TV%20Nova%20HR.png" group-title="EXYU",Nova tv
+#EXTINF:-1 tvg-id="novatv" tvg-name="Nova tv" tvg-logo="https://epg.serbianforum.org/logo_znaci/TV%20Nova%20HR.png" group-title="EXYU",Nova tv
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1146
 #EXTINF:-1 tvg-id="rtl" tvg-name="RTL Televizija" tvg-logo="http://epg.serbianforum.org/logo_znaci/RTL.png" group-title="EXYU",RTL Televizija
 http://serv1.bihip.net:80/zakir-muhamedslijep/siptv/1147
