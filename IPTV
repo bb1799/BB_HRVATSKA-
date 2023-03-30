@@ -1133,6 +1133,11 @@ http://strimer1.ddstream.info:85/live?channelId=1335&deviceMac=00:1A:79:54:52:85
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/I3XuD2IdgurReyqi8itf9Dqhap0W-d1tD0sdeNJ91cL0s8eDnnG-ozTO5VrADj1oXZhNeYcWqWLmJS7ocbLq8Ks"  group-title="4K_FILMOVI",*** 4K FILMOVI ***
 skip
 
+#EXTINF:-1 group-title="4K FILMOVI",Boston Strangler (2023)
+http://content.drycloth.org/4k/boston.mkv
+
+#EXTINF:-1 group-title="4K FILMOVI",Avatar The Way of Water (2023)
+http://content.drycloth.org/4k/avatar.mkv
 
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/I3XuD2IdgurReyqi8itf9Dqhap0W-d1tD0sdeNJ91cL0s8eDnnG-ozTO5VrADj1oXZhNeYcWqWLmJS7ocbLq8Ks"  group-title="4K_FILMOVI",Black Panther Wakanda Forever (2022)
 http://content.drycloth.org/4k/bpwf.mkv
