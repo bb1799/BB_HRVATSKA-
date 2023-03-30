@@ -3491,7 +3491,13 @@ http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Moja cudovisna
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",KRUDSOVI
 http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/The Croods.avi
 
-#BB 3/2023
+#BB 4/2023
+#EXTINF:-1 group-title="4K FILMOVI",Boston Strangler (2023)
+http://content.drycloth.org/4k/boston.mkv
+
+#EXTINF:-1 group-title="4K FILMOVI",Avatar The Way of Water (2023)
+http://content.drycloth.org/4k/avatar.mkv
+
 #EXTINF:-1 group-title="4K FILMOVI",Operation Fortune: Ruse de guerre (2023)
 http://content.drycloth.org/4k/operation fortune.mkv
 #<thumbnail>https://media-cache.cinematerial.com/p/500x/63skvicp/operation-fortune-ruse-de-guerre-movie-poster.jpg?v=1639081592</thumbnail>
