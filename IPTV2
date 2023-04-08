@@ -1,4 +1,5 @@
-
+#EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
+#x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
 #EXTINF:-1 group-title="SPORT",MAX Sport 1 HR 
 http://bntvs.com:2052/zorankalauz/643095040/23998
