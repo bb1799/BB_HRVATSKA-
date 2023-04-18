@@ -200,12 +200,6 @@ http://strimer1.ddstream.info:85/live?channelId=1597&deviceMac=00:1A:79:54:52:85
 #EXTINF:-1 group-title="SPORT",MAx Sport 1 HD
 http://bk3.ddstream.info:7080/Max_sport_1/mpegts?token=sHk1kkkkJJk89jk
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="SPORT",Max Sport 1 HD .
-http://sport.ddstream.info:7103/live?channelId=547&deviceMac=00:1A:79:54:52:85&split=8c415cb18e3a329d775e4a077582076a&anycast=762b8011bf62762fb7c33a4f07517877&token=513787671443
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORT",Max Sport 2 HD
 http://bk6.ddstream.info:7080/Max_Sport_2_HD/mpegts?token=sHk1kkkkJJk89jk
