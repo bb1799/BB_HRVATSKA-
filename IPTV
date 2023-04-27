@@ -1100,5 +1100,896 @@ http://strimer1.ddstream.info:85/live?channelId=1044&deviceMac=00:1A:79:54:52:85
 #EXTINF:-1 group-title="FILM",max Dokus
 http://strimer1.ddstream.info:85/live?channelId=1335&deviceMac=00:1A:79:54:52:85&split=3fd2acb4e36771ae347b70acadc98af7&anycast=895971283e150fb95378535440c03c54&token=513787671443
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",*** SINKRONIZIRANO ***
+skip
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",ODVAŽNA IVA (2023)
+http://content2.bilosta.org/DISK2/crtani/iva.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",JAHAČ ZMAJA (2022)
+http://content2.drycloth.org/DISK2/crtani/jahaczmaja.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",ČUDESNI SVIJET (2022)
+http://content2.drycloth.org/DISK2/crtani/cudsvet.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",RUMBLE (2022)
+http://content2.drycloth.org/DISK2/crtani/rumble.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",HOTEL TRANSILVANIJA TRANSFORMANIA  (2022)
+http://content2.drycloth.org/DISK2/crtani/transformania.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",ŠAPE GNJEVA (2022)
+http://content2.drycloth.org/DISK2/crtani/gneva.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Malci 2: Gruov početak (2022)
+http://content2.drycloth.org/DISK2/crtani/minions.mkv
+#<thumbnail>https://slike1.blitz-cinestar.hr/Plakati/6.6.2022_13_18_04_Minions_Rise_of_Gru_RS_zadnji.jpg?preset=thumb-500</thumbnail>
+#<fanart>https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220628183959-01-minions-rise-of-gru.jpg</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",DC Liga Superljubimaca (2022)
+http://content2.drycloth.org/DISK2/crtani/superljubimci.mkv
+#<thumbnail>https://slike1.blitz-cinestar.hr/Plakati/6.7.2022_9_32_04_DC_Pets_SRB_novi.jpg?preset=thumb-500</thumbnail>
+#<fanart>https://superteen.rs/wp-content/uploads/2022/07/DC-Liga-Superljubimaca-foto.jpg</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Veliki Crveni Pas Kliford (2022)
+http://content2.drycloth.org/DISK2/crtani/clifford.mkv
+#<thumbnail>https://slike1.blitz-cinestar.hr/Plakati/1.12.2021_14_00_54_Clifford_SRB.jpg?preset=thumb-500</thumbnail>
+#<fanart>https://stair.rs/wp-content/uploads/2021/11/Veliki-crveni-pas.jpg</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Uspon Teenage Mutant Nindža Kornjača: Film (2022)
+http://content2.drycloth.org/DISK2/crtani/kornjace.mkv
+#<thumbnail>https://static.wikia.nocookie.net/international-entertainment-project/images/a/ab/Rise_of_the_TMNT_The_Movie_poster.jpg/revision/latest?cb=20220724231519</thumbnail>
+#<fanart>https://occ-0-1723-1556.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVur1Mo_MyrD2Jv0Rp2oAIt7X2c9sOKZL7g8hJZ3PM1S7a8ZhFc6DM8biD0Fx3wh2NeiMtBXMQyYPMZkplmuHFuzrlF3l6hQELoN.jpg?r=720</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Loši momci / The Bad Guys (2022 SR)
+http://content2.drycloth.org/DISK2/crtani/losi.momci.mkv
+#<thumbnail>https://slike1.blitz-cinestar.hr/Plakati/23.3.2022_13_22_55_Bad_guys_HR.jpg?preset=thumb-500</thumbnail>
+#<fanart>https://slike1.blitz-cinestar.hr/Plakati/23.3.2022_13_22_55_Bad_guys_HR.jpg?preset=thumb-500</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Morska Zver (2022)
+http://content2.drycloth.org/DISK2/crtani/morska.zver.mkv
+#<thumbnail>https://i.imgur.com/plZPTXu.jpg</thumbnail>
+#<fanart>https://i.imgur.com/plZPTXu.jpg</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Porodica Adams 2 (2021)
+http://content2.drycloth.org/DISK2/crtani/adams2.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/adams2/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/adams2/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Mali Sef 2 (2021)
+http://content2.drycloth.org/DISK2/crtani/bossbaby.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/bossbaby/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/bossbaby/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Magicni Svet (2021)
+http://content2.drycloth.org/DISK2/crtani/enkanto.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/enkanto/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/enkanto/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Sonikov Film 2 (2022)
+http://content2.drycloth.org/DISK2/crtani/sonic2.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/sonic2/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/sonic2/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Pocrvenela Panda (2022)
+http://content2.drycloth.org/DISK2/crtani/red.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/red/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/red/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Divlji Spirit (2021)
+http://content2.drycloth.org/DISK2/crtani/spirit.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spirit/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spirit/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Space Jam: Nova Legenda (2021 HR)
+http://content2.drycloth.org/DISK2/crtani/spacejam.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spacejam/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spacejam/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Ainbo: Dobri duh Amazonije
+http://content2.drycloth.org/DISK2/crtani/ainbo.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ainbo/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ainbo/funart.png</fanart>
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Luca (2021 SR)
+http://content2.drycloth.org/DISK2/crtani/luca.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/luca/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/luca/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Kuća obitelji Glasnić(2021)
+http://content2.drycloth.org/DISK2/crtani/glasnic.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/glasnic/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/glasnic/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Kruds: Novo doba (2020)
+http://content2.drycloth.org/DISK2/crtani/kruds2.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/kruds/omot2.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/kruds/funart2.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Vivo (2021 HR)
+http://content2.drycloth.org/DISK2/crtani/vivo.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/vivo/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/vivo/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Raja i poslednji zmaj (2021 SR)
+http://content2.drycloth.org/DISK2/crtani/raja.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/raja/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/raja/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Tom i Jerry / Tom i Džeri: Film (2021 HR)
+http://content2.drycloth.org/DISK2/crtani/tidz.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/tidz/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/tidz/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Zmaj iz čajnika (2021)
+http://content2.drycloth.org/DISK2/crtani/zmaj.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zmaj/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zmaj/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Jakari i velicanstveno pero (2020 SR)
+http://content2.drycloth.org/DISK2/crtani/jakari.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/jakari/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/jakari/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Obitelj Mitchell protiv strojeva 2021
+http://content2.drycloth.org/DISK2/crtani/obitelj.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/obitelj/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/obitelj/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Dusa
+http://content2.drycloth.org/DISK2/crtani/dusa.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/dusa/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/dusa/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Napred(2020)
+http://content2.drycloth.org/DISK2/crtani/napred.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/napred/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/napred/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Trolovi: Svjetska turneja (2020)
+http://content2.drycloth.org/DISK2/crtani/trolovi.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/trolovi/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/trolovi/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Klaus
+http://content2.drycloth.org/DISK2/crtani/klaus.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/klaus/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/klaus/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Pokemoni Evolucija
+http://content2.drycloth.org/DISK2/crtani/pokemon.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/pokemon/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/pokemon/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Prerušeni Špijuni
+http://content2.drycloth.org/DISK2/crtani/spijuni.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spijuni/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spijuni/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Petar Zecimir
+http://content2.drycloth.org/DISK2/crtani/zecimir.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zecimir/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zecimir/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Petar Zecimir 2: Skok u avanturu
+http://content2.drycloth.org/DISK2/crtani/zecimir2.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zecimir/omot2.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zecimir/funart2.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Sonic:Super Jez
+http://content.drycloth.org/CRTANI/sonic.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/sonic/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/sonic/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Tajna izgubljenog kraljevstva (2019)
+http://content2.drycloth.org/DISK2/crtani/kraljevstvo.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/kraljevstvo/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/kraljevstvo/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Misija Arktik (2019)
+http://content.drycloth.org/CRTANI/Misija.Arktik.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/artik/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/artik/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Preko Ograde (2006)
+http://content.drycloth.org/CRTANI/PrekoOgrade.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/prekoograde/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/prekoograde/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Gospodarica zla (2019)
+http://content.drycloth.org/CRTANI/gospodarica.zla2019.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/grdana/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/grdana/funart.png</fanart>
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Kako izdresirati zmaja 3 (2019) 
+http://content.drycloth.org/CRTANI/Kako.izdresirati.zmaja.3.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zmaja/omot3.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/zmaja/funart3.png</fanart>
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Tajni agent Mjau (2018)
+http://content.drycloth.org/CRTANI/Tajni.Agent.Mjau.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/mjau/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/mjau/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Frka (2020)
+http://content.drycloth.org/CRTANI/frka.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/frka/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/frka/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Vilijeva Planeta (2019)
+http://content.drycloth.org/CRTANI/vilijeva.planeta.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/vilijeva/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/vilijeva/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Ko se boji vuka jos 2 (2019) 
+http://content.drycloth.org/CRTANI/ko.se.boji.vuka.jos2.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/vuka/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/vuka/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Zaledjeno kraljevstvo 2 (2019)
+http://content.drycloth.org/CRTANI/frozen2.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/frozen/omot2.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/frozen/funart2.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Prica o igrackama 4 (2019) 
+http://content.drycloth.org/CRTANI/prica.o.igrackama.4.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/toystory/omot4.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/toystory/funart4.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Kralj lavova 2019
+http://content.drycloth.org/CRTANI/kralj.lavova.2019.hr.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/lavova/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/lavova/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Obitelj Adams (2019)
+http://content.drycloth.org/CRTANI/obitelj.adams.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/adams/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/adams/funart.png</fanart>
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Cudesni park (2019)
+http://content.drycloth.org/CRTANI/cudesni.park.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/park/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/park/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Veliko putovanje (2019)
+http://content.drycloth.org/CRTANI/veliko.putovanje.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/putovanje/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/putovanje/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Aladin 2019
+http://content.drycloth.org/CRTANI/aladin.2019.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/aladin/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/aladin/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Everest: Mladi Jeti (2019)
+http://content.drycloth.org/CRTANI/everest.mladi.jeti.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/everest/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/everest/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Snjezna kraljica: Zemlja zrcala (2018) 
+http://content.drycloth.org/CRTANI/snjezna.kraljica.zemlja.zrcala.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/kraljica/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/kraljica/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",U sumi Haki Baki
+http://content.drycloth.org/CRTANI/u.sumi.haki.baki.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/haki/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/haki/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Tomas i prijatelji Putovanje van Sodora (2017)
+http://content.drycloth.org/CRTANI/Tomas.i.prijatelji.Putovanje.van.Sodora.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/tomas/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/tomas/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Dumbo(2019)
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/dumbo2019.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/dumbo/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/dumbo/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Eliot spasava Bozic(2018)
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/eliot.spasava.bozic.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/eliot/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/eliot/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Dugi iz kamenog doba(2018)
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Dugi iz kamenog doba.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/dugi/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/dugi/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Grinch (2018)
+http://content.drycloth.org/CRTANI/Grinch.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/grinch/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/grinch/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Hotel Transilvanija 3(2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Hotel.Transylvania.3.2018.HRSink.720p.BluRay.DD5.1-BD4YU.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/transilvanija/omot3.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/transilvanija/funart3.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Beli Ocnjak (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Beli ocnjak (2018).WEBRip.720p.h264-pOp.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ocnjak/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ocnjak/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Ukradena Princeza (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Ukradena Princeza 2018.Hrsink.720p.WEBRip.x264-lujo.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ukradena/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ukradena/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Brzi Brzic (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Brzi.Brzic.2018.WEBRip.720p.h264-pOp.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/brzic/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/brzic/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Carobni princ (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/carobni princ (2018).Sinh.WEBRip.720p.h264-pOp.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/princ/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/princ/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Luka i carobni muzej (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/luka.i.carobni.muzej.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/luka/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/luka/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Gospodin link:U potrazi za skrivenim gradom (2019)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Gospodin Link-U potrazi za skrivenim.gradom.2019.Hrsink.720p.x264-lujo.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/link/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/link/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Asteriks: Tajna carobnog napitka (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Asteriks.tajna.carobnog.napitka.2018.SRSinh.720p.BluRay.x264.-BD4YU.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/asteriks/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/asteriks/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Spider-Man: Novi svijet (2018)
+http://content.drycloth.org/CRTANI/SpiderManNoviSvijet.2018.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spider/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/spider/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Luis i drustvo iz svemira (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Luis.i.drustvo.iz.svemira.2018.HRSink.720p-BD4YU.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/luis/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/luis/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Ruznici (2019)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Ruznjici.2019.SRSinh.720p.BRRip.x264-BD4YU.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ruznici/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/ruznici/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Tajni zivot ljubimaca 2 (2019)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI_CRTANI/tajni.zivot.ljubimaca2.mkv
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/pets/omot2.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/pets/funart2.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Tajni zivot macaka (2018)
+http://content.drycloth.org/CRTANI/MikiMausKlub/NOVI CRTANI/Tajni.zivot.macaka.2018.HRsink.VODrip.x264.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/macke/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/macke/funart.png</fanart>
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",Korgi: Kraljevski pas velikog srca (2019)
+http://content.drycloth.org/CRTANI/Korgi.Kraljevski.pas.velikog.srca.mp4
+#<thumbnail>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/korgi/omot.png</thumbnail>
+#<fanart>http://content.drycloth.org/SERIJE/NOVE.DOMACE/omoti/crtani/korgi/funart.png</fanart>
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",LEDENO DOBA 1
+http://content.drycloth.org/CRTANI/Ledeno.doba.1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",LEDENO DOBA 2
+http://content.drycloth.org/CRTANI/Ledeno.doba.2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",LEDENO DOBA 3
+http://content.drycloth.org/CRTANI/Ledeno.doba.3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",LEDENO DOBA 4
+http://content.drycloth.org/CRTANI/Ledeno.doba.4.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",LEDENO DOBA 5
+http://content.drycloth.org/CRTANI/Ledeno.doba.5.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",SNJEŽNO KRALJEVSTVO 1
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Ledeno Kraljevstvo.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",ZOOTOPIA
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Zootopia.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",ŠREK 1
+http://content.drycloth.org/CRTANI/Shrek.1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",ŠREK 2
+http://content.drycloth.org/CRTANI/Shrek.2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",ŠREK 3
+http://content.drycloth.org/CRTANI/Shrek.3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",ŠREK 4
+http://content.drycloth.org/CRTANI/Shrek.4.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",PAT I MLAT
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Pat i Mat na filmu.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",DINOSAUR
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Dinosaur (srp).avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",KHUMBA
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Khumba.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",TVRD ORAH
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Tvrd orah.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",TVRD ORAH 2
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Tvrd Orah 2.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",TAJNI ŽIVOT LJUBIMACA
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/tajni.zivot.ljubimaca1.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",NEPAROŽDERI
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Neparozderi.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",MOJA ČUDOVIŠNA OBITELJ
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/Moja cudovisna obitelj.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJBOLJI",KRUDSOVI
+http://content.drycloth.org/CRTANI/Ultimativna kolekcija za djecu/The Croods.avi
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI",*** ŠTRUMPFOVI (1981) ***
+skip
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 1
+https://hls-edge.novaplus.hr/1/2016/05/06/3473dd7999_60883322.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 2
+https://hls-edge.novaplus.hr/1/2016/05/06/e3353f42cc_60883320.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 3
+https://hls-edge.novaplus.hr/1/2016/05/06/7b7d76c750_60883312.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 4
+https://hls-edge.novaplus.hr/1/2016/05/08/15b184e831_60883431.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 5
+https://hls-edge.novaplus.hr/1/2016/05/08/58c1154cf9_60883433.smil/index-f1-v1-a1.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 6
+https://hls-edge.novaplus.hr/1/2016/05/08/c6bc0bfa45_60883429.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 7
+https://hls-edge.novaplus.hr/1/2016/05/12/853fbc7ef4_60883862.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 8
+https://hls-edge.novaplus.hr/1/2016/05/12/498a678095_60883860.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 9
+https://hls-edge.novaplus.hr/1/2016/05/12/ac3f3950a7_60883864.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 10
+https://hls-edge.novaplus.hr/1/2016/05/13/af89ec765c_60883887.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 11
+https://hls-edge.novaplus.hr/1/2016/05/13/78bfe67194_60883885.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 12
+https://hls-edge.novaplus.hr/1/2016/05/13/cbe4235f0f_60883891.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 13
+https://hls-edge.novaplus.hr/1/2016/05/17/d762ab6ff7_60884375.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 14
+https://hls-edge.novaplus.hr/1/2016/05/17/f7fec50b58_60884377.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 15
+https://hls-edge.novaplus.hr/1/2016/05/18/0e4e8948a5_60884428.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 16
+https://hls-edge.novaplus.hr/1/2016/05/18/579111dee3_60884421.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 17
+https://hls-edge.novaplus.hr/1/2016/05/18/af05df7c88_60884419.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 18
+https://hls-edge.novaplus.hr/1/2016/05/18/703d00c999_60884423.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 19
+https://hls-edge.novaplus.hr/1/2016/05/21/152043c5c2_60884718.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 20
+https://hls-edge.novaplus.hr/1/2016/05/21/084c860e3f_60884729.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 21
+https://hls-edge.novaplus.hr/1/2016/05/21/2b598c7140_60884716.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 22
+https://hls-edge.novaplus.hr/1/2016/05/21/902ce093d0_60884720.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 23
+https://hls-edge.novaplus.hr/1/2016/05/21/9b51491bd1_60884745.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 24
+https://hls-edge.novaplus.hr/1/2016/05/21/94becb5029_60884749.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 25
+https://hls-edge.novaplus.hr/1/2016/05/25/9aba7493ef_60885102.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 26
+https://hls-edge.novaplus.hr/1/2016/05/25/175a69f304_60885106.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 27
+https://hls-edge.novaplus.hr/1/2016/05/31/b216a70b26_60885408.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 28
+https://hls-edge.novaplus.hr/1/2016/05/31/a08f78fb9c_60885420.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 29
+https://hls-edge.novaplus.hr/1/2016/05/31/c50d8cb704_60885422.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBNH8jC13FMi20aPStxIrEKKHRHewscYodA&usqp=CAU" group-title="ŠTRUMPFOVI", EPIZODA 30
+https://hls-edge.novaplus.hr/1/2016/05/31/bf37569ec6_60885417.smil/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",*** MAŠA I MEDVJED ***
+skip
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 1
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%201.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 2
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%202.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 3
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%203.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 4
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%204.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 5
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%205.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 6
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%206.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 7
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%207.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 8
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%208.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 9
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%209.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 10
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2010.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 11
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2011.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 12
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2012.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 13
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2013.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 14
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2014.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 15
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2015.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 16
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2016.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 17
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2017.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 18
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2018.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 19
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2019.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 20
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2020.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 21
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2021.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 22
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2022.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 23
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2023.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 24
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2024.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 25
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2025.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 26
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2026.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 27
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2027.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 28
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2028.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 29
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2029.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 30
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2030.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 31
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa i medvjed (1-52)/Masa I Medvjed 31.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 32
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2032.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 33
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2033.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 34
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2034.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 35
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2035.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 36
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2036.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 37
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2037.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 38
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2038.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 39
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2039.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 40
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2040.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 41
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2041.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 42
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2042.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 43
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2043.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 44
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2044.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 45
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2045.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 46
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2046.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 47
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2047.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 48
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2048.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 49
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2049.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 50
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2050.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 51
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2051.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 52
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2052.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwGduHAzN9Chrp7gsc8Qqcj_Yvej1kgxrlQ&usqp=CAU" group-title="MAŠA_I_MEDVJED_HR",Epizoda 53
+http://blackeye.drycloth.org/CRTANI/Ultimativna%20kolekcija%20za%20djecu/Masa%20i%20medvjed%20(1-52)/Masa%20I%20Medvjed%2053.mp4
+
+#EXTINF:-1 group-title="VT_CRTANI",MAĐIONIČAREVA SLONICA (2023)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/TheMagicians.Elephant.2023.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",MAČAK U ČIZMAMA POSLJEDNJA ŽELJA (2022)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Puss.In.Boots.The.Last.Wish.2022.HRSink.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",ASTERIX I 12 ZADATAKA (1976)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/ASTERIX.I.12.ZADATAKA.1976.mp4
+
+#EXTINF:-1 group-title="VT_CRTANI",PEPA PIG (SEZONA 5)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Serije/Peppa/Peppa.Pig_S05.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",PEPA PIG (SEZONA 6)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Serije/Peppa/Peppa.Pig_S06.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",TAJNI ŽIVOT LJUBIMACA 1 (2015)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Tajni.zivot.ljubimaca.2016.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",TAJNI ŽIVOT LJUBIMACA 2 (2019)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Tajni.zivot.ljubimaca.2.2019.mp4
+
+#EXTINF:-1 group-title="VT_CRTANI",ČUDESNI PARK (2019)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Cudesni.park.2019.avi
+
+#EXTINF:-1 group-title="VT_CRTANI",MEDO SA SJEVERA 2 (2018)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Medo.sa.sjevera.2.Kljucevi.kraljevstva.2018..mp4
+
+#EXTINF:-1 group-title="VT_CRTANI",TVORNICA SNOVA (2020)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Tvornica.snova.2020.mp4
+
+#EXTINF:-1 group-title="VT_CRTANI",ČAROBNI PROLAZ (2020)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Carobni.prolaz.2020.mp4
+
+#EXTINF:-1 group-title="VT_CRTANI",TABALUGA (2018)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Tabaluga.2018.mp4
+
+#EXTINF:-1 group-title="VT_CRTANI",KORGI KRALJEVSKI PAS (2019)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Korgi.Kraljevski.pas.velikog.srca.2019.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",KUĆA MONSTRUMA (2006)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Kuca.monstrum.2006.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",PAT I MLAT NA FILMU (A JE TO)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Pat.and.Mat.in.a.Movie.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",OBITELJ ADAMS 2  (2019)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Obitelj.Adams.2.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",POBUNA NA FARMI (2004)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Pobuna.na.farmi.2004.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",POLARNA AVANTURA (2019)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Polarna.avantura.mkv
+
+#EXTINF:-1 group-title="VT_CRTANI",NEBESA (2009)
+http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Nebesa.2009.mkv
+
+#BB 4/2023
+
+
+
+
 
 
