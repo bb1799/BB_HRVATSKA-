@@ -1,1 +1,1104 @@
+#EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" group-title="HRVATSKA",HRT 1 HD   hls
+http://89.187.169.111:4065/live?hls=1&channelId=65&deviceMac=00:1A:79:54:52:85&split=f79a363349b28c47651b894165d28d31&anycast=29572d54ebf9f9fd0633c2147b293d23&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" group-title="HRVATSKA",HRT 1 HD
+http://bk3.ddstream.info:7080/HRT_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2" group-title="HRVATSKA",HRT 2 HD   hls
+http://89.187.169.111:4066/live?hls=1&channelId=66&deviceMac=00:1A:79:54:52:85&split=2fa7405c403b351e0bdfeb85d3dddc14&anycast=fa0597eae19103b8783f79519d844dd2&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2" group-title="HRVATSKA",HRT 2
+http://bk3.ddstream.info:7080/HRT_2/mpegts?token=sHk1kkkkJJk89jk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="hrt3" tvg-name="HRT 3" group-title="HRVATSKA",HRT 3
+http://bk6.ddstream.info:7080/HRT_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="hrt3" tvg-name="HRT 3" group-title="HRVATSKA",HRT 3 HD
+http://strimer1.ddstream.info:82/live?channelId=1700&deviceMac=00:1A:79:54:52:85&split=ced3bebae47ce05f7e662791cf66715c&anycast=d89b2d08d8fdf3bf594198400af673a8&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" group-title="HRVATSKA",HRT 4
+http://bk3.ddstream.info:7080/HRT_4/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-name="HRT INT." group-title="HRVATSKA",HRT 5 Int
+http://bk6.ddstream.info:7080/HRT_5/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-name="NOVA TV" group-title="HRVATSKA",Nova TV   hls
+http://89.187.169.111:4064/live?hls=1&channelId=64&deviceMac=00:1A:79:54:52:85&split=3763c3a98e21a4ba51f6ff80250a20bb&anycast=4e77ce288e20ed99e86ac3eb2fcae9c9&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-name="NOVA TV" group-title="HRVATSKA",Nova TV
+http://bk3.ddstream.info:7080/Nova_TV_HR/mpegts?token=sHk1kkkkJJk89jk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-name="RTL" group-title="HRVATSKA",RTL   hls
+http://89.187.169.111:4063/live?hls=1&channelId=63&deviceMac=00:1A:79:54:52:85&split=e6a6d04e7b0ce293d7e7622d1ff4f1b2&anycast=37f3b459f9611c574991875754f6f6e1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-name="RTL" group-title="HRVATSKA",RTL.
+http://bk3.ddstream.info:7080/RTL/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-name="RTL2" group-title="HRVATSKA",RTL 2
+http://bk3.ddstream.info:7080/RTL_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Doma TV
+http://bk3.ddstream.info:7080/Doma/mpegts?token=sHk1kkkkJJk89jk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Adria *hevc*
+http://bk6.ddstream.info:7080/RTL_Adria/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Living
+http://bk6.ddstream.info:7080/RTL_Living/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Passion 
+http://bk6.ddstream.info:7080/RTL_Passion/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Crime
+http://bk6.ddstream.info:7080/RTL_Crime/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",RTL Croatia World
+http://sport.ddstream.info:7108/live?channelId=353&deviceMac=00:1A:79:54:52:85&split=1629e7957474846392426031e76afb9c&anycast=a21a967bd55cbfe86e6ab1ca6f496509&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Laudato TV
+http://bk6.ddstream.info:7080/Laudato/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",N1 Hrvatski
+http://bk4.ddstream.info:7080/N1_hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Otvorena TV
+http://bk6.ddstream.info:7080/OTV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Klasik TV
+http://bk6.ddstream.info:7080/Klasik_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Z1
+http://bk6.ddstream.info:7080/Z1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",MrezaZG
+http://bk6.ddstream.info:7080/Mreza_ZG/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Televizija Dalmacija
+http://bk6.ddstream.info:7080/TV_Dalmacija/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Jadran TV
+http://bk6.ddstream.info:7080/Jadran_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",TV Sibenik
+http://bk6.ddstream.info:7080/ZV_Sibenik/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",KanalRi
+http://bk6.ddstream.info:7080/Kanal_RI/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",TV Nova
+http://bk6.ddstream.info:7080/TV_Nova/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",VTV Varazdin
+http://bk6.ddstream.info:7080/VTV_Varazdin/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Osjecka TV
+http://bk6.ddstream.info:7080/Osjecka_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Slavonska TV
+http://bk6.ddstream.info:7080/Slavonska/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Vinkovacka tv
+http://bk6.ddstream.info:7080/Vinkovacka/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Trendtv
+http://bk6.ddstream.info:7080/Trend_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Dubrovacka TV
+http://bk6.ddstream.info:7080/Dubrovacka_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",TV Zapad
+http://bk6.ddstream.info:7080/TV_Zapad/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Maria Vision
+http://strimer1.iptv-max.com:85/live?channelId=1808&deviceMac=00:1A:79:54:52:85&split=53370e730bd8041f12dd9af942013b79&anycast=c9c8595f2fee107ac2b6ff6d66576a2b&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Medjugorje misa uzivo
+http://strimer1.ddstream.info:85/live?channelId=1584&deviceMac=00:1A:79:54:52:85&split=e7ea643c379132ee1f2633ba6df058a9&anycast=c40d600e594a0065fbb19a56c732ea39&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="HRVATSKA",Medjugorje TV int
+http://strimer1.ddstream.info:85/live?channelId=1597&deviceMac=00:1A:79:54:52:85&split=649507162bac2700936da2cc78d6a810&anycast=e1df96911a79afb9015fa9523f7c5c03&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",MAx Sport 1 HD
+http://bk3.ddstream.info:7080/Max_sport_1/mpegts?token=sHk1kkkkJJk89jk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Max Sport 2 HD
+http://bk6.ddstream.info:7080/Max_Sport_2_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 FullHD HR *hevc*
+http://bk3.ddstream.info:7080/Arena_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 1 HR
+http://bk3.ddstream.info:7080/Arena_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 FullHD HR *hevc*
+http://bk3.ddstream.info:7080/Arena_2_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 2 HR
+http://bk3.ddstream.info:7080/Arena_2_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 FullHD HR *hevc*
+http://bk3.ddstream.info:7080/Arena_3_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 3 HR
+http://bk3.ddstream.info:7080/Arena_3_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 4 HR
+http://bk3.ddstream.info:7080/Arena_4_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 5 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_5_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 6 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_6_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 7 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_7_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 8 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_8_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Sport HD 9 HR
+http://bk6.ddstream.info:7080/Arena_Sport_HD_9_Hr/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena Fight
+http://strimer5.ddstream.info:7111/live?channelId=1494&deviceMac=00:1A:79:54:52:85&split=0fc519b29a117423f5a970dc5896430b&anycast=438a8d7b2f5c5808bd9caa6a5fbf9442&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Arena ESport
+http://sport.ddstream.info:7097/live?channelId=425&deviceMac=00:1A:79:54:52:85&split=266bfb61914b33f6783605a6460e449e&anycast=93fa25e6e383e944016df2ecf298d952&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HD   hls
+http://89.187.169.111:5779/live?hls=1&channelId=1779&deviceMac=00:1A:79:54:52:85&split=6ca0011f6f8d08484899c4fa5e0f2334&anycast=afa83c9523a416921e0b2d30688c7ad5&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HD
+http://bk4.ddstream.info:7080/sport_klub_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 HD   hls
+http://89.187.169.111:4032/live?hls=1&channelId=32&deviceMac=00:1A:79:54:52:85&split=de3976d2b1794f335565a11cfcf0d53a&anycast=ec0c3fe546c58a1d7e20d64c80d64861&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 HD .
+http://bk3.ddstream.info:7080/SportKlub_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 HD   hls
+http://89.187.169.111:4033/live?hls=1&channelId=33&deviceMac=00:1A:79:54:52:85&split=8f681e49b70b34b20bad29750b9edd91&anycast=8957199292afb6850becf4d7ca1fbac4&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 HD .
+http://bk3.ddstream.info:7080/SportKlub_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 4
+http://bk6.ddstream.info:7080/Sport_Klub_4/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 5
+http://bk6.ddstream.info:7080/Sport_Klub_5/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 6
+http://bk6.ddstream.info:7080/Sport_Klub_6/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",SK 1 SD
+http://strimer3.iptv-max.com:99/live?channelId=31&deviceMac=00:1A:79:54:52:85&split=dde9b2a008d58f83940ac0115f27d5a1&anycast=ed6162b512e6f2c94fcbf2cad420b12d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HR FullHD *hevc*
+http://bk3.ddstream.info:7080/Sport_klub_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 1 HD HR
+http://bk3.ddstream.info:7080/Sport_klub_1_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 2 HD HR
+http://bk3.ddstream.info:7080/Sport_klub_2_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sport klub 3 HD HR
+http://bk3.ddstream.info:7080/Sport_klub_3_HR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",SPORT Klub HD
+http://bk6.ddstream.info:7080/Sport_Klub_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Nova Sport S
+http://bk6.ddstream.info:7080/NOVA_Sport_RS/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Eurosport 1
+http://bk4.ddstream.info:7080/Eurosport_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Eurosport 1 HD
+http://bk6.ddstream.info:7080/Europort_1_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Eurosport 2
+http://bk6.ddstream.info:7080/Europort_2_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",ZVEZDA TV HD
+http://sport.ddstream.info:7095/live?channelId=1706&deviceMac=00:1A:79:54:52:85&split=916c3603975b256523204676146fe8ab&anycast=ab2b6302d5702e4bc92624cd2c0c196e&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",TV Partizan HD
+http://strimer3.ddstream.info:88/live?channelId=1707&deviceMac=00:1A:79:54:52:85&split=b02260989a7424838e561a9a0fd1602e&anycast=6b55bc49937ce719112468d96235e7d1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="SPORT",Sportska TV
+http://strimer5.ddstream.info:7096/live?channelId=898&deviceMac=00:1A:79:54:52:85&split=d6c9aaa1e24e425617e0173f9717128b&anycast=6792fc992bbd56296a160da379a425a7&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",HGTV
+http://bk5.ddstream.info:7080/HGTV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Discovery
+http://bk5.ddstream.info:7080/Discovery/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Discovery Science
+http://bk5.ddstream.info:7080/Discovery_science/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Discovery ID
+http://bk5.ddstream.info:7080/Discovery_ID/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Crime & Investigation
+http://bk5.ddstream.info:7080/Crime_investigetion/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",History Channel HD
+http://bk5.ddstream.info:7080/History/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",History 2
+http://bk5.ddstream.info:7080/History_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Viasat History
+http://bk5.ddstream.info:7080/Viasat_history/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",National Geographic
+http://bk5.ddstream.info:7080/Nat_geo/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",NatGeo Wild
+http://bk5.ddstream.info:7080/Natgeo_wild/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Animal Planet
+http://bk5.ddstream.info:7080/Animal_planet/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",BBC Earth
+http://bk5.ddstream.info:7080/BBC_earth/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Viasat Nature
+http://bk5.ddstream.info:7080/Viasat_nature/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Viasat Explorer
+http://bk5.ddstream.info:7080/Viasat_explorer/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Doku TV
+http://bk5.ddstream.info:7080/Doku_tv/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",TLC
+http://bk5.ddstream.info:7080/TLC/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",TV Doctor HD
+http://bk5.ddstream.info:7080/Doctor_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Balkan Trip
+http://bk5.ddstream.info:7080/Balkan_trip/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Agro TV
+http://bk5.ddstream.info:7080/Agro/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",24 Kitchen
+http://bk5.ddstream.info:7080/24_kitchen/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Kitchen
+http://bk5.ddstream.info:7080/Kitchen/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",E! Entertainment TV
+http://bk5.ddstream.info:7080/Entertaiment/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Travel
+http://bk5.ddstream.info:7080/Travel/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Luxe TV
+http://strimer5.ddstream.info:7097/live?channelId=1679&deviceMac=00:1A:79:54:52:85&split=baeee40191c987a15067d15f094a19f1&anycast=66c27b3ce3c348f3a558ea8f07b11cf3&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",CBS Reality
+http://bk5.ddstream.info:7080/CBS_reality/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Lov i Ribolov
+http://bk5.ddstream.info:7080/Lov_ribolov/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",kanal lov
+http://ostali.ddstream.info:7093/live?channelId=520&deviceMac=00:1A:79:54:52:85&split=35be015e523b7d40219f2fac4707051b&anycast=cfd359610e967da05c58b75431512df1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Fishing and Hunting
+http://strimer1.ddstream.info:84/live?channelId=544&deviceMac=00:1A:79:54:52:85&split=cb1788b0cc65f93a9a00d9a6bb260371&anycast=6d0b92a667d0cb73d97c4a7232f4501d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DOKU",Fishing TV
+http://ostali.ddstream.info:7093/live?channelId=1230&deviceMac=00:1A:79:54:52:85&split=bcbf0952a9c2d2da91011c1fe843be5d&anycast=0a7b610768bd5932bdca88edb4250eea&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Baby Maxi
+http://strimer1.ddstream.info:94/live?channelId=1130&deviceMac=00:1A:79:54:52:85&split=bc3dfffdca4be2c1cdd561b678a20314&anycast=2e8291cee5b76e647d4d623fe6c1852a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Baby MaX Eng
+http://strimer1.ddstream.info:109/live?channelId=1218&deviceMac=00:1A:79:54:52:85&split=8f01c76e329f01c22869784805e2ebcb&anycast=d9e49cc390b18ed842d9dd498c38bee0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",KidsPLUS
+http://strimer1.ddstream.info:82/live?channelId=493&deviceMac=00:1A:79:54:52:85&split=9583987472b6de14d559a3830abcfcc7&anycast=ada34c1fe131813a974f02c228d9ba00&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Baby TV
+http://strimer3.ddstream.info:83/live?channelId=1047&deviceMac=00:1A:79:54:52:85&split=0d12e4fef6c286fab20f7626dd9d506e&anycast=28d41d67d6e02493f7010ee870be3fe7&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Cartoon Network
+http://strimer3.ddstream.info:83/live?channelId=405&deviceMac=00:1A:79:54:52:85&split=9fa397ef2fa24524144452a4279c753e&anycast=ba0fe3fab7c606b3e332331c510cf153&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Lana Cartoons Eng
+http://strimer3.iptv-max.com:83/live?channelId=1293&deviceMac=00:1A:79:54:52:85&split=a639f0866c03923a9932a573c8341765&anycast=6932e7debe32c44939afcf66275e7af6&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Kazbuka TV
+http://sport.ddstream.info:7098/live?channelId=1920&deviceMac=00:1A:79:54:52:85&split=7f6c1be8aa808355ee8784d1c18f1e7b&anycast=b3a8177c594bfaa7ca51d7952d1f372f&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",RTL Kockica
+http://strimer3.ddstream.info:88/live?channelId=71&deviceMac=00:1A:79:54:52:85&split=fb2eb023dc8987e0da883ad2dfc1b323&anycast=d7d6a400e3cd3ef9c4c0e1a381f0a9ce&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nickelodeon sr
+http://strimer3.ddstream.info:91/live?channelId=1561&deviceMac=00:1A:79:54:52:85&split=0743aa6de9e61813a57e7140f19e9b98&anycast=3e419d7ec803d22ad82a2c2fe5e1bd1a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nickelodeon hr
+http://strimer1.ddstream.info:94/live?channelId=280&deviceMac=00:1A:79:54:52:85&split=a899657742b9a9b0b11cdf78b5754daf&anycast=573cd3a2d15775c2d310c167318065a0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nick Junior sr
+http://sport.ddstream.info:7111/live?channelId=1562&deviceMac=00:1A:79:54:52:85&split=b2e20ed60b73504828a3ef5a32732798&anycast=90da7c927cebb017694b81816689758c&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Nick Junior hr
+http://strimer3.ddstream.info:82/live?channelId=1394&deviceMac=00:1A:79:54:52:85&split=ccaefdad20988633f53c69f160919065&anycast=b0f409b06977816b0a1e2e27e4ed6357&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Boomerang
+http://strimer3.ddstream.info:81/live?channelId=180&deviceMac=00:1A:79:54:52:85&split=0b3ee1a16ee0cffccb15fba36f9add32&anycast=84a220b1ec5f913c8473563f40f7d021&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Minimax
+http://strimer1.ddstream.info:81/live?channelId=1563&deviceMac=00:1A:79:54:52:85&split=cc06852133854ac9d78a3d1f5ef36411&anycast=9bff42d39d0c3730b6b25f85de424daf&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Hitovci
+http://strimer3.ddstream.info:83/live?channelId=106&deviceMac=00:1A:79:54:52:85&split=558aa08d5af3a3615b7ca5c7db991eda&anycast=9adf7ba3d2425e69a844368ae17b5446&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Tropik TV
+http://sport.ddstream.info:7093/live?channelId=1919&deviceMac=00:1A:79:54:52:85&split=a8493be0fcb8f81bb7e284beaac5ab94&anycast=a6e570398df8eef08fcb9ea297d09c5a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Artic Crtic
+http://strimer3.ddstream.info:85/live?channelId=1334&deviceMac=00:1A:79:54:52:85&split=b77bfd0300897c68f2aa66ba59ac8ace&anycast=757b29f383f57a263418dcded69e4bdb&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Mont kIDS
+http://sport.ddstream.info:7090/live?channelId=1439&deviceMac=00:1A:79:54:52:85&split=388d99b2a36ad171fb2679eca636ebb3&anycast=0ceb95b5c1c6788c2d5961e87edc5a10&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Disney Junior TV
+http://ostali.ddstream.info:7100/live?channelId=1289&deviceMac=00:1A:79:54:52:85&split=624e4f8558913d0424cf7c5183e55bd2&anycast=383779b6f121a2a171a86fd77706427a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Mini Ultra TV
+http://strimer3.ddstream.info:81/live?channelId=1663&deviceMac=00:1A:79:54:52:85&split=2dd3a925a5bd86b5b36abf2d581c1277&anycast=d92a74a72b48f81e303a2711da3b1f7a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="DJECA",Pikaboo
+http://strimer3.ddstream.info:87/live?channelId=519&deviceMac=00:1A:79:54:52:85&split=4012a3ad771445b04cc0954a894db136&anycast=796d14c4eab5139865da9295bf5f2174&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Music
+http://strimer1.ddstream.info:87/live?channelId=92&deviceMac=00:1A:79:54:52:85&split=fb682f4a99f9903545dffe49e972b129&anycast=03d0ee3aeef867ca04179c6917315ddd&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Music 2
+http://strimer3.ddstream.info:85/live?channelId=150&deviceMac=00:1A:79:54:52:85&split=4d657d22ca7d63457a7e4c82607b07e2&anycast=7e40ce99877b7b29db530ad06fac3954&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink hits 2
+http://sport.ddstream.info:7097/live?channelId=117&deviceMac=00:1A:79:54:52:85&split=0f954d05aae1670fd09711fd3bd8faa1&anycast=a03f1155d30801a02b2aefaa81084580&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Folk 1
+http://strimer3.ddstream.info:85/live?channelId=93&deviceMac=00:1A:79:54:52:85&split=5fe4cb82b5df42d7a43bdc4788d414f7&anycast=6e0978311624f27fa8381b2110b67bc8&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Pink Folk 2
+http://sport.ddstream.info:7096/live?channelId=95&deviceMac=00:1A:79:54:52:85&split=11c003b970559e21595f3c99a5b052a5&anycast=269e5b7927467d4a9c66d6227fb7594b&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Folk Muzika
+http://strimer3.ddstream.info:83/live?channelId=890&deviceMac=00:1A:79:54:52:85&split=9d790a42db61d73fa8b5ce89c83d0cff&anycast=26a9a34653bb0d77831086e525a12c18&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Grand TV
+http://sport.ddstream.info:7093/live?channelId=89&deviceMac=00:1A:79:54:52:85&split=9c45815b8dd998901f70ba8bf24139ca&anycast=628f4e389d8e339cfa54c0a6c94d4c44&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Grand TV 2
+http://strimer1.ddstream.info:84/live?channelId=445&deviceMac=00:1A:79:54:52:85&split=6d98bdd88e002b109075a57c114ac739&anycast=3d15abb5ed7ed214594524438010c632&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Uzivo Teka
+http://sport.ddstream.info:7092/live?channelId=38&deviceMac=00:1A:79:54:52:85&split=374fe6e13c7fd525b33d056bc007edc2&anycast=c4333defa999317a36754e52d87a7370&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",ToxiC Music TV
+http://ostali.ddstream.info:7095/live?channelId=733&deviceMac=00:1A:79:54:52:85&split=d769e76e5b820bf98d7905d4e2577911&anycast=1ff2d2bd576243fdc0b3a9c353029917&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",IDJTV
+http://strimer3.ddstream.info:84/live?channelId=1273&deviceMac=00:1A:79:54:52:85&split=eb0effa68d20493084d7003031335747&anycast=90ba6f35aef71873b322204a735b4b70&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",BN Music
+http://strimer3.ddstream.info:81/live?channelId=142&deviceMac=00:1A:79:54:52:85&split=f7c42cebe90bbecbb1e2197aea5a68c9&anycast=8a46128814046d94d79786f460713dd1&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",DM Sat
+http://sport.ddstream.info:7090/live?channelId=102&deviceMac=00:1A:79:54:52:85&split=e42acec20fcf155ef599fb2d58b0c980&anycast=b49095f0b5386ca1efd688625d730112&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Boem Televizija
+http://sport.ddstream.info:7096/live?channelId=323&deviceMac=00:1A:79:54:52:85&split=841693eec737a86c80f0ea30f1a63d7b&anycast=1ddd4d7d176e157763e7a828eec326e0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",KCN 2
+http://strimer3.ddstream.info:90/live?channelId=185&deviceMac=00:1A:79:54:52:85&split=c3cc24d1c90db309f9b2ebb0b05e71da&anycast=c9ac32a92d1add85f31f49818135e17d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Svet Plus
+http://strimer1.ddstream.info:84/live?channelId=1408&deviceMac=00:1A:79:54:52:85&split=67742d026af78c8f33c1cfe88f90b48b&anycast=684abd1f2201fd4de6c45f4f2e15c3ee&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",TV VimiNacijum
+http://strimer3.ddstream.info:89/live?channelId=1586&deviceMac=00:1A:79:54:52:85&split=4d2f3056503aace77d7f284749a6b264&anycast=9794b74be9c98940c98abf8dafbbf20c&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",OTV Valentino
+http://strimer5.ddstream.info:7096/live?channelId=18&deviceMac=00:1A:79:54:52:85&split=d43831dc71bebc88fdc5ed994f8844c0&anycast=c1a603e43a055880cf0bae7612cd0374&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",TV SEHARA
+http://sport.ddstream.info:7092/live?channelId=1203&deviceMac=00:1A:79:54:52:85&split=0934906ce75ab8d23a7b2d35a32e28bd&anycast=d961c42f09c5f6e4e810571ab7a9b422&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Sevdah TV
+http://strimer5.ddstream.info:7091/live?channelId=1398&deviceMac=00:1A:79:54:52:85&split=eabff176479cd1cc2fd8de7415e9a797&anycast=957b128bfd27f920958eb45e1ce73570&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Bujrum TV
+http://ostali.ddstream.info:7093/live?channelId=739&deviceMac=00:1A:79:54:52:85&split=da5f6be1f3c6b9612ff4c73455ef72bd&anycast=f690b0e9d92c7faa3c56083574d49f6f&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",HTV Folk
+http://strimer1.ddstream.info:81/live?channelId=730&deviceMac=00:1A:79:54:52:85&split=31e32ea379a54064d679aef10122e965&anycast=1a42223e9aef81ddeabb1b1a4aa7c471&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Folk Melody
+http://ostali.ddstream.info:7101/live?channelId=1657&deviceMac=00:1A:79:54:52:85&split=d476e2d414171ca6fa20c472328d8310&anycast=1cfa1012668cfe0851c2392b102d5243&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",DiskoS TV
+http://ostali.ddstream.info:7094/live?channelId=729&deviceMac=00:1A:79:54:52:85&split=240c843ff72593acfac20d73515a3b4b&anycast=a236e533c0ca7ce6673ce92b2616528f&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Izvorna TV
+http://sport.ddstream.info:7098/live?channelId=515&deviceMac=00:1A:79:54:52:85&split=9b1faad9be538d7de3c59f50314f07b7&anycast=013ee8a8f19b7050b2e886d59da29f7b&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Yu planet radio
+http://strimer5.ddstream.info:7092/live?channelId=382&deviceMac=00:1A:79:54:52:85&split=6b0e0092a8ed5b993abd3961e4426464&anycast=397995b19842ad2769a9591ecc580014&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="GLAZBA",Duga TV
+http://strimer3.ddstream.info:82/live?channelId=339&deviceMac=00:1A:79:54:52:85&split=8c2eddd30ee6c79d3fc23c63e1cd9747&anycast=d7cd54cac5a31f5b39cbff0b0b876a95&token=513787671443
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Art Fit
+http://strimer3.ddstream.info:84/live?channelId=1163&deviceMac=00:1A:79:54:52:85&split=91e233ebe5f41b23675c6755a477f540&anycast=7113228177ff0366aaeb1c47e8691d8a&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max 1
+http://bk5.ddstream.info:7080/Max_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max 2
+http://bk5.ddstream.info:7080/Max_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MAX Mix HD
+http://strimer1.ddstream.info:85/live?channelId=1409&deviceMac=00:1A:79:54:52:85&split=8819374a434ddf0da4fd35a3e8e86b5b&anycast=5625014beab89f069c6e7f97c2e3333e&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MAX1 HD premium Hevc
+http://bk5.ddstream.info:7080/MAX1_HD_premium_Hevc/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MAX2 HD premium Hevc
+http://bk5.ddstream.info:7080/MAX2_HD_premium_Hevc/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Action
+http://bk5.ddstream.info:7080/Max_Action/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Comedy
+http://bk5.ddstream.info:7080/Max_Comedy/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Oldies
+http://bk5.ddstream.info:7080/Max_Oldies/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Adventure
+http://bk5.ddstream.info:7080/Max_Adventure/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max PluS
+http://strimer3.ddstream.info:90/live?channelId=469&deviceMac=00:1A:79:54:52:85&split=53722120ef853e60fb19c5062f39725e&anycast=52a79327ed3edfdebc3c501480c3e472&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max HorroR
+http://bk5.ddstream.info:7080/Max_HorroR/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SciFi
+http://bk5.ddstream.info:7080/Max_SciFi/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max Serije
+http://bk5.ddstream.info:7080/Max_Serije/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max oldies Series
+http://bk5.ddstream.info:7080/Max_oldies_Series/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",ExYu Serijski
+http://bk5.ddstream.info:7080/ExYu_Serijski/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",ExYU Film
+http://bk5.ddstream.info:7080/ExYU_Film/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Top YU Film
+http://bk5.ddstream.info:7080/Top_YU_Film/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT UHD
+http://strimer1.ddstream.info:83/live?channelId=1612&deviceMac=00:1A:79:54:52:85&split=aecb874d49323cde25006228bc8183ec&anycast=5fc8d47b7378168468acc490ff6404f5&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT UHD 2
+http://strimer1.ddstream.info:83/live?channelId=1613&deviceMac=00:1A:79:54:52:85&split=85c5d44e360ed63b26578d4b2da54fb4&anycast=6c4307070a830ff16bb39b9a5ec6c2a0&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 1
+http://bk5.ddstream.info:7080/Max_SELECT_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 2
+http://bk5.ddstream.info:7080/Max_SELECT_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 3
+http://bk5.ddstream.info:7080/Max_SELECT_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 4
+http://bk5.ddstream.info:7080/Max_SELECT_4/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 5
+http://bk5.ddstream.info:7080/Max_SELECT_5/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 6
+http://bk5.ddstream.info:7080/Max_SELECT_6/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 7
+http://bk5.ddstream.info:7080/Max_SELECT_7/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Max SELECT 8
+http://bk5.ddstream.info:7080/Max_SELECT_8/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie 1 HD
+http://bk5.ddstream.info:7080/MiX_Movie_1_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie 2 HD
+http://bk5.ddstream.info:7080/MiX_Movie_2_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie 3 HD
+http://bk5.ddstream.info:7080/MiX_Movie_3_HD/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Mix Movies Western
+http://bk5.ddstream.info:7080/Mix_Movies_Western/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Movie Romance
+http://bk5.ddstream.info:7080/MiX_Movie_Romance/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",MiX Hits Movies
+http://bk5.ddstream.info:7080/MiX_Hits_Movies/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Diva TV
+http://bk5.ddstream.info:7080/Diva_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Epic Drama
+http://bk5.ddstream.info:7080/Epic_Drama/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",TDC Kanal
+http://strimer5.ddstream.info:7092/live?channelId=1570&deviceMac=00:1A:79:54:52:85&split=87cd75bfd8818d754660cc4793d3fdf6&anycast=0173001ffffff8c944712cdc255ff7e8&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",TV 1000
+http://bk5.ddstream.info:7080/TV_1000/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Nova Max
+http://strimer1.iptv-max.com:108/live?channelId=864&deviceMac=00:1A:79:54:52:85&split=06c71beb0cd607fb8b42d5fa3c20d01d&anycast=0b2a13e26ac2f5433bf4666a98a26b5d&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Nova Serije
+http://sport.ddstream.info:7126/live?channelId=108&deviceMac=00:1A:79:54:52:85&split=ec60a02a5869e177263feddbf6c88ccc&anycast=3fc10348296e09d6dc197e90f6ce3359&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Film KLub
+http://ostali.ddstream.info:7094/live?channelId=718&deviceMac=00:1A:79:54:52:85&split=ada670376af3a8ecf039487379aba9bb&anycast=5156715005723724e28a9e0c06d58b43&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Super Star TV
+http://bk5.ddstream.info:7080/Super_Star_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Star TV
+http://bk5.ddstream.info:7080/Star_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",HBO Adria
+http://bk5.ddstream.info:7080/HBO_Adria/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",HBO 2
+http://bk5.ddstream.info:7080/HBO_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",HBO 3
+http://bk5.ddstream.info:7080/HBO_3/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinemax
+http://bk5.ddstream.info:7080/Cinemax/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinemax 2
+http://bk5.ddstream.info:7080/Cinemax_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Premiere 1
+http://bk5.ddstream.info:7080/Cinestar_Premiere_1/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Premiere 2
+http://bk5.ddstream.info:7080/Cinestar_Premiere_2/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",CineStar TV
+http://bk5.ddstream.info:7080/CineStar_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Fantasy
+http://bk5.ddstream.info:7080/Cinestar_Fantasy/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Cinestar Action
+http://bk5.ddstream.info:7080/Cinestar_Action/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Kino TV
+http://bk5.ddstream.info:7080/Kino_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",FOX
+http://bk5.ddstream.info:7080/FOX/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",FOX Life
+http://bk5.ddstream.info:7080/FOX_Life/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",FOX Crime
+http://bk5.ddstream.info:7080/FOX_Crime/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Fox Movies
+http://bk5.ddstream.info:7080/Fox_Movies/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",Pickbox TV
+http://bk5.ddstream.info:7080/Pickbox_TV/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",M1 Film
+http://strimer3.iptv-max.com:109/live?channelId=707&deviceMac=00:1A:79:54:52:85&split=3b5e136afb719be3904c66066aadd68d&anycast=01623af4e34dcd590641631dab4d32f6&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",M1 Gold
+http://strimer1.iptv-max.com:101/live?channelId=731&deviceMac=00:1A:79:54:52:85&split=b754a580f1de672052d1a6686a0c5d57&anycast=f221e316877df27294f10564704ce856&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",AXN
+http://bk5.ddstream.info:7080/AXN/mpegts?token=sHk1kkkkJJk89jk
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",AMC
+http://strimer3.ddstream.info:90/live?channelId=1635&deviceMac=00:1A:79:54:52:85&split=06d44379ee9b80245b1ad6762fc103e9&anycast=b8c295e48651de30585512a9e202e239&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",SciFi
+http://strimer3.ddstream.info:88/live?channelId=179&deviceMac=00:1A:79:54:52:85&split=b64c29d53fd622fe90477ae7b5388a1f&anycast=23e8156ee26d667e959c280f95ee5331&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",max Living
+http://strimer1.ddstream.info:82/live?channelId=61&deviceMac=00:1A:79:54:52:85&split=74b5354eac4dc9a49b0105e708722a34&anycast=dc697c8b1de99bcad35acd6b6cab8717&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",max Zabava
+http://strimer1.ddstream.info:85/live?channelId=1044&deviceMac=00:1A:79:54:52:85&split=5aadf7e2a63c274c21d6d7f9b119e438&anycast=007127a931c15195d4c59099948a2d28&token=513787671443
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FILM",max Dokus
+http://strimer1.ddstream.info:85/live?channelId=1335&deviceMac=00:1A:79:54:52:85&split=3fd2acb4e36771ae347b70acadc98af7&anycast=895971283e150fb95378535440c03c54&token=513787671443
+
+
 
