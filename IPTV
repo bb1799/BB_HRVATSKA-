@@ -129,6 +129,8 @@ http://line.4k-iptv.com:80/M604FxBozu/abcdefg1231231/29444
 http://line.4k-iptv.com:80/M604FxBozu/abcdefg1231231/29443
 #EXTINF:-1 group-title="HRVATSKA",N1 HR
 http://line.4k-iptv.com:80/M604FxBozu/abcdefg1231231/29442
+#EXTINF:-1 tvg-id="OTV" tvg-name="OTV HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA",OTV HR
+http://asa.hopto.org:43666/vladoandric/FpFtBAC4OZ/1369
 #EXTINF:-1 group-title="HRVATSKA",Osjecka TV
 http://line.4k-iptv.com:80/M604FxBozu/abcdefg1231231/29441
 #EXTINF:-1 group-title="HRVATSKA",Vinkovacka TV
