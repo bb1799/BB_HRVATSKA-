@@ -425,6 +425,8 @@ http://kiktvs.live:8080/AdisSelimovicMama/PL5wuLBydssd/84
 http://kiktvs.live:8080/AdisSelimovicMama/PL5wuLBydssd/83
 #EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1" tvg-logo="http://kiktvs.live:8080/images/3b770ebe9b04f171f0ead0e07d8e2882.png" group-title="HRVATSKA",Z1
 http://kiktvs.live:8080/AdisSelimovicMama/PL5wuLBydssd/82
+#EXTINF:-1 tvg-id="OTV" tvg-name="OTV HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA",OTV HR
+http://asa.hopto.org:43666/vladoandric/FpFtBAC4OZ/1369
 #EXTINF:-1 tvg-id="Mreža TV Zagreb_max" tvg-name="MREZA ZAGREB" tvg-logo="http://kiktvs.live:8080/images/9d3ca7ad694d3a2075a0ee00e1a7520a.png" group-title="HRVATSKA",MREZA ZAGREB
 http://kiktvs.live:8080/AdisSelimovicMama/PL5wuLBydssd/80
 #EXTINF:-1 tvg-id="AuroraTV.hr" tvg-name="AURORA TV" tvg-logo="http://kiktvs.live:8080/images/7a7ace12e1b7408d580a61eaf94ba03e.png" group-title="HRVATSKA",AURORA TV
