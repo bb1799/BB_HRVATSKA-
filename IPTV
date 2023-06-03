@@ -265,6 +265,8 @@ http://bntvs.com:2052/nenadiptv/1212nenad1212/8514
 http://bntvs.com:2052/nenadiptv/1212nenad1212/8515
 #EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Hrvatska" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/27.%20N1%20HR.png" group-title="Hrvatska",N1 Hrvatska
 http://bntvs.com:2052/nenadiptv/1212nenad1212/8516
+#EXTINF:-1 tvg-id="1f0cf3209da75cd636940d32abca65ac" tvg-name="Jabuka" tvg-logo="" group-title="Hrvatska",OTV
+http://bazaruto.top:8000/tetkaNihad.riki/5HLipSnAS9/659
 #EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CMC_TV_logo.png" group-title="Hrvatska",CMC
 http://bntvs.com:2052/nenadiptv/1212nenad1212/8517
 
