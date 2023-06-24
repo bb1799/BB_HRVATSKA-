@@ -356,6 +356,8 @@ http://caffe.link:25461/111Solenko/a5966c749db93240/1246
 http://caffe.link:25461/111Solenko/a5966c749db93240/1247
 #EXTINF:-1 tvg-id="1248" tvg-name="Osjecka TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/117.hr.png" group-title="Hrvatska",Osjecka TV
 http://caffe.link:25461/111Solenko/a5966c749db93240/1248
+#EXTINF:-1 tvg-id="" tvg-name="Jabuka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/25.%20JABUKA%20TV.png" group-title="Hrvatska",Jabuka TV
+http://bntvs.com:2052/MilosJovanovic/5684541541/8520
 #EXTINF:-1 tvg-id="1245" tvg-name="Z1" tvg-logo="https://tvprofil.com/img/kanali-logo/z1-logo.png" group-title="Hrvatska",Z1
 http://caffe.link:25461/111Solenko/a5966c749db93240/1245
 #EXTINF:-1 tvg-id="3635" tvg-name="Laudato TV (Test)" tvg-logo="https://tvprofil.com/img/kanali-logo/LaudatoTV_logo.png" group-title="Hrvatska",Laudato TV (Test)
