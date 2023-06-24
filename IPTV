@@ -583,60 +583,249 @@ http://caffe.link:25461/111Solenko/a5966c749db93240/1429
 http://caffe.link:25461/111Solenko/a5966c749db93240/1436
 #EXTINF:-1 tvg-id="4841" tvg-name="Disney Channel De" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids",Disney Channel De
 http://caffe.link:25461/111Solenko/a5966c749db93240/4841
-#EXTINF:-1 tvg-id="1433" tvg-name="Cartoon Network UK" tvg-logo="http://caffe.link:25461/images/2943efda136645209878d85d042f59a8.png" group-title="Kids",Cartoon Network UK
-http://caffe.link:25461/111Solenko/a5966c749db93240/1433
-#EXTINF:-1 tvg-id="13840" tvg-name="CARTOON NETWORK (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids",CARTOON NETWORK (DE)
-http://caffe.link:25461/111Solenko/a5966c749db93240/13840
-#EXTINF:-1 tvg-id="1244" tvg-name="Disney XD" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_xd_es_logo.png" group-title="Kids",Disney XD
-http://caffe.link:25461/111Solenko/a5966c749db93240/1434
-#EXTINF:-1 tvg-id="1432" tvg-name="Kika DE" tvg-logo="https://tvprofil.com/img/kanali-logo/kika-logo.png" group-title="Kids",Kika DE
-http://caffe.link:25461/111Solenko/a5966c749db93240/1432
-#EXTINF:-1 tvg-id="1244" tvg-name="Disney Cinemagic DE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f62318602691.560c0356efb24.jpg" group-title="Kids",Disney Cinemagic DE
-http://caffe.link:25461/111Solenko/a5966c749db93240/6925
-#EXTINF:-1 tvg-id="1244" tvg-name="Disney XD DE" tvg-logo="http://caffe.link:25461/images/d923160ebd02a231ba43b7fad08a6a01.png" group-title="Kids",Disney XD DE
-http://caffe.link:25461/111Solenko/a5966c749db93240/6924
-#EXTINF:-1 tvg-id="6923" tvg-name="Disney Junior DE" tvg-logo="https://tvprofil.com/img/kanali-logo/disney-junior-logo.png" group-title="Kids",Disney Junior DE
-http://caffe.link:25461/111Solenko/a5966c749db93240/6923
-#EXTINF:-1 tvg-id="13839" tvg-name="Boomerang (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/boomerang_it_logo.png" group-title="Kids",Boomerang (DE)
-http://caffe.link:25461/111Solenko/a5966c749db93240/13839
-#EXTINF:-1 tvg-id="1244" tvg-name="Tnt Kids" tvg-logo="http://caffe.link:25461/images/16f84651e3cb4938b65f42e3adaee381.png" group-title="Kids",Tnt Kids
-http://caffe.link:25461/111Solenko/a5966c749db93240/6927
-#EXTINF:-1 tvg-id="6922" tvg-name="Tom and Jerry (Test)" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x300/4/img/covers/img333057-tv7002967.jpg" group-title="Kids",Tom and Jerry (Test)
-http://caffe.link:25461/111Solenko/a5966c749db93240/6922
+#EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = = SPORT = = = = = =" tvg-logo="" group-title="SPORT",= = = = = = SPORT = = = = = =
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/670
+#EXTINF:-1 tvg-id="MAXSport 1 HR" tvg-name="Max Sport 1" tvg-logo="" group-title="SPORT",MaxSport 1
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/419120
+#EXTINF:-1 tvg-id="MAXSport 2 HR" tvg-name="Max Sport 2" tvg-logo="" group-title="SPORT",MaxSport 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/419121
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="Arena Sport  1x2" tvg-logo="" group-title="SPORT",Arena Sport  1x2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/31286
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="Arena Fight HD" tvg-logo="https://mts.rs/oec/images/tv_channels/7ded94d14df73da0a670eb3e92063230.jpg" group-title="SPORT",Arena Fight HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/31287
+#EXTINF:-1 tvg-id="" tvg-name="Arena ESport" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="SPORT",Arena ESport
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/415492
+#EXTINF:-1 tvg-id="Arenasport 1 HD" tvg-name="Arena Sport 1 HD Hr" tvg-logo="http://m5ip.club/ch_logo/arena1_logo.png" group-title="SPORT",Arena Sport 1 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/676
+#EXTINF:-1 tvg-id="Arenasport 2 HD" tvg-name="Arena Sport 2 HD Hr" tvg-logo="http://m5ip.club/ch_logo/arena2_logo.png" group-title="SPORT",Arena Sport 2 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/677
+#EXTINF:-1 tvg-id="Arenasport 3 HD" tvg-name="Arena Sport 3 HD Hr" tvg-logo="http://m5ip.club/ch_logo/arena3_logo.png" group-title="SPORT",Arena Sport 3 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/678
+#EXTINF:-1 tvg-id="Arenasport 4 HD" tvg-name="Arena Sport 4 HD Hr" tvg-logo="http://m5ip.club/ch_logo/arena4_logo.png" group-title="SPORT",Arena Sport 4 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/679
+#EXTINF:-1 tvg-id="Arenasport 5 HD" tvg-name="Arena Sport 5 HD Hr" tvg-logo="http://m5ip.club/ch_logo/arena5_logo.png" group-title="SPORT",Arena Sport 5 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/680
+#EXTINF:-1 tvg-id="Arenasport 6 HD" tvg-name="Arena Sport 6 HD Hr" tvg-logo="http://m5ip.club/ch_logo/arena6_logo.png" group-title="SPORT",Arena Sport 6 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/681
+#EXTINF:-1 tvg-id="Arenasport 7 HD" tvg-name="Arena Sport 7 HD Hr" tvg-logo="http://51.210.0.117:25461/ch_logo/A7.png" group-title="SPORT",Arena Sport 7 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/248998
+#EXTINF:-1 tvg-id="Arenasport 8 HD" tvg-name="Arena Sport 8 HD Hr" tvg-logo="http://51.210.0.117:25461/ch_logo/A8.png" group-title="SPORT",Arena Sport 8 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/248999
+#EXTINF:-1 tvg-id="Arenasport 9 HD" tvg-name="Arena Sport 9 HD Hr" tvg-logo="http://51.210.0.117:25461/ch_logo/A9.png" group-title="SPORT",Arena Sport 9 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/249000
+#EXTINF:-1 tvg-id="Arenasport 10 HD" tvg-name="Arena Sport 10 HD Hr" tvg-logo="http://51.210.0.117:25461/ch_logo/A10.png" group-title="SPORT",Arena Sport 10 HD Hr
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/249001
+#EXTINF:-1 tvg-id="SK HD HR (Portals)" tvg-name="Sport Klub HD" tvg-logo="http://m5ip.club/ch_logo/sk_hd.png" group-title="SPORT",Sport Klub HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/68828
+#EXTINF:-1 tvg-id="SK 1 HD (HR)" tvg-name="Sport Klub 1" tvg-logo="http://m5ip.club/ch_logo/sk_1.png" group-title="SPORT",Sport Klub 1
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/683
+#EXTINF:-1 tvg-id="SK 2 HR (Portals)" tvg-name="Sport Klub 2" tvg-logo="http://m5ip.club/ch_logo/sk_2.png" group-title="SPORT",Sport Klub 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/684
+#EXTINF:-1 tvg-id="SK 3 HR (Portals)" tvg-name="Sport Klub 3" tvg-logo="http://m5ip.club/ch_logo/sk_3.png" group-title="SPORT",Sport Klub 3
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/685
+#EXTINF:-1 tvg-id="SK 4 HR (Portals)" tvg-name="Sport Klub 4" tvg-logo="http://m5ip.club/ch_logo/sk_4.png" group-title="SPORT",Sport Klub 4
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/686
+#EXTINF:-1 tvg-id="SK 5 HR (Portals)" tvg-name="Sport Klub 5" tvg-logo="http://m5ip.club/ch_logo/sk_5.png" group-title="SPORT",Sport Klub 5
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/687
+#EXTINF:-1 tvg-id="SK 6 HR (Portals)" tvg-name="Sport Klub 6" tvg-logo="http://m5ip.club/ch_logo/sk_6.png" group-title="SPORT",Sport Klub 6
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/688
+#EXTINF:-1 tvg-id="MAXSport 1 HR" tvg-name="Max Sport 1" tvg-logo="" group-title="SPORT",Max Sport 1
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/419120
+#EXTINF:-1 tvg-id="MAXSport 2 HR" tvg-name="Max Sport 2" tvg-logo="" group-title="SPORT",Max Sport 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/419121
+#EXTINF:-1 tvg-id="" tvg-name="Sos" tvg-logo="http://m5ip.club/ch_logo/sos_kanal.png" group-title="SPORT",Sos
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/68829
+#EXTINF:-1 tvg-id="Nova Sport HD" tvg-name="Nova Sport" tvg-logo="http://m5ip.club/ch_logo/nova_sport.png" group-title="SPORT",Nova Sport
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/37526
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-logo="http://m5ip.club/ch_logo/Eurosport_2015_logo.png" group-title="SPORT",Eurosport 1 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/31280
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="Eurosport 2 HD" tvg-logo="http://m5ip.club/ch_logo/Eurosport_2_2015_logo.png" group-title="SPORT",Eurosport 2 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/31281
 
-#EXTINF:-1 tvg-id="14319" tvg-name="Fake Taxi" tvg-logo="https://ih1.redbubble.net/image.2106131817.3523/flat,128x,075,f-pad,128x128,f8f8f8.jpg" group-title="For Adults",Fake Taxi
-http://caffe.link:25461/111Solenko/a5966c749db93240/14319
-#EXTINF:-1 tvg-id="1716" tvg-name="Hustler" tvg-logo="https://tvprofil.com/img/kanali-logo/hustlertv-logo.png" group-title="For Adults",Hustler
-http://caffe.link:25461/111Solenko/a5966c749db93240/1716
-#EXTINF:-1 tvg-id="1717" tvg-name="Dorcel" tvg-logo="https://tvprofil.com/img/kanali-logo/Dorcel_FR_logo.png" group-title="For Adults",Dorcel
-http://caffe.link:25461/111Solenko/a5966c749db93240/1717
-#EXTINF:-1 tvg-id="1718" tvg-name="Brazzers" tvg-logo="https://tvprofil.com/img/kanali-logo/brazzerstv-europe-logo.png" group-title="For Adults",Brazzers
-http://caffe.link:25461/111Solenko/a5966c749db93240/1718
-#EXTINF:-1 tvg-id="14321" tvg-name="Private TV HD" tvg-logo="https://tvprofil.com/img/kanali-logo/private-tv-logo.png" group-title="For Adults",Private TV HD
-http://caffe.link:25461/111Solenko/a5966c749db93240/14321
-#EXTINF:-1 tvg-id="1715" tvg-name="Balkan Erotic" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Balkan_Erotic.png" group-title="For Adults",Balkan Erotic
-http://caffe.link:25461/111Solenko/a5966c749db93240/1715
-#EXTINF:-1 tvg-id="14320" tvg-name="Blue Hustler" tvg-logo="https://tvprofil.com/img/kanali-logo/blue-hustler-logo.png" group-title="For Adults",Blue Hustler
-http://caffe.link:25461/111Solenko/a5966c749db93240/14320
-#EXTINF:-1 tvg-id="1722" tvg-name="Pink Erotic" tvg-logo="https://tvprofil.com/img/kanali-logo/erotic-logo.png" group-title="For Adults",Pink Erotic
-http://caffe.link:25461/111Solenko/a5966c749db93240/1722
-#EXTINF:-1 tvg-id="1721" tvg-name="Pink Erotic 2" tvg-logo="https://tvprofil.com/img/kanali-logo/erotic2-logo.png" group-title="For Adults",Pink Erotic 2
-http://caffe.link:25461/111Solenko/a5966c749db93240/1721
-#EXTINF:-1 tvg-id="1720" tvg-name="Pink Erotic 3" tvg-logo="https://tvprofil.com/img/kanali-logo/erotic3.png" group-title="For Adults",Pink Erotic 3
-http://caffe.link:25461/111Solenko/a5966c749db93240/1720
-#EXTINF:-1 tvg-id="1719" tvg-name="Pink Erotic 4" tvg-logo="https://tvprofil.com/img/kanali-logo/erotic4.png" group-title="For Adults",Pink Erotic 4
-http://caffe.link:25461/111Solenko/a5966c749db93240/1719
-#EXTINF:-1 tvg-id="14316" tvg-name="Pink Erotic 6" tvg-logo="https://tvprofil.com/img/kanali-logo/pink_erotic_6_logo.png" group-title="For Adults",Pink Erotic 6
-http://caffe.link:25461/111Solenko/a5966c749db93240/14316
-#EXTINF:-1 tvg-id="14317" tvg-name="Pink Erotic 7" tvg-logo="https://tvprofil.com/img/kanali-logo/pink_erotic_7_logo.png" group-title="For Adults",Pink Erotic 7
-http://caffe.link:25461/111Solenko/a5966c749db93240/14317
-#EXTINF:-1 tvg-id="14318" tvg-name="Pink Erotic 8" tvg-logo="http://caffe.link:25461/images/8032120ed1757eaa87d219b3c6d2fc61.png" group-title="For Adults",Pink Erotic 8
-http://caffe.link:25461/111Solenko/a5966c749db93240/14318
-#EXTINF:-1 tvg-id="1244" tvg-name="Adult mix 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults",Adult mix 2
-http://caffe.link:25461/111Solenko/a5966c749db93240/1713
-#EXTINF:-1 tvg-id="1244" tvg-name="Adult mix" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults",Adult mix
-http://caffe.link:25461/111Solenko/a5966c749db93240/1714
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = = HRVATSKI = = = = = =" tvg-logo="" group-title="Hrvatska",= = = = = = HRVATSKI = = = = = =
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/557
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="" group-title="Hrvatska",HRT 1
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/558
+#EXTINF:-1 tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="http://m5ip.club/ch_logo/htv2-logo.png" group-title="Hrvatska",HRT 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/559
+#EXTINF:-1 tvg-id="HRT 3" tvg-name="HRT 3" tvg-logo="http://m5ip.club/ch_logo/HRT3_logo.png" group-title="Hrvatska",HRT 3
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/560
+#EXTINF:-1 tvg-id="HRT 4" tvg-name="HRT 4" tvg-logo="http://m5ip.club/ch_logo/HRT4-logo.png" group-title="Hrvatska",HRT 4
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/561
+#EXTINF:-1 tvg-id="htvinternational.hr" tvg-name="HRT Int." tvg-logo="http://m5ip.club/ch_logo/HRTint_logo.png" group-title="Hrvatska",HRT Int.
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/562
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://m5ip.club/ch_logo/RTL.png" group-title="Hrvatska",RTL
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/563
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="RTL 2" tvg-logo="http://m5ip.club/ch_logo/RTL2-logo.png" group-title="Hrvatska",RTL 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/564
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="http://m5ip.club/ch_logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/565
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="http://m5ip.club/ch_logo/RTL_Living_logo.png" group-title="Hrvatska",RTL Living
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/566
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="http://m5ip.club/ch_logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL Passion
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/567
+#EXTINF:-1 tvg-id="Nova HD" tvg-name="Nova TV HD" tvg-logo="http://m5ip.club/ch_logo/NovaTV_logo_2019.png" group-title="Hrvatska",Nova TV HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/568
+#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Nova World" tvg-logo="http://m5ip.club/ch_logo/nova-world_logo.png" group-title="Hrvatska",Nova World
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/184977
+#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-name="Nova Cinema" tvg-logo="http://m5ip.club/ch_logo/Nova_Cinema_logo.png" group-title="Hrvatska",Nova Cinema
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/184978
+#EXTINF:-1 tvg-id="RTS 1 HD" tvg-name="Nova Family" tvg-logo="http://m5ip.club/ch_logo/Nova_Family_logo.png" group-title="Hrvatska",Nova Family
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/184979
+#EXTINF:-1 tvg-id="DomaTV HD" tvg-name="Doma TV HD" tvg-logo="http://m5ip.club/ch_logo/doma.png" group-title="Hrvatska",Doma TV HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/569
+
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = = DOKUMENTARNI = = = = = =" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",= = = = = = DOKUMENTARNI = = = = = =
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/617
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://m5ip.club/ch_logo/animal_planet_poland.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Animal Planet HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/618
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="Planet Earth HD" tvg-logo="http://m5ip.club/ch_logo/Planet_earth_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Planet Earth HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/619
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="http://m5ip.club/ch_logo/BBCearth_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",BBC Earth HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/620
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="Nat Geo HD" tvg-logo="http://m5ip.club/ch_logo/nat-geo-hd-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Nat Geo HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/621
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="http://m5ip.club/ch_logo/nat-geo-wild-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Nat Geo Wild HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/622
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://m5ip.club/ch_logo/Discovery_Channel_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Discovery Channel HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/623
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://m5ip.club/ch_logo/Discovery_Science_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Discovery Science HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/624
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="Discovery ID" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Discovery ID
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/626
+#EXTINF:-1 tvg-id="History HD" tvg-name="History" tvg-logo="http://m5ip.club/ch_logo/history-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",History
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/627
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="History 2" tvg-logo="http://m5ip.club/ch_logo/H2_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",History 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/628
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-name="Viasat Nature" tvg-logo="http://m5ip.club/ch_logo/viasat-nature.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Viasat Nature
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/629
+#EXTINF:-1 tvg-id="Viasat Explore" tvg-name="Viasat Explore" tvg-logo="http://m5ip.club/ch_logo/viasat-explore.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Viasat Explore
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/630
+#EXTINF:-1 tvg-id="Viasat History" tvg-name="Viasat History" tvg-logo="http://m5ip.club/ch_logo/viasat-history.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Viasat History
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/631
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-name="Travel Channel" tvg-logo="http://m5ip.club/ch_logo/travel-channel-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Travel Channel
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/632
+#EXTINF:-1 tvg-id="Crime & Investigation" tvg-name="Crime & Investigation" tvg-logo="http://m5ip.club/ch_logo/crime-investigation-channel-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Crime & Investigation
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/633
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",TLC
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/634
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="HGTV" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",HGTV
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151735
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! Entertainment" tvg-logo="http://m5ip.club/ch_logo/e--logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",E! Entertainment
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/635
+#EXTINF:-1 tvg-id="Lov i Ribolov" tvg-name="Lov i Ribolov" tvg-logo="http://m5ip.club/ch_logo/lov_i_ribolov.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Lov i Ribolov
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/636
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = = FILMOVI I SERIJE = = = = = =" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",= = = = = = FILMOVI I SERIJE = = = = = =
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/637
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://m5ip.club/ch_logo/hbo-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",HBO HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/638
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://m5ip.club/ch_logo/HBO2_b_p.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",HBO 2 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/639
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="http://m5ip.club/ch_logo/HBO3_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",HBO 3 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/640
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://m5ip.club/ch_logo/Cinemax.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Cinemax HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/641
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-name="Cinemax 2 HD" tvg-logo="http://m5ip.club/ch_logo/Cinemax-2.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Cinemax 2 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/642
+#EXTINF:-1 tvg-id="CineStar TV 1" tvg-name="CineStar TV" tvg-logo="http://m5ip.club/ch_logo/Cinestar_TV1_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",CineStar TV
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/643
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="CineStar TV 2 HD" tvg-logo="http://m5ip.club/ch_logo/CineStar_TV_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",CineStar TV 2 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/185288
+#EXTINF:-1 tvg-id="CineStar Fantasy HD" tvg-name="CineStar TV Fantasy" tvg-logo="http://m5ip.club/ch_logo/cinestartv_fantasy_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",CineStar TV Fantasy
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/644
+#EXTINF:-1 tvg-id="CineStar TV Action & Thriller" tvg-name="CineStar TV Action & Thriller" tvg-logo="http://m5ip.club/ch_logo/CineStar_TV_action_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",CineStar TV Action & Thriller
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/645
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="CineStar TV Premiere 1 HD" tvg-logo="http://m5ip.club/ch_logo/CineStar_TV_premiere_1_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",CineStar TV Premiere 1 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/646
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="CineStar TV Premiere 2 HD" tvg-logo="http://m5ip.club/ch_logo/CineStar_TV_premiere_2_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",CineStar TV Premiere 2 HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/647
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://m5ip.club/ch_logo/fox-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",FOX HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/648
+#EXTINF:-1 tvg-id="FOX Movies" tvg-name="FOX Movies HD" tvg-logo="http://m5ip.club/ch_logo/fox-movies-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",FOX Movies HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/650
+#EXTINF:-1 tvg-id="FOX Crime" tvg-name="FOX Crime HD" tvg-logo="http://m5ip.club/ch_logo/fox_crime_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",FOX Crime HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/649
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="FOX Life HD" tvg-logo="http://m5ip.club/ch_logo/fox_life_ru.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",FOX Life HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/651
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://m5ip.club/ch_logo/axn-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",AXN
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/652
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXN Spin" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",AXN Spin
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/653
+#EXTINF:-1 tvg-id="FilmBox Extra HD" tvg-name="Filmbox Extra HD" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Filmbox Extra HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/655
+#EXTINF:-1 tvg-id="Sci Fi HD" tvg-name="SciFi" tvg-logo="http://m5ip.club/ch_logo/scifi_adria_logo.jpg" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",SciFi
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/656
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://m5ip.club/ch_logo/amc_logo_2016.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",AMC HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/657
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-name="Cinemania" tvg-logo="http://m5ip.club/ch_logo/cinemania-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Cinemania
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/658
+#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV HD" tvg-logo="http://m5ip.club/ch_logo/LOGO-KINO_logo2.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Kino TV HD
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/659
+#EXTINF:-1 tvg-id="Diva" tvg-name="Diva" tvg-logo="http://m5ip.club/ch_logo/DIVA_ENGLISH_STACK_CORAL_RGB.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Diva
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/660
+#EXTINF:-1 tvg-id="TV 1000" tvg-name="TV 1000" tvg-logo="http://m5ip.club/ch_logo/viasat-tv-1000.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",TV 1000
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/661
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="Film Klub" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Film Klub
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/34245
+#EXTINF:-1 tvg-id="Superstar TV HD" tvg-name="SuperStar" tvg-logo="http://m5ip.club/ch_logo/SuperstarTV_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",SuperStar
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/691
+#EXTINF:-1 tvg-id="Star TV HD" tvg-name="SuperStar 2" tvg-logo="http://m5ip.club/ch_logo/StarTV.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",SuperStar 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/690
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = = MUZICKI = = = = = =" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",= = = = = = MUZICKI = = = = = =
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/663
+#EXTINF:-1 tvg-id="Grand International" tvg-name="Grand" tvg-logo="http://m5ip.club/ch_logo/Grand_TV_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Grand
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/32908
+#EXTINF:-1 tvg-id="Grand narodna televizija 2" tvg-name="Grand 2" tvg-logo="http://m5ip.club/ch_logo/Grand_TV_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Grand 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/154133
+#EXTINF:-1 tvg-id="Pink Folk" tvg-name="Pink Folk 1" tvg-logo="http://m5ip.club/ch_logo/PinkFolk1_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Pink Folk 1
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/666
+#EXTINF:-1 tvg-id="Pink Folk 2" tvg-name="Pink Folk 2" tvg-logo="http://m5ip.club/ch_logo/pinkFolk2_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Pink Folk 2
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/32902
+#EXTINF:-1 tvg-id="RTV Duga" tvg-name="Duga TV" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Duga TV
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/154132
+#EXTINF:-1 tvg-id="Pink Music" tvg-name="Pink Music" tvg-logo="http://m5ip.club/ch_logo/PinkMusic_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Pink Music
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/664
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="Pink Hits" tvg-logo="http://m5ip.club/ch_logo/PinkHits_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Pink Hits
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/665
+#EXTINF:-1 tvg-id="CMC - Croatian Music Channel" tvg-name="CMC TV" tvg-logo="http://m5ip.club/ch_logo/CMC_TV_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",CMC TV
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/667
+#EXTINF:-1 tvg-id="" tvg-name="Jugoton" tvg-logo="http://m5ip.club/ch_logo/jugoton-tv-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Jugoton
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/682
+#EXTINF:-1 tvg-id="Hayat Music" tvg-name="Hayat Music" tvg-logo="http://m5ip.club/ch_logo/hayatmusic_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Hayat Music
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/668
+#EXTINF:-1 tvg-id="Hayat Folk" tvg-name="Hayat Folk" tvg-logo="http://m5ip.club/ch_logo/hayatfolk_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Hayat Folk
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/174047
+#EXTINF:-1 tvg-id="BN Music" tvg-name="BN Music" tvg-logo="http://m5ip.club/ch_logo/logo-www.bnmusic.org_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",BN Music
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/669
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika" tvg-logo="http://m5ip.club/ch_logo/balkanika-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Balkanika
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/32906
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = = DECJI = = = = = =" tvg-logo="" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",= = = = = = DECJI = = = = = =
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151734
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon" tvg-logo="http://m5ip.club/ch_logo/nickelodeon-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Nickelodeon
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151723
+#EXTINF:-1 tvg-id="Nick Jr. hrvatski" tvg-name="Nick Jr." tvg-logo="http://m5ip.club/ch_logo/nick_jr_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Nick Jr.
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151724
+#EXTINF:-1 tvg-id="Mini TV" tvg-name="Mini TV" tvg-logo="http://m5ip.club/ch_logo/minitv-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Mini TV
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151725
+#EXTINF:-1 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://m5ip.club/ch_logo/minimax-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Minimax
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151726
+#EXTINF:-1 tvg-id="Hayatovci" tvg-name="Hayatovci" tvg-logo="http://m5ip.club/ch_logo/hayatovci-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Hayatovci
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151727
+#EXTINF:-1 tvg-id="Pink Kids" tvg-name="Pink Kids" tvg-logo="http://m5ip.club/ch_logo/pink-kids-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Pink Kids
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151728
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="Pink Super Kids" tvg-logo="http://m5ip.club/ch_logo/PinkSuperKids_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Pink Super Kids
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151729
+#EXTINF:-1 tvg-id="Vavoom HD" tvg-name="Vavoom" tvg-logo="http://m5ip.club/ch_logo/vavoom.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Vavoom
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151730
+#EXTINF:-1 tvg-id="RTL Kockica" tvg-name="RTL Kockica" tvg-logo="http://m5ip.club/ch_logo/rtl-kockica-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",RTL Kockica
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151731
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://m5ip.club/ch_logo/disney-channel-logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Disney Channel
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151732
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://m5ip.club/ch_logo/cartoon_network_logo.png" group-title="Ex-Yu ( Film, Doku, Decji, Muzika )",Cartoon Network
+http://katmen.club:8080/VIP_zombi202/stfWiT7ezJ/151733
+
 
 
 #EXTINF:-1 group-title="VT_STRANI_FILMOVI",OPASAN LET (2023)
