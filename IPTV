@@ -1770,7 +1770,7 @@ http://bazaruto.top:8000/movie/Grozdan.Efnusev.2/efnusev3210/40700.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Western Union 1941 |wst" tvg-logo="https://duckduckgo.com/i/aff8f16f.png" group-title="*** Western Filmovi ***",Western Union 1941 |wst
 http://bazaruto.top:8000/movie/Grozdan.Efnusev.2/efnusev3210/40701.mkv
 
-EXTINF:-1 tvg-id="" tvg-name="DiCaprio: Titanic 1997 |fms" tvg-logo="https://duckduckgo.com/i/1219c646.png" group-title="*** Filmografija ***",DiCaprio: Titanic 1997 |fms
+#EXTINF:-1 tvg-id="" tvg-name="DiCaprio: Titanic 1997 |fms" tvg-logo="https://duckduckgo.com/i/1219c646.png" group-title="*** Filmografija ***",DiCaprio: Titanic 1997 |fms
 http://bazaruto.top:8000/movie/Grozdan.Efnusev.2/efnusev3210/34264.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DiCaprio: This Boys Life 1993 |fms" tvg-logo="https://duckduckgo.com/i/03d11f72.jpg" group-title="*** Filmografija ***",DiCaprio: This Boys Life 1993 |fms
 http://bazaruto.top:8000/movie/Grozdan.Efnusev.2/efnusev3210/34265.mkv
