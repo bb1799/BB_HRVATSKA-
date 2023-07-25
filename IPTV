@@ -1,597 +1,939 @@
+
+
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="# # # # # SPORT EX-YU # # # # #" tvg-logo="" group-title="SPORT EX-YU",# # # # # SPORT EX-YU # # # # #
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/141
-#EXTINF:-1 tvg-logo="https://maxsport.live/images/max-sport-1-logo.png" group-title="SPORT EX-YU",MaxSport 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/79743
-#EXTINF:-1 tvg-logo="https://maxsport.live/images/max-sport-2-logo.png" group-title="SPORT EX-YU",MaxSport 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81454
-#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="AS Premium 1" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/1/20220924203829941hta_op.png" group-title="SPORT EX-YU",AS Premium 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103595
-#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-name=" AS Premium 2 " tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/55/20220924210425015lde_op.png" group-title="SPORT EX-YU", AS Premium 2 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103596
-#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-name=" AS Premium 3" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/88/20220924212244946oh4_op.png" group-title="SPORT EX-YU", AS Premium 3
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103597
-#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name=" Arena Sport 1" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/80/202209242025151991xi_op.png" group-title="SPORT EX-YU", Arena Sport 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103598
-#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name=" Arena Sport 2 " tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/46/20220924205550166yli_op.png" group-title="SPORT EX-YU", Arena Sport 2 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103599
-#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name=" Arena Sport 3" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/95/202209242116501890iq_op.png" group-title="SPORT EX-YU", Arena Sport 3
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103600
-#EXTINF:-1 tvg-id="Arenasport4.rs" tvg-name=" Arena Sport 4" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220925/27/20220925200130811b2g_op.png" group-title="SPORT EX-YU", Arena Sport 4
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103601
-#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name=" Arena Sport 5" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220925/69/20220925201230166n7k_op.png" group-title="SPORT EX-YU", Arena Sport 5
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103602
-#EXTINF:-1 tvg-id="Arenasport6.rs" tvg-name=" Arena Sport 6 " tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220926/43/20220926070929955g1g_op.png" group-title="SPORT EX-YU", Arena Sport 6 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103603
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 1x2" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/46/20220924204820528wgx_op.png" group-title="SPORT EX-YU", Arena Sport 1x2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103604
-#EXTINF:-1 tvg-id="" tvg-name=" Premier League" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220906/92/20220906111805138jvt_op.png" group-title="SPORT EX-YU", Premier League
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103605
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Fight" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/18/20220924200820202jc8_op.png" group-title="SPORT EX-YU", Arena Fight
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103606
-#EXTINF:-1 tvg-id="" tvg-name=" Arena eSport" tvg-logo="https://iris.mts.rs:37002/CPS/images/universal/film/logo/202209/20220924/44/2022092419435526059g_op.png" group-title="SPORT EX-YU", Arena eSport
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103607
-#EXTINF:-1 tvg-id="SportKlub1" tvg-name="Sport Klub 1" tvg-logo="https://mojtv.hr/m2/img/ch/399.png" group-title="SPORT EX-YU",Sport Klub 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103608
-#EXTINF:-1 tvg-id="SportKlub2" tvg-name="Sport Klub 2" tvg-logo="https://mojtv.hr/m2/img/ch/400.png" group-title="SPORT EX-YU",Sport Klub 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103609
-#EXTINF:-1 tvg-id="SportKlub3" tvg-name="Sport Klub 3" tvg-logo="https://mojtv.hr/m2/img/ch/401.png" group-title="SPORT EX-YU",Sport Klub 3
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103610
-#EXTINF:-1 tvg-id="SportKlub4" tvg-name="Sport Klub 4" tvg-logo="https://mojtv.hr/m2/img/ch/240.png" group-title="SPORT EX-YU",Sport Klub 4
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103611
-#EXTINF:-1 tvg-id="SportKlub5" tvg-name="Sport Klub 5" tvg-logo="https://mojtv.hr/m2/img/ch/241.png" group-title="SPORT EX-YU",Sport Klub 5
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103612
-#EXTINF:-1 tvg-id="SportKlub6" tvg-name="Sport Klub 6" tvg-logo="https://mojtv.hr/m2/img/ch/242.png" group-title="SPORT EX-YU",Sport Klub 6
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103613
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 7
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103614
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 8
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103615
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 9
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103616
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 10
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103617
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="" group-title="SPORT EX-YU",Sport Klub HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103618
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf" tvg-logo="" group-title="SPORT EX-YU",Sport Klub Golf
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103619
-#EXTINF:-1 tvg-id="" tvg-name="# # # # # SPORT EX-YU # # # # #" tvg-logo="" group-title="SPORT EX-YU",# # # # # SPORT EX-YU # # # # #
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/141
-#EXTINF:-1 tvg-id="" tvg-name="Max Sport 1 Test" tvg-logo="https://maxsport.live/images/max-sport-1-logo.png" group-title="SPORT EX-YU",Max Sport 1 Test
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/79743
-#EXTINF:-1 tvg-id="" tvg-name="Max Sport 2 Test" tvg-logo="https://maxsport.live/images/max-sport-2-logo.png" group-title="SPORT EX-YU",Max Sport 2 Test
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81454
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Premium" tvg-logo="https://mtel.global/storage/assets/Arena-premijum-1.png" group-title="SPORT EX-YU",Arena Sport 1 Premium
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/58223
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 Premium" tvg-logo="https://mtel.at/storage/assets/arena-2-premium_266x2001.png" group-title="SPORT EX-YU",Arena Sport 2 Premium
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/58224
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 Premium" tvg-logo="https://mtel.at/storage/assets/arena-3-premium_480x2701.png" group-title="SPORT EX-YU",Arena Sport 3 Premium
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/58225
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 RS" tvg-logo="https://mtel.ba/oec/images/tv_channels/aaa98bc63397750ea17a6658852ca01b.png" group-title="SPORT EX-YU",ARENA SPORT 1 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/96
-#EXTINF:-1 tvg-id="ArenaSport2" tvg-name="ARENA SPORT 2 RS" tvg-logo="https://mtel.ba/oec/images/tv_channels/19362ca1d1a345eb82549a7e25bd09a0.png" group-title="SPORT EX-YU",ARENA SPORT 2 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/97
-#EXTINF:-1 tvg-id="ArenaSport3" tvg-name="ARENA SPORT 3 RS" tvg-logo="https://mtel.ba/oec/images/tv_channels/4daa0b52ecc6dd02278b1b8a1cc0feb6.png" group-title="SPORT EX-YU",ARENA SPORT 3 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/98
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 RS" tvg-logo="https://mtel.ba/oec/images/tv_channels/3a19a2fffbc2f337016653e41509892b.png" group-title="SPORT EX-YU",ARENA SPORT 4 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/99
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 RS" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-5-Live-300x225.png" group-title="SPORT EX-YU",ARENA SPORT 5 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/100
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6 RS" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena6.png" group-title="SPORT EX-YU",ARENA SPORT 6 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83667
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 7 RS" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena7.png" group-title="SPORT EX-YU",ARENA SPORT 7 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83668
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 8 RS" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena8.png" group-title="SPORT EX-YU",ARENA SPORT 8 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83669
-#EXTINF:-1 tvg-id="ArenaSport1hr" tvg-name="Arena Sports 1 HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/aaa98bc63397750ea17a6658852ca01b.png" group-title="SPORT EX-YU",Arena Sports 1 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/91
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 FHD HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/aaa98bc63397750ea17a6658852ca01b.png" group-title="SPORT EX-YU",ARENA SPORT 1 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/35861
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 2 HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/19362ca1d1a345eb82549a7e25bd09a0.png" group-title="SPORT EX-YU",Arena Sports 2 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/92
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 FHD HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/19362ca1d1a345eb82549a7e25bd09a0.png" group-title="SPORT EX-YU",ARENA SPORT 2 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/35860
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 3 HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/4daa0b52ecc6dd02278b1b8a1cc0feb6.png" group-title="SPORT EX-YU",Arena Sports 3 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/93
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 FHD HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/4daa0b52ecc6dd02278b1b8a1cc0feb6.png" group-title="SPORT EX-YU",ARENA SPORT 3 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/35859
-#EXTINF:-1 tvg-id="ArenaSport4hr" tvg-name="Arena Sports 4 HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/3a19a2fffbc2f337016653e41509892b.png" group-title="SPORT EX-YU",Arena Sports 4 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/94
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 FHD HR" tvg-logo="https://mtel.ba/oec/images/tv_channels/3a19a2fffbc2f337016653e41509892b.png" group-title="SPORT EX-YU",ARENA SPORT 4 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/35858
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 5 HR" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-5-Live-300x225.png" group-title="SPORT EX-YU",Arena Sports 5 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/95
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 FHD HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena5.png" group-title="SPORT EX-YU",ARENA SPORT 5 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/53791
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6 FHD HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="SPORT EX-YU",ARENA SPORT 6 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/53792
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 7 FHD HR" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena7.png" group-title="SPORT EX-YU",ARENA SPORT 7 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/53793
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 8 FHD HR" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena8.png" group-title="SPORT EX-YU",ARENA SPORT 8 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/53794
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 9 FHD HR" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena9.png" group-title="SPORT EX-YU",ARENA SPORT 9 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/53795
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 10 FHD HR" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena10.png" group-title="SPORT EX-YU",ARENA SPORT 10 FHD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/53796
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORTS 1 BH HD" tvg-logo="https://mtel.ba/oec/images/tv_channels/aaa98bc63397750ea17a6658852ca01b.png" group-title="SPORT EX-YU",ARENA SPORTS 1 BH HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/101
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SLO" tvg-logo="https://mtel.ba/oec/images/tv_channels/aaa98bc63397750ea17a6658852ca01b.png" group-title="SPORT EX-YU",ARENA SPORT 1 SLO
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/55557
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SLO" tvg-logo="https://mtel.ba/oec/images/tv_channels/19362ca1d1a345eb82549a7e25bd09a0.png" group-title="SPORT EX-YU",ARENA SPORT 2 SLO
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/55558
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORT EX-YU",Nova Sport
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7454
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-hd.png" group-title="SPORT EX-YU",SPORT KLUB HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/48173
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 HD HR" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/de05d5ad72c9feaac040e499eac37f49.png" group-title="SPORT EX-YU",SPORT KLUB 1 HD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/103
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 HD HR" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/b5f9faa772719e46ec98d74d4bfee60f-1.png" group-title="SPORT EX-YU",SPORT KLUB 2 HD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/104
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 HD HR" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/67d34ac5d390556710dac59b9c011d6c-1.png" group-title="SPORT EX-YU",SPORT KLUB 3 HD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/105
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 HD HR" tvg-logo="http://dujpral.ddns.me:82/images/4f9f9b5c11c42477db878d635ba66aab.png" group-title="SPORT EX-YU",SPORT KLUB 4 HD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/106
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5 HD HR" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-5-sr.png" group-title="SPORT EX-YU",SPORT KLUB 5 HD HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/107
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6 HR" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-6-sr.png" group-title="SPORT EX-YU",SPORT KLUB 6 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/108
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 7 HR" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-7-sr.png" group-title="SPORT EX-YU",SPORT KLUB 7 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/109
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 8 HR" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-8-sr.png" group-title="SPORT EX-YU",SPORT KLUB 8 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/110
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 9 HR" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-9-sr.png" group-title="SPORT EX-YU",SPORT KLUB 9 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/111
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 10 HR" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-10-sr.png" group-title="SPORT EX-YU",SPORT KLUB 10 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/112
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB GOLF  HD RS" tvg-logo="http://dujpral.ddns.me:82/images/852d4e5e5740bdba56d6fa92577848f5.png" group-title="SPORT EX-YU",SPORT KLUB GOLF  HD RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/114
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD Sr" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/de05d5ad72c9feaac040e499eac37f49.png" group-title="SPORT EX-YU",Sport Klub 1 HD Sr
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/2627
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD Sr" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/b5f9faa772719e46ec98d74d4bfee60f-1.png" group-title="SPORT EX-YU",Sport Klub 2 HD Sr
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/2628
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD Sr" tvg-logo="http://dujpral.ddns.me:82/images/9b05448cba21b25554cf1453e9d5343e.png" group-title="SPORT EX-YU",Sport Klub 3 HD Sr
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/2629
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 HD RS" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-4-hd.png" group-title="SPORT EX-YU",SPORT KLUB 4 HD RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/113
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 Sr" tvg-logo="http://dujpral.ddns.me:82/images/4f9f9b5c11c42477db878d635ba66aab.png" group-title="SPORT EX-YU",Sport Klub 4 Sr
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/2630
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 Sr" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-5-sr.png" group-title="SPORT EX-YU",Sport Klub 5 Sr
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/2631
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 Sr" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sk-6-sr.png" group-title="SPORT EX-YU",Sport Klub 6 Sr
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/2632
-#EXTINF:-1 tvg-id="" tvg-name="EURO SPORT 1 RS" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/d00106d07ef9a24faa938255db56cfe2-1.png" group-title="SPORT EX-YU",EURO SPORT 1 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/116
-#EXTINF:-1 tvg-id="" tvg-name="EURO SPORT 2 RS" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/4aca35b670ffa3f9745d3fc61b9fae71-1.png" group-title="SPORT EX-YU",EURO SPORT 2 RS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/117
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSKA TV HR" tvg-logo="https://pbs.twimg.com/profile_images/2839632821/033696eafdfb86dc418882d07bbc1aa1_400x400.png" group-title="SPORT EX-YU",SPORTSKA TV HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/118
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club" tvg-logo="https://mtel.ba/oec/images/tv_channels/369c9e4ee87a1f572c87b9423f9fd275.png" group-title="SPORT EX-YU",Fight Club
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/44839
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="https://mtel.ba/oec/images/tv_channels/a300c9ec726cd5956704b23912656a89.png" group-title="SPORT EX-YU",FIGHT BOX
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/44938
+#EXTINF:-1 tvg-id="" tvg-name="⚽⚽ Sport ⚽⚽" tvg-logo="http://smartntv.pro/logokanali/sport/sport1.png" group-title="⚽⚽ Sport ⚽⚽",⚽⚽ Sport ⚽⚽
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6543
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MaxSport 1" tvg-logo="http://smartntv.pro/logokanali/sport/maxisp1.png" group-title="⚽⚽ Sport ⚽⚽",MaxSport 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26254
+#EXTINF:-1 tvg-id="maxsport-2" tvg-name="MaxSport 2" tvg-logo="http://smartntv.pro/logokanali/sport/maxisp2.png" group-title="⚽⚽ Sport ⚽⚽",MaxSport 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26255
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="ArenaSport 1 Bih" tvg-logo="http://smartntv.pro/logokanali/sport/arena1.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1 Bih
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13184
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ArenaSport 1 HR ʜᴅ/ғʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/arena1.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1 HR ʜᴅ/ғʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6547
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ArenaSport 1 HR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena1.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1 HR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28030
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ArenaSport 2 HR ʜᴅ/ғʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/arena2.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 2 HR ʜᴅ/ғʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6548
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ArenaSport 2 HR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena2.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 2 HR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28031
+#EXTINF:-1 tvg-id="" tvg-name="ArenaSport 3 HR ʜᴅ/ғʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/arena3.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 3 HR ʜᴅ/ғʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28833
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ArenaSport 3 HR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena3.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 3 HR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28032
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ArenaSport 4 HR ʜᴅ/ғʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/arena4.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 4 HR ʜᴅ/ғʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6550
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ArenaSport 4 HR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena4.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 4 HR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28033
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="ArenaSport 5 HR ʜᴅ/ғʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/arena5.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 5 HR ʜᴅ/ғʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6551
+#EXTINF:-1 tvg-id="" tvg-name="ArenaSport 5 HR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena5.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 5 HR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28034
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="ArenaSport 6 HR ʜᴅ/ғʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/arena6.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 6 HR ʜᴅ/ғʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6552
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="ArenaSport 7 HR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena7.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 7 HR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/15844
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="ArenaSport 8 HR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena8.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 8 HR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/15845
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="ArenaSport 9 HR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena9.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 9 HR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/15846
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="ArenaSport 10 HR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena10.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 10 HR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/15847
+#EXTINF:-1 tvg-id="" tvg-name="Arena 1 Premium BH (TEST)" tvg-logo="http://smartntv.pro/logokanali/sport/a1pp.png" group-title="⚽⚽ Sport ⚽⚽",Arena 1 Premium BH (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28379
+#EXTINF:-1 tvg-id="" tvg-name="Arena 2 Premium BH (TEST)" tvg-logo="http://smartntv.pro/logokanali/sport/a2pp.png" group-title="⚽⚽ Sport ⚽⚽",Arena 2 Premium BH (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28380
+#EXTINF:-1 tvg-id="" tvg-name="Arena 3 Premium BH (TEST)" tvg-logo="http://smartntv.pro/logokanali/sport/a3pp.png" group-title="⚽⚽ Sport ⚽⚽",Arena 3 Premium BH (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28381
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="ArenaSport 1 Premium" tvg-logo="http://smartntv.pro/logokanali/sport/a1pp.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1 Premium
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20367
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="ArenaSport 1 Premium Backup" tvg-logo="http://smartntv.pro/logokanali/sport/a1pp.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1 Premium Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27396
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ArenaSport 2 Premium" tvg-logo="http://smartntv.pro/logokanali/sport/a2pp.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 2 Premium
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20371
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ArenaSport 2 Premium Backup" tvg-logo="http://smartntv.pro/logokanali/sport/a2pp.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 2 Premium Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28028
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="ArenaSport 3 Premium" tvg-logo="http://smartntv.pro/logokanali/sport/a3pp.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 3 Premium
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20372
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="ArenaSport 3 Premium Backup" tvg-logo="http://smartntv.pro/logokanali/sport/a3pp.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 3 Premium Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28029
+#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-name="ArenaSport 1x2" tvg-logo="http://smartntv.pro/logokanali/sport/1x22.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1x2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20374
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ArenaSport 1 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena1.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6558
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ArenaSport 1 SR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena1.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 1 SR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6553
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ArenaSport 2 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena2.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 2 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6559
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ArenaSport 2 SR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena2.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 2 SR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6554
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ArenaSport 3 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena3.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 3 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6560
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ArenaSport 3 SR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena3.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 3 SR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6555
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ArenaSport 4 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena4.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 4 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6561
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ArenaSport 4 SR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena4.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 4 SR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6556
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ArenaSport 5 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena5.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 5 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6562
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ArenaSport 5 SR (Backup)" tvg-logo="http://smartntv.pro/logokanali/sport/arena5.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 5 SR (Backup)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6557
+#EXTINF:-1 tvg-id="arena-sport-6" tvg-name="ArenaSport 6 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena6.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 6 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27060
+#EXTINF:-1 tvg-id="arena-sport-7" tvg-name="ArenaSport 7 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena7.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 7 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27061
+#EXTINF:-1 tvg-id="arena-sport-8" tvg-name="ArenaSport 8 SR ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/arena8.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport 8 SR ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27062
+#EXTINF:-1 tvg-id="arena-fight" tvg-name="Arena FIGHT" tvg-logo="http://smartntv.pro/logokanali/sport/arfight.png" group-title="⚽⚽ Sport ⚽⚽",Arena FIGHT
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20366
+#EXTINF:-1 tvg-id="arena-esport" tvg-name="ArenaSport ESports" tvg-logo="http://smartntv.pro/logokanali/sport/aresport.png" group-title="⚽⚽ Sport ⚽⚽",ArenaSport ESports
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20364
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MaxSport 1" tvg-logo="http://smartntv.pro/logokanali/sport/maxisp1.png" group-title="⚽⚽ Sport ⚽⚽",MaxSport 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26254
+#EXTINF:-1 tvg-id="maxsport-2" tvg-name="MaxSport 2" tvg-logo="http://smartntv.pro/logokanali/sport/maxisp2.png" group-title="⚽⚽ Sport ⚽⚽",MaxSport 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26255
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 1" tvg-logo="http://smartntv.pro/logokanali/sport/mnnne.png" group-title="⚽⚽ Sport ⚽⚽",MNE SPORT 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28604
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 2" tvg-logo="http://smartntv.pro/logokanali/sport/mnnne.png" group-title="⚽⚽ Sport ⚽⚽",MNE SPORT 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28605
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 3" tvg-logo="http://smartntv.pro/logokanali/sport/mnnne.png" group-title="⚽⚽ Sport ⚽⚽",MNE SPORT 3
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28606
+#EXTINF:-1 tvg-id="eurosport" tvg-name="EuroSport 1 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/eurosport11.png" group-title="⚽⚽ Sport ⚽⚽",EuroSport 1 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6579
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="EuroSport 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/eurosport22.png" group-title="⚽⚽ Sport ⚽⚽",EuroSport 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6580
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 Backup" tvg-logo="http://smartntv.pro/logokanali/sport/eurosport22.png" group-title="⚽⚽ Sport ⚽⚽",Eurosport 2 Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28842
+#EXTINF:-1 tvg-id="eurosport-de" tvg-name="EuroSport1DE" tvg-logo="http://smartntv.pro/logokanali/sport/eurosport11.png" group-title="⚽⚽ Sport ⚽⚽",EuroSport1DE
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25821
+#EXTINF:-1 tvg-id="eurosport2-de" tvg-name="EuroSport 2 DE ʜᴅ/ғʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/eurosport22.png" group-title="⚽⚽ Sport ⚽⚽",EuroSport 2 DE ʜᴅ/ғʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6589
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SportKlub 1 HR ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk1hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 1 HR ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13439
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="SportKlub 2 HR ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk2hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 2 HR ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13436
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SportKlub 3 HR ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk3hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 3 HR ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13444
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SportKlub1 Hr" tvg-logo="http://smartntv.pro/logokanali/sport/skk1hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub1 Hr
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13435
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="SportKlub2Hr" tvg-logo="http://smartntv.pro/logokanali/sport/skk2hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub2Hr
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13454
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SportKlub3Hr" tvg-logo="http://smartntv.pro/logokanali/sport/skk3hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub3Hr
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13455
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="SportKlub 1 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk1rs.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 1 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13453
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SportKlub2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk2sr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13449
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SportKlub3 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk3sr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub3 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13446
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="SportKlub4" tvg-logo="http://smartntv.pro/logokanali/sport/sk4.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub4
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13442
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="SportKlub5" tvg-logo="http://smartntv.pro/logokanali/sport/skk5hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub5
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13441
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="SportKlub6" tvg-logo="http://smartntv.pro/logokanali/sport/skk6.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub6
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13456
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="SportKlub7" tvg-logo="http://smartntv.pro/logokanali/sport/sk7.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12905
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="SportKlub8" tvg-logo="http://smartntv.pro/logokanali/sport/sk8.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub8
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12906
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="SportKlub9" tvg-logo="http://smartntv.pro/logokanali/sport/sk9.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub9
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12907
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="SportKlub10" tvg-logo="http://smartntv.pro/logokanali/sport/sk10.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub10
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12908
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="SportKlub ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skhd.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13452
+#EXTINF:-1 tvg-id="" tvg-name="SportKlub 4K HEVC" tvg-logo="https://tvprofil.com/img/kanali-logo/SK_4K_RS_logo.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 4K HEVC
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26363
+#EXTINF:-1 tvg-id="golf-klub" tvg-name="SportKlub Golf" tvg-logo="http://smartntv.pro/logokanali/sport/skgolff.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub Golf
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26377
+#EXTINF:-1 tvg-id="sport-klub-si" tvg-name="SportKlub 1 SLO TEST" tvg-logo="http://smartntv.pro/logokanali/sport/skk1slo.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 1 SLO TEST
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/23770
+#EXTINF:-1 tvg-id="sport-klub-plus-si" tvg-name="SportKlub 2 SLO TEST" tvg-logo="http://smartntv.pro/logokanali/sport/skk2slo.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 2 SLO TEST
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/23771
+#EXTINF:-1 tvg-id="" tvg-name="ŠportTV 1 SLO" tvg-logo="http://smartntv.pro/logokanali/sport/spportt.png" group-title="⚽⚽ Sport ⚽⚽",ŠportTV 1 SLO
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/23773
+#EXTINF:-1 tvg-id="" tvg-name="ŠportTV 2 SLO" tvg-logo="http://smartntv.pro/logokanali/sport/spportt.png" group-title="⚽⚽ Sport ⚽⚽",ŠportTV 2 SLO
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/23774
+#EXTINF:-1 tvg-id="" tvg-name="ŠportTV 3 SLO " tvg-logo="http://smartntv.pro/logokanali/sport/spportt.png" group-title="⚽⚽ Sport ⚽⚽",ŠportTV 3 SLO 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/23772
+#EXTINF:-1 tvg-id="nova-sport-rs" tvg-name="NovaSport" tvg-logo="http://smartntv.pro/logokanali/sport/novsport.png" group-title="⚽⚽ Sport ⚽⚽",NovaSport
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13457
+#EXTINF:-1 tvg-id="htv1" tvg-name="SK Fight" tvg-logo="http://smartntv.pro/logokanali/sport/fightchann.png" group-title="⚽⚽ Sport ⚽⚽",SK Fight
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13461
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://smartntv.pro/logokanali/sport/ufccc.png" group-title="⚽⚽ Sport ⚽⚽",UFC Fight Pass
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/14009
+#EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FIGHT BOX" tvg-logo="https://tvprofil.com/img/kanali-logo/FightBoxHD_logo.png" group-title="⚽⚽ Sport ⚽⚽",FIGHT BOX
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26378
+#EXTINF:-1 tvg-id="" tvg-name="BoxNation(TEST)" tvg-logo="http://smartntv.pro/logokanali/sport/boxxnatt.png" group-title="⚽⚽ Sport ⚽⚽",BoxNation(TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28610
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-1" tvg-name="BundsLiiga 1" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25678
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-2" tvg-name="BundsLiiga 2" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25679
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-3" tvg-name="BundsLiiga 3" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 3
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25681
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-4" tvg-name="BundsLiiga 4" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 4
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25682
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-5" tvg-name="BundsLiiga 5" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 5
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25683
+#EXTINF:-1 tvg-id="" tvg-name="BundsLiiga 6" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 6
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28607
+#EXTINF:-1 tvg-id="" tvg-name="BundsLiiga 7" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28608
+#EXTINF:-1 tvg-id="" tvg-name="BundsLiiga 8" tvg-logo="http://smartntv.pro/logokanali/sport/bundeee.png" group-title="⚽⚽ Sport ⚽⚽",BundsLiiga 8
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28609
+#EXTINF:-1 tvg-id="" tvg-name="BlueSport 1" tvg-logo="http://smartntv.pro/logokanali/sport/bluuuu.png" group-title="⚽⚽ Sport ⚽⚽",BlueSport 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26365
+#EXTINF:-1 tvg-id="" tvg-name="BlueSport 2 " tvg-logo="http://smartntv.pro/logokanali/sport/bluuuu.png" group-title="⚽⚽ Sport ⚽⚽",BlueSport 2 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26366
+#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="B TSport1" tvg-logo="http://smartntv.pro/logokanali/sport/btss.png" group-title="⚽⚽ Sport ⚽⚽",B TSport1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27381
+#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="B TSport2" tvg-logo="http://smartntv.pro/logokanali/sport/btss.png" group-title="⚽⚽ Sport ⚽⚽",B TSport2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27382
+#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="B TSport3" tvg-logo="http://smartntv.pro/logokanali/sport/btss.png" group-title="⚽⚽ Sport ⚽⚽",B TSport3
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27383
+#EXTINF:-1 tvg-id="" tvg-name="N F L" tvg-logo="http://smartntv.pro/logokanali/ukiusa/nflnetw.png" group-title="⚽⚽ Sport ⚽⚽",N F L
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27380
+#EXTINF:-1 tvg-id="" tvg-name="N H L " tvg-logo="http://smartntv.pro/logokanali/sport/nhll2.png" group-title="⚽⚽ Sport ⚽⚽",N H L 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27379
+#EXTINF:-1 tvg-id="dazn-1-de" tvg-name="Dàzzn1" tvg-logo="https://tvprofil.com/img/kanali-logo/DAZN_1_ES_logo.png" group-title="⚽⚽ Sport ⚽⚽",Dàzzn1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25671
+#EXTINF:-1 tvg-id="dazn-2-de" tvg-name="Dàzzn2" tvg-logo="https://tvprofil.com/img/kanali-logo/DAZN_2_ES_logo.png" group-title="⚽⚽ Sport ⚽⚽",Dàzzn2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25670
+#EXTINF:-1 tvg-id="" tvg-name="SportAT" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",SportAT
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25669
+#EXTINF:-1 tvg-id="sky-sports-news" tvg-name="SportNewzDE" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",SportNewzDE
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25666
+#EXTINF:-1 tvg-id="sky-sport-1-de" tvg-name="Sport1DE" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",Sport1DE
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25667
+#EXTINF:-1 tvg-id="htv1" tvg-name="Sport2DE" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",Sport2DE
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25668
+#EXTINF:-1 tvg-id="htv2" tvg-name="MojaTV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/mojatv1.png" group-title="⚽⚽ Sport ⚽⚽",MojaTV ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6563
+#EXTINF:-1 tvg-id="" tvg-name="Equidia" tvg-logo="http://smartntv.pro/logokanali/sport/equidd.png" group-title="⚽⚽ Sport ⚽⚽",Equidia
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26367
+#EXTINF:-1 tvg-id="" tvg-name="Partizan TV" tvg-logo="http://smartntv.pro/logokanali/sport/partiz.png" group-title="⚽⚽ Sport ⚽⚽",Partizan TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26364
+#EXTINF:-1 tvg-id="" tvg-name="TV Zvezda" tvg-logo="http://smartntv.pro/logokanali/sport/zvezdaa.png" group-title="⚽⚽ Sport ⚽⚽",TV Zvezda
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6581
+#EXTINF:-1 tvg-id="sportska-televizija" tvg-name="Sportska TV" tvg-logo="http://smartntv.pro/logokanali/sport/sptvv.png" group-title="⚽⚽ Sport ⚽⚽",Sportska TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6586
+#EXTINF:-1 tvg-id="sport-tv1-pt" tvg-name="SportTV 1  ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/spoorttvv.png" group-title="⚽⚽ Sport ⚽⚽",SportTV 1  ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12894
+#EXTINF:-1 tvg-id="sport-tv2" tvg-name="SportTV 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/spoorttvv.png" group-title="⚽⚽ Sport ⚽⚽",SportTV 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12895
+#EXTINF:-1 tvg-id="sport-tv3" tvg-name="SportTV 3 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/spoorttvv.png" group-title="⚽⚽ Sport ⚽⚽",SportTV 3 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12896
+#EXTINF:-1 tvg-id="sport-tv4" tvg-name="SportTV 4 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/spoorttvv.png" group-title="⚽⚽ Sport ⚽⚽",SportTV 4 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12897
+#EXTINF:-1 tvg-id="sport-tv5" tvg-name="SportTV 5 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/spoorttvv.png" group-title="⚽⚽ Sport ⚽⚽",SportTV 5 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12898
+#EXTINF:-1 tvg-id="espn" tvg-name="ES PN 1" tvg-logo="http://smartntv.pro/logokanali/sport/espnn.png" group-title="⚽⚽ Sport ⚽⚽",ES PN 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6631
+#EXTINF:-1 tvg-id="espn2" tvg-name="ES PN  2" tvg-logo="http://smartntv.pro/logokanali/sport/espnn.png" group-title="⚽⚽ Sport ⚽⚽",ES PN  2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6632
+#EXTINF:-1 tvg-id="espn3" tvg-name="ES PN  3" tvg-logo="http://smartntv.pro/logokanali/sport/espnn.png" group-title="⚽⚽ Sport ⚽⚽",ES PN  3
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6633
+#EXTINF:-1 tvg-id="espn4" tvg-name="ES PN  4" tvg-logo="http://smartntv.pro/logokanali/sport/espnn.png" group-title="⚽⚽ Sport ⚽⚽",ES PN  4
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6634
+#EXTINF:-1 tvg-id="htv1" tvg-name="Eleven Sports 1 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/elevnesportt.png" group-title="⚽⚽ Sport ⚽⚽",Eleven Sports 1 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6637
+#EXTINF:-1 tvg-id="htv1" tvg-name="Eleven Sports 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/elevnesportt.png" group-title="⚽⚽ Sport ⚽⚽",Eleven Sports 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6638
+#EXTINF:-1 tvg-id="htv1" tvg-name="Eleven Sports 3 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/elevnesportt.png" group-title="⚽⚽ Sport ⚽⚽",Eleven Sports 3 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6639
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="http://smartntv.pro/logokanali/sport/nbatvv.png" group-title="⚽⚽ Sport ⚽⚽",NBA TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6642
+#EXTINF:-1 tvg-id="kreator-tv" tvg-name="Kreator TV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/kreatortv.png" group-title="⚽⚽ Sport ⚽⚽",Kreator TV ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12909
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-name="BE1NSp0rt 1" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25703
+#EXTINF:-1 tvg-id="htv2" tvg-name="BE1NSp0rt 2" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25704
+#EXTINF:-1 tvg-id="htv2" tvg-name="BE1NSp0rt 3" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 3
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25705
+#EXTINF:-1 tvg-id="htv2" tvg-name="BE1NSp0rt 4" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 4
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25693
+#EXTINF:-1 tvg-id="htv2" tvg-name="BE1NSp0rt 5" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 5
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25694
+#EXTINF:-1 tvg-id="bein-sport-6" tvg-name="BE1NSp0rt 6" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 6
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25695
+#EXTINF:-1 tvg-id="bein-sport-7" tvg-name="BE1NSp0rt 7" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25696
+#EXTINF:-1 tvg-id="htv2" tvg-name="BE1NSp0rt 8" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 8
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25697
+#EXTINF:-1 tvg-id="" tvg-name="BE1NSp0rtt 9" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rtt 9
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25698
+#EXTINF:-1 tvg-id="bein-sport-1-fr" tvg-name="BE1NSp0rt 1 FR" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 1 FR
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25699
+#EXTINF:-1 tvg-id="bein-sport-2-fr" tvg-name="BE1NSp0rt 2 FR" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 2 FR
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25700
+#EXTINF:-1 tvg-id="bein-sport-3-fr" tvg-name="BE1NSp0rt 3 FR" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 3 FR
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25701
+#EXTINF:-1 tvg-id="" tvg-name="BE1NSp0rt 4 FR" tvg-logo="http://smartntv.pro/logokanali/sport/beeinn.png" group-title="⚽⚽ Sport ⚽⚽",BE1NSp0rt 4 FR
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25702
+#EXTINF:-1 tvg-id="" tvg-name="RMMCSP0rt 1 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/rmcc.png" group-title="⚽⚽ Sport ⚽⚽",RMMCSP0rt 1 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25687
+#EXTINF:-1 tvg-id="" tvg-name="RMMCSP0rt 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/rmcc.png" group-title="⚽⚽ Sport ⚽⚽",RMMCSP0rt 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25688
+#EXTINF:-1 tvg-id="" tvg-name="RMMCSP0rt 3 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/rmcc.png" group-title="⚽⚽ Sport ⚽⚽",RMMCSP0rt 3 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25689
+#EXTINF:-1 tvg-id="" tvg-name="RMMCSP0rt 4 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/rmcc.png" group-title="⚽⚽ Sport ⚽⚽",RMMCSP0rt 4 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25690
+#EXTINF:-1 tvg-id="" tvg-name="RMMCSP0rt 5 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/rmcc.png" group-title="⚽⚽ Sport ⚽⚽",RMMCSP0rt 5 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25691
+#EXTINF:-1 tvg-id="movistar-formula-1" tvg-name="Movistar F1  ʜᴅ " tvg-logo="http://smartntv.pro/logokanali/sport/movistarf11.png" group-title="⚽⚽ Sport ⚽⚽",Movistar F1  ʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6616
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="http://smartntv.pro/logokanali/sport/rbull1.png" group-title="⚽⚽ Sport ⚽⚽",Red Bull TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26266
+#EXTINF:-1 tvg-id="sky-sports-1" tvg-name="SSportMainEvent" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",SSportMainEvent
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25665
+#EXTINF:-1 tvg-id="sky-sports-f1" tvg-name="SportF1 K" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",SportF1 K
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25677
+#EXTINF:-1 tvg-id="sky-sport-f1-it" tvg-name="SportF1" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",SportF1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25676
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="SSportArena" tvg-logo="http://smartntv.pro/logokanali/sport/sportarena.png" group-title="⚽⚽ Sport ⚽⚽",SSportArena
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25686
+#EXTINF:-1 tvg-id="sky-sports-4" tvg-name="Sp0rtG0lf" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",Sp0rtG0lf
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25674
+#EXTINF:-1 tvg-id="" tvg-name="Sp0rtFutbal" tvg-logo="http://smartntv.pro/logokanali/sport/sss1.png" group-title="⚽⚽ Sport ⚽⚽",Sp0rtFutbal
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25673
+#EXTINF:-1 tvg-id="sportdigital-fussball" tvg-name="DE: SportDigital ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/spordigg.png" group-title="⚽⚽ Sport ⚽⚽",DE: SportDigital ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12910
+#EXTINF:-1 tvg-id="auto-motor-und-sport" tvg-name="Auto Motor Sport ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/automotor.png" group-title="⚽⚽ Sport ⚽⚽",Auto Motor Sport ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12911
+#EXTINF:-1 tvg-id="motorvision-tv" tvg-name="Motor Vision ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/motorvision.png" group-title="⚽⚽ Sport ⚽⚽",Motor Vision ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12912
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Racing" tvg-logo="http://smartntv.pro/logokanali/sport/ziggosracing.png" group-title="⚽⚽ Sport ⚽⚽",Ziggo Sport Racing
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6658
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf" tvg-logo="http://smartntv.pro/logokanali/sport/ziggossgolf.png" group-title="⚽⚽ Sport ⚽⚽",Ziggo Sport Golf
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6661
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select" tvg-logo="http://smartntv.pro/logokanali/sport/ziggoslct.png" group-title="⚽⚽ Sport ⚽⚽",Ziggo Sport Select
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6662
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal" tvg-logo="http://smartntv.pro/logokanali/sport/ziggosportvoetballl.png" group-title="⚽⚽ Sport ⚽⚽",Ziggo Sport Voetbal
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6663
+#EXTINF:-1 tvg-id="tring-sport-1-hd" tvg-name="Tring Sport 1" tvg-logo="http://smartntv.pro/logokanali/sport/tringsportt.png" group-title="⚽⚽ Sport ⚽⚽",Tring Sport 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6645
+#EXTINF:-1 tvg-id="tring-sport-2-hd" tvg-name="Tring Sport 2" tvg-logo="http://smartntv.pro/logokanali/sport/tringsportt.png" group-title="⚽⚽ Sport ⚽⚽",Tring Sport 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6646
+#EXTINF:-1 tvg-id="tring-sport-3-hd" tvg-name="Tring Sport 3" tvg-logo="http://smartntv.pro/logokanali/sport/tringsportt.png" group-title="⚽⚽ Sport ⚽⚽",Tring Sport 3
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6647
+#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="DigiSport 1 RO" tvg-logo="http://smartntv.pro/logokanali/sport/digisportt.png" group-title="⚽⚽ Sport ⚽⚽",DigiSport 1 RO
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6649
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="DigiSport 2 RO" tvg-logo="http://smartntv.pro/logokanali/sport/digisportt.png" group-title="⚽⚽ Sport ⚽⚽",DigiSport 2 RO
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6650
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="DigiSport 3 RO" tvg-logo="http://smartntv.pro/logokanali/sport/digisportt.png" group-title="⚽⚽ Sport ⚽⚽",DigiSport 3 RO
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6651
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="DigiSport 4 RO" tvg-logo="http://smartntv.pro/logokanali/sport/digisportt.png" group-title="⚽⚽ Sport ⚽⚽",DigiSport 4 RO
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6652
+#EXTINF:-1 tvg-id="supersport-1-al" tvg-name="SuperSports 1" tvg-logo="http://smartntv.pro/logokanali/sport/superrs.png" group-title="⚽⚽ Sport ⚽⚽",SuperSports 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6664
+#EXTINF:-1 tvg-id="supersport-2-al" tvg-name="SuperSports 2" tvg-logo="http://smartntv.pro/logokanali/sport/superrs.png" group-title="⚽⚽ Sport ⚽⚽",SuperSports 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6665
+#EXTINF:-1 tvg-id="barca-tv" tvg-name="Barca TV" tvg-logo="http://smartntv.pro/logokanali/sport/barcaa.png" group-title="⚽⚽ Sport ⚽⚽",Barca TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6666
+#EXTINF:-1 tvg-id="" tvg-name="Bayern TV" tvg-logo="http://smartntv.pro/logokanali/sport/bayernn.png" group-title="⚽⚽ Sport ⚽⚽",Bayern TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6667
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool TV" tvg-logo="http://smartntv.pro/logokanali/sport/liverr.png" group-title="⚽⚽ Sport ⚽⚽",Liverpool TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6668
+#EXTINF:-1 tvg-id="manchester-tv" tvg-name="Manchester United TV" tvg-logo="http://smartntv.pro/logokanali/sport/mutvv.png" group-title="⚽⚽ Sport ⚽⚽",Manchester United TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6670
+#EXTINF:-1 tvg-id="real-madrid-tv" tvg-name="Real Madrid TV" tvg-logo="http://smartntv.pro/logokanali/sport/realll.png" group-title="⚽⚽ Sport ⚽⚽",Real Madrid TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6671
 
-#EXTINF:-1 tvg-id="" tvg-name="# # # # # CROATIA-HR # # # #" tvg-logo="" group-title="CROATIA-HR",# # # # # CROATIA-HR # # # #
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/693
-#EXTINF:-1 tvg-id="hrt1" tvg-name="HRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title="CROATIA-HR",HRT 1 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/677
-#EXTINF:-1 tvg-id="hrt2" tvg-name="HRT 2 HD" tvg-logo="https://mtel.ba/oec/images/tv_channels/013dfd68b8f0077f7146a1c8c55aca43.png" group-title="CROATIA-HR",HRT 2 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/678
-#EXTINF:-1 tvg-id="" tvg-name="HRT 3 HD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/hrt-3.png" group-title="CROATIA-HR",HRT 3 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/679
-#EXTINF:-1 tvg-id="" tvg-name="HRT 4 HD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/hrt-4.png" group-title="CROATIA-HR",HRT 4 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/680
-#EXTINF:-1 tvg-id="hrt1" tvg-name="HRT INT" tvg-logo="https://www.userlogos.org/files/logos/spaljeni/hrt.png" group-title="CROATIA-HR",HRT INT
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/681
-#EXTINF:-1 tvg-id="" tvg-name="N1 HR" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/n1-hd-bh.png" group-title="CROATIA-HR",N1 HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/84489
-#EXTINF:-1 tvg-id="novatv" tvg-name="NOVA HD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/nova-tv-hd.png" group-title="CROATIA-HR",NOVA HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/682
-#EXTINF:-1 tvg-id="novatv" tvg-name="NOVA FHD " tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/nova-tv-hd.png" group-title="CROATIA-HR",NOVA FHD 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/44807
-#EXTINF:-1 tvg-id="" tvg-name="NOVA WORLD" tvg-logo="http://tv.luzer.org:8080//images//227c5cdca18ac6c5b607ec22b1e44e28.png" group-title="CROATIA-HR",NOVA WORLD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83859
-#EXTINF:-1 tvg-id="" tvg-name="NOVA FAMILY" tvg-logo="http://tv.luzer.org:8080//images//6239cf394e1dd19358cf79382502983f.png" group-title="CROATIA-HR",NOVA FAMILY
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83860
-#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA" tvg-logo="http://tv.luzer.org:8080//images//dafa2f4414c36a96801e37b74ecc4b9c.png" group-title="CROATIA-HR",NOVA CINEMA
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83861
-#EXTINF:-1 tvg-id="" tvg-name="NOVA PLUS" tvg-logo="http://tv.luzer.org:8080//images//5560b36a8eec07cbfc78466d97c832ca.png" group-title="CROATIA-HR",NOVA PLUS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83862
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL_Televizija.png" group-title="CROATIA-HR",RTL
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/684
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL FHD " tvg-logo="https://mtel.ba/oec/images/tv_channels/d8e74a48d7f7b4b976fce90230bc2528.png" group-title="CROATIA-HR",RTL FHD 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/44806
-#EXTINF:-1 tvg-id="" tvg-name="RTL2" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL2_hr.png" group-title="CROATIA-HR",RTL2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/2623
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/rtl2_hr.png" group-title="CROATIA-HR",RTL 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/685
-#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/rtl_passion/51803-5-cro-HR/rtl_passion_tvchannel_list.png" group-title="CROATIA-HR",RTL PASSION
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/686
-#EXTINF:-1 tvg-id="" tvg-name="RTL LIVING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/RTL_living_HD_Logo_2015.png" group-title="CROATIA-HR",RTL LIVING
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/687
-#EXTINF:-1 tvg-id="" tvg-name="RTL CRIME" tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2015/03/RTL-Crime1.png" group-title="CROATIA-HR",RTL CRIME
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/688
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL ADRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/3/37/Rtl2018.png" group-title="CROATIA-HR",RTL ADRIA
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/27093
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL Adria FHD" tvg-logo="https://mtel.ba/oec/images/tv_channels/d8e74a48d7f7b4b976fce90230bc2528.png" group-title="CROATIA-HR",RTL Adria FHD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/44808
-#EXTINF:-1 tvg-id="hrt1" tvg-name="RTL Croatia World" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/3/37/Rtl2018.png" group-title="CROATIA-HR",RTL Croatia World
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/27094
-#EXTINF:-1 tvg-id="domatv" tvg-name="DOMA TV HD" tvg-logo="https://ssc.a1.hr/documents/10307706/46958889/doma-nova-hd.png" group-title="CROATIA-HR",DOMA TV HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/683
-#EXTINF:-1 tvg-id="" tvg-name="TV BANOVINA" tvg-logo="http://sviraradio.com/logo/1-radio-banovina.png" group-title="CROATIA-HR",TV BANOVINA
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/691
-#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png" group-title="CROATIA-HR",Z1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/689
-#EXTINF:-1 tvg-id="" tvg-name="JABUKA TV" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/jabuka_tv/10055-3-cro-HR/jabuka_tv_tvchannel_list.png" group-title="CROATIA-HR",JABUKA TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36211
-#EXTINF:-1 tvg-id="vtvvarazdin" tvg-name="VARAŽDINSKA TV" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/varazdinska_televizija/9868-4-cro-HR/varazdinska_televizija_tvchannel_list.png" group-title="CROATIA-HR",VARAŽDINSKA TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36205
-#EXTINF:-1 tvg-id="" tvg-name="SLAVONSKA TV" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/slavonska_tv/10021-4-cro-HR/slavonska_tv_tvchannel_list.png" group-title="CROATIA-HR",SLAVONSKA TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36206
-#EXTINF:-1 tvg-id="" tvg-name="PLAVA VINKOVAČKA TV" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/vinkovacka_tv/10004-4-cro-HR/vinkovacka_tv_tvchannel_list.png" group-title="CROATIA-HR",PLAVA VINKOVAČKA TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36207
-#EXTINF:-1 tvg-id="" tvg-name="OSJEČKA TV" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/osjecka_tv/9885-4-cro-HR/osjecka_tv_tvchannel_list.png" group-title="CROATIA-HR",OSJEČKA TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36208
-#EXTINF:-1 tvg-id="" tvg-name="MREZA TV ZAGREB" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/mrezast/9970-5-cro-HR/mrezast_tvchannel_list.png" group-title="CROATIA-HR",MREZA TV ZAGREB
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36209
-#EXTINF:-1 tvg-id="" tvg-name="LAUDATO TV" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/laudato-tv.png" group-title="CROATIA-HR",LAUDATO TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36210
-#EXTINF:-1 tvg-id="posavinatv" tvg-name="POSAVINA TV" tvg-logo="http://tv.luzer.org:8080//images//9ff98acc68c882b570de4324d1f77c8e.png" group-title="CROATIA-HR",POSAVINA TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36212
-#EXTINF:-1 tvg-id="" tvg-name="TV DUBROVNIK " tvg-logo="http://tv.luzer.org:8080//images//19f236302ed8770ab7e56541c482e47d.png" group-title="CROATIA-HR",TV DUBROVNIK 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/36213
-#EXTINF:-1 tvg-id="" tvg-name="UNA TV HR" tvg-logo="http://tv.luzer.org:8080//images//3580fa58fcdcc2c63778ba00af230fc5.png" group-title="CROATIA-HR",UNA TV HR
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/60916
-#EXTINF:-1 tvg-id="" tvg-name="Kanal R" tvg-logo="http://tv.luzer.org:8080//images//c0486efde54e86358be99534092f1edf.png" group-title="CROATIA-HR",Kanal R
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83808
-#EXTINF:-1 tvg-id="" tvg-name="TV Jadran" tvg-logo="http://tv.luzer.org:8080//images//ef0863867f6af29a3ce5f20663482eaf.png" group-title="CROATIA-HR",TV Jadran
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83810
-#EXTINF:-1 tvg-id="" tvg-name="TV Šibenik" tvg-logo="http://tv.luzer.org:8080//images//ee5a127267a0799b42a76a9266626c3a.png" group-title="CROATIA-HR",TV Šibenik
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83811
-#EXTINF:-1 tvg-id="" tvg-name="VTV Televizija" tvg-logo="http://tv.luzer.org:8080//images//7a0f24809c234ea78d972b1f336ac1b9.png" group-title="CROATIA-HR",VTV Televizija
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83814
-#EXTINF:-1 tvg-id="" tvg-name="Trend TV" tvg-logo="http://tv.luzer.org:8080//images//a3f558153fe31d2d51735dde7053f677.png" group-title="CROATIA-HR",Trend TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83815
-#EXTINF:-1 tvg-id="" tvg-name="CRO TV ᴴᴰ" tvg-logo="http://tv.luzer.org:8080/images/7c9425de8b5c584e8a3b23d1c4aca2fc.png" group-title="CROATIA-HR",CRO TV ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83816
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska TV ᴴᴰ" tvg-logo="http://tv.luzer.org:8080//images//2a9c02f53af7f090370b64d43abf8242.png" group-title="CROATIA-HR",Prigorska TV ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83817
+#EXTINF:-1 tvg-id="VarazdinskaTV" tvg-name="☆☆ Hrvatska ☆☆" tvg-logo="http://smartntv.pro/logokanali/hrv/croatia2.png" group-title="☆☆ Hrvatska ☆☆",☆☆ Hrvatska ☆☆
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6277
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1111.png" group-title="☆☆ Hrvatska ☆☆",HRT 1 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6278
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1111.png" group-title="☆☆ Hrvatska ☆☆",HRT 1 Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6279
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1111.png" group-title="☆☆ Hrvatska ☆☆",HRT 1 (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26368
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt222.png" group-title="☆☆ Hrvatska ☆☆",HRT 2 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6280
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt222.png" group-title="☆☆ Hrvatska ☆☆",HRT 2 Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6281
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt222.png" group-title="☆☆ Hrvatska ☆☆",HRT 2 (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26369
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt33.png" group-title="☆☆ Hrvatska ☆☆",HRT 3 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6282
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3 Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt33.png" group-title="☆☆ Hrvatska ☆☆",HRT 3 Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28497
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt33.png" group-title="☆☆ Hrvatska ☆☆",HRT 3 (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26370
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt444.png" group-title="☆☆ Hrvatska ☆☆",HRT 4 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6283
+#EXTINF:-1 tvg-id="" tvg-name="HRT 4 Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt444.png" group-title="☆☆ Hrvatska ☆☆",HRT 4 Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28498
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt444.png" group-title="☆☆ Hrvatska ☆☆",HRT 4 (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26371
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT Int." tvg-logo="http://smartntv.pro/logokanali/hrv/hrti1.png" group-title="☆☆ Hrvatska ☆☆",HRT Int.
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6284
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL Adria" tvg-logo="http://smartntv.pro/logokanali/hrv/rtladria1.png" group-title="☆☆ Hrvatska ☆☆",RTL Adria
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/9635
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL Adria Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/rtladria1.png" group-title="☆☆ Hrvatska ☆☆",RTL Adria Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26256
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/rtl11.png" group-title="☆☆ Hrvatska ☆☆",RTL ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6285
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/rtl11.png" group-title="☆☆ Hrvatska ☆☆",RTL Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6286
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/rtl11.png" group-title="☆☆ Hrvatska ☆☆",RTL (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26373
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/rtl222.png" group-title="☆☆ Hrvatska ☆☆",RTL 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6287
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/rtl222.png" group-title="☆☆ Hrvatska ☆☆",RTL 2 Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28493
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/rtl222.png" group-title="☆☆ Hrvatska ☆☆",RTL 2 (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26374
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/rcrime2.png" group-title="☆☆ Hrvatska ☆☆",RTL Crime ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6288
+#EXTINF:-1 tvg-id="" tvg-name="RTL Crime Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/rcrime2.png" group-title="☆☆ Hrvatska ☆☆",RTL Crime Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28494
+#EXTINF:-1 tvg-id="" tvg-name="RTL Croatia World" tvg-logo="http://smartntv.pro/logokanali/hrv/croworld1.png" group-title="☆☆ Hrvatska ☆☆",RTL Croatia World
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28279
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Passion ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/rpass1.png" group-title="☆☆ Hrvatska ☆☆",RTL Passion ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6289
+#EXTINF:-1 tvg-id="" tvg-name="RTL Passion Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/rpass1.png" group-title="☆☆ Hrvatska ☆☆",RTL Passion Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28495
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/rlivingg.png" group-title="☆☆ Hrvatska ☆☆",RTL Living ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6290
+#EXTINF:-1 tvg-id="" tvg-name="RTL Living Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/rlivingg.png" group-title="☆☆ Hrvatska ☆☆",RTL Living Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28496
+#EXTINF:-1 tvg-id="nova" tvg-name="NovaTVғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/nov1112.png" group-title="☆☆ Hrvatska ☆☆",NovaTVғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13466
+#EXTINF:-1 tvg-id="nova" tvg-name="NovaTVʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/nov1112.png" group-title="☆☆ Hrvatska ☆☆",NovaTVʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13467
+#EXTINF:-1 tvg-id="nova" tvg-name="NovaTV Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/nov1112.png" group-title="☆☆ Hrvatska ☆☆",NovaTV Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13468
+#EXTINF:-1 tvg-id="nova" tvg-name="NovaTV (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/nov1112.png" group-title="☆☆ Hrvatska ☆☆",NovaTV (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26372
+#EXTINF:-1 tvg-id="nova-max" tvg-name="Nova Max(TEST)" tvg-logo="http://smartntv.pro/logokanali/hrv/nmaxx.png" group-title="☆☆ Hrvatska ☆☆",Nova Max(TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26887
+#EXTINF:-1 tvg-id="nova-series" tvg-name="Nova Series(TEST)" tvg-logo="http://smartntv.pro/logokanali/hrv/nseries1.png" group-title="☆☆ Hrvatska ☆☆",Nova Series(TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26888
+#EXTINF:-1 tvg-id="" tvg-name="Nova Plus (TEST)" tvg-logo="http://smartntv.pro/logokanali/hrv/nplus1.png" group-title="☆☆ Hrvatska ☆☆",Nova Plus (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26767
+#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-name="Nova Cinema" tvg-logo="http://smartntv.pro/logokanali/hrv/ncinema1.png" group-title="☆☆ Hrvatska ☆☆",Nova Cinema
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25664
+#EXTINF:-1 tvg-id="nova-plus-family" tvg-name="Nova Family" tvg-logo="http://smartntv.pro/logokanali/hrv/nfamily1.png" group-title="☆☆ Hrvatska ☆☆",Nova Family
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26297
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DomaTv ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/domatvv1.png" group-title="☆☆ Hrvatska ☆☆",DomaTv ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13443
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DomaTV Backup" tvg-logo="http://smartntv.pro/logokanali/hrv/domatvv1.png" group-title="☆☆ Hrvatska ☆☆",DomaTV Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13447
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DomaTV (HEVC)" tvg-logo="http://smartntv.pro/logokanali/hrv/domatvv1.png" group-title="☆☆ Hrvatska ☆☆",DomaTV (HEVC)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26375
+#EXTINF:-1 tvg-id="" tvg-name="Dizi TV" tvg-logo="http://smartntv.pro/logokanali/bh/dizi2.png" group-title="☆☆ Hrvatska ☆☆",Dizi TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28383
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Cr" tvg-logo="http://smartntv.pro/logokanali/hrv/n1tvv1.png" group-title="☆☆ Hrvatska ☆☆",N1 Cr
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13437
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1 TV" tvg-logo="http://smartntv.pro/logokanali/hrv/z113.png" group-title="☆☆ Hrvatska ☆☆",Z1 TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6296
+#EXTINF:-1 tvg-id="" tvg-name="Nova Documentary" tvg-logo="http://smartntv.pro/logokanali/hrv/nov1112.png" group-title="☆☆ Hrvatska ☆☆",Nova Documentary
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26884
+#EXTINF:-1 tvg-id="" tvg-name="Cro TV Hrvatske Dijaspore" tvg-logo="http://smartntv.pro/logokanali/hrv/crotv1.png" group-title="☆☆ Hrvatska ☆☆",Cro TV Hrvatske Dijaspore
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20354
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Plava Vinkovacka ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/plavavinkovackaa1.png" group-title="☆☆ Hrvatska ☆☆",Plava Vinkovacka ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6299
+#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/osjeccc.png" group-title="☆☆ Hrvatska ☆☆",Osjecka TV ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6300
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska TV" tvg-logo="http://smartntv.pro/logokanali/hrv/st11.png" group-title="☆☆ Hrvatska ☆☆",Slavonska TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6301
+#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="Poljoprivredna TV" tvg-logo="http://smartntv.pro/logokanali/hrv/polj11.png" group-title="☆☆ Hrvatska ☆☆",Poljoprivredna TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12882
+#EXTINF:-1 tvg-id="tv-jadran" tvg-name="Jadran TV" tvg-logo="http://smartntv.pro/logokanali/hrv/jadrantvv1.png" group-title="☆☆ Hrvatska ☆☆",Jadran TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12881
+#EXTINF:-1 tvg-id="tv-nova" tvg-name="Nova Pula" tvg-logo="http://smartntv.pro/logokanali/hrv/novapula1.png" group-title="☆☆ Hrvatska ☆☆",Nova Pula
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26268
+#EXTINF:-1 tvg-id="tv-sibenik" tvg-name="TV Sibenik" tvg-logo="http://smartntv.pro/logokanali/hrv/sibenikk.png" group-title="☆☆ Hrvatska ☆☆",TV Sibenik
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26264
+#EXTINF:-1 tvg-id="tv-zapad" tvg-name="TV Zapad" tvg-logo="http://smartntv.pro/logokanali/hrv/tvzappad.png" group-title="☆☆ Hrvatska ☆☆",TV Zapad
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26270
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="http://smartntv.pro/logokanali/hrv/laudato1.png" group-title="☆☆ Hrvatska ☆☆",Laudato TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6302
+#EXTINF:-1 tvg-id="klape-i-tambure-tv" tvg-name="Klape i Tambure " tvg-logo="http://smartntv.pro/logokanali/hrv/klape1.png" group-title="☆☆ Hrvatska ☆☆",Klape i Tambure 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/14566
+#EXTINF:-1 tvg-id="zdrava-televizija" tvg-name="Zdrava Televizija" tvg-logo="http://smartntv.pro/logokanali/hrv/zdravaa1.png" group-title="☆☆ Hrvatska ☆☆",Zdrava Televizija
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13129
+#EXTINF:-1 tvg-id="net" tvg-name="Mreza TV Zagreb" tvg-logo="http://smartntv.pro/logokanali/hrv/mrezazagrebb1.png" group-title="☆☆ Hrvatska ☆☆",Mreza TV Zagreb
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13829
+#EXTINF:-1 tvg-id="tv-dalmacija" tvg-name="TV Dalmacija" tvg-logo="http://smartntv.pro/logokanali/hrv/tvdalmacija1.png" group-title="☆☆ Hrvatska ☆☆",TV Dalmacija
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26304
+#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="http://smartntv.pro/logokanali/hrv/rtvbanovina1.png" group-title="☆☆ Hrvatska ☆☆",Banovina TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6298
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VTV Varazdin" tvg-logo="http://smartntv.pro/logokanali/hrv/vtvvarazdin1.png" group-title="☆☆ Hrvatska ☆☆",VTV Varazdin
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6304
+#EXTINF:-1 tvg-id="tv4r" tvg-name="Trend TV" tvg-logo="http://smartntv.pro/logokanali/hrv/trend1.png" group-title="☆☆ Hrvatska ☆☆",Trend TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20369
+#EXTINF:-1 tvg-id="kanal-ri" tvg-name="Kanal R" tvg-logo="http://smartntv.pro/logokanali/hrv/kanalr1.png" group-title="☆☆ Hrvatska ☆☆",Kanal R
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6306
+#EXTINF:-1 tvg-id="sbtv" tvg-name="SBTV" tvg-logo="http://smartntv.pro/logokanali/hrv/sbtv1.png" group-title="☆☆ Hrvatska ☆☆",SBTV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26303
+#EXTINF:-1 tvg-id="dmc" tvg-name="DMC" tvg-logo="http://smartntv.pro/logokanali/hrv/dmctvv1.png" group-title="☆☆ Hrvatska ☆☆",DMC
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6303
+#EXTINF:-1 tvg-id="jabukatv" tvg-name="Jabuka TV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/jabukatv1.png" group-title="☆☆ Hrvatska ☆☆",Jabuka TV ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13130
+#EXTINF:-1 tvg-id="libertas-tv" tvg-name="Libertas TV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/libertas1.png" group-title="☆☆ Hrvatska ☆☆",Libertas TV ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13131
+#EXTINF:-1 tvg-id="" tvg-name="Narodni " tvg-logo="http://smartntv.pro/logokanali/hrv/narodnii1.png" group-title="☆☆ Hrvatska ☆☆",Narodni 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13132
+#EXTINF:-1 tvg-id="prigorska-tv" tvg-name="Prigorska TV TEST" tvg-logo="http://smartntv.pro/logokanali/hrv/prigorskatvv1.png" group-title="☆☆ Hrvatska ☆☆",Prigorska TV TEST
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13826
+#EXTINF:-1 tvg-id="aurora-tv" tvg-name="Aurora TV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/hrv/auroratv1.png" group-title="☆☆ Hrvatska ☆☆",Aurora TV ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13138
+#EXTINF:-1 tvg-id="diadora-tv" tvg-name="Diadora TV" tvg-logo="http://smartntv.pro/logokanali/hrv/diaddorr.png" group-title="☆☆ Hrvatska ☆☆",Diadora TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26305
+#EXTINF:-1 tvg-id="dubrovacka-tv" tvg-name="DUTV" tvg-logo="http://smartntv.pro/logokanali/hrv/dutvv.png" group-title="☆☆ Hrvatska ☆☆",DUTV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26307
+#EXTINF:-1 tvg-id="una-tv" tvg-name="UNA TV" tvg-logo="http://smartntv.pro/logokanali/hrv/unna.png" group-title="☆☆ Hrvatska ☆☆",UNA TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26308
 
-#EXTINF:-1 tvg-id="" tvg-name="# # # # # FILMSKI # # # # #" tvg-logo="" group-title="FILMSKI",# # # # # FILMSKI # # # # #
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1893
-#EXTINF:-1 tvg-id="HBO.rs" tvg-name="HBO GO" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="FILMSKI",HBO GO
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7790
-#EXTINF:-1 tvg-id="" tvg-name="HBO Adria HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbo_adria.png" group-title="FILMSKI",HBO Adria HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1095
-#EXTINF:-1 tvg-id="hbo1" tvg-name="HBO HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbo_ro.png" group-title="FILMSKI",HBO HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1098
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbo2hd.png" group-title="FILMSKI",HBO 2 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1096
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbo3hd.png" group-title="FILMSKI",HBO 3 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1097
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX ᴴᴰ" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/HBO-Max_250x250.png" group-title="FILMSKI",HBO MAX ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81432
-#EXTINF:-1 tvg-id="" tvg-name="SuperStar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/2/21/Superstar_TV.png" group-title="FILMSKI",SuperStar TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/55555
-#EXTINF:-1 tvg-id="" tvg-name="SuperStar 2 TV" tvg-logo="https://superstartv.rs/wp-content/uploads/2021/07/SUPERSTARTV-01-300x77.png" group-title="FILMSKI",SuperStar 2 TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/55556
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV" tvg-logo="http://185.180.221.139:82/logo_channels/cinestartv.png" group-title="FILMSKI",Cinestar TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1090
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV 2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/cinestar-tv-2-hd.png" group-title="FILMSKI",Cinestar TV 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/49367
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Action" tvg-logo="http://185.180.221.139:82/logo_channels/cinestaraction.png" group-title="FILMSKI",Cinestar Action
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1091
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Fantasy" tvg-logo="http://185.180.221.139:82/logo_channels/cinestarfantasy.png" group-title="FILMSKI",Cinestar Fantasy
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1092
-#EXTINF:-1 tvg-id="cinestarcomedy" tvg-name="Cinestar Comedy *" tvg-logo="https://mtel.ba/oec/images/tv_channels/94d18058add172b13fb53b4db7586be3.png" group-title="FILMSKI",Cinestar Comedy *
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7792
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 1 HD" tvg-logo="http://185.180.221.139:82/logo_channels/cinestarpremiere1.png" group-title="FILMSKI",Cinestar Premiere 1 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1093
-#EXTINF:-1 tvg-id="cinestarpremiere2" tvg-name="Cinestar Premiere 2 HD" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/cinestar-tv-premiere-2-hd.png" group-title="FILMSKI",Cinestar Premiere 2 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1094
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 1" tvg-logo="http://185.180.221.139:82/logo_channels/cinemax.png" group-title="FILMSKI",Cinemax 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1088
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2" tvg-logo="http://185.180.221.139:82/logo_channels/cinemax2.png" group-title="FILMSKI",Cinemax 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1089
-#EXTINF:-1 tvg-id="" tvg-name="SEHARA ONLINE" tvg-logo="" group-title="FILMSKI",SEHARA ONLINE
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/99399
-#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 1" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1713/euro_cinema_1.jpg" group-title="FILMSKI",Euro Cinema 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/87655
-#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 2" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1714/euro_cinema_2.jpg" group-title="FILMSKI",Euro Cinema 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/87656
-#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 3" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1715/euro_cinema_3.jpg" group-title="FILMSKI",Euro Cinema 3
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/87657
-#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 4" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1716/euro_cinema_4.jpg" group-title="FILMSKI",Euro Cinema 4
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/87658
-#EXTINF:-1 tvg-id="" tvg-name="Cinemania" tvg-logo="http://185.180.221.139:82/logo_channels/cinemania.png" group-title="FILMSKI",Cinemania
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1087
-#EXTINF:-1 tvg-id="" tvg-name="RTL Play Premium" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_play_premium.png" group-title="FILMSKI",RTL Play Premium
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81421
-#EXTINF:-1 tvg-id="" tvg-name="RTL +" tvg-logo="" group-title="FILMSKI",RTL +
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81422
-#EXTINF:-1 tvg-id="" tvg-name="Box Office 1 ᴴᴰ" tvg-logo="" group-title="FILMSKI",Box Office 1 ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81434
-#EXTINF:-1 tvg-id="" tvg-name="Box Office 2 ᴴᴰ" tvg-logo="" group-title="FILMSKI",Box Office 2 ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83464
-#EXTINF:-1 tvg-id="" tvg-name="Box Office 3 ᴴᴰ" tvg-logo="" group-title="FILMSKI",Box Office 3 ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83465
-#EXTINF:-1 tvg-id="" tvg-name="Sky GO ᴴᴰ " tvg-logo="" group-title="FILMSKI",Sky GO ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81433
-#EXTINF:-1 tvg-id="" tvg-name="KLASIK TV" tvg-logo="http://185.180.221.139:82/logo_channels/klasiktv.png" group-title="FILMSKI",KLASIK TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1104
-#EXTINF:-1 tvg-id="" tvg-name="Film Klub" tvg-logo="" group-title="FILMSKI",Film Klub
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/48172
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN Adria" tvg-logo="https://mtel.ba/oec/images/tv_channels/02e71a27f1021e2fa3abe8a7325946db.png" group-title="FILMSKI",AXN Adria
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1107
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin" tvg-logo="http://185.180.221.139:82/logo_channels/axnspin.png" group-title="FILMSKI",AXN Spin
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1106
-#EXTINF:-1 tvg-id="" tvg-name="M1 Film HD" tvg-logo="http://185.180.221.139:82/logo_channels/m1film.png" group-title="FILMSKI",M1 Film HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1105
-#EXTINF:-1 tvg-id="m1gold" tvg-name="M1 Film Gold " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/M1-glod_logo.png" group-title="FILMSKI",M1 Film Gold 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7794
-#EXTINF:-1 tvg-id="" tvg-name="M1 Film Family" tvg-logo="" group-title="FILMSKI",M1 Film Family
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81431
-#EXTINF:-1 tvg-id="" tvg-name="Pickbox" tvg-logo="https://www.simpa.hr/webresources/simpa/images/kanali/pickbox.png" group-title="FILMSKI",Pickbox
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7803
-#EXTINF:-1 tvg-id="" tvg-name="Kino TV HD" tvg-logo="http://185.180.221.139:82/logo_channels/kinotv.png" group-title="FILMSKI",Kino TV HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1103
-#EXTINF:-1 tvg-id="" tvg-name="Fox TV" tvg-logo="http://185.180.221.139:82/logo_channels/fox.png" group-title="FILMSKI",Fox TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1100
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life" tvg-logo="https://mtel.ba/oec/images/tv_channels/b7d64cae3e652e7bde76961470a337c4.png" group-title="FILMSKI",FOX Life
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1099
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime " tvg-logo="http://185.180.221.139:82/logo_channels/foxcrime.png" group-title="FILMSKI",Fox Crime 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1101
-#EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/fox-movies-hd-int.png" group-title="FILMSKI",FOX Movies
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1102
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Stars" tvg-logo="https://mtel.ba/oec/images/tv_channels/b4d254c5fbbaa76bb05643dfcd7a149d.png" group-title="FILMSKI",FilmBox Stars
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/40437
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Plus" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/cc8440e18f0631fa9977e9d5fe60c6dd-1.png" group-title="FILMSKI",FilmBox Plus
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7805
-#EXTINF:-1 tvg-id="filmboxextra" tvg-name="FilmBox Extra HD" tvg-logo="https://mtel.ba/oec/images/tv_channels/de2eac73811fba33005fe729f5c680d3.png" group-title="FILMSKI",FilmBox Extra HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/40436
-#EXTINF:-1 tvg-id="tv1000" tvg-name="TV 1000" tvg-logo="http://185.180.221.139:82/logo_channels/tv1000.png" group-title="FILMSKI",TV 1000
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7810
-#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sci-fi-hd.png" group-title="FILMSKI",SciFi
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7811
-#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/3c49f1ea5daed0259122748df62c8135-1.png" group-title="FILMSKI",Epic Drama
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7815
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC Adria" tvg-logo="https://mtel.ba/oec/images/tv_channels/49287db2cc5f8a7e9a66148296a53e4e.png" group-title="FILMSKI",AMC Adria
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7809
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="" group-title="FILMSKI",Nova Cinema 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/48238
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="" group-title="FILMSKI",Nova Cinema 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/48239
-#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 1 ᴴᴰ" tvg-logo="http://cms.narodnatv.info:88/imagess/TOTALCINEMA1.png" group-title="FILMSKI",Total Cinema 1 ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83466
-#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 2 ᴴᴰ" tvg-logo="http://cms.narodnatv.info:88/imagess/TOTALCINEMA2.png" group-title="FILMSKI",Total Cinema 2 ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83467
-#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 3 ᴴᴰ" tvg-logo="http://cms.narodnatv.info:88/imagess/TOTALCINEMA3.png" group-title="FILMSKI",Total Cinema 3 ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83468
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 1 ᴴᴰ" tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 1 ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81423
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 2 ᴴᴰ " tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 2 ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81424
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 3 ᴴᴰ " tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 3 ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81425
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 4 ᴴᴰ " tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 4 ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81426
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 5 ᴴᴰ " tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 5 ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81427
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 6 ᴴᴰ " tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 6 ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81428
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 7 ᴴᴰ " tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 7 ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81429
-#EXTINF:-1 tvg-id="" tvg-name="Cinemacius 8 ᴴᴰ " tvg-logo="http://cms.narodnatv.info:88/imagess/CINEMACIOUS.png" group-title="FILMSKI",Cinemacius 8 ᴴᴰ 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81430
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 1 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/761
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 2 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/762
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 3 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/763
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 4 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/764
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 5 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/765
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 6 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/766
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 7 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/767
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 8 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/768
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 9 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/769
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 10 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/770
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="" group-title="FILMSKI",MAXCRO SELECT 11 HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/771
-#EXTINF:-1 tvg-id="" tvg-name="# # # # # MUZICKI # # # # #" tvg-logo="" group-title="MUZICKI",# # # # # MUZICKI # # # # #
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1892
-#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/idjtv-hd.png" group-title="MUZICKI",IDJ TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3266
-#EXTINF:-1 tvg-id="" tvg-name="Toxic TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/ToxicTV_logo.png" group-title="MUZICKI",Toxic TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/48085
-#EXTINF:-1 tvg-id="" tvg-name="Toxic Folk TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Toxic_Folk_RS_logo.png" group-title="MUZICKI",Toxic Folk TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83470
-#EXTINF:-1 tvg-id="" tvg-name="Toxic Rap TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Toxic_Rap_RS_logo.png" group-title="MUZICKI",Toxic Rap TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83471
-#EXTINF:-1 tvg-id="" tvg-name="UŽIVOTEKA" tvg-logo="http://tv.luzer.org:8080//images//e039cbb21a30cc98999b4924cbf4698a.jpeg" group-title="MUZICKI",UŽIVOTEKA
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83469
-#EXTINF:-1 tvg-id="" tvg-name="KAFANSKA ᴴᴰ" tvg-logo="http://tv.luzer.org:8080//images//4604261b08286c1a141dd1431efce677.jpg" group-title="MUZICKI",KAFANSKA ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83472
-#EXTINF:-1 tvg-id="" tvg-name="Duga TV" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/duga-plus.png" group-title="MUZICKI",Duga TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/87053
-#EXTINF:-1 tvg-id="" tvg-name="GRAND TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Grand_Tv.png" group-title="MUZICKI",GRAND TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1213
-#EXTINF:-1 tvg-id="" tvg-name="GRAND TV 2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/grand-2.png" group-title="MUZICKI",GRAND TV 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1214
-#EXTINF:-1 tvg-id="" tvg-name="DM TV" tvg-logo="https://mtel.ba/oec/images/tv_channels/25cf0c078671027d045882d3180d3358.png" group-title="MUZICKI",DM TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1862
-#EXTINF:-1 tvg-id="" tvg-name="BN Music" tvg-logo="https://mtel.ba/oec/images/tv_channels/970d1df477b5fbcda0bc7d17f23faf19.png" group-title="MUZICKI",BN Music
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1861
-#EXTINF:-1 tvg-id="" tvg-name="PINK Music" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/73393d527ca582f952df9e5458d9822c-1.png" group-title="MUZICKI",PINK Music
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1863
-#EXTINF:-1 tvg-id="" tvg-name="HAYAT FOLK" tvg-logo="https://mtel.ba/oec/images/tv_channels/89a078044a7675fa2e9c51359177a525.png" group-title="MUZICKI",HAYAT FOLK
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3441
-#EXTINF:-1 tvg-id="" tvg-name="Hayat Music" tvg-logo="https://mtel.ba/oec/images/tv_channels/911df3adc331a6bc21a93dfdb05408c5.png" group-title="MUZICKI",Hayat Music
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3442
-#EXTINF:-1 tvg-id="" tvg-name="CMC TV" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/cmc-tv.png" group-title="MUZICKI",CMC TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3438
-#EXTINF:-1 tvg-id="" tvg-name="JUGOTON" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/jugoton.png" group-title="MUZICKI",JUGOTON
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3433
-#EXTINF:-1 tvg-id="" tvg-name="Sehara TV" tvg-logo="http://cms.narodnatv.info:88/imagess/TVSehara.png" group-title="MUZICKI",Sehara TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3443
-#EXTINF:-1 tvg-id="" tvg-name="SEVDAH TV" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/sevdah-tv.png" group-title="MUZICKI",SEVDAH TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3434
-#EXTINF:-1 tvg-id="" tvg-name="TOP SOUND" tvg-logo="https://tvtopsound.com/design/topsound.png" group-title="MUZICKI",TOP SOUND
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3432
-#EXTINF:-1 tvg-id="" tvg-name="BALKANIKA" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/balkanika.png" group-title="MUZICKI",BALKANIKA
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3435
-#EXTINF:-1 tvg-id="" tvg-name="PINK FOLK 1" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/c3ac4dc73d3de70e31e8ca5c3ae102d0-1.png" group-title="MUZICKI",PINK FOLK 1
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3439
-#EXTINF:-1 tvg-id="" tvg-name="PINK FOLK 2" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/def498e9e71c9f89cfec58d19563a5b6-1.png" group-title="MUZICKI",PINK FOLK 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3440
-#EXTINF:-1 tvg-id="" tvg-name="YU PLANET" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/yu_planet.png" group-title="MUZICKI",YU PLANET
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/5904
-#EXTINF:-1 tvg-id="" tvg-name="OTV Valentino" tvg-logo="https://mtel.ba/oec/images/tv_channels/7b5aa9308ef5b7bbd13912b1872545b1.png" group-title="MUZICKI",OTV Valentino
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/32504
-#EXTINF:-1 tvg-id="" tvg-name="BG: Planeta FOLK" tvg-logo="https://static.wikia.nocookie.net/bulgarian-televisions/images/4/40/Planeta_folk.png" group-title="MUZICKI",BG: Planeta FOLK
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/32505
-#EXTINF:-1 tvg-id="" tvg-name="BG: Folkor TV" tvg-logo="https://www.arax.md/assets/channels/97.png" group-title="MUZICKI",BG: Folkor TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/32506
-#EXTINF:-1 tvg-id="" tvg-name="BG: Balkanika TV" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/balkanika.png" group-title="MUZICKI",BG: Balkanika TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/32507
-#EXTINF:-1 tvg-id="" tvg-name="Sezam" tvg-logo="https://www.klikdofirme.com/private/galerija/thumb/2013-04-25_22-07-07-sezam-produkcija-logo.png" group-title="MUZICKI",Sezam
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/44799
-#EXTINF:-1 tvg-id="" tvg-name="Imperia TV" tvg-logo="https://imperia.tv/wp-content/uploads/2019/08/Logo-Imperia-325px-300x107.png" group-title="MUZICKI",Imperia TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81404
-#EXTINF:-1 tvg-id="" tvg-name="Amari TV" tvg-logo="https://media.amaritv.tv/2019/05/amari_logo.png" group-title="MUZICKI",Amari TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81405
-#EXTINF:-1 tvg-id="" tvg-name="ALTEA TV" tvg-logo="" group-title="MUZICKI",ALTEA TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81449
-#EXTINF:-1 tvg-id="" tvg-name="Klape i Tambure" tvg-logo="" group-title="MUZICKI",Klape i Tambure
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81456
-#EXTINF:-1 tvg-id="" tvg-name="Altea TV" tvg-logo="" group-title="MUZICKI",Altea TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81458
-#EXTINF:-1 tvg-id="" tvg-name="Balkan TV Salzburg" tvg-logo="https://tvprofil.com/img/kanali-logo/Balkan_TV_logo.png" group-title="MUZICKI",Balkan TV Salzburg
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/83648
-#EXTINF:-1 tvg-id="" tvg-name="# # # # DJECIJI # # # #" tvg-logo="" group-title="DJECIJI",# # # # DJECIJI # # # #
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1885
-#EXTINF:-1 tvg-id="" tvg-name="MASA I MEDO" tvg-logo="https://vignette.wikia.nocookie.net/masha-and-bear/images/a/a9/Masha_and_the_Bear.png" group-title="DJECIJI",MASA I MEDO
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1886
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://mtel.ba/oec/images/tv_channels/51fd3226a9d6378ddad51d29c6e8d429.png" group-title="DJECIJI",BABY TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3267
-#EXTINF:-1 tvg-id="" tvg-name="MINIMAX" tvg-logo="http://dujpral.ddns.me:82/images/c3103cdb94b53caf8901db0edc686039.png" group-title="DJECIJI",MINIMAX
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1887
-#EXTINF:-1 tvg-id="" tvg-name="RTL KOCKICA" tvg-logo="https://mtel.ba/oec/images/tv_channels/aebf0e291d1717c257f1e9fe50e36b09.png" group-title="DJECIJI",RTL KOCKICA
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1890
-#EXTINF:-1 tvg-id="" tvg-name="HAYATOVCI" tvg-logo="https://mtel.ba/oec/images/tv_channels/ea6ac866213bb6aa1f83c45745a8d2db.png" group-title="DJECIJI",HAYATOVCI
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1891
-#EXTINF:-1 tvg-id="" tvg-name="PINK KIDS" tvg-logo="https://mtel.ba/oec/images/tv_channels/b28e099d60993632545fcc8d58ecea3c.png" group-title="DJECIJI",PINK KIDS
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1888
-#EXTINF:-1 tvg-id="" tvg-name="TOM AND JERRY" tvg-logo="https://w1.pngwing.com/pngs/567/292/png-transparent-cat-and-dog-tom-cat-jerry-mouse-tom-and-jerry-drawing-tom-and-jerry-show-mouse-in-manhattan-bowling-alley-cat-thumbnail.png" group-title="DJECIJI",TOM AND JERRY
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1889
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry 24 h" tvg-logo="https://w1.pngwing.com/pngs/567/292/png-transparent-cat-and-dog-tom-cat-jerry-mouse-tom-and-jerry-drawing-tom-and-jerry-show-mouse-in-manhattan-bowling-alley-cat-thumbnail.png" group-title="DJECIJI",Tom and Jerry 24 h
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3415
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/cartoon_network/9007-3-cro-HR/cartoon_network_tvchannel_list.png" group-title="DJECIJI",Cartoon Network
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3416
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/boomerang/9058-7-cro-HR/boomerang_tvchannel_list.png" group-title="DJECIJI",Boomerang
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3418
-#EXTINF:-1 tvg-id="" tvg-name="Disney channel" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/disney-channel.png" group-title="DJECIJI",Disney channel
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3419
-#EXTINF:-1 tvg-id="" tvg-name="Mini Ultra TV" tvg-logo="https://mojtv.hr/m2/img/ch/449.png" group-title="DJECIJI",Mini Ultra TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3420
-#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/fffde94ae7ae03e12163b4a8a9200b05-1.png" group-title="DJECIJI",Minimax
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3421
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://mtel.ba/oec/images/tv_channels/51fd3226a9d6378ddad51d29c6e8d429.png" group-title="DJECIJI",BABY TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3417
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://mtel.ba/oec/images/tv_channels/9d17dd070e37bf42aa027f56bed39a7d.png" group-title="DJECIJI",Nick Jr.
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3422
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://mtel.ba/oec/images/tv_channels/750153266ca6d79dc0aecdf991a84811.png" group-title="DJECIJI",Nickelodeon
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3423
-#EXTINF:-1 tvg-id="" tvg-name="Ultra TV" tvg-logo="https://mojtv.hr/m2/img/ch/448.png" group-title="DJECIJI",Ultra TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3424
-#EXTINF:-1 tvg-id="" tvg-name="TNT Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/TNT_KIDS_TV.png" group-title="DJECIJI",TNT Kids
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3425
-#EXTINF:-1 tvg-id="" tvg-name="Pikaboo" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/pikaboo-hd.png" group-title="DJECIJI",Pikaboo
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/3427
-#EXTINF:-1 tvg-id="" tvg-name="# # # # # DOKUMENTARNI # # # # #" tvg-logo="" group-title="DOKUMENTARNI",# # # # # DOKUMENTARNI # # # # #
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1884
-#EXTINF:-1 tvg-id="" tvg-name="National Geografic Wild" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/6a193231b7fbe9952f01d69a9b65ba52-1.png" group-title="DOKUMENTARNI",National Geografic Wild
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1874
-#EXTINF:-1 tvg-id="natgeo" tvg-name="National Geographic HD" tvg-logo="https://mtel.ba/oec/images/tv_channels/17e3f63bfc1f16eea9110eef8b75beb1.png" group-title="DOKUMENTARNI",National Geographic HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1875
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://mtel.ba/oec/images/tv_channels/b109c02c3342f800f374e43bfacd8588.png" group-title="DOKUMENTARNI",Animal Planet
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1876
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://vimg.siol.tv/sioltv/logo2/150x80/discovery_updated16919122033.png" group-title="DOKUMENTARNI",Discovery Channel
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1877
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation  HD " tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/765da54294ff970a3089779a8e83920f-1.png" group-title="DOKUMENTARNI",Discovery Investigation  HD 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4860
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://vimg.siol.tv/sioltv/logo2/150x80/discsci_updated71117090734.png" group-title="DOKUMENTARNI",Discovery Science
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4861
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/d6903fa98030827abbb6764f7f044e94-1.png" group-title="DOKUMENTARNI",Crime Investigation
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4867
-#EXTINF:-1 tvg-id="history" tvg-name="History Channel" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/16e5fc5614b9b939876bdca800c70cf7-1.png" group-title="DOKUMENTARNI",History Channel
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4864
-#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/d0f52688b86356797fcc446829d30d7d-1.png" group-title="DOKUMENTARNI",History 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1880
-#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC earth" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/bbc-earth-hd.png" group-title="DOKUMENTARNI",BBC earth
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1878
-#EXTINF:-1 tvg-id="viasathis" tvg-name="Viasat History" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/8f29bae3db02a8e21f236a72e53f4501.png" group-title="DOKUMENTARNI",Viasat History
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4865
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Explorer" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/8f0d152afa45e7b0107f3a6bdf1661d5-1.png" group-title="DOKUMENTARNI",Viasat Explorer
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1881
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="https://mtel.ba/oec/images/tv_channels/9e618f72f361f1cf6f6c5a6b108a11ad.png" group-title="DOKUMENTARNI",Viasat Nature
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1882
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel " tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/3892e582feaf1d7612f957fbc89497f4-1.png" group-title="DOKUMENTARNI",Travel Channel 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4869
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP ᴴᴰ" tvg-logo="https://vimg.siol.tv/sioltv/logo2/150x80/travelxphd_updated5319143644.png" group-title="DOKUMENTARNI",Travel XP ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7455
-#EXTINF:-1 tvg-id="loviribolov" tvg-name="Lov i Ribolov" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/9fe406d19259f6e591ffe24edcd60ee9-1.png" group-title="DOKUMENTARNI",Lov i Ribolov
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1883
-#EXTINF:-1 tvg-id="" tvg-name="DOX TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DoxTV_logo.png" group-title="DOKUMENTARNI",DOX TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/61527
-#EXTINF:-1 tvg-id="" tvg-name="DocuBox HD" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/bc970a9dd779d588a2691b7f13d71a00-1.png" group-title="DOKUMENTARNI",DocuBox HD
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7812
-#EXTINF:-1 tvg-id="hrt1" tvg-name="Doku TV ᴴᴰ" tvg-logo="https://mojtv.hr/m2/img/ch/614.png" group-title="DOKUMENTARNI",Doku TV ᴴᴰ
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7816
-#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/7169451eedd7a65c981403e7ae7b136b-1.png" group-title="DOKUMENTARNI",24 Kitchen
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7817
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://mojtv.hr/m2/img/ch/265.png" group-title="DOKUMENTARNI",Food Network
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7814
-#EXTINF:-1 tvg-id="" tvg-name="TLC " tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/2d42974857e7bca337d6c4f227cf3276-1.png" group-title="DOKUMENTARNI",TLC 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4859
-#EXTINF:-1 tvg-id="cbsreality" tvg-name="CBS Reality" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/61e91911bc3acf2d44a0b9021e771e2f-1.png" group-title="DOKUMENTARNI",CBS Reality
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4862
-#EXTINF:-1 tvg-id="hrt1" tvg-name="Planet Earth" tvg-logo="https://mojtv.hr/m2/img/ch/508.png" group-title="DOKUMENTARNI",Planet Earth
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/7813
-#EXTINF:-1 tvg-id="eenterntainment" tvg-name="E! / Entertainment" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/e-entertainment.png" group-title="DOKUMENTARNI",E! / Entertainment
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4866
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci Learning " tvg-logo="https://vimg.siol.tv/sioltv/logo2/150x80/davincilear_updated8118113037.png" group-title="DOKUMENTARNI",Da Vinci Learning 
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/4868
-#EXTINF:-1 tvg-id="HistoryChannel" tvg-name="HISTORY CHANNEL" tvg-logo="https://mtel.ba/oec/images/tv_channels/b68299e0c67107f392a953f567054307.png" group-title="DOKUMENTARNI",HISTORY CHANNEL
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/1879
-#EXTINF:-1 tvg-id="" tvg-name="EDU TV" tvg-logo="" group-title="DOKUMENTARNI",EDU TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81406
-#EXTINF:-1 tvg-id="" tvg-name="BEE TV" tvg-logo="" group-title="DOKUMENTARNI",BEE TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81407
-#EXTINF:-1 tvg-id="" tvg-name="DR TV" tvg-logo="" group-title="DOKUMENTARNI",DR TV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81408
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="DOKUMENTARNI",HGTV
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81409
-#EXTINF:-1 tvg-id="" tvg-name="HRT DOCUMENTARY" tvg-logo="" group-title="DOKUMENTARNI",HRT DOCUMENTARY
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81410
-#EXTINF:-1 tvg-id="" tvg-name="RTL DOCUMENTARY" tvg-logo="" group-title="DOKUMENTARNI",RTL DOCUMENTARY
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81411
-#EXTINF:-1 tvg-id="" tvg-name="NOVA DOCUMENTARY" tvg-logo="" group-title="DOKUMENTARNI",NOVA DOCUMENTARY
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81412
-#EXTINF:-1 tvg-id="" tvg-name="NOVA DOCUMENTARY 2" tvg-logo="" group-title="DOKUMENTARNI",NOVA DOCUMENTARY 2
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81413
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE 4K" tvg-logo="" group-title="DOKUMENTARNI",LOVE NATURE 4K
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/81452
-#EXTINF:-1 tvg-id="" tvg-name="Russia Today News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="DOKUMENTARNI",Russia Today News
-http://myhost-net.ddns.me:82/Fikret@Komic/HYdN2OCiho/93455
+#EXTINF:-1 tvg-id="" tvg-name="☆☆ Movies ☆☆" tvg-logo="http://smartntv.pro/logokanali/film/movv.png" group-title="☆☆ Film & Serije ☆☆",☆☆ Movies ☆☆
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6461
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://smartntv.pro/logokanali/film/amcc.png" group-title="☆☆ Film & Serije ☆☆",AMC
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6462
+#EXTINF:-1 tvg-id="axn" tvg-name="Axn Adria" tvg-logo="http://smartntv.pro/logokanali/film/axnn.png" group-title="☆☆ Film & Serije ☆☆",Axn Adria
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13476
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="http://smartntv.pro/logokanali/film/axnspinn.png" group-title="☆☆ Film & Serije ☆☆",AXN Spin
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6464
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/hboadria.png" group-title="☆☆ Film & Serije ☆☆",HBO Adria ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6465
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/hbo22.png" group-title="☆☆ Film & Serije ☆☆",HBO 2 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6466
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/hbo33.png" group-title="☆☆ Film & Serije ☆☆",HBO 3 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6467
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="Cinestar TV 1 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cinetv1.png" group-title="☆☆ Film & Serije ☆☆",Cinestar TV 1 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6473
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="Cinestar TV 2" tvg-logo="http://smartntv.pro/logokanali/film/cinetv2.png" group-title="☆☆ Film & Serije ☆☆",Cinestar TV 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/9636
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="http://smartntv.pro/logokanali/film/cineaction.png" group-title="☆☆ Film & Serije ☆☆",Cinestar Action
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6474
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="Cinestar Comedy" tvg-logo="http://smartntv.pro/logokanali/film/cinecomed.png" group-title="☆☆ Film & Serije ☆☆",Cinestar Comedy
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/14010
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="Cinestar Fantasy ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cinefantasy.png" group-title="☆☆ Film & Serije ☆☆",Cinestar Fantasy ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6475
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="Cinestar Premiere 1 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cinepremiere1.png" group-title="☆☆ Film & Serije ☆☆",Cinestar Premiere 1 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6476
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="Cinestar Premiere 2 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cinepremiere2.png" group-title="☆☆ Film & Serije ☆☆",Cinestar Premiere 2 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6477
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cinemaxx.png" group-title="☆☆ Film & Serije ☆☆",Cinemax 1 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6469
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1 L2" tvg-logo="http://smartntv.pro/logokanali/film/cinemaxx.png" group-title="☆☆ Film & Serije ☆☆",Cinemax 1 L2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6470
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cinemaxx2.png" group-title="☆☆ Film & Serije ☆☆",Cinemax 2 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6471
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2 L2" tvg-logo="http://smartntv.pro/logokanali/film/cinemaxx2.png" group-title="☆☆ Film & Serije ☆☆",Cinemax 2 L2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6472
+#EXTINF:-1 tvg-id="cinemania" tvg-name="Cineman" tvg-logo="http://smartntv.pro/logokanali/film/cinemmann.png" group-title="☆☆ Film & Serije ☆☆",Cineman
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13450
+#EXTINF:-1 tvg-id="film-klub" tvg-name="Film Klub" tvg-logo="http://smartntv.pro/logokanali/film/fkk.png" group-title="☆☆ Film & Serije ☆☆",Film Klub
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/15398
+#EXTINF:-1 tvg-id="fox" tvg-name="Fox TV ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/foxx.png" group-title="☆☆ Film & Serije ☆☆",Fox TV ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6481
+#EXTINF:-1 tvg-id="fox" tvg-name="Fox TV Backup" tvg-logo="http://smartntv.pro/logokanali/film/foxx.png" group-title="☆☆ Film & Serije ☆☆",Fox TV Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27376
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/foxxcrime.png" group-title="☆☆ Film & Serije ☆☆",Fox Crime ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6483
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime Backup" tvg-logo="http://smartntv.pro/logokanali/film/foxxcrime.png" group-title="☆☆ Film & Serije ☆☆",Fox Crime Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27377
+#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/foxxlife.png" group-title="☆☆ Film & Serije ☆☆",Fox Life ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6484
+#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life Backup" tvg-logo="http://smartntv.pro/logokanali/film/foxxlife.png" group-title="☆☆ Film & Serije ☆☆",Fox Life Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27372
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/foxxmovies.png" group-title="☆☆ Film & Serije ☆☆",Fox Movies ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6482
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies Backup" tvg-logo="http://smartntv.pro/logokanali/film/foxxmovies.png" group-title="☆☆ Film & Serije ☆☆",Fox Movies Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27378
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/epiccdrama.png" group-title="☆☆ Film & Serije ☆☆",Epic Drama ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/9638
+#EXTINF:-1 tvg-id="htv1" tvg-name="Euro Cinema 1  (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/Euro_Cinema_1_RS_logo.png" group-title="☆☆ Film & Serije ☆☆",Euro Cinema 1  (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27348
+#EXTINF:-1 tvg-id="htv1" tvg-name="Euro Cinema 2  (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/Euro_Cinema_2_RS_logo.png" group-title="☆☆ Film & Serije ☆☆",Euro Cinema 2  (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27349
+#EXTINF:-1 tvg-id="htv1" tvg-name="Euro Cinema 3  (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/Euro_Cinema_3_RS_logo.png" group-title="☆☆ Film & Serije ☆☆",Euro Cinema 3  (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27350
+#EXTINF:-1 tvg-id="htv1" tvg-name="Euro Cinema 4  (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/Euro_Cinema_4_RS_logo.png" group-title="☆☆ Film & Serije ☆☆",Euro Cinema 4  (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27351
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="http://smartntv.pro/logokanali/film/1000.png" group-title="☆☆ Film & Serije ☆☆",TV 1000
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/16780
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickBox TV" tvg-logo="http://smartntv.pro/logokanali/film/pickboxtvv.png" group-title="☆☆ Film & Serije ☆☆",PickBox TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/9637
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/kinoo.png" group-title="☆☆ Film & Serije ☆☆",Kino TV ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6488
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://smartntv.pro/logokanali/film/klasikk.png" group-title="☆☆ Film & Serije ☆☆",KLASIK TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6487
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/m11.png" group-title="☆☆ Film & Serije ☆☆",M1 Film ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6485
+#EXTINF:-1 tvg-id="m1-family" tvg-name="M1 Family" tvg-logo="http://smartntv.pro/logokanali/film/m1fam.png" group-title="☆☆ Film & Serije ☆☆",M1 Family
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/15201
+#EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="http://smartntv.pro/logokanali/film/m1goldd.png" group-title="☆☆ Film & Serije ☆☆",M1 Film Gold
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/9640
+#EXTINF:-1 tvg-id="pink-timeout" tvg-name="TimeOut" tvg-logo="http://smartntv.pro/logokanali/film/timeout.png" group-title="☆☆ Film & Serije ☆☆",TimeOut
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26349
+#EXTINF:-1 tvg-id="filmbox-extra" tvg-name="Filmbox Extra" tvg-logo="http://smartntv.pro/logokanali/film/filmboxextraa.png" group-title="☆☆ Film & Serije ☆☆",Filmbox Extra
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26351
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Premium" tvg-logo="http://smartntv.pro/logokanali/film/filmboxprem.png" group-title="☆☆ Film & Serije ☆☆",Filmbox Premium
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28382
+#EXTINF:-1 tvg-id="filmbox-plus" tvg-name="Filmbox Stars" tvg-logo="http://smartntv.pro/logokanali/film/filmboxstarss.png" group-title="☆☆ Film & Serije ☆☆",Filmbox Stars
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26350
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA TV" tvg-logo="http://smartntv.pro/logokanali/film/divva.png" group-title="☆☆ Film & Serije ☆☆",DIVA TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6489
+#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="http://smartntv.pro/logokanali/film/scif.png" group-title="☆☆ Film & Serije ☆☆",Sci-Fi
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28289
+#EXTINF:-1 tvg-id="" tvg-name="Andrija i Andjelka 24/7" tvg-logo="http://smartntv.pro/logokanali/film/movv.png" group-title="☆☆ Film & Serije ☆☆",Andrija i Andjelka 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26354
+#EXTINF:-1 tvg-id="" tvg-name="Dva i pol Muskarca 24/7 (TEST)" tvg-logo="http://smartntv.pro/logokanali/film/movv.png" group-title="☆☆ Film & Serije ☆☆",Dva i pol Muskarca 24/7 (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28612
+#EXTINF:-1 tvg-id="" tvg-name="Friends 24/7" tvg-logo="http://smartntv.pro/logokanali/film/movv.png" group-title="☆☆ Film & Serije ☆☆",Friends 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26355
+#EXTINF:-1 tvg-id="" tvg-name="Mala supruga 24/7 (TEST)" tvg-logo="http://smartntv.pro/logokanali/film/movv.png" group-title="☆☆ Film & Serije ☆☆",Mala supruga 24/7 (TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28611
+#EXTINF:-1 tvg-id="" tvg-name="Mucke 24/7(TEST)" tvg-logo="http://smartntv.pro/logokanali/film/movv.png" group-title="☆☆ Film & Serije ☆☆",Mucke 24/7(TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28613
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Action" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Film & Serije ☆☆",Balkan Action
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28290
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Crime" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Film & Serije ☆☆",Balkan Crime
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28291
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Comedy" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Film & Serije ☆☆",Balkan Comedy
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28295
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Drama" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Film & Serije ☆☆",Balkan Drama
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28292
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Thriller" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Film & Serije ☆☆",Balkan Thriller
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28294
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Sci-fi" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Film & Serije ☆☆",Balkan Sci-fi
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28297
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Horror" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Film & Serije ☆☆",Balkan Horror
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28293
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 1 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 1 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12983
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12984
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 3 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 3 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12985
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 4 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 4 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12986
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 5 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 5 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12987
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 6 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 6 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12988
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 7 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 7 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12989
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 8 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 8 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12990
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 9 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 9 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12991
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 10 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 10 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12992
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 11 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",CroMax Select 11 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12993
+#EXTINF:-1 tvg-id="" tvg-name="Cromax GORA 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Cromax GORA 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12996
+#EXTINF:-1 tvg-id="" tvg-name="Gora Premiere 1" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Gora Premiere 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26352
+#EXTINF:-1 tvg-id="" tvg-name="Gora Premiere 2" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Gora Premiere 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26353
+#EXTINF:-1 tvg-id="" tvg-name="Cromax GORA 3 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Cromax GORA 3 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12997
+#EXTINF:-1 tvg-id="" tvg-name="Cromax GORA 4 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Cromax GORA 4 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12998
+#EXTINF:-1 tvg-id="" tvg-name="Cromax GORA 5 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Cromax GORA 5 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12999
+#EXTINF:-1 tvg-id="" tvg-name="Cromax GORA 6 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Cromax GORA 6 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13000
+#EXTINF:-1 tvg-id="" tvg-name="Cromax GORA 7 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Film & Serije ☆☆",Cromax GORA 7 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13001
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="☆☆ Docu & Style ☆☆" tvg-logo="http://smartntv.pro/logokanali/docu/doxx.png" group-title="☆☆ Docu & Style ☆☆",☆☆ Docu & Style ☆☆
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6490
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/animall2.png" group-title="☆☆ Docu & Style ☆☆",Animal Planet ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13471
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBCEarth ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/eartt.png" group-title="☆☆ Docu & Style ☆☆",BBCEarth ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6514
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="http://smartntv.pro/logokanali/docu/cbsreall.png" group-title="☆☆ Docu & Style ☆☆",CBS Reality
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6508
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://smartntv.pro/logokanali/docu/dalearning.png" group-title="☆☆ Docu & Style ☆☆",Da Vinci Learning
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6492
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Discovery ID" tvg-logo="http://smartntv.pro/logokanali/docu/idii.png" group-title="☆☆ Docu & Style ☆☆",Discovery ID
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13472
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery" tvg-logo="http://smartntv.pro/logokanali/docu/disco.png" group-title="☆☆ Docu & Style ☆☆",Discovery
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13469
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery L2" tvg-logo="http://smartntv.pro/logokanali/docu/disco.png" group-title="☆☆ Docu & Style ☆☆",Discovery L2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12963
+#EXTINF:-1 tvg-id="discovery-turbo-extra" tvg-name="Discovery Turbo Xtra ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/dtxx.png" group-title="☆☆ Docu & Style ☆☆",Discovery Turbo Xtra ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6495
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/docuscii.png" group-title="☆☆ Docu & Style ☆☆",Discovery Science ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6496
+#EXTINF:-1 tvg-id="doku-tv" tvg-name="DokuTV ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/dokutv.png" group-title="☆☆ Docu & Style ☆☆",DokuTV ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6499
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/docuboxx.png" group-title="☆☆ Docu & Style ☆☆",DocuBox ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6500
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="http://smartntv.pro/logokanali/film/hgtv.png" group-title="☆☆ Film & Serije ☆☆",HGTV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/25956
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/his.png" group-title="☆☆ Docu & Style ☆☆",History ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6503
+#EXTINF:-1 tvg-id="" tvg-name="History Backup" tvg-logo="http://smartntv.pro/logokanali/docu/his.png" group-title="☆☆ Docu & Style ☆☆",History Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28791
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History 2 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/h222.png" group-title="☆☆ Docu & Style ☆☆",History 2 ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6504
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Investigation ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/crimeinves.png" group-title="☆☆ Docu & Style ☆☆",Crime & Investigation ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6506
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/natgeooo.png" group-title="☆☆ Docu & Style ☆☆",National Geographic ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6501
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="Nat Geo Wild ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/wildd.png" group-title="☆☆ Docu & Style ☆☆",Nat Geo Wild ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6502
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explore ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/expppp.png" group-title="☆☆ Docu & Style ☆☆",Viasat Explore ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13473
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/histtt.png" group-title="☆☆ Docu & Style ☆☆",Viasat History ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13474
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://smartntv.pro/logokanali/docu/naturr.png" group-title="☆☆ Docu & Style ☆☆",Viasat Nature
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13475
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/trvll.png" group-title="☆☆ Docu & Style ☆☆",Travel Channel ʜᴅ/ғʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6517
+#EXTINF:-1 tvg-id="" tvg-name="Edu TV" tvg-logo="http://smartntv.pro/logokanali/docu/eduu.png" group-title="☆☆ Docu & Style ☆☆",Edu TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26770
+#EXTINF:-1 tvg-id="balkan-trip" tvg-name="Balkan Trip" tvg-logo="http://smartntv.pro/logokanali/docu/trip.png" group-title="☆☆ Docu & Style ☆☆",Balkan Trip
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20365
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlcc.png" group-title="☆☆ Docu & Style ☆☆",TLC
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13470
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/ee.png" group-title="☆☆ Docu & Style ☆☆",E! Entertainment ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6515
+#EXTINF:-1 tvg-id="planet-earth" tvg-name="Planet Earth Adria ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/docu/plantaearth.png" group-title="☆☆ Docu & Style ☆☆",Planet Earth Adria ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6507
+#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="Comedy Central" tvg-logo="http://smartntv.pro/logokanali/docu/comedycentral.png" group-title="☆☆ Docu & Style ☆☆",Comedy Central
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6505
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network Channel" tvg-logo="http://smartntv.pro/logokanali/docu/food.png" group-title="☆☆ Docu & Style ☆☆",Food Network Channel
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6509
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov&Ribolv" tvg-logo="http://smartntv.pro/logokanali/docu/lovrib.png" group-title="☆☆ Docu & Style ☆☆",Lov&Ribolv
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13458
+#EXTINF:-1 tvg-id="" tvg-name="NasaTV(TEST)" tvg-logo="http://smartntv.pro/logokanali/docu/nass.png" group-title="☆☆ Docu & Style ☆☆",NasaTV(TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26267
+#EXTINF:-1 tvg-id="dox-tv" tvg-name="DOX TV" tvg-logo="http://smartntv.pro/logokanali/docu/doxx.png" group-title="☆☆ Docu & Style ☆☆",DOX TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26358
+#EXTINF:-1 tvg-id="" tvg-name="TV DR" tvg-logo="http://smartntv.pro/logokanali/docu/drr.png" group-title="☆☆ Docu & Style ☆☆",TV DR
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26360
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="http://smartntv.pro/logokanali/docu/24kit.png" group-title="☆☆ Docu & Style ☆☆",24 Kitchen
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6519
+#EXTINF:-1 tvg-id="" tvg-name="BEE TV" tvg-logo="http://smartntv.pro/logokanali/docu/beeee.png" group-title="☆☆ Docu & Style ☆☆",BEE TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27362
+#EXTINF:-1 tvg-id="kitchentv" tvg-name="Kitchen TV" tvg-logo="http://smartntv.pro/logokanali/docu/kicc.png" group-title="☆☆ Docu & Style ☆☆",Kitchen TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26891
+#EXTINF:-1 tvg-id="fishing-hunting" tvg-name="Fishing & Hunting" tvg-logo="http://smartntv.pro/logokanali/docu/fishh.png" group-title="☆☆ Docu & Style ☆☆",Fishing & Hunting
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26359
+
+#EXTINF:-1 tvg-id="PinkKids" tvg-name="☆☆ Kids ☆☆" tvg-logo="http://smartntv.pro/logokanali/kids/kidds.png" group-title="☆☆ Kids ☆☆",☆☆ Kids ☆☆
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6520
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="http://smartntv.pro/logokanali/kids/babbyy.png" group-title="☆☆ Kids ☆☆",Baby TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6531
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://smartntv.pro/logokanali/kids/kartuunn.png" group-title="☆☆ Kids ☆☆",Cartoon Network
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6524
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/kids/kocckic.png" group-title="☆☆ Kids ☆☆",RTL Kockica ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6525
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/kids/Hayatovci.png" group-title="☆☆ Kids ☆☆",Hayatovci ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6521
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://smartntv.pro/logokanali/kids/nicckk.png" group-title="☆☆ Kids ☆☆",Nickelodeon
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6522
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="http://smartntv.pro/logokanali/kids/nicckk.png" group-title="☆☆ Kids ☆☆",Nick Jr.
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6523
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick JR Backup" tvg-logo="http://smartntv.pro/logokanali/kids/nicckk.png" group-title="☆☆ Kids ☆☆",Nick JR Backup
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26874
+#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikabo" tvg-logo="http://smartntv.pro/logokanali/kids/pkbuu1.png" group-title="☆☆ Kids ☆☆",Pikabo
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13451
+#EXTINF:-1 tvg-id="minitv" tvg-name="MiniTv" tvg-logo="http://smartntv.pro/logokanali/kids/minitv.png" group-title="☆☆ Kids ☆☆",MiniTv
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13463
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="http://smartntv.pro/logokanali/kids/minmax.png" group-title="☆☆ Kids ☆☆",Minimax
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13465
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="http://smartntv.pro/logokanali/kids/pkidds.png" group-title="☆☆ Kids ☆☆",Pink Kids
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6528
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="http://smartntv.pro/logokanali/kids/sprkid.png" group-title="☆☆ Kids ☆☆",Pink Super Kids
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6529
+#EXTINF:-1 tvg-id="tnt-kids" tvg-name="TNT Kids" tvg-logo="http://smartntv.pro/logokanali/kids/tnttt.png" group-title="☆☆ Kids ☆☆",TNT Kids
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6530
+#EXTINF:-1 tvg-id="kika" tvg-name="Kika DE" tvg-logo="http://smartntv.pro/logokanali/kids/kikad.png" group-title="☆☆ Kids ☆☆",Kika DE
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6533
+#EXTINF:-1 tvg-id="" tvg-name="Masha & Bear" tvg-logo="http://smartntv.pro/logokanali/kids/massa.png" group-title="☆☆ Kids ☆☆",Masha & Bear
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6534
+#EXTINF:-1 tvg-id="htv1" tvg-name="Tom & Jerry" tvg-logo="http://smartntv.pro/logokanali/kids/tommmi.png" group-title="☆☆ Kids ☆☆",Tom & Jerry
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6535
+#EXTINF:-1 tvg-id="" tvg-name="Kazbuka TV" tvg-logo="http://smartntv.pro/logokanali/kids/kazzzbukk.png" group-title="☆☆ Kids ☆☆",Kazbuka TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28298
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="http://smartntv.pro/logokanali/kids/disssny.png" group-title="☆☆ Kids ☆☆",Disney Channel
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6536
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior DE" tvg-logo="http://smartntv.pro/logokanali/kids/disnejjr.png" group-title="☆☆ Kids ☆☆",Disney Junior DE
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6537
+#EXTINF:-1 tvg-id="nickelodeon-de" tvg-name="Nickelodeon DE" tvg-logo="http://smartntv.pro/logokanali/kids/nicckk.png" group-title="☆☆ Kids ☆☆",Nickelodeon DE
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6541
+#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="NickToons" tvg-logo="http://smartntv.pro/logokanali/kids/nicckk.png" group-title="☆☆ Kids ☆☆",NickToons
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/9641
+#EXTINF:-1 tvg-id="" tvg-name="DuckTv" tvg-logo="https://tvprofil.com/img/kanali-logo/ducktv_logo.png" group-title="☆☆ Kids ☆☆",DuckTv
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26265
+#EXTINF:-1 tvg-id="" tvg-name="IDJ Kids" tvg-logo="http://smartntv.pro/logokanali/kids/idddkid.png" group-title="☆☆ Kids ☆☆",IDJ Kids
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28301
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="https://tvprofil.com/img/kanali-logo/jimjam-logo.png" group-title="☆☆ Kids ☆☆",JimJam
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26361
+#EXTINF:-1 tvg-id="fix-foxi" tvg-name="DE: Fix & Foxi" tvg-logo="https://tvprofil.com/img/kanali-logo/fix_and_foxi_logo.png" group-title="☆☆ Kids ☆☆",DE: Fix & Foxi
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26362
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito TV" tvg-logo="http://smartntv.pro/logokanali/kids/carttunitt.png" group-title="☆☆ Kids ☆☆",Cartoonito TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28390
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Kids 1" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Kids ☆☆",Balkan Kids 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28299
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Kids 2" tvg-logo="http://smartntv.pro/logokanali/Novi/0423/balkan.png" group-title="☆☆ Kids ☆☆",Balkan Kids 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28300
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Kids ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Kids ☆☆",CroMax Select Kids ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12994
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Kids 2 ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/film/cromaxx.png" group-title="☆☆ Kids ☆☆",CroMax Select Kids 2 ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12995
+#EXTINF:-1 tvg-id="" tvg-name="Alvin i Vjeverice 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/alvvin.png" group-title="☆☆ Kids ☆☆",Alvin i Vjeverice 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28308
+#EXTINF:-1 tvg-id="" tvg-name="Bob Graditelj 24/7 " tvg-logo="http://smartntv.pro/logokanali/kids/bobbb.png" group-title="☆☆ Kids ☆☆",Bob Graditelj 24/7 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26298
+#EXTINF:-1 tvg-id="" tvg-name="Dora i prijatelji 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/dorra.png" group-title="☆☆ Kids ☆☆",Dora i prijatelji 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26301
+#EXTINF:-1 tvg-id="" tvg-name="Dusko Dugousko 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/dussko.png" group-title="☆☆ Kids ☆☆",Dusko Dugousko 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28615
+#EXTINF:-1 tvg-id="dexy-tv" tvg-name="Dexy TV(TEST)" tvg-logo="http://smartntv.pro/logokanali/kids/dexxxy1.png" group-title="☆☆ Kids ☆☆",Dexy TV(TEST)
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27368
+#EXTINF:-1 tvg-id="" tvg-name="Kuharica Kiflica 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/kuharica.png" group-title="☆☆ Kids ☆☆",Kuharica Kiflica 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28618
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/lunejj.png" group-title="☆☆ Kids ☆☆",Looney Tunes 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28310
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Luke 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/llukke.png" group-title="☆☆ Kids ☆☆",Lucky Luke 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28312
+#EXTINF:-1 tvg-id="" tvg-name="Johhny Bravo 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/bravvo.png" group-title="☆☆ Kids ☆☆",Johhny Bravo 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28305
+#EXTINF:-1 tvg-id="" tvg-name="Mali Leteci Medvjedici" tvg-logo="http://smartntv.pro/logokanali/kids/meddv.png" group-title="☆☆ Kids ☆☆",Mali Leteci Medvjedici
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28304
+#EXTINF:-1 tvg-id="" tvg-name="Moj mali Poni 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/ponni.png" group-title="☆☆ Kids ☆☆",Moj mali Poni 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26300
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/beann.png" group-title="☆☆ Kids ☆☆",Mr Bean 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28614
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/mikki.png" group-title="☆☆ Kids ☆☆",Mickey Mouse 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28313
+#EXTINF:-1 tvg-id="" tvg-name="Nick Praskaton 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/prakk.png" group-title="☆☆ Kids ☆☆",Nick Praskaton 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28306
+#EXTINF:-1 tvg-id="" tvg-name="Nindza Kornjace 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/ninnja.png" group-title="☆☆ Kids ☆☆",Nindza Kornjace 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28617
+#EXTINF:-1 tvg-id="" tvg-name="Obitelj Kremenko 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/kremenn.png" group-title="☆☆ Kids ☆☆",Obitelj Kremenko 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28302
+#EXTINF:-1 tvg-id="" tvg-name="Profesor Baltazar 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/balltazz.png" group-title="☆☆ Kids ☆☆",Profesor Baltazar 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28303
+#EXTINF:-1 tvg-id="" tvg-name="Pingvini sa Madagaskara 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/pingggv.png" group-title="☆☆ Kids ☆☆",Pingvini sa Madagaskara 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26357
+#EXTINF:-1 tvg-id="" tvg-name="Padington Medo 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/medddddo.png" group-title="☆☆ Kids ☆☆",Padington Medo 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26302
+#EXTINF:-1 tvg-id="" tvg-name="Pcelica Maja 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/pmajja.png" group-title="☆☆ Kids ☆☆",Pcelica Maja 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28311
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/pokojo.png" group-title="☆☆ Kids ☆☆",Pocoyo 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28314
+#EXTINF:-1 tvg-id="" tvg-name="Strumpfovi 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/strummmp.png" group-title="☆☆ Kids ☆☆",Strumpfovi 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28309
+#EXTINF:-1 tvg-id="" tvg-name="Spuzva Bob 24/7 " tvg-logo="http://smartntv.pro/logokanali/kids/spuzvarr.png" group-title="☆☆ Kids ☆☆",Spuzva Bob 24/7 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26356
+#EXTINF:-1 tvg-id="" tvg-name="Sofija Prva 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/soffija.png" group-title="☆☆ Kids ☆☆",Sofija Prva 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28616
+#EXTINF:-1 tvg-id="" tvg-name="Timon i Pumba 24/7" tvg-logo="http://smartntv.pro/logokanali/kids/timmmon.png" group-title="☆☆ Kids ☆☆",Timon i Pumba 24/7
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28307
+#EXTINF:-1 tvg-id="" tvg-name="♫♫ Music ♫♫" tvg-logo="http://smartntv.pro/logokanali/muzik/muzikk.png" group-title="♫♫ Music ♫♫",♫♫ Music ♫♫
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6761
+#EXTINF:-1 tvg-id="" tvg-name="Extra TV" tvg-logo="http://smartntv.pro/logokanali/muzik/exxtra.png" group-title="♫♫ Music ♫♫",Extra TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28388
+#EXTINF:-1 tvg-id="" tvg-name="Happy Muzika" tvg-logo="http://smartntv.pro/logokanali/muzik/hapicmuzik.png" group-title="♫♫ Music ♫♫",Happy Muzika
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28387
+#EXTINF:-1 tvg-id="imperiatv" tvg-name="Imperia TV" tvg-logo="http://smartntv.pro/logokanali/muzik/imperijallo.png" group-title="♫♫ Music ♫♫",Imperia TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/9142
+#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJTV" tvg-logo="http://smartntv.pro/logokanali/muzik/idjtv.png" group-title="♫♫ Music ♫♫",IDJTV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13462
+#EXTINF:-1 tvg-id="tv-sehara" tvg-name="TV Sehara" tvg-logo="http://smartntv.pro/logokanali/muzik/seharraaa.png" group-title="♫♫ Music ♫♫",TV Sehara
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6762
+#EXTINF:-1 tvg-id="" tvg-name="TOP SOUND" tvg-logo="http://smartntv.pro/logokanali/muzik/toppisond.png" group-title="♫♫ Music ♫♫",TOP SOUND
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6763
+#EXTINF:-1 tvg-id="htv1" tvg-name="Sevdah TV" tvg-logo="http://smartntv.pro/logokanali/muzik/sevdaho.png" group-title="♫♫ Music ♫♫",Sevdah TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6764
+#EXTINF:-1 tvg-id="" tvg-name="Glas Drine" tvg-logo="http://smartntv.pro/logokanali/muzik/glassdri.png" group-title="♫♫ Music ♫♫",Glas Drine
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6768
+#EXTINF:-1 tvg-id="" tvg-name="Samobor TV" tvg-logo="http://smartntv.pro/logokanali/muzik/samoborac.png" group-title="♫♫ Music ♫♫",Samobor TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/28389
+#EXTINF:-1 tvg-id="" tvg-name="Uzivoteka" tvg-logo="http://smartntv.pro/logokanali/muzik/uzivotekacc.png" group-title="♫♫ Music ♫♫",Uzivoteka
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27369
+#EXTINF:-1 tvg-id="" tvg-name="Dobra Muzicka TV" tvg-logo="" group-title="♫♫ Music ♫♫",Dobra Muzicka TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27373
+#EXTINF:-1 tvg-id="" tvg-name="Dobra Zabava TV" tvg-logo="" group-title="♫♫ Music ♫♫",Dobra Zabava TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27374
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="http://smartntv.pro/logokanali/muzik/cmccc.png" group-title="♫♫ Music ♫♫",CMC
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6772
+#EXTINF:-1 tvg-id="dmsat" tvg-name="DM SAT" tvg-logo="http://smartntv.pro/logokanali/muzik/dmmsat.png" group-title="♫♫ Music ♫♫",DM SAT
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6771
+#EXTINF:-1 tvg-id="htv1" tvg-name="BN Music ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/muzik/bnnmusic.png" group-title="♫♫ Music ♫♫",BN Music ʜᴅ
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6773
+#EXTINF:-1 tvg-id="grand-nostalgija" tvg-name="GranNostalgije" tvg-logo="http://smartntv.pro/logokanali/muzik/grantv.png" group-title="♫♫ Music ♫♫",GranNostalgije
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27370
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="GranTV" tvg-logo="http://smartntv.pro/logokanali/muzik/grandic.png" group-title="♫♫ Music ♫♫",GranTV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13459
+#EXTINF:-1 tvg-id="" tvg-name="GranTV2" tvg-logo="http://smartntv.pro/logokanali/muzik/grandic.png" group-title="♫♫ Music ♫♫",GranTV2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/13460
+#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="http://smartntv.pro/logokanali/muzik/mtadri2.png" group-title="♫♫ Music ♫♫",MTV Adria
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6774
+#EXTINF:-1 tvg-id="mtv-music" tvg-name="MTV Music" tvg-logo="http://smartntv.pro/logokanali/muzik/mttmussic.png" group-title="♫♫ Music ♫♫",MTV Music
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6775
+#EXTINF:-1 tvg-id="" tvg-name="MTV Club " tvg-logo="http://smartntv.pro/logokanali/muzik/mtttclubb.png" group-title="♫♫ Music ♫♫",MTV Club 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6776
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="http://smartntv.pro/logokanali/muzik/mtclasic2.png" group-title="♫♫ Music ♫♫",MTV Classic
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6777
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base" tvg-logo="http://smartntv.pro/logokanali/muzik/mtbasee.png" group-title="♫♫ Music ♫♫",MTV Base
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6778
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="http://smartntv.pro/logokanali/muzik/rockk.png" group-title="♫♫ Music ♫♫",MTV Rocks
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6779
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://smartntv.pro/logokanali/muzik/mthit2.png" group-title="♫♫ Music ♫♫",MTV Hits
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6780
+#EXTINF:-1 tvg-id="htv1" tvg-name="Balkanika Music" tvg-logo="http://smartntv.pro/logokanali/muzik/balkannos.png" group-title="♫♫ Music ♫♫",Balkanika Music
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6784
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="http://smartntv.pro/logokanali/muzik/vhclasso.png" group-title="♫♫ Music ♫♫",VH1 Classic
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/12902
+#EXTINF:-1 tvg-id="htv1" tvg-name="YU Planet" tvg-logo="http://smartntv.pro/logokanali/muzik/yuplannet.png" group-title="♫♫ Music ♫♫",YU Planet
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6783
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="http://smartntv.pro/logokanali/muzik/pifolkic.png" group-title="♫♫ Music ♫♫",Pink Folk 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6786
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="http://smartntv.pro/logokanali/muzik/piifolk2.png" group-title="♫♫ Music ♫♫",Pink Folk 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6787
+#EXTINF:-1 tvg-id="pink-music" tvg-name="Pink Music 1" tvg-logo="http://smartntv.pro/logokanali/muzik/pimussicc.png" group-title="♫♫ Music ♫♫",Pink Music 1
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6788
+#EXTINF:-1 tvg-id="pink-music-2" tvg-name="Pink Music 2" tvg-logo="http://smartntv.pro/logokanali/muzik/pimussic2.png" group-title="♫♫ Music ♫♫",Pink Music 2
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6789
+#EXTINF:-1 tvg-id="pink-koncert" tvg-name="Pink Koncert" tvg-logo="http://smartntv.pro/logokanali/muzik/koncoo.png" group-title="♫♫ Music ♫♫",Pink Koncert
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6790
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="Hayat Folk" tvg-logo="http://smartntv.pro/logokanali/muzik/folkicc.png" group-title="♫♫ Music ♫♫",Hayat Folk
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6791
+#EXTINF:-1 tvg-id="" tvg-name="City Play" tvg-logo="http://smartntv.pro/logokanali/muzik/cittplayyy.png" group-title="♫♫ Music ♫♫",City Play
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27363
+#EXTINF:-1 tvg-id="" tvg-name="Altea" tvg-logo="http://smartntv.pro/logokanali/muzik/alteac.png" group-title="♫♫ Music ♫♫",Altea
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27365
+#EXTINF:-1 tvg-id="toxic-tv" tvg-name="Toxic TV" tvg-logo="http://smartntv.pro/logokanali/muzik/toxiccc.png" group-title="♫♫ Music ♫♫",Toxic TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20370
+#EXTINF:-1 tvg-id="toxic-folk" tvg-name="Toxic Folk" tvg-logo="https://tvprofil.com/img/kanali-logo/Toxic_Folk_RS_logo.png" group-title="♫♫ Music ♫♫",Toxic Folk
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27364
+#EXTINF:-1 tvg-id="" tvg-name="BMC ETNO" tvg-logo="http://smartntv.pro/logokanali/muzik/bmcalac.png" group-title="♫♫ Music ♫♫",BMC ETNO
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27366
+#EXTINF:-1 tvg-id="" tvg-name="Kafanska" tvg-logo="http://smartntv.pro/logokanali/muzik/kafanacc.png" group-title="♫♫ Music ♫♫",Kafanska
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/27367
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino " tvg-logo="http://smartntv.pro/logokanali/muzik/otvvalo.png" group-title="♫♫ Music ♫♫",OTV Valentino 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6794
+#EXTINF:-1 tvg-id="valentino-music" tvg-name="Valentino Music" tvg-logo="http://smartntv.pro/logokanali/muzik/valentinomusic.png" group-title="♫♫ Music ♫♫",Valentino Music
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20347
+#EXTINF:-1 tvg-id="valentino-etno" tvg-name="Valentino Etno" tvg-logo="http://smartntv.pro/logokanali/muzik/valentinoetno.png" group-title="♫♫ Music ♫♫",Valentino Etno
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/20348
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="http://smartntv.pro/logokanali/muzik/jugalec.png" group-title="♫♫ Music ♫♫",Jugoton TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6795
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV ʜᴅ " tvg-logo="http://smartntv.pro/logokanali/muzik/zvornjak.png" group-title="♫♫ Music ♫♫",Izvorna TV ʜᴅ 
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6796
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="Duga+" tvg-logo="http://smartntv.pro/logokanali/muzik/dugicccpl.png" group-title="♫♫ Music ♫♫",Duga+
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/6797
+#EXTINF:-1 tvg-id="" tvg-name="BMC TV" tvg-logo="http://smartntv.pro/logokanali/muzik/bmcalac.png" group-title="♫♫ Music ♫♫",BMC TV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26263
+#EXTINF:-1 tvg-id="" tvg-name="GolicaTV" tvg-logo="http://smartntv.pro/logokanali/muzik/golicacc.png" group-title="♫♫ Music ♫♫",GolicaTV
+http://balkantv.net:25461/nikolavasic/jjq6BTgA7Dqd/26269
+
+
+
 
 
 
