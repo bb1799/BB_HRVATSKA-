@@ -768,9 +768,6 @@ http://ottshow.net:80/live/nakakanl/r43cn/9108.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",*** SINKRONIZIRANO ***
 skip
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="NAJNOVIJI",ODVAŽNA IVA (2023)
-http://content2.bilosta.org/DISK2/crtani/iva.mkv
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",JAHAČ ZMAJA (2022)
 http://content2.drycloth.org/DISK2/crtani/jahaczmaja.mkv
 
