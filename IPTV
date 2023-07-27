@@ -1,583 +1,115 @@
 
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-logo="https://maxsport.live/images/max-sport-1-logo.png" group-title="Sport",MAXSport 1
-http://bntvs.com:2052/mrshox/85764025h64534/23998
-#EXTINF:-1 tvg-id="nova-sport-rs" tvg-name="Nova Sport (test)" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Nova%20sport.jpg" group-title="Sport",Nova Sport (test)
-http://bntvs.com:2052/mrshox/85764025h64534/8591
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1
-http://bntvs.com:2052/mrshox/85764025h64534/8592
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2
-http://bntvs.com:2052/mrshox/85764025h64534/8593
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3
-http://bntvs.com:2052/mrshox/85764025h64534/8594
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4
-http://bntvs.com:2052/mrshox/85764025h64534/8595
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5
-http://bntvs.com:2052/mrshox/85764025h64534/8596
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Sport 1 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 Premium
-http://bntvs.com:2052/mrshox/85764025h64534/8597
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Sport 2 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 Premium
-http://bntvs.com:2052/mrshox/85764025h64534/8598
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena Sport 3 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 Premium
-http://bntvs.com:2052/mrshox/85764025h64534/8599
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8601
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8602
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8603
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8604
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8605
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/arena6_logo.png" group-title="Sport",Arena Sport 6 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8606
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport",Arena Sport 7
-http://bntvs.com:2052/mrshox/85764025h64534/22954
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="Sport",Arena Sport 8
-http://bntvs.com:2052/mrshox/85764025h64534/22955
-#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="Arena Sport 9" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="Sport",Arena Sport 9
-http://bntvs.com:2052/mrshox/85764025h64534/22956
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Sport",Arena Sport 10
-http://bntvs.com:2052/mrshox/85764025h64534/22957
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="Sport Klub 1 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 1 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8627
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="Sport Klub 2 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 2 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8628
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 3 HR
-http://bntvs.com:2052/mrshox/85764025h64534/8629
-#EXTINF:-1 tvg-id="sport-klub" tvg-name="Sport Klub 1 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 1 SR
-http://bntvs.com:2052/mrshox/85764025h64534/8630
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="Sport Klub 2 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 2 SR
-http://bntvs.com:2052/mrshox/85764025h64534/8631
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 3 SR
-http://bntvs.com:2052/mrshox/85764025h64534/8632
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="Sport Klub 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 4
-http://bntvs.com:2052/mrshox/85764025h64534/8633
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="Sport Klub 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 5
-http://bntvs.com:2052/mrshox/85764025h64534/8634
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="Sport Klub 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 6
-http://bntvs.com:2052/mrshox/85764025h64534/8635
-#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="Sport Klub 7" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 7
-http://bntvs.com:2052/mrshox/85764025h64534/8636
-#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="Sport Klub 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 8
-http://bntvs.com:2052/mrshox/85764025h64534/8637
-#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="Sport Klub 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 9
-http://bntvs.com:2052/mrshox/85764025h64534/8638
-#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="Sport Klub 10" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 10
-http://bntvs.com:2052/mrshox/85764025h64534/8639
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub Start
-http://bntvs.com:2052/mrshox/85764025h64534/8640
-#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 1 HR (TEST)" tvg-logo="https://maxsport.live/images/max-sport-1-logo.png" group-title="Sport",MAX Sport 1 HR (TEST)
-http://bntvs.com:2052/mrshox/85764025h64534/23998
-#EXTINF:-1 tvg-id="" tvg-name="Max Sport 2 HR Test" tvg-logo="" group-title="Sport",Max Sport 2 HR Test
-http://bntvs.com:2052/mrshox/85764025h64534/24180
-#EXTINF:-1 tvg-id="dazn-1-de" tvg-name="Dazn 1 Bar" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/dazn%20bar.png" group-title="Sport",Dazn 1 Bar
-http://bntvs.com:2052/mrshox/85764025h64534/8608
-#EXTINF:-1 tvg-id="dazn-2-de" tvg-name="Dazn 2 Bar" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/dazn%20bar.png" group-title="Sport",Dazn 2 Bar
-http://bntvs.com:2052/mrshox/85764025h64534/8609
-#EXTINF:-1 tvg-id="eurosport" tvg-name="EuroSport 1 HD" tvg-logo="" group-title="Sport",EuroSport 1 HD
-http://bntvs.com:2052/mrshox/85764025h64534/23681
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="EuroSport 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/Eurosport_2_HD.png" group-title="Sport",EuroSport 2 HD
-http://bntvs.com:2052/mrshox/85764025h64534/8617
-#EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fight-channel-logo.png" group-title="Sport",Fight Channel
-http://bntvs.com:2052/mrshox/85764025h64534/8621
-#EXTINF:-1 tvg-id="" tvg-name="UFC/FightBox" tvg-logo="http://ikonice.zvjerka.com/ikonice/UK/UFC.jpg" group-title="Sport",UFC/FightBox
-http://bntvs.com:2052/mrshox/85764025h64534/8622
-#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/NBA_TV.png" group-title="Sport",NBA TV
-http://bntvs.com:2052/mrshox/85764025h64534/8618
-#EXTINF:-1 tvg-id="htv1" tvg-name="HNTV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/HNTV.jpg" group-title="Sport",HNTV
-http://bntvs.com:2052/mrshox/85764025h64534/8623
-#EXTINF:-1 tvg-id="htv1" tvg-name="Kreator TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/logo-kreator-tv-3d.png" group-title="Sport",Kreator TV
-http://bntvs.com:2052/mrshox/85764025h64534/8624
-#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov i Ribolov" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/Lov%20i%20ribolov%20ok.png" group-title="Sport",Lov i Ribolov
-http://bntvs.com:2052/mrshox/85764025h64534/8625
-#EXTINF:-1 tvg-id="sos" tvg-name="SOS" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/sos_kanal.png" group-title="Sport",SOS
-http://bntvs.com:2052/mrshox/85764025h64534/8646
-#EXTINF:-1 tvg-id="bein-sport-1" tvg-name="Bein Sports 01" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%201%20HD.png" group-title="Sport",Bein Sports 01
-http://bntvs.com:2052/mrshox/85764025h64534/10987
-#EXTINF:-1 tvg-id="bein-sport-2" tvg-name="Bein Sports 02" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%202%20HD.png" group-title="Sport",Bein Sports 02
-http://bntvs.com:2052/mrshox/85764025h64534/10988
-#EXTINF:-1 tvg-id="bein-sport-3" tvg-name="Bein Sports 03" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%203%20HD.png" group-title="Sport",Bein Sports 03
-http://bntvs.com:2052/mrshox/85764025h64534/10989
-#EXTINF:-1 tvg-id="bein-sport-4" tvg-name="Bein Sports 04" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%204%20HD.png" group-title="Sport",Bein Sports 04
-http://bntvs.com:2052/mrshox/85764025h64534/11023
-#EXTINF:-1 tvg-id="bein-sport-5" tvg-name="Bein Sports 05" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%205%20HD.png" group-title="Sport",Bein Sports 05
-http://bntvs.com:2052/mrshox/85764025h64534/11022
-#EXTINF:-1 tvg-id="bein-sport-6" tvg-name="Bein Sports 06" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%206%20HD.png" group-title="Sport",Bein Sports 06
-http://bntvs.com:2052/mrshox/85764025h64534/11024
-#EXTINF:-1 tvg-id="bein-sport-7" tvg-name="Bein Sports 07" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%207%20HD.png" group-title="Sport",Bein Sports 07
-http://bntvs.com:2052/mrshox/85764025h64534/11019
-#EXTINF:-1 tvg-id="htv1" tvg-name="Bein Sports 08" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%208%20HD.png" group-title="Sport",Bein Sports 08
-http://bntvs.com:2052/mrshox/85764025h64534/11020
-#EXTINF:-1 tvg-id="htv1" tvg-name="Bein Sports  09" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%209%20HD.png" group-title="Sport",Bein Sports  09
-http://bntvs.com:2052/mrshox/85764025h64534/11021
-#EXTINF:-1 tvg-id="htv1" tvg-name="Bein Sports 10" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dragisa/logos/BeIN%20Sports%2010%20HD.png" group-title="Sport",Bein Sports 10
-http://bntvs.com:2052/mrshox/85764025h64534/11025
-#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="BT Sport 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport 1
-http://bntvs.com:2052/mrshox/85764025h64534/8610
-#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="BT Sport 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport 2
-http://bntvs.com:2052/mrshox/85764025h64534/8611
-#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="BT Sport 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport 3
-http://bntvs.com:2052/mrshox/85764025h64534/8612
-#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="BT Sport 1 Full HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport 1 Full HD
-http://bntvs.com:2052/mrshox/85764025h64534/9438
-#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="BT Sport 2 Full HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport 2 Full HD
-http://bntvs.com:2052/mrshox/85764025h64534/9439
-#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="BT Sport 3 Full HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport 3 Full HD
-http://bntvs.com:2052/mrshox/85764025h64534/9440
-#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="BT Sport 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_logo.png" group-title="Sport",BT Sport 1 HD
-http://bntvs.com:2052/mrshox/85764025h64534/9573
-#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="BT Sport 2 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_logo.png" group-title="Sport",BT Sport 2 HD
-http://bntvs.com:2052/mrshox/85764025h64534/9572
-#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="BT Sport 3 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport 3 HD
-http://bntvs.com:2052/mrshox/85764025h64534/9571
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport ESPN HD
-http://bntvs.com:2052/mrshox/85764025h64534/9441
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport Extra 1
-http://bntvs.com:2052/mrshox/85764025h64534/9442
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport Extra 2
-http://bntvs.com:2052/mrshox/85764025h64534/9443
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport Extra 3
-http://bntvs.com:2052/mrshox/85764025h64534/9444
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/80.%20BT%20SPORT%20%201.png" group-title="Sport",BT Sport Extra 4
-http://bntvs.com:2052/mrshox/85764025h64534/9445
-#EXTINF:-1 tvg-id="supertennis-hd" tvg-name="Super Tennis" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERTENNIS.png" group-title="Sport",Super Tennis
-http://bntvs.com:2052/mrshox/85764025h64534/8647
-#EXTINF:-1 tvg-id="real-madrid-tv" tvg-name="Real Madrid TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/real%20madrid%20tv.png" group-title="Sport",Real Madrid TV
-http://bntvs.com:2052/mrshox/85764025h64534/8641
-#EXTINF:-1 tvg-id="barca-tv" tvg-name="Barca TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/barca%20tv.png" group-title="Sport",Barca TV
-http://bntvs.com:2052/mrshox/85764025h64534/8642
-#EXTINF:-1 tvg-id="" tvg-name="Bayern TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/bayern%20tv.png" group-title="Sport",Bayern TV
-http://bntvs.com:2052/mrshox/85764025h64534/8643
-#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/zvezda.jpg" group-title="Sport",Zvezda TV
-http://bntvs.com:2052/mrshox/85764025h64534/8619
-#EXTINF:-1 tvg-id="" tvg-name="Partizan TV" tvg-logo="https://www.partizan.tv/tv_00000.png" group-title="Sport",Partizan TV
-http://bntvs.com:2052/mrshox/85764025h64534/8620
-#EXTINF:-1 tvg-id="polsat-sport" tvg-name="Polsat Sport HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Polsat_Sport_PL_logo.png" group-title="Sport",Polsat Sport HD
-http://bntvs.com:2052/mrshox/85764025h64534/22933
-#EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="Polsat Sport Fight FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Polsat_Sport_Fight_PL_logo.png" group-title="Sport",Polsat Sport Fight FHD
-http://bntvs.com:2052/mrshox/85764025h64534/22934
-#EXTINF:-1 tvg-id="polsat-sport-news" tvg-name="Polsat Sport News FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Polsat_Sport_News_PL_logo.png" group-title="Sport",Polsat Sport News FHD
-http://bntvs.com:2052/mrshox/85764025h64534/22935
-#EXTINF:-1 tvg-id="polsat-sport-extra" tvg-name="Polsat Sport Extra HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Polsat_Sport_Extra_PL_logo.png" group-title="Sport",Polsat Sport Extra HD
-http://bntvs.com:2052/mrshox/85764025h64534/22936
-#EXTINF:-1 tvg-id="polsat-sport-premium-1" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/POLSAT_Sport_Premium_1_PL_logo.png" group-title="Sport",Polsat Sport Premium 1 FHD
-http://bntvs.com:2052/mrshox/85764025h64534/22937
-#EXTINF:-1 tvg-id="polsat-sport-premium-2" tvg-name="Polsat Sport Premium 2 FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/POLSAT_Sport_Premium_2_PL_logo.png" group-title="Sport",Polsat Sport Premium 2 FHD
-http://bntvs.com:2052/mrshox/85764025h64534/22938
-#EXTINF:-1 tvg-id="play-sports-1" tvg-name="Play Sports 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/psport.jpg" group-title="Sport",Play Sports 1 HD
-http://bntvs.com:2052/mrshox/85764025h64534/22939
-#EXTINF:-1 tvg-id="play-sports-2" tvg-name="Play Sports 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/psport.jpg" group-title="Sport",Play Sports 2 HD
-http://bntvs.com:2052/mrshox/85764025h64534/22940
-#EXTINF:-1 tvg-id="eleven-sports-1-nl" tvg-name="Eleven Sport 1 FHD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/eleven.png" group-title="Sport",Eleven Sport 1 FHD
-http://bntvs.com:2052/mrshox/85764025h64534/22944
-#EXTINF:-1 tvg-id="eleven-sports-2-nl" tvg-name="Eleven Sport 2 FHD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/eleven.png" group-title="Sport",Eleven Sport 2 FHD
-http://bntvs.com:2052/mrshox/85764025h64534/22945
-#EXTINF:-1 tvg-id="eleven-sports-3-nl" tvg-name="Eleven Sport 3 FHD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/eleven.png" group-title="Sport",Eleven Sport 3 FHD
-http://bntvs.com:2052/mrshox/85764025h64534/22946
-#EXTINF:-1 tvg-id="diema-sport" tvg-name="Diema Sport 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Diema_Sport_BG_BG_logo.png" group-title="Sport",Diema Sport 1
-http://bntvs.com:2052/mrshox/85764025h64534/22947
-#EXTINF:-1 tvg-id="diema-sport-2" tvg-name="Diema Sport 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/diema_sport_2_logo.png" group-title="Sport",Diema Sport 2
-http://bntvs.com:2052/mrshox/85764025h64534/22948
-#EXTINF:-1 tvg-id="max-sport-1-bg" tvg-name="Max Sport 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/max_sport1_BG_logo.png" group-title="Sport",Max Sport 1 HD
-http://bntvs.com:2052/mrshox/85764025h64534/22949
-#EXTINF:-1 tvg-id="max-sport-2-bg" tvg-name="Max Sport 2 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/max_sport2_BG_logo.png" group-title="Sport",Max Sport 2 HD
-http://bntvs.com:2052/mrshox/85764025h64534/22950
-#EXTINF:-1 tvg-id="max-sport-3-bg" tvg-name="Max Sport 3 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/max_sport3-_BG_logo.png" group-title="Sport",Max Sport 3 HD
-http://bntvs.com:2052/mrshox/85764025h64534/22951
-#EXTINF:-1 tvg-id="max-sport-4-bg" tvg-name="Max Sport 4 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/max_sport4-_BG_logo.png" group-title="Sport",Max Sport 4 HD
-http://bntvs.com:2052/mrshox/85764025h64534/22952
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 1
-http://bntvs.com:2052/mrshox/85764025h64534/8613
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 2
-http://bntvs.com:2052/mrshox/85764025h64534/8614
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 3
-http://bntvs.com:2052/mrshox/85764025h64534/8615
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Prime Ticket HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Prime Ticket HD
-http://bntvs.com:2052/mrshox/85764025h64534/9326
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Plus
-http://bntvs.com:2052/mrshox/85764025h64534/9317
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 1 HD
-http://bntvs.com:2052/mrshox/85764025h64534/9318
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 2 HD
-http://bntvs.com:2052/mrshox/85764025h64534/9319
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Arizona HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Arizona HD
-http://bntvs.com:2052/mrshox/85764025h64534/9320
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Carolina HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Carolina HD
-http://bntvs.com:2052/mrshox/85764025h64534/9321
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Deportes  HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Deportes  HD
-http://bntvs.com:2052/mrshox/85764025h64534/9322
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Detroit HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Detroit HD
-http://bntvs.com:2052/mrshox/85764025h64534/9323
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Florida HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Florida HD
-http://bntvs.com:2052/mrshox/85764025h64534/9324
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports North HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports North HD
-http://bntvs.com:2052/mrshox/85764025h64534/9325
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Racing HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Racing HD
-http://bntvs.com:2052/mrshox/85764025h64534/9327
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sun HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Sun HD
-http://bntvs.com:2052/mrshox/85764025h64534/9328
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Tennessee HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Tennessee HD
-http://bntvs.com:2052/mrshox/85764025h64534/9329
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Wisconsin HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports Wisconsin HD
-http://bntvs.com:2052/mrshox/85764025h64534/9330
-#EXTINF:-1 tvg-id="" tvg-name="Sport Digital HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/sport%20digital%20hd.png" group-title="Sport",Sport Digital HD
-http://bntvs.com:2052/mrshox/85764025h64534/8626
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SPORT%201.png" group-title="Sport",Sport 1 HD
-http://bntvs.com:2052/mrshox/85764025h64534/8644
-#EXTINF:-1 tvg-id="" tvg-name="Sportska TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/sportska%20tv.png" group-title="Sport",Sportska TV
-http://bntvs.com:2052/mrshox/85764025h64534/8645
-
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/19.%20HRT1.png" group-title="Hrvatska",HRT 1
-http://bntvs.com:2052/mrshox/85764025h64534/8499
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/20.%20HRT2.png" group-title="Hrvatska",HRT 2
-http://bntvs.com:2052/mrshox/85764025h64534/8500
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/21.%20HRT3.png" group-title="Hrvatska",HRT 3
-http://bntvs.com:2052/mrshox/85764025h64534/8501
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/22.%20HRT4.png" group-title="Hrvatska",HRT 4
-http://bntvs.com:2052/mrshox/85764025h64534/8502
-#EXTINF:-1 tvg-id="htv5" tvg-name="HRT 5" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRTint_logo.png" group-title="Hrvatska",HRT 5
-http://bntvs.com:2052/mrshox/85764025h64534/8503
-#EXTINF:-1 tvg-id="nova" tvg-name="Nova TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/33.%20NOVA%20TV.png" group-title="Hrvatska",Nova TV
-http://bntvs.com:2052/mrshox/85764025h64534/8505
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL (H265)" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/44.%20RTL.png" group-title="Hrvatska",RTL (H265)
-http://bntvs.com:2052/mrshox/85764025h64534/8506
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/44.%20RTL.png" group-title="Hrvatska",RTL HR
-http://bntvs.com:2052/mrshox/85764025h64534/8507
-#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL Adria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/80/RTL_Adria_%282020-.n.v.%29.png/revision/latest?cb=20200225184616" group-title="Hrvatska",RTL Adria
-http://bntvs.com:2052/mrshox/85764025h64534/8508
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/45.%20RTL%202.png" group-title="Hrvatska",RTL 2
-http://bntvs.com:2052/mrshox/85764025h64534/8509
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
-http://bntvs.com:2052/mrshox/85764025h64534/8510
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/rtl-kockica-logo.png" group-title="Hrvatska",RTL Kockica
-http://bntvs.com:2052/mrshox/85764025h64534/8511
-#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska",RTL Living
-http://bntvs.com:2052/mrshox/85764025h64534/8512
-#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Passion" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL Passion
-http://bntvs.com:2052/mrshox/85764025h64534/8513
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma TV
-http://bntvs.com:2052/mrshox/85764025h64534/8514
-#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/10.%20DIVA.png" group-title="Hrvatska",Diva
-http://bntvs.com:2052/mrshox/85764025h64534/8515
-#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Hrvatska" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/27.%20N1%20HR.png" group-title="Hrvatska",N1 Hrvatska
-http://bntvs.com:2052/mrshox/85764025h64534/8516
-#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CMC_TV_logo.png" group-title="Hrvatska",CMC
-http://bntvs.com:2052/mrshox/85764025h64534/8517
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska televizija" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/SlavonskaTelevizija.png" group-title="Hrvatska",Slavonska televizija
-http://bntvs.com:2052/mrshox/85764025h64534/8518
-#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/23.%20LAUDATO%20TV.png" group-title="Hrvatska",Laudato TV
-http://bntvs.com:2052/mrshox/85764025h64534/8519
-#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/OTV%20VALENTINO.png" group-title="Hrvatska",OTV Valentino
-http://bntvs.com:2052/mrshox/85764025h64534/8521
-#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/63.%20Z1.png" group-title="Hrvatska",Z1
-http://bntvs.com:2052/mrshox/85764025h64534/8522
-#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/64.%20OSJECKA%20TV.png" group-title="Hrvatska",Osjecka TV
-http://bntvs.com:2052/mrshox/85764025h64534/8523
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/65.%20VINKOVACKA%20TV.png" group-title="Hrvatska",Vinkovacka TV
-http://bntvs.com:2052/mrshox/85764025h64534/8525
-#EXTINF:-1 tvg-id="" tvg-name="Jabuka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/25.%20JABUKA%20TV.png" group-title="Hrvatska",Jabuka TV
-http://bntvs.com:2052/mrshox/85764025h64534/8520
-#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/5.%20banovina.png" group-title="Hrvatska",Banovina TV
-http://bntvs.com:2052/mrshox/85764025h64534/8524
-
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax.png" group-title="Film",Cinemax 1
-http://bntvs.com:2052/mrshox/85764025h64534/8649
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax-2.png" group-title="Film",Cinemax 2
-http://bntvs.com:2052/mrshox/85764025h64534/8650
-#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_action_logo.png" group-title="Film",Cinestar Action
-http://bntvs.com:2052/mrshox/85764025h64534/8651
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinestartv_fantasy_logo.png" group-title="Film",CineStar Fantasy
-http://bntvs.com:2052/mrshox/85764025h64534/8652
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Film",CineStar Premiere 1
-http://bntvs.com:2052/mrshox/85764025h64534/8653
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="Film",CineStar Premiere 2
-http://bntvs.com:2052/mrshox/85764025h64534/8654
-#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinestar_TV1_logo.png" group-title="Film",CineStar TV
-http://bntvs.com:2052/mrshox/85764025h64534/8655
-#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="Cinestar TV 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Film",Cinestar TV 2
-http://bntvs.com:2052/mrshox/85764025h64534/8656
-#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="Cinestar Comedy" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/cinestartv_comedy_logo.png" group-title="Film",Cinestar Comedy
-http://bntvs.com:2052/mrshox/85764025h64534/8657
-#EXTINF:-1 tvg-id="fox" tvg-name="Fox" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-logo.png" group-title="Film",Fox
-http://bntvs.com:2052/mrshox/85764025h64534/8661
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/17.%20FOX%20CRIME.png" group-title="Film",Fox Crime
-http://bntvs.com:2052/mrshox/85764025h64534/8662
-#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox_life_ru.png" group-title="Film",Fox Life
-http://bntvs.com:2052/mrshox/85764025h64534/8663
-#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-movies-logo.png" group-title="Film",Fox Movies
-http://bntvs.com:2052/mrshox/85764025h64534/8664
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO Adria
-http://bntvs.com:2052/mrshox/85764025h64534/8666
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO 2 HD
-http://bntvs.com:2052/mrshox/85764025h64534/8667
-#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO 3 HD
-http://bntvs.com:2052/mrshox/85764025h64534/8668
-#EXTINF:-1 tvg-id="" tvg-name="HBO GO" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO GO
-http://bntvs.com:2052/mrshox/85764025h64534/8669
-#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinemania-logo.png" group-title="Film",Cinemania
-http://bntvs.com:2052/mrshox/85764025h64534/8658
-#EXTINF:-1 tvg-id="film-klub" tvg-name="Film Klub" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/14.%20FILM%20KLUB.png" group-title="Film",Film Klub
-http://bntvs.com:2052/mrshox/85764025h64534/8659
-#EXTINF:-1 tvg-id="filmbox-hd" tvg-name="FilmBox Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/filmbox_extra_pl_hd.png" group-title="Film",FilmBox Extra
-http://bntvs.com:2052/mrshox/85764025h64534/8660
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/axn-logo.png" group-title="Film",AXN
-http://bntvs.com:2052/mrshox/85764025h64534/8680
-#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/axn_spin_logo.png" group-title="Film",AXN Spin
-http://bntvs.com:2052/mrshox/85764025h64534/8681
-#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/scifi_adria_logo.jpg" group-title="Film",SciFi
-http://bntvs.com:2052/mrshox/85764025h64534/8678
-#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickBox TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PICKBOX.png" group-title="Film",PickBox TV
-http://bntvs.com:2052/mrshox/85764025h64534/8677
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SuperStar" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERSTAR.png" group-title="Film",SuperStar
-http://bntvs.com:2052/mrshox/85764025h64534/8673
-#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/25.%20KINO%20TV.png" group-title="Film",Kino TV
-http://bntvs.com:2052/mrshox/85764025h64534/8674
-#EXTINF:-1 tvg-id="klasiktv" tvg-name="Klasik Tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/KlasikTV_logo.png" group-title="Film",Klasik Tv
-http://bntvs.com:2052/mrshox/85764025h64534/8675
-#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/27.%20M1%20FILM.png" group-title="Film",M1 Film
-http://bntvs.com:2052/mrshox/85764025h64534/8676
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/amc_logo_2016.png" group-title="Film",AMC
-http://bntvs.com:2052/mrshox/85764025h64534/8679
-#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/viasat-tv-1000.png" group-title="Film",TV 1000
-http://bntvs.com:2052/mrshox/85764025h64534/8684
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/comedy-centra-extra-logo.png" group-title="Film",Comedy Central Extra
-http://bntvs.com:2052/mrshox/85764025h64534/8683
-#EXTINF:-1 tvg-id="" tvg-name="Best TV Ex-Yu" tvg-logo="http://ikonice.zvjerka.com/ikonice/bestikonice/LOGO%20png.png" group-title="Film",Best TV Ex-Yu
-http://bntvs.com:2052/mrshox/85764025h64534/23464
-#EXTINF:-1 tvg-id="" tvg-name="Best TV Premium" tvg-logo="http://ikonice.zvjerka.com/ikonice/bestikonice/LOGO%20png.png" group-title="Film",Best TV Premium
-http://bntvs.com:2052/mrshox/85764025h64534/23465
-#EXTINF:-1 tvg-id="" tvg-name="Best TV Action" tvg-logo="http://ikonice.zvjerka.com/ikonice/bestikonice/LOGO%20png.png" group-title="Film",Best TV Action
-http://bntvs.com:2052/mrshox/85764025h64534/23466
-#EXTINF:-1 tvg-id="" tvg-name="Best TV War" tvg-logo="http://ikonice.zvjerka.com/ikonice/bestikonice/LOGO%20png.png" group-title="Film",Best TV War
-http://ntv.nasaott.com:80/tesobesttvch/HACHtiF6MF/667
-#EXTINF:-1 tvg-id="" tvg-name="Best TV Comedy" tvg-logo="http://ikonice.zvjerka.com/ikonice/bestikonice/LOGO%20png.png" group-title="Film",Best TV Comedy
-http://bntvs.com:2052/mrshox/85764025h64534/23469
-#EXTINF:-1 tvg-id="" tvg-name="Best TV SciFi" tvg-logo="http://ikonice.zvjerka.com/ikonice/bestikonice/LOGO%20png.png" group-title="Film",Best TV SciFi
-http://bntvs.com:2052/mrshox/85764025h64534/23470
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 1
-http://bntvs.com:2052/mrshox/85764025h64534/8685
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 2
-http://bntvs.com:2052/mrshox/85764025h64534/8686
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 3
-http://bntvs.com:2052/mrshox/85764025h64534/8687
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 4
-http://bntvs.com:2052/mrshox/85764025h64534/8688
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 5
-http://bntvs.com:2052/mrshox/85764025h64534/8689
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 6
-http://bntvs.com:2052/mrshox/85764025h64534/8690
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 8
-http://bntvs.com:2052/mrshox/85764025h64534/8692
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 9
-http://bntvs.com:2052/mrshox/85764025h64534/8693
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Gold" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Gold
-http://bntvs.com:2052/mrshox/85764025h64534/8697
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 1
-http://bntvs.com:2052/mrshox/85764025h64534/8670
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 2
-http://bntvs.com:2052/mrshox/85764025h64534/8671
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 4" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 4
-http://bntvs.com:2052/mrshox/85764025h64534/8672
-#EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/7.%20dm%20sat.jpg" group-title="Muzika",DM Sat
-http://bntvs.com:2052/mrshox/85764025h64534/8699
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/8.%20GRAND%202.png" group-title="Muzika",Grand 2
-http://bntvs.com:2052/mrshox/85764025h64534/8700
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/9.%20grand%20televizija.png" group-title="Muzika",Grand Narodna TV
-http://bntvs.com:2052/mrshox/85764025h64534/8701
-#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/IzvornaTV_logo.png" group-title="Muzika",Izvorna TV
-http://bntvs.com:2052/mrshox/85764025h64534/8702
-#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/jugoton-tv-logo.png" group-title="Muzika",Jugoton TV
-http://bntvs.com:2052/mrshox/85764025h64534/8703
-#EXTINF:-1 tvg-id="mtv-base" tvg-name="MTV Base" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/13.%20MTV%20BASE.jpg" group-title="Muzika",MTV Base
-http://bntvs.com:2052/mrshox/85764025h64534/8710
-#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV Hits" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/15.%20MTV%20HITS.png" group-title="Muzika",MTV Hits
-http://bntvs.com:2052/mrshox/85764025h64534/8712
-#EXTINF:-1 tvg-id="balkanika" tvg-name="Balkanika TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/16.%20Balkanika.png" group-title="Muzika",Balkanika TV
-http://bntvs.com:2052/mrshox/85764025h64534/8713
-#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Muzicki/IDJTV.jpg" group-title="Muzika",IDJ TV
-http://bntvs.com:2052/mrshox/85764025h64534/8715
-#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="Duga TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png" group-title="Muzika",Duga TV
-http://bntvs.com:2052/mrshox/85764025h64534/8716
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 1
-http://bntvs.com:2052/mrshox/85764025h64534/8704
-#EXTINF:-1 tvg-id="k-cn-music" tvg-name="K::CN 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 2
-http://bntvs.com:2052/mrshox/85764025h64534/8705
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 3
-http://bntvs.com:2052/mrshox/85764025h64534/8706
-#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/71.%20SEVDAH%20TV.png" group-title="Muzika",Sevdah TV
-http://bntvs.com:2052/mrshox/85764025h64534/8707
-#EXTINF:-1 tvg-id="" tvg-name="Moj Kanal BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/12.%20MOJ%20KANAL%20OK.png" group-title="Muzika",Moj Kanal BiH
-http://bntvs.com:2052/mrshox/85764025h64534/8708
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/vh1-classic-logo.png" group-title="Muzika",VH1 Classic TV
-http://bntvs.com:2052/mrshox/85764025h64534/8682
-#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/4.%20MTV%20ADRIA.png" group-title="Muzika",MTV Adria
-http://bntvs.com:2052/mrshox/85764025h64534/8709
-#EXTINF:-1 tvg-id="" tvg-name="Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/14.%20NARODNA%20TV.jpg" group-title="Muzika",Narodna TV
-http://bntvs.com:2052/mrshox/85764025h64534/8711
-#EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/planeta_tv.png" group-title="Muzika",Planeta TV
-http://bntvs.com:2052/mrshox/85764025h64534/8714
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/cartoon_network_logo.png" group-title="Djeciji",Cartoon Network
-http://bntvs.com:2052/mrshox/85764025h64534/8719
-#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/babatv-logo.png" group-title="Djeciji",Baby TV
-http://bntvs.com:2052/mrshox/85764025h64534/8720
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/boomerang_it_logo.png" group-title="Djeciji",Boomerang
-http://bntvs.com:2052/mrshox/85764025h64534/8721
-#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Disney_Channel_2014.png" group-title="Djeciji",Disney channel
-http://bntvs.com:2052/mrshox/85764025h64534/8722
-#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/minimax-logo.png" group-title="Djeciji",Minimax
-http://bntvs.com:2052/mrshox/85764025h64534/8724
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/11.%20NICK%20JR.png" group-title="Djeciji",Nick Jr.
-http://bntvs.com:2052/mrshox/85764025h64534/8725
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nickelodeon-logo.png" group-title="Djeciji",Nickelodeon
-http://bntvs.com:2052/mrshox/85764025h64534/8726
-#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pikaboo_logo.png" group-title="Djeciji",Pikaboo
-http://bntvs.com:2052/mrshox/85764025h64534/8729
-#EXTINF:-1 tvg-id="toggo-plus" tvg-name="Toggo Plus" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/TOGGO%20PLUS.png" group-title="Djeciji",Toggo Plus
-http://bntvs.com:2052/mrshox/85764025h64534/8730
-#EXTINF:-1 tvg-id="vavoom" tvg-name="Vavoom TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Vavoom.png" group-title="Djeciji",Vavoom TV
-http://bntvs.com:2052/mrshox/85764025h64534/8734
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry 24 h" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/4.%20tom%20and%20jerry.png" group-title="Djeciji",Tom and Jerry 24 h
-http://bntvs.com:2052/mrshox/85764025h64534/8718
-#EXTINF:-1 tvg-id="" tvg-name="Mini Ultra TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/9.%20MINI%20ULTRA.jpg" group-title="Djeciji",Mini Ultra TV
-http://bntvs.com:2052/mrshox/85764025h64534/8723
-#EXTINF:-1 tvg-id="" tvg-name="Ultra TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Ultra-tv-logo.png" group-title="Djeciji",Ultra TV
-http://bntvs.com:2052/mrshox/85764025h64534/8727
-#EXTINF:-1 tvg-id="" tvg-name="TNT Kids" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/TNT.png" group-title="Djeciji",TNT Kids
-http://bntvs.com:2052/mrshox/85764025h64534/8728
-#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Masa%20i%20Medo.png" group-title="Djeciji",Masa i Medo
-http://bntvs.com:2052/mrshox/85764025h64534/8732
-#EXTINF:-1 tvg-id="" tvg-name="Sundjer Bob" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sundjer%20Bob.png" group-title="Djeciji",Sundjer Bob
-http://bntvs.com:2052/mrshox/85764025h64534/8733
-#EXTINF:-1 tvg-id="pink-action" tvg-name="Pink Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-action-logo.png" group-title="Pink",Pink Action
-http://bntvs.com:2052/mrshox/85764025h64534/8740
-#EXTINF:-1 tvg-id="pink-comedy" tvg-name="Pink Comedy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkComedy.png" group-title="Pink",Pink Comedy
-http://bntvs.com:2052/mrshox/85764025h64534/8741
-#EXTINF:-1 tvg-id="pink-action-3" tvg-name="Pink Crime & Mystery" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/CRIME.png" group-title="Pink",Pink Crime & Mystery
-http://bntvs.com:2052/mrshox/85764025h64534/8742
-#EXTINF:-1 tvg-id="pink-film" tvg-name="Pink Film" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-film-logo.png" group-title="Pink",Pink Film
-http://bntvs.com:2052/mrshox/85764025h64534/8743
-#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/PinkFolk1_SRB.png" group-title="Pink",Pink Folk 1
-http://bntvs.com:2052/mrshox/85764025h64534/8744
-#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/Pink_Folk2.png" group-title="Pink",Pink Folk 2
-http://bntvs.com:2052/mrshox/85764025h64534/8745
-#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="PINK HA HA" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/PINK%20HAHA.png" group-title="Pink",PINK HA HA
-http://bntvs.com:2052/mrshox/85764025h64534/8746
-#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-kids-logo.png" group-title="Pink",Pink Kids
-http://bntvs.com:2052/mrshox/85764025h64534/8747
-#EXTINF:-1 tvg-id="pink-movies" tvg-name="Pink Movies" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/pink-movies-logo.png" group-title="Pink",Pink Movies
-http://bntvs.com:2052/mrshox/85764025h64534/8748
-#EXTINF:-1 tvg-id="pink-music" tvg-name="Pink Music 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkMusic_logo.png" group-title="Pink",Pink Music 1
-http://bntvs.com:2052/mrshox/85764025h64534/8749
-#EXTINF:-1 tvg-id="pink-music-2" tvg-name="Pink Music 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkMusic2_logo.png" group-title="Pink",Pink Music 2
-http://bntvs.com:2052/mrshox/85764025h64534/8750
-#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkPlus.png" group-title="Pink",Pink Plus
-http://bntvs.com:2052/mrshox/85764025h64534/8751
-#EXTINF:-1 tvg-id="pink-premium" tvg-name="Pink Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkPremium.png" group-title="Pink",Pink Premium
-http://bntvs.com:2052/mrshox/85764025h64534/8752
-#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Pink",Pink Reality
-http://bntvs.com:2052/mrshox/85764025h64534/8753
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="Pink Romance" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Romance_logo.png" group-title="Pink",Pink Romance
-http://bntvs.com:2052/mrshox/85764025h64534/8754
-#EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkHorror.png" group-title="Pink",Pink Horror
-http://bntvs.com:2052/mrshox/85764025h64534/8755
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_SciFi_Fantasy_logo.png" group-title="Pink",Pink Sci Fi & Fantasy
-http://bntvs.com:2052/mrshox/85764025h64534/8756
-#EXTINF:-1 tvg-id="pink-action-2" tvg-name="Pink Thriler" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Thriller_logo.png" group-title="Pink",Pink Thriler
-http://bntvs.com:2052/mrshox/85764025h64534/8757
-#EXTINF:-1 tvg-id="pink-serije" tvg-name="Pink Serije" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Serije_logo.png" group-title="Pink",Pink Serije
-http://bntvs.com:2052/mrshox/85764025h64534/8758
-#EXTINF:-1 tvg-id="pink-show" tvg-name="Pink Show" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkShow.png" group-title="Pink",Pink Show
-http://bntvs.com:2052/mrshox/85764025h64534/8759
-#EXTINF:-1 tvg-id="pink-soap" tvg-name="Pink Soap" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkSoap_logo2.png" group-title="Pink",Pink Soap
-http://bntvs.com:2052/mrshox/85764025h64534/8760
-#EXTINF:-1 tvg-id="pink-western" tvg-name="Pink Western" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/PINK%20WESTERN.png" group-title="Pink",Pink Western
-http://bntvs.com:2052/mrshox/85764025h64534/8761
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkWorldCinema_logo.png" group-title="Pink",Pink World Cinema
-http://bntvs.com:2052/mrshox/85764025h64534/8762
-#EXTINF:-1 tvg-id="pink-zabava" tvg-name="Pink Zabava" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkZabava_logo.png" group-title="Pink",Pink Zabava
-http://bntvs.com:2052/mrshox/85764025h64534/8763
-#EXTINF:-1 tvg-id="pink-hits" tvg-name="PINK Hits 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkHits_logo.png" group-title="Pink",PINK Hits 1
-http://bntvs.com:2052/mrshox/85764025h64534/8765
-#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Kuvar_logo.png" group-title="Pink",Pink Kuvar
-http://bntvs.com:2052/mrshox/85764025h64534/8766
-#EXTINF:-1 tvg-id="pink-classic" tvg-name="Pink Classic" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-classic-logo.png" group-title="Pink",Pink Classic
-http://bntvs.com:2052/mrshox/85764025h64534/8767
-#EXTINF:-1 tvg-id="pink-extra" tvg-name="Pink Extra" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkExtra.png" group-title="Pink",Pink Extra
-http://bntvs.com:2052/mrshox/85764025h64534/8768
-#EXTINF:-1 tvg-id="pink-family" tvg-name="Pink Family" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-family-logo.png" group-title="Pink",Pink Family
-http://bntvs.com:2052/mrshox/85764025h64534/8769
-#EXTINF:-1 tvg-id="pink-koncert" tvg-name="Pink Koncert" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkKoncert_logo.png" group-title="Pink",Pink Koncert
-http://bntvs.com:2052/mrshox/85764025h64534/8770
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkSuperKids_logo.png" group-title="Pink",Pink Super Kids
-http://bntvs.com:2052/mrshox/85764025h64534/8771
-#EXTINF:-1 tvg-id="pink-lol" tvg-name="Pink LOL" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LOL.png" group-title="Pink",Pink LOL
-http://bntvs.com:2052/mrshox/85764025h64534/8772
-#EXTINF:-1 tvg-id="" tvg-name="PINK Bravo" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/PinkBravo-uzivotv.jpeg" group-title="Pink",PINK Bravo
-http://bntvs.com:2052/mrshox/85764025h64534/8764
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 1
-http://bntvs.com:2052/mrshox/85764025h64534/8736
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 2
-http://bntvs.com:2052/mrshox/85764025h64534/8737
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 3
-http://bntvs.com:2052/mrshox/85764025h64534/8738
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 4
-http://bntvs.com:2052/mrshox/85764025h64534/8739
-
 #EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/24kitchen_bg.png" group-title="Edukativni",24 Kitchen
-http://bntvs.com:2052/mrshox/85764025h64534/8564
-#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/ANIMAL%20PLANET.png" group-title="Edukativni",Animal Planet
-http://bntvs.com:2052/mrshox/85764025h64534/8565
-#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/9.%20CBS%20REALITY.png" group-title="Edukativni",CBS Reality
-http://bntvs.com:2052/mrshox/85764025h64534/8566
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/1.%20CNN.png" group-title="Edukativni",CNN
-http://bntvs.com:2052/mrshox/85764025h64534/8567
-#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Investigation" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/CRIME%20INVESTIGATION.jpg" group-title="Edukativni",Crime & Investigation
-http://bntvs.com:2052/mrshox/85764025h64534/8568
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DA%20VINCI%20LEARNING%20ok.png" group-title="Djeciji",Da Vinci Learning
-http://bntvs.com:2052/mrshox/85764025h64534/8569
-#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DISCOVERY%20CHANNEL.png" group-title="Edukativni",Discovery Channel
-http://bntvs.com:2052/mrshox/85764025h64534/8570
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Discovery ID" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/ID%20DISCOVERY.png" group-title="Edukativni",Discovery ID
-http://bntvs.com:2052/mrshox/85764025h64534/8571
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DISCOVERY%20SCIENCE.png" group-title="Edukativni",Discovery Science HD
-http://bntvs.com:2052/mrshox/85764025h64534/8572
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="Discovery TLC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/tlc-logo.png" group-title="Edukativni",Discovery TLC
-http://bntvs.com:2052/mrshox/85764025h64534/8573
-#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBOX" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/10.%20DOCU%20BOX%20OK.png" group-title="Edukativni",DocuBOX
-http://bntvs.com:2052/mrshox/85764025h64534/8575
-#EXTINF:-1 tvg-id="planet-earth" tvg-name="Planet Earth" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/11.%20planet%20earth.png" group-title="Edukativni",Planet Earth
-http://bntvs.com:2052/mrshox/85764025h64534/8576
-#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC Earth" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/12.%20BBC%20EARTH.png" group-title="Edukativni",BBC Earth
-http://bntvs.com:2052/mrshox/85764025h64534/8577
-#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/14.%20History%20channwl.png" group-title="Edukativni",History Channel
-http://bntvs.com:2052/mrshox/85764025h64534/8578
-#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History Channel 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/13.%20history%202.png" group-title="Edukativni",History Channel 2
-http://bntvs.com:2052/mrshox/85764025h64534/8579
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="Nat Geo Wild" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/15.%20Nat%20Geo%20Wild.png" group-title="Edukativni",Nat Geo Wild
-http://bntvs.com:2052/mrshox/85764025h64534/8580
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/16.%20NatGeo.png" group-title="Edukativni",National Geographic
-http://bntvs.com:2052/mrshox/85764025h64534/8581
-#EXTINF:-1 tvg-id="discovery-turbo-extra" tvg-name="DTX Discovery" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/DTX.png" group-title="Edukativni",DTX Discovery
-http://bntvs.com:2052/mrshox/85764025h64534/8582
-#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/travel-channel-logo.png" group-title="Edukativni",Travel Channel
-http://bntvs.com:2052/mrshox/85764025h64534/8583
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explore" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/17.%20Viasat%20Explore.png" group-title="Edukativni",Viasat Explore
-http://bntvs.com:2052/mrshox/85764025h64534/8584
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/18.%20VIASAT%20HISTORY%20OK.png" group-title="Edukativni",Viasat History
-http://bntvs.com:2052/mrshox/85764025h64534/8585
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/19.%20Viasat%20Nature.png" group-title="Edukativni",Viasat Nature
-http://bntvs.com:2052/mrshox/85764025h64534/8586
-#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="Poljoprivredna TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="Edukativni",Poljoprivredna TV
-http://bntvs.com:2052/mrshox/85764025h64534/8587
-#EXTINF:-1 tvg-id="balkan-trip" tvg-name="Balkan Trip" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngeXIbIbnAK_2pujSjnu6uQ_w4kyFxpE_sXYgyY=s900-c-k-c0x00ffffff-no-rj" group-title="Edukativni",Balkan Trip
-http://bntvs.com:2052/mrshox/85764025h64534/8589
-#EXTINF:-1 tvg-id="" tvg-name="Fine Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fine-living-logo.png" group-title="Edukativni",Fine Living
-http://bntvs.com:2052/mrshox/85764025h64534/8574
-
-
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT  1 HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska",HRT  1 HD
+http://ottshow.net:80/live/nakakanl/r43cn/30473.ts
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT  2 HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="Hrvatska",HRT  2 HD
+http://ottshow.net:80/live/nakakanl/r43cn/30474.ts
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3hd.gif" group-title="Hrvatska",HRT 3 HD
+http://ottshow.net:80/live/nakakanl/r43cn/30475.ts
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova TV HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/novahd.gif" group-title="Hrvatska",Nova TV HD
+http://ottshow.net:80/live/nakakanl/r43cn/2470.ts
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatskahd.gif" group-title="Hrvatska",RTL HD
+http://ottshow.net:80/live/nakakanl/r43cn/30476.ts
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska",RTL 2 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45.ts
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma HD" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska",Doma HD
+http://ottshow.net:80/live/nakakanl/r43cn/112.ts
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/n1hr.gif" group-title="Hrvatska",N1 HR
+http://ottshow.net:80/live/nakakanl/r43cn/3774.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1.gif" group-title="Hrvatska",HRT 1
+http://ottshow.net:80/live/nakakanl/r43cn/40.ts
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2.gif" group-title="Hrvatska",HRT 2
+http://ottshow.net:80/live/nakakanl/r43cn/41.ts
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3.gif" group-title="Hrvatska",HRT 3
+http://ottshow.net:80/live/nakakanl/r43cn/353.ts
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt4.gif" group-title="Hrvatska",HRT 4
+http://ottshow.net:80/live/nakakanl/r43cn/354.ts
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT int." tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt5.gif" group-title="Hrvatska",HRT int.
+http://ottshow.net:80/live/nakakanl/r43cn/9049.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT Doku" tvg-logo="" group-title="Hrvatska",HRT Doku
+http://ottshow.net:80/live/nakakanl/r43cn/73694.ts
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova TV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska",Nova TV
+http://ottshow.net:80/live/nakakanl/r43cn/22.ts
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma " tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska",Doma 
+http://ottshow.net:80/live/nakakanl/r43cn/68556.ts
+#EXTINF:-1 tvg-id="nova-world" tvg-name="Nova World" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novaworld.gif" group-title="Hrvatska",Nova World
+http://ottshow.net:80/live/nakakanl/r43cn/45126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 4K" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/hrvatska/novacinema4k.gif" group-title="Hrvatska",Nova Cinema 4K
+http://ottshow.net:80/live/nakakanl/r43cn/69176.ts
+#EXTINF:-1 tvg-id="nova-plus-family" tvg-name="Nova Family" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/novafamily.gif" group-title="Hrvatska",Nova Family
+http://ottshow.net:80/live/nakakanl/r43cn/39435.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova Series" tvg-logo="" group-title="Hrvatska",Nova Series
+http://ottshow.net:80/live/nakakanl/r43cn/72613.ts
+#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-name="Nova Cinema " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/novacinema.gif" group-title="Hrvatska",Nova Cinema 
+http://ottshow.net:80/live/nakakanl/r43cn/39476.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novacinema2.gif" group-title="Hrvatska",Nova Cinema 2
+http://ottshow.net:80/live/nakakanl/r43cn/45121.ts
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatska.gif" group-title="Hrvatska",RTL 
+http://ottshow.net:80/live/nakakanl/r43cn/23.ts
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska",RTL 2 
+http://ottshow.net:80/live/nakakanl/r43cn/68558.ts
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-name="RTL World" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlworld.gif" group-title="Hrvatska",RTL World
+http://ottshow.net:80/live/nakakanl/r43cn/45127.ts
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Passion" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlpassion.gif" group-title="Hrvatska",RTL Passion
+http://ottshow.net:80/live/nakakanl/r43cn/1198.ts
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlkrime.gif" group-title="Hrvatska",RTL Crime
+http://ottshow.net:80/live/nakakanl/r43cn/1199.ts
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlliving.gif" group-title="Hrvatska",RTL Living
+http://ottshow.net:80/live/nakakanl/r43cn/2502.ts
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL Adria" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtladria.gif" group-title="Hrvatska",RTL Adria
+http://ottshow.net:80/live/nakakanl/r43cn/26431.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL+" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlplus.gif" group-title="Hrvatska",RTL+
+http://ottshow.net:80/live/nakakanl/r43cn/45113.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL Play" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/RTL%20Pley.gif" group-title="Hrvatska",RTL Play
+http://ottshow.net:80/live/nakakanl/r43cn/45120.ts
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/z1.gif" group-title="Hrvatska",Z1
+http://ottshow.net:80/live/nakakanl/r43cn/1550.ts
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/laudatotv.gif" group-title="Hrvatska",Laudato 
+http://ottshow.net:80/live/nakakanl/r43cn/24581.ts
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vinkovacka.gif" group-title="Hrvatska",Vinkovacka 
+http://ottshow.net:80/live/nakakanl/r43cn/551.ts
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/slavonskatv.gif" group-title="Hrvatska",Slavonska 
+http://ottshow.net:80/live/nakakanl/r43cn/1176.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="Hrvatska",OTV
+http://ottshow.net:80/live/nakakanl/r43cn/4537.ts
+#EXTINF:-1 tvg-id="cakovec" tvg-name="Zdrava Tv " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/srcetv.gif" group-title="Hrvatska",Zdrava Tv 
+http://ottshow.net:80/live/nakakanl/r43cn/4632.ts
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VTV Varaždin" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vtvvarazdintv.gif" group-title="Hrvatska",VTV Varaždin
+http://ottshow.net:80/live/nakakanl/r43cn/5015.ts
+#EXTINF:-1 tvg-id="rtv-hb" tvg-name="Herceg Bosna" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hercegbosnatv.gif" group-title="Hrvatska",Herceg Bosna
+http://ottshow.net:80/live/nakakanl/r43cn/5017.ts
+#EXTINF:-1 tvg-id="tv-jadran" tvg-name="Jadran tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jadrantv.gif" group-title="Hrvatska",Jadran tv
+http://ottshow.net:80/live/nakakanl/r43cn/5018.ts
+#EXTINF:-1 tvg-id="tv-dalmacija" tvg-name="Televizija Dalmacija" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/televizija-dalmacija.gif" group-title="Hrvatska",Televizija Dalmacija
+http://ottshow.net:80/live/nakakanl/r43cn/69879.ts
+#EXTINF:-1 tvg-id="sbtv" tvg-name="SBTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/sbtv.gif" group-title="Hrvatska",SBTV
+http://ottshow.net:80/live/nakakanl/r43cn/9125.ts
+#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="Poljoprivredna " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/poljuprivrednatv.gif" group-title="Hrvatska",Poljoprivredna 
+http://ottshow.net:80/live/nakakanl/r43cn/22517.ts
+#EXTINF:-1 tvg-id="libertas-tv" tvg-name="Libertas " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/libertastv.gif" group-title="Hrvatska",Libertas 
+http://ottshow.net:80/live/nakakanl/r43cn/24582.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Dubrovnik" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/tvdubrovnik.gif" group-title="Hrvatska",TV Dubrovnik
+http://ottshow.net:80/live/nakakanl/r43cn/3819.ts
+#EXTINF:-1 tvg-id="" tvg-name="Osjecka " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/osijeckatv.gif" group-title="Hrvatska",Osjecka 
+http://ottshow.net:80/live/nakakanl/r43cn/1207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marry TV Medugorje" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/marrytvmedugorije.gif" group-title="Hrvatska",Marry TV Medugorje
+http://ottshow.net:80/live/nakakanl/r43cn/29258.ts
+#EXTINF:-1 tvg-id="kanal-ri" tvg-name="kanalR" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/kanal-ir.gif" group-title="Hrvatska",kanalR
+http://ottshow.net:80/live/nakakanl/r43cn/66467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mreža tv Zagreb" tvg-logo="http://web.izipizi1.info/pi/mreza-zg-tv.png" group-title="Hrvatska",Mreža tv Zagreb
+http://ottshow.net:80/live/nakakanl/r43cn/39477.ts
+#EXTINF:-1 tvg-id="" tvg-name="CroTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/crotv.gif" group-title="Hrvatska",CroTV
+http://ottshow.net:80/live/nakakanl/r43cn/67281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trend Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/trend-tv.gif" group-title="Hrvatska",Trend Tv
+http://ottshow.net:80/live/nakakanl/r43cn/69886.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Zapad" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/tvz.gif" group-title="Hrvatska",Tv Zapad
+http://ottshow.net:80/live/nakakanl/r43cn/69895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="Hrvatska",Prigorska Tv
+http://ottshow.net:80/live/nakakanl/r43cn/69903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Sibenik" tvg-logo="" group-title="Hrvatska",Tv Sibenik
+http://ottshow.net:80/live/nakakanl/r43cn/71763.ts
 #CRTANI FILMOVI
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",*** SINKRONIZIRANO ***
