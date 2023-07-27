@@ -109,6 +109,660 @@ http://ottshow.net:80/live/nakakanl/r43cn/69895.ts
 http://ottshow.net:80/live/nakakanl/r43cn/69903.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tv Sibenik" tvg-logo="" group-title="Hrvatska",Tv Sibenik
 http://ottshow.net:80/live/nakakanl/r43cn/71763.ts
+
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MAXSport 1 SD" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport",MAXSport 1 SD
+http://ottshow.net:80/live/nakakanl/r43cn/71739.ts
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MAXSport 1 " tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport",MAXSport 1 
+http://ottshow.net:80/live/nakakanl/r43cn/2496.ts
+#EXTINF:-1 tvg-id="maxsport-2" tvg-name="MAXSport 2 " tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Sport",MAXSport 2 
+http://ottshow.net:80/live/nakakanl/r43cn/61224.ts
+#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif" group-title="Sport",Eurosport 1
+http://ottshow.net:80/live/nakakanl/r43cn/66.ts
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif" group-title="Sport",Eurosport 2
+http://ottshow.net:80/live/nakakanl/r43cn/67.ts
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="Sport Klub " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif" group-title="Sport",Sport Klub 
+http://ottshow.net:80/live/nakakanl/r43cn/34330.ts
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="Sport Klub 1 " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif" group-title="Sport",Sport Klub 1 
+http://ottshow.net:80/live/nakakanl/r43cn/39321.ts
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="Sport Klub 2 " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif" group-title="Sport",Sport Klub 2 
+http://ottshow.net:80/live/nakakanl/r43cn/62.ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif" group-title="Sport",Sport Klub 3 
+http://ottshow.net:80/live/nakakanl/r43cn/64.ts
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="Sport Klub 1 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdhr.gif" group-title="Sport",Sport Klub 1 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/39318.ts
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="Sport Klub 2 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdhr.gif" group-title="Sport",Sport Klub 2 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/33.ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hdhr.gif" group-title="Sport",Sport Klub 3 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/34.ts
+#EXTINF:-1 tvg-id="sport-klub-si" tvg-name="Sport Klub 1 SL " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdslo.gif" group-title="Sport",Sport Klub 1 SL 
+http://ottshow.net:80/live/nakakanl/r43cn/29776.ts
+#EXTINF:-1 tvg-id="sport-klub-plus-si" tvg-name="Sport Klub 2 SL " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdslo.gif" group-title="Sport",Sport Klub 2 SL 
+http://ottshow.net:80/live/nakakanl/r43cn/29777.ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 SL " tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3slohd.gif" group-title="Sport",Sport Klub 3 SL 
+http://ottshow.net:80/live/nakakanl/r43cn/29779.ts
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="Sport Klub 4" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif" group-title="Sport",Sport Klub 4
+http://ottshow.net:80/live/nakakanl/r43cn/205.ts
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="Sport Klub 5" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif" group-title="Sport",Sport Klub 5
+http://ottshow.net:80/live/nakakanl/r43cn/1202.ts
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="Sport Klub 6" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif" group-title="Sport",Sport Klub 6
+http://ottshow.net:80/live/nakakanl/r43cn/1626.ts
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="Sport Klub 7" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif" group-title="Sport",Sport Klub 7
+http://ottshow.net:80/live/nakakanl/r43cn/69870.ts
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="Sport Klub 8" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif" group-title="Sport",Sport Klub 8
+http://ottshow.net:80/live/nakakanl/r43cn/69871.ts
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="Sport Klub 9" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif" group-title="Sport",Sport Klub 9
+http://ottshow.net:80/live/nakakanl/r43cn/69872.ts
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="Sport Klub 10" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif" group-title="Sport",Sport Klub 10
+http://ottshow.net:80/live/nakakanl/r43cn/69873.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-name="Arena Premium 1 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport",Arena Premium 1 BiH
+http://ottshow.net:80/live/nakakanl/r43cn/67283.ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-name="Arena Premium 2 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport",Arena Premium 2 BiH
+http://ottshow.net:80/live/nakakanl/r43cn/67284.ts
+#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-name="Arena Premium 3 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport",Arena Premium 3 BiH
+http://ottshow.net:80/live/nakakanl/r43cn/67285.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Premium 1 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport",Arena Premium 1 SR
+http://ottshow.net:80/live/nakakanl/r43cn/39440.ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Premium 2 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport",Arena Premium 2 SR
+http://ottshow.net:80/live/nakakanl/r43cn/39441.ts
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena Premium 3 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport",Arena Premium 3 SR
+http://ottshow.net:80/live/nakakanl/r43cn/39439.ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium-si" tvg-name="Arena Premium 1 SL" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport",Arena Premium 1 SL
+http://ottshow.net:80/live/nakakanl/r43cn/62594.ts
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="Arena Sport 1 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="Sport",Arena Sport 1 BiH
+http://ottshow.net:80/live/nakakanl/r43cn/128.ts
+#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-name="Arena Sport 2 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="Sport",Arena Sport 2 BiH
+http://ottshow.net:80/live/nakakanl/r43cn/29.ts
+#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-name="Arena Sport 3 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="Sport",Arena Sport 3 BiH
+http://ottshow.net:80/live/nakakanl/r43cn/30.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 BiH" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="Sport",Arena Sport 4 BiH
+http://ottshow.net:80/live/nakakanl/r43cn/31.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="Arena Sport 1 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif" group-title="Sport",Arena Sport 1 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/27.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="Arena Sport 2 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif" group-title="Sport",Arena Sport 2 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/192.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="Arena Sport 3 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif" group-title="Sport",Arena Sport 3 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/193.ts
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif" group-title="Sport",Arena Sport 4 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/194.ts
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport",Arena Sport 5 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/645.ts
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport",Arena Sport 6 HR
+http://ottshow.net:80/live/nakakanl/r43cn/37928.ts
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="Arena Sport 7 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="Sport",Arena Sport 7 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/35185.ts
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="Arena Sport 8 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="Sport",Arena Sport 8 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/35186.ts
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="Arena Sport 9 HR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif" group-title="Sport",Arena Sport 9 HR
+http://ottshow.net:80/live/nakakanl/r43cn/35187.ts
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="Arena Sport 10 HR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="Sport",Arena Sport 10 HR 
+http://ottshow.net:80/live/nakakanl/r43cn/35188.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport",Arena Sport 1 SR
+http://ottshow.net:80/live/nakakanl/r43cn/28.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2 SR " tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport",Arena Sport 2 SR 
+http://ottshow.net:80/live/nakakanl/r43cn/1043.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport",Arena Sport 3 SR
+http://ottshow.net:80/live/nakakanl/r43cn/1044.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport",Arena Sport 4 SR
+http://ottshow.net:80/live/nakakanl/r43cn/1045.ts
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport",Arena Sport 5 SR
+http://ottshow.net:80/live/nakakanl/r43cn/66258.ts
+#EXTINF:-1 tvg-id="arena-sport-6" tvg-name="Arena Sport 6 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport",Arena Sport 6 SR
+http://ottshow.net:80/live/nakakanl/r43cn/66259.ts
+#EXTINF:-1 tvg-id="arena-sport-7" tvg-name="Arena Sport 7 SR" tvg-logo="https://1fichier.com/?of13yl2xvlyh3mge9umm" group-title="Sport",Arena Sport 7 SR
+http://ottshow.net:80/live/nakakanl/r43cn/70657.ts
+#EXTINF:-1 tvg-id="arena-sport-8" tvg-name="Arena Sport 8 SR" tvg-logo="https://1fichier.com/?b0ti5cmsqfug9p1c9tlr" group-title="Sport",Arena Sport 8 SR
+http://ottshow.net:80/live/nakakanl/r43cn/70658.ts
+#EXTINF:-1 tvg-id="arena-sport-9-rs" tvg-name="Arena Sport 9 SR" tvg-logo="https://1fichier.com/?3s159hocy4dsept6diix" group-title="Sport",Arena Sport 9 SR
+http://ottshow.net:80/live/nakakanl/r43cn/70659.ts
+#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-name="Arena Sport 10 SR" tvg-logo="https://repo.ottshow.net/pikoni/sport/srbarena%2010.gif" group-title="Sport",Arena Sport 10 SR
+http://ottshow.net:80/live/nakakanl/r43cn/70660.ts
+#EXTINF:-1 tvg-id="arena-sport-1-si" tvg-name="Arena Sport 1 SL" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport",Arena Sport 1 SL
+http://ottshow.net:80/live/nakakanl/r43cn/62590.ts
+#EXTINF:-1 tvg-id="arena-sport-2-si" tvg-name="Arena Sport 2 SL" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport",Arena Sport 2 SL
+http://ottshow.net:80/live/nakakanl/r43cn/62591.ts
+#EXTINF:-1 tvg-id="arena-sport-3-si" tvg-name="Arena Sport 3 SL" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport",Arena Sport 3 SL
+http://ottshow.net:80/live/nakakanl/r43cn/62592.ts
+#EXTINF:-1 tvg-id="arena-sport-4-si" tvg-name="Arena Sport 4 SL" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport",Arena Sport 4 SL
+http://ottshow.net:80/live/nakakanl/r43cn/62593.ts
+#EXTINF:-1 tvg-id="arena-esport" tvg-name="Arena ESport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif" group-title="Sport",Arena ESport
+http://ottshow.net:80/live/nakakanl/r43cn/36410.ts
+#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-name="Arena Sport 1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Sport",Arena Sport 1x2
+http://ottshow.net:80/live/nakakanl/r43cn/66260.ts
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="Sport SLO 1" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif" group-title="Sport",Sport SLO 1
+http://ottshow.net:80/live/nakakanl/r43cn/206.ts
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="Sport SLO 2" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif" group-title="Sport",Sport SLO 2
+http://ottshow.net:80/live/nakakanl/r43cn/207.ts
+#EXTINF:-1 tvg-id="stv3" tvg-name="Sport SLO 3" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif" group-title="Sport",Sport SLO 3
+http://ottshow.net:80/live/nakakanl/r43cn/208.ts
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MAXSport 1 SD" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport",MAXSport 1 SD
+http://ottshow.net:80/live/nakakanl/r43cn/71739.ts
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="MAXSport 1 " tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport",MAXSport 1 
+http://ottshow.net:80/live/nakakanl/r43cn/2496.ts
+#EXTINF:-1 tvg-id="maxsport-2" tvg-name="MAXSport 2 " tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Sport",MAXSport 2 
+http://ottshow.net:80/live/nakakanl/r43cn/61224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport " tvg-logo="http://repo.ottshow.net/pikoni/sport/novasporthd.gif" group-title="Sport",Nova Sport 
+http://ottshow.net:80/live/nakakanl/r43cn/25463.ts
+#EXTINF:-1 tvg-id="city-tv" tvg-name="City TV" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif" group-title="Sport",City TV
+http://ottshow.net:80/live/nakakanl/r43cn/29606.ts
+#EXTINF:-1 tvg-id="sportska-televizija" tvg-name="SPTV" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif" group-title="Sport",SPTV
+http://ottshow.net:80/live/nakakanl/r43cn/12622.ts
+#EXTINF:-1 tvg-id="sos" tvg-name="SOS Kanal" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif" group-title="Sport",SOS Kanal
+http://ottshow.net:80/live/nakakanl/r43cn/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zvezda Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif" group-title="Sport",Zvezda Tv
+http://ottshow.net:80/live/nakakanl/r43cn/69875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Partizan" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif" group-title="Sport",Tv Partizan
+http://ottshow.net:80/live/nakakanl/r43cn/69874.ts
+#EXTINF:-1 tvg-id="fight-klub-hd" tvg-name="Sport Klub Golf" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif" group-title="Sport",Sport Klub Golf
+http://ottshow.net:80/live/nakakanl/r43cn/68481.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Fight" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif" group-title="Sport",Sport Klub Fight
+http://ottshow.net:80/live/nakakanl/r43cn/68480.ts
+#EXTINF:-1 tvg-id="arena-fight" tvg-name="Arena Fight" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif" group-title="Sport",Arena Fight
+http://ottshow.net:80/live/nakakanl/r43cn/30491.ts
+#EXTINF:-1 tvg-id="fight-network" tvg-name="Fight Network" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif" group-title="Sport",Fight Network
+http://ottshow.net:80/live/nakakanl/r43cn/61.ts
+#EXTINF:-1 tvg-id="premier-league-tv" tvg-name="Premijer Legue" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/premierleague.gif" group-title="Sport Plus",Premijer Legue
+http://ottshow.net:80/live/nakakanl/r43cn/71274.ts
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/sportplusnba.gif" group-title="Sport Plus",NBA TV HD
+http://ottshow.net:80/live/nakakanl/r43cn/24722.ts
+#EXTINF:-1 tvg-id="supertennis-hd" tvg-name="Super Tennis HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supertenis.gif" group-title="Sport Plus",Super Tennis HD
+http://ottshow.net:80/live/nakakanl/r43cn/2754.ts
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-name="BeIN Sports HD 1" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd1plus.gif" group-title="Sport Plus",BeIN Sports HD 1
+http://ottshow.net:80/live/nakakanl/r43cn/12644.ts
+#EXTINF:-1 tvg-id="bein-sport-2" tvg-name="BeIN Sports HD 2" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd2plus.gif" group-title="Sport Plus",BeIN Sports HD 2
+http://ottshow.net:80/live/nakakanl/r43cn/12645.ts
+#EXTINF:-1 tvg-id="bein-sport-3" tvg-name="BeIN Sports HD 3" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd3plus.gif" group-title="Sport Plus",BeIN Sports HD 3
+http://ottshow.net:80/live/nakakanl/r43cn/12646.ts
+#EXTINF:-1 tvg-id="bein-sport-4" tvg-name="BeIN Sports HD 4" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd4plus.gif" group-title="Sport Plus",BeIN Sports HD 4
+http://ottshow.net:80/live/nakakanl/r43cn/12647.ts
+#EXTINF:-1 tvg-id="bein-sport-5" tvg-name="BeIN Sports HD 5" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd5.gif" group-title="Sport Plus",BeIN Sports HD 5
+http://ottshow.net:80/live/nakakanl/r43cn/12648.ts
+#EXTINF:-1 tvg-id="bein-sport-6" tvg-name="BeIN Sports HD 6" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd6.gif" group-title="Sport Plus",BeIN Sports HD 6
+http://ottshow.net:80/live/nakakanl/r43cn/12649.ts
+#EXTINF:-1 tvg-id="bein-sport-7" tvg-name="BeIN Sports HD 7" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd7.gif" group-title="Sport Plus",BeIN Sports HD 7
+http://ottshow.net:80/live/nakakanl/r43cn/12650.ts
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-name="Bein Sports 1  FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%201.gif" group-title="Sport Plus",Bein Sports 1  FR
+http://ottshow.net:80/live/nakakanl/r43cn/36407.ts
+#EXTINF:-1 tvg-id="bein-sport-2" tvg-name="Bein Sports 2 FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%202.gif" group-title="Sport Plus",Bein Sports 2 FR
+http://ottshow.net:80/live/nakakanl/r43cn/36408.ts
+#EXTINF:-1 tvg-id="bein-sport-3" tvg-name="Bein Sports 3 FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%203.gif" group-title="Sport Plus",Bein Sports 3 FR
+http://ottshow.net:80/live/nakakanl/r43cn/36409.ts
+#EXTINF:-1 tvg-id="supersport-1-al" tvg-name="Supersport 1 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport1.gif" group-title="Sport Plus",Supersport 1 HD
+http://ottshow.net:80/live/nakakanl/r43cn/29739.ts
+#EXTINF:-1 tvg-id="supersport-2-al" tvg-name="Supersport 2 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport2.gif" group-title="Sport Plus",Supersport 2 HD
+http://ottshow.net:80/live/nakakanl/r43cn/29740.ts
+#EXTINF:-1 tvg-id="supersport-3-al" tvg-name="Supersport 3 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport3.gif" group-title="Sport Plus",Supersport 3 HD
+http://ottshow.net:80/live/nakakanl/r43cn/29741.ts
+#EXTINF:-1 tvg-id="supersport-4-al" tvg-name="Supersport 4 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport4.gif" group-title="Sport Plus",Supersport 4 HD
+http://ottshow.net:80/live/nakakanl/r43cn/29742.ts
+#EXTINF:-1 tvg-id="supersport-5-al" tvg-name="Supersport 5 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport5.gif" group-title="Sport Plus",Supersport 5 HD
+http://ottshow.net:80/live/nakakanl/r43cn/29743.ts
+#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport Plus",Digi Sport 1
+http://ottshow.net:80/live/nakakanl/r43cn/39886.ts
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Sport Plus",Digi Sport 2
+http://ottshow.net:80/live/nakakanl/r43cn/39887.ts
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Sport Plus",Digi Sport 3
+http://ottshow.net:80/live/nakakanl/r43cn/39888.ts
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Sport Plus",Digi Sport 4
+http://ottshow.net:80/live/nakakanl/r43cn/39889.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport1.gif" group-title="Sport Plus",Orange Sport 1
+http://ottshow.net:80/live/nakakanl/r43cn/69800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport2.gif" group-title="Sport Plus",Orange Sport 2
+http://ottshow.net:80/live/nakakanl/r43cn/69802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport3.gif" group-title="Sport Plus",Orange Sport 3
+http://ottshow.net:80/live/nakakanl/r43cn/69803.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport4.gif" group-title="Sport Plus",Orange Sport 4
+http://ottshow.net:80/live/nakakanl/r43cn/69804.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv1tr.gif" group-title="Sport Plus",LIG TV 1
+http://ottshow.net:80/live/nakakanl/r43cn/39895.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv2tr.gif" group-title="Sport Plus",LIG TV 2
+http://ottshow.net:80/live/nakakanl/r43cn/39896.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv3tr.gif" group-title="Sport Plus",LIG TV 3
+http://ottshow.net:80/live/nakakanl/r43cn/39897.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv4tr.gif" group-title="Sport Plus",LIG TV 4
+http://ottshow.net:80/live/nakakanl/r43cn/39898.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport1.gif" group-title="Sport Plus",Eleven Sports 1
+http://ottshow.net:80/live/nakakanl/r43cn/67766.ts
+#EXTINF:-1 tvg-id="eleven-sports-2-pl" tvg-name="Eleven Sports 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport2.gif" group-title="Sport Plus",Eleven Sports 2
+http://ottshow.net:80/live/nakakanl/r43cn/67767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport3.gif" group-title="Sport Plus",Eleven Sports 3
+http://ottshow.net:80/live/nakakanl/r43cn/67768.ts
+#EXTINF:-1 tvg-id="polsat-sport" tvg-name="Polsat Sport" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsport.gif" group-title="Sport Plus",Polsat Sport
+http://ottshow.net:80/live/nakakanl/r43cn/67770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium1.gif" group-title="Sport Plus",Polsat Sport Premium 1
+http://ottshow.net:80/live/nakakanl/r43cn/67771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium2.gif" group-title="Sport Plus",Polsat Sport Premium 2
+http://ottshow.net:80/live/nakakanl/r43cn/67772.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport2.gif" group-title="Sport Plus",CANAL+ SPORT 2
+http://ottshow.net:80/live/nakakanl/r43cn/67773.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport3.gif" group-title="Sport Plus",CANAL+ SPORT 3
+http://ottshow.net:80/live/nakakanl/r43cn/67774.ts
+#EXTINF:-1 tvg-id="canal-sport-4-pl" tvg-name="CANAL+ SPORT 4" tvg-logo="" group-title="Sport Plus",CANAL+ SPORT 4
+http://ottshow.net:80/live/nakakanl/r43cn/71761.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="" group-title="Sport Plus",CANAL+ SPORT 5
+http://ottshow.net:80/live/nakakanl/r43cn/71762.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV2 Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sport.gif" group-title="Sport Plus",TV2 Sport
+http://ottshow.net:80/live/nakakanl/r43cn/69797.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV2 Sport X" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sportextra.gif" group-title="Sport Plus",TV2 Sport X
+http://ottshow.net:80/live/nakakanl/r43cn/69798.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 Sport" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/sportplus/tv3-spoert.gif" group-title="Sport Plus",TV3 Sport
+http://ottshow.net:80/live/nakakanl/r43cn/68705.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 1" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive1.gif" group-title="Sport Plus",C More Live 1
+http://ottshow.net:80/live/nakakanl/r43cn/4444.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 2" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive2.gif" group-title="Sport Plus",C More Live 2
+http://ottshow.net:80/live/nakakanl/r43cn/4445.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 3" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive3.gif" group-title="Sport Plus",C More Live 3
+http://ottshow.net:80/live/nakakanl/r43cn/4446.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 4" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive4.gif" group-title="Sport Plus",C More Live 4
+http://ottshow.net:80/live/nakakanl/r43cn/4447.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll" tvg-logo="http://web.izipizi1.info/pi/f.png" group-title="Sport Plus",C More Fotboll
+http://ottshow.net:80/live/nakakanl/r43cn/40569.ts
+#EXTINF:-1 tvg-id="sky-sports-news" tvg-name="Sky Sport News" tvg-logo="" group-title="Sport Plus",Sky Sport News
+http://ottshow.net:80/live/nakakanl/r43cn/72627.ts
+#EXTINF:-1 tvg-id="sky-sports-football" tvg-name="Sky Sport Foodball" tvg-logo="" group-title="Sport Plus",Sky Sport Foodball
+http://ottshow.net:80/live/nakakanl/r43cn/72625.ts
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Sky Sport Arene" tvg-logo="" group-title="Sport Plus",Sky Sport Arene
+http://ottshow.net:80/live/nakakanl/r43cn/72623.ts
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-name="Sky Sport Mix" tvg-logo="" group-title="Sport Plus",Sky Sport Mix
+http://ottshow.net:80/live/nakakanl/r43cn/72624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf" tvg-logo="" group-title="Sport Plus",Sky Sport Golf
+http://ottshow.net:80/live/nakakanl/r43cn/72626.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportf1.gif" group-title="Sport Plus",Sky Sport F1
+http://ottshow.net:80/live/nakakanl/r43cn/71731.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Cricket" tvg-logo="" group-title="Sport Plus",Sky Sport Cricket
+http://ottshow.net:80/live/nakakanl/r43cn/72645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Racing TV" tvg-logo="" group-title="Sport Plus",Racing TV
+http://ottshow.net:80/live/nakakanl/r43cn/72646.ts
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 1" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn1.gif" group-title="Sport Plus",ESPN 1
+http://ottshow.net:80/live/nakakanl/r43cn/25466.ts
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn2.gif" group-title="Sport Plus",ESPN 2
+http://ottshow.net:80/live/nakakanl/r43cn/25465.ts
+#EXTINF:-1 tvg-id="espn-uk" tvg-name="ESPN 3" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn3.gif" group-title="Sport Plus",ESPN 3
+http://ottshow.net:80/live/nakakanl/r43cn/25464.ts
+#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="BT S 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport1.gif" group-title="Sport Plus",BT S 1
+http://ottshow.net:80/live/nakakanl/r43cn/39632.ts
+#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="BT S 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport2.gif" group-title="Sport Plus",BT S 2
+http://ottshow.net:80/live/nakakanl/r43cn/39633.ts
+#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="BT S 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport3.gif" group-title="Sport Plus",BT S 3
+http://ottshow.net:80/live/nakakanl/r43cn/39634.ts
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="Sport TV 1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv1.gif" group-title="Sport Plus",Sport TV 1
+http://ottshow.net:80/live/nakakanl/r43cn/69683.ts
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="Sport TV 2" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv2.gif" group-title="Sport Plus",Sport TV 2
+http://ottshow.net:80/live/nakakanl/r43cn/69684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv3.gif" group-title="Sport Plus",Sport TV 3
+http://ottshow.net:80/live/nakakanl/r43cn/69685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv4.gif" group-title="Sport Plus",Sport TV 4
+http://ottshow.net:80/live/nakakanl/r43cn/69686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/sporttv5.gif" group-title="Sport Plus",Sport TV 5
+http://ottshow.net:80/live/nakakanl/r43cn/69687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports1pt.gif" group-title="Sport Plus",Eleven Sports 1 PT
+http://ottshow.net:80/live/nakakanl/r43cn/69688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports2.gif" group-title="Sport Plus",Eleven Sports 2 PT
+http://ottshow.net:80/live/nakakanl/r43cn/69689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports3.gif" group-title="Sport Plus",Eleven Sports 3 PT
+http://ottshow.net:80/live/nakakanl/r43cn/69690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box" tvg-logo="" group-title="Sport Plus",Fight Box
+http://ottshow.net:80/live/nakakanl/r43cn/73899.ts
+
+#EXTINF:-1 tvg-id="imperiatv" tvg-name="Imperija " tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Music",Imperija 
+http://ottshow.net:80/live/nakakanl/r43cn/24800.ts
+#EXTINF:-1 tvg-id="toxic-tv" tvg-name="Toxic TV" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Music",Toxic TV
+http://ottshow.net:80/live/nakakanl/r43cn/3823.ts
+#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Music",IDJ TV HD
+http://ottshow.net:80/live/nakakanl/r43cn/1112.ts
+#EXTINF:-1 tvg-id="tv-sehara" tvg-name="TV Sehara Music" tvg-logo="http://repo.ottshow.net/pikoni/music/tvseharamusic.gif" group-title="Music",TV Sehara Music
+http://ottshow.net:80/live/nakakanl/r43cn/4264.ts
+#EXTINF:-1 tvg-id="" tvg-name="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Music",UZIVOTEKA
+http://ottshow.net:80/live/nakakanl/r43cn/45114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Music",Kafansko Vece
+http://ottshow.net:80/live/nakakanl/r43cn/70263.ts
+#EXTINF:-1 tvg-id="extratv" tvg-name="Extra Tv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Music",Extra Tv
+http://ottshow.net:80/live/nakakanl/r43cn/68474.ts
+#EXTINF:-1 tvg-id="hayat-music" tvg-name="Hayat Music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Music",Hayat Music
+http://ottshow.net:80/live/nakakanl/r43cn/51.ts
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="Hayat Folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Music",Hayat Folk
+http://ottshow.net:80/live/nakakanl/r43cn/131.ts
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Music",BN Music
+http://ottshow.net:80/live/nakakanl/r43cn/46.ts
+#EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Music",DM Sat
+http://ottshow.net:80/live/nakakanl/r43cn/26004.ts
+#EXTINF:-1 tvg-id="bravo-mjuzik" tvg-name="Bravo Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Music",Bravo Music
+http://ottshow.net:80/live/nakakanl/r43cn/35952.ts
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Music",Pink Folk 1
+http://ottshow.net:80/live/nakakanl/r43cn/97.ts
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Music",Pink Folk 2
+http://ottshow.net:80/live/nakakanl/r43cn/504.ts
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Music",Grand
+http://ottshow.net:80/live/nakakanl/r43cn/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Music",Grand 2
+http://ottshow.net:80/live/nakakanl/r43cn/1071.ts
+#EXTINF:-1 tvg-id="sevdah-tv" tvg-name="TV Sevdah" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Music",TV Sevdah
+http://ottshow.net:80/live/nakakanl/r43cn/730.ts
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Music",Izvorna TV
+http://ottshow.net:80/live/nakakanl/r43cn/231.ts
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Music",OTV Valentino
+http://ottshow.net:80/live/nakakanl/r43cn/152.ts
+#EXTINF:-1 tvg-id="valentino-music" tvg-name="Valentino Music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Music",Valentino Music
+http://ottshow.net:80/live/nakakanl/r43cn/32083.ts
+#EXTINF:-1 tvg-id="valentino-etno" tvg-name="Valentino Etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Music",Valentino Etno
+http://ottshow.net:80/live/nakakanl/r43cn/32082.ts
+#EXTINF:-1 tvg-id="" tvg-name="BMC Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bmc_music.gif" group-title="Music",BMC Music
+http://ottshow.net:80/live/nakakanl/r43cn/35956.ts
+#EXTINF:-1 tvg-id="" tvg-name="BMC Etno" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/bmcetno.gif" group-title="Music",BMC Etno
+http://ottshow.net:80/live/nakakanl/r43cn/69399.ts
+#EXTINF:-1 tvg-id="" tvg-name="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Music",CityPlay
+http://ottshow.net:80/live/nakakanl/r43cn/69400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Music",Toxic Folk
+http://ottshow.net:80/live/nakakanl/r43cn/66261.ts
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="Duga TV" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Music",Duga TV
+http://ottshow.net:80/live/nakakanl/r43cn/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Music",KCN 1
+http://ottshow.net:80/live/nakakanl/r43cn/630.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Music",KCN 2
+http://ottshow.net:80/live/nakakanl/r43cn/641.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Kanal Music" tvg-logo="http://repo.ottshow.net/pikoni/music/O%20KANAL%20MUSIC.gif" group-title="Music",O Kanal Music
+http://ottshow.net:80/live/nakakanl/r43cn/36412.ts
+#EXTINF:-1 tvg-id="" tvg-name="bravo!" tvg-logo="" group-title="Music",bravo!
+http://ottshow.net:80/live/nakakanl/r43cn/74027.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Music",DMC Tv
+http://ottshow.net:80/live/nakakanl/r43cn/69133.ts
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Music",Jugoton TV
+http://ottshow.net:80/live/nakakanl/r43cn/251.ts
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Music",CMC
+http://ottshow.net:80/live/nakakanl/r43cn/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Banovina " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Music",Banovina 
+http://ottshow.net:80/live/nakakanl/r43cn/1552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Music",Klape i Tambure
+http://ottshow.net:80/live/nakakanl/r43cn/69348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Music",Croatia Records
+http://ottshow.net:80/live/nakakanl/r43cn/69902.ts
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="Pink Hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Music",Pink Hits
+http://ottshow.net:80/live/nakakanl/r43cn/4140.ts
+#EXTINF:-1 tvg-id="pink-n-roll" tvg-name="Pink n Roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Music",Pink n Roll
+http://ottshow.net:80/live/nakakanl/r43cn/69401.ts
+#EXTINF:-1 tvg-id="balkanika" tvg-name="Balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Music",Balkanika
+http://ottshow.net:80/live/nakakanl/r43cn/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Music",Krone Hit
+http://ottshow.net:80/live/nakakanl/r43cn/69786.ts
+#EXTINF:-1 tvg-id="mtv-hits-international" tvg-name="MTV Hits" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Music",MTV Hits
+http://ottshow.net:80/live/nakakanl/r43cn/16758.ts
+#EXTINF:-1 tvg-id="mtv00s" tvg-name="MTV 00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Music",MTV 00s
+http://ottshow.net:80/live/nakakanl/r43cn/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Music",MTV 80s
+http://ottshow.net:80/live/nakakanl/r43cn/69350.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 90s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv90s.gif" group-title="Music",MTV 90s
+http://ottshow.net:80/live/nakakanl/r43cn/69349.ts
+#EXTINF:-1 tvg-id="mtv-dance-international" tvg-name="MTV Club" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Music",MTV Club
+http://ottshow.net:80/live/nakakanl/r43cn/16759.ts
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film",HBO
+http://ottshow.net:80/live/nakakanl/r43cn/44.ts
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo2.gif" group-title="Film",HBO 2
+http://ottshow.net:80/live/nakakanl/r43cn/72.ts
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo3.gif" group-title="Film",HBO 3
+http://ottshow.net:80/live/nakakanl/r43cn/1555.ts
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax.gif" group-title="Film",Cinemax
+http://ottshow.net:80/live/nakakanl/r43cn/70.ts
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax  2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax2.gif" group-title="Film",Cinemax  2
+http://ottshow.net:80/live/nakakanl/r43cn/126.ts
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier1.gif" group-title="Film",CineStar Premiere 1
+http://ottshow.net:80/live/nakakanl/r43cn/36.ts
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier2.gif" group-title="Film",CineStar Premiere 2
+http://ottshow.net:80/live/nakakanl/r43cn/37.ts
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV 1" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestartv.gif" group-title="Film",CineStar TV 1
+http://ottshow.net:80/live/nakakanl/r43cn/3851.ts
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="CineStar TV 2" tvg-logo="http://web.izipizi1.info/pi/cinestartv2.png" group-title="Film",CineStar TV 2
+http://ottshow.net:80/live/nakakanl/r43cn/37920.ts
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="CineStar Action" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestaraction.gif" group-title="Film",CineStar Action
+http://ottshow.net:80/live/nakakanl/r43cn/2685.ts
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarfantasy.gif" group-title="Film",CineStar Fantasy
+http://ottshow.net:80/live/nakakanl/r43cn/10444.ts
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="CineStar Comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarcomedy.gif" group-title="Film",CineStar Comedy
+http://ottshow.net:80/live/nakakanl/r43cn/30492.ts
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="http://repo.ottshow.net/pikoni/film/fox.gif" group-title="Film",FOX
+http://ottshow.net:80/live/nakakanl/r43cn/178.ts
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="FOX Movies" tvg-logo="http://repo.ottshow.net/pikoni/film/foxmovies.gif" group-title="Film",FOX Movies
+http://ottshow.net:80/live/nakakanl/r43cn/25990.ts
+#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life" tvg-logo="http://repo.ottshow.net/pikoni/film/foxlife.gif" group-title="Film",Fox Life
+http://ottshow.net:80/live/nakakanl/r43cn/1378.ts
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX Crime" tvg-logo="http://repo.ottshow.net/pikoni/film/foxcrime.gif" group-title="Film",FOX Crime
+http://ottshow.net:80/live/nakakanl/r43cn/1553.ts
+#EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Gold" tvg-logo="http://repo.ottshow.net/pikoni/film/m1goldfilm.gif" group-title="Film",M1 Gold
+http://ottshow.net:80/live/nakakanl/r43cn/1351.ts
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film",M1 Film
+http://ottshow.net:80/live/nakakanl/r43cn/2494.ts
+#EXTINF:-1 tvg-id="m1-family" tvg-name="M1 Family" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film",M1 Family
+http://ottshow.net:80/live/nakakanl/r43cn/24936.ts
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="http://repo.ottshow.net/pikoni/film/tv1000.gif" group-title="Film",TV 1000
+http://ottshow.net:80/live/nakakanl/r43cn/705.ts
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="http://repo.ottshow.net/pikoni/film/axn.gif" group-title="Film",AXN
+http://ottshow.net:80/live/nakakanl/r43cn/1181.ts
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/axnspin.gif" group-title="Film",AXN Spin
+http://ottshow.net:80/live/nakakanl/r43cn/69009.ts
+#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Film",SciFi
+http://ottshow.net:80/live/nakakanl/r43cn/8859.ts
+#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemania.gif" group-title="Film",Cinemania
+http://ottshow.net:80/live/nakakanl/r43cn/357.ts
+#EXTINF:-1 tvg-id="cinema-tv" tvg-name="Cinema TV BH" tvg-logo="http://repo.ottshow.net/pikoni/film/cinematvbh.gif" group-title="Film",Cinema TV BH
+http://ottshow.net:80/live/nakakanl/r43cn/174.ts
+#EXTINF:-1 tvg-id="pink-timeout" tvg-name="Time Out" tvg-logo="http://repo.ottshow.net/pikoni/film/timeout.gif" group-title="Film",Time Out
+http://ottshow.net:80/live/nakakanl/r43cn/24603.ts
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickboxTV" tvg-logo="http://repo.ottshow.net/pikoni/film/pickboxtv.gif" group-title="Film",PickboxTV
+http://ottshow.net:80/live/nakakanl/r43cn/1630.ts
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="http://repo.ottshow.net/pikoni/film/kinotv.gif" group-title="Film",Kino TV
+http://ottshow.net:80/live/nakakanl/r43cn/4223.ts
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA" tvg-logo="http://repo.ottshow.net/pikoni/film/divatv.gif" group-title="Film",DIVA
+http://ottshow.net:80/live/nakakanl/r43cn/4224.ts
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film",AMC
+http://ottshow.net:80/live/nakakanl/r43cn/9109.ts
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC Drama" tvg-logo="http://repo.ottshow.net/pikoni/film/epicdrama.gif" group-title="Film",EPIC Drama
+http://ottshow.net:80/live/nakakanl/r43cn/24362.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sehara TV" tvg-logo="http://repo.ottshow.net/pikoni/film/tvsehara.gif" group-title="Film",Sehara TV
+http://ottshow.net:80/live/nakakanl/r43cn/29202.ts
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="Klasik TV" tvg-logo="http://repo.ottshow.net/pikoni/film/klasiktv.gif" group-title="Film",Klasik TV
+http://ottshow.net:80/live/nakakanl/r43cn/38.ts
+#EXTINF:-1 tvg-id="film-klub" tvg-name="Film Klub" tvg-logo="http://repo.ottshow.net/pikoni/film/filmklub.gif" group-title="Film",Film Klub
+http://ottshow.net:80/live/nakakanl/r43cn/1073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/eurocinema.gif" group-title="Film",Euro Cinema 1
+http://ottshow.net:80/live/nakakanl/r43cn/68477.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/eurocinema2.gif" group-title="Film",Euro Cinema 2
+http://ottshow.net:80/live/nakakanl/r43cn/68478.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film",HBO MAX
+http://ottshow.net:80/live/nakakanl/r43cn/45107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 1 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 2 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 3 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 4 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 4 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 5 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 5 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 6 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 6 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 7 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 7 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 8 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 8 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 9 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 9 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 10 HD
+http://ottshow.net:80/live/nakakanl/r43cn/45277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lud Zbunjen Normalan" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/lzn.gif" group-title="Film",Lud Zbunjen Normalan
+http://ottshow.net:80/live/nakakanl/r43cn/68944.ts
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Kids",Baby TV
+http://ottshow.net:80/live/nakakanl/r43cn/40217.ts
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Kids",Minimax
+http://ottshow.net:80/live/nakakanl/r43cn/93.ts
+#EXTINF:-1 tvg-id="minitv" tvg-name="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Kids",Mini Tv
+http://ottshow.net:80/live/nakakanl/r43cn/265.ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr Hr." tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Kids",Nick Jr Hr.
+http://ottshow.net:80/live/nakakanl/r43cn/25986.ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr " tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Kids",Nick Jr 
+http://ottshow.net:80/live/nakakanl/r43cn/68475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids",Nicktoons Hr.
+http://ottshow.net:80/live/nakakanl/r43cn/71269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids",Nicktoons
+http://ottshow.net:80/live/nakakanl/r43cn/40979.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Kids",Nickelodeon Hr.
+http://ottshow.net:80/live/nakakanl/r43cn/25987.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon " tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Kids",Nickelodeon 
+http://ottshow.net:80/live/nakakanl/r43cn/68476.ts
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids",Cartoon Network Hr.
+http://ottshow.net:80/live/nakakanl/r43cn/71267.ts
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids",Cartoon Network
+http://ottshow.net:80/live/nakakanl/r43cn/71113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids",Tnt Kids
+http://ottshow.net:80/live/nakakanl/r43cn/66257.ts
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Kids",Pink Kids
+http://ottshow.net:80/live/nakakanl/r43cn/266.ts
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Kids",Pink Super Kids
+http://ottshow.net:80/live/nakakanl/r43cn/71270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Kids",Kazbuka
+http://ottshow.net:80/live/nakakanl/r43cn/71116.ts
+#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids",Pikaboo
+http://ottshow.net:80/live/nakakanl/r43cn/3854.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Kids",Toon Kids
+http://ottshow.net:80/live/nakakanl/r43cn/8858.ts
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Kids",Hayatovci
+http://ottshow.net:80/live/nakakanl/r43cn/25970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Kids",Cartoonito
+http://ottshow.net:80/live/nakakanl/r43cn/71114.ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="Rtl Kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Kids",Rtl Kockica
+http://ottshow.net:80/live/nakakanl/r43cn/25997.ts
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Chanel " tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Kids",Disney Chanel 
+http://ottshow.net:80/live/nakakanl/r43cn/71109.ts
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior " tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Kids",Disney Junior 
+http://ottshow.net:80/live/nakakanl/r43cn/71268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Kids",Dexy Tv
+http://ottshow.net:80/live/nakakanl/r43cn/67745.ts
+#EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/jimjam.gif" group-title="Kids",JimJam
+http://ottshow.net:80/live/nakakanl/r43cn/68479.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Kids" tvg-logo="" group-title="Kids",HBO Kids
+http://ottshow.net:80/live/nakakanl/r43cn/72614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Kids",Nova  Kids
+http://ottshow.net:80/live/nakakanl/r43cn/67744.ts
+#EXTINF:-1 tvg-id="" tvg-name="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Kids",CoComelon
+http://ottshow.net:80/live/nakakanl/r43cn/69637.ts
+#EXTINF:-1 tvg-id="" tvg-name="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Kids",IDJ Kids
+http://ottshow.net:80/live/nakakanl/r43cn/68943.ts
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes " tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Kids",Looney Tunes 
+http://ottshow.net:80/live/nakakanl/r43cn/45122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Kids",Tom and Jerry
+http://ottshow.net:80/live/nakakanl/r43cn/67747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Kids",Psici u Ophodnji
+http://ottshow.net:80/live/nakakanl/r43cn/69630.ts
+#EXTINF:-1 tvg-id="" tvg-name="Psici u ophodnji 2" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Kids",Psici u ophodnji 2
+http://ottshow.net:80/live/nakakanl/r43cn/72028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="" group-title="Kids",Mickey Mouse
+http://ottshow.net:80/live/nakakanl/r43cn/74173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Kids",Masa i Medo
+http://ottshow.net:80/live/nakakanl/r43cn/67743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Kids",Pepa Prašcic
+http://ottshow.net:80/live/nakakanl/r43cn/67746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Kids",Tri Mace
+http://ottshow.net:80/live/nakakanl/r43cn/69635.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Kids",A Je To
+http://ottshow.net:80/live/nakakanl/r43cn/69632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Kids",Strumpfovi
+http://ottshow.net:80/live/nakakanl/r43cn/69633.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Kids",Pingvini
+http://ottshow.net:80/live/nakakanl/r43cn/69634.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mickymouse.gif" group-title="Kids",Mickey Mouse
+http://ottshow.net:80/live/nakakanl/r43cn/72012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mr Magoo" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrmago.gif" group-title="Kids",Mr Magoo
+http://ottshow.net:80/live/nakakanl/r43cn/72013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Larva" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/larva.gif" group-title="Kids",Larva
+http://ottshow.net:80/live/nakakanl/r43cn/72014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blippi" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bliipi.gif" group-title="Kids",Blippi
+http://ottshow.net:80/live/nakakanl/r43cn/72015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Luke" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/luckyluck.gif" group-title="Kids",Lucky Luke
+http://ottshow.net:80/live/nakakanl/r43cn/72016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alice i Lewis" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/aliceilewis.gif" group-title="Kids",Alice i Lewis
+http://ottshow.net:80/live/nakakanl/r43cn/72017.ts
+#EXTINF:-1 tvg-id="" tvg-name="SpongeBob" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/spongebob.gif" group-title="Kids",SpongeBob
+http://ottshow.net:80/live/nakakanl/r43cn/72018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pink Panther" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/thepinkpanter.gif" group-title="Kids",Pink Panther
+http://ottshow.net:80/live/nakakanl/r43cn/72019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Profesor Baltazar" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/profesorbaltezar.gif" group-title="Kids",Profesor Baltazar
+http://ottshow.net:80/live/nakakanl/r43cn/72020.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gormiti" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/gormiti.gif" group-title="Kids",Gormiti
+http://ottshow.net:80/live/nakakanl/r43cn/72021.ts
+#EXTINF:-1 tvg-id="" tvg-name="MetaJets" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/metajets.gif" group-title="Kids",MetaJets
+http://ottshow.net:80/live/nakakanl/r43cn/72022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Agent Binky" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/agnetbinky.gif" group-title="Kids",Agent Binky
+http://ottshow.net:80/live/nakakanl/r43cn/72023.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bolek i Lolek" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bolekilolek.gif" group-title="Kids",Bolek i Lolek
+http://ottshow.net:80/live/nakakanl/r43cn/72024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nindza Kornjace" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/nindzekornjace.gif" group-title="Kids",Nindza Kornjace
+http://ottshow.net:80/live/nakakanl/r43cn/72025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kung-Fu Panda" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/kungfupanda.gif" group-title="Kids",Kung-Fu Panda
+http://ottshow.net:80/live/nakakanl/r43cn/72026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrbean.gif" group-title="Kids",Mr Bean
+http://ottshow.net:80/live/nakakanl/r43cn/72029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="" group-title="Kids",Mickey Mouse
+http://ottshow.net:80/live/nakakanl/r43cn/73981.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Linea" tvg-logo="" group-title="Kids",La Linea
+http://ottshow.net:80/live/nakakanl/r43cn/73980.ts
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://picons.ottshow.net/pikoni/doku/nationalgeographic.gif" group-title="Doku",National Geographic
+http://ottshow.net:80/live/nakakanl/r43cn/25978.ts
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="NatGeo Wild" tvg-logo="https://picons.ottshow.net/pikoni/doku/natgeowild.gif" group-title="Doku",NatGeo Wild
+http://ottshow.net:80/live/nakakanl/r43cn/25977.ts
+#EXTINF:-1 tvg-id="discovery-channel-de" tvg-name="Discovery Channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/discovery.gif" group-title="Doku",Discovery Channel
+http://ottshow.net:80/live/nakakanl/r43cn/68.ts
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Discovery ID" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoveryid.gif" group-title="Doku",Discovery ID
+http://ottshow.net:80/live/nakakanl/r43cn/25980.ts
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoverysince.gif" group-title="Doku",Discovery Science
+http://ottshow.net:80/live/nakakanl/r43cn/25984.ts
+#EXTINF:-1 tvg-id="discovery-turbo-extra" tvg-name="Discovery XD " tvg-logo="https://picons.ottshow.net/pikoni/doku/DTX.gif" group-title="Doku",Discovery XD 
+http://ottshow.net:80/live/nakakanl/r43cn/12788.ts
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="https://picons.ottshow.net/pikoni/doku/tlc.gif" group-title="Doku",TLC
+http://ottshow.net:80/live/nakakanl/r43cn/74.ts
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="https://picons.ottshow.net/pikoni/doku/AnimalPlanet.gif" group-title="Doku",Animal Planet
+http://ottshow.net:80/live/nakakanl/r43cn/25983.ts
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Invvestigation" tvg-logo="https://picons.ottshow.net/pikoni/doku/invs+.gif" group-title="Doku",Crime & Invvestigation
+http://ottshow.net:80/live/nakakanl/r43cn/25982.ts
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History " tvg-logo="https://picons.ottshow.net/pikoni/doku/history.gif" group-title="Doku",History 
+http://ottshow.net:80/live/nakakanl/r43cn/2574.ts
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History 2" tvg-logo="https://picons.ottshow.net/pikoni/doku/h2history%202.gif" group-title="Doku",History 2
+http://ottshow.net:80/live/nakakanl/r43cn/25981.ts
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://picons.ottshow.net/pikoni/doku/Vaistnature.gif" group-title="Doku",Viasat Nature
+http://ottshow.net:80/live/nakakanl/r43cn/4126.ts
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="https://picons.ottshow.net/pikoni/doku/viasthistory.gif" group-title="Doku",Viasat History
+http://ottshow.net:80/live/nakakanl/r43cn/2797.ts
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explorer" tvg-logo="https://picons.ottshow.net/pikoni/doku/vaisetexpliore.gif" group-title="Doku",Viasat Explorer
+http://ottshow.net:80/live/nakakanl/r43cn/1204.ts
+#EXTINF:-1 tvg-id="balkan-trip" tvg-name="Balkan Trip" tvg-logo="http://repo.ottshow.net/pikoni/srbija/balkantriptv.gif" group-title="Doku",Balkan Trip
+http://ottshow.net:80/live/nakakanl/r43cn/4485.ts
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov i Ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="Doku",Lov i Ribolov
+http://ottshow.net:80/live/nakakanl/r43cn/65.ts
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/travel.gif" group-title="Doku",Travel Channel
+http://ottshow.net:80/live/nakakanl/r43cn/181.ts
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="Cbs Reality" tvg-logo="https://picons.ottshow.net/pikoni/doku/cbsreality.gif" group-title="Doku",Cbs Reality
+http://ottshow.net:80/live/nakakanl/r43cn/2836.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/bbcearth.gif" group-title="Doku",BBC Earth
+http://ottshow.net:80/live/nakakanl/r43cn/24373.ts
+#EXTINF:-1 tvg-id="planet-earth" tvg-name="Planet Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/planetearth.gif" group-title="Doku",Planet Earth
+http://ottshow.net:80/live/nakakanl/r43cn/24374.ts
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://picons.ottshow.net/pikoni/doku/fooodnewttork.gif" group-title="Doku",Food Network
+http://ottshow.net:80/live/nakakanl/r43cn/33261.ts
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku",24 Kitchen
+http://ottshow.net:80/live/nakakanl/r43cn/25985.ts
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku",E! Entertainment
+http://ottshow.net:80/live/nakakanl/r43cn/2572.ts
+#EXTINF:-1 tvg-id="woman" tvg-name="Woman TV" tvg-logo="https://picons.ottshow.net/pikoni/doku/women.gif" group-title="Doku",Woman TV
+http://ottshow.net:80/live/nakakanl/r43cn/29455.ts
+#EXTINF:-1 tvg-id="doku-tv" tvg-name="Doku TV" tvg-logo="http://repo.ottshow.net/pikoni/doku/dokutv.gif" group-title="Doku",Doku TV
+http://ottshow.net:80/live/nakakanl/r43cn/31853.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://web.izipizi1.info/pi/jyw.png" group-title="Doku",HGTV
+http://ottshow.net:80/live/nakakanl/r43cn/39108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nautical Channel" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/natucialchannel.gif" group-title="Doku",Nautical Channel
+http://ottshow.net:80/live/nakakanl/r43cn/71247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/doku/love4knaturer.gif" group-title="Doku",Love Nature 4K
+http://ottshow.net:80/live/nakakanl/r43cn/68948.ts
+#EXTINF:-1 tvg-id="pink-fashion" tvg-name="Fashion TV" tvg-logo="https://picons.ottshow.net/pikoni/doku/FashonTV.gif" group-title="Doku",Fashion TV
+http://ottshow.net:80/live/nakakanl/r43cn/9108.ts
+
+
 #CRTANI FILMOVI
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",*** SINKRONIZIRANO ***
