@@ -1,7 +1,6 @@
 
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/24kitchen_bg.png" group-title="Edukativni",24 Kitchen
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT  1 HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska",HRT  1 HD
 http://ottshow.net:80/live/nakakanl/r43cn/30473.ts
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT  2 HD" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="Hrvatska",HRT  2 HD
