@@ -1,7 +1,6 @@
 
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-
 #EXTINF:-1 tvg-id="1261" tvg-name="HRT 1" tvg-logo="http://caffe.link:25461/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1
 http://caffe.link:25461/234fesofbtest/543sabdmsda75/1261
 #EXTINF:-1 tvg-id="4578" tvg-name="HRT 1 Backup" tvg-logo="http://caffe.link:25461/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1 Backup
