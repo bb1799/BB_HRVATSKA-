@@ -1150,152 +1150,240 @@ http://78.46.102.135/VIDEOTEKA/VT_djeca/Filmovi/Nebesa.2009.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="NOVIJI FILMOVI",65 (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Man Called Otto (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/130H1gap9lFfiTF9iDrqNIkFvC9.jpg" group-title="NOVIJI FILMOVI",A Man Called Otto (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amanet (2022)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/alEzZhDlIkxeaenoUMOdr0qC38N.jpg" group-title="NOVIJI FILMOVI",Amanet (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg" group-title="NOVIJI FILMOVI",Ant-Man and the Wasp: Quantumania (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0fkTMTN91f0tehqVKG9D9JMsDR.jpg" group-title="NOVIJI FILMOVI",Armageddon Time (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="NOVIJI FILMOVI",Avatar: The Way of Water (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1xJUazXeYqALzczSZ3O6nkH75.jpg" group-title="NOVIJI FILMOVI",Black Panther: Wakanda Forever (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpXLySHYBJyLqmT818FskYRlliG.jpg" group-title="NOVIJI FILMOVI",Blood (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boston Strangler (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg" group-title="NOVIJI FILMOVI",Boston Strangler (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Call Jane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3oV6065tgYpukAjLxSbWcfqdg9.jpg" group-title="NOVIJI FILMOVI",Call Jane (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Champions (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg" group-title="NOVIJI FILMOVI",Champions (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cocaine Bear (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg" group-title="NOVIJI FILMOVI",Cocaine Bear (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Consecration (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="NOVIJI FILMOVI",Consecration (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" group-title="NOVIJI FILMOVI",Creed III (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dead for a Dollar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg" group-title="NOVIJI FILMOVI",Dead for a Dollar (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detective Knight: Independence (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="NOVIJI FILMOVI",Detective Knight: Independence (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Empire of Light (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg" group-title="NOVIJI FILMOVI",Empire of Light (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Faraway (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4czyy4HQuOMQtGCCB9N6JcvJwT.jpg" group-title="NOVIJI FILMOVI",Faraway (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carbide (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wHr4OmQmogZZOCVSOglUNVvQ35E.jpg" group-title="NOVIJI FILMOVI",Carbide (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghosted (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liLN69YgoovHVgmlHJ876PKi5Yi.jpg" group-title="NOVIJI FILMOVI",Ghosted (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="House Party (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KiyKR9m6h01eIvGObGmpt16U3F.jpg" group-title="NOVIJI FILMOVI",House Party (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Infinity Pool (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg" group-title="NOVIJI FILMOVI",Infinity Pool (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXnAGySFMYxj3LSPCetGMJhCbAB.jpg" group-title="NOVIJI FILMOVI",Inside (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jahač zmaja 2022" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/owsIOqpMlOEkjG4nTyPdghLaJ2b.jpg" group-title="NOVIJI FILMOVI",Jahač zmaja 2022
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jenga, a Strange Game (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o7zscy6avXGxiiAa36bt1sRcRrj.jpg" group-title="NOVIJI FILMOVI",Jenga, a Strange Game (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="NOVIJI FILMOVI",John Wick: Chapter 4 (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Knock at the Cabin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg" group-title="NOVIJI FILMOVI",Knock at the Cabin (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lyle, Lyle, Crocodile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg" group-title="NOVIJI FILMOVI",Lyle, Lyle, Crocodile (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg" group-title="NOVIJI FILMOVI",Luther: The Fallen Sun (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="M3GAN (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="NOVIJI FILMOVI",M3GAN (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Magic Mike's Last Dance (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg" group-title="NOVIJI FILMOVI",Magic Mike's Last Dance (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minions: The Rise of Gru (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="NOVIJI FILMOVI",Minions: The Rise of Gru (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marlowe (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vjAMj81oYBryzGBhJk4gcK0M636.jpg" group-title="NOVIJI FILMOVI",Marlowe (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maybe I Do (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj649F5QB3OQbTKqpMX3UiCkp5q.jpg" group-title="NOVIJI FILMOVI",Maybe I Do (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster Family 2 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fD3w59S1e3otqTMQDzxLq24khUf.jpg" group-title="NOVIJI FILMOVI",Monster Family 2 (2021)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Murder Mystery 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg" group-title="NOVIJI FILMOVI",Murder Mystery 2 (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Happiest Man in the World (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJuXo4uxPvJKhJz7jzcwvqxGPYn.jpg" group-title="NOVIJI FILMOVI",The Happiest Man in the World (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU4mmINWUF294Wzi8mqRvi6peMe.jpg" group-title="NOVIJI FILMOVI",Narvik (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missing (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jYXJW19PMEUrpyavEHrnnlItQn1.jpg" group-title="NOVIJI FILMOVI",Missing (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pil's Adventures (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg" group-title="NOVIJI FILMOVI",Pil's Adventures (2021)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="One Day as a Lion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="NOVIJI FILMOVI",One Day as a Lion (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune: Ruse de Guerre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg" group-title="NOVIJI FILMOVI",Operation Fortune: Ruse de Guerre (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paradise City (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg" group-title="NOVIJI FILMOVI",Paradise City (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maya the Bee: The Golden Orb (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tMS2qcbhbkFpcwLnbUE9o9IK4HH.jpg" group-title="NOVIJI FILMOVI",Maya the Bee: The Golden Orb (2021)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Plane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="NOVIJI FILMOVI",Plane (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="May Labor Day (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98SV02AFwnJsh9G6zkVoJgzqtWU.jpg" group-title="NOVIJI FILMOVI",May Labor Day (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Puss in Boots: The Last Wish (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="NOVIJI FILMOVI",Puss in Boots: The Last Wish (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Renfield (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg" group-title="NOVIJI FILMOVI",Renfield (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="NOVIJI FILMOVI",Scream VI (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sharper (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq8x5F17q95T1j0up5rpzXFAylN.jpg" group-title="NOVIJI FILMOVI",Sharper (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shotgun Wedding (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg" group-title="NOVIJI FILMOVI",Shotgun Wedding (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBgxSimgLMGYCQckRQw7C2f7row.jpg" group-title="NOVIJI FILMOVI",Sick (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: The Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="NOVIJI FILMOVI",Teen Wolf: The Movie (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="NOVIJI FILMOVI",Tetris (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Devil Conspiracy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lUYbD2C3XSuwqMUbDVDQuz9mqz.jpg" group-title="NOVIJI FILMOVI",The Devil Conspiracy (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last Kingdom: Seven Kings Must Die (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyFEsuaLGTPul5UkHc5BhXnQ0k.jpg" group-title="NOVIJI FILMOVI",The Last Kingdom: Seven Kings Must Die (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Locksmith (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg" group-title="NOVIJI FILMOVI",The Locksmith (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Menu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg" group-title="NOVIJI FILMOVI",The Menu (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Old Way (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWoL3HVNFJaIWRrq80s0yGJMyyA.jpg" group-title="NOVIJI FILMOVI",The Old Way (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Pale Blue Eye (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg" group-title="NOVIJI FILMOVI",The Pale Blue Eye (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Pope's Exorcist (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg" group-title="NOVIJI FILMOVI",The Pope's Exorcist (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Portable Door (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15XCSwlniUZQOW7vD6tPM5e30wr.jpg" group-title="NOVIJI FILMOVI",The Portable Door (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Ritual Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="NOVIJI FILMOVI",The Ritual Killer (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Siege (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVh4hMzkXNLnScudbid6hDvjMPk.jpg" group-title="NOVIJI FILMOVI",The Siege (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Whale (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg" group-title="NOVIJI FILMOVI",The Whale (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="There's Something Wrong with the Children (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg" group-title="NOVIJI FILMOVI",There's Something Wrong with the Children (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The System (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="NOVIJI FILMOVI",The System (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Till (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg" group-title="NOVIJI FILMOVI",Till (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transfusion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg" group-title="NOVIJI FILMOVI",Transfusion (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Murder at Yellowstone City (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58UKdNFfSSvx8TuecGAzqja3NTZ.jpg" group-title="NOVIJI FILMOVI",Murder at Yellowstone City (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="We Have a Ghost (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg" group-title="NOVIJI FILMOVI",We Have a Ghost (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whitney Houston: I Wanna Dance with Somebody (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg" group-title="NOVIJI FILMOVI",Whitney Houston: I Wanna Dance with Somebody (2022)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Your Place or Mine (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhOr25xH6tONJdW9NmzZDtz3j8N.jpg" group-title="NOVIJI FILMOVI",Your Place or Mine (2023)
-http://bntvs.com:2052/movie/mrshox/85764025h64534/30111.mp4
-
+http:/#EXTINF:-1 group-title="NOVIJI FILMOVI",Johnny & Clyde (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/100460.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Evil Dead Rise (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108042.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Perfect Addiction (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108087.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Weapon (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108088.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Cases of Mystery Lane (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108089.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Strays (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108090.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Dark Heart of the Forest (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108091.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Luther: The Fallen Sun (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108092.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Sharper (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108093.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Squared Love All Over Again (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108094.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",80 for Brady (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108095.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Assassin (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108096.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Nazi Fugitives (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108097.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Waking Karma (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108098.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Boston Strangler (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108099.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",10 Days of a Good Man (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108100.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Cocaine Bear (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108101.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",On a Wing and a Prayer (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108102.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Righteous Thieves (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108103.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Stalking Fields (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108104.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Trade (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108105.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Chor Nikal Ke Bhaga (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108514.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Ambush (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108515.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Consecration (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108516.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Love in Glacier National: A National Park Romance (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108517.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Prom Pact (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108518.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Marlowe (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108519.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Park (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108520.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Siege (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108521.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",A Sunday Affair (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108522.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Merve Kült (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108688.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Transformers: Rise of the Beasts (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108689.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",A través del mar (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108690.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Little Mermaid (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108691.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Flash (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108692.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Padre Pio (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108693.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Kandahar (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108694.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",iNumber Number: Jozi Gold (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108695.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",From Black (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108696.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Extraction 2 (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108697.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Dark Nature (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108698.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Chevalier (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108699.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",About My Father (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108700.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Bursa Bülbülü (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108701.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Hitler Home Movies (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108702.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Fearway (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108703.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Donor Party (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108704.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",John Wick: Chapter 4 (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108705.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",To Catch a Killer (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108706.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Scream VI (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108707.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",¡Que Viva México! (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108708.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Who Killed Our Father? (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108709.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",My Fault (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108710.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Hunt (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108711.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Spider-Man: Across the Spider-Verse (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108712.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Guardians of the Galaxy Vol. 3 (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108713.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Big Mäck: Gangsters and Gold (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108714.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",5G: The Reckoning (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108715.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",65 (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108716.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Big George Foreman (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108717.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Crater (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108718.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Huesera: The Bone Woman (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108719.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Jagged Mind (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108720.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Nefarious (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108721.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Where the Tracks End (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108722.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",One Ranger (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108723.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Mafia Mamma (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108724.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Leon (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108725.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Gangs of Lagos (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108726.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",One Day as a Lion (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108727.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Sisu (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108728.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Super Mario Bros. Movie (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108729.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Ride On (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108730.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Winnie the Pooh: Blood and Honey (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108731.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Dungeons & Dragons: Honor Among Thieves (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108732.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Under His Influence (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108733.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Legacy Peak (2022)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108734.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Lamborghini: The Man Behind the Legend (2022)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108735.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Hell Dogs  (2022)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108736.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Girl at the Window (2022)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108737.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Zona Zamfirova 2 (2017)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108738.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Zona Zamfirova (2002)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108739.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Zlatna petorka (2016)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108740.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Život je masovna pojava (1970)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108741.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Zima (2019)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108742.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Za Vasotu (2020)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108743.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Zagreb Cappuccino (2014)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108744.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Vampir (2021)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108745.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Uloga Moje Porodice u Svjetskoj Revoluciji (1971)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108746.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Samrtno proleće (1973)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108747.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Savršeni krug (1997)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108748.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Seljaci (2001)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108749.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Serbet (2020)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108750.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Wonder Women (2017)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108751.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Watch Out, We´re Mad (1974)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108752.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Walkaway Joe (2020)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108753.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Unhinged (2020)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108754.mkv
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Summer Frost (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108755.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Simulant (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108756.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Pretty Stoned (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108757.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Palm Trees and Power Lines (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108758.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Aaahh Belinda (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/108759.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Mission Majnu (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109093.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Meet Me In Paris (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109094.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Maybe I Do (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109095.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Little Dixie (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109096.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Infinity Pool (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109097.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Dear David (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109098.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Candy Land (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109099.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Blossom (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109100.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Bezos (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109101.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Battlebox (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109102.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Entre el Amor y la Amistad (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109103.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Wickensburg (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109104.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",The Locksmith (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109105.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Night Train (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109108.mp4
+#EXTINF:-1 group-title="NOVIJI FILMOVI",Detective Knight: Independence (2023)
+http://my.baltazar.pro:80/movie/BISERKA777/kM7ytHQbLO/109109.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Ritual 2017 |hr" tvg-logo="https://duckduckgo.com/i/3c2e5749.png" group-title="*** Horor Filmovi ***",The Ritual 2017 |hr
 http://bazaruto.top:8000/movie/Grozdan.Efnusev.2/efnusev3210/41153.mkv
