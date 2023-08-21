@@ -1,1034 +1,608 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 #x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
-#EXTINF:-1 group-title="HRVATSKA",*** HRVATSKA ***
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/28
-#EXTINF:-1 group-title="HRVATSKA",HRT 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1
-#EXTINF:-1 group-title="HRVATSKA",HRT 1 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5641
-#EXTINF:-1 group-title="HRVATSKA",HRT 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/2
-#EXTINF:-1 group-title="HRVATSKA",HRT 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5642
-#EXTINF:-1 group-title="HRVATSKA",HRT 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3
-#EXTINF:-1 group-title="HRVATSKA",HRT 3 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5643
-#EXTINF:-1 group-title="HRVATSKA",HRT 4
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/4
-#EXTINF:-1 group-title="HRVATSKA",HRT 4 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5644
-#EXTINF:-1 group-title="HRVATSKA",HRT Int.
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/482
-#EXTINF:-1 group-title="HRVATSKA",Nova TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5
-#EXTINF:-1 group-title="HRVATSKA",Nova TV HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39408
-#EXTINF:-1 group-title="HRVATSKA",Doma TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/29
-#EXTINF:-1 group-title="HRVATSKA",Doma TV  HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/172
-#EXTINF:-1 group-title="HRVATSKA",RTL Televizija
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/6
-#EXTINF:-1 group-title="HRVATSKA",RTL Televizija  HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1417
-#EXTINF:-1 group-title="HRVATSKA",RTL 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/7
-#EXTINF:-1 group-title="HRVATSKA",RTL 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/42701
-#EXTINF:-1 group-title="HRVATSKA",Una TV HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39713
-#EXTINF:-1 group-title="HRVATSKA",RTL Crime
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/15
-#EXTINF:-1 group-title="HRVATSKA",RTL Passion
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/8
-#EXTINF:-1 group-title="HRVATSKA",RTL Living
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/9
-#EXTINF:-1 group-title="HRVATSKA",RTL Adria
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5707
-#EXTINF:-1 group-title="HRVATSKA",RTL Croatia World
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5708
-#EXTINF:-1 group-title="HRVATSKA",Nova World
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39951
-#EXTINF:-1 group-title="HRVATSKA",Nova Family
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39156
-#EXTINF:-1 group-title="HRVATSKA",N1 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/11
-#EXTINF:-1 group-title="HRVATSKA",Laudato TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/10
-#EXTINF:-1 group-title="HRVATSKA",Slavonska Tv
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/12
-#EXTINF:-1 group-title="HRVATSKA",Z1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/447
-#EXTINF:-1 group-title="HRVATSKA",Plava Vinkovacka 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/13
-#EXTINF:-1 group-title="HRVATSKA",TV Sibenik
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5806
-#EXTINF:-1 group-title="HRVATSKA",Kanal Ri
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/4029
-#EXTINF:-1 group-title="HRVATSKA",Osjecka TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/368
-#EXTINF:-1 group-title="HRVATSKA",Trend TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/14
-#EXTINF:-1 group-title="HRVATSKA",Aurora TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16675
-#EXTINF:-1 group-title="HRVATSKA",Mreza Split
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16973
-#EXTINF:-1 group-title="HRVATSKA",Zdrava Tv
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/658
-#EXTINF:-1 group-title="HRVATSKA",Jabuka
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/659
+#EXTINF:-1 tvg-id="1261" tvg-name="HRT 1" tvg-logo="http://caffe.link:25461/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1261
+#EXTINF:-1 tvg-id="4578" tvg-name="HRT 1 Backup" tvg-logo="http://caffe.link:25461/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1 Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4578
+#EXTINF:-1 tvg-id="1260" tvg-name="HRT 2" tvg-logo="http://caffe.link:25461/images/d66f3ed717b48fe9573d77d086f93242.png" group-title="Hrvatska",HRT 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1260
+#EXTINF:-1 tvg-id="4579" tvg-name="HRT 2 Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/101.hr.png" group-title="Hrvatska",HRT 2 Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4579
+#EXTINF:-1 tvg-id="1259" tvg-name="HRT 3" tvg-logo="http://caffe.link:25461/images/8d2da51272882389644c63bd3fc25257.png" group-title="Hrvatska",HRT 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1259
+#EXTINF:-1 tvg-id="5724" tvg-name="HRT 3 Backup" tvg-logo="https://tvprofil.com/img/kanali-logo/HRT3_logo.png" group-title="Hrvatska",HRT 3 Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5724
+#EXTINF:-1 tvg-id="1258" tvg-name="HRT 4" tvg-logo="http://caffe.link:25461/images/7f8f97c669df5aeaf943a6e7d5ec897c.png" group-title="Hrvatska",HRT 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1258
+#EXTINF:-1 tvg-id="5725" tvg-name="HRT 4 Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/103.hr.png" group-title="Hrvatska",HRT 4 Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5725
+#EXTINF:-1 tvg-id="1257" tvg-name="HRT Int." tvg-logo="http://caffe.link:25461/images/c3b6ead3250b7da6ce36c2c5f1d3c59f.png" group-title="Hrvatska",HRT Int.
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1257
+#EXTINF:-1 tvg-id="1256" tvg-name="Nova Tv" tvg-logo="http://caffe.link:25461/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="Hrvatska",Nova Tv
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1256
+#EXTINF:-1 tvg-id="4865" tvg-name="Nova Tv HD" tvg-logo="http://caffe.link:25461/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="Hrvatska",Nova Tv HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4865
+#EXTINF:-1 tvg-id="4580" tvg-name="Nova Tv Backup" tvg-logo="http://caffe.link:25461/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="Hrvatska",Nova Tv Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4580
+#EXTINF:-1 tvg-id="1255" tvg-name="Doma Tv" tvg-logo="http://caffe.link:25461/images/d43bf357bbd538b339a55c19eecd64db.png" group-title="Hrvatska",Doma Tv
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1255
+#EXTINF:-1 tvg-id="4866" tvg-name="Doma Tv HD" tvg-logo="http://epg.netsolutionpro.com/logo-tv/106.hr.png" group-title="Hrvatska",Doma Tv HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4866
+#EXTINF:-1 tvg-id="4584" tvg-name="Doma Tv Backup" tvg-logo="http://caffe.link:25461/images/d43bf357bbd538b339a55c19eecd64db.png" group-title="Hrvatska",Doma Tv Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4584
+#EXTINF:-1 tvg-id="4581" tvg-name="RTL Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/107.hr.png" group-title="Hrvatska",RTL Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4581
+#EXTINF:-1 tvg-id="1252" tvg-name="RTL 2" tvg-logo="http://caffe.link:25461/images/b1a874b3e9aefba9968dcd412f06b4af.png" group-title="Hrvatska",RTL 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1252
+#EXTINF:-1 tvg-id="4585" tvg-name="RTL 2 Backup" tvg-logo="http://caffe.link:25461/images/b1a874b3e9aefba9968dcd412f06b4af.png" group-title="Hrvatska",RTL 2 Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4585
+#EXTINF:-1 tvg-id="7679" tvg-name="RTL Adria" tvg-logo="http://caffe.link:25461/images/8dc98da90374651fb8c436dfcad78a94.png" group-title="Hrvatska",RTL Adria
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/7679
+#EXTINF:-1 tvg-id="1251" tvg-name="RTL Crime" tvg-logo="http://caffe.link:25461/images/eb7470653150aada96a2fd37a596b66f.png" group-title="Hrvatska",RTL Crime
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1251
+#EXTINF:-1 tvg-id="1250" tvg-name="RTL Living" tvg-logo="http://caffe.link:25461/images/000726002f1df6239043f31c1315e220.png" group-title="Hrvatska",RTL Living
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1250
+#EXTINF:-1 tvg-id="1244" tvg-name="N1 (HR)" tvg-logo="http://caffe.link:25461/images/1114e7a182e2606d21279ac7946b6920.png" group-title="Hrvatska",N1 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4538
+#EXTINF:-1 tvg-id="1245" tvg-name="RTL Passion" tvg-logo="http://caffe.link:25461/images/41a545f26b6964b4645f843675470e05.png" group-title="Hrvatska",RTL Passion
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1249
+#EXTINF:-1 tvg-id="1246" tvg-name="Vinkovacka TV" tvg-logo="http://caffe.link:25461/images/7e9ae791f06115261808680414d78742.png" group-title="Hrvatska",Vinkovacka TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1246
+#EXTINF:-1 tvg-id="1247" tvg-name="Slavonska TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/118.hr.png" group-title="Hrvatska",Slavonska TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1247
+#EXTINF:-1 tvg-id="1248" tvg-name="Osjecka TV" tvg-logo="http://caffe.link:25461/images/d8387bd8e6cf5245d056bf34adb387db.png" group-title="Hrvatska",Osjecka TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1248
+#EXTINF:-1 tvg-id="1245" tvg-name="Z1" tvg-logo="http://caffe.link:25461/images/07a064a144b0ffaf2e47656442c65fd9.png" group-title="Hrvatska",Z1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1245
+#EXTINF:-1 tvg-id="3635" tvg-name="Laudato TV (Test)" tvg-logo="http://caffe.link:25461/images/63832b96d229d528aa852f786d8d7509.png" group-title="Hrvatska",Laudato TV (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/3635
+#EXTINF:-1 tvg-id="6872" tvg-name="Libertas TV" tvg-logo="https://tvprofil.com/img/kanali-logo/LibertasTV.png" group-title="Hrvatska",Libertas TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6872
+#EXTINF:-1 tvg-id="6873" tvg-name="Jabuka TV (Test)" tvg-logo="http://caffe.link:25461/images/93c4124bab7610315643b13c7437c527.png" group-title="Hrvatska",Jabuka TV (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6873
+#EXTINF:-1 tvg-id="1244" tvg-name="Tv Jadran" tvg-logo="http://caffe.link:25461/images/e2b880b47069437df17cacda6a78fa70.png" group-title="Hrvatska",Tv Jadran
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6868
+#EXTINF:-1 tvg-id="6870" tvg-name="Poljoprivredna TV (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/124.hr.png" group-title="Hrvatska",Poljoprivredna TV (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6870
+#EXTINF:-1 tvg-id="1244" tvg-name="Banovina TV" tvg-logo="http://caffe.link:25461/images/f1541e1d8b13da157d55ddbc04669de0.png" group-title="Hrvatska",Banovina TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1244
 
-#EXTINF:-1 group-title="SPORT",*** SPORT ***
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/868
-#EXTINF:-1 group-title="SPORT",Arena Sport Premium 1 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39240
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 Premium HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/42568
-#EXTINF:-1 group-title="SPORT",Arena Sport Premium 2 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39241
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 Premium HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44114
-#EXTINF:-1 group-title="SPORT",Arena Sport Premium 3 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39242
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 Premium HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44115
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 Premium BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45542
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 Premium BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45543
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 Premium BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45544
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/97
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 SR HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/643
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/98
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 SR HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/677
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/99
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 SR HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/645
-#EXTINF:-1 group-title="SPORT",Arena Sport 4 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/100
-#EXTINF:-1 group-title="SPORT",Arena Sport 4 SR HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/646
-#EXTINF:-1 group-title="SPORT",Arena Sport 5 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/101
-#EXTINF:-1 group-title="SPORT",Arena Sport 5 SR HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1398
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/102
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/103
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/104
-#EXTINF:-1 group-title="SPORT",Arena Sport 4 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/112
-#EXTINF:-1 group-title="SPORT",Arena Sport 5 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/114
-#EXTINF:-1 group-title="SPORT",Arena Sport 6 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/352
-#EXTINF:-1 group-title="SPORT",Arena Sport 7 HR 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38772
-#EXTINF:-1 group-title="SPORT",Arena Sport 8 HR 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38773
-#EXTINF:-1 group-title="SPORT",Arena Sport 9 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38774
-#EXTINF:-1 group-title="SPORT",Arena Sport 10 HR 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38775
-#EXTINF:-1 group-title="SPORT",Arena Sport BIH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/43829
-#EXTINF:-1 group-title="SPORT",Arena ESport
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45590
-#EXTINF:-1 group-title="SPORT",Sport Klub 1 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/116
-#EXTINF:-1 group-title="SPORT",Sport Klub 1 SR HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/40052
-#EXTINF:-1 group-title="SPORT",Sport Klub 2 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/117
-#EXTINF:-1 group-title="SPORT",Sport Klub 3 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/118
-#EXTINF:-1 group-title="SPORT",Sport Klub 4 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44849
-#EXTINF:-1 group-title="SPORT",Sport Klub 5 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44850
-#EXTINF:-1 group-title="SPORT",Sport Klub 6 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44851
-#EXTINF:-1 group-title="SPORT",Sport Klub 1 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/119
-#EXTINF:-1 group-title="SPORT",Sport Klub 2 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/120
-#EXTINF:-1 group-title="SPORT",Sport Klub 3 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/121
-#EXTINF:-1 group-title="SPORT",Sport Klub 4 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/353
-#EXTINF:-1 group-title="SPORT",Sport Klub 5 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/694
-#EXTINF:-1 group-title="SPORT",Sport Klub 6 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/355
-#EXTINF:-1 group-title="SPORT",Sport Klub HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/738
-#EXTINF:-1 group-title="SPORT",Sport Klub 7
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16876
-#EXTINF:-1 group-title="SPORT",Sport Klub 8
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16877
-#EXTINF:-1 group-title="SPORT",Sport Klub 9
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16878
-#EXTINF:-1 group-title="SPORT",Sport Klub 10
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16879
-#EXTINF:-1 group-title="SPORT",Sport Klub Golf
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39834
-#EXTINF:-1 group-title="SPORT",Max Sport 1 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/43197
-#EXTINF:-1 group-title="SPORT",Max Sport 2 HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/43198
-#EXTINF:-1 group-title="SPORT",Nova Sport
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3105
-#EXTINF:-1 group-title="SPORT",MNE Sport 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44841
-#EXTINF:-1 group-title="SPORT",MNE Sport 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44842
-#EXTINF:-1 group-title="SPORT",MNE Sport 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44843
-#EXTINF:-1 group-title="SPORT",TV Partizan
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46151
-#EXTINF:-1 group-title="SPORT",Zvezda TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46152
-#EXTINF:-1 group-title="SPORT",Eurosport 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/128
-#EXTINF:-1 group-title="SPORT",EuroSport 1 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/2709
-#EXTINF:-1 group-title="SPORT",Eurosport 1 HD BG/EN Audio
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/42684
-#EXTINF:-1 group-title="SPORT",Eurosport 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/129
-#EXTINF:-1 group-title="SPORT",EuroSport 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/2711
-#EXTINF:-1 group-title="SPORT",Eurosport 2 HD BG/EN Audio
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/42688
-#EXTINF:-1 group-title="SPORT",Матч! Футбол 1 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45361
-#EXTINF:-1 group-title="SPORT",Матч! Футбол 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45362
-#EXTINF:-1 group-title="SPORT",Матч! Футбол 3 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45363
-#EXTINF:-1 group-title="SPORT",Матч! ТВ HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45458
-#EXTINF:-1 group-title="SPORT",Max Sport 1 BG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/182
-#EXTINF:-1 group-title="SPORT",Max Sport 2 BG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/183
-#EXTINF:-1 group-title="SPORT",Max Sport 3 BG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/184
-#EXTINF:-1 group-title="SPORT",Max Sport 4 BG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/185
-#EXTINF:-1 group-title="SPORT",Diema Sport HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/390
-#EXTINF:-1 group-title="SPORT",Diema Sport 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/391
-#EXTINF:-1 group-title="SPORT",Diema Sport 3 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39657
-#EXTINF:-1 group-title="SPORT",Nova Sport BG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/392
-#EXTINF:-1 group-title="SPORT",Ring HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3774
-#EXTINF:-1 group-title="SPORT",Sport TV 1 SL
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/41720
-#EXTINF:-1 group-title="SPORT",Sport TV 2 SL
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/41721
-#EXTINF:-1 group-title="SPORT",Sport TV 3 SL
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/41722
-#EXTINF:-1 group-title="SPORT",Blue Sport 1 CH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/41613
-#EXTINF:-1 group-title="SPORT",Blue Sport 2 CH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/41614
-#EXTINF:-1 group-title="SPORT",Sport TV 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/433
-#EXTINF:-1 group-title="SPORT",Sport TV 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/434
-#EXTINF:-1 group-title="SPORT",Sport TV 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/435
-#EXTINF:-1 group-title="SPORT",Sport TV 4
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/436
-#EXTINF:-1 group-title="SPORT",Sport TV 5
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/437
-#EXTINF:-1 group-title="SPORT",Eleven Sports 1 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/612
-#EXTINF:-1 group-title="SPORT",Eleven Sports 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/613
-#EXTINF:-1 group-title="SPORT",Eleven Sports 3 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/614
-#EXTINF:-1 group-title="SPORT",Eleven Sports 4 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/615
-#EXTINF:-1 group-title="SPORT",Eleven Sports 5 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/616
-#EXTINF:-1 group-title="SPORT",Bein Sport 1 FR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16843
-#EXTINF:-1 group-title="SPORT",Bein Sport 2 FR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16844
-#EXTINF:-1 group-title="SPORT",Bein Sport 3 FR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16933
-#EXTINF:-1 group-title="SPORT",RMC Sport 1 HD 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1073
-#EXTINF:-1 group-title="SPORT",RMC Sport 2 HD 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1074
-#EXTINF:-1 group-title="SPORT",RMC Sport 3 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1075
-#EXTINF:-1 group-title="SPORT",DAZN Bar 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/345
-#EXTINF:-1 group-title="SPORT",DAZN Bar 1 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/43624
-#EXTINF:-1 group-title="SPORT",DAZN Bar 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/346
-#EXTINF:-1 group-title="SPORT",NBA
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/569
-#EXTINF:-1 group-title="SPORT",Fight Channel
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/422
-#EXTINF:-1 group-title="SPORT",Arena Fight
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39710
-#EXTINF:-1 group-title="SPORT",Fight Box 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45591
-#EXTINF:-1 group-title="SPORT",Extreme Sports
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/40097
-#EXTINF:-1 group-title="SPORT",Moja TV Premier Liga BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/388
-#EXTINF:-1 group-title="SPORT",Lig tv 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/683
-#EXTINF:-1 group-title="SPORT",Lig TV 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/684
-#EXTINF:-1 group-title="SPORT",SyS 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/301
-#EXTINF:-1 group-title="SPORT",SyS 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/302
-#EXTINF:-1 group-title="SPORT",Bundesliga 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/263
-#EXTINF:-1 group-title="SPORT",Bundesliga 1 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/366
-#EXTINF:-1 group-title="SPORT",Bundesliga 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/384
-#EXTINF:-1 group-title="SPORT",Bundesliga 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/385
-#EXTINF:-1 group-title="SPORT",Bundesliga 4
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/386
-#EXTINF:-1 group-title="SPORT",Bundesliga 5
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/387
-#EXTINF:-1 group-title="SPORT",Bundesliga 6
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/655
-#EXTINF:-1 group-title="SPORT",Bundesliga 7
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3055
-#EXTINF:-1 group-title="SPORT",Bundesliga 8
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3056
-#EXTINF:-1 group-title="SPORT",Liverpool TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/41975
-#EXTINF:-1 group-title="SPORT",Magenta Sport 1 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45719
-#EXTINF:-1 group-title="SPORT",Magenta Sport 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45720
-#EXTINF:-1 group-title="SPORT",Magenta Sport 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45721
-#EXTINF:-1 group-title="SPORT",Magenta Sport 4 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45722
-#EXTINF:-1 group-title="SPORT",Magenta Sport 5
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45723
-#EXTINF:-1 group-title="SPORT",Magenta Sport 6
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45724
-#EXTINF:-1 group-title="SPORT",Magenta Sport 7
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45725
-#EXTINF:-1 group-title="SPORT",Magenta Sport 8 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45726
-#EXTINF:-1 group-title="SPORT",Magenta Sport 9
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45727
-#EXTINF:-1 group-title="SPORT",Magenta Sport 10
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45728
-#EXTINF:-1 group-title="SPORT",Magenta Sport 11
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45729
-#EXTINF:-1 group-title="SPORT",Magenta Sport 12
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45730
-#EXTINF:-1 group-title="SPORT",Magenta Sport 13 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45731
-#EXTINF:-1 group-title="SPORT",Magenta Sport 14
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45732
-#EXTINF:-1 group-title="SPORT",Magenta Sport 15
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45733
-#EXTINF:-1 group-title="SPORT",Magenta Sport 16 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45734
-#EXTINF:-1 group-title="SPORT",Magenta Sport 17
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45735
-#EXTINF:-1 group-title="SPORT",Magenta Sport 18 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45736
+#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 1 (HR)" tvg-logo="http://caffe.link:25461/images/0e44b65b8862d14134bcb8c89b4a72f4.png" group-title="Sport",MAX Sport 1 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/53547
+#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 2" tvg-logo="http://caffe.link:25461/images/f3836dad5e8f725be975f402819e8127.png" group-title="Sport",MAX Sport 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/53548
+#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 1  Backup" tvg-logo="http://caffe.link:25461/images/0e44b65b8862d14134bcb8c89b4a72f4.png" group-title="Sport",MAX SPORT 1  Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/53550
+#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 2 Backup" tvg-logo="http://caffe.link:25461/images/f3836dad5e8f725be975f402819e8127.png" group-title="Sport",MAX SPORT 2 Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/53551
+#EXTINF:-1 tvg-id="1520" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport",Arena Sport 1 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1520
+#EXTINF:-1 tvg-id="1519" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="Sport",Arena Sport 2 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1519
+#EXTINF:-1 tvg-id="1518" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="Sport",Arena Sport 3 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1518
+#EXTINF:-1 tvg-id="1517" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="Sport",Arena Sport 4 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1517
+#EXTINF:-1 tvg-id="1516" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="Sport",Arena Sport 5 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1516
+#EXTINF:-1 tvg-id="1510" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="Sport",Arena Sport 6 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1510
+#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 7 HR" tvg-logo="http://caffe.link:25461/images/a1936785b8c274c2ab759a3904264bab.png" group-title="Sport",Arena Sport 7 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15733
+#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 9 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="Sport",Arena Sport 9 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15735
+#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 8 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="Sport",Arena Sport 8 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15734
+#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 10 HR" tvg-logo="http://caffe.link:25461/images/10080732b06363cae739cdec7ad539e1.png" group-title="Sport",Arena Sport 10 HR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15736
+#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport",Arena Sport 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1515
+#EXTINF:-1 tvg-id="1514" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Sport",Arena Sport 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1514
+#EXTINF:-1 tvg-id="1513" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Sport",Arena Sport 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1513
+#EXTINF:-1 tvg-id="1512" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Sport",Arena Sport 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1512
+#EXTINF:-1 tvg-id="1511" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="Sport",Arena Sport 5
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1511
+#EXTINF:-1 tvg-id="7688" tvg-name="Arena sport 1 BiH" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport",Arena sport 1 BiH
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/7688
+#EXTINF:-1 tvg-id="4731" tvg-name="SK HD" tvg-logo="https://tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="Sport",SK HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4731
+#EXTINF:-1 tvg-id="1526" tvg-name="SK 1" tvg-logo="http://caffe.link:25461/images/04196ca87f13edc48d32c58102f6109b.png" group-title="Sport",SK 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1526
+#EXTINF:-1 tvg-id="1525" tvg-name="SK 2" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",SK 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1525
+#EXTINF:-1 tvg-id="1524" tvg-name="SK 3" tvg-logo="http://caffe.link:25461/images/2eb783e91df2420bf99dd61c43470169.png" group-title="Sport",SK 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1524
+#EXTINF:-1 tvg-id="1523" tvg-name="SK 4" tvg-logo="http://caffe.link:25461/images/e1469273236c8ad7329853ba5659a4b2.png" group-title="Sport",SK 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1523
+#EXTINF:-1 tvg-id="1522" tvg-name="SK 5" tvg-logo="http://caffe.link:25461/images/d9e687be27e9faec65b380401300ae7b.png" group-title="Sport",SK 5
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1522
+#EXTINF:-1 tvg-id="1244" tvg-name="SK 6" tvg-logo="http://caffe.link:25461/images/5cd6466c840d4e058145d0b8f5570273.png" group-title="Sport",SK 6
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1521
+#EXTINF:-1 tvg-id="5774" tvg-name="SK 1 HR FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",SK 1 HR FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5774
+#EXTINF:-1 tvg-id="5775" tvg-name="SK 2 HR FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",SK 2 HR FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5775
+#EXTINF:-1 tvg-id="5776" tvg-name="SK 3 HR FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",SK 3 HR FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5776
+#EXTINF:-1 tvg-id="1529" tvg-name="SK 1  ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",SK 1  ( HR )
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1529
+#EXTINF:-1 tvg-id="1528" tvg-name="SK 2 ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",SK 2 ( HR )
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1528
+#EXTINF:-1 tvg-id="1527" tvg-name="SK 3 ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",SK 3 ( HR )
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1527
+#EXTINF:-1 tvg-id="13812" tvg-name="SK 4 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_4.png" group-title="Sport",SK 4 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13812
+#EXTINF:-1 tvg-id="13813" tvg-name="SK 5 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_5.png" group-title="Sport",SK 5 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13813
+#EXTINF:-1 tvg-id="13814" tvg-name="SK 6 (HR)" tvg-logo="http://caffe.link:25461/images/5aabb51a71df38631ef504fb6ec9b295.png" group-title="Sport",SK 6 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13814
+#EXTINF:-1 tvg-id="1244" tvg-name="SK 7 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_7.png" group-title="Sport",SK 7 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13815
+#EXTINF:-1 tvg-id="1245" tvg-name="SK 8 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_8.png" group-title="Sport",SK 8 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13817
+#EXTINF:-1 tvg-id="1244" tvg-name="SK 9 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_9.png" group-title="Sport",SK 9 (HR)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13818
+#EXTINF:-1 tvg-id="6080" tvg-name="Zvezda TV" tvg-logo="http://caffe.link:25461/images/b600900468fb1b5da023303a728dfbba.png" group-title="Sport",Zvezda TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6080
+#EXTINF:-1 tvg-id="1446" tvg-name="Barca TV (Spa)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/barca-tv-plus.png" group-title="Sport",Barca TV (Spa)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1446
+#EXTINF:-1 tvg-id="1447" tvg-name="Real Madrid TV (Spa)" tvg-logo="https://tvprofil.com/img/kanali-logo/realmadrid-tv-logo.png" group-title="Sport",Real Madrid TV (Spa)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1447
+#EXTINF:-1 tvg-id="5816" tvg-name="DAZN Bar 1 HD DE" tvg-logo="https://tvprofil.com/img/kanali-logo/DAZN_1_DE_logo.png" group-title="Sport",DAZN Bar 1 HD DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5816
+#EXTINF:-1 tvg-id="5817" tvg-name="DAZN Bar 2 HD DE" tvg-logo="https://tvprofil.com/img/kanali-logo/DAZN_2_DE_logo.png" group-title="Sport",DAZN Bar 2 HD DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5817
+#EXTINF:-1 tvg-id="5210" tvg-name="DAZN SPORT 1 BAR  DE" tvg-logo="http://caffe.link:25461/images/0c5e54b311bb3953af4824bd0ca7dc63.png" group-title="Sport",DAZN SPORT 1 BAR  DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5210
+#EXTINF:-1 tvg-id="10176" tvg-name="DAZN SPORT 1 BAR DE backup" tvg-logo="https://tvprofil.com/img/kanali-logo/DAZN_1_DE_logo.png" group-title="Sport",DAZN SPORT 1 BAR DE backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/10176
+#EXTINF:-1 tvg-id="5211" tvg-name="DAZN SPORT2 BAR DE" tvg-logo="http://caffe.link:25461/images/9fa70fa54d04cc3a277d1ecd0fc37387.png" group-title="Sport",DAZN SPORT2 BAR DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5211
+#EXTINF:-1 tvg-id="10177" tvg-name="DAZN SPORT 2 BAR DE backup" tvg-logo="http://caffe.link:25461/images/9fa70fa54d04cc3a277d1ecd0fc37387.png" group-title="Sport",DAZN SPORT 2 BAR DE backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/10177
+#EXTINF:-1 tvg-id="6937" tvg-name="SOS Sr (Test)" tvg-logo="https://tvprofil.com/img/kanali-logo/SOS_RS_logo.png" group-title="Sport",SOS Sr (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6937
+#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="http://caffe.link:25461/images/636fa30942ce6c7b74d682339866ea27.png" group-title="Sport",Skx Sport 1 DE FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1487
+#EXTINF:-1 tvg-id="10173" tvg-name="Skx Sport 1 DE backup" tvg-logo="http://caffe.link:25461/images/636fa30942ce6c7b74d682339866ea27.png" group-title="Sport",Skx Sport 1 DE backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/10173
+#EXTINF:-1 tvg-id="5825" tvg-name="Skx Sport 1  HEVC" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_1_de.png" group-title="Sport",Skx Sport 1  HEVC
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5825
+#EXTINF:-1 tvg-id="5826" tvg-name="Skx Sport 2 HEVC" tvg-logo="http://caffe.link:25461/images/cebb51f46a0f5d27367554bc24ea4514.png" group-title="Sport",Skx Sport 2 HEVC
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5826
+#EXTINF:-1 tvg-id="1486" tvg-name="Skx Sport 2 DE FHD" tvg-logo="http://caffe.link:25461/images/cebb51f46a0f5d27367554bc24ea4514.png" group-title="Sport",Skx Sport 2 DE FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1486
+#EXTINF:-1 tvg-id="10184" tvg-name="Skx Sport 2 backup" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_2_de.png" group-title="Sport",Skx Sport 2 backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/10184
+#EXTINF:-1 tvg-id="1457" tvg-name="Skx Sport Austria" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria.png" group-title="Sport",Skx Sport Austria
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1457
+#EXTINF:-1 tvg-id="6943" tvg-name="ORF Sport + (Test)" tvg-logo="https://tvprofil.com/img/kanali-logo/orf-sport-plus-logo.jpg" group-title="Sport",ORF Sport + (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6943
+#EXTINF:-1 tvg-id="4622" tvg-name="Skx Sport News De" tvg-logo="http://caffe.link:25461/images/8fe59663630697bb628e4de0d1592cdc.png" group-title="Sport",Skx Sport News De
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4622
+#EXTINF:-1 tvg-id="1476" tvg-name="Skx Sport F1 IT" tvg-logo="http://caffe.link:25461/images/7cae27aceb2fe350825e92d21ec651c7.png" group-title="Sport",Skx Sport F1 IT
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1476
+#EXTINF:-1 tvg-id="1499" tvg-name="Skx Sport F1 UK" tvg-logo="http://caffe.link:25461/images/14a51e49472aab8602a9b81f475d9d1e.png" group-title="Sport",Skx Sport F1 UK
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1499
+#EXTINF:-1 tvg-id="1492" tvg-name="Skx Sport Mix HD" tvg-logo="http://caffe.link:25461/images/959bb2868772e7f17fd06e6c5aa0380b.png" group-title="Sport",Skx Sport Mix HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1492
+#EXTINF:-1 tvg-id="1493" tvg-name="Skx Sport Main Event HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="Sport",Skx Sport Main Event HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1493
+#EXTINF:-1 tvg-id="1494" tvg-name="Skx sports Golff HD" tvg-logo="https://tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png" group-title="Sport",Skx sports Golff HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1494
+#EXTINF:-1 tvg-id="1495" tvg-name="Skx Sports Fotball HD" tvg-logo="http://caffe.link:25461/images/3be62fbaa4806d3d6c747f3bb4d633d3.png" group-title="Sport",Skx Sports Fotball HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1495
+#EXTINF:-1 tvg-id="1496" tvg-name="Cricket HD" tvg-logo="http://caffe.link:25461/images/965611e613278f75a569eea7861f6355.png" group-title="Sport",Cricket HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1496
+#EXTINF:-1 tvg-id="1497" tvg-name="Skx Sport Arena HD" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-arena.png" group-title="Sport",Skx Sport Arena HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1497
+#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport Action HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="Sport",Skx Sport Action HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1498
+#EXTINF:-1 tvg-id="1449" tvg-name="Auto Motor Sport" tvg-logo="https://ewsat.com/img/AUTO_MOTOR_SPORT.png" group-title="Sport",Auto Motor Sport
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1449
+#EXTINF:-1 tvg-id="1448" tvg-name="Fight Channel" tvg-logo="http://caffe.link:25461/images/b55e9caed8920c59a4038bbded387900.png" group-title="Sport",Fight Channel
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1448
+#EXTINF:-1 tvg-id="1508" tvg-name="Eurosport 1" tvg-logo="http://caffe.link:25461/images/7c31d506280b8151acf6e374787db2ee.png" group-title="Sport",Eurosport 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1508
+#EXTINF:-1 tvg-id="1507" tvg-name="Eurosport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",Eurosport 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1507
+#EXTINF:-1 tvg-id="1506" tvg-name="Eurosport 1 DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="Sport",Eurosport 1 DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1506
+#EXTINF:-1 tvg-id="1505" tvg-name="Eurosport 2 DE" tvg-logo="http://caffe.link:25461/images/30d8bcbb44a3a267b27d9a39464a2402.png" group-title="Sport",Eurosport 2 DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1505
+#EXTINF:-1 tvg-id="10175" tvg-name="Eurosport 1 DE backup" tvg-logo="http://caffe.link:25461/images/7c31d506280b8151acf6e374787db2ee.png" group-title="Sport",Eurosport 1 DE backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/10175
+#EXTINF:-1 tvg-id="5821" tvg-name="Eurosport 1 DE Hevc" tvg-logo="http://caffe.link:25461/images/7c31d506280b8151acf6e374787db2ee.png" group-title="Sport",Eurosport 1 DE Hevc
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5821
+#EXTINF:-1 tvg-id="5822" tvg-name="Eurosport 2 DE Hevc" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",Eurosport 2 DE Hevc
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5822
+#EXTINF:-1 tvg-id="10174" tvg-name="Eurosport 2 DE backup" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",Eurosport 2 DE backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/10174
+#EXTINF:-1 tvg-id="5302" tvg-name="EUROSPORT 1 FR" tvg-logo="http://caffe.link:25461/images/a587f5bcc7a85f01cd4e08afa17944f0.png" group-title="Sport",EUROSPORT 1 FR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5302
+#EXTINF:-1 tvg-id="1244" tvg-name="EUROSPORT 2 FR" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",EUROSPORT 2 FR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5301
+#EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="Sport",BSports ESPN HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1488
+#EXTINF:-1 tvg-id="1491" tvg-name="BSport 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_1_logo.png" group-title="Sport",BSport 1 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1491
+#EXTINF:-1 tvg-id="1490" tvg-name="BSport 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 2 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1490
+#EXTINF:-1 tvg-id="1489" tvg-name="BSport 3 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 3 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1489
+#EXTINF:-1 tvg-id="13823" tvg-name="SK Golf" tvg-logo="http://caffe.link:25461/images/b52fbe0cb8d64219fe7dca270d7404db.png" group-title="Sport",SK Golf
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13823
+#EXTINF:-1 tvg-id="1485" tvg-name="BLiga DE FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/skybundesliga1_logo.png" group-title="Sport",BLiga DE FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1485
+#EXTINF:-1 tvg-id="10172" tvg-name="Bliga DE backup" tvg-logo="https://tvprofil.com/img/kanali-logo/skybundesliga1_logo.png" group-title="Sport",Bliga DE backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/10172
+#EXTINF:-1 tvg-id="6170" tvg-name="BLiga DE HEVC" tvg-logo="http://caffe.link:25461/images/d3d587ca61d83f99936959877e033607.png" group-title="Sport",BLiga DE HEVC
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6170
+#EXTINF:-1 tvg-id="1484" tvg-name="BLiga 2 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_bundesliga_2.png" group-title="Sport",BLiga 2 (Matchday only)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1484
+#EXTINF:-1 tvg-id="1483" tvg-name="BLiga 3 (Matchday only)" tvg-logo="http://caffe.link:25461/images/ed1eb31f9204710cffbc3c66acfd84ea.png" group-title="Sport",BLiga 3 (Matchday only)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1483
+#EXTINF:-1 tvg-id="1482" tvg-name="BLiga 4 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_bundesliga_4.png" group-title="Sport",BLiga 4 (Matchday only)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1482
+#EXTINF:-1 tvg-id="1481" tvg-name="BLiga5 Test (Matchday only)" tvg-logo="http://caffe.link:25461/images/43e21b20d013f8f39054f67e0dc4c256.png" group-title="Sport",BLiga5 Test (Matchday only)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1481
+#EXTINF:-1 tvg-id="14103" tvg-name="Tring Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/sport4-hd-logo.png" group-title="Sport",Tring Sport 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/14103
+#EXTINF:-1 tvg-id="4859" tvg-name="Bein Sports 1 Fr" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 1 Fr
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4859
+#EXTINF:-1 tvg-id="4860" tvg-name="Bein Sports 2 Fr" tvg-logo="http://caffe.link:25461/images/35f8e05d9395269ee92d352daf5b5f07.png" group-title="Sport",Bein Sports 2 Fr
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4860
+#EXTINF:-1 tvg-id="4861" tvg-name="Bein Sports 3 Fr" tvg-logo="https://tvprofil.com/img/kanali-logo/Bein-sports-max-3_logo.png" group-title="Sport",Bein Sports 3 Fr
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4861
+#EXTINF:-1 tvg-id="1475" tvg-name="Bein Sports 1" tvg-logo="http://caffe.link:25461/images/35e363b9f790404ee212d15fa5ca9d97.png" group-title="Sport",Bein Sports 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1475
+#EXTINF:-1 tvg-id="1474" tvg-name="Bein Sports 2" tvg-logo="http://caffe.link:25461/images/ec320fef7ab69378d11d85f0f2d0a063.png" group-title="Sport",Bein Sports 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1474
+#EXTINF:-1 tvg-id="1473" tvg-name="Bein Sports 3" tvg-logo="http://caffe.link:25461/images/b20b3bacff756560118f6bf64b0e2525.png" group-title="Sport",Bein Sports 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1473
+#EXTINF:-1 tvg-id="1472" tvg-name="Bein Sports 4" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD4.png" group-title="Sport",Bein Sports 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1472
+#EXTINF:-1 tvg-id="1471" tvg-name="Bein Sports 5" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD5.png" group-title="Sport",Bein Sports 5
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1471
+#EXTINF:-1 tvg-id="1470" tvg-name="Bein Sports 6" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD6.png" group-title="Sport",Bein Sports 6
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1470
+#EXTINF:-1 tvg-id="1469" tvg-name="Bein Sports 7" tvg-logo="http://caffe.link:25461/images/b9cc8ad6389b452ee3f2c9c3e4579785.png" group-title="Sport",Bein Sports 7
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1469
+#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 8" tvg-logo="http://caffe.link:25461/images/faf9fbf9bf8eaef2af875086440a79ae.png" group-title="Sport",Bein Sports 8
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1468
+#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 9" tvg-logo="http://caffe.link:25461/images/8662db5677e4a06be94824a45dba2993.png" group-title="Sport",Bein Sports 9
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1467
+#EXTINF:-1 tvg-id="14080" tvg-name="Bein Sports 1 HD TR" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_1_TR_logo.png" group-title="Sport",Bein Sports 1 HD TR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/14080
+#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 2 HD TR" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_2_TR_logo.png" group-title="Sport",Bein Sports 2 HD TR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/14081
+#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 3 HD TR" tvg-logo="http://caffe.link:25461/images/b5bda23fede0a43f009c90c4013364fd.png" group-title="Sport",Bein Sports 3 HD TR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/14082
+#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 4 HD TR" tvg-logo="http://caffe.link:25461/images/f7389a412f69be26f57e7af0cd1acbc9.png" group-title="Sport",Bein Sports 4 HD TR
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/14083
+#EXTINF:-1 tvg-id="1450" tvg-name="Sportska TV" tvg-logo="https://tvprofil.com/img/kanali-logo/sptv-logo.png" group-title="Sport",Sportska TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1450
+#EXTINF:-1 tvg-id="1244" tvg-name="Ziggo sport extra" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-extra-2-netherlands.png" group-title="Sport",Ziggo sport extra
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6939
+#EXTINF:-1 tvg-id="1244" tvg-name="Ziggo Sport Select (Test)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-select-netherlands.png" group-title="Sport",Ziggo Sport Select (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6941
+#EXTINF:-1 tvg-id="13684" tvg-name="Ziggo Sport Voetbal" tvg-logo="http://epg.netsolutionpro.com/logo-tv/110.nl.png" group-title="Sport",Ziggo Sport Voetbal
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13684
+#EXTINF:-1 tvg-id="13685" tvg-name="Ziggo Sports Docu " tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-extra-1-netherlands.png" group-title="Sport",Ziggo Sports Docu 
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13685
+#EXTINF:-1 tvg-id="1244" tvg-name="Eleven Sport 1 FHD" tvg-logo="http://caffe.link:25461/images/edeeed372a93a1600eaff64ecaa0e308.png" group-title="Sport",Eleven Sport 1 FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4851
+#EXTINF:-1 tvg-id="1244" tvg-name="Eleven Sport 2 FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_2_PL_logo.png" group-title="Sport",Eleven Sport 2 FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4852
+#EXTINF:-1 tvg-id="1244" tvg-name="Eleven Sport 3 FHD" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-extra-poland.png" group-title="Sport",Eleven Sport 3 FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4853
+#EXTINF:-1 tvg-id="1244" tvg-name="Eleven Sport 4 FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_4_PL_logo.png" group-title="Sport",Eleven Sport 4 FHD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4854
+#EXTINF:-1 tvg-id="1466" tvg-name="FOX Sports 1 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-eredivisie.png" group-title="Sport",FOX Sports 1 (Nl)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1466
+#EXTINF:-1 tvg-id="1465" tvg-name="FOX Sports 2 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-2-netherlands.png" group-title="Sport",FOX Sports 2 (Nl)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1465
+#EXTINF:-1 tvg-id="1464" tvg-name="FOX Sports 3 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-3-eredivisie.png" group-title="Sport",FOX Sports 3 (Nl)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1464
+#EXTINF:-1 tvg-id="1463" tvg-name="FOX Sports 4 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-4-netherlands.png" group-title="Sport",FOX Sports 4 (Nl)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1463
+#EXTINF:-1 tvg-id="1462" tvg-name="Digi Sport 1 (Ro)" tvg-logo="http://caffe.link:25461/images/4c018807b6dd0c4fd44f8c6e5a6209f8.png" group-title="Sport",Digi Sport 1 (Ro)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1462
+#EXTINF:-1 tvg-id="1461" tvg-name="Digi Sport 2 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport2.png" group-title="Sport",Digi Sport 2 (Ro)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1461
+#EXTINF:-1 tvg-id="13844" tvg-name="Digi Sport 3 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport3a.png" group-title="Sport",Digi Sport 3 (Ro)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13844
+#EXTINF:-1 tvg-id="13845" tvg-name="Digi Sport 4 (Ro)" tvg-logo="http://caffe.link:25461/images/5defcb1b612fcd854f5a3d4b287c4d6f.jpg" group-title="Sport",Digi Sport 4 (Ro)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13845
+#EXTINF:-1 tvg-id="13687" tvg-name="Eurosport 1 NL" tvg-logo="http://epg.netsolutionpro.com/logo-tv/221.sr.png" group-title="Sport",Eurosport 1 NL
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13687
+#EXTINF:-1 tvg-id="1456" tvg-name="TSN 1" tvg-logo="http://caffe.link:25461/images/b9090b8a6264dfedbf216f0183a8b0f4.png" group-title="Sport",TSN 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1456
+#EXTINF:-1 tvg-id="1455" tvg-name="TSN 2" tvg-logo="http://caffe.link:25461/images/b9090b8a6264dfedbf216f0183a8b0f4.png" group-title="Sport",TSN 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1455
+#EXTINF:-1 tvg-id="1454" tvg-name="TSN 3" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="Sport",TSN 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1454
+#EXTINF:-1 tvg-id="1453" tvg-name="TSN 4" tvg-logo="http://caffe.link:25461/images/b9090b8a6264dfedbf216f0183a8b0f4.png" group-title="Sport",TSN 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1453
+#EXTINF:-1 tvg-id="1452" tvg-name="TSN 5" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="Sport",TSN 5
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1452
+#EXTINF:-1 tvg-id="13847" tvg-name="Eurosport 1 HD (UK)" tvg-logo="https://tvprofil.com/img/kanali-logo/eurosport-uk-logo.png" group-title="Sport",Eurosport 1 HD (UK)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13847
+#EXTINF:-1 tvg-id="13856" tvg-name="Sport Tv 1 (PT)" tvg-logo="https://tvprofil.com/img/kanali-logo/sport-tv1-pt.png" group-title="Sport",Sport Tv 1 (PT)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13856
+#EXTINF:-1 tvg-id="13855" tvg-name="Sport Tv 2 (PT)" tvg-logo="https://tvprofil.com/img/kanali-logo/sport-tv2-pt.png" group-title="Sport",Sport Tv 2 (PT)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13855
+#EXTINF:-1 tvg-id="13854" tvg-name="Sport Tv 3 (PT)" tvg-logo="https://tvprofil.com/img/kanali-logo/sport-tv3-pt.png" group-title="Sport",Sport Tv 3 (PT)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13854
+#EXTINF:-1 tvg-id="13853" tvg-name="Sport Tv 4 (PT)" tvg-logo="http://caffe.link:25461/images/3d45da6ff49ef3cf296964df962f00de.png" group-title="Sport",Sport Tv 4 (PT)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13853
+#EXTINF:-1 tvg-id="13852" tvg-name="Sport Tv 5 (PT)" tvg-logo="http://caffe.link:25461/images/8115ec958b45b0deef8f0fc48aee631a.png" group-title="Sport",Sport Tv 5 (PT)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13852
+#EXTINF:-1 tvg-id="4849" tvg-name="Sport1+ HD" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sport-1-plus-germany.png" group-title="Sport",Sport1+ HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4849
+#EXTINF:-1 tvg-id="5306" tvg-name="Sport 1 HD DE" tvg-logo="http://caffe.link:25461/images/96986ad8b77aa822a0709a51f2e7527d.png" group-title="Sport",Sport 1 HD DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5306
+#EXTINF:-1 tvg-id="5549" tvg-name="Viasat Sport Premium" tvg-logo="http://caffe.link:25461/images/55ffc7eee1a99f7b9bdad0aed5e58998.png" group-title="Sport",Viasat Sport Premium
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5549
+#EXTINF:-1 tvg-id="1244" tvg-name="Viasat Motor" tvg-logo="https://i.goalzz.com/?i=logo_sports%2Fviasatmotor.jpg" group-title="Sport",Viasat Motor
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6413
+#EXTINF:-1 tvg-id="1244" tvg-name="NFL Network" tvg-logo="http://caffe.link:25461/images/91da3a9d25ba41cdb2bd0cfd37c15b7a.jpg" group-title="Sport",NFL Network
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4814
+#EXTINF:-1 tvg-id="3691" tvg-name="RMC Sport 1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sfr-sport-1-france.png" group-title="Sport",RMC Sport 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/3691
+#EXTINF:-1 tvg-id="3692" tvg-name="RMC Sport 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sfr-sport-2-france.png" group-title="Sport",RMC Sport 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/3692
+#EXTINF:-1 tvg-id="3693" tvg-name="RMC Sport 3" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sfr-sport-3-france.png" group-title="Sport",RMC Sport 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/3693
+#EXTINF:-1 tvg-id="3694" tvg-name="RMC Sport 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/rmc-sport-4.jpg" group-title="Sport",RMC Sport 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/3694
+#EXTINF:-1 tvg-id="1673" tvg-name="SuperSport 1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-digitalb.gif" group-title="Sport",SuperSport 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1673
+#EXTINF:-1 tvg-id="1672" tvg-name="SuperSport 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif" group-title="Sport",SuperSport 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1672
+#EXTINF:-1 tvg-id="1671" tvg-name="SuperSport 3" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-3-digitalb.gif" group-title="Sport",SuperSport 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1671
+#EXTINF:-1 tvg-id="1670" tvg-name="SuperSport 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-4-digitalb.gif" group-title="Sport",SuperSport 4
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1670
+#EXTINF:-1 tvg-id="1244" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Sport",NBA TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1451
 
-#EXTINF:-1 group-title="FILM",*** FILM ***
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/869
-#EXTINF:-1 group-title="FILM",HBO Adria
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/54
-#EXTINF:-1 group-title="FILM",HBO Adria HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/218
-#EXTINF:-1 group-title="FILM",HBO 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/56
-#EXTINF:-1 group-title="FILM",HBO 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/672
-#EXTINF:-1 group-title="FILM",HBO 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/57
-#EXTINF:-1 group-title="FILM",HBO 3 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/220
-#EXTINF:-1 group-title="FILM",FOX
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/62
-#EXTINF:-1 group-title="FILM",FOX HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1507
-#EXTINF:-1 group-title="FILM",FOX Movies
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/63
-#EXTINF:-1 group-title="FILM",FOX Movies HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1510
-#EXTINF:-1 group-title="FILM",FOX Life
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/65
-#EXTINF:-1 group-title="FILM",FOX Life HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1509
-#EXTINF:-1 group-title="FILM",FOX Crime
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/64
-#EXTINF:-1 group-title="FILM",FOX Crime HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1508
-#EXTINF:-1 group-title="FILM",CineStar Action
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44200
-#EXTINF:-1 group-title="FILM",CineStar Premiere 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/58
-#EXTINF:-1 group-title="FILM",Cinestar Premiere 1 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/6179
-#EXTINF:-1 group-title="FILM",CineStar Premiere 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/59
-#EXTINF:-1 group-title="FILM",Cinestar Premiere 2 HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/6180
-#EXTINF:-1 group-title="FILM",CineStar TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/60
-#EXTINF:-1 group-title="FILM",CineStar TV 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/17021
-#EXTINF:-1 group-title="FILM",Cinestar Comedy
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/2522
-#EXTINF:-1 group-title="FILM",TV 1000
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/113
-#EXTINF:-1 group-title="FILM",Cinemax 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/66
-#EXTINF:-1 group-title="FILM",Cinemax 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/67
-#EXTINF:-1 group-title="FILM",FilmBox Extra 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39481
-#EXTINF:-1 group-title="FILM",AMC
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/68
-#EXTINF:-1 group-title="FILM",Kino TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/273
-#EXTINF:-1 group-title="FILM",Diva
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/661
-#EXTINF:-1 group-title="FILM",SciFi Chanel
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3194
-#EXTINF:-1 group-title="FILM",AXN
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/274
-#EXTINF:-1 group-title="FILM",AXN Spin
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/275
-#EXTINF:-1 group-title="FILM",M1 Film
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/132
-#EXTINF:-1 group-title="FILM",M1 Gold
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/133
-#EXTINF:-1 group-title="FILM",M1 Family
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39160
-#EXTINF:-1 group-title="FILM",Epic Drama
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/255
-#EXTINF:-1 group-title="FILM",Klasik TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/253
-#EXTINF:-1 group-title="FILM",Film Klub
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1454
-#EXTINF:-1 group-title="FILM",SuperStar
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/254
-#EXTINF:-1 group-title="FILM",SuperStar 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1660
-#EXTINF:-1 group-title="FILM",Pickbox TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/753
-#EXTINF:-1 group-title="FILM",Dobra Cinema
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3224
-#EXTINF:-1 group-title="FILM",TimeOut
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16707
-#EXTINF:-1 group-title="FILM",MaxCro Select 1 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/37889
-#EXTINF:-1 group-title="FILM",MaxCro Select 2 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/635
-#EXTINF:-1 group-title="FILM",MaxCro Select 3 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/634
-#EXTINF:-1 group-title="FILM",MaxCro Select 4 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/633
-#EXTINF:-1 group-title="FILM",MaxCro Select 5 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/632
-#EXTINF:-1 group-title="FILM",MaxCro Select 6 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/631
-#EXTINF:-1 group-title="FILM",MaxCro Select 7 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/630
-#EXTINF:-1 group-title="FILM",MaxCro Select 8 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/629
-#EXTINF:-1 group-title="FILM",MaxCro Select 9 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/628
-#EXTINF:-1 group-title="FILM",MaxCro Select 10
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/627
-#EXTINF:-1 group-title="FILM",Box Office 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39157
-#EXTINF:-1 group-title="FILM",Box Office 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39158
-#EXTINF:-1 group-title="FILM",Box Office 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39824
-#EXTINF:-1 group-title="FILM",Nova Cinema
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39154
-#EXTINF:-1 group-title="FILM",Nova Cinema 2K
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39155
-#EXTINF:-1 group-title="FILM",Sky GO 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26535
-#EXTINF:-1 group-title="FILM",Sky GO 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26534
-#EXTINF:-1 group-title="FILM",Sky GO 3 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26533
-#EXTINF:-1 group-title="FILM",Sky GO 4 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26532
-#EXTINF:-1 group-title="FILM",Sky GO 5
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26530
-#EXTINF:-1 group-title="FILM",Sky GO 6
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26527
-#EXTINF:-1 group-title="FILM",Sky GO 7
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26526
-#EXTINF:-1 group-title="FILM",Sky GO 8
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26525
-#EXTINF:-1 group-title="FILM",Sky GO 9
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/26522
-#EXTINF:-1 group-title="FILM",Sky GO 10
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45738
-#EXTINF:-1 group-title="FILM",Euro Cinema 1  (TEST)
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45592
-#EXTINF:-1 group-title="FILM",Euro Cinema 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45593
-#EXTINF:-1 group-title="FILM",Euro Cinema 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45594
-#EXTINF:-1 group-title="FILM",Euro Cinema 4
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45595
-
-#EXTINF:-1 group-title="PINK MEDIA",*** PINK MEDIA GROUP ***
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/72
-#EXTINF:-1 group-title="PINK MEDIA",Pink Plus
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/85
-#EXTINF:-1 group-title="PINK MEDIA",Pink Film
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/80
-#EXTINF:-1 group-title="PINK MEDIA",Pink Film HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45965
-#EXTINF:-1 group-title="PINK MEDIA",Pink Premium
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/88
-#EXTINF:-1 group-title="PINK MEDIA",Pink World Cinema
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/96
-#EXTINF:-1 group-title="PINK MEDIA",Pink Thriller
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/92
-#EXTINF:-1 group-title="PINK MEDIA",Pink Sci Fi and Fantasy
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/89
-#EXTINF:-1 group-title="PINK MEDIA",Pink Action
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/74
-#EXTINF:-1 group-title="PINK MEDIA",Pink Horror
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/81
-#EXTINF:-1 group-title="PINK MEDIA",Pink Movies
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/84
-#EXTINF:-1 group-title="PINK MEDIA",Pink Comedy
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/573
-#EXTINF:-1 group-title="PINK MEDIA",Pink Crime & Mystery
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/76
-#EXTINF:-1 group-title="PINK MEDIA",Pink Classic
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/75
-#EXTINF:-1 group-title="PINK MEDIA",Pink Western
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/93
-#EXTINF:-1 group-title="PINK MEDIA",Pink Family
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/78
-#EXTINF:-1 group-title="PINK MEDIA",Pink Soap
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/91
-#EXTINF:-1 group-title="PINK MEDIA",Pink Serije
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/90
-#EXTINF:-1 group-title="PINK MEDIA",Pink Romance
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3043
-#EXTINF:-1 group-title="PINK MEDIA",Pink Reality
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/86
-#EXTINF:-1 group-title="PINK MEDIA",Pink LOL
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/83
-#EXTINF:-1 group-title="PINK MEDIA",Pink HaHa
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3410
-#EXTINF:-1 group-title="PINK MEDIA",Pink World
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/95
-#EXTINF:-1 group-title="PINK MEDIA",Pink Pedia
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/28543
-#EXTINF:-1 group-title="PINK MEDIA",Pink Zabava
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/94
-#EXTINF:-1 group-title="PINK MEDIA",Pink Kuvar
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/82
-#EXTINF:-1 group-title="PINK MEDIA",Pink Fashion
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/79
-#EXTINF:-1 group-title="PINK MEDIA",Pink Style
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3044
-#EXTINF:-1 group-title="PINK MEDIA",Pink Extra
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/77
-#EXTINF:-1 group-title="PINK MEDIA",Pink Show
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/28180
-
-#EXTINF:-1 group-title="DOKU",Discovery Chanel
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/105
-#EXTINF:-1 group-title="DOKU",Animal Planet
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/106
-#EXTINF:-1 group-title="DOKU",National Geographic
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/109
-#EXTINF:-1 group-title="DOKU", National Geographic Wild
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45578
-#EXTINF:-1 group-title="DOKU", Wild
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/110
-#EXTINF:-1 group-title="DOKU",History Channel 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/107
-#EXTINF:-1 group-title="DOKU",History Channel 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/108
-#EXTINF:-1 group-title="DOKU",Discovery Science
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1959
-#EXTINF:-1 group-title="DOKU",ID Discovery
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/371
-#EXTINF:-1 group-title="DOKU",Crime & Investigation
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/370
-#EXTINF:-1 group-title="DOKU",Viasat Nature
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/297
-#EXTINF:-1 group-title="DOKU",Viasat History
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/298
-#EXTINF:-1 group-title="DOKU",Viasat Explore
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/124
-#EXTINF:-1 group-title="DOKU",Lov i Ribolov
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/343
-#EXTINF:-1 group-title="DOKU",Chasse & Peche
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3526
-#EXTINF:-1 group-title="DOKU",24 Kitchen
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/122
-#EXTINF:-1 group-title="DOKU",Food Network
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/372
-#EXTINF:-1 group-title="DOKU",Kitchen TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/123
-#EXTINF:-1 group-title="DOKU",TLC
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/130
-#EXTINF:-1 group-title="DOKU",Travel Chanel
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/303
-#EXTINF:-1 group-title="DOKU",Dobra Travel
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3225
-#EXTINF:-1 group-title="DOKU",Da Vinci Learning
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1438
-#EXTINF:-1 group-title="DOKU",E!Entertainment
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/304
-#EXTINF:-1 group-title="DOKU",Comedy Central Extra
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/423
-#EXTINF:-1 group-title="DOKU",FLN
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/131
-#EXTINF:-1 group-title="DOKU",Woman TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/5803
-#EXTINF:-1 group-title="DOKU",Fashion TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/246
-#EXTINF:-1 group-title="DOKU",Luxe HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/375
-#EXTINF:-1 group-title="DOKU",Doku TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3397
-#EXTINF:-1 group-title="DOKU",DokuBox
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16929
-#EXTINF:-1 group-title="DOKU",Planet Earth
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3398
-#EXTINF:-1 group-title="DOKU",BBC Earth
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/564
-#EXTINF:-1 group-title="DOKU",CNN 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/247
-#EXTINF:-1 group-title="DOKU",RT Docu HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/251
-#EXTINF:-1 group-title="DOKU",Euronews
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/250
-#EXTINF:-1 group-title="DOKU",CNBC
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/249
-#EXTINF:-1 group-title="DOKU",BBC Worldnews
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/248
-#EXTINF:-1 group-title="DOKU",Aljazeera English HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/40038
-
-#EXTINF:-1 group-title="DJECA",*** DJECA ***
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/216
-#EXTINF:-1 group-title="DJECA",Nickelodeon SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45492
-#EXTINF:-1 group-title="DJECA",Nickelodeon HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/206
-#EXTINF:-1 group-title="DJECA",NickJr. SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/205
-#EXTINF:-1 group-title="DJECA",NickJr. HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/45814
-#EXTINF:-1 group-title="DJECA",RTL Kockica
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/209
-#EXTINF:-1 group-title="DJECA",Hayatovci
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/210
-#EXTINF:-1 group-title="DJECA",Pikaboo
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/215
-#EXTINF:-1 group-title="DJECA",TNT Kids
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/203
-#EXTINF:-1 group-title="DJECA",MiniMax
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/208
-#EXTINF:-1 group-title="DJECA",Mini tv
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/211
-#EXTINF:-1 group-title="DJECA",VaVooM
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3409
-#EXTINF:-1 group-title="DJECA",Pink Kids
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/373
-#EXTINF:-1 group-title="DJECA",SuperKids
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/374
-#EXTINF:-1 group-title="DJECA",Boomerang
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/214
-#EXTINF:-1 group-title="DJECA",Cartoon Network
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1292
-#EXTINF:-1 group-title="DJECA",Disney Jr.
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/438
-#EXTINF:-1 group-title="DJECA",Kazabuka
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/42908
-#EXTINF:-1 group-title="DJECA",Hey Kids
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/40093
-#EXTINF:-1 group-title="DJECA",JimJam
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/300
-#EXTINF:-1 group-title="DJECA",Baby TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/212
-#EXTINF:-1 group-title="DJECA",Duck TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/213
-#EXTINF:-1 group-title="DJECA",Masa i Medo
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/28179
-#EXTINF:-1 group-title="DJECA",Looney Tunes
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3182
-#EXTINF:-1 group-title="DJECA",Tom And Jery
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3826
-#EXTINF:-1 group-title="DJECA",Karusel
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/295
-#EXTINF:-1 group-title="DJECA",Gametoon HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/16974
-#EXTINF:-1 group-title="DJECA",GB TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/4157
-
-#EXTINF:-1 group-title="MUZIKA",*** MUZIKA ***
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/867
-#EXTINF:-1 group-title="MUZIKA",Grand TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/223
-#EXTINF:-1 group-title="MUZIKA",Grand TV 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/224
-#EXTINF:-1 group-title="MUZIKA",Balkanika
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/243
-#EXTINF:-1 group-title="MUZIKA",DM Sat
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/225
-#EXTINF:-1 group-title="MUZIKA",Hayat Folk
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/235
-#EXTINF:-1 group-title="MUZIKA",BN Music
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/226
-#EXTINF:-1 group-title="MUZIKA",Pink Folk 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/227
-#EXTINF:-1 group-title="MUZIKA",Pink Folk 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/228
-#EXTINF:-1 group-title="MUZIKA",Izvorna TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/344
-#EXTINF:-1 group-title="MUZIKA",Dobra Svadba
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3223
-#EXTINF:-1 group-title="MUZIKA",Dobra Exclusive
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/1123
-#EXTINF:-1 group-title="MUZIKA",Sevdah TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/367
-#EXTINF:-1 group-title="MUZIKA",TV Banovina
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/233
-#EXTINF:-1 group-title="MUZIKA",Posavina TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/232
-#EXTINF:-1 group-title="MUZIKA",Narodna TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/28251
-#EXTINF:-1 group-title="MUZIKA",TOP Sound
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/28541
-#EXTINF:-1 group-title="MUZIKA",Roma TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/296
-#EXTINF:-1 group-title="MUZIKA",Upera Balkan TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3396
-#EXTINF:-1 group-title="MUZIKA",Pink Music 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/230
-#EXTINF:-1 group-title="MUZIKA",Pink Music 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/229
-#EXTINF:-1 group-title="MUZIKA",YU Planet
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/348
-#EXTINF:-1 group-title="MUZIKA",Dobra Muzicka
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3226
-#EXTINF:-1 group-title="MUZIKA",OTV Valentino
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/691
-#EXTINF:-1 group-title="MUZIKA",Valentino Etno
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/43719
-#EXTINF:-1 group-title="MUZIKA",Libertas TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/6259
-#EXTINF:-1 group-title="MUZIKA",DMC
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/6260
-#EXTINF:-1 group-title="MUZIKA",Hayat Music
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/234
-#EXTINF:-1 group-title="MUZIKA",IDJ TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/342
-#EXTINF:-1 group-title="MUZIKA",Toxic
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/44069
-#EXTINF:-1 group-title="MUZIKA",Jugoton
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/459
-#EXTINF:-1 group-title="MUZIKA",CMC
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/231
-#EXTINF:-1 group-title="MUZIKA",OKK
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39717
-#EXTINF:-1 group-title="MUZIKA",Pink Hits 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/443
-#EXTINF:-1 group-title="MUZIKA",Pink Hits 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/444
-#EXTINF:-1 group-title="MUZIKA",MTV 00s
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/236
-#EXTINF:-1 group-title="MUZIKA",MTV 80s
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/241
-#EXTINF:-1 group-title="MUZIKA",MTV 90s
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/239
-#EXTINF:-1 group-title="MUZIKA",MTV Live
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/37475
-#EXTINF:-1 group-title="MUZIKA",MTV Adria
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/238
-#EXTINF:-1 group-title="MUZIKA",MTV Hits
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/240
-#EXTINF:-1 group-title="MUZIKA",MTV Club
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/17504
-#EXTINF:-1 group-title="MUZIKA",City TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/245
-#EXTINF:-1 group-title="MUZIKA",The Voice
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/244
-#EXTINF:-1 group-title="MUZIKA",MCM Top
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/237
-#EXTINF:-1 group-title="MUZIKA",Jukebox 
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39672
-#EXTINF:-1 group-title="MUZIKA",Magic TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/242
-
-#EXTINF:-1 group-title="EROTSKI",*** Erotski Kanali ***
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/813
-#EXTINF:-1 group-title="EROTSKI",Private
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/175
-#EXTINF:-1 group-title="EROTSKI",Dorcel HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/176
-#EXTINF:-1 group-title="EROTSKI",Penthouse Gold HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/568
-#EXTINF:-1 group-title="EROTSKI",Passion XXX 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/177
-#EXTINF:-1 group-title="EROTSKI",EvilAngel HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/178
-#EXTINF:-1 group-title="EROTSKI",Hustler HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/180
-#EXTINF:-1 group-title="EROTSKI",Hustler TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/4050
-#EXTINF:-1 group-title="EROTSKI",Evil Angel
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/4049
-#EXTINF:-1 group-title="EROTSKI",EroXX HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/4051
-#EXTINF:-1 group-title="EROTSKI",Brazzers TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/4052
-#EXTINF:-1 group-title="EROTSKI",PinkO TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/566
-#EXTINF:-1 group-title="EROTSKI",Stars XXX
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/567
-#EXTINF:-1 group-title="EROTSKI",Super One
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3113
-#EXTINF:-1 group-title="EROTSKI",Alba XXX-HD 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/3114
-#EXTINF:-1 group-title="EROTSKI",Playboy HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/427
-#EXTINF:-1 group-title="EROTSKI",Penthouse Fashion HD
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/179
-#EXTINF:-1 group-title="EROTSKI",Русская Ночь
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/565
-#EXTINF:-1 group-title="EROTSKI",Pink Erotic 1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46474
-#EXTINF:-1 group-title="EROTSKI",Pink Erotic 2
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46475
-#EXTINF:-1 group-title="EROTSKI",Pink Erotic 3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46476
-#EXTINF:-1 group-title="EROTSKI",Pink Erotic 4
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46477
-#EXTINF:-1 group-title="EROTSKI",Vixen
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46478
-#EXTINF:-1 group-title="EROTSKI",Vivid Red
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46479
-#EXTINF:-1 group-title="EROTSKI",Babes TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46480
-#EXTINF:-1 group-title="EROTSKI",Dusk TV
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/46481
-
-#EXTINF:-1 group-title="RADIO",Radio Fortuna MK
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38855
-#EXTINF:-1 group-title="RADIO",Star Radio MK
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38856
-#EXTINF:-1 group-title="RADIO",Radio Antena 5 MK
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39516
-#EXTINF:-1 group-title="RADIO",Kanal 77 MK
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39517
-#EXTINF:-1 group-title="RADIO",Radio Plus MK
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39518
-#EXTINF:-1 group-title="RADIO",Radio Sarajevo BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38857
-#EXTINF:-1 group-title="RADIO",Radio BN BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38860
-#EXTINF:-1 group-title="RADIO",Radio Carsija BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38861
-#EXTINF:-1 group-title="RADIO",Radio M  BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38869
-#EXTINF:-1 group-title="RADIO",BellAmie FOLK radio BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38873
-#EXTINF:-1 group-title="RADIO",Radio Hit, Banja Luka BH
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39551
-#EXTINF:-1 group-title="RADIO",RADIO B92
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38874
-#EXTINF:-1 group-title="RADIO",RADIO STUDIO B
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38875
-#EXTINF:-1 group-title="RADIO",PLAY Radio Beograd
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38876
-#EXTINF:-1 group-title="RADIO",Radio S1
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38877
-#EXTINF:-1 group-title="RADIO",Radio S3
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38879
-#EXTINF:-1 group-title="RADIO",Radio S4
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38880
-#EXTINF:-1 group-title="RADIO",Pink Radio
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38881
-#EXTINF:-1 group-title="RADIO",Radio Göteborg Folk - 24 sata
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/38882
-#EXTINF:-1 group-title="RADIO",Sevdah - Göteborg
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39519
-#EXTINF:-1 group-title="RADIO",Narodni Radio HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39520
-#EXTINF:-1 group-title="RADIO",Antena Zagreb Radio HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39521
-#EXTINF:-1 group-title="RADIO",Super Radio HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39523
-#EXTINF:-1 group-title="RADIO",Radio DeeJay HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39524
-#EXTINF:-1 group-title="RADIO",Hit Radio HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39525
-#EXTINF:-1 group-title="RADIO",Radio Dalmacija HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39526
-#EXTINF:-1 group-title="RADIO",Radio 101 Zagreb HR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39527
-#EXTINF:-1 group-title="RADIO",Radio B92 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39528
-#EXTINF:-1 group-title="RADIO",Folk Radio Beograd SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39530
-#EXTINF:-1 group-title="RADIO",Radio Novosti SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39531
-#EXTINF:-1 group-title="RADIO",Studio B SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39533
-#EXTINF:-1 group-title="RADIO",Radio 101 SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39535
-#EXTINF:-1 group-title="RADIO",Radio Belle Amie SR
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39536
-#EXTINF:-1 group-title="RADIO",Radio Maribor SLO
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39537
-#EXTINF:-1 group-title="RADIO",Radio 94 SLO
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39538
-#EXTINF:-1 group-title="RADIO",Radio City Maribor SLO
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39539
-#EXTINF:-1 group-title="RADIO",Radio Antena SLO
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39540
-#EXTINF:-1 group-title="RADIO",Radio 1 SLO
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39541
-#EXTINF:-1 group-title="RADIO", Radio Herceg Novi CG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39544
-#EXTINF:-1 group-title="RADIO",TDI Radio Crna Gora CG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39545
-#EXTINF:-1 group-title="RADIO",Radio Antena M Podgorica CG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39546
-#EXTINF:-1 group-title="RADIO",Jupok Radio Rožaje CG
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39548
-#EXTINF:-1 group-title="RADIO",Radio Kosovo
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39549
-#EXTINF:-1 group-title="RADIO",Radio Dvojka Chicago
-http://bazaruto.top:8000/rajka.riki/ka0b2f1ELO/39552
+#EXTINF:-1 tvg-id="1385" tvg-name="HBO Adria" tvg-logo="http://caffe.link:25461/images/c0c3797f5a6f976a78f848e7c27df1c7.png" group-title="Film & serije",HBO Adria
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1385
+#EXTINF:-1 tvg-id="1384" tvg-name="HBO 2" tvg-logo="http://caffe.link:25461/images/e4365fbeae6c27759d1657f4e2403823.png" group-title="Film & serije",HBO 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1384
+#EXTINF:-1 tvg-id="1383" tvg-name="HBO 3" tvg-logo="http://caffe.link:25461/images/22871ddf6f36a4fb1f522aff41005fb1.png" group-title="Film & serije",HBO 3
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1383
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 1 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15789
+#EXTINF:-1 tvg-id="15790" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 2 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15790
+#EXTINF:-1 tvg-id="15791" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 3 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15791
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 4 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15792
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 5 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15793
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 11 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15799
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 10 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15798
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 6 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15794
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 7 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15795
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 8 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15796
+#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 9 HD
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15797
+#EXTINF:-1 tvg-id="1377" tvg-name="Cinemax 1" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",Cinemax 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1377
+#EXTINF:-1 tvg-id="1376" tvg-name="Cinemax 2" tvg-logo="http://caffe.link:25461/images/9cce6235ca31e849206127bf0a6c59e7.png" group-title="Film & serije",Cinemax 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1376
+#EXTINF:-1 tvg-id="1380" tvg-name="CineStar Premiere 2" tvg-logo="http://caffe.link:25461/images/3f709962dc81fefd67d71def236379e9.png" group-title="Film & serije",CineStar Premiere 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1380
+#EXTINF:-1 tvg-id="1379" tvg-name="CineStar Action & Thriller" tvg-logo="http://caffe.link:25461/images/72a0e4f0fd08198007a9ee8aeaeefb39.png" group-title="Film & serije",CineStar Action & Thriller
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1379
+#EXTINF:-1 tvg-id="1378" tvg-name="Cinestar Fantasy" tvg-logo="http://caffe.link:25461/images/0887d7aa041510cf9866530459881062.png" group-title="Film & serije",Cinestar Fantasy
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1378
+#EXTINF:-1 tvg-id="1381" tvg-name="CineStar Premiere" tvg-logo="http://caffe.link:25461/images/cb3272cef2e6fb58387c7e25d07adaee.png" group-title="Film & serije",CineStar Premiere
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1381
+#EXTINF:-1 tvg-id="1244" tvg-name="C mania" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/cinemania-logo.png" group-title="Film & serije",C mania
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5214
+#EXTINF:-1 tvg-id="1368" tvg-name="FOX" tvg-logo="http://caffe.link:25461/images/e1d096182cab3cf06d5f8e79b96166e0.png" group-title="Film & serije",FOX
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1368
+#EXTINF:-1 tvg-id="3655" tvg-name="Film Klub" tvg-logo="http://caffe.link:25461/images/0689a376d8967ebca6e4ca289e9f7b73.png" group-title="Film & serije",Film Klub
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/3655
+#EXTINF:-1 tvg-id="1365" tvg-name="FOX Crime" tvg-logo="http://caffe.link:25461/images/006d453da140088a2ef79160459a2d34.png" group-title="Film & serije",FOX Crime
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1365
+#EXTINF:-1 tvg-id="1366" tvg-name="FOX Life" tvg-logo="http://caffe.link:25461/images/05787a358fd65e54e864142ee921e423.png" group-title="Film & serije",FOX Life
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1366
+#EXTINF:-1 tvg-id="1367" tvg-name="FOX Movies" tvg-logo="http://caffe.link:25461/images/a436845b70a566b35e55558534e8b8d7.png" group-title="Film & serije",FOX Movies
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1367
+#EXTINF:-1 tvg-id="1373" tvg-name="FilmBox Extra" tvg-logo="http://nextgen-iptv.com/logo/filmbox.png" group-title="Film & serije",FilmBox Extra
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1373
+#EXTINF:-1 tvg-id="1369" tvg-name="AXN" tvg-logo="http://caffe.link:25461/images/005d646fc58240959ccda3435c209b55.png" group-title="Film & serije",AXN
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1369
+#EXTINF:-1 tvg-id="5445" tvg-name="AXN Spin" tvg-logo="http://caffe.link:25461/images/7992919c8fac2b64ec57a6b68f45add4.png" group-title="Film & serije",AXN Spin
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5445
+#EXTINF:-1 tvg-id="1374" tvg-name="Kino TV" tvg-logo="http://caffe.link:25461/images/fbcbe07e312381f9ac5367b55865bde0.png" group-title="Film & serije",Kino TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1374
+#EXTINF:-1 tvg-id="1382" tvg-name="CineStar TV" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",CineStar TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1382
+#EXTINF:-1 tvg-id="1370" tvg-name="TV 1000" tvg-logo="http://epg.netsolutionpro.com/logo-tv/149.hr.png" group-title="Film & serije",TV 1000
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1370
+#EXTINF:-1 tvg-id="1371" tvg-name="Klasik TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/122.hr.png" group-title="Film & serije",Klasik TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1371
+#EXTINF:-1 tvg-id="1375" tvg-name="M1 Film" tvg-logo="http://caffe.link:25461/images/b2479cb301b7e0e67a2fd846750350b5.png" group-title="Film & serije",M1 Film
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1375
+#EXTINF:-1 tvg-id="4827" tvg-name="AMC" tvg-logo="http://epg.netsolutionpro.com/logo-tv/155.hr.png" group-title="Film & serije",AMC
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4827
+#EXTINF:-1 tvg-id="6929" tvg-name="Pickbox Tv (Test)" tvg-logo="https://tvprofil.com/img/kanali-logo/pickbox_logo_new.png" group-title="Film & serije",Pickbox Tv (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6929
+#EXTINF:-1 tvg-id="6928" tvg-name="Epic Drama (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/159.hr.png" group-title="Film & serije",Epic Drama (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6928
+#EXTINF:-1 tvg-id="5387" tvg-name="DIVA" tvg-logo="http://caffe.link:25461/images/1e14685301e2e7559a85912467f4de58.png" group-title="Film & serije",DIVA
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5387
+#EXTINF:-1 tvg-id="1404" tvg-name="National Geographic" tvg-logo="http://caffe.link:25461/images/4e28fe8ef371d9dedf32f3859f50f7b4.png" group-title="Doku & Style",National Geographic
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1404
+#EXTINF:-1 tvg-id="1395" tvg-name="NatGeo Wild" tvg-logo="http://caffe.link:25461/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="Doku & Style",NatGeo Wild
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1395
+#EXTINF:-1 tvg-id="1400" tvg-name="Viasat Explore" tvg-logo="http://caffe.link:25461/images/78fc90bf0ef1af02fa73abb2b37403fc.png" group-title="Doku & Style",Viasat Explore
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1400
+#EXTINF:-1 tvg-id="1396" tvg-name="Viasat Nature" tvg-logo="http://caffe.link:25461/images/9f66dbd204358af98ec59f5c3199a36f.png" group-title="Doku & Style",Viasat Nature
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1396
+#EXTINF:-1 tvg-id="1399" tvg-name="Viasat History" tvg-logo="http://caffe.link:25461/images/3ed399a4b1dee605b3b8b9a25b3a3f91.png" group-title="Doku & Style",Viasat History
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1399
+#EXTINF:-1 tvg-id="1402" tvg-name="History Channel" tvg-logo="http://caffe.link:25461/images/d3f089f063a747b9ffca95c003881c95.png" group-title="Doku & Style",History Channel
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1402
+#EXTINF:-1 tvg-id="1401" tvg-name="History Channel 2" tvg-logo="http://caffe.link:25461/images/626462167c85b1db7a7e8bb803e987f2.png" group-title="Doku & Style",History Channel 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1401
+#EXTINF:-1 tvg-id="1340" tvg-name="Pink Kuvar" tvg-logo="http://caffe.link:25461/images/5141c5a257b70ca33b66da1be661afa6.png" group-title="Doku & Style",Pink Kuvar
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1340
+#EXTINF:-1 tvg-id="1393" tvg-name="Crime Investigation" tvg-logo="http://caffe.link:25461/images/10116afbb86e4a29cde074b825db49bb.png" group-title="Doku & Style",Crime Investigation
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1393
+#EXTINF:-1 tvg-id="1394" tvg-name="Animal Planet" tvg-logo="http://caffe.link:25461/images/2ae20085ab28d1ecbb3a4ca4e797d483.png" group-title="Doku & Style",Animal Planet
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1394
+#EXTINF:-1 tvg-id="1398" tvg-name="Travel Channel" tvg-logo="http://caffe.link:25461/images/28ddfc274d22ef447aa649aa103ed5fb.png" group-title="Doku & Style",Travel Channel
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1398
+#EXTINF:-1 tvg-id="6915" tvg-name="Food network" tvg-logo="http://caffe.link:25461/images/2bd5ca914a192135bf9886a33c73cfba.png" group-title="Doku & Style",Food network
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6915
+#EXTINF:-1 tvg-id="1244" tvg-name="ID Backup" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",ID Backup
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1391
+#EXTINF:-1 tvg-id="1403" tvg-name="Discovery Channel" tvg-logo="http://caffe.link:25461/images/a6c118590d6a858d1f40ff2c60426697.png" group-title="Doku & Style",Discovery Channel
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1403
+#EXTINF:-1 tvg-id="1387" tvg-name="24 Kitchen" tvg-logo="http://caffe.link:25461/images/9f3f201e08e2b18f6a2cd29d79bcb3b4.png" group-title="Doku & Style",24 Kitchen
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1387
+#EXTINF:-1 tvg-id="1244" tvg-name="Comedy Central Extra" tvg-logo="http://caffe.link:25461/images/f6c25056b9a3b2c01b92eaba48916542.png" group-title="Doku & Style",Comedy Central Extra
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1388
+#EXTINF:-1 tvg-id="1244" tvg-name="Investigation Discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",Investigation Discovery
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1392
+#EXTINF:-1 tvg-id="4540" tvg-name="DocuBox" tvg-logo="http://caffe.link:25461/images/92e1c1f0634ee35ea1e0467f9346bb0b.png" group-title="Doku & Style",DocuBox
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4540
+#EXTINF:-1 tvg-id="3639" tvg-name="BBC Earth (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/188.hr.png" group-title="Doku & Style",BBC Earth (Test)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/3639
+#EXTINF:-1 tvg-id="1390" tvg-name="E!" tvg-logo="http://epg.netsolutionpro.com/logo-tv/185.hr.png" group-title="Doku & Style",E!
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1390
+#EXTINF:-1 tvg-id="1389" tvg-name="TLC" tvg-logo="http://caffe.link:25461/images/adb1dd921634dd6d09ad9da5820f0f92.png" group-title="Doku & Style",TLC
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1389
+#EXTINF:-1 tvg-id="5599" tvg-name="Doku TV" tvg-logo="http://caffe.link:25461/images/36a85299bb724a73c24484c5e6441acb.png" group-title="Doku & Style",Doku TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5599
+#EXTINF:-1 tvg-id="1386" tvg-name="Lov i Ribolov" tvg-logo="http://caffe.link:25461/images/b0702ed6a2111e2ade8dc6fd095a8e5d.png" group-title="Doku & Style",Lov i Ribolov
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1386
+#EXTINF:-1 tvg-id="1428" tvg-name="MTV Adria" tvg-logo="http://caffe.link:25461/images/5b5a0568a4d5902fe6a027d59343dbca.png" group-title="Music",MTV Adria
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1428
+#EXTINF:-1 tvg-id="1422" tvg-name="MTV Base" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-base-logo.png" group-title="Music",MTV Base
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1422
+#EXTINF:-1 tvg-id="1424" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1424
+#EXTINF:-1 tvg-id="1425" tvg-name="MTV Classic" tvg-logo="https://seeklogo.com/images/M/mtv-classic-2013-logo-68E2737F53-seeklogo.com.png" group-title="Music",MTV Classic
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1425
+#EXTINF:-1 tvg-id="1426" tvg-name="MTV Hits" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-hits-logo.png" group-title="Music",MTV Hits
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1426
+#EXTINF:-1 tvg-id="1244" tvg-name="MTV Music" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-music.png" group-title="Music",MTV Music
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1427
+#EXTINF:-1 tvg-id="1244" tvg-name="MTV Club" tvg-logo="https://tvprofil.com/img/kanali-logo/Club_mtv_logo.png" group-title="Music",MTV Club
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1423
+#EXTINF:-1 tvg-id="1244" tvg-name="VH1" tvg-logo="https://tvprofil.com/img/kanali-logo/VH1_IT_logo.png" group-title="Music",VH1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1421
+#EXTINF:-1 tvg-id="1409" tvg-name="Pink Folk 1" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkFolk1_logo.png" group-title="Music",Pink Folk 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1409
+#EXTINF:-1 tvg-id="1408" tvg-name="Pink Folk 2" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkFolk2_logo.png" group-title="Music",Pink Folk 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1408
+#EXTINF:-1 tvg-id="6935" tvg-name="Pink Hits 1" tvg-logo="http://caffe.link:25461/images/d7581be08b9d21e2cf3fd44c46175d71.png" group-title="Music",Pink Hits 1
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6935
+#EXTINF:-1 tvg-id="6936" tvg-name="Pink Hits 2" tvg-logo="http://caffe.link:25461/images/08fc3e027030e4e40222054818340c86.png" group-title="Music",Pink Hits 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6936
+#EXTINF:-1 tvg-id="1410" tvg-name="Pink Music" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkMusic_logo.png" group-title="Music",Pink Music
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1410
+#EXTINF:-1 tvg-id="1411" tvg-name="Pink n Roll" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkNRoll_logo.png" group-title="Music",Pink n Roll
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1411
+#EXTINF:-1 tvg-id="4830" tvg-name="Pink Koncert" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkKoncert_logo.png" group-title="Music",Pink Koncert
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4830
+#EXTINF:-1 tvg-id="1413" tvg-name="Hayat Folk" tvg-logo="https://tvprofil.com/img/kanali-logo/hayatfolk_logo.png" group-title="Music",Hayat Folk
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1413
+#EXTINF:-1 tvg-id="1414" tvg-name="Hayat Music" tvg-logo="https://tvprofil.com/img/kanali-logo/hayatmusic_logo.png" group-title="Music",Hayat Music
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1414
+#EXTINF:-1 tvg-id="15593" tvg-name="Yu planet test" tvg-logo="https://www.jagledam.com/logo/logoyuplanet.jpg" group-title="Music",Yu planet test
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15593
+#EXTINF:-1 tvg-id="1417" tvg-name="G Narodna TV" tvg-logo="https://tvprofil.com/img/kanali-logo/Grand_TV_logo.png" group-title="Music",G Narodna TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1417
+#EXTINF:-1 tvg-id="1244" tvg-name="G2 Narodna Tv" tvg-logo="http://caffe.link:25461/images/1a013725390efb5c7022af9b6fa3ecb6.png" group-title="Music",G2 Narodna Tv
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1416
+#EXTINF:-1 tvg-id="1415" tvg-name="DM Sat" tvg-logo="https://tvprofil.com/img/kanali-logo/dm-sat-logo.png" group-title="Music",DM Sat
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1415
+#EXTINF:-1 tvg-id="15737" tvg-name="DMC TV" tvg-logo="https://tvprofil.com/img/kanali-logo/DMC_televizija_logo.png" group-title="Music",DMC TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15737
+#EXTINF:-1 tvg-id="1418" tvg-name="BN Music" tvg-logo="http://caffe.link:25461/images/5477c05e5d784d59eaf515c8122ca047.png" group-title="Music",BN Music
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1418
+#EXTINF:-1 tvg-id="13924" tvg-name="Pink Music 2" tvg-logo="http://caffe.link:25461/images/04841f4826db26e4578624230a7e420b.jpg" group-title="Music",Pink Music 2
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13924
+#EXTINF:-1 tvg-id="1244" tvg-name="IDJ TV" tvg-logo="http://rem.rs/uploads/attachment/pruzalac/1385/idjtv_k.png" group-title="Music",IDJ TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/2536
+#EXTINF:-1 tvg-id="1419" tvg-name="Jugoton TV" tvg-logo="http://caffe.link:25461/images/bce5485c205385172e5a5643a1f080c4.png" group-title="Music",Jugoton TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1419
+#EXTINF:-1 tvg-id="1406" tvg-name="Izvorna TV" tvg-logo="https://tvprofil.com/img/kanali-logo/IzvornaTV_logo.png" group-title="Music",Izvorna TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1406
+#EXTINF:-1 tvg-id="1420" tvg-name="CMC" tvg-logo="http://caffe.link:25461/images/ad2b08a58bbcf1214cc29d221eafcb5c.png" group-title="Music",CMC
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1420
+#EXTINF:-1 tvg-id="1407" tvg-name="Balkanika" tvg-logo="http://caffe.link:25461/images/9aa9756c22c4ea8102fdd5be1f0b8484.png" group-title="Music",Balkanika
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1407
+#EXTINF:-1 tvg-id="5434" tvg-name="TV Sehara" tvg-logo="https://www.jagledam.com/logo/logosehara.jpg" group-title="Music",TV Sehara
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5434
+#EXTINF:-1 tvg-id="1444" tvg-name="Nickelodeon" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids",Nickelodeon
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1444
+#EXTINF:-1 tvg-id="1444" tvg-name="Nick Jr Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/nick_jr_logo.png" group-title="Kids",Nick Jr Hr
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1443
+#EXTINF:-1 tvg-id="15038" tvg-name="Nick Jr Sr" tvg-logo="https://tvprofil.com/img/kanali-logo/nick_jr_logo.png" group-title="Kids",Nick Jr Sr
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/15038
+#EXTINF:-1 tvg-id="1445" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/img/kanali-logo/rtl-kockica-logo.png" group-title="Kids",RTL Kockica
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1445
+#EXTINF:-1 tvg-id="1442" tvg-name="Mini Tv" tvg-logo="http://caffe.link:25461/images/f0d790a663b827f1ad00b08c4e6cec41.png" group-title="Kids",Mini Tv
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1442
+#EXTINF:-1 tvg-id="1441" tvg-name="Minimax" tvg-logo="https://tvprofil.com/img/kanali-logo/minimax-logo.png" group-title="Kids",Minimax
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1441
+#EXTINF:-1 tvg-id="1440" tvg-name="Hayatovci" tvg-logo="http://caffe.link:25461/images/920ab597186bdc6fbe77f55f5bd7c6d4.png" group-title="Kids",Hayatovci
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1440
+#EXTINF:-1 tvg-id="1430" tvg-name="Nickelodeon DE" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids",Nickelodeon DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1430
+#EXTINF:-1 tvg-id="1438" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkSuperKids_logo.png" group-title="Kids",Pink Super Kids
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1438
+#EXTINF:-1 tvg-id="1439" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-kids-logo.png" group-title="Kids",Pink Kids
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1439
+#EXTINF:-1 tvg-id="5212" tvg-name="Pikaboo Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="Kids",Pikaboo Hr
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/5212
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney Junior UK" tvg-logo="http://caffe.link:25461/images/85e7dd0b4aee92209317b2f1c2cd94c4.png" group-title="Kids",Disney Junior UK
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1435
+#EXTINF:-1 tvg-id="1429" tvg-name="Baby TV" tvg-logo="http://caffe.link:25461/images/8d3375d0af71f11028bbac82710a9e79.png" group-title="Kids",Baby TV
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1429
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney Channel UK" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids",Disney Channel UK
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1436
+#EXTINF:-1 tvg-id="4841" tvg-name="Disney Channel De" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids",Disney Channel De
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/4841
+#EXTINF:-1 tvg-id="1433" tvg-name="Cartoon Network UK" tvg-logo="http://caffe.link:25461/images/2943efda136645209878d85d042f59a8.png" group-title="Kids",Cartoon Network UK
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1433
+#EXTINF:-1 tvg-id="13840" tvg-name="CARTOON NETWORK (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids",CARTOON NETWORK (DE)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13840
+#EXTINF:-1 tvg-id="1432" tvg-name="Kika DE" tvg-logo="https://tvprofil.com/img/kanali-logo/kika-logo.png" group-title="Kids",Kika DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/1432
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney Cinemagic DE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f62318602691.560c0356efb24.jpg" group-title="Kids",Disney Cinemagic DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6925
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney XD DE" tvg-logo="http://caffe.link:25461/images/d923160ebd02a231ba43b7fad08a6a01.png" group-title="Kids",Disney XD DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6924
+#EXTINF:-1 tvg-id="6923" tvg-name="Disney Junior DE" tvg-logo="https://tvprofil.com/img/kanali-logo/disney-junior-logo.png" group-title="Kids",Disney Junior DE
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6923
+#EXTINF:-1 tvg-id="13839" tvg-name="Boomerang (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/boomerang_it_logo.png" group-title="Kids",Boomerang (DE)
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/13839
+#EXTINF:-1 tvg-id="1244" tvg-name="Tnt Kids" tvg-logo="http://caffe.link:25461/images/16f84651e3cb4938b65f42e3adaee381.png" group-title="Kids",Tnt Kids
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6927
+#EXTINF:-1 tvg-id="6922" tvg-name="Tom and Jerry" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x300/4/img/covers/img333057-tv7002967.jpg" group-title="Kids",Tom and Jerry
+http://caffe.link:25461/111Brane/9rpg36Nv58sT/6922
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="::::: DJECA :::::" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="DJECIJA TV",::::: DJECA :::::
-http://balkan-x.net:80/Nikola/Nikola/49242
-#EXTINF:-1 tvg-id="" tvg-name="PINK PANTHER 24H" tvg-logo="https://e7.pngegg.com/pngimages/23/357/png-clipart-pink-panther-illustration-the-pink-panther-inspector-clouseau-pink-panthers-pink-cartoon-miscellaneous-cartoon-thumbnail.png" group-title="DJECIJA TV",PINK PANTHER 24H
-http://balkan-x.net:80/Nikola/Nikola/50817
-#EXTINF:-1 tvg-id="" tvg-name="MASA I MEDO 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFhNjMzY2UtOWJjYy00MjE5LTg3OWEtYjg2YjU3NTM3NTM5XkEyXkFqcGdeQXVyODY1MDkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="DJECIJA TV",MASA I MEDO 24H
-http://balkan-x.net:80/Nikola/Nikola/483
-#EXTINF:-1 tvg-id="" tvg-name="TOM AND JERYY 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TomandJerryTitleCardc.jpg/220px-TomandJerryTitleCardc.jpg" group-title="DJECIJA TV",TOM AND JERYY 24H
-http://balkan-x.net:80/Nikola/Nikola/484
-#EXTINF:-1 tvg-id="" tvg-name="TIMON I PUMBA 24H" tvg-logo="https://static.wikia.nocookie.net/great-characters/images/e/e3/Timon%26Pumbaa.png/revision/latest?cb=20181216005805" group-title="DJECIJA TV",TIMON I PUMBA 24H
-http://balkan-x.net:80/Nikola/Nikola/486
-#EXTINF:-1 tvg-id="" tvg-name="GRADITELJ BOB 24H" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARkAAAC0CAMAAACXO6ihAAACE1BMVEX7xwcQETQlSqUMHkIAHkMAAC7////7xAD7yAcAHkT/ywBfX3AmTKn8ygYAEDX8zAQPDS3jHyQAACvZACcATKsFBzBYWGpmZnVKSl9RUWThACXaHyYZK2b5py1tbXoKGzpXHjvhuA8bMXGKADTgHyWjHzIAGD17e4atGysdNXrLEymbEjQWI1b5qin3tgx+cS/qchtvOjUgQpOhiifrfRnshRjvlRbpGBn5vQiAHTZ4HjlIHj1nRjPzpRG/Hyz6tR8uHj/FJj2ADTfMqhrSHycAAEboaBy7CC2PHzSkAC90JjZ/MzVLPoexlyLlSCDRIzRoCDq4KkviNSMjAEBLAD396rWRfCqhn6DJJDjnzmj9zCvovQwAACKylCRbBDv94pj+78h4Czg2EkbGxcWKiIlgXV6Ni4z81Fj+7sT80k+aNGmTADQXFSt4dXaura0jHx1gWzn95qTHlir+9t47O1RNSkrr6uojI0BCPj6tLVQAOp+6w96SoMz83IGRNm1wPYJJK3RnHjrGq1GBOnhzKzbX1tckISsuLDtHFDFFTD08RzsLMD1TVzeIZy2kRCy9cyE+XK1ofbvByeFSabGbqNAAIJo7CD5zZTOnL1tdQzaHSjAADkR6VzLOQSXcoxhfM2s9KFWgeCfQYiGAJ0xjJWWjVyPDfhazMy3IayGTYy71exZ2VzWDSTJbMze5YSW6RyfOViNQkCqoAAAgAElEQVR4nO2diX/TZprHFZ+ysSJk2RQsaA7k4DjBpE7iI17LBjuxs01CEhoCSbg2B+FwgEIO2gKTzQSmpZ22tAt0M2Xa7czutjvH/on7vq8Oy7ZeW3Icynb6+/ApNJH0vu9Xz3s/zyti+the6G3wB6u3KrRvj3SgXIfKdRCje8eIe3PuPZT1jZDXuNxvEwe9TXULPKG++4zfYt1FNuuRVSLjnQNkjd998MDGTeOJuufWm9zGCup2H7hnPIPeObfVbfAe65yYNYmMd316ZentdaMpL6wsLK4+NnqX+8CabW1h3Qga64G1te2lgwbRWNdXpqcLhhJqmju0Mt0E05HIWOfnVwpLi8YSnluZL0wvrt4ybDWglOBOIxl2gztWCtNPDBXSu25bQ2iMJHRse21tDcIUyVj3za8sFQqrG0ZS9t5bm59eADcZJGPdtz0PwCwd0J+Y9x4Cs7BoyGjmpm3b00sghwYSerIyP7+9tjKnkDmwMl1YWN24td9AwpAMMDTDZLyH5lcWQIaNFHMd3lJYXDRWMebBqwN3begvlXVxaWkayF1sgcH7KGzcMkSmyb29DS3tlpF7oLwguwuLi0YM1L0Ab1ndMJSO++21eWgyBu6yLi4sLAA23mILfLBQWLx1y1ghrffm56cLxt4jFEhsCZTSUMt9c3Fp1eAtsDrNLxjrIrxPFhcLhYVjKpvx3izcuvXYkMmAm9z3nuw33teDzn51w2ApvesbG7eM94KHQE0wVNlvbqwCNk+KNgNURwnhSK+eu8Bt+w2+hLoGh+Amq9EB4uNbGxuoC7Tubgz8C9T+m/vVI71yNdel15j/vc+LNpnmeF5Tfpzy+Xh84HfpptcFqNkfqKFd5wJDJssz9YjPCv745mug0xzkq+eQ69ptFjBkgryAtQ8NDYOXJGRlnLyQb91jOM0CH+iqIj/PdOwyCRwZpvXj29X04vYLtW7f/vSTp5bBM8+vdAmIT9af2Es2zQKz+ekJvD7jecsuk8CSuZihnUZEQ81mRs/efvr8VI4DcILxvWMDyIyP4jNIh9g9IbN/PyLjJIyLhPmazZzduJgDppMFbPbviSCZC/gMUhIZYw+tSaa7u/vwaYmMHaoOPPRs7zdXssBuvms/3HC1A50TyVyFuqZNpqOjo92QOmqQ2d/pcnnOiWSuPYAySgbJSbedOMXyzJbHtQfynERk7DYoDBmz2Wwy9NDu2mRMEhn7JZjwlGGjEUU6Zz8b5qP3PabGS0XmLlmZtELGiAyTeVAnGCi67fdsdGIP0KjIXNPIn04yHwDVT+byLsAAu6E/Z6M/NB5NkcxdrfzpIvPBFx9ub39tctVL5upuwADR/Wz0j65qOdwdmUv1kvngI9vahx/abF/KZmOUjJ7SV+3B6DE+G947MpXNr04yX9o+/PDZs6+f2b6oj4yeymR/ACrdAwJzJRlimUSjjaZIRjNVHWQ+WHv2he3LL20frT37oC4yd/SQQV0YtqkGRuMPNxiNQkazmdFFxvblV7aPPrJ9/bWtPjK6mhk7+eAyvnsHLU3Q0VgwRTLaaeol88z2IWhu6iMzg4FBFUWSsKWZwVoNmQLZ7G6s0ShkNBtgfWS+/sr2b88+/Ldna/WRwZlJRFEyZacpwGYGZzQgm4ylpbOhaBQy2i9DD5mvbV+uffDVGmhpXNpk3qpORruCkASr1lCMQq2NNhkyxjJGx6O6yWh2Tfp67TXbR1988ZHtGa7Xrk5Gu4EDZDguG0TKcgzDsSEwySKrkmlpaCOskNGu7fpGeh/CfuNrZRRsiMwdTKcNyDAJh0XSZpYX2kjCfreqzRzGkXF5kNTlhnJVI6mQ0Zg06SVj+sD11Veq6YExMpjuBpGBSSNZEgx3m8ZeLZFxaJQUEhh59PD6/YmTp4Mcx8HlQJ7Lnj43cf/61qMR+HttPgoZzew1ZkZZnQxmOFNKxmzmmDPgZ+e1r5bItJSWEVhK+NHD+8EokOYaN/wFf/L6I5MWHYWMdv7KyLjUJunB4dZNZhSS0e4UtciA6nRN+2qZTAkW06OXp0UkfDDgz18Zf+/5mTNnBgcHz5x5/t7FK1eODufEBfdo9PRLQKesLPrJgKRGtl5OnAb2CN8BzwXPTbzcgua4l2RAqypKJDOj3VFUkAFYJhhIJRuIXwQ0nn58+0Rv74UMUBtQJjN6offsidufPH1+8Wgui+hMADhaZDA9hELGY9qa0DBK8KPT18seaZAMZsSvkJEeKpLBqIyMZ+QlB7LK+cd3Bi2fnr3QRjiLS90kSRaXuZ1EZvTEx+nxYdD9RbnrYY9BMhZH+CUfhbs8XVfGn4NXsLOzc+b5RWCPAlzBj/IvR9S2aIzMeUxh6ybjGZlAWBKDO7d72yATEnsjATHRzkzv7YtdEM79EY8RMhazH27J+S8O7nxyoncU2OPsLDTJ0d6ztz9+LvI++chTJxnMtKleMh4T5CJsDna8yJC0E8+k5H4nTY6+GM+BhuKlXAFkMphRBSITB01LcGBnByQl2SMhbW4AUW29tzeHwSNPKriNkdFuOeol49kCXAKJwY0LhF4sCpzZ3ndyoGJI77g2GU4A7djAYEuvdlIk4v3NDcBGNptKModeGxlgMEJi8OOMMSwKnMy/B+UFdx1keD6/09HrrJIUfOQfcnx0y/NzkznJMPmdp4BLLQqYJUJQEL+POakms4wlwwjpwRNEraTAIwN89JHrZyVjOc1wicGzTmex9LhVseW7dy/NaLP5nGXOefSQGRj8pI3WYZpO+lueCf+MZCyWAMOldzI0+pHdTj6YWl7GjQnQEuGU5q/oVywDKlQNMmTs1eAFp2Iw9hkSv05N2jlm02WYDGbhqg4ymwyf6GhDmbUTD+6iwmPWKgn71Tvwt5qJ0xG4F1GDDEHOzhYrEiR9F7tOTdA9vAAXAhpDhjRMJsvkB0UnArigbqskQ1K0KAqtEU7ZMKvf9BCXDddogeG7Uwlxtp3HrVNH2Gy3UTJTush4RqLMYHUy0GR2zsKqZJ+5q3C5pM4fFekbGhsbG+pLEug6gIbSehwFHvedRIbQtxtmt1+bwi/hU0mWsxx2GSJDYJoZUFpIxtISRgsrI6d5YXAWmy+4DuzwM4EO9CKvSVimHsyo6z4d4ViWh2JZrh+1RpjqBPci8uGJql4iKFm1DYIKCtLELOYAMo6W9ood/6pksKmS4preaSgwOeQTGzT2YrqPFRwCc+WFVF6oO0Rpkwiu4blAPj4QzwsATg+41H4HR6bP53ecrEWGppLIBsd6InbYR8E6jFkAhDYDBhUNIUMQnMqBkAs0DeL9kKgYxwyAZuYiKsl5BOZqmV2DCsfn5SVCS55nv4cGi3nHdD8iXZ1M0QaBEfagputuFTIOMzCahpAhIxdlvQcmsbfbsBeT9BiXtQAy70F44qZdORjptclyAIywcmq3M7DFrEkG0ON5YIObA3E/x7BjNDKaamTM3Q2yGWpU1oULYHKIbX4pYoyFTZJMBnYTlUt/IHNZhUwLNLAMfiKtiwzL+y3SQrVjk/f9SMPOu1ptMjsaRIZQOwziuyU6NQnGURazQka7M1bItJi7D7d3BqWesSqZK1XIkGCubVZQw4szVTYaysmIwRR1k9Ehko4NgYa1FSSrkLms2XnKZFo6of+Y57SYOqZL1kFGXtOTbFBgTvXCwQ/m4lIy3rmD9+b2kgzoM1NDLMcI6zCLajLamYNkpD0pmQxGOsmIVFq6D3d2nhTJXMJcLLYzEhnv+vyabX6uSGYOqGFk4FAi1TfJ8kyw1YHenYqMVh2RbUZce2wcGckGJxAZAjNsLSVjRYGU03MyGff82tr0Ta9C5uRuyJChyBDoMzku0GqRbFpFRquOSGQkj4mGkZE202UyuIvVZLwHp1cAm3l3k3UfJDM3v7a9vbCCIpt3T4ZK9eU4hue4rrREpsVxWiGj6T22N2Sk/SYdZJR2xrtaKBQWFpbWJTLW7e35paWlgrUhZAgqc/aT927A/RAB7Uq1HPbIZO5qexy+OWQWFyCYaa9Exju/Ml1YKhRUtWl8Ny0wXLcdvX1xmOGZABhQhF0KmcuaXfEbQgb6199cXV0swIhpkYx7abowXVhc3V8nmZmrMxVLQ06aGv1mmOe5P3pcpiIZzQnvz07GoZBperyxsQpj3yWbeVJYWpTCoesgc1VcUigvM+l0Zv4S5JkRT5HMlLYv5htEpunm48cowhSRgXHKqxviAQ/12Ax2achJjwp8dKRYmy5pdp1vFBl5diCSASPimzf3N+knQxZFIDc93NKQc/ZbPhuWyWDGFG8ymbIxcC0yZEyRnabR+sdVnKd7jGN+UMhgM/dLIUNxipMex431U6KfHmbhto8VOv+ByHCqiFt2ErkwYsjA1c7uc282GUsDyTCt0sA/nchzvDCL1l6wnkXy7ACfuV8gGYvF0or89IhrvzQyB/BkcB7kajIQjuinR2gvwu0BmaBMBrfrs+dkMJ53CpkWSeJOHGZfbA/J2Jd/NjK4UBWRTEtYkkQG78G4V2Quv7FkJDc3afdW27Z/cWQu6CFjKiGDyeYekamytPsLJlOtZ/zHtpnXTUZ7DLybdkYvGfMekGlkbTJOBhffXy8Z+5S+deB/IDJByWa0lyr0k7HbS8lop/oayOC8veq1mas2m9YjdZMhYzFSTUbrUIjXQwbn7VUnGbhSoTWF0E8mVEYGM4TaUzKob8K4I9RNBuN9J+9R1iaTCv0yyJAhspKMdub0kaGO/78i4xmJ8toejGRKg4zWeTE6axMZO1JGBhNS1QAy3gNVyWBizkQyFkQmPPKQ54VBQosMdVyfzZA6yVCpcjLaYUbQu21vyczgyXDQBU6ML2OY7M7H2h6MR4iSXhvXzsCSbDosKAjV5RlhmOeaZKjYkXIymGMF9JKB1b1OMtquctBmihIGdjq0K1NMJmMRmHFI5gFmg4EeY/lAvHUkHB7ZmogCE9Rw/CMBmONH7NAHL6CQwS58IJ+r2mRSJG7eVIsMLvAgdUbW4ODO07PaQSHA+O1i4IglwBwVq6d2uDtJfstL8bYwNGyn0omWtIeOH4EmQ9BDvF8hg/NYY/m4w2IxiTbIMeM4MsfrIINWO7FniVBtimYJjKceaT+CbCbJ8o4BJnjWifYXtJ9Izr7TJaAaGvQnBjcq/K7JFMBy5HgMJERzzKZCBjPgontYPpjfHAmPPNqaYPjsIKavsx+p22aw53+p9igxIxmSOH78CCn671osPP8uJPMAGylAj376dGdwcLDj6YtMZaNFho4fT8Uo8XG8xSKTwXWe9H+waht8ghtS10+m7iPjKDIGrB/22vQk9ILOM0E0pcQ/zymFhDmdWsUgSXScC9ryjBfJ4LoIkv7saCAL+glO8F8c/HQW41h/vH4yuHdSQ2QsBVsFBCYJHYLNliwvVAmzlYtP1riGoib5IHiaQga7vUG3nf30KbDBlo9PaNiglMsj9ZPBvZMasoutAgULO8kHHOjwCP5bAtPV6RZtH+O4tJoM/rg/0gnjNVGwLeYC4rhMpo5eG/9OqoqMhUJ22CqQ9BDLp5Hj66MoNxnSE8CHfyqdmuQ56OBWJFO9uuNNENROqbrXSwa341SrEGKWIBhmAO3ZdYMRHM/2EfigllqPpO2gx8mKmBUydRq1urrDHkKTzD5rNTJ1NjSiaBh1kHeIrrkuVzjIsFyErstuKJrs51jo9mcuJVMR3oESrlVtY0p1F3uIOsjs4txOio5wHDPgEB1f4aDL9AMwG67fLkZj6RdJ06EelmWymw5pv7hIRuvV0WOxWqYZS4nVHYVWIT93Q2SuYYNg9RQmOSZFHUAw7aLTcqcfsGGHkpR+ywGX2iNjLHhWXHa8bumeUMhoHMMIJgfANKs/X6nuEWDV6LHGbGYKaBkbM4hPlqJj/dC73g/KIobSyAeQmbrzWQQnEpMj+ao+B1hLP8TCZBUuAIxHInMJZrCiKQSl5dghe232JE0NwRoKH2qsNtVzpjQsjT05BAsTQN1IIDA8LIwUj1Q93NIa4CGcyaFIihBDHSl1JwIHdSgIkrIn+6GfPs+oHPWR/UlkxPxVZBCG5/Ic11ejuaFoKgKaLr/44G5jZGpzKIoSQzpjyT7xHefTKBrDkhvNZHp+UzzoxRUGc71NP7AcQIedHOvpjyRDsRhBy7LHQqkkjMSFLm88eJJ/06Li4gi7TCIZEiMws2ptzYLWvidEY+CQsOnq40AVldvBTt1kRmkKo/KMoKTsdliaHrE0TBa+Y7Ewjtz5Gbr/N+ojcEzt5haLJT3gD3KMyAf5+4Gx/OTkJPhL/AFc/wHzy4G0Cou5xYyiLMSFBbu2CDDqBvfEARt2sj8FX5hikrI9Esm+Sdh05ZUAMZNOMnyWm9QWXxSnllQahskK8QRqWoBgbaok4/GYOiEbUOLEZt4vCFnZ40/58gUfFPz5zQRqpMxFLo5OkxR+wnMcixUnwFG3JS7ASsuN9UVSIckkCWCPkf6hSVRHg3GFCzyYSheZc1U/zaEtLhsM+OOtUmEsQi4QCA5YWtoDiIx8ZJ7LNbL18OEjkyd8GBiAWY63NacTm5JaWxNp5ccqtZgPh+VD9jwntQ9Uk4V6m+5OSzov8LJVKq8PvUBOyKdVVTTs0mczppFWo0qkzVJIJxpvWByBzOxsZLzT5EFk/vRyYuIhLNKjnP/Pn3/+N+E+ePnhduW0Qmhjqn+by9QCsZhUdjeSqFS6KHQTGCh0t1jMrflAUE2NDwa6BhLqVFDTpZOMC7lSdVtKBWqHA/2n+EdUeWnWheHhXMZJJYfvTzwahmRyn2Uy/8mFPVuBCzQ88It+lQWYrl9/mVd/DiVvqVQLjDrthKewmVTymED+TO0a1yt5QXYQdrSI0NOJBHh96P05yqqo2HTpJGNCXwo4XPLeLLjPFeXzA5sl78CS/q9MJgPbu0ym/0+AjPPVBYCDTj70nBylCcoJRhp05KHLk2Wk0z9Fcbyl4mM23wEArsqTKq+/BLp+X7lss8LMxCPHXK5OB2Crqrblxig3XbrJiCMPtSwcn5UVLFHWB4w0mIf7LPANd7d3fptKJkE/EEsmf4JkAAzIKfSDJ9A2Q0Vy2VmSTP3g8WRvnO1V6e9MO8eVPppp1Twv0ZPlSy+Lt1RIOpIYTNc6uxEcjSra3ak0XTIZ99z6nLUGGVO4E0nxU8yfOCupt0Rnz372l/gwmNb8EBatzZQ/dSV3/hoVGT569DvQzsC5AklAGIFrV6n+rYn3nWQSkjk6q/5OTB/fyR0tefb3mCPMPcGukuv4eLhSxc4QNmndRVdU+P5QFTWpjVEkM3dsbW37gFVFxmutJFP68Q0PV1KO8k/xtI3+OOxTzi7zeCYgmXFgv6DXppLfjsFV7h9MgdmrZOrPf54lyOSp7vbsUfVujEimJI2QD0fmRpvqMjsTN2leV1ISk0kFzVVRRREZ6z7b9vbK9DG3Qsa9fsjrriBTmhsOlgM/X3DSs+8L0ZfyiXcT/4rIiCO9vjPD7wMkpyyADCGOlcH/WDTJEA/u3LkjnnxDVSNDKJ82ISEZfaoEUkpmbhp9R3ZpXSYzt7Rms73lrk3GfufuXRtmNxmuL/63jKaUTP+/DL//AJBxIJtBp3T3nbI4yslw3YAM2sgUd2URGa2yyGTEc8IQGXyR9UKDZNxLEEyhsOEVyVjfmp/f3l5TopKrkJnS9g2S2dB90hcxcGTaQDszngONJhtHZGiV+lgHL5KRTkYDZFoPHz5cmSOJjLR2BMnArxftDg0i4z24UlgqLK4+afIegmTcSzB+ext+1FQHmaqTb3pSEK+eGJ3RtBmS7t8Z/j6TeQVtRhhSa4yTyMiOk5CMxdxSeRy1REZ+H4AMuGyX5+OLLbAVRt7CrxyLZPYXkN626iGjLIeoJ5RFMv2MNOcDI73IlfUyMrlZcMWp3AUnameE8iEAIrOsLMuLZDQO6hbJyLt6IhlzQ8g0uWFE6eOmIpmFpaVp1BbvxxmlTEZGQYaSQKlY6QIRlfQl4Fjbcz/jJO3/lcuryVyxDMPdg89/BJbz00W4qAWHBOpRtkjGro/Mg70g0+TdjyJKRTJe9B3cgtg3VSezrKy70j2sD2ospkYDC4POY3g0RNMUnTylkHFSgEw6GEEf24v9NIzGFXCgpRqFITKXl3WSkTuCxpKRx8CITNNNGL4tfgu+Fhllgwc0mGAykhjgAuoahQoDpyyerbFIKtUPyLxKhX4CZGg6dAVYxSlhbGhoMvBe2CSPxirIXNJJRuKiTQaOwAz1V67ukk+MSmSa9j9+LH4ItxaZYrZhVwIrQCCndjQQCwO9pzzhP5062tXqyB89evSGOfAf/f0/XYEzxHD4cHOHw+EKt1j4aIkYRiRzntAk43Iph6ujkZ5kvbFYGRl0kt3Io62th1tbj8QT8NUAPGWSfhge2Yznu37XXE5GNTuoQUbJNiCDVjMDwQsVZNaloXkY2gO8tzPRenH8T9/BFYIRUzv8KxxucWQDA2oFwLwJkJGGS/YjoSIZWFhQ1IcP4eHqLkSGFMmQx1OUigy47uFEtngiPvibm3g4opw57to6d7JE903otHIGHd/ODOyCzNXaZBwBpmgG8J98uLPFkmDkvKJMR4U0HM+o1k6lMbD98kw5Gc8IPOk+GuV4aGUTjzyIzOVKMuIh58KN8dZ/+p8X8Fumn/3hL/GjOdWZ457rzLBauWin6WU0mjt18a//8+KzXZGZKSNzeEKDTHDzn4v6bSDbicjk31ULlCZ7o81+6dKlO5cINZllspSM5buTUW54/K+30YT2x3dz0dMjpwGZqXIynhFw4Y3W270ZdIC5LCrT+6OfjZ5DczrP9eyJjEqvfHGOObrRm4FzP7tvF2SWqVIyLeGXGmTkpgetqNM9kExLgnkHLVqJH4KlY76BTvDm4ecBl2ekB/KdWUiGKCHjiEezFz8elWeaYO76fS7KH22buVNKxtJ9PxoEF5J0mQ8YPFmbyvw5F50QyfTSaPYnPo7gmNyTjHgHGdsVGWUEXIPM1PLyZXF7E5IJd4ZHou84zy+Dn16VrhvwiGTEWmEnFJuxl5DZjHZ90kY77TMPpAPjSefs39gb5WQs5iwz/im4kCif8iK/MDDf/Zzlwi5A5qzzwV0gsTWjx258KruRlJN5a5dkrmuSUdsCIAP6T0gGHsEIi0eqycyIHGLggR0lZGKITFYAWbefRxu10vdUSfrVeAWZLP8vFwBASLD0s6shaQubfsVxYUTmjs0me5+TqduKhe2OzJSKTNYBO+EJQU2GTClk5ME7INMOBi8SGTRZjNkhmTAiI3YxIhkHmmuXkFlnxmedxGXx2FyRBUUBs5ktJePIM2eQXy0ieBVtrNPiehlye4B+/nTI1yWTKWa4mPmGkelh4Wfhg9FxdbQbHfGlJTLXlAuDcBlUJCMaBKgooLVDLbA0fVSRKbWZNPNbJzyGz3ZVrCUUHYNhGSQxc6mEDN/V6yRIyOXu8lU7GP31D40N9UM/kBBylTluhzmJhkUyZcF+0pG59gaR6c9Bdb33Qm0yBC9YLLCdsammEUG4ASWSEZsKkYwDkbkqc5DIEFJdUMi8Q4Np9V3pSCQ6OQlmJHyPkqZEJh1tJUnkNYIOliJjHCsEBJZ95YT7knbA5jgFJ3XfPURk1CtMJNxy7kdn5jL1k1HHZIunmmbUJ37TsUk+LZGZ0iBzR5qPqsnIoxeFDFFBpugVR8bY3GZra973NzlViUyC+YaGIXfS+6D72TQcoXNd4qcxYJ1CjVtrPgjJqEyGjvUB2CwbFEANaK2fjFpSv1e0SHufD7rRiWQeaJGRMl4kI89+apCRMVMpH9zAgWPEcjL/RENPKDnNPpimGaYg5Rk65stkplTuSHSE9QXiiXWLw1E+b6qfTInIWGSIZf1m5BgCySgGqyazXElGaVWqkVGm1ZAMPNNRKbGazDWl/aggQ4bUZIptAplkhXVxI6r0FNyGkSFjf8/5eDDiN8tkim+lSGbqTgWZuzrIFKOJapGRK7tERnUdcSRGKmSKzkj0WFbentsjMqCNyXz/+yDy0xHJqDqxIpkH5WScl/WQuayTTLHV7wvCXWVHULmOSqnIFIMf6EnkWYS27vaIDGx26MzffYLUztzVJCNlSUVmWU9tulRGxnFam8xykQwrAJ3ji9eFMGS6wPPa0TZ++cpV3WSkY/PVTk1O+pWvy+KYAGQua5K5Vk6GmqpJ5l16RimJRKb99LAmmWKrH+kS59JXlMGWXUVG7ukkm3G4NHwh6idDRYZ6gPpSJQ6mdA9/2HMfkFnWJDNTQeaODjLFx1cnM6OyBXkyXQzGULXAUjZCdhKRQWGPjSMDxsBwuZ9l+9UefWAw9UdEZkqLjLTAsFdk1JK/7lW+SI3IyOscMZEMWjVsIBk0b7JYhFymbB3YhCdDvDYyWlLIKClIZBwNJiOu6XUFe8tXO/25UeqOPjLkVSWXDSVD0lrCkTHvCRl/BRlHIDhK6bQZFYdGkiGT/VrqE8ksl9emPSdjV5EpztlUZOQWUmUztcisa5I5WYMMeJZPQ0wUkbmmx2YO7pJMS+dLhQwZsitk1AsTRTLyjwyQMddJJujQVh6Fur4OMuHrRTKp2O7JqOvXrshITqbl+lnIyAPwN4eMxR8oU+LnISNN2hz+N4ZMlsuViGl9LWSy0LU2PCFIZMjY3pD5rWr+YZBM++mu3lGV3vcl4GrnXpPpQZM2PnpRmppQKSwZOCQ0TiZUSUZaudJJpiV8rsTTEXpEPnwNZCJoynb0zAnFZEBKaO+gjEy/L9+abr0f/evuyZB2NhjfHPBHx2uQEVc7w6oUCNHvT0WG2CMyBCVO2cRtCbgKjRYUI760pZQMQf0vPIqAGz+7ezJgXpZjGT545XbZOnCa+UvJSC/GMUFBiPJn1IczyCvkdZLpdGmrcn2GLH6cmYqlxCBfeihrKSdD0hf+8M43L1Q/q58M4Zzt/SkV0eEAAASjSURBVOzFieKz5F0Vzl/i/EXN/r5rePjKesn5hnSfzxHXJgODCWqQaWrqrlBHRwf4D37ligyJu10UQad8+Y6OMjJoUYt2OoslFMl0VJDpUJEhRDJNzLtlYW3i9raysSiS6ejyvV+SJknPZjJtJZ8fBo/zd1T2TR1NWgJk3i4ng1EzngwFt3NCwG7pEB+0NDXHfd9rnawTUYookmlWtwIxQptMczZXed4FSfcRpe1Mc3M2GyqbbZft/NOxyay5uauCTLNmcRtDBp73QJEkRUd82XQzvDRY5tgIyhIaKy5XFMmoZ8L9JWSk2tS8yfxvWQgzRYcmWZk9mQqJZNJZtkqUPJh7o8w1q2yGeA1kxP3P5JhPMMN0mn/H8f0UDKlVfmnv9/FsrxSbScMfQDLZMbUm+RKbEaenoCw+PkJIAboojjXW48vy/65CSgIyTc3NAd9khNKKdCZhmO2kLwAyV0IGzPMaRUZz0UN0h4n08L7gplRnm9MBHz8UCZHKL32+QIL5fUQlQEYeuythStAXouSpgAzgLPh8Y/3JUMxuj4WSfWM+rsuRFXpUgmRAqpuCj+9JEnKcsxIRbE+CzAmtMHOQTEnGG0Emm+vTEsjY0Bjv82X9iQ4lkebmhD/r8/EMMgWfj4W/5Bh1GCgz0FwpThhSl3iI2WxGD8sLcFWBB0/ysULc0tHs59hsURwig1JlffxYTySZiqHYkVgq2d8zJqWPLslz35Y4rjONIKMd7ZoNBoVAfiDR0VGSRHNzR3oz3wUtQv5lulRaaQTLg8papSI3NyU2B+JxGH2H0mnuKFUx1d/lA8GSRZlgIF7MHLAZoVQW7eIaIFORGbXUO8IqOIp0JqGRRsXTaj4C0OlIt4ocNzfTKHe6UiiRETL/r2T4nZTrF0tm1/qVDE6/ksHpVzI4/UoGpyIZr9vtrXFx5d1ew7fsQq8pLbcbfRxZITN3cOHYQYPW47536Mn+2peVyTs3N+c2fFeTde5eUx3vzu12GyvV3PQa/FSyQsZ9bHtlaWnRWLKFlYXF1cfG7gFvft62Nr1utIzuA2tr2wv3DN5mbZqent5n5Cb30vb29tqSWyGzvg2/fLu4YeAhcyvz4I5V8fueBm6bX9ueL6ysG7uryQvuWlmYNnjTOnj/00sFA7c8WYFRyNsKGe+9efCAwuqG/srhvbc2D6wMBvAa0vr2/PzS9JLBdt96AMXeLywaum1uxbY9Pb1Q0P/CvRsoCnnpnldpZwCYBfkDr/ryum8N5HXJOBnxu8wGK673ILAYGGJuqDrNbYO3N11Y1P/CvasLS6ACApOWyVgPFBYLG7duGWhQrYDMQmHRaDsDv8sMPz9ssOm2wlcHLNQQGdBozAOe4qeO9ekmikIuWIt9k3WjsHrrlpFiug+Atmlx0Wg3g77LDKyzjttWVzcMvgfrCqiCi4buugUjtNdLxjPr8jeB9cptPXTwpvFhovhdZsO9vfWJGHtvTO63FhcM4nx868lN727HwPUN9OB3meu6bb/xwVOT1Wqtb4T46+wAJ0jG7a1T1jdC7r3R3D3i2L2DWB2q0IEK7dsrvVWht7E6dgz8aaym/w/66+Lxo8RJ9wAAAABJRU5ErkJggg==" group-title="DJECIJA TV",GRADITELJ BOB 24H
-http://balkan-x.net:80/Nikola/Nikola/487
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwNTAwNjMtNTgwZC00Y2RjLTliOTYtZWI4NGNlNjI4ZTVjXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" group-title="DJECIJA TV",LOONEY TUNES 24H
-http://balkan-x.net:80/Nikola/Nikola/17037
-#EXTINF:-1 tvg-id="" tvg-name="SPUZVA BOB 24H" tvg-logo="https://static.wikia.nocookie.net/spuzva-bob-skockani/images/d/d6/SpongeBob_Squarepants.jpg/revision/latest?cb=20180902151824&path-prefix=hr" group-title="DJECIJA TV",SPUZVA BOB 24H
-http://balkan-x.net:80/Nikola/Nikola/490
-#EXTINF:-1 tvg-id="191.sr" tvg-name="HAYATOVCI" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hayatovci-logo.png" group-title="DJECIJA TV",HAYATOVCI
-http://balkan-x.net:80/Nikola/Nikola/491
-#EXTINF:-1 tvg-id="193.hr" tvg-name="MINI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Mini_TV.jpg/revision/latest?cb=20110926093319" group-title="DJECIJA TV",MINI TV
-http://balkan-x.net:80/Nikola/Nikola/494
-#EXTINF:-1 tvg-id="189.sr" tvg-name="MINIMAX" tvg-logo="http://balkan-x.net:80/images/70c71492a6474950282242f60a1087d9.png" group-title="DJECIJA TV",MINIMAX
-http://balkan-x.net:80/Nikola/Nikola/495
-#EXTINF:-1 tvg-id="199.hr" tvg-name="PIKABOO (HR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Pikaboo.svg/revision/latest/scale-to-width-down/250?cb=20171230235407" group-title="DJECIJA TV",PIKABOO (HR)
-http://balkan-x.net:80/Nikola/Nikola/502
-#EXTINF:-1 tvg-id="192.hr" tvg-name="NICKELODEON  (HR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20180306141612" group-title="DJECIJA TV",NICKELODEON  (HR)
-http://balkan-x.net:80/Nikola/Nikola/18257
-#EXTINF:-1 tvg-id="191.hr" tvg-name="NICK JR (HR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/250?cb=20210604005749" group-title="DJECIJA TV",NICK JR (HR)
-http://balkan-x.net:80/Nikola/Nikola/498
-#EXTINF:-1 tvg-id="187.sr" tvg-name="NICK JR (SR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/250?cb=20210604005749" group-title="DJECIJA TV",NICK JR (SR)
-http://balkan-x.net:80/Nikola/Nikola/499
-#EXTINF:-1 tvg-id="191.hr" tvg-name="NICK JR L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/250?cb=20210604005749" group-title="DJECIJA TV",NICK JR L2
-http://balkan-x.net:80/Nikola/Nikola/500
-#EXTINF:-1 tvg-id="192.sr" tvg-name="PINK KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/2/24/Pink_Kids_logo.png" group-title="DJECIJA TV",PINK KIDS
-http://balkan-x.net:80/Nikola/Nikola/503
-#EXTINF:-1 tvg-id="190.sr" tvg-name="PINK SUPER KIDS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkSuperKids_logo.png" group-title="DJECIJA TV",PINK SUPER KIDS
-http://balkan-x.net:80/Nikola/Nikola/504
-#EXTINF:-1 tvg-id="113.hr" tvg-name="RTL KOCKICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Logo_rtl_kockica3.png/revision/latest/scale-to-width-down/199?cb=20180515161905" group-title="DJECIJA TV",RTL KOCKICA
-http://balkan-x.net:80/Nikola/Nikola/505
-#EXTINF:-1 tvg-id="194.hr" tvg-name="BABY TV" tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="DJECIJA TV",BABY TV
-http://balkan-x.net:80/Nikola/Nikola/507
-#EXTINF:-1 tvg-id="202.ba" tvg-name="TNT KIDS" tvg-logo="https://zona.ba/wp-content/uploads/2020/01/TNT-Kids.png" group-title="DJECIJA TV",TNT KIDS
-http://balkan-x.net:80/Nikola/Nikola/509
-#EXTINF:-1 tvg-id="" tvg-name="VAVOOM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Vavoom_logo.svg/revision/latest/scale-to-width-down/300?cb=20201212211757" group-title="DJECIJA TV",VAVOOM TV
-http://balkan-x.net:80/Nikola/Nikola/510
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="DJECIJA TV",BOOMERANG (DE)
-http://balkan-x.net:80/Nikola/Nikola/511
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210726224754" group-title="DJECIJA TV",CARTOON NETWORK (DE)
-http://balkan-x.net:80/Nikola/Nikola/512
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20210529193239" group-title="DJECIJA TV",DISNEY CHANNEL (DE)
-http://balkan-x.net:80/Nikola/Nikola/513
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMAGIC (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_Disney_Cinemagic.png" group-title="DJECIJA TV",DISNEY CINEMAGIC (DE)
-http://balkan-x.net:80/Nikola/Nikola/514
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (DE)" tvg-logo="https://png.pngitem.com/pimgs/s/249-2497242_disney-junior-disney-channel-walt-disney-company-logotipo.png" group-title="DJECIJA TV",DISNEY JUNIOR (DE)
-http://balkan-x.net:80/Nikola/Nikola/515
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20180306141612" group-title="DJECIJA TV",NICKELODEON (DE)
-http://balkan-x.net:80/Nikola/Nikola/516
-#EXTINF:-1 tvg-id="" tvg-name="SUPER RTL HD (DE)" tvg-logo="http://balkan-x.net:80/images/5f4c16c05e1800dd5cbe63bacd32aa57.png" group-title="DJECIJA TV",SUPER RTL HD (DE)
-http://balkan-x.net:80/Nikola/Nikola/517
-#EXTINF:-1 tvg-id="" tvg-name="KIKA (DE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_NeF5LJEQUxbSM0PsY3PmPifRYcmsOPQnQ&usqp=CAU" group-title="DJECIJA TV",KIKA (DE)
-http://balkan-x.net:80/Nikola/Nikola/518
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210726224754" group-title="DJECIJA TV",CARTOON NETWORK (UK)
-http://balkan-x.net:80/Nikola/Nikola/519
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20210529193239" group-title="DJECIJA TV",DISNEY CHANNEL (UK)
-http://balkan-x.net:80/Nikola/Nikola/520
-#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/250?cb=20210604005749" group-title="DJECIJA TV",NICK JUNIOR (UK)
-http://balkan-x.net:80/Nikola/Nikola/521
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (DK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20210529193239" group-title="DJECIJA TV",DISNEY CHANNEL (DK)
-http://balkan-x.net:80/Nikola/Nikola/524
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (US)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/200?cb=20180903211953" group-title="DJECIJA TV",DISNEY XD (US)
-http://balkan-x.net:80/Nikola/Nikola/525
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20180306141612" group-title="DJECIJA TV",NICKELODEON (NL)
-http://balkan-x.net:80/Nikola/Nikola/528
-#EXTINF:-1 tvg-id="" tvg-name="VERONICA DISNEY (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Veronica_logo.svg/revision/latest/scale-to-width-down/250?cb=20091203135448" group-title="DJECIJA TV",VERONICA DISNEY (NL)
-http://balkan-x.net:80/Nikola/Nikola/529
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV (NL)" tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="DJECIJA TV",BABY TV (NL)
-http://balkan-x.net:80/Nikola/Nikola/530
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210726224754" group-title="DJECIJA TV",CARTOON NETWORK (NL)
-http://balkan-x.net:80/Nikola/Nikola/531
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20210529193239" group-title="DJECIJA TV",DISNEY CHANNEL (NL)
-http://balkan-x.net:80/Nikola/Nikola/532
 
 
 #CRTANI FILMOVI
