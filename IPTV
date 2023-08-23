@@ -736,12 +736,22 @@ http://bazaruto.top:8000/StoleRadovis.riki/TqNToKyfVF/46481
 
 
 
-
-
 #CRTANI FILMOVI
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",*** SINKRONIZIRANO ***
 skip
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",KRALJ MAJMUNA (2023)
+http://content2.bilosta.org/DISK2/crtani/monkey.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",NEVJEROVATNI MORIS (2023)
+http://content2.bilosta.org/DISK2/crtani/moris.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",MARIO BROSS (2023
+http://content2.bilosta.org/DISK2/crtani/mario.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",ODVAŽNA IVA (2023)
+http://content2.bilosta.org/DISK2/crtani/iva.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkbvh0RrIRu3GKzsPkI_qVBdHTNaJUbLDHg&usqp=CAU" group-title="CRTANI",JAHAČ ZMAJA (2022)
 http://content2.drycloth.org/DISK2/crtani/jahaczmaja.mkv
