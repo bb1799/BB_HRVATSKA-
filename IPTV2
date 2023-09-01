@@ -1,998 +1,608 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
-#x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
+#x-tvg-url = "https://www.dl.dropboxusercontent.com/s/c8y71ei9080laly/guide.xml.gz"
 
-#EXTINF:-1 group-title="HRVATSKA",HRT 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38
-#EXTINF:-1 group-title="HRVATSKA",HRT 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1140
-#EXTINF:-1 group-title="HRVATSKA",HRT 2 
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4118
-#EXTINF:-1 group-title="HRVATSKA",HRT 2 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/20009
-#EXTINF:-1 group-title="HRVATSKA",HRT 3
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/40
-#EXTINF:-1 group-title="HRVATSKA",HRT 4 
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/41
-#EXTINF:-1 group-title="HRVATSKA",HRT INT
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1033
-#EXTINF:-1 group-title="HRVATSKA",RTL
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/45
-#EXTINF:-1 group-title="HRVATSKA",RTL BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1141
-#EXTINF:-1 group-title="HRVATSKA",RTL 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1034
-#EXTINF:-1 group-title="HRVATSKA",RTL 2 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/66381
-#EXTINF:-1 group-title="HRVATSKA",RTL ADRIA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/44
-#EXTINF:-1 group-title="HRVATSKA",RTL LIVING
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/47
-#EXTINF:-1 group-title="HRVATSKA",RTL CRIME
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/46
-#EXTINF:-1 group-title="HRVATSKA",RTL PASSION
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1035
-#EXTINF:-1 group-title="HRVATSKA",RTL PASSION BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4119
-#EXTINF:-1 group-title="HRVATSKA",N1 HR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/48
-#EXTINF:-1 group-title="HRVATSKA",NOVA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/42
-#EXTINF:-1 group-title="HRVATSKA",NOVA TV BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1143
-#EXTINF:-1 group-title="HRVATSKA",DOMA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/43
-#EXTINF:-1 group-title="HRVATSKA",DOMA TV BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1142
-#EXTINF:-1 group-title="HRVATSKA",Z1 TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1036
-#EXTINF:-1 group-title="HRVATSKA",DUBROVACKA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1046
-#EXTINF:-1 group-title="HRVATSKA",OSJECKA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/49
-#EXTINF:-1 group-title="HRVATSKA",JABUKA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/50
-#EXTINF:-1 group-title="HRVATSKA",BANOVINA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/51
-#EXTINF:-1 group-title="HRVATSKA",SLAVONSKA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/351
-#EXTINF:-1 group-title="HRVATSKA",VINKOVACKA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1038
-#EXTINF:-1 group-title="HRVATSKA",POLJOPRIVREDNA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1040
-#EXTINF:-1 group-title="HRVATSKA",VARAZDIN TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1039
-#EXTINF:-1 group-title="HRVATSKA",ZDRAVA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1041
-#EXTINF:-1 group-title="HRVATSKA",LAUDATO TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1042
-#EXTINF:-1 group-title="HRVATSKA",JADRAN TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1043
-#EXTINF:-1 group-title="HRVATSKA",ISTRA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1045
-#EXTINF:-1 group-title="HRVATSKA",KANAL RI
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1044
-
-#EXTINF:-1 group-title="BIH",BHT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/19
-#EXTINF:-1 group-title="BIH",BHT 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4114
-#EXTINF:-1 group-title="BIH",FEDERALNA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/20
-#EXTINF:-1 group-title="BIH",FEDERALNA TV BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4115
-#EXTINF:-1 group-title="BIH",TV SARAJEVO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/22
-#EXTINF:-1 group-title="BIH",TV SARAJEVO BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9343
-#EXTINF:-1 group-title="BIH",Al Jazeera Balkans
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/23
-#EXTINF:-1 group-title="BIH",ATV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/24
-#EXTINF:-1 group-title="BIH",FACE TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/25
-#EXTINF:-1 group-title="BIH",FACE TV BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4117
-#EXTINF:-1 group-title="BIH",HAYAT TV HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/26
-#EXTINF:-1 group-title="BIH",HAYAT HD BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4116
-#EXTINF:-1 group-title="BIH",HAYAT PLUS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/27
-#EXTINF:-1 group-title="BIH",NOVA BH
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/21
-#EXTINF:-1 group-title="BIH",NOVA BH BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1138
-#EXTINF:-1 group-title="BIH",N1 BIH 
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/28
-#EXTINF:-1 group-title="BIH",N1 BIH BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1189
-#EXTINF:-1 group-title="BIH",OBN
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/29
-#EXTINF:-1 group-title="BIH",OBN BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1145
-#EXTINF:-1 group-title="BIH",BN TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/30
-#EXTINF:-1 group-title="BIH",BN TV BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1144
-#EXTINF:-1 group-title="BIH",RTRS 
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/34
-#EXTINF:-1 group-title="BIH",RTRS PLUS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/35
-#EXTINF:-1 group-title="BIH",DUGA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/31
-#EXTINF:-1 group-title="BIH",TV DUGA PLUS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56214
-#EXTINF:-1 group-title="BIH",POSAVINA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1008
-#EXTINF:-1 group-title="BIH",TELEVIZIJA 5
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/37
-#EXTINF:-1 group-title="BIH",TV 7 TUZLA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1012
-#EXTINF:-1 group-title="BIH",KANAL 6 TRAVNIK
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1000
-#EXTINF:-1 group-title="BIH",RTV ZENICA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1011
-#EXTINF:-1 group-title="BIH",RTV CAZIN
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1002
-#EXTINF:-1 group-title="BIH",RTV SANA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1003
-#EXTINF:-1 group-title="BIH",RTV KAKANJ
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/999
-#EXTINF:-1 group-title="BIH",RTV HB HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1005
-#EXTINF:-1 group-title="BIH",RTV HIT BRCKO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1010
-#EXTINF:-1 group-title="BIH",RTV TK TUZLA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1013
-#EXTINF:-1 group-title="BIH",VOGOSCA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1001
-#EXTINF:-1 group-title="BIH",SUPER TV MEDIA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1006
-#EXTINF:-1 group-title="BIH",MTV IGMAN
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/996
-#EXTINF:-1 group-title="BIH",OTV VALENTINO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1007
-#EXTINF:-1 group-title="BIH",BIR TV UZIVO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/997
-#EXTINF:-1 group-title="BIH",ALFA TV SARAJEVO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1014
-#EXTINF:-1 group-title="BIH",O KANAL
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1015
-#EXTINF:-1 group-title="BIH",B1 GRADACAC HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1009
-#EXTINF:-1 group-title="BIH",MOJA TV PREMIER LIGA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/36
-#EXTINF:-1 group-title="BIH",MOJA TV PREMIER LIGA BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56217
-#EXTINF:-1 group-title="BIH",TV USK HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1004
-#EXTINF:-1 group-title="BIH",TV SLON EXTRA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/33
-#EXTINF:-1 group-title="BIH",TV GLAS DRINE
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/998
-
-#EXTINF:-1 group-title="CRNA GORA",RTCG 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/53
-#EXTINF:-1 group-title="CRNA GORA",RTCG 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10136
-#EXTINF:-1 group-title="CRNA GORA",RTCG 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/54
-#EXTINF:-1 group-title="CRNA GORA",RTCG 2 BACKUP  
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10137
-#EXTINF:-1 group-title="CRNA GORA",RTCG SAT
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/55
-#EXTINF:-1 group-title="CRNA GORA",PRVA CG
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/57
-#EXTINF:-1 group-title="CRNA GORA",VIJESTI CG
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3776
-#EXTINF:-1 group-title="CRNA GORA",VIJESTI CG BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9344
-#EXTINF:-1 group-title="CRNA GORA",NOVA M
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/52
-
-#EXTINF:-1 group-title="SRBIJA",RTS 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/2
-#EXTINF:-1 group-title="SRBIJA",RTS 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1139
-#EXTINF:-1 group-title="SRBIJA",RTS 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3
-#EXTINF:-1 group-title="SRBIJA",RTS 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4
-#EXTINF:-1 group-title="SRBIJA",RTS TREZOR HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1016
-#EXTINF:-1 group-title="SRBIJA",RTS ZIVOT HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1017
-#EXTINF:-1 group-title="SRBIJA",RTS SVET HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1018
-#EXTINF:-1 group-title="SRBIJA",RTS DRAMA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1019
-#EXTINF:-1 group-title="SRBIJA",RTS KOLO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1020
-#EXTINF:-1 group-title="SRBIJA",RTS NAUKA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38539
-#EXTINF:-1 group-title="SRBIJA",RTS KLASIKA [TEST]
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38538
-#EXTINF:-1 group-title="SRBIJA",PRVA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/5
-#EXTINF:-1 group-title="SRBIJA",PRVA TV BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1147
-#EXTINF:-1 group-title="SRBIJA",PRVA PLUS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/6
-#EXTINF:-1 group-title="SRBIJA",PRVA WORLD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/7
-#EXTINF:-1 group-title="SRBIJA",PRVA MAX
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/8
-#EXTINF:-1 group-title="SRBIJA",PRVA KICK
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9
-#EXTINF:-1 group-title="SRBIJA",PRVA KICK BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3583
-#EXTINF:-1 group-title="SRBIJA",NOVA S HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10
-#EXTINF:-1 group-title="SRBIJA",NOVA S BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4120
-#EXTINF:-1 group-title="SRBIJA",B92 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/4121
-#EXTINF:-1 group-title="SRBIJA",B92 TV HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/11
-#EXTINF:-1 group-title="SRBIJA",HAPPY TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/12
-#EXTINF:-1 group-title="SRBIJA",HAPPY TV BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9637
-#EXTINF:-1 group-title="SRBIJA",Blic TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/64060
-#EXTINF:-1 group-title="SRBIJA",N1 SR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/13
-#EXTINF:-1 group-title="SRBIJA",STUDIO B
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/350
-#EXTINF:-1 group-title="SRBIJA",KCN 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/16
-#EXTINF:-1 group-title="SRBIJA",KCN 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/17
-#EXTINF:-1 group-title="SRBIJA",KCN 3
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/18
-#EXTINF:-1 group-title="SRBIJA",SANDZAK TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1024
-#EXTINF:-1 group-title="SRBIJA",SAT TV POZAREVAC
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1031
-#EXTINF:-1 group-title="SRBIJA",BELLE AMIE
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1026
-#EXTINF:-1 group-title="SRBIJA",PALMA PLUS JAGODINA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1027
-#EXTINF:-1 group-title="SRBIJA",BK TV HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1021
-#EXTINF:-1 group-title="SRBIJA",TV Hram
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/349
-#EXTINF:-1 group-title="SRBIJA",TV ISTOK 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1029
-#EXTINF:-1 group-title="SRBIJA",TV ISTOK 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/37706
-#EXTINF:-1 group-title="SRBIJA",TV KLADOVO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1028
-#EXTINF:-1 group-title="SRBIJA",RTV BOR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1030
-#EXTINF:-1 group-title="SRBIJA",RTV NOVI PAZAR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1025
-#EXTINF:-1 group-title="SRBIJA",RTV VOJVODINA 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1022
-#EXTINF:-1 group-title="SRBIJA",RTV VOJVODINA 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1023
-#EXTINF:-1 group-title="SRBIJA",ZADRUGA LIVE 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/14
-#EXTINF:-1 group-title="SRBIJA",ZADRUGA LIVE 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/15
-#EXTINF:-1 group-title="SRBIJA",ZADRUGA LIVE 3
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1047
-#EXTINF:-1 group-title="SRBIJA",ZADRUGA LIVE 4
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1048
-
-#EXTINF:-1 group-title="PINK",PINK M
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/58
-#EXTINF:-1 group-title="PINK",TV 777
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56
-#EXTINF:-1 group-title="PINK",Pink BH
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/151
-#EXTINF:-1 group-title="PINK",Pink HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/152
-#EXTINF:-1 group-title="PINK",PINK BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9345
-#EXTINF:-1 group-title="PINK",Pink 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/154
-#EXTINF:-1 group-title="PINK",Pink 3
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/155
-#EXTINF:-1 group-title="PINK",Pink Plus
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/153
-#EXTINF:-1 group-title="PINK",Pink Action
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/156
-#EXTINF:-1 group-title="PINK",Pink Classic
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/157
-#EXTINF:-1 group-title="PINK",Pink Crime & Mystery
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/159
-#EXTINF:-1 group-title="PINK",Pink Film
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/160
-#EXTINF:-1 group-title="PINK",Pink Horror
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/161
-#EXTINF:-1 group-title="PINK",Pink Kuvar
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/162
-#EXTINF:-1 group-title="PINK",Pink Movies
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/163
-#EXTINF:-1 group-title="PINK",Pink Premium
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/164
-#EXTINF:-1 group-title="PINK",Pink Reality
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/165
-#EXTINF:-1 group-title="PINK",Pink Romance
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/166
-#EXTINF:-1 group-title="PINK",Pink Comedy
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/158
-#EXTINF:-1 group-title="PINK",Pink Serije
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/168
-#EXTINF:-1 group-title="PINK",Pink Soap
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/169
-#EXTINF:-1 group-title="PINK",Pink Thriller
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/170
-#EXTINF:-1 group-title="PINK",Pink Western
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/171
-#EXTINF:-1 group-title="PINK",Pink World
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/172
-#EXTINF:-1 group-title="PINK",Pink World Cinema
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/173
-#EXTINF:-1 group-title="PINK",Pink Zabava
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/174
-#EXTINF:-1 group-title="PINK",Pink Extra
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/175
-#EXTINF:-1 group-title="PINK",Pink HAHA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/176
-#EXTINF:-1 group-title="PINK",Pink LOL
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/177
-#EXTINF:-1 group-title="PINK",Pink Show
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/178
-#EXTINF:-1 group-title="PINK",Pink Family 
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/181
-#EXTINF:-1 group-title="PINK",Pink Sci Fi & Fantasy
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/167
-
-#EXTINF:-1 group-title="FILM",HBO 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/389
-#EXTINF:-1 group-title="FILM",HBO 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/1146
-#EXTINF:-1 group-title="FILM",HBO 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/390
-#EXTINF:-1 group-title="FILM",HBO 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/391
-#EXTINF:-1 group-title="FILM",CINESTAR PREMIERE 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/419
-#EXTINF:-1 group-title="FILM",CINESTAR PREMIERE 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/420
-#EXTINF:-1 group-title="FILM",CINESTAR TV 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/421
-#EXTINF:-1 group-title="FILM",CINESTAR TV 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/422
-#EXTINF:-1 group-title="FILM",CINESTAR TV ACTION
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/423
-#EXTINF:-1 group-title="FILM",CINESTAR FANTASY
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/424
-#EXTINF:-1 group-title="FILM",CINESTAR COMEDY
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/425
-#EXTINF:-1 group-title="FILM",CINEMAX 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/426
-#EXTINF:-1 group-title="FILM",CINEMAX 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/427
-#EXTINF:-1 group-title="FILM",CINEMANIA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/428
-#EXTINF:-1 group-title="FILM",FOX HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/429
-#EXTINF:-1 group-title="FILM",FOX LIFE HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/430
-#EXTINF:-1 group-title="FILM",FOX CRIME HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/431
-#EXTINF:-1 group-title="FILM",DIVA CHANEL
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/433
-#EXTINF:-1 group-title="FILM",AXN ADRIA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/434
-#EXTINF:-1 group-title="FILM",AXN SPIN
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/435
-#EXTINF:-1 group-title="FILM",TV 1000
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/436
-#EXTINF:-1 group-title="FILM",KLASIK TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/437
-#EXTINF:-1 group-title="FILM",EPIC DRAMA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/438
-#EXTINF:-1 group-title="FILM",M1 FILM
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/439
-#EXTINF:-1 group-title="FILM",M GOLD HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/440
-#EXTINF:-1 group-title="FILM",PICKBOX HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/441
-#EXTINF:-1 group-title="FILM",STAR TV HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/442
-#EXTINF:-1 group-title="FILM",SUPERSTAR TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/443
-#EXTINF:-1 group-title="FILM",COMEDY CENTRAL EXTRA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/444
-#EXTINF:-1 group-title="FILM",FILM BOX EXTRA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/445
-#EXTINF:-1 group-title="FILM",FILM BOX PLUS HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/446
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/447
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/448
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 3
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/449
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 4
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/450
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 5
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/451
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 6
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/452
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 7
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/453
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 8
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/454
-#EXTINF:-1 group-title="FILM",CROMAX SELECT 9
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/455
-
-#EXTINF:-1 group-title="DOKU",HGTV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/47457
-#EXTINF:-1 group-title="DOKU",NATGEO HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/972
-#EXTINF:-1 group-title="DOKU",NATGEO WILD HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/973
-#EXTINF:-1 group-title="DOKU",ANIMAL PLANET HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/974
-#EXTINF:-1 group-title="DOKU",DISCOVERY CHANNEL HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/975
-#EXTINF:-1 group-title="DOKU",DISCOVERY SCIENCE HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/976
-#EXTINF:-1 group-title="DOKU",ID DISCOVERY HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/977
-#EXTINF:-1 group-title="DOKU",HISTORY CHANNEL HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/978
-#EXTINF:-1 group-title="DOKU",HISTORY CHANNEL 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/979
-#EXTINF:-1 group-title="DOKU",VIASAT HISTORY HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/980
-#EXTINF:-1 group-title="DOKU",VIASAT NATURE HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/981
-#EXTINF:-1 group-title="DOKU",VIASAT EXPLORER
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/982
-#EXTINF:-1 group-title="DOKU",BBC EARTH HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/983
-#EXTINF:-1 group-title="DOKU",PLANET EARTH  HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/984
-#EXTINF:-1 group-title="DOKU",24 KITCHEN HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/986
-#EXTINF:-1 group-title="DOKU",TLC HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/987
-#EXTINF:-1 group-title="DOKU",CBS REALITY HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/988
-#EXTINF:-1 group-title="DOKU",LOV & RIBOLOV HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/989
-#EXTINF:-1 group-title="DOKU",ENTERTAINMENT HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/990
-#EXTINF:-1 group-title="DOKU",CRIME INVESTIGATION HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/991
-#EXTINF:-1 group-title="DOKU",DA VINCI LEARNING HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/992
-#EXTINF:-1 group-title="DOKU",TRAVEL CHANNEL HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/993
-#EXTINF:-1 group-title="DOKU",DISCOVERY TURBO XTRA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/994
-#EXTINF:-1 group-title="DOKU",WOMAN ᴴᴰ (TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/995
-
-#EXTINF:-1 group-title="SLOVENIJA",SL: SLO 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3800
-#EXTINF:-1 group-title="SLOVENIJA",SL: SLO 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3801
-#EXTINF:-1 group-title="SLOVENIJA",SL: SLO 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3802
-#EXTINF:-1 group-title="SLOVENIJA",SL: PLANET HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3803
-#EXTINF:-1 group-title="SLOVENIJA",SL: PLANET 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3804
-#EXTINF:-1 group-title="SLOVENIJA",SL: FOX HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3805
-#EXTINF:-1 group-title="SLOVENIJA",SL: FOX LIFE HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3806
-#EXTINF:-1 group-title="SLOVENIJA",SL: FOX CRIME HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3807
-#EXTINF:-1 group-title="SLOVENIJA",SL: OTO HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3808
-#EXTINF:-1 group-title="SLOVENIJA",SL: ANIMAL PLANET HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3809
-#EXTINF:-1 group-title="SLOVENIJA",SL: POP TV HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3810
-#EXTINF:-1 group-title="SLOVENIJA",SL: POP KINO HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3811
-#EXTINF:-1 group-title="SLOVENIJA",SL: POP BRIO HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3812
-#EXTINF:-1 group-title="SLOVENIJA",SL: EPIC DRAMA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3813
-#EXTINF:-1 group-title="SLOVENIJA",SL: KANAL A HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3814
-#EXTINF:-1 group-title="SLOVENIJA",SL: TV 1000 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3815
-#EXTINF:-1 group-title="SLOVENIJA",SL: NIKELODEON HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3816
-#EXTINF:-1 group-title="SLOVENIJA",SL: VOYO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3817
-
-#EXTINF:-1 group-title="MUZIKA",MUZ: GRAND TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9880
-#EXTINF:-1 group-title="MUZIKA",MUZ: GRAND 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9881
-#EXTINF:-1 group-title="MUZIKA",MUZ: DM SAT
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9882
-#EXTINF:-1 group-title="MUZIKA",MUZ: PINK FOLK 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9883
-#EXTINF:-1 group-title="MUZIKA",MUZ: PINK FOLK 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9884
-#EXTINF:-1 group-title="MUZIKA",MUZ: BN MUSIC
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9885
-#EXTINF:-1 group-title="MUZIKA",MUZ: PINK MUSIC
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9886
-#EXTINF:-1 group-title="MUZIKA",MUZ: PINK MUSIC 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9887
-#EXTINF:-1 group-title="MUZIKA",MUZ: HAYAT FOLK
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9888
-#EXTINF:-1 group-title="MUZIKA",MUZ: HAYAT MUSIC
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9889
-#EXTINF:-1 group-title="MUZIKA",MUZ: CMC
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9890
-#EXTINF:-1 group-title="MUZIKA",MUZ: BALKANIKA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9891
-#EXTINF:-1 group-title="MUZIKA",MUZ: IDJ TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9892
-#EXTINF:-1 group-title="MUZIKA",IMPERIA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9893
-#EXTINF:-1 group-title="MUZIKA",MUZ: SEHARA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9894
-#EXTINF:-1 group-title="MUZIKA",MUZ: SEVDAH TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9895
-#EXTINF:-1 group-title="MUZIKA",MUZ: YU PLANET
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9896
-#EXTINF:-1 group-title="MUZIKA",JUGOTON
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9897
-#EXTINF:-1 group-title="MUZIKA",MUZ: PINK & ROLL
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9898
-#EXTINF:-1 group-title="MUZIKA",MUZ: PINK HITS 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9899
-#EXTINF:-1 group-title="MUZIKA",MUZ: PINK HITS 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9900
-#EXTINF:-1 group-title="MUZIKA",MUZ: MTV LIVE
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9901
-#EXTINF:-1 group-title="MUZIKA",MTV HITS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9904
-#EXTINF:-1 group-title="MUZIKA",KRONE HIT
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/9905
-#EXTINF:-1 group-title="MUZIKA",Pink Style
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/179
-#EXTINF:-1 group-title="MUZIKA",Pink Fashion
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/180
-#EXTINF:-1 group-title="MUZIKA",BA: CITY TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10258
-
+#EXTINF:-1 group-title="SPORT", *** SPORT ***
+SKIP
 #EXTINF:-1 group-title="SPORT",MAXSPORT 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56215
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14218.ts
 #EXTINF:-1 group-title="SPORT",MAXSPORT 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56216
-#EXTINF:-1 group-title="SPORT",HR: HNTV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10259
-#EXTINF:-1 group-title="SPORT",HR: KREATOR TV(TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10260
-#EXTINF:-1 group-title="SPORT",SR: SOS(TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10261
-#EXTINF:-1 group-title="SPORT",SR: NOVA SPORT HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10262
-#EXTINF:-1 group-title="SPORT",BA: ARENA SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10263
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10264
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 1 HD BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10432
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10265
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10435
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10266
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 2 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10433
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10267
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 2 BACKUP 
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10436
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10268
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 3 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10434
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10269
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 3 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10437
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10270
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10271
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 5 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10272
-#EXTINF:-1 group-title="SPORT",SR: ARENA SPORT 5 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10273
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 6 
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/36975
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 7
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/36976
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 8
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/36977
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 9
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/36978
-#EXTINF:-1 group-title="SPORT",HR: ARENA SPORT 10
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/36979
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 1x2 SR(TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/63195
-#EXTINF:-1 group-title="SPORT",HR: MAXSPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56215
-#EXTINF:-1 group-title="SPORT",HR: MAXSPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56216
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 Premium
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38020
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 Premium
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38021
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 Premium
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38022
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10274
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10275
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10276
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10438
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10277
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 1 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10441
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10278
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 2 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10442
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10279
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 2 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10439
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10280
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 3 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10443
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10281
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 3 BACKUP
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10440
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10282
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10283
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 5 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10284
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 5 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10285
-#EXTINF:-1 group-title="SPORT",SR: SPORT KLUB 6
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38023
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 6
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38024
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 7
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38025
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 8
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38026
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 9
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38027
-#EXTINF:-1 group-title="SPORT",HR: SPORT KLUB 10
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38028
-#EXTINF:-1 group-title="SPORT",SR: EURO SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10289
-#EXTINF:-1 group-title="SPORT",SR: EURO SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10290
-#EXTINF:-1 group-title="SPORT",Fight Channel
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10292
-#EXTINF:-1 group-title="SPORT",ID: FIGHT SPORTS(TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10294
-#EXTINF:-1 group-title="SPORT",PL: FIGHT KLUB(TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10295
-#EXTINF:-1 group-title="SPORT",PL: POLSAT SPORT FIGHT (TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10296
-#EXTINF:-1 group-title="SPORT",PT: KOMBAT SPORT
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10297
-#EXTINF:-1 group-title="SPORT",FIGHT NETWORK(TEST)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10298
-#EXTINF:-1 group-title="SPORT",DE: MOTORVISION HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10300
-#EXTINF:-1 group-title="SPORT",ES : MOVISTAR F1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10301
-#EXTINF:-1 group-title="SPORT",ES: MOVISTAR MOTO GP HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10302
-#EXTINF:-1 group-title="SPORT",IT: SKY SPORT F1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10303
-#EXTINF:-1 group-title="SPORT",IT: SKY SPORT MOTOGP HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10304
-#EXTINF:-1 group-title="SPORT",UK: SKY SPORTS F1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10305
-#EXTINF:-1 group-title="SPORT",AT: ORF SPORT +
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10307
-#EXTINF:-1 group-title="SPORT",AT: SKY SPORT AUSTRIA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10308
-#EXTINF:-1 group-title="SPORT",AT: SKY SPORT AUSTRIA HD(L2)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10309
-#EXTINF:-1 group-title="SPORT",AT: SKY SPORT AUSTRIA 2 HD( During Games only )
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10310
-#EXTINF:-1 group-title="SPORT",AT: SKY SPORT AUSTRIA 3 HD( During Games only )
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10311
-#EXTINF:-1 group-title="SPORT",AT: SKY SPORT AUSTRIA 4 HD( During Games only )
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10312
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT NEWS HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10314
-#EXTINF:-1 group-title="SPORT",DE: EUROSPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10315
-#EXTINF:-1 group-title="SPORT",DE: EUROSPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10316
-#EXTINF:-1 group-title="SPORT",DE: DAZN 1 BAR HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10317
-#EXTINF:-1 group-title="SPORT",DE: DAZN 1 BAR HD(L2)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10318
-#EXTINF:-1 group-title="SPORT",DE: DAZN 2 BAR HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10319
-#EXTINF:-1 group-title="SPORT",DE: DAZN 2 BAR HD(L2)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10320
-#EXTINF:-1 group-title="SPORT",B LIGA 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10321
-#EXTINF:-1 group-title="SPORT",B LIGA 1 HD(L2)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10322
-#EXTINF:-1 group-title="SPORT",B LIGA 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10323
-#EXTINF:-1 group-title="SPORT",B LIGA 2 HD(L2)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10324
-#EXTINF:-1 group-title="SPORT",B LIGA 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10325
-#EXTINF:-1 group-title="SPORT",B LIGA 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10326
-#EXTINF:-1 group-title="SPORT",B LIGA 5 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10327
-#EXTINF:-1 group-title="SPORT",B LIGA 6 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10328
-#EXTINF:-1 group-title="SPORT",B LIGA 7 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10329
-#EXTINF:-1 group-title="SPORT",B LIGA 8 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10330
-#EXTINF:-1 group-title="SPORT",B LIGA 9 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10331
-#EXTINF:-1 group-title="SPORT",B SLIGA 10 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10332
-#EXTINF:-1 group-title="SPORT",DE: SPORT 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/47527
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10333
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT 1 HD(L2)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10334
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT  2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10335
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT  2 HD(L2)
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10336
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10337
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10338
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT 5 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10339
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT 6 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10340
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT 7 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10341
-#EXTINF:-1 group-title="SPORT",DE: SKY SPORT MIX FHD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/100122
-#EXTINF:-1 group-title="SPORT",DE:  SPORT TOP EVENT FHD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/100123
-#EXTINF:-1 group-title="SPORT",AL: ART SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10344
-#EXTINF:-1 group-title="SPORT",AL: ART SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10345
-#EXTINF:-1 group-title="SPORT",AL: ART SPORT 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10346
-#EXTINF:-1 group-title="SPORT",AL: K SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10347
-#EXTINF:-1 group-title="SPORT",AL: K SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10348
-#EXTINF:-1 group-title="SPORT",AL: K SPORT 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10349
-#EXTINF:-1 group-title="SPORT",AL: SUPER SPORT 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10350
-#EXTINF:-1 group-title="SPORT",AL: SUPER SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10351
-#EXTINF:-1 group-title="SPORT",AL: SUPER SPORT 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10352
-#EXTINF:-1 group-title="SPORT",AL: SUPER SPORT 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10353
-#EXTINF:-1 group-title="SPORT",AL: SUPER SPORT 5 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10354
-#EXTINF:-1 group-title="SPORT",AL: TRING SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10355
-#EXTINF:-1 group-title="SPORT",AL: TRING SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10356
-#EXTINF:-1 group-title="SPORT",AL: TRING SPORT 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10357
-#EXTINF:-1 group-title="SPORT",AL: TRING SPORT 4 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10358
-#EXTINF:-1 group-title="SPORT",UK: BT SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10373
-#EXTINF:-1 group-title="SPORT",UK: BT SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10374
-#EXTINF:-1 group-title="SPORT",UK: BT SPORT ESPN HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10375
-#EXTINF:-1 group-title="SPORT",UK: SKY SPORTS ACTION HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10376
-#EXTINF:-1 group-title="SPORT",ES: BARCA TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10379
-#EXTINF:-1 group-title="SPORT",ES: MOVISTAR DEPORTES 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10380
-#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10394
-#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10395
-#EXTINF:-1 group-title="SPORT",IT: SKY SPORT ARENA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10399
-#EXTINF:-1 group-title="SPORT",IT: SKY SPORT FOOTBALL HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10400
-#EXTINF:-1 group-title="SPORT",IT: SKY SPORT NBA HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10401
-#EXTINF:-1 group-title="SPORT",IT: SKY SPORT SERIE A HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10402
-#EXTINF:-1 group-title="SPORT",IT: SKY SPORT UNO HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10403
-#EXTINF:-1 group-title="SPORT",IT: SUPER TENNIS HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10404
-#EXTINF:-1 group-title="SPORT",NL: ESPN 1
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10406
-#EXTINF:-1 group-title="SPORT",NL: ESPN 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10407
-#EXTINF:-1 group-title="SPORT",NL: ESPN 3
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10408
-#EXTINF:-1 group-title="SPORT",NL: ESPN 4
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10409
-#EXTINF:-1 group-title="SPORT",NL: ZIGGO SPORT SELECT HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10412
-#EXTINF:-1 group-title="SPORT",NL: ZIGGO VOETBAL HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10413
-#EXTINF:-1 group-title="SPORT",NL: ZIGGO RACING HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10414
-#EXTINF:-1 group-title="SPORT",NL: ZIGGO SPORT GOLF HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10415
-#EXTINF:-1 group-title="SPORT",TR: SPORTS TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10426
-#EXTINF:-1 group-title="SPORT",TR: TIVIBU SPOR 1 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10427
-#EXTINF:-1 group-title="SPORT",TR: TIVIBU SPOR 2 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10428
-#EXTINF:-1 group-title="SPORT",TR: TIVIBU SPOR 3 HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10429
-#EXTINF:-1 group-title="SPORT",TR: TRT SPOR 2 HD+
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/10431
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14219.ts
+#EXTINF:-1 group-title="SPORT",ARENA PREMIUM 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/4095.ts
+#EXTINF:-1 group-title="SPORT",ARENA PREMIUM 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/4096.ts
+#EXTINF:-1 group-title="SPORT",ARENA PREMIUM 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/4097.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/10.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/9.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/8.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 4
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/7.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 5
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/6.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 1 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/11.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 2 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/522.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 3 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/523.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 4 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/524.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 5 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/525.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 6 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2940.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 7 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3773.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 8 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3774.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 9 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3775.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 10 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3776.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT 1 BH
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3694.ts
+#EXTINF:-1 group-title="SPORT",ARENA SPORT FIGHT
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3899.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB HD
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1459.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/13.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/12.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB 4
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/142.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB 5
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/143.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB 6
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/144.ts
+#EXTINF:-1 group-title="SPORT",SPORT KLUB GOLF
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/5202.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/4.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/5.ts
+#EXTINF:-1 group-title="SPORT",MAX SPORT 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14218.ts
+#EXTINF:-1 group-title="SPORT",MAX SPORT 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14219.ts
+#EXTINF:-1 group-title="SPORT",NOVA SPORT
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1513.ts
+#EXTINF:-1 group-title="SPORT",FIGHT NETWORK
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3.ts
+#EXTINF:-1 group-title="SPORT",ZVEZDA TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3471.ts
+#EXTINF:-1 group-title="SPORT",PARTIZAN TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3472.ts
 
-#EXTINF:-1 group-title="DJECJI",DJ: HAYATOVCI
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3933
-#EXTINF:-1 group-title="DJECJI",DJ: RTL KOCKICA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3934
-#EXTINF:-1 group-title="DJECJI",DJ: PINK KIDS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3935
-#EXTINF:-1 group-title="DJECJI",DJ: MINIMAX
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3936
-#EXTINF:-1 group-title="DJECJI",DJ: NICKELODEON SR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/55498
-#EXTINF:-1 group-title="DJECJI",DJ: NICKELODEON HR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3937
-#EXTINF:-1 group-title="DJECJI",DJ: NICK JR SR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/55497
-#EXTINF:-1 group-title="DJECJI",DJ: NICK JR HR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3939
-#EXTINF:-1 group-title="DJECJI",DJ: PIKABOO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3940
-#EXTINF:-1 group-title="DJECJI",24/7 MASA I MEDO
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3941
-#EXTINF:-1 group-title="DJECJI",24/7 TOM & JERRY
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3942
-#EXTINF:-1 group-title="DJECJI",24/7 STRUMPFOVI
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38553
-#EXTINF:-1 group-title="DJECJI",BILLIARD TV [TEST]
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/38555
-#EXTINF:-1 group-title="DJECJI",24/7 MR BEAN
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56425
-#EXTINF:-1 group-title="DJECJI",24/7 BOB GRADITELJ
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56426
-#EXTINF:-1 group-title="DJECJI",24/7 KUHARICA KIFLICA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56427
-#EXTINF:-1 group-title="DJECJI",24/7 PROFESOR BALTAZAR
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56429
-#EXTINF:-1 group-title="DJECJI",24/7 TIMON I PUMBA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56432
-#EXTINF:-1 group-title="DJECJI",24/7  ALVINNN!!! I NEMIRNE VJEVERICE
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56433
-#EXTINF:-1 group-title="DJECJI",24/7  MOJ MALI PONI
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/56435
-#EXTINF:-1 group-title="DJECJI",DJ: BABY TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3943
-#EXTINF:-1 group-title="DJECJI",DJ: TNT KIDS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3944
-#EXTINF:-1 group-title="DJECJI",DJ: SUPER KIDS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3945
-#EXTINF:-1 group-title="DJECJI",DJ: MINI
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/3938
+#EXTINF:-1 group-title="EXYU",INFO KANAL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1526.ts
+#EXTINF:-1 group-title="EXYU",RTS 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/112.ts
+#EXTINF:-1 group-title="EXYU",HRT 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/75.ts
+#EXTINF:-1 group-title="EXYU",OBN
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/66.ts
+#EXTINF:-1 group-title="EXYU",PRVA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/109.ts
+#EXTINF:-1 group-title="EXYU",PINK
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/105.ts
+#EXTINF:-1 group-title="EXYU",NOVA S
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/381.ts
+#EXTINF:-1 group-title="EXYU",NOVA BH
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/530.ts
+#EXTINF:-1 group-title="EXYU",NOVA HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/73.ts
+#EXTINF:-1 group-title="EXYU",N1 SRB
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/399.ts
+#EXTINF:-1 group-title="EXYU",N1 HR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/107.ts
+#EXTINF:-1 group-title="EXYU",N1 BH
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/521.ts
+#EXTINF:-1 group-title="EXYU",B92
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/106.ts
+#EXTINF:-1 group-title="EXYU",BN
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/65.ts
+#EXTINF:-1 group-title="EXYU",BN 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2756.ts
+#EXTINF:-1 group-title="EXYU",RTRS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/64.ts
+#EXTINF:-1 group-title="EXYU",RTRS PLUS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/63.ts
+#EXTINF:-1 group-title="EXYU",BHT 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/58.ts
+#EXTINF:-1 group-title="EXYU",24 VESTI
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/601.ts
+#EXTINF:-1 group-title="EXYU",VESTI
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/102.ts
+#EXTINF:-1 group-title="EXYU",HAPPY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/85.ts
+#EXTINF:-1 group-title="EXYU",TANJUG
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14128.ts
+#EXTINF:-1 group-title="EXYU",RTS 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/110.ts
+#EXTINF:-1 group-title="EXYU",RTS 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/145.ts
+#EXTINF:-1 group-title="EXYU",RTS DRAMA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/902.ts
+#EXTINF:-1 group-title="EXYU",RTS KOLO
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/901.ts
+#EXTINF:-1 group-title="EXYU",RTS MUZIKA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/900.ts
+#EXTINF:-1 group-title="EXYU",RTS SVET
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1882.ts
+#EXTINF:-1 group-title="EXYU",RTS TREZOR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/899.ts
+#EXTINF:-1 group-title="EXYU",RTS ZIVOT
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/898.ts
+#EXTINF:-1 group-title="EXYU",HRT 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/74.ts
+#EXTINF:-1 group-title="EXYU",HRT 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/355.ts
+#EXTINF:-1 group-title="EXYU",HRT 4
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/281.ts
+#EXTINF:-1 group-title="EXYU",HRT Int.
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1529.ts
+#EXTINF:-1 group-title="EXYU",RTV 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/165.ts
+#EXTINF:-1 group-title="EXYU",RTV 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/164.ts
+#EXTINF:-1 group-title="EXYU",PRVA FILES
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3664.ts
+#EXTINF:-1 group-title="EXYU",PRVA KICK
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/598.ts
+#EXTINF:-1 group-title="EXYU",PRVA MAX
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/597.ts
+#EXTINF:-1 group-title="EXYU",PRVA PLUS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/292.ts
+#EXTINF:-1 group-title="EXYU",PRVA WORLD
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1495.ts
+#EXTINF:-1 group-title="EXYU",KURIR TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2876.ts
+#EXTINF:-1 group-title="EXYU",K1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2757.ts
+#EXTINF:-1 group-title="EXYU",RED TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/103.ts
+#EXTINF:-1 group-title="EXYU",SUPERSTAR TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/652.ts
+#EXTINF:-1 group-title="EXYU",SUPERSTAR TV 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/5272.ts
+#EXTINF:-1 group-title="EXYU",ZADRUGA 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1509.ts
+#EXTINF:-1 group-title="EXYU",ZADRUGA 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1510.ts
+#EXTINF:-1 group-title="EXYU",ZADRUGA 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1511.ts
+#EXTINF:-1 group-title="EXYU",ZADRUGA 4
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/5273.ts
+#EXTINF:-1 group-title="EXYU",PAROVI
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/536.ts
+#EXTINF:-1 group-title="EXYU",IDJ TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/609.ts
+#EXTINF:-1 group-title="EXYU",TOXIC TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3663.ts
+#EXTINF:-1 group-title="EXYU",MTV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/161.ts
+#EXTINF:-1 group-title="EXYU",MTV HITS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3681.ts
+#EXTINF:-1 group-title="EXYU",RTL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/71.ts
+#EXTINF:-1 group-title="EXYU",RTL 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/72.ts
+#EXTINF:-1 group-title="EXYU",RTL ADRIA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1921.ts
+#EXTINF:-1 group-title="EXYU",RTL CRIME
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1528.ts
+#EXTINF:-1 group-title="EXYU",RTL LIVING
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/469.ts
+#EXTINF:-1 group-title="EXYU",RTL PASSION
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/905.ts
+#EXTINF:-1 group-title="EXYU",DOMA TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/70.ts
+#EXTINF:-1 group-title="EXYU",O KANAL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/268.ts
+#EXTINF:-1 group-title="EXYU",HAYAT
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/61.ts
+#EXTINF:-1 group-title="EXYU",HAYAT PLUS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/60.ts
+#EXTINF:-1 group-title="EXYU",MINI TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/160.ts
+#EXTINF:-1 group-title="EXYU",BABY TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/267.ts
+#EXTINF:-1 group-title="EXYU",NICK JR.
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/587.ts
+#EXTINF:-1 group-title="EXYU",NICKELODEON
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/169.ts
+#EXTINF:-1 group-title="EXYU",HAYATOVCI
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/596.ts
+#EXTINF:-1 group-title="EXYU",24KITCHEN
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/77.ts
+#EXTINF:-1 group-title="EXYU",RTL KOCKICA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/599.ts
+#EXTINF:-1 group-title="EXYU",MASA I MEDVED
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/903.ts
+#EXTINF:-1 group-title="EXYU",PEPA PRASE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1497.ts
+#EXTINF:-1 group-title="EXYU",PIKABOO
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/600.ts
+#EXTINF:-1 group-title="EXYU",MINIMAX
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/586.ts
+#EXTINF:-1 group-title="EXYU",IDJ KIDS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1890.ts
+#EXTINF:-1 group-title="EXYU",DA VINCI KIDS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3665.ts
+#EXTINF:-1 group-title="EXYU",FEDERALNA TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/57.ts
+#EXTINF:-1 group-title="EXYU",ALFA TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/284.ts
+#EXTINF:-1 group-title="EXYU",FACE TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/59.ts
+#EXTINF:-1 group-title="EXYU",PLAVA VINKOVACKA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/299.ts
+#EXTINF:-1 group-title="EXYU",OTV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2892.ts
+#EXTINF:-1 group-title="EXYU",OSJECKA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/607.ts
+#EXTINF:-1 group-title="EXYU",TV SARAJEVO
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/616.ts
+#EXTINF:-1 group-title="EXYU",AL JAZEERA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/56.ts
+#EXTINF:-1 group-title="EXYU",Z1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2721.ts
+#EXTINF:-1 group-title="EXYU",NTV IC KAKANJ
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2888.ts
+#EXTINF:-1 group-title="EXYU",POSAVINA TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/608.ts
+#EXTINF:-1 group-title="EXYU",MOJA TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2720.ts
 
-#EXTINF:-1 group-title="XXX",PINK EROTIC
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70666
-#EXTINF:-1 group-title="XXX",PINK EROTIC 2
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70667
-#EXTINF:-1 group-title="XXX",PINK EROTIC 3
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70668
-#EXTINF:-1 group-title="XXX",PINK EROTIC 4
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70669
-#EXTINF:-1 group-title="XXX",PINK EROTIC 5
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70670
-#EXTINF:-1 group-title="XXX",PINK EROTIC 6
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70671
-#EXTINF:-1 group-title="XXX",PINK EROTIC 7
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70672
-#EXTINF:-1 group-title="XXX",DORCEL TV
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70673
-#EXTINF:-1 group-title="XXX",BLUE HUSTLER
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70674
-#EXTINF:-1 group-title="XXX",BALKAN EROTIC
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70675
-#EXTINF:-1 group-title="XXX",|XxX| Hustler
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70684
-#EXTINF:-1 group-title="XXX",|XxX| Dusk
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70685
-#EXTINF:-1 group-title="XXX",|XxX| Redlight HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70686
-#EXTINF:-1 group-title="XXX",|XxX| Private TV HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70687
-#EXTINF:-1 group-title="XXX",|XxX| Balkan Erotic
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70688
-#EXTINF:-1 group-title="XXX",XXX: ONLY FANS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70689
-#EXTINF:-1 group-title="XXX",XXX: TUSHY
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70690
-#EXTINF:-1 group-title="XXX",|XxX| BRAZZERS TV EUROPE
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70691
-#EXTINF:-1 group-title="XXX",|XxX| FAKE AGENT
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70692
-#EXTINF:-1 group-title="XXX",|XxX| VIVIDRED
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70693
-#EXTINF:-1 group-title="XXX",|XxX| LEGAL PORNO HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70694
-#EXTINF:-1 group-title="XXX",|XxX| OLA LA PORN HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70695
-#EXTINF:-1 group-title="XXX",|XxX| PENTHOUSE GOLD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70696
-#EXTINF:-1 group-title="XXX",|XxX| NUART HOT HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70697
-#EXTINF:-1 group-title="XXX",|XxX| HOT HD
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70698
-#EXTINF:-1 group-title="XXX",Sex CO BLACKhttp://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70699
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: AMATEUR ALLURE
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70701
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: BLUSH EROTICA
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70702
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: PURE MATURE
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70703
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: SWEET SINNER
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70704
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: INTERRACIAL PASS
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70705
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: I KNOW THAT GIRL
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70706
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: HARD X
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70707
-#EXTINF:-1 group-title="XXX",|XxX| PORNBOX: SPY FAM
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70708
-#EXTINF:-1 group-title="XXX",|XxX| Bang Bros
-http://live.baltazar.pro:80/josip610whats/Fu2OLV3Z7u/70709
+#EXTINF:-1 group-title="PINK",PINK ACTION
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/86.ts
+#EXTINF:-1 group-title="PINK",PINK BH
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1514.ts
+#EXTINF:-1 group-title="PINK",PINK CLASSIC
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1515.ts
+#EXTINF:-1 group-title="PINK",PINK COMEDY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/93.ts
+#EXTINF:-1 group-title="PINK",PINK CRIME & MYSTERY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/584.ts
+#EXTINF:-1 group-title="PINK",PINK EXTRA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/101.ts
+#EXTINF:-1 group-title="PINK",PINK FAMILY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1516.ts
+#EXTINF:-1 group-title="PINK",PINK FILM
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/100.ts
+#EXTINF:-1 group-title="PINK",PINK FOLK 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2754.ts
+#EXTINF:-1 group-title="PINK",PINK FOLK 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/36.ts
+#EXTINF:-1 group-title="PINK",PINK HA HA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/583.ts
+#EXTINF:-1 group-title="PINK",PINK HITS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2753.ts
+#EXTINF:-1 group-title="PINK",PINK HITS 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1506.ts
+#EXTINF:-1 group-title="PINK",PINK HORROR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/90.ts
+#EXTINF:-1 group-title="PINK",PINK KIDS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/87.ts
+#EXTINF:-1 group-title="PINK",PINK KONCERT
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/208.ts
+#EXTINF:-1 group-title="PINK",PINK KUVAR
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/271.ts
+#EXTINF:-1 group-title="PINK",PINK LOL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/582.ts
+#EXTINF:-1 group-title="PINK",PINK M
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/626.ts
+#EXTINF:-1 group-title="PINK",PINK MOVIES
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/97.ts
+#EXTINF:-1 group-title="PINK",PINK MUSIC
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/45.ts
+#EXTINF:-1 group-title="PINK",PINK MUSIC 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/166.ts
+#EXTINF:-1 group-title="PINK",PINK PEDIA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/88.ts
+#EXTINF:-1 group-title="PINK",PINK PLUS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/99.ts
+#EXTINF:-1 group-title="PINK",PINK PREMIUM
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/98.ts
+#EXTINF:-1 group-title="PINK",PINK REALITY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/94.ts
+#EXTINF:-1 group-title="PINK",PINK ROMANCE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1505.ts
+#EXTINF:-1 group-title="PINK",PINK SCI-FI & FANTASY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/580.ts
+#EXTINF:-1 group-title="PINK",PINK SERIJE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/96.ts
+#EXTINF:-1 group-title="PINK",PINK SHOW
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/633.ts
+#EXTINF:-1 group-title="PINK",PINK SOAP
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/91.ts
+#EXTINF:-1 group-title="PINK",PINK STYLE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1920.ts
+#EXTINF:-1 group-title="PINK",PINK SUPER KIDS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/585.ts
+#EXTINF:-1 group-title="PINK",PINK THRILLER
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/95.ts
+#EXTINF:-1 group-title="PINK",PINK WESTERN
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/89.ts
+#EXTINF:-1 group-title="PINK",PINK WORLD
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/581.ts
+#EXTINF:-1 group-title="PINK",PINK WORLD CINEMA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14217.ts
+#EXTINF:-1 group-title="PINK",PINK ZABAVA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/92.ts
+
+#EXTINF:-1 group-title="FILMSKI",HBO
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/81.ts
+#EXTINF:-1 group-title="FILMSKI",HBO 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/273.ts
+#EXTINF:-1 group-title="FILMSKI",HBO 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/274.ts
+#EXTINF:-1 group-title="FILMSKI",FOX
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/148.ts
+#EXTINF:-1 group-title="FILMSKI",FOX CRIME
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/210.ts
+#EXTINF:-1 group-title="FILMSKI",FOX LIFE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/147.ts
+#EXTINF:-1 group-title="FILMSKI",FOX MOVIES
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/277.ts
+#EXTINF:-1 group-title="FILMSKI",PICKBOX
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14158.ts
+#EXTINF:-1 group-title="FILMSKI",CINEMAX
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/275.ts
+#EXTINF:-1 group-title="FILMSKI",CINEMAX 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/276.ts
+#EXTINF:-1 group-title="FILMSKI",CINESTAR TV 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2935.ts
+#EXTINF:-1 group-title="FILMSKI",CINESTAR TV 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2936.ts
+#EXTINF:-1 group-title="FILMSKI",CINESTAR TV PREMIERE 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/370.ts
+#EXTINF:-1 group-title="FILMSKI",CINESTAR TV PREMIERE 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/371.ts
+#EXTINF:-1 group-title="FILMSKI",CINESTAR TV ACTION
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/713.ts
+#EXTINF:-1 group-title="FILMSKI",CINESTAR TV FANTASY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/2937.ts
+#EXTINF:-1 group-title="FILMSKI",CINEMANIA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/82.ts
+#EXTINF:-1 group-title="FILMSKI",DIVA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3679.ts
+#EXTINF:-1 group-title="FILMSKI",MAX CRO SELECT 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3482.ts
+#EXTINF:-1 group-title="FILMSKI",MAX CRO SELECT 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3483.ts
+#EXTINF:-1 group-title="FILMSKI",MAX CRO SELECT 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3484.ts
+#EXTINF:-1 group-title="FILMSKI",MAX CRO SELECT 4
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3485.ts
+#EXTINF:-1 group-title="FILMSKI",MAX CRO SELECT 5
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3486.ts
+#EXTINF:-1 group-title="FILMSKI",KINO TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1496.ts
+#EXTINF:-1 group-title="FILMSKI",KLASIK TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/69.ts
+
+#EXTINF:-1 group-title="DOKU",ANIMAL PLANET
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/149.ts
+#EXTINF:-1 group-title="DOKU",BBC EARTH
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1888.ts
+#EXTINF:-1 group-title="DOKU",CRIME & INVESTIGATION
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/269.ts
+#EXTINF:-1 group-title="DOKU",DISCOVERY CHANNEL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/78.ts
+#EXTINF:-1 group-title="DOKU",DISCOVERY SCIENCE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1886.ts
+#EXTINF:-1 group-title="DOKU",HISTORY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/203.ts
+#EXTINF:-1 group-title="DOKU",HISTORY 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/589.ts
+#EXTINF:-1 group-title="DOKU",LOV I RIBOLOV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/68.ts
+#EXTINF:-1 group-title="DOKU",NATIONAL GEOGRAPHIC CHANNEL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/79.ts
+#EXTINF:-1 group-title="DOKU",NAT GEO WILD
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/588.ts
+#EXTINF:-1 group-title="DOKU",VIASAT EXPLORE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/301.ts
+#EXTINF:-1 group-title="DOKU",VIASAT HISTORY
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/302.ts
+#EXTINF:-1 group-title="DOKU",VIASAT NATURE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/303.ts
+#EXTINF:-1 group-title="DOKU",TRAVEL CHANNEL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/159.ts
+#EXTINF:-1 group-title="DOKU",DOX TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14157.ts
+#EXTINF:-1 group-title="DOKU",TLC
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/157.ts
+#EXTINF:-1 group-title="DOKU",E!
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/611.ts
+
+#EXTINF:-1 group-title="GLAZBENI",GRAND
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/46.ts
+#EXTINF:-1 group-title="GLAZBENI",GRAND 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/401.ts
+#EXTINF:-1 group-title="GLAZBENI",DM SAT
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/37.ts
+#EXTINF:-1 group-title="GLAZBENI",HAYAT FOLK
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/35.ts
+#EXTINF:-1 group-title="GLAZBENI",HAYAT MUSIC
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/615.ts
+#EXTINF:-1 group-title="GLAZBENI",BN MUSIC
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/40.ts
+#EXTINF:-1 group-title="GLAZBENI",MTV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/161.ts
+#EXTINF:-1 group-title="GLAZBENI",MTV HITS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3681.ts
+
+#EXTINF:-1 group-title="RADIO",Radio Antena Zagreb
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/305.ts
+#EXTINF:-1 group-title="RADIO",Radio 057 Zadar
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/306.ts
+#EXTINF:-1 group-title="RADIO",Radio 101 Rock Zagreb
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/310.ts
+#EXTINF:-1 group-title="RADIO",Radio 808 Zagreb
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/311.ts
+#EXTINF:-1 group-title="RADIO",Radio Centar POREC
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/313.ts
+#EXTINF:-1 group-title="RADIO",Club Music Folk Radio Osijek
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/314.ts
+#EXTINF:-1 group-title="RADIO",Radio Dalmacija 
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/315.ts
+#EXTINF:-1 group-title="RADIO",Radio Dubrovnik
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/316.ts
+#EXTINF:-1 group-title="RADIO",Novi radio - Zadar
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/317.ts
+#EXTINF:-1 group-title="RADIO",Radio Stari Grad Sarajevo
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/318.ts
+#EXTINF:-1 group-title="RADIO",Radio Narodni Zagreb
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/319.ts
+#EXTINF:-1 group-title="RADIO",Radio Glas Drine
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/321.ts
+#EXTINF:-1 group-title="RADIO",Radio D Podgorica
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/322.ts
+#EXTINF:-1 group-title="RADIO",Radio GBK Folk Svedska
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/324.ts
+#EXTINF:-1 group-title="RADIO",Radio City Skopje
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/327.ts
+#EXTINF:-1 group-title="RADIO",Radio HIT Skopje
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/329.ts
+#EXTINF:-1 group-title="RADIO",Radio PINK
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/331.ts
+#EXTINF:-1 group-title="RADIO",Radio S1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/332.ts
+#EXTINF:-1 group-title="RADIO",Radio S2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/333.ts
+#EXTINF:-1 group-title="RADIO",Radio S3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/334.ts
+#EXTINF:-1 group-title="RADIO",Radio S4
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/335.ts
+#EXTINF:-1 group-title="RADIO",Radio Kosava
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/211.ts
+#EXTINF:-1 group-title="RADIO",PLAY Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/212.ts
+#EXTINF:-1 group-title="RADIO",TDI RADIO
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/213.ts
+#EXTINF:-1 group-title="RADIO",NAXI RADIO
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/214.ts
+#EXTINF:-1 group-title="RADIO",HIT FM Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/215.ts
+#EXTINF:-1 group-title="RADIO",Radio Pingvin
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/216.ts
+#EXTINF:-1 group-title="RADIO",Prvi Radio Uzice
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/217.ts
+#EXTINF:-1 group-title="RADIO",BUM Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/218.ts
+#EXTINF:-1 group-title="RADIO",JAT Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/219.ts
+#EXTINF:-1 group-title="RADIO",BUM BUM Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/220.ts
+#EXTINF:-1 group-title="RADIO",Top FM Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/221.ts
+#EXTINF:-1 group-title="RADIO",Radio Bubamara
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/222.ts
+#EXTINF:-1 group-title="RADIO",OK Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/224.ts
+#EXTINF:-1 group-title="RADIO",Radio 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/226.ts
+#EXTINF:-1 group-title="RADIO",Radio Nostalgija
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/227.ts
+#EXTINF:-1 group-title="RADIO",Radio Novosti
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/230.ts
+#EXTINF:-1 group-title="RADIO",Radio 202
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/232.ts
+#EXTINF:-1 group-title="RADIO",Radio NAXI Jaz
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/234.ts
+#EXTINF:-1 group-title="RADIO",Bravo FM Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/236.ts
+#EXTINF:-1 group-title="RADIO",Naxi Radio 80-e
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/239.ts
+#EXTINF:-1 group-title="RADIO",Radio NAXI Caffe Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/240.ts
+#EXTINF:-1 group-title="RADIO",Radio NAXI Classic Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/241.ts
+#EXTINF:-1 group-title="RADIO",Radio NAXI Evergreen Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/242.ts
+#EXTINF:-1 group-title="RADIO",Radio NAXI MIX Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/243.ts
+#EXTINF:-1 group-title="RADIO",Radio NAXI House Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/244.ts
+#EXTINF:-1 group-title="RADIO",Radio AS Šabac
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/245.ts
+#EXTINF:-1 group-title="RADIO",Radio Morava
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/246.ts
+#EXTINF:-1 group-title="RADIO",Radio COOL
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/247.ts
+#EXTINF:-1 group-title="RADIO",Radio DeLuxe Beograd
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/252.ts
+#EXTINF:-1 group-title="RADIO",Radio NAXI KIDS Radio
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/255.ts
+#EXTINF:-1 group-title="RADIO",Radio KISS FM
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/256.ts
+#EXTINF:-1 group-title="RADIO",Radio I FM
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/257.ts
+#EXTINF:-1 group-title="RADIO",Radio Stari Grad
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/258.ts
+#EXTINF:-1 group-title="RADIO",Radio PULS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14121.ts
+#EXTINF:-1 group-title="RADIO",Radio Banovina
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/14449.ts
+#EXTINF:-1 group-title="RADIO",Radio Veseljaci
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/24462.ts
+
+#EXTINF:-1 group-title="DJECJI",RTL KOCKICA
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/599.ts
+#EXTINF:-1 group-title="DJECJI",MASA I MEDVED
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/903.ts
+#EXTINF:-1 group-title="DJECJI",PEPA PRASE
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1497.ts
+#EXTINF:-1 group-title="DJECJI",PIKABOO
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/600.ts
+#EXTINF:-1 group-title="DJECJI",MINIMAX
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/586.ts
+#EXTINF:-1 group-title="DJECJI",IDJ KIDS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1890.ts
+#EXTINF:-1 group-title="DJECJI",DA VINCI KIDS
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/3665.ts
+#EXTINF:-1 group-title="DJECJI",MINI TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/160.ts
+#EXTINF:-1 group-title="DJECJI",BABY TV
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/267.ts
+#EXTINF:-1 group-title="DJECJI",NICK JR.
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/587.ts
+#EXTINF:-1 group-title="DJECJI",NICKELODEON
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/169.ts
+#EXTINF:-1 group-title="DJECJI",HAYATOVCI
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/596.ts
+
+#EXTINF:-1 group-title="XXX",XXX KANAL 1
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1081.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 2
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/152.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 3
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/153.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 4
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/154.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 5
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/205.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 6
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/204.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 7
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/1423.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 8
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/620.ts
+#EXTINF:-1 group-title="XXX",XXX KANAL 9
+http://android.mediaking.fi:8080/live/bobby-d@kabelbw.de/Parker1973/155.ts
+
+
+
+
 
 #CRTANI NACKBOX
 
