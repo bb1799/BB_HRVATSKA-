@@ -384,7 +384,11 @@ http://202.61.230.83:8000/live?channelId=635&uid=8711&deviceMac=00:1a:79:6a:6f:3
 
 
 
+#EXTINF:-1 group-title="MARTINO",MEDO BERE JAGODE MIX
+https://www.youtube.com/embed/WMKZnlmkQ00
 
+#EXTINF:-1 group-title="MARTINO",BOC BOC IGLICAMA MIX
+https://www.youtube.com/embed/k3KKlNeyyew
 
 #EXTINF:-1 group-title="MARTINO",MAXIM IMA PTIČICU
 https://www.youtube.com/embed/hMn4GU2GW68
