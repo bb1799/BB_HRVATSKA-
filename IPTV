@@ -1,880 +1,385 @@
 
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
-#x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
-#EXTINF:-1 group-title="HRVATSKA TV",*** HRVATSKA ***
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/28
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 1 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5641
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/2
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5642
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 3 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5643
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 4
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/4
-#EXTINF:-1 group-title="HRVATSKA TV",HRT 4 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5644
-#EXTINF:-1 group-title="HRVATSKA TV",HRT Int.
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/482
-#EXTINF:-1 group-title="HRVATSKA TV",Nova TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5
-#EXTINF:-1 group-title="HRVATSKA TV",Nova TV HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39408
-#EXTINF:-1 group-title="HRVATSKA TV",Doma TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/29
-#EXTINF:-1 group-title="HRVATSKA TV",Doma TV  HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/172
-#EXTINF:-1 group-title="HRVATSKA TV",RTL Televizija
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/6
-#EXTINF:-1 group-title="HRVATSKA TV",RTL Televizija  HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1417
-#EXTINF:-1 group-title="HRVATSKA TV",RTL 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/7
-#EXTINF:-1 group-title="HRVATSKA TV",RTL 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/42701
-#EXTINF:-1 group-title="HRVATSKA TV",Una TV HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39713
-#EXTINF:-1 group-title="HRVATSKA TV",RTL Crime
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/15
-#EXTINF:-1 group-title="HRVATSKA TV",RTL Passion
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/8
-#EXTINF:-1 group-title="HRVATSKA TV",RTL Living
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/9
-#EXTINF:-1 group-title="HRVATSKA TV",RTL Adria
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5707
-#EXTINF:-1 group-title="HRVATSKA TV",RTL Croatia World
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5708
-#EXTINF:-1 group-title="HRVATSKA TV",Nova World
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39951
-#EXTINF:-1 group-title="HRVATSKA TV",Nova Family
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39156
-#EXTINF:-1 group-title="HRVATSKA TV",N1 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/11
-#EXTINF:-1 group-title="HRVATSKA TV",Laudato TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/10
-#EXTINF:-1 group-title="HRVATSKA TV",Slavonska Tv
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/12
-#EXTINF:-1 group-title="HRVATSKA TV",Z1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/447
-#EXTINF:-1 group-title="HRVATSKA TV",Plava Vinkovacka 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/13
-#EXTINF:-1 group-title="HRVATSKA TV",TV Sibenik
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5806
-#EXTINF:-1 group-title="HRVATSKA TV",Kanal Ri
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/4029
-#EXTINF:-1 group-title="HRVATSKA TV",Osjecka TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/368
-#EXTINF:-1 group-title="HRVATSKA TV",Trend TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/14
-#EXTINF:-1 group-title="HRVATSKA TV",Aurora TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16675
-#EXTINF:-1 group-title="HRVATSKA TV",Mreza Split
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16973
-#EXTINF:-1 group-title="HRVATSKA TV",Zdrava Tv
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/658
-#EXTINF:-1 group-title="HRVATSKA TV",Jabuka
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/659
+#EXTINF:-1 tvg-id="28" tvg-name="==== Hrvatska ====" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/300px-Flag_of_Croatia.svg.png" group-title="HRVATSKA",==== Hrvatska ==== - 
+http://176.9.1.143:8000/live?channelId=28&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="29" tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title="HRVATSKA",HRT 1 - HRT 1
+http://163.172.13.127:8000/live?channelId=29&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="30" tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title="HRVATSKA",HRT 2 - HRT 2
+http://202.61.230.83:8000/live?channelId=30&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="31" tvg-name="HRT 2 (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title="HRVATSKA",HRT 2 (version2) - HRT 2 (version2)
+http://51.15.0.17:8000/live?channelId=31&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="32" tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" group-title="HRVATSKA",HRT 3 - HRT 3
+http://202.61.230.83:8000/live?channelId=32&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="33" tvg-name="HRT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HRT4-logo.png/799px-HRT4-logo.png" group-title="HRVATSKA",HRT 4 - HRT 4
+http://46.38.236.211:8000/live?channelId=33&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="34" tvg-name="HRT Int" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/c/c5/HRTint.jpg/200px-HRTint.jpg" group-title="HRVATSKA",HRT Int - HRT Int
+http://51.158.144.168:8000/live?channelId=34&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="35" tvg-name="RTL HR" tvg-logo="https://direktno.hr/upload/publish/250771/rtl-gfe8abf160-1280_6197aae54249e.png" group-title="HRVATSKA",RTL HR - RTL HR
+http://176.9.1.143:8000/live?channelId=35&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="36" tvg-name="RTL HR (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RTL_Televizija_Logo.svg/800px-RTL_Televizija_Logo.svg.png" group-title="HRVATSKA",RTL HR (version2) - RTL HR (version2)
+http://51.158.145.190:8000/live?channelId=36&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="37" tvg-name="RTL 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/440px-RTL_2_Logo.svg.png" group-title="HRVATSKA",RTL 2 HR - RTL 2 HR
+http://51.15.0.9:8000/live?channelId=37&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="38" tvg-name="RTL CRIME HR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/RTL_Crime_Croatia.png/800px-RTL_Crime_Croatia.png?20220626143046" group-title="HRVATSKA",RTL CRIME HR - RTL CRIME HR
+http://202.61.230.83:8000/live?channelId=38&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="39" tvg-name="RTL LIVING HR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/RTL_Living_Croatia.png/797px-RTL_Living_Croatia.png?20220626142532" group-title="HRVATSKA",RTL LIVING HR - RTL LIVING HR
+http://202.61.230.83:8000/live?channelId=39&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="40" tvg-name="RTL PASSION HR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/RTL_Passion_Croatia.png/798px-RTL_Passion_Croatia.png?20220626143213" group-title="HRVATSKA",RTL PASSION HR - RTL PASSION HR
+http://202.61.230.83:8000/live?channelId=40&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="41" tvg-name="N0W@ TV HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/600px-Nova_TV_Croatia_logo.png" group-title="HRVATSKA",N0W@ TV HR - N0W@ TV HR
+http://163.172.223.237:8000/live?channelId=41&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="42" tvg-name="N0W@ TV HR (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/600px-Nova_TV_Croatia_logo.png" group-title="HRVATSKA",N0W@ TV HR (version2) - N0W@ TV HR (version2)
+http://202.61.237.244:8000/live?channelId=42&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="43" tvg-name="D0M-@ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/c/ca/Doma_tv.svg/200px-Doma_tv.svg.png" group-title="HRVATSKA",D0M-@ TV HD - D0M-@ TV HD
+http://46.38.236.211:8000/live?channelId=43&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="44" tvg-name="D0M-@ TV (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/c/ca/Doma_tv.svg/200px-Doma_tv.svg.png" group-title="HRVATSKA",D0M-@ TV (version2) - D0M-@ TV (version2)
+http://202.61.230.83:8000/live?channelId=44&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="45" tvg-name="N_1 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/b7/N1_logotip.png?20180922181602" group-title="HRVATSKA",N_1 HR - N_1 HR
+http://51.158.145.190:8000/live?channelId=45&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="47" tvg-name="Z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png?20180320024430" group-title="HRVATSKA",Z1 - Z1
+http://51.158.145.190:8000/live?channelId=47&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="48" tvg-name="Posavina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/1/1d/Posavina_TV_logo.jpg/140px-Posavina_TV_logo.jpg" group-title="HRVATSKA",Posavina TV - Posavina TV
+http://163.172.218.95:8000/live?channelId=48&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="49" tvg-name="OSJECKA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/1e/Logo_OSTV.png?20090318100927" group-title="HRVATSKA",OSJECKA TV - OSJECKA TV
+http://46.38.236.211:8000/live?channelId=49&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="51" tvg-name="SLAVONSKA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/0/04/STV.PNG/150px-STV.PNG" group-title="HRVATSKA",SLAVONSKA TV - SLAVONSKA TV
+http://51.15.25.210:8000/live?channelId=51&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="53" tvg-name="Rtl Adria (test)" tvg-logo="" group-title="HRVATSKA",Rtl Adria (test) - Rtl Adria (test)
+http://163.172.218.95:8000/live?channelId=53&uid=8711&deviceMac=00:1a:79:6a:6f:31
 
-#EXTINF:-1 group-title="SPORTSKA TV",*** SPORT ***
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/868
-#EXTINF:-1 group-title="SPORTSKA TV",MaxSport 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/43197
-#EXTINF:-1 group-title="SPORTSKA TV",MaxSport 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/43198
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport Premium 1 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39240
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 1 Premium HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/42568
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport Premium 2 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39241
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 2 Premium HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44114
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport Premium 3 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39242
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 3 Premium HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44115
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 1 Premium BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45542
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 2 Premium BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45543
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 3 Premium BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45544
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 1 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/97
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 1 SR HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/643
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 2 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/98
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 2 SR HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/677
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 3 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/99
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 3 SR HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/645
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 4 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/100
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 4 SR HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/646
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 5 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/101
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 5 SR HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1398
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 1 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/102
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 2 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/103
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 3 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/104
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 4 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/112
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 5 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/114
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 6 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/352
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 7 HR 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38772
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 8 HR 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38773
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 9 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38774
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport 10 HR 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38775
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Sport BIH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/43829
-#EXTINF:-1 group-title="SPORTSKA TV",Arena ESport
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45590
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 1 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/116
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 1 SR HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/40052
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 2 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/117
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 3 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/118
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 4 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44849
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 5 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44850
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 6 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44851
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 1 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/119
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 2 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/120
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 3 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/121
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 4 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/353
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 5 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/694
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 6 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/355
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/738
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 7
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16876
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 8
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16877
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 9
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16878
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub 10
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16879
-#EXTINF:-1 group-title="SPORTSKA TV",Sport Klub Golf
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39834
-#EXTINF:-1 group-title="SPORTSKA TV",Max Sport 1 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/43197
-#EXTINF:-1 group-title="SPORTSKA TV",Max Sport 2 HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/43198
-#EXTINF:-1 group-title="SPORTSKA TV",Nova Sport
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3105
-#EXTINF:-1 group-title="SPORTSKA TV",MNE Sport 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44841
-#EXTINF:-1 group-title="SPORTSKA TV",MNE Sport 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44842
-#EXTINF:-1 group-title="SPORTSKA TV",MNE Sport 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44843
-#EXTINF:-1 group-title="SPORTSKA TV",TV Partizan
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46151
-#EXTINF:-1 group-title="SPORTSKA TV",Zvezda TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46152
-#EXTINF:-1 group-title="SPORTSKA TV",Eurosport 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/128
-#EXTINF:-1 group-title="SPORTSKA TV",EuroSport 1 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/2709
-#EXTINF:-1 group-title="SPORTSKA TV",Eurosport 1 HD BG/EN Audio
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/42684
-#EXTINF:-1 group-title="SPORTSKA TV",Eurosport 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/129
-#EXTINF:-1 group-title="SPORTSKA TV",EuroSport 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/2711
-#EXTINF:-1 group-title="SPORTSKA TV",Eurosport 2 HD BG/EN Audio
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/42688
-#EXTINF:-1 group-title="SPORTSKA TV",Матч! Футбол 1 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45361
-#EXTINF:-1 group-title="SPORTSKA TV",Матч! Футбол 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45362
-#EXTINF:-1 group-title="SPORTSKA TV",Матч! Футбол 3 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45363
-#EXTINF:-1 group-title="SPORTSKA TV",Матч! ТВ HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45458
-#EXTINF:-1 group-title="SPORTSKA TV",Max Sport 1 BG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/182
-#EXTINF:-1 group-title="SPORTSKA TV",Max Sport 2 BG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/183
-#EXTINF:-1 group-title="SPORTSKA TV",Max Sport 3 BG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/184
-#EXTINF:-1 group-title="SPORTSKA TV",Max Sport 4 BG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/185
-#EXTINF:-1 group-title="SPORTSKA TV",Diema Sport HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/390
-#EXTINF:-1 group-title="SPORTSKA TV",Diema Sport 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/391
-#EXTINF:-1 group-title="SPORTSKA TV",Diema Sport 3 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39657
-#EXTINF:-1 group-title="SPORTSKA TV",Nova Sport BG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/392
-#EXTINF:-1 group-title="SPORTSKA TV",Ring HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3774
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 1 SL
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/41720
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 2 SL
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/41721
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 3 SL
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/41722
-#EXTINF:-1 group-title="SPORTSKA TV",Blue Sport 1 CH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/41613
-#EXTINF:-1 group-title="SPORTSKA TV",Blue Sport 2 CH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/41614
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/433
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/434
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/435
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 4
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/436
-#EXTINF:-1 group-title="SPORTSKA TV",Sport TV 5
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/437
-#EXTINF:-1 group-title="SPORTSKA TV",Eleven Sports 1 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/612
-#EXTINF:-1 group-title="SPORTSKA TV",Eleven Sports 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/613
-#EXTINF:-1 group-title="SPORTSKA TV",Eleven Sports 3 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/614
-#EXTINF:-1 group-title="SPORTSKA TV",Eleven Sports 4 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/615
-#EXTINF:-1 group-title="SPORTSKA TV",Eleven Sports 5 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/616
-#EXTINF:-1 group-title="SPORTSKA TV",Bein Sport 1 FR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16843
-#EXTINF:-1 group-title="SPORTSKA TV",Bein Sport 2 FR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16844
-#EXTINF:-1 group-title="SPORTSKA TV",Bein Sport 3 FR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16933
-#EXTINF:-1 group-title="SPORTSKA TV",RMC Sport 1 HD 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1073
-#EXTINF:-1 group-title="SPORTSKA TV",RMC Sport 2 HD 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1074
-#EXTINF:-1 group-title="SPORTSKA TV",RMC Sport 3 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1075
-#EXTINF:-1 group-title="SPORTSKA TV",DAZN Bar 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/345
-#EXTINF:-1 group-title="SPORTSKA TV",DAZN Bar 1 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/43624
-#EXTINF:-1 group-title="SPORTSKA TV",DAZN Bar 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/346
-#EXTINF:-1 group-title="SPORTSKA TV",NBA
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/569
-#EXTINF:-1 group-title="SPORTSKA TV",Fight Channel
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/422
-#EXTINF:-1 group-title="SPORTSKA TV",Arena Fight
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39710
-#EXTINF:-1 group-title="SPORTSKA TV",Fight Box 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45591
-#EXTINF:-1 group-title="SPORTSKA TV",Extreme Sports
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/40097
-#EXTINF:-1 group-title="SPORTSKA TV",Moja TV Premier Liga BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/388
-#EXTINF:-1 group-title="SPORTSKA TV",Lig tv 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/683
-#EXTINF:-1 group-title="SPORTSKA TV",Lig TV 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/684
-#EXTINF:-1 group-title="SPORTSKA TV",SyS 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/301
-#EXTINF:-1 group-title="SPORTSKA TV",SyS 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/302
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/263
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 1 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/366
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/384
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/385
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 4
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/386
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 5
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/387
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 6
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/655
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 7
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3055
-#EXTINF:-1 group-title="SPORTSKA TV",Bundesliga 8
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3056
-#EXTINF:-1 group-title="SPORTSKA TV",Liverpool TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/41975
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 1 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45719
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45720
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45721
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 4 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45722
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 5
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45723
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 6
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45724
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 7
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45725
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 8 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45726
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 9
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45727
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 10
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45728
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 11
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45729
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 12
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45730
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 13 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45731
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 14
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45732
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 15
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45733
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 16 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45734
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 17
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45735
-#EXTINF:-1 group-title="SPORTSKA TV",Magenta Sport 18 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45736
+#EXTINF:-1 tvg-id="113" tvg-name="==== Muzika ====" tvg-logo="http://185.180.221.139:82/logo_channels/muzsika_tv_hu.png" group-title="MUZIKA",==== Muzika ==== - 
+http://176.9.1.143:8000/live?channelId=113&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="114" tvg-name="DM SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/2/2f/Dm_sat.jpg" group-title="MUZIKA",DM SAT - DM SAT
+http://176.9.1.143:8000/live?channelId=114&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="115" tvg-name="Pink Music 1" tvg-logo="https://totaltv.hr/wp-content/uploads/2019/03/54235196f15493920497371047322462.png" group-title="MUZIKA",Pink Music 1 - Pink Music 1
+http://51.15.0.9:8000/live?channelId=115&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="116" tvg-name="Pink Music 2" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1445/thumb_pink_music_2.png" group-title="MUZIKA",Pink Music 2 - Pink Music 2
+http://202.61.237.244:8000/live?channelId=116&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="117" tvg-name="Pink Folk 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkFolk1_logo.png" group-title="MUZIKA",Pink Folk 1 - Pink Folk 1
+http://202.61.230.83:8000/live?channelId=117&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="118" tvg-name="Pink Folk 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pinkFolk2_logo.png" group-title="MUZIKA",Pink Folk 2 - Pink Folk 2
+http://46.38.236.211:8000/live?channelId=118&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="119" tvg-name="CMC" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/d/d8/CMC_LOGO_WHITE.png?20180304001258" group-title="MUZIKA",CMC - CMC
+http://51.15.26.200:8000/live?channelId=119&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="120" tvg-name="G r @ n d TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Grand_Tv.png" group-title="MUZIKA",G r @ n d TV - G r @ n d TV
+http://51.15.26.2:8000/live?channelId=120&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="121" tvg-name="G r @ n d Tv 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Grand_Tv.png" group-title="MUZIKA",G r @ n d Tv 2 - G r @ n d Tv 2
+http://202.61.237.244:8000/live?channelId=121&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="122" tvg-name="BN Music" tvg-logo="https://iconape.com/wp-content/files/xt/285391/png/285391.png" group-title="MUZIKA",BN Music - BN Music
+http://51.158.144.168:8000/live?channelId=122&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="123" tvg-name="Hayat Folk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Logo_of_Hayat_Folk_TV.png" group-title="MUZIKA",Hayat Folk - Hayat Folk
+http://202.61.230.83:8000/live?channelId=123&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="124" tvg-name="Valentino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Logo_of_OTV_Valentino.png" group-title="MUZIKA",Valentino - Valentino
+http://163.172.218.95:8000/live?channelId=124&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="125" tvg-name="Glas Drine" tvg-logo="https://rtvglasdrine.com/wp-content/uploads/2021/03/rgdlogo2.png" group-title="MUZIKA",Glas Drine - Glas Drine
+http://51.15.26.200:8000/live?channelId=125&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="126" tvg-name="Izvorna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/IZVORNA_TV.png/220px-IZVORNA_TV.png" group-title="MUZIKA",Izvorna Tv - Izvorna Tv
+http://51.158.144.168:8000/live?channelId=126&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="128" tvg-name="Balkanika Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Balkanika-tv.png/revision/latest?cb=20200616085926" group-title="MUZIKA",Balkanika Music - Balkanika Music
+http://176.9.1.143:8000/live?channelId=128&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="129" tvg-name="Jugoton TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Jugoton_logo.png/180px-Jugoton_logo.png" group-title="MUZIKA",Jugoton TV - Jugoton TV
+http://163.172.218.95:8000/live?channelId=129&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="132" tvg-name="OTV Etno" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Logo_of_OTV_Valentino.png" group-title="MUZIKA",OTV Etno - OTV Etno
+http://46.38.236.211:8000/live?channelId=132&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="133" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MTV-logo-2021.png/800px-MTV-logo-2021.png" group-title="MUZIKA",MTV Dance - MTV Dance
+http://202.61.237.244:8000/live?channelId=133&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="134" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MTV-logo-2021.png/800px-MTV-logo-2021.png" group-title="MUZIKA",MTV Hits - MTV Hits
+http://176.9.1.143:8000/live?channelId=134&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="135" tvg-name="MTV Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MTV-logo-2021.png/800px-MTV-logo-2021.png" group-title="MUZIKA",MTV Adria - MTV Adria
+http://51.15.26.200:8000/live?channelId=135&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="136" tvg-name="MTV Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MTV-logo-2021.png/800px-MTV-logo-2021.png" group-title="MUZIKA",MTV Music - MTV Music
+http://46.38.236.211:8000/live?channelId=136&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="137" tvg-name="====  Film ====" tvg-logo="http://185.180.221.139:82/logo_channels/film_4_uk.png" group-title="FILM",====  Film ==== - 
+http://51.158.144.168:8000/live?channelId=137&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="138" tvg-name="ClNEM@NlA" tvg-logo="https://nstatic.net/img/tv/channels/m/cinemania.png" group-title="FILM",ClNEM@NlA - ClNEM@NlA
+http://163.172.218.95:8000/live?channelId=138&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="139" tvg-name="Cinemax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cinem%C3%A1x_Logo.svg/533px-Cinem%C3%A1x_Logo.svg.png?20211005012211" group-title="FILM",Cinemax 1 - Cinemax 1
+http://202.61.230.83:8000/live?channelId=139&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="140" tvg-name="Cinemax 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png?20160901140313" group-title="FILM",Cinemax 2 HR - Cinemax 2 HR
+http://163.172.223.237:8000/live?channelId=140&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="141" tvg-name="C.I.N.E.S.T.A.R TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/6/6f/Cinestar_logo.svg/220px-Cinestar_logo.svg.png" group-title="FILM",C.I.N.E.S.T.A.R TV - C.I.N.E.S.T.A.R TV
+http://51.158.144.168:8000/live?channelId=141&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="142" tvg-name="C.I.N.E.S.T.A.R Acti0n" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CineStar_TV_action_logo.png" group-title="FILM",C.I.N.E.S.T.A.R Acti0n - C.I.N.E.S.T.A.R Acti0n
+http://202.61.230.83:8000/live?channelId=142&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="143" tvg-name="Cinestar Fantasy" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/cinestartv_fantasy_logo.png" group-title="FILM",Cinestar Fantasy - Cinestar Fantasy
+http://163.172.218.95:8000/live?channelId=143&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="144" tvg-name="Cinestar Premiere 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="FILM",Cinestar Premiere 1 - Cinestar Premiere 1
+http://46.38.236.211:8000/live?channelId=144&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="145" tvg-name="Cinestar Premiere 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="FILM",Cinestar Premiere 2 - Cinestar Premiere 2
+http://163.172.218.95:8000/live?channelId=145&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="146" tvg-name="HBO HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILM",HBO HR - HBO HR
+http://163.172.218.95:8000/live?channelId=146&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="147" tvg-name="HBO 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILM",HBO 2 HR - HBO 2 HR
+http://163.172.218.95:8000/live?channelId=147&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="148" tvg-name="HBO 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILM",HBO 3 HD - HBO 3 HD
+http://46.38.236.211:8000/live?channelId=148&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="149" tvg-name="HBO GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HBOGO.svg/600px-HBOGO.svg.png?20180107210843" group-title="FILM",HBO GO - HBO GO
+http://51.158.145.190:8000/live?channelId=149&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="150" tvg-name="TV 1.OOO HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/TV1000_logo_1989.png?20110212162359" group-title="FILM",TV 1.OOO HR - TV 1.OOO HR
+http://163.172.218.95:8000/live?channelId=150&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="151" tvg-name="Fox TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="FILM",Fox TV - Fox TV
+http://51.15.25.210:8000/live?channelId=151&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="156" tvg-name="Fox Crime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/50/Fox-Crime.png?20100422213519" group-title="FILM",Fox Crime FHD - Fox Crime FHD
+http://176.9.1.143:8000/live?channelId=156&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="157" tvg-name="D.l.V.A TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diva_tv.png?20190304152306" group-title="FILM",D.l.V.A TV - D.l.V.A TV
+http://46.38.236.211:8000/live?channelId=157&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="158" tvg-name="Kino TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/KINO_TV_WERSJE-01.jpg" group-title="FILM",Kino TV HD - Kino TV HD
+http://46.38.236.211:8000/live?channelId=158&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="159" tvg-name="KLASIK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Klasik_TV_logo.png" group-title="FILM",KLASIK TV - KLASIK TV
+http://163.172.218.95:8000/live?channelId=159&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="160" tvg-name="M1 Film HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/m1film-logo.png" group-title="FILM",M1 Film HD - M1 Film HD
+http://202.61.237.244:8000/live?channelId=160&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="162" tvg-name="A.X.N SPlN HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/AXN_SPIN.png/800px-AXN_SPIN.png?20160316162525" group-title="FILM",A.X.N SPlN HR - A.X.N SPlN HR
+http://202.61.230.83:8000/live?channelId=162&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="163" tvg-name="A.X.N ADRlA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="FILM",A.X.N ADRlA - A.X.N ADRlA
+http://51.15.25.210:8000/live?channelId=163&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="164" tvg-name="==== Sport ====" tvg-logo="http://185.180.221.139:82/logo_channels/sport_m.png" group-title="SPORT",==== Sport ==== - 
+http://176.9.1.143:8000/live?channelId=164&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="206" tvg-name="MAXSPORT 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-1-1445.png" group-title="SPORT",MAX SPORT 1 - MAX SPORT 1
+http://176.9.1.143:8000/live?channelId=206&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="169" tvg-name="Arena Sport 1 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",Arena Sport 1 HR - Arena Sport 1 HR
+http://51.15.26.2:8000/live?channelId=169&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="170" tvg-name="Arena Sport 1 HR (version2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",Arena Sport 1 HR (version2) - Arena Sport 1 HR (version2)
+http://51.15.25.210:8000/live?channelId=170&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="171" tvg-name="Arena Sport 2 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORT",Arena Sport 2 HR - Arena Sport 2 HR
+http://51.15.26.200:8000/live?channelId=171&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="172" tvg-name="Arena Sport 2 HR (version2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORT",Arena Sport 2 HR (version2) - Arena Sport 2 HR (version2)
+http://46.38.236.211:8000/live?channelId=172&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="174" tvg-name="Arena Sport 3 HR (version2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT",Arena Sport 3 HR (version2) - Arena Sport 3 HR (version2)
+http://51.15.25.210:8000/live?channelId=174&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="175" tvg-name="Arena Sport 4 HR" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-4.png" group-title="SPORT",Arena Sport 4 HR - Arena Sport 4 HR
+http://46.38.236.211:8000/live?channelId=175&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="176" tvg-name="Arena Sport 4 HR (version2)" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-4.png" group-title="SPORT",Arena Sport 4 HR (version2) - Arena Sport 4 HR (version2)
+http://51.15.25.210:8000/live?channelId=176&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="177" tvg-name="Arena Sport 5 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT",Arena Sport 5 HR - Arena Sport 5 HR
+http://163.172.218.95:8000/live?channelId=177&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="178" tvg-name="Arena Sport 5 HR (version2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT",Arena Sport 5 HR (version2) - 
+http://176.9.1.143:8000/live?channelId=178&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="180" tvg-name="Arena Sport 1 SR" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-1.png" group-title="SPORT",Arena Sport 1 SR - Arena Sport 1 SR
+http://176.9.1.143:8000/live?channelId=180&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="181" tvg-name="Arena Sport 1 SR (version2)" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-1.png" group-title="SPORT",Arena Sport 1 SR (version2) - Arena Sport 1 SR (version2)
+http://51.15.25.210:8000/live?channelId=181&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="182" tvg-name="Arena Sport 2 SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORT",Arena Sport 2 SR - Arena Sport 2 SR
+http://202.61.230.83:8000/live?channelId=182&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="183" tvg-name="Arena Sport 2 SR (version2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORT",Arena Sport 2 SR (version2) - Arena Sport 2 SR (version2)
+http://51.15.0.9:8000/live?channelId=183&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="184" tvg-name="Arena Sport 3 SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT",Arena Sport 3 SR - Arena Sport 3 SR
+http://51.15.25.210:8000/live?channelId=184&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="185" tvg-name="Arena Sport 3 SR (version2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT",Arena Sport 3 SR (version2) - Arena Sport 3 SR (version2)
+http://176.9.1.143:8000/live?channelId=185&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="186" tvg-name="Arena Sport 4 SR" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-4.png" group-title="SPORT",Arena Sport 4 SR - Arena Sport 4 SR
+http://202.61.230.83:8000/live?channelId=186&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="187" tvg-name="Arena Sport 4 SR (version2)" tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-4.png" group-title="SPORT",Arena Sport 4 SR (version2) - Arena Sport 4 SR (version2)
+http://202.61.237.244:8000/live?channelId=187&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="188" tvg-name="Arena Sport 5 SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT",Arena Sport 5 SR - Arena Sport 5 SR
+http://163.172.218.95:8000/live?channelId=188&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="189" tvg-name="Arena Sport 5 SR (version2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT",Arena Sport 5 SR (version2) - 
+http://46.38.236.211:8000/live?channelId=189&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="190" tvg-name="S Club 1 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/e/e6/Sportklub1.png?20180714224910" group-title="SPORT",S Club 1 HR - S Club 1 HR
+http://163.172.223.237:8000/live?channelId=190&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="191" tvg-name="S Club 1 HR (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/e/e6/Sportklub1.png?20180714224910" group-title="SPORT",S Club 1 HR (version2) - S Club 1 HR (version2)
+http://51.15.25.210:8000/live?channelId=191&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="192" tvg-name="S Club 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/55/Sportklub2.png?20131022111945" group-title="SPORT",S Club 2 HR - S Club 2 HR
+http://51.15.25.210:8000/live?channelId=192&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="193" tvg-name="S Club 2 HR (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/55/Sportklub2.png?20131022111945" group-title="SPORT",S Club 2 HR (version2) - S Club 2 HR (version2)
+http://51.158.144.168:8000/live?channelId=193&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="194" tvg-name="S Club 3 HR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Sportklub_3.svg/revision/latest?cb=20220305193607" group-title="SPORT",S Club 3 HR - S Club 3 HR
+http://51.15.25.210:8000/live?channelId=194&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="195" tvg-name="S Club 3 HR (version2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Sportklub_3.svg/revision/latest?cb=20220305193607" group-title="SPORT",S Club 3 HR (version2) - S Club 3 HR (version2)
+http://163.172.223.237:8000/live?channelId=195&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="196" tvg-name="S Club 1 SR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/640px-Sportklub_Logo.svg.png" group-title="SPORT",S Club 1 SR - S Club 1 SR
+http://51.158.145.190:8000/live?channelId=196&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="197" tvg-name="S Club 1 SR (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/640px-Sportklub_Logo.svg.png" group-title="SPORT",S Club 1 SR (version2) - S Club 1 SR (version2)
+http://46.38.236.211:8000/live?channelId=197&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="198" tvg-name="S Club 2 SR" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/55/Sportklub2.png?20131022111945" group-title="SPORT",S Club 2 SR - S Club 2 SR
+http://202.61.237.244:8000/live?channelId=198&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="199" tvg-name="S Club 2 SR (version2)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/55/Sportklub2.png?20131022111945" group-title="SPORT",S Club 2 SR (version2) - S Club 2 SR (version2)
+http://163.172.223.237:8000/live?channelId=199&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="200" tvg-name="S Club 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Sportklub_3.svg/revision/latest?cb=20220305193607" group-title="SPORT",S Club 3 SR - S Club 3 SR
+http://202.61.230.83:8000/live?channelId=200&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="202" tvg-name="S Club 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sportklub_4.svg/revision/latest?cb=20220306120451" group-title="SPORT",S Club 4 - S Club 4
+http://51.15.26.200:8000/live?channelId=202&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="206" tvg-name="MAX SPORT 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-1-1445.png" group-title="SPORT",MAX SPORT 1 - MAX SPORT 1
+http://176.9.1.143:8000/live?channelId=206&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="207" tvg-name="F-i-g-h-t Ch@nnel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Fight-channel.png/revision/latest?cb=20210613123244" group-title="SPORT",F-i-g-h-t Ch@nnel - F-i-g-h-t Ch@nnel
+http://163.172.218.95:8000/live?channelId=207&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="208" tvg-name="Sky Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 - Sky Bundesliga 1
+http://51.15.25.210:8000/live?channelId=208&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="209" tvg-name="Sky Bundesliga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Bundesliga 2 - Sky Bundesliga 2
+http://202.61.237.244:8000/live?channelId=209&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="210" tvg-name="Sky Bundesliga 3 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 3 (ONLY ON MATCHDAY) - Sky Bundesliga 3 (ONLY ON MATCHDAY)
+http://202.61.230.83:8000/live?channelId=210&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="211" tvg-name="Sky Bundesliga 4 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 4 (ONLY ON MATCHDAY) - Sky Bundesliga 4 (ONLY ON MATCHDAY)
+http://46.38.236.211:8000/live?channelId=211&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="212" tvg-name="Sky Bundesliga 5 (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga.png" group-title="SPORT",Sky Bundesliga 5 (ONLY ON MATCHDAY) - Sky Bundesliga 5 (ONLY ON MATCHDAY)
+http://195.154.102.152:8000/live?channelId=212&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="213" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DAZN_BoxedLogo_01_RGB.png/250px-DAZN_BoxedLogo_01_RGB.png" group-title="SPORT",Dazn 1 - Dazn 1
+http://202.61.230.83:8000/live?channelId=213&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="214" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DAZN_BoxedLogo_01_RGB.png/250px-DAZN_BoxedLogo_01_RGB.png" group-title="SPORT",Dazn 2 - Dazn 2
+http://202.61.237.244:8000/live?channelId=214&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="215" tvg-name="Sky Sport 1 DE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Sport 1 DE  - Sky Sport 1 DE 
+http://202.61.230.83:8000/live?channelId=215&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="216" tvg-name="Sky Sport 2 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Sport 2 DE - Sky Sport 2 DE
+http://51.15.25.210:8000/live?channelId=216&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="217" tvg-name="Sky Sport 3 DE (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_bundesliga_uhd.png" group-title="SPORT",Sky Sport 3 DE (ONLY ON MATCHDAY) - Sky Sport 3 DE (ONLY ON MATCHDAY)
+http://163.172.218.95:8000/live?channelId=217&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="218" tvg-name="SKY SPORT 4 DE (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_sport_hd.png" group-title="SPORT",SKY SPORT 4 DE (ONLY ON MATCHDAY) - SKY SPORT 4 DE (ONLY ON MATCHDAY)
+http://176.9.1.143:8000/live?channelId=218&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="219" tvg-name="SKY SPORT 5 de (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_sport_hd.png" group-title="SPORT",SKY SPORT 5 de (ONLY ON MATCHDAY) - SKY SPORT 5 de (ONLY ON MATCHDAY)
+http://176.9.1.143:8000/live?channelId=219&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="220" tvg-name="Sky Sport 6 de (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_sport_hd.png" group-title="SPORT",Sky Sport 6 de (ONLY ON MATCHDAY) - Sky Sport 6 de (ONLY ON MATCHDAY)
+http://176.9.1.143:8000/live?channelId=220&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="221" tvg-name="SKY SPORT 7 de (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_sport_hd.png" group-title="SPORT",SKY SPORT 7 de (ONLY ON MATCHDAY) - SKY SPORT 7 de (ONLY ON MATCHDAY)
+http://176.9.1.143:8000/live?channelId=221&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="222" tvg-name="Sky Sport 8 HD (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_sport_hd.png" group-title="SPORT",Sky Sport 8 HD (ONLY ON MATCHDAY) - Sky Sport 8 HD (ONLY ON MATCHDAY)
+http://176.9.1.143:8000/live?channelId=222&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="223" tvg-name="Sky Sport 9 HD (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_sport_hd.png" group-title="SPORT",Sky Sport 9 HD (ONLY ON MATCHDAY) - Sky Sport 9 HD (ONLY ON MATCHDAY)
+http://176.9.1.143:8000/live?channelId=223&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="224" tvg-name="Sky Sport 10 HD (ONLY ON MATCHDAY)" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_uhd.png" group-title="SPORT",Sky Sport 10 HD (ONLY ON MATCHDAY) - Sky Sport 10 HD (ONLY ON MATCHDAY)
+http://176.9.1.143:8000/live?channelId=224&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="225" tvg-name="Sky Sport Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="SPORT",Sky Sport Austria - Sky Sport Austria
+http://51.15.25.210:8000/live?channelId=225&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="226" tvg-name="SKY SPORTS F1" tvg-logo="https://img.favpng.com/15/24/9/sky-sports-f1-streaming-media-television-channel-png-favpng-0ZtjqMf1vYQpzSbiLu5HmNgEG.jpg" group-title="SPORT",SKY SPORTS F1 - SKY SPORTS F1
+http://163.172.223.237:8000/live?channelId=226&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="227" tvg-name="SKY MOTO GP" tvg-logo="http://185.180.221.139:82/logo_channels/sky_it_sport_moto_gp_hd.png" group-title="SPORT",SKY MOTO GP - SKY MOTO GP
+http://46.38.236.211:8000/live?channelId=227&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="228" tvg-name="NBA TV" tvg-logo="http://185.180.221.139:82/logo_channels/babytv.png" group-title="SPORT",NBA TV - NBA TV
+http://163.172.13.127:8000/live?channelId=228&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="229" tvg-name="Sky Sports 1 UK" tvg-logo="http://185.180.221.139:82/logo_channels/sky_de_sport_uhd.png" group-title="SPORT",Sky Sports 1 UK - Sky Sports 1 UK
+http://51.158.144.168:8000/live?channelId=229&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="230" tvg-name="Sky Sports 2 UK" tvg-logo="http://185.180.221.139:82/logo_channels/skysportsnews.png" group-title="SPORT",Sky Sports 2 UK - Sky Sports 2 UK
+http://176.9.1.143:8000/live?channelId=230&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="231" tvg-name="Sky Sports 3 UK" tvg-logo="http://185.180.221.139:82/logo_channels/skysportsnews.png" group-title="SPORT",Sky Sports 3 UK - Sky Sports 3 UK
+http://176.9.1.143:8000/live?channelId=231&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="234" tvg-name="E u r 0 Sp0rt 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="SPORT",E u r 0 Sp0rt 1 - E u r 0 Sp0rt 1
+http://51.158.145.190:8000/live?channelId=234&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="235" tvg-name="E u r 0 Sp0rt 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="SPORT",E u r 0 Sp0rt 2 - E u r 0 Sp0rt 2
+http://51.158.144.168:8000/live?channelId=235&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="236" tvg-name="Fox Sports 1" tvg-logo="http://185.180.221.139:82/logo_channels/fox_sports_2_nl.png" group-title="SPORT",Fox Sports 1 - Fox Sports 1
+http://195.154.102.152:8000/live?channelId=236&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="237" tvg-name="Fox Sports 2" tvg-logo="http://185.180.221.139:82/logo_channels/fox_sports_2_nl.png" group-title="SPORT",Fox Sports 2 - Fox Sports 2
+http://51.15.26.200:8000/live?channelId=237&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="238" tvg-name="Fox Sports 3" tvg-logo="http://185.180.221.139:82/logo_channels/fox_sports_2_nl.png" group-title="SPORT",Fox Sports 3 - Fox Sports 3
+http://51.15.26.200:8000/live?channelId=238&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="239" tvg-name="Fox Sports 4" tvg-logo="http://185.180.221.139:82/logo_channels/fox_sports_2_nl.png" group-title="SPORT",Fox Sports 4 - Fox Sports 4
+http://195.154.102.152:8000/live?channelId=239&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="240" tvg-name="Fox Sports 5" tvg-logo="http://185.180.221.139:82/logo_channels/fox_sports_2_nl.png" group-title="SPORT",Fox Sports 5 - Fox Sports 5
+http://51.15.26.200:8000/live?channelId=240&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="242" tvg-name="B-e-i-n Sport 1" tvg-logo="" group-title="SPORT",B-e-i-n Sport 1 - B-e-i-n Sport 1
+http://195.154.102.152:8000/live?channelId=242&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="243" tvg-name="B-e-i-n Sport 2" tvg-logo="" group-title="SPORT",B-e-i-n Sport 2 - B-e-i-n Sport 2
+http://195.154.102.152:8000/live?channelId=243&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="244" tvg-name="B-e-i-n Sport 3" tvg-logo="" group-title="SPORT",B-e-i-n Sport 3 - B-e-i-n Sport 3
+http://195.154.102.152:8000/live?channelId=244&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="245" tvg-name="Bein Sport 4" tvg-logo="http://185.180.221.139:82/logo_channels/be_in_mena_sports_02.png" group-title="SPORT",Bein Sport 4 - Bein Sport 4
+http://195.154.102.152:8000/live?channelId=245&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="254" tvg-name="Digi Sport 1 RO" tvg-logo="http://185.180.221.139:82/logo_channels/digi_sport1_ro.png" group-title="SPORT",Digi Sport 1 RO - Digi Sport 1 RO
+http://51.15.25.210:8000/live?channelId=254&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="255" tvg-name="Digi Sport 2 RO" tvg-logo="http://185.180.221.139:82/logo_channels/digi_sport2_ro.png" group-title="SPORT",Digi Sport 2 RO - 
+http://51.15.26.200:8000/live?channelId=255&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="258" tvg-name="SuperSport Kosova 1" tvg-logo="http://185.180.221.139:82/logo_channels/digit_alb_supersport6_hd_kosova.png" group-title="SPORT",SuperSport Kosova 1 - SuperSport Kosova 1
+http://51.15.0.9:8000/live?channelId=258&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="259" tvg-name="SuperSport Kosova 2" tvg-logo="http://185.180.221.139:82/logo_channels/digit_alb_supersport6_hd_kosova.png" group-title="SPORT",SuperSport Kosova 2 - SuperSport Kosova 2
+http://51.15.26.200:8000/live?channelId=259&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="260" tvg-name="Moja TV - MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MYTV_Malaysia_Logo.png/220px-MYTV_Malaysia_Logo.png" group-title="SPORT",Moja TV - MYTV - Moja TV - MYTV
+http://163.172.218.95:8000/live?channelId=260&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="261" tvg-name="Ziggo Sport Extra 1" tvg-logo="http://185.180.221.139:82/logo_channels/ziggo_sport_nl_voetbal.png" group-title="SPORT",Ziggo Sport Extra 1 - Ziggo Sport Extra 1
+http://176.9.1.143:8000/live?channelId=261&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="262" tvg-name=" Ziggo Sport Extra 2" tvg-logo="http://185.180.221.139:82/logo_channels/ziggo_sport_nl_voetbal.png" group-title="SPORT", Ziggo Sport Extra 2 -  Ziggo Sport Extra 2
+http://163.172.13.127:8000/live?channelId=262&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="263" tvg-name="Ziggo Sport Docu" tvg-logo="http://185.180.221.139:82/logo_channels/ziggo_sport_nl_golf.png" group-title="SPORT",Ziggo Sport Docu - Ziggo Sport Docu
+http://176.9.1.143:8000/live?channelId=263&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="264" tvg-name="Ziggo Sport Racing" tvg-logo="http://185.180.221.139:82/logo_channels/ziggo_sport_nl_golf.png" group-title="SPORT",Ziggo Sport Racing - Ziggo Sport Racing
+http://195.154.102.152:8000/live?channelId=264&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="265" tvg-name="Ziggo Sport Select" tvg-logo="http://185.180.221.139:82/logo_channels/ziggo_sport_nl_select.png" group-title="SPORT",Ziggo Sport Select - Ziggo Sport Select
+http://163.172.218.95:8000/live?channelId=265&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="266" tvg-name="UFC Fight Pass" tvg-logo="http://185.180.221.139:82/logo_channels/ziggo_sport_nl_voetbal.png" group-title="SPORT",UFC Fight Pass - UFC Fight Pass
+http://51.15.26.200:8000/live?channelId=266&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="267" tvg-name="==== Dokumentarni  ====" tvg-logo="http://185.180.221.139:82/logo_channels/karusel_international.png" group-title="DOKUMENTARNI",==== Dokumentarni  ==== - 
+http://176.9.1.143:8000/live?channelId=267&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="268" tvg-name="Animal Planet HR" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/a/ab/Animal_Planet_Logo.PNG?20081226193438" group-title="DOKUMENTARNI",Animal Planet HR - Animal Planet HR
+http://51.15.26.200:8000/live?channelId=268&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="269" tvg-name="National Geographic HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="DOKUMENTARNI",National Geographic HR - National Geographic HR
+http://202.61.230.83:8000/live?channelId=269&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="270" tvg-name="Nat Geo Wild HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="DOKUMENTARNI",Nat Geo Wild HR - Nat Geo Wild HR
+http://51.158.144.168:8000/live?channelId=270&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="271" tvg-name="History Channel HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/150px-History_%282021%29.svg.png" group-title="DOKUMENTARNI",History Channel HR - History Channel HR
+http://202.61.230.83:8000/live?channelId=271&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="272" tvg-name="History 2 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/220px-History2_logo_%282022%29.svg.png" group-title="DOKUMENTARNI",History 2 HR - History 2 HR
+http://51.158.144.168:8000/live?channelId=272&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="273" tvg-name="DlSC0VERY ChanneI HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/200px-2019_Discovery_logo.svg.png" group-title="DOKUMENTARNI",DlSC0VERY ChanneI HR - DlSC0VERY ChanneI HR
+http://51.158.145.190:8000/live?channelId=273&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="274" tvg-name="DlSC0VERY Sci-ence HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="DOKUMENTARNI",DlSC0VERY Sci-ence HR - DlSC0VERY Sci-ence HR
+http://51.15.26.200:8000/live?channelId=274&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="277" tvg-name="DlSC0VERY lD HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOKUMENTARNI",DlSC0VERY lD HR - DlSC0VERY lD HR
+http://202.61.230.83:8000/live?channelId=277&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="278" tvg-name="CRIME & INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="DOKUMENTARNI",CRIME & INVESTIGATION - CRIME & INVESTIGATION
+http://51.158.144.168:8000/live?channelId=278&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="279" tvg-name="Travel Channel HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Travel_Channel_NEW_LOGO.svg/1200px-Travel_Channel_NEW_LOGO.svg.png" group-title="DOKUMENTARNI",Travel Channel HR - Travel Channel HR
+http://51.15.26.200:8000/live?channelId=279&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="280" tvg-name="V.ias@t Ex.pl0re HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Viasat_Explore-logo.svg/100px-Viasat_Explore-logo.svg.png" group-title="DOKUMENTARNI",V.ias@t Ex.pl0re HR - V.ias@t Ex.pl0re HR
+http://163.172.218.95:8000/live?channelId=280&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="281" tvg-name="V.ias@t H.ist0ry HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/100px-Viasat_History-logo.svg.png" group-title="DOKUMENTARNI",V.ias@t H.ist0ry HR - V.ias@t H.ist0ry HR
+http://202.61.230.83:8000/live?channelId=281&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="283" tvg-name="T.L.C HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="DOKUMENTARNI",T.L.C HR - T.L.C HR
+http://51.15.26.200:8000/live?channelId=283&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="284" tvg-name="E.! Entert@inment TV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/42px-E%21_Logo_2012.svg.png" group-title="DOKUMENTARNI",E.! Entert@inment TV   - E.! Entert@inment TV  
+http://163.172.13.127:8000/live?channelId=284&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="285" tvg-name="24 Kitchen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/200px-24Kitchen.png" group-title="DOKUMENTARNI",24 Kitchen - 24 Kitchen
+http://202.61.230.83:8000/live?channelId=285&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="286" tvg-name="L 0 V  R I B 0 L 0 V" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c1/Lov_i_ribolov.png?20220314110951" group-title="DOKUMENTARNI",L 0 V  R I B 0 L 0 V - L 0 V  R I B 0 L 0 V
+http://46.38.236.211:8000/live?channelId=286&uid=8711&deviceMac=00:1a:79:6a:6f:31
 
-#EXTINF:-1 group-title="DJECJA TV",*** KIDS ***
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/216
-#EXTINF:-1 group-title="DJECJA TV",Nickelodeon SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45492
-#EXTINF:-1 group-title="DJECJA TV",Nickelodeon HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/206
-#EXTINF:-1 group-title="DJECJA TV",NickJr. SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/205
-#EXTINF:-1 group-title="DJECJA TV",NickJr. HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45814
-#EXTINF:-1 group-title="DJECJA TV",RTL Kockica
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/209
-#EXTINF:-1 group-title="DJECJA TV",Hayatovci
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/210
-#EXTINF:-1 group-title="DJECJA TV",Pikaboo
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/215
-#EXTINF:-1 group-title="DJECJA TV",TNT Kids
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/203
-#EXTINF:-1 group-title="DJECJA TV",MiniMax
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/208
-#EXTINF:-1 group-title="DJECJA TV",Mini tv
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/211
-#EXTINF:-1 group-title="DJECJA TV",VaVooM
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3409
-#EXTINF:-1 group-title="DJECJA TV",Pink Kids
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/373
-#EXTINF:-1 group-title="DJECJA TV",SuperKids
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/374
-#EXTINF:-1 group-title="DJECJA TV",Boomerang
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/214
-#EXTINF:-1 group-title="DJECJA TV",Cartoon Network
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1292
-#EXTINF:-1 group-title="DJECJA TV",Disney Jr.
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/438
-#EXTINF:-1 group-title="DJECJA TV",Kazabuka
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/42908
-#EXTINF:-1 group-title="DJECJA TV",Hey Kids
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/40093
-#EXTINF:-1 group-title="DJECJA TV",JimJam
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/300
-#EXTINF:-1 group-title="DJECJA TV",Baby TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/212
-#EXTINF:-1 group-title="DJECJA TV",Duck TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/213
-#EXTINF:-1 group-title="DJECJA TV",Masa i Medo
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/28179
-#EXTINF:-1 group-title="DJECJA TV",Looney Tunes
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3182
-#EXTINF:-1 group-title="DJECJA TV",Tom And Jery
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3826
-#EXTINF:-1 group-title="DJECJA TV",Karusel
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/295
-#EXTINF:-1 group-title="DJECJA TV",Gametoon HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16974
-#EXTINF:-1 group-title="DJECJA TV",GB TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/4157
+#EXTINF:-1 tvg-id="346" tvg-name="==== Kids ====" tvg-logo="http://185.180.221.139:82/logo_channels/e_kids_bg.png" group-title="KIDS",==== Kids ==== - 
+http://176.9.1.143:8000/live?channelId=346&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="347" tvg-name="Masha & Bear" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Masha_and_The_Bear_logo.png/250px-Masha_and_The_Bear_logo.png" group-title="KIDS",Masha & Bear - Masha & Bear
+http://51.15.26.200:8000/live?channelId=347&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="348" tvg-name="Hayatovci" tvg-logo="https://upload.wikimedia.org/wikipedia/bs/thumb/4/4c/Hayatovci.jpg/220px-Hayatovci.jpg" group-title="KIDS",Hayatovci - Hayatovci
+http://163.172.218.95:8000/live?channelId=348&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="349" tvg-name="NlCK J.r. HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/220px-Nick_Jr._Channel_logo.svg.png" group-title="KIDS",NlCK J.r. HR - NlCK J.r. HR
+http://51.158.145.190:8000/live?channelId=349&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="350" tvg-name="N.i.c.k.e.l.o.d.e.0.n HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",N.i.c.k.e.l.o.d.e.0.n HR - N.i.c.k.e.l.o.d.e.0.n HR
+http://163.172.218.95:8000/live?channelId=350&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="351" tvg-name="RTL Kockica" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/d/d9/RTL-Kockica-Logo.png/150px-RTL-Kockica-Logo.png" group-title="KIDS",RTL Kockica - RTL Kockica
+http://202.61.230.83:8000/live?channelId=351&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="352" tvg-name="MlNl TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Mini_TV.jpg/revision/latest/smart/width/250/height/250?cb=20110926093319" group-title="KIDS",MlNl TV - MlNl TV
+http://51.158.144.168:8000/live?channelId=352&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="353" tvg-name="Pink Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/2/24/Pink_Kids_logo.png/220px-Pink_Kids_logo.png" group-title="KIDS",Pink Kids - Pink Kids
+http://51.15.26.200:8000/live?channelId=353&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="354" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Minimax_2021_wide.png/220px-Minimax_2021_wide.png" group-title="KIDS",Minimax - Minimax
+http://51.158.144.168:8000/live?channelId=354&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="356" tvg-name="Baby TV HR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/250px-BabyTV.png" group-title="KIDS",Baby TV HR - Baby TV HR
+http://51.15.26.200:8000/live?channelId=356&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="357" tvg-name="Kika DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/200px-Kika_2012.svg.png" group-title="KIDS",Kika DE - Kika DE
+http://51.15.26.200:8000/live?channelId=357&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="358" tvg-name="Cartoon Network HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network HR - Cartoon Network HR
+http://51.158.144.168:8000/live?channelId=358&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="360" tvg-name="Tom & Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TomandJerryTitleCardc.jpg/220px-TomandJerryTitleCardc.jpg" group-title="KIDS",Tom & Jerry - Tom & Jerry
+http://51.15.26.200:8000/live?channelId=360&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="361" tvg-name="Plkab00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PikabooLogo.png/220px-PikabooLogo.png" group-title="KIDS",Plkab00 - Plkab00
+http://163.172.218.95:8000/live?channelId=361&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="362" tvg-name="Disney Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel FHD - Disney Channel FHD
+http://202.61.230.83:8000/live?channelId=362&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="363" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/160px-Boomerang_2014_logo.svg.png" group-title="KIDS",BOOMERANG - BOOMERANG
+http://51.15.26.200:8000/live?channelId=363&uid=8711&deviceMac=00:1a:79:6a:6f:31
 
-#EXTINF:-1 group-title="DOKU TV",Discovery Chanel
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/105
-#EXTINF:-1 group-title="DOKU TV",Animal Planet
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/106
-#EXTINF:-1 group-title="DOKU TV",National Geographic
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/109
-#EXTINF:-1 group-title="DOKU TV", National Geographic Wild
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45578
-#EXTINF:-1 group-title="DOKU TV", Wild
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/110
-#EXTINF:-1 group-title="DOKU TV",History Channel 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/107
-#EXTINF:-1 group-title="DOKU TV",History Channel 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/108
-#EXTINF:-1 group-title="DOKU TV",Discovery Science
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1959
-#EXTINF:-1 group-title="DOKU TV",ID Discovery
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/371
-#EXTINF:-1 group-title="DOKU TV",Crime & Investigation
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/370
-#EXTINF:-1 group-title="DOKU TV",Viasat Nature
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/297
-#EXTINF:-1 group-title="DOKU TV",Viasat History
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/298
-#EXTINF:-1 group-title="DOKU TV",Viasat Explore
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/124
-#EXTINF:-1 group-title="DOKU TV",Lov i Ribolov
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/343
-#EXTINF:-1 group-title="DOKU TV",Chasse & Peche
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3526
-#EXTINF:-1 group-title="DOKU TV",24 Kitchen
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/122
-#EXTINF:-1 group-title="DOKU TV",Food Network
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/372
-#EXTINF:-1 group-title="DOKU TV",Kitchen TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/123
-#EXTINF:-1 group-title="DOKU TV",TLC
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/130
-#EXTINF:-1 group-title="DOKU TV",Travel Chanel
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/303
-#EXTINF:-1 group-title="DOKU TV",Dobra Travel
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3225
-#EXTINF:-1 group-title="DOKU TV",Da Vinci Learning
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1438
-#EXTINF:-1 group-title="DOKU TV",E!Entertainment
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/304
-#EXTINF:-1 group-title="DOKU TV",Comedy Central Extra
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/423
-#EXTINF:-1 group-title="DOKU TV",FLN
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/131
-#EXTINF:-1 group-title="DOKU TV",Woman TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/5803
-#EXTINF:-1 group-title="DOKU TV",Fashion TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/246
-#EXTINF:-1 group-title="DOKU TV",Luxe HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/375
-#EXTINF:-1 group-title="DOKU TV",Doku TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3397
-#EXTINF:-1 group-title="DOKU TV",DokuBox
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16929
-#EXTINF:-1 group-title="DOKU TV",Planet Earth
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3398
-#EXTINF:-1 group-title="DOKU TV",BBC Earth
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/564
-#EXTINF:-1 group-title="DOKU TV",CNN 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/247
-#EXTINF:-1 group-title="DOKU TV",RT Docu HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/251
-#EXTINF:-1 group-title="DOKU TV",Euronews
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/250
-#EXTINF:-1 group-title="DOKU TV",CNBC
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/249
-#EXTINF:-1 group-title="DOKU TV",BBC Worldnews
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/248
-#EXTINF:-1 group-title="DOKU TV",Aljazeera English HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/40038
-
-#EXTINF:-1 group-title="FILMSKA TV",*** FILM ***
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/869
-#EXTINF:-1 group-title="FILMSKA TV",HBO Adria
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/54
-#EXTINF:-1 group-title="FILMSKA TV",HBO Adria HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/218
-#EXTINF:-1 group-title="FILMSKA TV",HBO 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/56
-#EXTINF:-1 group-title="FILMSKA TV",HBO 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/672
-#EXTINF:-1 group-title="FILMSKA TV",HBO 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/57
-#EXTINF:-1 group-title="FILMSKA TV",HBO 3 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/220
-#EXTINF:-1 group-title="FILMSKA TV",FOX
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/62
-#EXTINF:-1 group-title="FILMSKA TV",FOX HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1507
-#EXTINF:-1 group-title="FILMSKA TV",FOX Movies
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/63
-#EXTINF:-1 group-title="FILMSKA TV",FOX Movies HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1510
-#EXTINF:-1 group-title="FILMSKA TV",FOX Life
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/65
-#EXTINF:-1 group-title="FILMSKA TV",FOX Life HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1509
-#EXTINF:-1 group-title="FILMSKA TV",FOX Crime
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/64
-#EXTINF:-1 group-title="FILMSKA TV",FOX Crime HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1508
-#EXTINF:-1 group-title="FILMSKA TV",CineStar Action
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44200
-#EXTINF:-1 group-title="FILMSKA TV",CineStar Premiere 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/58
-#EXTINF:-1 group-title="FILMSKA TV",Cinestar Premiere 1 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/6179
-#EXTINF:-1 group-title="FILMSKA TV",CineStar Premiere 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/59
-#EXTINF:-1 group-title="FILMSKA TV",Cinestar Premiere 2 HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/6180
-#EXTINF:-1 group-title="FILMSKA TV",CineStar TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/60
-#EXTINF:-1 group-title="FILMSKA TV",CineStar TV 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/17021
-#EXTINF:-1 group-title="FILMSKA TV",Cinestar Comedy
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/2522
-#EXTINF:-1 group-title="FILMSKA TV",TV 1000
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/113
-#EXTINF:-1 group-title="FILMSKA TV",Cinemax 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/66
-#EXTINF:-1 group-title="FILMSKA TV",Cinemax 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/67
-#EXTINF:-1 group-title="FILMSKA TV",FilmBox Extra 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39481
-#EXTINF:-1 group-title="FILMSKA TV",AMC
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/68
-#EXTINF:-1 group-title="FILMSKA TV",Kino TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/273
-#EXTINF:-1 group-title="FILMSKA TV",Diva
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/661
-#EXTINF:-1 group-title="FILMSKA TV",SciFi Chanel
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3194
-#EXTINF:-1 group-title="FILMSKA TV",AXN
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/274
-#EXTINF:-1 group-title="FILMSKA TV",AXN Spin
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/275
-#EXTINF:-1 group-title="FILMSKA TV",M1 Film
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/132
-#EXTINF:-1 group-title="FILMSKA TV",M1 Gold
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/133
-#EXTINF:-1 group-title="FILMSKA TV",M1 Family
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39160
-#EXTINF:-1 group-title="FILMSKA TV",Epic Drama
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/255
-#EXTINF:-1 group-title="FILMSKA TV",Klasik TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/253
-#EXTINF:-1 group-title="FILMSKA TV",Film Klub
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1454
-#EXTINF:-1 group-title="FILMSKA TV",SuperStar
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/254
-#EXTINF:-1 group-title="FILMSKA TV",SuperStar 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1660
-#EXTINF:-1 group-title="FILMSKA TV",Pickbox TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/753
-#EXTINF:-1 group-title="FILMSKA TV",Dobra Cinema
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3224
-#EXTINF:-1 group-title="FILMSKA TV",TimeOut
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/16707
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 1 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/37889
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 2 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/635
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 3 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/634
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 4 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/633
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 5 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/632
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 6 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/631
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 7 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/630
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 8 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/629
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 9 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/628
-#EXTINF:-1 group-title="FILMSKA TV",MaxCro Select 10
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/627
-#EXTINF:-1 group-title="FILMSKA TV",Box Office 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39157
-#EXTINF:-1 group-title="FILMSKA TV",Box Office 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39158
-#EXTINF:-1 group-title="FILMSKA TV",Box Office 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39824
-#EXTINF:-1 group-title="FILMSKA TV",Nova Cinema
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39154
-#EXTINF:-1 group-title="FILMSKA TV",Nova Cinema 2K
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39155
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26535
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26534
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 3 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26533
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 4 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26532
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 5
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26530
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 6
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26527
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 7
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26526
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 8
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26525
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 9
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/26522
-#EXTINF:-1 group-title="FILMSKA TV",Sky GO 10
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45738
-#EXTINF:-1 group-title="FILMSKA TV",Euro Cinema 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45592
-#EXTINF:-1 group-title="FILMSKA TV",Euro Cinema 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45593
-#EXTINF:-1 group-title="FILMSKA TV",Euro Cinema 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45594
-#EXTINF:-1 group-title="FILMSKA TV",Euro Cinema 4
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/45595
-
-#EXTINF:-1 group-title="GLAZBENA TV",*** MUZIKA ***
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/867
-#EXTINF:-1 group-title="GLAZBENA TV",Grand TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/223
-#EXTINF:-1 group-title="GLAZBENA TV",Grand TV 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/224
-#EXTINF:-1 group-title="GLAZBENA TV",Balkanika
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/243
-#EXTINF:-1 group-title="GLAZBENA TV",DM Sat
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/225
-#EXTINF:-1 group-title="GLAZBENA TV",Hayat Folk
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/235
-#EXTINF:-1 group-title="GLAZBENA TV",BN Music
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/226
-#EXTINF:-1 group-title="GLAZBENA TV",Pink Folk 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/227
-#EXTINF:-1 group-title="GLAZBENA TV",Pink Folk 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/228
-#EXTINF:-1 group-title="GLAZBENA TV",Izvorna TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/344
-#EXTINF:-1 group-title="GLAZBENA TV",Dobra Svadba
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3223
-#EXTINF:-1 group-title="GLAZBENA TV",Dobra Exclusive
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/1123
-#EXTINF:-1 group-title="GLAZBENA TV",Sevdah TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/367
-#EXTINF:-1 group-title="GLAZBENA TV",TV Banovina
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/233
-#EXTINF:-1 group-title="GLAZBENA TV",Posavina TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/232
-#EXTINF:-1 group-title="GLAZBENA TV",Narodna TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/28251
-#EXTINF:-1 group-title="GLAZBENA TV",TOP Sound
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/28541
-#EXTINF:-1 group-title="GLAZBENA TV",Roma TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/296
-#EXTINF:-1 group-title="GLAZBENA TV",Upera Balkan TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3396
-#EXTINF:-1 group-title="GLAZBENA TV",Pink Music 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/230
-#EXTINF:-1 group-title="GLAZBENA TV",Pink Music 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/229
-#EXTINF:-1 group-title="GLAZBENA TV",YU Planet
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/348
-#EXTINF:-1 group-title="GLAZBENA TV",Dobra Muzicka
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3226
-#EXTINF:-1 group-title="GLAZBENA TV",OTV Valentino
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/691
-#EXTINF:-1 group-title="GLAZBENA TV",Valentino Etno
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/43719
-#EXTINF:-1 group-title="GLAZBENA TV",Libertas TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/6259
-#EXTINF:-1 group-title="GLAZBENA TV",DMC
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/6260
-#EXTINF:-1 group-title="GLAZBENA TV",Hayat Music
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/234
-#EXTINF:-1 group-title="GLAZBENA TV",IDJ TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/342
-#EXTINF:-1 group-title="GLAZBENA TV",Toxic
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44069
-#EXTINF:-1 group-title="GLAZBENA TV",Jugoton
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/459
-#EXTINF:-1 group-title="GLAZBENA TV",CMC
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/231
-#EXTINF:-1 group-title="GLAZBENA TV",OKK
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39717
-#EXTINF:-1 group-title="GLAZBENA TV",Pink Hits 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/443
-#EXTINF:-1 group-title="GLAZBENA TV",Pink Hits 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/444
-#EXTINF:-1 group-title="GLAZBENA TV",MTV 00s
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/236
-#EXTINF:-1 group-title="GLAZBENA TV",MTV 80s
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/241
-#EXTINF:-1 group-title="GLAZBENA TV",MTV 90s
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/239
-#EXTINF:-1 group-title="GLAZBENA TV",MTV Live
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/37475
-#EXTINF:-1 group-title="GLAZBENA TV",MTV Adria
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/238
-#EXTINF:-1 group-title="GLAZBENA TV",MTV Hits
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/240
-#EXTINF:-1 group-title="GLAZBENA TV",MTV Club
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/17504
-#EXTINF:-1 group-title="GLAZBENA TV",City TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/245
-#EXTINF:-1 group-title="GLAZBENA TV",The Voice
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/244
-#EXTINF:-1 group-title="GLAZBENA TV",MCM Top
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/237
-#EXTINF:-1 group-title="GLAZBENA TV",Jukebox 
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39672
-#EXTINF:-1 group-title="GLAZBENA TV",Magic TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/242
-
-#EXTINF:-1 group-title="XXX TV",*** Erotski Kanali ***
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/813
-#EXTINF:-1 group-title="XXX TV",Private
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/175
-#EXTINF:-1 group-title="XXX TV",Dorcel HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/176
-#EXTINF:-1 group-title="XXX TV",Penthouse Gold HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/568
-#EXTINF:-1 group-title="XXX TV",Passion XXX 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/177
-#EXTINF:-1 group-title="XXX TV",EvilAngel HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/178
-#EXTINF:-1 group-title="XXX TV",Hustler HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/180
-#EXTINF:-1 group-title="XXX TV",Hustler TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/4050
-#EXTINF:-1 group-title="XXX TV",Evil Angel
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/4049
-#EXTINF:-1 group-title="XXX TV",EroXX HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/4051
-#EXTINF:-1 group-title="XXX TV",Brazzers TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/4052
-#EXTINF:-1 group-title="XXX TV",PinkO TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/566
-#EXTINF:-1 group-title="XXX TV",Stars XXX
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/567
-#EXTINF:-1 group-title="XXX TV",Super One
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3113
-#EXTINF:-1 group-title="XXX TV",Alba XXX-HD 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/3114
-#EXTINF:-1 group-title="XXX TV",Playboy HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/427
-#EXTINF:-1 group-title="XXX TV",Penthouse Fashion HD
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/179
-#EXTINF:-1 group-title="XXX TV",Русская Ночь
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/565
-#EXTINF:-1 group-title="XXX TV",Reality Kings
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46473
-#EXTINF:-1 group-title="XXX TV",Pink Erotic 1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46474
-#EXTINF:-1 group-title="XXX TV",Pink Erotic 2
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46475
-#EXTINF:-1 group-title="XXX TV",Pink Erotic 3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46476
-#EXTINF:-1 group-title="XXX TV",Pink Erotic 4
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46477
-#EXTINF:-1 group-title="XXX TV",Vixen
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46478
-#EXTINF:-1 group-title="XXX TV",Vivid Red
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46479
-#EXTINF:-1 group-title="XXX TV",Babes TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46480
-#EXTINF:-1 group-title="XXX TV",Dusk TV
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/46481
-
-#EXTINF:-1 group-title="RADIO STANICE",Radio Fortuna MK
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38855
-#EXTINF:-1 group-title="RADIO STANICE",Radio Antena 5 MK
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39516
-#EXTINF:-1 group-title="RADIO STANICE",Radio Plus MK
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39518
-#EXTINF:-1 group-title="RADIO STANICE",Radio Sarajevo BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38857
-#EXTINF:-1 group-title="RADIO STANICE",Radio BN BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38860
-#EXTINF:-1 group-title="RADIO STANICE",Radio M  BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38869
-#EXTINF:-1 group-title="RADIO STANICE",BellAmie FOLK radio BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38873
-#EXTINF:-1 group-title="RADIO STANICE",Radio Hit, Banja Luka BH
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39551
-#EXTINF:-1 group-title="RADIO STANICE",RADIO B92
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38874
-#EXTINF:-1 group-title="RADIO STANICE",RADIO STUDIO B
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38875
-#EXTINF:-1 group-title="RADIO STANICE",PLAY Radio Beograd
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38876
-#EXTINF:-1 group-title="RADIO STANICE",Radio S1
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38877
-#EXTINF:-1 group-title="RADIO STANICE",Radio S3
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38879
-#EXTINF:-1 group-title="RADIO STANICE",Radio S4
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38880
-#EXTINF:-1 group-title="RADIO STANICE",Pink Radio
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38881
-#EXTINF:-1 group-title="RADIO STANICE",Radio Göteborg Folk - 24 sata
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/38882
-#EXTINF:-1 group-title="RADIO STANICE",Sevdah - Göteborg
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39519
-#EXTINF:-1 group-title="RADIO STANICE",Narodni Radio HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39520
-#EXTINF:-1 group-title="RADIO STANICE",Antena Zagreb Radio HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39521
-#EXTINF:-1 group-title="RADIO STANICE",Super Radio HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39523
-#EXTINF:-1 group-title="RADIO STANICE",Radio DeeJay HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39524
-#EXTINF:-1 group-title="RADIO STANICE",Hit Radio HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39525
-#EXTINF:-1 group-title="RADIO STANICE",Radio Dalmacija HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39526
-#EXTINF:-1 group-title="RADIO STANICE",Radio 101 Zagreb HR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39527
-#EXTINF:-1 group-title="RADIO STANICE",Radio B92 SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39528
-#EXTINF:-1 group-title="RADIO STANICE",Folk Radio Beograd SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39530
-#EXTINF:-1 group-title="RADIO STANICE",Studio B SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39533
-#EXTINF:-1 group-title="RADIO STANICE",Radio Belle Amie SR
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39536
-#EXTINF:-1 group-title="RADIO STANICE",Radio Maribor SLO
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39537
-#EXTINF:-1 group-title="RADIO STANICE",Radio City Maribor SLO
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39539
-#EXTINF:-1 group-title="RADIO STANICE",Radio Antena SLO
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39540
-#EXTINF:-1 group-title="RADIO STANICE",Radio 1 SLO
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39541
-#EXTINF:-1 group-title="RADIO STANICE", Radio Herceg Novi CG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39544
-#EXTINF:-1 group-title="RADIO STANICE",TDI Radio Crna Gora CG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39545
-#EXTINF:-1 group-title="RADIO STANICE",Radio Antena M Podgorica CG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39546
-#EXTINF:-1 group-title="RADIO STANICE",Jupok Radio Rožaje CG
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39548
-#EXTINF:-1 group-title="RADIO STANICE",Radio Kosovo
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39549
-#EXTINF:-1 group-title="RADIO STANICE",Radio Dvojka Chicago
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/39552
-#EXTINF:-1 group-title="RADIO STANICE",VOX NO
-http://bazaruto.top:8000/jasmina.ita.riki/orVObQC57V/44389
+#EXTINF:-1 tvg-id="628" tvg-name="==== Adult XXX ====" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",==== Adult XXX ==== - 
+http://176.9.1.143:8000/live?channelId=628&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="629" tvg-name="Adult xxx 1" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",Adult xxx 1 - Adult xxx 1
+http://51.15.25.210:8000/live?channelId=629&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="630" tvg-name="Adult xxx 2" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",Adult xxx 2 - Adult xxx 2
+http://46.38.236.211:8000/live?channelId=630&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="631" tvg-name="Adult xxx 3" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",Adult xxx 3 - 
+http://51.158.144.168:8000/live?channelId=631&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="632" tvg-name="Adult xxx 4" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",Adult xxx 4 - 
+http://51.158.144.168:8000/live?channelId=632&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="633" tvg-name="Adult xxx 5" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",Adult xxx 5 - Adult xxx 5
+http://51.15.25.210:8000/live?channelId=633&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="634" tvg-name="Adult xxx 6" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",Adult xxx 6 - 
+http://46.38.236.211:8000/live?channelId=634&uid=8711&deviceMac=00:1a:79:6a:6f:31
+#EXTINF:-1 tvg-id="635" tvg-name="Adult xxx 7" tvg-logo="http://185.180.221.139:82/logo_channels/dorcel_tv_fr_xxx.png" group-title="ADULT",Adult xxx 7 - 
+http://202.61.230.83:8000/live?channelId=635&uid=8711&deviceMac=00:1a:79:6a:6f:31
 
 
 
