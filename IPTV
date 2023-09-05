@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
+#EXTM3U  x-tvg-url = "https://www.dl.dropboxusercontent.com/s/c8y71ei9080laly/guide.xml.gz"
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://iptvunited.org:8080/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1
 http://bntvs.com:2052/Stanisa/55432245/8499
