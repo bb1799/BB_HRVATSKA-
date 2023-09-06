@@ -2588,22 +2588,24 @@ http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/39668.mk
 
 
 
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Chamber Of Secrets 2002 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32210.mkv
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Deathly Hallows 2010 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32211.mkv
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Deathly Hallows 2011 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32212.mkv
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Goblet Of Fire 2005 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32213.mkv
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Half Blood Prince 2009 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32214.mkv
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Order Of The Phoenix 2007 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32215.mkv
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Philosophers Stone 2001 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32216.mkv
-#EXTINF:-1 group-title="HARRY POTTER",Harry Potter: And The Prisoner Of Azkaban 2004 |coll
-http://bazaruto.top:8000/movie/jasmina.ita.riki/orVObQC57V/32217.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Philosopher\'s Stone (2001)" tvg-logo="http://95.217.78.120/aplikacije/images/0356eb05ce4b2ce0ace616536650a37a.jpg" group-title="HARRY POTTER",Harry Potter and the Philosopher\'s Stone (2001)
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/86946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Chamber of Secrets (2002)" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/c8b9d7a71ecbdec212590c9fb13e7184.jpg" group-title="HARRY POTTER",Harry Potter and the Chamber of Secrets (2002)
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/68543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Prisoner of Azkaban (2004)" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/b506d15c65a1389b5695fb25b70aeea8.jpg" group-title="HARRY POTTER",Harry Potter and the Prisoner of Azkaban (2004)
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/68546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Goblet of Fire (2005)" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/7c11c9c917a40d41c6fc3087d601a9b1.jpg" group-title="HARRY POTTER",Harry Potter and the Goblet of Fire (2005)
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/68544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Order of the Phoenix (2007)" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/4d78400769adf0f8b7a2d07e8b0542c0.jpg" group-title="HARRY POTTER",Harry Potter and the Order of the Phoenix (2007)
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/68545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Half-Blood Prince (2009)" tvg-logo="http://95.217.78.120/aplikacije/images/3f673d6fe0b4ad2da6cd8fdda9bf5748.jpg" group-title="HARRY POTTER",Harry Potter and the Half-Blood Prince (2009)
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/86947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Deathly Hallows: Part 1 (2010)" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/e7608718235a102e8b8c729d3e800963.jpg" group-title="HARRY POTTER",Harry Potter and the Deathly Hallows: Part 1 (2010)
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/68540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="217. Harry Potter and the Deathly Hallows Part 2 2011" tvg-logo="http://95.217.78.120/aplikacije/images/355155e8ed5480402bea2cb71759914f.jpg" group-title="HARRY POTTER",Harry Potter and the Deathly Hallows Part 2 2011
+http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/86365.mkv
+
 
 
 
