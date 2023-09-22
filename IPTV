@@ -1,659 +1,325 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HRT 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HRT 1 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1140
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HRT 2 
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/4118
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HRT 2 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/20009
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://live.nettv.pro/icons/HRT3.png" group-title="HRVATSKA",HRT 3
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/40
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 " tvg-logo="http://live.nettv.pro/icons/HRT4.png" group-title="HRVATSKA",HRT 4 
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/41
-#EXTINF:-1 tvg-id="htv5" tvg-name="HRT INT" tvg-logo="http://super-tvnow.com:80/images/9ead3b566c73da2df200ddf045c83219.png" group-title="HRVATSKA",HRT INT
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1033
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-logo="http://live.nettv.pro/icons/RTL.png" group-title="HRVATSKA",RTL
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/45
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL BACKUP" tvg-logo="http://live.nettv.pro/icons/RTL.png" group-title="HRVATSKA",RTL BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1141
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://live.nettv.pro/icons/RTL2.png" group-title="HRVATSKA",RTL 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1034
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/RTL2.png" group-title="HRVATSKA",RTL 2 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/66381
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="RTL ADRIA" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/8/80/RTL_Adria_%282020-.n.v.%29.png/revision/latest?cb=20200225184616" group-title="HRVATSKA",RTL ADRIA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/44
-#EXTINF:-1 tvg-id="" tvg-name="RTL Croatia World" tvg-logo="" group-title="HRVATSKA",RTL Croatia World
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/64976
-#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING" tvg-logo="http://live.nettv.pro/icons/RTLLIVING.png" group-title="HRVATSKA",RTL LIVING
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/47
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-logo="http://4.bp.blogspot.com/-DhB-0XAlLEA/VQNIcJQvguI/AAAAAAAAATM/ueyQ56S_WgI/s1600/RTL-Crime1.png" group-title="HRVATSKA",RTL CRIME
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/46
-#EXTINF:-1 tvg-id="rtl-passion-de" tvg-name="RTL PASSION" tvg-logo="http://live.nettv.pro/icons/RTLPASSION.png" group-title="HRVATSKA",RTL PASSION
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1035
-#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION BACKUP" tvg-logo="http://live.nettv.pro/icons/RTLPASSION.png" group-title="HRVATSKA",RTL PASSION BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/4119
-#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="http://live.nettv.pro/icons/N1HR.png" group-title="HRVATSKA",N1 HR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/48
-#EXTINF:-1 tvg-id="nova" tvg-name="NOVA TV" tvg-logo="http://live.nettv.pro/icons/NOVATV.png" group-title="HRVATSKA",NOVA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/42
-#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA TV BACKUP" tvg-logo="http://live.nettv.pro/icons/NOVATV.png" group-title="HRVATSKA",NOVA TV BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1143
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV" tvg-logo="http://live.nettv.pro/icons/domatv.png" group-title="HRVATSKA",DOMA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/43
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV BACKUP" tvg-logo="http://live.nettv.pro/icons/domatv.png" group-title="HRVATSKA",DOMA TV BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1142
-#EXTINF:-1 tvg-id="z1" tvg-name="Z1 TV" tvg-logo="http://live.nettv.pro/icons/Z1.png" group-title="HRVATSKA",Z1 TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1036
-#EXTINF:-1 tvg-id="dubrovacka-tv" tvg-name="DUBROVACKA TV" tvg-logo="https://www.livecamcroatia.com/data/public/2019-04/tn_dubrovacka-televizija.jpg" group-title="HRVATSKA",DUBROVACKA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1046
-#EXTINF:-1 tvg-id="ostv" tvg-name="OSJECKA TV" tvg-logo="http://live.nettv.pro/icons/OSJECKATV.png" group-title="HRVATSKA",OSJECKA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/49
-#EXTINF:-1 tvg-id="jabukatv" tvg-name="JABUKA TV" tvg-logo="https://www.jabuka.tv/logo.png" group-title="HRVATSKA",JABUKA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/50
-#EXTINF:-1 tvg-id="rtbtv" tvg-name="BANOVINA TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKA",BANOVINA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/51
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="SLAVONSKA TV" tvg-logo="http://live.nettv.pro/icons/SLAVONSKATV.png" group-title="HRVATSKA",SLAVONSKA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/351
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="VINKOVACKA TV" tvg-logo="https://img.new.livestream.com/accounts/00000000019610f2/888d1e44-e2bb-4946-9b7b-91c2e3e9d1fe.jpg" group-title="HRVATSKA",VINKOVACKA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1038
-#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="POLJOPRIVREDNA TV" tvg-logo="https://pozega.eu/wp-content/uploads/2014/04/poljoprivredna-tv-logo.jpg" group-title="HRVATSKA",POLJOPRIVREDNA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1040
-#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VARAZDIN TV" tvg-logo="http://live.nettv.pro/icons/VARDZINTV.jpg" group-title="HRVATSKA",VARAZDIN TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1039
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="ZDRAVA TV" tvg-logo="http://live.nettv.pro/icons/ZDRAVATV.jpg" group-title="HRVATSKA",ZDRAVA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1041
-#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LAUDATO TV" tvg-logo="http://live.nettv.pro/icons/LAUDATO.png" group-title="HRVATSKA",LAUDATO TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1042
-#EXTINF:-1 tvg-id="tv-jadran" tvg-name="JADRAN TV" tvg-logo="http://live.nettv.pro/icons/JADRANTV.png" group-title="HRVATSKA",JADRAN TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1043
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="ISTRA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092014/tv_istra.png?itok=o2EgmL9G" group-title="HRVATSKA",ISTRA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1045
-#EXTINF:-1 tvg-id="kanal-ri" tvg-name="KANAL RI" tvg-logo="http://live.nettv.pro/icons/KANALRI.jpg" group-title="HRVATSKA",KANAL RI
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1044
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://iptvunited.org:8080/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8499
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="http://iptvunited.org:8080/images/d66f3ed717b48fe9573d77d086f93242.png" group-title="Hrvatska",HRT 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8500
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://iptvunited.org:8080/images/bb22402b402d0944146db818c2d87da2.png" group-title="Hrvatska",HRT 3
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8501
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="http://iptvunited.org:8080/images/7f8f97c669df5aeaf943a6e7d5ec897c.png" group-title="Hrvatska",HRT 4
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8502
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT 5" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRTint_logo.png" group-title="Hrvatska",HRT 5
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8503
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova TV" tvg-logo="http://iptvunited.org:8080/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="Hrvatska",Nova TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8505
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL (H265)" tvg-logo="http://iptvunited.org:8080/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="Hrvatska",RTL (H265)
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8506
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HR" tvg-logo="http://iptvunited.org:8080/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="Hrvatska",RTL HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8507
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL Adria" tvg-logo="http://iptvunited.org:8080/images/8dc98da90374651fb8c436dfcad78a94.png" group-title="Hrvatska",RTL Adria
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8508
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://iptvunited.org:8080/images/b1a874b3e9aefba9968dcd412f06b4af.png" group-title="Hrvatska",RTL 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8509
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8510
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/rtl-kockica-logo.png" group-title="Hrvatska",RTL Kockica
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8511
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska",RTL Living
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8512
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Passion" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL Passion
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8513
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8514
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/10.%20DIVA.png" group-title="Hrvatska",Diva
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8515
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Hrvatska" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/26.%20N1%20SRB.png" group-title="Hrvatska",N1 Hrvatska
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8516
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CMC_TV_logo.png" group-title="Hrvatska",CMC
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8517
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska televizija" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/24.%20SLAVONSKA%20TV.jpg" group-title="Hrvatska",Slavonska televizija
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8518
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/23.%20LAUDATO%20TV.png" group-title="Hrvatska",Laudato TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8519
+#EXTINF:-1 tvg-id="" tvg-name="Jabuka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/25.%20JABUKA%20TV.png" group-title="Hrvatska",Jabuka TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8520
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/OTV%20VALENTINO.png" group-title="Hrvatska",OTV Valentino
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8521
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/63.%20Z1.png" group-title="Hrvatska",Z1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8522
+#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/64.%20OSJECKA%20TV.png" group-title="Hrvatska",Osjecka TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8523
+#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/5.%20banovina.png" group-title="Hrvatska",Banovina TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8524
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/65.%20VINKOVACKA%20TV.png" group-title="Hrvatska",Vinkovacka TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8525
 
-#EXTINF:-1 tvg-id="" tvg-name="HR: HNTV" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/hntv.jpg" group-title="SPORTSKI",HR: HNTV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10259
-#EXTINF:-1 tvg-id="35539" tvg-name="MAXSPORT 1" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport1.png" group-title="SPORTSKI",HR: MAXSPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56215
-#EXTINF:-1 tvg-id="21472" tvg-name="MAXSPORT 2" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport2.png" group-title="SPORTSKI",HR: MAXSPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56216
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="HR: KREATOR TV(TEST)" tvg-logo="" group-title="SPORTSKI",HR: KREATOR TV(TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10260
-#EXTINF:-1 tvg-id="18306" tvg-name="SR: SOS(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sos.png" group-title="SPORTSKI",SR: SOS(TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10261
-#EXTINF:-1 tvg-id="20028" tvg-name="SR: NOVA SPORT HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/novasport.png" group-title="SPORTSKI",SR: NOVA SPORT HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10262
-#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="BA: ARENA SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",BA: ARENA SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10263
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="HR: ARENA SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",HR: ARENA SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10264
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="HR: ARENA SPORT 1 HD BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",HR: ARENA SPORT 1 HD BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10432
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="SR: ARENA SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",SR: ARENA SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10265
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="SR: ARENA SPORT 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",SR: ARENA SPORT 1 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10435
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="HR: ARENA SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",HR: ARENA SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10266
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="HR: ARENA SPORT 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",HR: ARENA SPORT 2 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10433
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="SR: ARENA SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",SR: ARENA SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10267
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="SR: ARENA SPORT 2 BACKUP " tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",SR: ARENA SPORT 2 BACKUP 
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10436
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="HR: ARENA SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",HR: ARENA SPORT 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10268
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="HR: ARENA SPORT 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",HR: ARENA SPORT 3 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10434
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="SR: ARENA SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",SR: ARENA SPORT 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10269
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="SR: ARENA SPORT 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",SR: ARENA SPORT 3 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10437
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="HR: ARENA SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport4.png" group-title="SPORTSKI",HR: ARENA SPORT 4 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10270
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="SR: ARENA SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport4.png" group-title="SPORTSKI",SR: ARENA SPORT 4 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10271
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="HR: ARENA SPORT 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport5.png" group-title="SPORTSKI",HR: ARENA SPORT 5 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10272
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="SR: ARENA SPORT 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport5.png" group-title="SPORTSKI",SR: ARENA SPORT 5 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10273
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 6 " tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport6.png" group-title="SPORTSKI",HR: ARENA SPORT 6 
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/36975
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 7" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport7.png" group-title="SPORTSKI",HR: ARENA SPORT 7
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/36976
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 8" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport8.png" group-title="SPORTSKI",HR: ARENA SPORT 8
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/36977
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 9" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport9.png" group-title="SPORTSKI",HR: ARENA SPORT 9
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/36978
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 10" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport10.png" group-title="SPORTSKI",HR: ARENA SPORT 10
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/36979
-#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-name="ARENA SPORT 1x2 SR(TEST)" tvg-logo="https://images.tvtoday.de/files/images/201610/1/tv-news-0802-premiere-verbreitet-arena-angebot-flaechendeckend,151935_aufmacher_100.jpg" group-title="SPORTSKI",ARENA SPORT 1x2 SR(TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/63195
-#EXTINF:-1 tvg-id="35539" tvg-name="HR: MAXSPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport1.png" group-title="SPORTSKI",HR: MAXSPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56215
-#EXTINF:-1 tvg-id="21472" tvg-name="HR: MAXSPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport2.png" group-title="SPORTSKI",HR: MAXSPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56216
-#EXTINF:-1 tvg-id="32169" tvg-name="SR: Arena Sport 1 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI",SR: Arena Sport 1 Premium
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38020
-#EXTINF:-1 tvg-id="32170" tvg-name="SR: Arena Sport 2 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI",SR: Arena Sport 2 Premium
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38021
-#EXTINF:-1 tvg-id="32168" tvg-name="SR: Arena Sport 3 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI",SR: Arena Sport 3 Premium
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38022
-#EXTINF:-1 tvg-id="" tvg-name="BA: Arena Premium 1" tvg-logo="http://logos.skini.link/logo/aArena-1-premium_266x2001.webp" group-title="SPORTSKI",BA: Arena Premium 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/109948
-#EXTINF:-1 tvg-id="" tvg-name="BA: Arena Premium 2" tvg-logo="http://logos.skini.link/logo/arena-2-premium_266x2001.webp" group-title="SPORTSKI",BA: Arena Premium 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/109949
-#EXTINF:-1 tvg-id="" tvg-name="BA: Arena Premium 3" tvg-logo="http://logos.skini.link/logo/arena-3-premium_480x2701.webp" group-title="SPORTSKI",BA: Arena Premium 3
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/109950
-#EXTINF:-1 tvg-id="" tvg-name="MNE: SPORT 1" tvg-logo="http://tv.luzer.org:8080/images/0fa5e5a17b8721930d52292820b73f53.png" group-title="SPORTSKI",MNE: SPORT 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/100457
-#EXTINF:-1 tvg-id="" tvg-name="MNE: SPORT 2" tvg-logo="http://tv.luzer.org:8080/images/2a7eb9e949e268948b2090cd25e7ef8c.png" group-title="SPORTSKI",MNE: SPORT 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/100458
-#EXTINF:-1 tvg-id="" tvg-name="MNE: SPORT 3" tvg-logo="http://tv.luzer.org:8080/images/452982dbd85d140af2c98701faad7db1.png" group-title="SPORTSKI",MNE: SPORT 3
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/100459
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="HR: SPORT KLUB HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub.png" group-title="SPORTSKI",HR: SPORT KLUB HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10274
-#EXTINF:-1 tvg-id="60" tvg-name="SR: SPORT KLUB HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub.png" group-title="SPORTSKI",SR: SPORT KLUB HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10275
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="HR: SPORT KLUB 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",HR: SPORT KLUB 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10276
-#EXTINF:-1 tvg-id="SportKlub1" tvg-name="HR: SPORT KLUB 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",HR: SPORT KLUB 1 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10438
-#EXTINF:-1 tvg-id="sport-klub" tvg-name="SR: SPORT KLUB 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",SR: SPORT KLUB 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10277
-#EXTINF:-1 tvg-id="sport-klub" tvg-name="SR: SPORT KLUB 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",SR: SPORT KLUB 1 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10441
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SR: SPORT KLUB 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",SR: SPORT KLUB 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10278
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SR: SPORT KLUB 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",SR: SPORT KLUB 2 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10442
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="HR: SPORT KLUB 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",HR: SPORT KLUB 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10279
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="HR: SPORT KLUB 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",HR: SPORT KLUB 2 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10439
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SR: SPORT KLUB 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",SR: SPORT KLUB 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10280
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SR: SPORT KLUB 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",SR: SPORT KLUB 3 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10443
-#EXTINF:-1 tvg-id="SK3HR" tvg-name="HR: SPORT KLUB 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",HR: SPORT KLUB 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10281
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",HR: SPORT KLUB 3 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10440
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="SR: SPORT KLUB 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub4.png" group-title="SPORTSKI",SR: SPORT KLUB 4 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10282
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="HR: SPORT KLUB 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub4.png" group-title="SPORTSKI",HR: SPORT KLUB 4 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10283
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="SR: SPORT KLUB 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub5.png" group-title="SPORTSKI",SR: SPORT KLUB 5 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10284
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="HR: SPORT KLUB 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub5.png" group-title="SPORTSKI",HR: SPORT KLUB 5 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10285
-#EXTINF:-1 tvg-id="" tvg-name="SR: SPORT KLUB 6" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub6.png" group-title="SPORTSKI",SR: SPORT KLUB 6
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38023
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 6" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub6.png" group-title="SPORTSKI",HR: SPORT KLUB 6
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38024
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 7" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub7.png" group-title="SPORTSKI",HR: SPORT KLUB 7
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38025
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 8" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub8.png" group-title="SPORTSKI",HR: SPORT KLUB 8
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38026
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 9" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub9.png" group-title="SPORTSKI",HR: SPORT KLUB 9
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38027
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 10" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub10.png" group-title="SPORTSKI",HR: SPORT KLUB 10
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38028
-#EXTINF:-1 tvg-id="eurosport" tvg-name="SR: EURO SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/eurosport1.jpg" group-title="SPORTSKI",SR: EURO SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10289
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="SR: EURO SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/eurosport2.jpg" group-title="SPORTSKI",SR: EURO SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10290
-#EXTINF:-1 tvg-id="" tvg-name="Fight Channel" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightchannel.png" group-title="SPORTSKI",Fight Channel
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10292
-#EXTINF:-1 tvg-id="Fight Channel-EXYU" tvg-name="ID: FIGHT SPORTS(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightsports.png" group-title="SPORTSKI",ID: FIGHT SPORTS(TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10294
-#EXTINF:-1 tvg-id="" tvg-name="PL: FIGHT KLUB(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightklub.png" group-title="SPORTSKI",PL: FIGHT KLUB(TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10295
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT FIGHT (TEST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/640px-Polsat_Sport_Fight_2021_gradient.svg.png" group-title="SPORTSKI",PL: POLSAT SPORT FIGHT (TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10296
-#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://podcast-octogon.fr/wp-content/uploads/2015/02/UFC-kombat-sport.jpg" group-title="SPORTSKI",PT: KOMBAT SPORT
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10297
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightnetwork.png" group-title="SPORTSKI",FIGHT NETWORK(TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10298
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-1" tvg-name="B LIGA 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10321
-#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="B LIGA 1 HD(L2)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 1 HD(L2)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10322
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-2" tvg-name="B LIGA 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10323
-#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="B LIGA 2 HD(L2)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 2 HD(L2)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10324
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="B LIGA 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10325
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 4 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10326
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="B LIGA 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 5 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10327
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="B LIGA 6 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 6 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10328
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 7 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 7 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10329
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 8 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 8 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10330
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 9 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 9 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10331
-#EXTINF:-1 tvg-id="" tvg-name="B SLIGA 10 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B SLIGA 10 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10332
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/artsport.png" group-title="SPORTSKI",AL: ART SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10344
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/artsport.png" group-title="SPORTSKI",AL: ART SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10345
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/artsport.png" group-title="SPORTSKI",AL: ART SPORT 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10346
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/ksport1.png" group-title="SPORTSKI",AL: K SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10347
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/ksport2.png" group-title="SPORTSKI",AL: K SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10348
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/ksport3.png" group-title="SPORTSKI",AL: K SPORT 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10349
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport1.png" group-title="SPORTSKI",AL: SUPER SPORT 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10350
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport2.png" group-title="SPORTSKI",AL: SUPER SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10351
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport3.png" group-title="SPORTSKI",AL: SUPER SPORT 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10352
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport4.png" group-title="SPORTSKI",AL: SUPER SPORT 4 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10353
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport5.png" group-title="SPORTSKI",AL: SUPER SPORT 5 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10354
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsports.png" group-title="SPORTSKI",AL: TRING SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10355
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsport2.png" group-title="SPORTSKI",AL: TRING SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10356
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsport3.png" group-title="SPORTSKI",AL: TRING SPORT 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10357
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsport4.png" group-title="SPORTSKI",AL: TRING SPORT 4 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10358
-#EXTINF:-1 tvg-id="" tvg-name="Cricket HD" tvg-logo="" group-title="SPORTSKI",Cricket HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/64978
-#EXTINF:-1 tvg-id="" tvg-name="New Golf HD" tvg-logo="" group-title="SPORTSKI",New Golf HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/64979
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/btsport1.png" group-title="SPORTSKI",UK: BT SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10373
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/btsport2.png" group-title="SPORTSKI",UK: BT SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10374
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/btsportespn.png" group-title="SPORTSKI",UK: BT SPORT ESPN HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10375
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportsaction.png" group-title="SPORTSKI",UK: SKY SPORTS ACTION HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10376
-#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/barca.png" group-title="SPORTSKI",ES: BARCA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10379
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/movistar.png" group-title="SPORTSKI",ES: MOVISTAR DEPORTES 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10380
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/rmcsport.png" group-title="SPORTSKI",FR: RMC SPORT 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10394
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/rmcsport.png" group-title="SPORTSKI",FR: RMC SPORT 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10395
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportarena.png" group-title="SPORTSKI",IT: SKY SPORT ARENA HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10399
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT FOOTBALL HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportsfootball.png" group-title="SPORTSKI",IT: SKY SPORT FOOTBALL HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10400
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportnba.jpg" group-title="SPORTSKI",IT: SKY SPORT NBA HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10401
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT SERIE A HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportserie.png" group-title="SPORTSKI",IT: SKY SPORT SERIE A HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10402
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportuno.png" group-title="SPORTSKI",IT: SKY SPORT UNO HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10403
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supertenis.png" group-title="SPORTSKI",IT: SUPER TENNIS HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10404
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 1" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10406
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 2" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10407
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 3
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10408
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 4
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10409
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigosportselect.jpg" group-title="SPORTSKI",NL: ZIGGO SPORT SELECT HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10412
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO VOETBAL HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigosportvoetbal.jpg" group-title="SPORTSKI",NL: ZIGGO VOETBAL HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10413
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO RACING HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigoracing.png" group-title="SPORTSKI",NL: ZIGGO RACING HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10414
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigosportgolf.png" group-title="SPORTSKI",NL: ZIGGO SPORT GOLF HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10415
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportstv.png" group-title="SPORTSKI",TR: SPORTS TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10426
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tivibuspor.png" group-title="SPORTSKI",TR: TIVIBU SPOR 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10427
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tivibuspor.png" group-title="SPORTSKI",TR: TIVIBU SPOR 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10428
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tivibuspor.png" group-title="SPORTSKI",TR: TIVIBU SPOR 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10429
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2 HD+" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/trtspor2.jpg" group-title="SPORTSKI",TR: TRT SPOR 2 HD+
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/10431
+#EXTINF:-1 tvg-name="MAXSPORT 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/HNTV.jpg" group-title="Sport",MAXSPORT 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8623
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8592
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8593
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8594
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8595
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8596
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Sport 1 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 Premium
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8597
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Sport 2 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 Premium
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8598
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena Sport 3 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 Premium
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8599
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8601
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8602
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8603
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8604
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8605
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/arena6_logo.png" group-title="Sport",Arena Sport 6 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8606
+#EXTINF:-1 tvg-id="dazn-1-de" tvg-name="Dazn 1 Bar" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/DAZN_1_DE_logo.png" group-title="Sport",Dazn 1 Bar
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8608
+#EXTINF:-1 tvg-id="dazn-2-de" tvg-name="Dazn 2 Bar" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/DAZN_2_DE_logo.png" group-title="Sport",Dazn 2 Bar
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8609
+#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="BT Sport 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_GB_logo.png" group-title="Sport",BT Sport 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8610
+#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="BT Sport 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_GB_logo.png" group-title="Sport",BT Sport 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8611
+#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="BT Sport 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_3_GB_logo.png" group-title="Sport",BT Sport 3
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8612
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8613
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8614
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 3
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8615
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="EuroSport 2 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",EuroSport 2 HD
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8617
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/NBA_TV.png" group-title="Sport",NBA TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8618
+#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Zvezda%20TV.png" group-title="Sport",Zvezda TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8619
+#EXTINF:-1 tvg-id="" tvg-name="Partizan TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Partizan%20TV.png" group-title="Sport",Partizan TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8620
+#EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fight-channel-logo.png" group-title="Sport",Fight Channel
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8621
+#EXTINF:-1 tvg-id="" tvg-name="UFC/FightBox" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Fight_Channel_World_logo.png" group-title="Sport",UFC/FightBox
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8622
+#EXTINF:-1 tvg-id="htv1" tvg-name="HNTV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/HNTV.jpg" group-title="Sport",HNTV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8623
+#EXTINF:-1 tvg-id="htv1" tvg-name="Kreator TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kreator%20TV.jpg" group-title="Sport",Kreator TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8624
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov i Ribolov" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Lov%20i%20ribolov.png" group-title="Sport",Lov i Ribolov
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8625
+#EXTINF:-1 tvg-id="" tvg-name="Sport Digital HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sport%20Digital.jpg" group-title="Sport",Sport Digital HD
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8626
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="Sport Klub 1 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",Sport Klub 1 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8627
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="Sport Klub 2 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",Sport Klub 2 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8628
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",Sport Klub 3 HR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8629
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="Sport Klub 1 SR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",Sport Klub 1 SR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8630
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="Sport Klub 2 SR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",Sport Klub 2 SR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8631
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 SR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",Sport Klub 3 SR
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8632
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="Sport Klub 4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK4_HR_logo.png" group-title="Sport",Sport Klub 4
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8633
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="Sport Klub 5" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK5_HR_logo.png" group-title="Sport",Sport Klub 5
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8634
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="Sport Klub 6" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK6_HR_logo.png" group-title="Sport",Sport Klub 6
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8635
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="Sport Klub 7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK7_RS_logo.png" group-title="Sport",Sport Klub 7
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8636
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="Sport Klub 8" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK8_RS_logo.png" group-title="Sport",Sport Klub 8
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8637
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="Sport Klub 9" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK9_RS_logo.png" group-title="Sport",Sport Klub 9
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8638
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="Sport Klub 10" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK10_RS_logo.png" group-title="Sport",Sport Klub 10
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8639
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sport%20klub%20start.jpg" group-title="Sport",Sport Klub Start
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8640
+#EXTINF:-1 tvg-id="real-madrid-tv" tvg-name="Real Madrid TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Real%20Madrid.png" group-title="Sport",Real Madrid TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8641
+#EXTINF:-1 tvg-id="barca-tv" tvg-name="Barca TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Barca%20TV.jpg" group-title="Sport",Barca TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8642
+#EXTINF:-1 tvg-id="" tvg-name="Bayern TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/bayern%20tv.png" group-title="Sport",Bayern TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8643
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SPORT%201.png" group-title="Sport",Sport 1 HD
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8644
+#EXTINF:-1 tvg-id="" tvg-name="Sportska TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sportska%20TV.jpg" group-title="Sport",Sportska TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8645
+#EXTINF:-1 tvg-id="sos" tvg-name="SOS" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SOS_RS_logo.png" group-title="Sport",SOS
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8646
+#EXTINF:-1 tvg-id="supertennis-hd" tvg-name="Super Tennis" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERTENNIS.png" group-title="Sport",Super Tennis
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8647
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax.png" group-title="Film",Cinemax 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8649
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax-2.png" group-title="Film",Cinemax 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8650
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_action_logo.png" group-title="Film",Cinestar Action
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8651
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinestartv_fantasy_logo.png" group-title="Film",CineStar Fantasy
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8652
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Film",CineStar Premiere 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8653
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="Film",CineStar Premiere 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8654
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinestar_TV1_logo.png" group-title="Film",CineStar TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8655
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="Cinestar TV 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Film",Cinestar TV 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8656
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="Cinestar Comedy" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/cinestartv_comedy_logo.png" group-title="Film",Cinestar Comedy
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8657
+#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinemania-logo.png" group-title="Film",Cinemania
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8658
+#EXTINF:-1 tvg-id="film-klub" tvg-name="Film Klub" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/14.%20FILM%20KLUB.png" group-title="Film",Film Klub
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8659
+#EXTINF:-1 tvg-id="filmbox-hd" tvg-name="FilmBox Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/filmbox_extra_pl_hd.png" group-title="Film",FilmBox Extra
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8660
+#EXTINF:-1 tvg-id="fox" tvg-name="Fox" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-logo.png" group-title="Film",Fox
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8661
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox_crime_logo.png" group-title="Film",Fox Crime
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8662
+#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox_life_ru.png" group-title="Film",Fox Life
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8663
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-movies-logo.png" group-title="Film",Fox Movies
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8664
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO Adria
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8666
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO 2 HD
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8667
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO 3 HD
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8668
+#EXTINF:-1 tvg-id="" tvg-name="HBO GO" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO GO
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8669
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8670
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8671
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 4" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 4
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8672
+#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SuperStar" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERSTAR.png" group-title="Film",SuperStar
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8673
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/25.%20KINO%20TV.png" group-title="Film",Kino TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8674
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="Klasik Tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/KlasikTV_logo.png" group-title="Film",Klasik Tv
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8675
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/27.%20M1%20FILM.png" group-title="Film",M1 Film
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8676
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickBox TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PICKBOX.png" group-title="Film",PickBox TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8677
+#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/scifi_adria_logo.jpg" group-title="Film",SciFi
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8678
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/amc_logo_2016.png" group-title="Film",AMC
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8679
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/axn-logo.png" group-title="Film",AXN
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8680
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/axn_spin_logo.png" group-title="Film",AXN Spin
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8681
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/vh1-classic-logo.png" group-title="Muzika",VH1 Classic TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8682
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/comedy-centra-extra-logo.png" group-title="Film",Comedy Central Extra
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8683
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/viasat-tv-1000.png" group-title="Film",TV 1000
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8684
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8685
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8686
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 3
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8687
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 4
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8688
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 5
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8689
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 6
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8690
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 8
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8692
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 9
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8693
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Gold" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Gold
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8697
+#EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/dm-sat-logo.png" group-title="Muzika",DM Sat
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8699
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Grand_TV_logo.png" group-title="Muzika",Grand 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8700
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand Narodna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Grand_TV_logo.png" group-title="Muzika",Grand Narodna TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8701
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/IzvornaTV_logo.png" group-title="Muzika",Izvorna TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8702
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/jugoton-tv-logo.png" group-title="Muzika",Jugoton TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8703
+#EXTINF:-1 tvg-id="" tvg-name="K::CN 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kopernikus.jfif" group-title="Muzika",K::CN 1
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8704
+#EXTINF:-1 tvg-id="k-cn-music" tvg-name="K::CN 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kopernikus.jfif" group-title="Muzika",K::CN 2
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8705
+#EXTINF:-1 tvg-id="" tvg-name="K::CN 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kopernikus.jfif" group-title="Muzika",K::CN 3
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8706
+#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sevdahtv-250x187-logo.png" group-title="Muzika",Sevdah TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8707
+#EXTINF:-1 tvg-id="" tvg-name="Moj Kanal BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/MOJ%20KANAL%20OK.png" group-title="Muzika",Moj Kanal BiH
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8708
+#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-logo.png" group-title="Muzika",MTV Adria
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8709
+#EXTINF:-1 tvg-id="mtv-base" tvg-name="MTV Base" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-base-logo.png" group-title="Muzika",MTV Base
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8710
+#EXTINF:-1 tvg-id="" tvg-name="Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/NARODNA%20TV.jpg" group-title="Muzika",Narodna TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8711
+#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV Hits" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/MTV_Hits_FR_logo.png" group-title="Muzika",MTV Hits
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8712
+#EXTINF:-1 tvg-id="balkanika" tvg-name="Balkanika TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/balkanika-logo.png" group-title="Muzika",Balkanika TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8713
+#EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/planeta_tv.png" group-title="Muzika",Planeta TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8714
+#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/idj_tv_logo.png" group-title="Muzika",IDJ TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8715
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="Duga TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png" group-title="Muzika",Duga TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8716
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry 24 h" tvg-logo="http://ikonice.zvjerka.com/ikonice/Djeciji%20UBAČENO%20IMA%20VISKA/4.%20tom%20and%20jerry.png" group-title="Djeciji",Tom and Jerry 24 h
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8718
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/cartoon_network_logo.png" group-title="Djeciji",Cartoon Network
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8719
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/babatv-logo.png" group-title="Djeciji",Baby TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8720
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/boomerang_it_logo.png" group-title="Djeciji",Boomerang
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8721
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/disney_channel_2019.png" group-title="Djeciji",Disney channel
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8722
+#EXTINF:-1 tvg-id="" tvg-name="Mini Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mini_ultra_logo.png" group-title="Djeciji",Mini Ultra TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8723
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/minimax-logo.png" group-title="Djeciji",Minimax
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8724
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nick_jr_logo.png" group-title="Djeciji",Nick Jr.
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8725
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nickelodeon-logo.png" group-title="Djeciji",Nickelodeon
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8726
+#EXTINF:-1 tvg-id="" tvg-name="Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/ultra-tv-logo.png" group-title="Djeciji",Ultra TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8727
+#EXTINF:-1 tvg-id="" tvg-name="TNT Kids" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/tnt-kids_logo.png" group-title="Djeciji",TNT Kids
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8728
+#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pikaboo_logo.png" group-title="Djeciji",Pikaboo
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8729
+#EXTINF:-1 tvg-id="toggo-plus" tvg-name="Toggo Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/toggo-logoUntitled-1.png" group-title="Djeciji",Toggo Plus
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8730
+#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nedostaju/Masa%20i%20Medo.webp" group-title="Djeciji",Masa i Medo
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8732
+#EXTINF:-1 tvg-id="" tvg-name="Sundjer Bob" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nedostaju/Sundjer%20Bob.png" group-title="Djeciji",Sundjer Bob
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8733
+#EXTINF:-1 tvg-id="vavoom" tvg-name="Vavoom TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/vavoom.png" group-title="Djeciji",Vavoom TV
+http://bntvs.com:2052/mireltz/HsfY9gtnTn/8734
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo.png" group-title="FILMSKI",HBO 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/389
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo.png" group-title="FILMSKI",HBO 1 BACKUP
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/1146
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo2.png" group-title="FILMSKI",HBO 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/390
-#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo3.png" group-title="FILMSKI",HBO 3 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/391
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CINESTAR PREMIERE 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarpremiere1.png" group-title="FILMSKI",CINESTAR PREMIERE 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/419
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CINESTAR PREMIERE 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarpremiere2.png" group-title="FILMSKI",CINESTAR PREMIERE 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/420
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="CINESTAR TV 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestar1.png" group-title="FILMSKI",CINESTAR TV 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/421
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestar2.png" group-title="FILMSKI",CINESTAR TV 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/422
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV ACTION" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestaractiom.png" group-title="FILMSKI",CINESTAR TV ACTION
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/423
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CINESTAR FANTASY" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarfantasy.png" group-title="FILMSKI",CINESTAR FANTASY
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/424
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR COMEDY" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarcomedy.png" group-title="FILMSKI",CINESTAR COMEDY
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/425
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinemax1.png" group-title="FILMSKI",CINEMAX 1 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/426
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinemax2.png" group-title="FILMSKI",CINEMAX 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/427
-#EXTINF:-1 tvg-id="cinemania" tvg-name="CINEMANIA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinemania.png" group-title="FILMSKI",CINEMANIA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/428
-#EXTINF:-1 tvg-id="fox" tvg-name="FOX HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/fox.png" group-title="FILMSKI",FOX HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/429
-#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX LIFE HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/foxlife.png" group-title="FILMSKI",FOX LIFE HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/430
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX CRIME HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/foxcrime.png" group-title="FILMSKI",FOX CRIME HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/431
-#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA CHANEL" tvg-logo="http://live.nettv.pro/icons/FILMSKI/divachannel.png" group-title="FILMSKI",DIVA CHANEL
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/433
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN ADRIA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/axnadria.png" group-title="FILMSKI",AXN ADRIA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/434
-#EXTINF:-1 tvg-id="" tvg-name="AXN SPIN" tvg-logo="http://live.nettv.pro/icons/FILMSKI/axnspin.png" group-title="FILMSKI",AXN SPIN
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/435
-#EXTINF:-1 tvg-id="" tvg-name="TV 1000" tvg-logo="http://live.nettv.pro/icons/FILMSKI/tv1000.png" group-title="FILMSKI",TV 1000
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/436
-#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://live.nettv.pro/icons/FILMSKI/klasiktv.png" group-title="FILMSKI",KLASIK TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/437
-#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/epicdrama.png" group-title="FILMSKI",EPIC DRAMA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/438
-#EXTINF:-1 tvg-id="" tvg-name="M1 FILM" tvg-logo="http://live.nettv.pro/icons/FILMSKI/m1film.png" group-title="FILMSKI",M1 FILM
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/439
-#EXTINF:-1 tvg-id="m1-gold" tvg-name="M GOLD HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/m1gold.jpg" group-title="FILMSKI",M GOLD HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/440
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://live.nettv.pro/icons/FILMSKI/amc.png" group-title="FILMSKI",AMC
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/19963
-#EXTINF:-1 tvg-id="" tvg-name="PICKBOX HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/pickbox.png" group-title="FILMSKI",PICKBOX HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/441
-#EXTINF:-1 tvg-id="star-tv" tvg-name="STAR TV HD" tvg-logo="http://super-tvnow.com:80/images/8096c9a82dbd998f1eda9a6728103412.png" group-title="FILMSKI",STAR TV HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/442
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR TV" tvg-logo="http://live.nettv.pro/icons/FILMSKI/superstartv.png" group-title="FILMSKI",SUPERSTAR TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/443
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL EXTRA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/comedycentral.jpg" group-title="FILMSKI",COMEDY CENTRAL EXTRA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/444
-#EXTINF:-1 tvg-id="" tvg-name="FILM BOX EXTRA HD" tvg-logo="" group-title="FILMSKI",FILM BOX EXTRA HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/445
-#EXTINF:-1 tvg-id="" tvg-name="FILM BOX PLUS HD" tvg-logo="" group-title="FILMSKI",FILM BOX PLUS HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/446
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 1" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/447
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 2" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/448
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 3" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 3
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/449
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 4" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 4
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/450
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 5" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 5
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/451
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 6" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 6
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/452
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 7" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 7
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/453
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 8" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 8
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/454
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 9" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 9
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/455
-#EXTINF:-1 tvg-id="25402" tvg-name="HGTV" tvg-logo="http://live.nettv.pro/icons/DOKU/hgtv.png" group-title="DOKUMENTARNI",HGTV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/47457
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATGEO HD" tvg-logo="http://live.nettv.pro/icons/DOKU/natgeo.png" group-title="DOKUMENTARNI",NATGEO HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/972
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="NATGEO WILD HD" tvg-logo="http://live.nettv.pro/icons/DOKU/natgeowild.png" group-title="DOKUMENTARNI",NATGEO WILD HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/973
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://live.nettv.pro/icons/DOKU/animalplanet.png" group-title="DOKUMENTARNI",ANIMAL PLANET HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/974
-#EXTINF:-1 tvg-id="discovery-europe" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DOKU/discoverychannel.png" group-title="DOKUMENTARNI",DISCOVERY CHANNEL HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/975
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://live.nettv.pro/icons/DOKU/discoveryscience.jpg" group-title="DOKUMENTARNI",DISCOVERY SCIENCE HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/976
-#EXTINF:-1 tvg-id="" tvg-name="ID DISCOVERY HD" tvg-logo="http://live.nettv.pro/icons/DOKU/iddiscovery.png" group-title="DOKUMENTARNI",ID DISCOVERY HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/977
-#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DOKU/history.png" group-title="DOKUMENTARNI",HISTORY CHANNEL HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/978
-#EXTINF:-1 tvg-id="history-channel-2" tvg-name="HISTORY CHANNEL 2 HD" tvg-logo="http://live.nettv.pro/icons/DOKU/history2.png" group-title="DOKUMENTARNI",HISTORY CHANNEL 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/979
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY HD" tvg-logo="http://live.nettv.pro/icons/DOKU/viasthistory.jpg" group-title="DOKUMENTARNI",VIASAT HISTORY HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/980
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE HD" tvg-logo="http://live.nettv.pro/icons/DOKU/viastnature.jpg" group-title="DOKUMENTARNI",VIASAT NATURE HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/981
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="VIASAT EXPLORER" tvg-logo="http://live.nettv.pro/icons/DOKU/viastexplorer.png" group-title="DOKUMENTARNI",VIASAT EXPLORER
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/982
-#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH HD" tvg-logo="http://live.nettv.pro/icons/DOKU/bbcearth.png" group-title="DOKUMENTARNI",BBC EARTH HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/983
-#EXTINF:-1 tvg-id="planet-earth" tvg-name="PLANET EARTH  HD" tvg-logo="http://live.nettv.pro/icons/DOKU/planetearth.png" group-title="DOKUMENTARNI",PLANET EARTH  HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/984
-#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 KITCHEN HD" tvg-logo="http://live.nettv.pro/icons/DOKU/24kitchen.jpg" group-title="DOKUMENTARNI",24 KITCHEN HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/986
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC HD" tvg-logo="http://live.nettv.pro/icons/DOKU/tlc.png" group-title="DOKUMENTARNI",TLC HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/987
-#EXTINF:-1 tvg-id="" tvg-name="DOKU TV" tvg-logo="http://live.nettv.pro/icons/DOKU/doku.png" group-title="DOKUMENTARNI",DOKU TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/37766
-#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX HD" tvg-logo="http://live.nettv.pro/icons/DOKU/docubox.png" group-title="DOKUMENTARNI",DOCUBOX HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/37767
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY HD" tvg-logo="http://live.nettv.pro/icons/DOKU/cbsreality.png" group-title="DOKUMENTARNI",CBS REALITY HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/988
-#EXTINF:-1 tvg-id="" tvg-name="LOV & RIBOLOV HD" tvg-logo="http://live.nettv.pro/icons/DOKU/loviribolov.png" group-title="DOKUMENTARNI",LOV & RIBOLOV HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/989
-#EXTINF:-1 tvg-id="eenterntainment" tvg-name="ENTERTAINMENT HD" tvg-logo="http://live.nettv.pro/icons/DOKU/entertainment.png" group-title="DOKUMENTARNI",ENTERTAINMENT HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/990
-#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION HD" tvg-logo="http://live.nettv.pro/icons/DOKU/crimeinvestigation.jpg" group-title="DOKUMENTARNI",CRIME INVESTIGATION HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/991
-#EXTINF:-1 tvg-id="" tvg-name="DA VINCI LEARNING HD" tvg-logo="http://live.nettv.pro/icons/DOKU/davinci.png" group-title="DOKUMENTARNI",DA VINCI LEARNING HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/992
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DOKU/travel.png" group-title="DOKUMENTARNI",TRAVEL CHANNEL HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/993
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO XTRA HD" tvg-logo="http://live.nettv.pro/icons/DOKU/discoveryturbo.png" group-title="DOKUMENTARNI",DISCOVERY TURBO XTRA HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/994
-#EXTINF:-1 tvg-id="" tvg-name="WOMAN ᴴᴰ (TEST)" tvg-logo="http://live.nettv.pro/icons/DOKU/woman.jpg" group-title="DOKUMENTARNI",WOMAN ᴴᴰ (TEST)
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/995
 
-#EXTINF:-1 tvg-id="" tvg-name="DJ: RTL KOCKICA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/rtlkockica.png" group-title="DJECIJI",DJ: RTL KOCKICA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3934
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="DJ: PINK KIDS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/pinkkids.png" group-title="DJECIJI",DJ: PINK KIDS
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3935
-#EXTINF:-1 tvg-id="minimax" tvg-name="DJ: MINIMAX" tvg-logo="http://live.nettv.pro/icons/DJECIJI/minimax.png" group-title="DJECIJI",DJ: MINIMAX
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3936
-#EXTINF:-1 tvg-id="" tvg-name="DJ: NICKELODEON SR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickelodeon.png" group-title="DJECIJI",DJ: NICKELODEON SR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/55498
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="DJ: NICKELODEON HR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickelodeon.png" group-title="DJECIJI",DJ: NICKELODEON HR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3937
-#EXTINF:-1 tvg-id="" tvg-name="DJ: NICK JR SR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickjr.png" group-title="DJECIJI",DJ: NICK JR SR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/55497
-#EXTINF:-1 tvg-id="" tvg-name="DJ: NICK JR HR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickjr.png" group-title="DJECIJI",DJ: NICK JR HR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3939
-#EXTINF:-1 tvg-id="pikaboo" tvg-name="DJ: PIKABOO" tvg-logo="http://live.nettv.pro/icons/DJECIJI/pikabo.png" group-title="DJECIJI",DJ: PIKABOO
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3940
-#EXTINF:-1 tvg-id="babytv" tvg-name="DJ: BABY TV" tvg-logo="http://live.nettv.pro/icons/DJECIJI/babay.png" group-title="DJECIJI",DJ: BABY TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3943
-#EXTINF:-1 tvg-id="tnt-kids" tvg-name="DJ: TNT KIDS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/tntkids.png" group-title="DJECIJI",DJ: TNT KIDS
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3944
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="DJ: SUPER KIDS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/superkids.png" group-title="DJECIJI",DJ: SUPER KIDS
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3945
-#EXTINF:-1 tvg-id="" tvg-name="DJ: MINI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/mini.png" group-title="DJECIJI",DJ: MINI
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3938
-#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KIKA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/kika.png" group-title="DJECIJI",DE: KIKA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3946
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="DE: SUPER RTL" tvg-logo="http://live.nettv.pro/icons/DJECIJI/superrtč.png" group-title="DJECIJI",DE: SUPER RTL
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3947
-#EXTINF:-1 tvg-id="toggo-plus" tvg-name="DE: TOGGO PLUS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/toggoplus.png" group-title="DJECIJI",DE: TOGGO PLUS
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3948
-#EXTINF:-1 tvg-id="nickelodeon-de" tvg-name="DE: NICKELODEON" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickelodeon.png" group-title="DJECIJI",DE: NICKELODEON
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3949
-#EXTINF:-1 tvg-id="disney-channel-de" tvg-name="DE: DISNEY CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DJECIJI/disnay.png" group-title="DJECIJI",DE: DISNEY CHANNEL HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3950
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY JUNIOR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/disnay.png" group-title="DJECIJI",DE: DISNEY JUNIOR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3951
-#EXTINF:-1 tvg-id="boomerang-de" tvg-name="DE: BOOMERANG HD" tvg-logo="http://live.nettv.pro/icons/DJECIJI/boomerang.png" group-title="DJECIJI",DE: BOOMERANG HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3952
-#EXTINF:-1 tvg-id="cartoon-network-de" tvg-name="DE: CARTOON  NETWORK HD" tvg-logo="http://live.nettv.pro/icons/DJECIJI/cartnonetwork.png" group-title="DJECIJI",DE: CARTOON  NETWORK HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3953
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MASA I MEDO" tvg-logo="http://live.nettv.pro/icons/DJECIJI/masaimedo.jpg" group-title="DJECIJI",24/7 MASA I MEDO
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3941
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TOM & JERRY" tvg-logo="http://live.nettv.pro/icons/DJECIJI/tomandjerry.jpg" group-title="DJECIJI",24/7 TOM & JERRY
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3942
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STRUMPFOVI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/strumpfovi.jpg" group-title="DJECIJI",24/7 STRUMPFOVI
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38553
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI",24/7 MR BEAN
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56425
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB GRADITELJ" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI",24/7 BOB GRADITELJ
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56426
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KUHARICA KIFLICA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI",24/7 KUHARICA KIFLICA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56427
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PROFESOR BALTAZAR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI",24/7 PROFESOR BALTAZAR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56429
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TIMON I PUMBA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI",24/7 TIMON I PUMBA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56432
-#EXTINF:-1 tvg-id="" tvg-name="24/7  ALVINNN!!! I NEMIRNE VJEVERICE" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI",24/7  ALVINNN!!! I NEMIRNE VJEVERICE
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56433
-#EXTINF:-1 tvg-id="" tvg-name="24/7  MOJ MALI PONI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI",24/7  MOJ MALI PONI
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56435
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="MUZ: GRAND TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/grand.png" group-title="MUZICKI",MUZ: GRAND TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9880
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: GRAND 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/grand.png" group-title="MUZICKI",MUZ: GRAND 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9881
-#EXTINF:-1 tvg-id="dmsat" tvg-name="MUZ: DM SAT" tvg-logo="http://live.nettv.pro/icons/MUZICKI/dmsat.png" group-title="MUZICKI",MUZ: DM SAT
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9882
-#EXTINF:-1 tvg-id="pink-folk" tvg-name="MUZ: PINK FOLK 1" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkfolk1.png" group-title="MUZICKI",MUZ: PINK FOLK 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9883
-#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="MUZ: PINK FOLK 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkfolk2.png" group-title="MUZICKI",MUZ: PINK FOLK 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9884
-#EXTINF:-1 tvg-id="bn-music" tvg-name="MUZ: BN MUSIC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/bnmusic.png" group-title="MUZICKI",MUZ: BN MUSIC
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9885
-#EXTINF:-1 tvg-id="pink-music" tvg-name="MUZ: PINK MUSIC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkmusic.png" group-title="MUZICKI",MUZ: PINK MUSIC
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9886
-#EXTINF:-1 tvg-id="pink-music-2" tvg-name="MUZ: PINK MUSIC 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkmusic.png" group-title="MUZICKI",MUZ: PINK MUSIC 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9887
-#EXTINF:-1 tvg-id="hayat-folk" tvg-name="MUZ: HAYAT FOLK" tvg-logo="http://live.nettv.pro/icons/MUZICKI/hayatfolk.png" group-title="MUZICKI",MUZ: HAYAT FOLK
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9888
-#EXTINF:-1 tvg-id="hayat-music" tvg-name="MUZ: HAYAT MUSIC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/hayatmusic.png" group-title="MUZICKI",MUZ: HAYAT MUSIC
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9889
-#EXTINF:-1 tvg-id="cmc" tvg-name="MUZ: CMC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/cmc.png" group-title="MUZICKI",MUZ: CMC
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9890
-#EXTINF:-1 tvg-id="balkanika" tvg-name="MUZ: BALKANIKA TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/balkanika.png" group-title="MUZICKI",MUZ: BALKANIKA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9891
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: IDJ TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/idj.png" group-title="MUZICKI",MUZ: IDJ TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9892
-#EXTINF:-1 tvg-id="imperiatv" tvg-name="MUZ: IMPERIA TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/imperia.png" group-title="MUZICKI",MUZ: IMPERIA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9893
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: SEHARA TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/sehara.jpg" group-title="MUZICKI",MUZ: SEHARA TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9894
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: SEVDAH TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/sevdah.png" group-title="MUZICKI",MUZ: SEVDAH TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9895
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: YU PLANET" tvg-logo="http://live.nettv.pro/icons/MUZICKI/yuplanet.png" group-title="MUZICKI",MUZ: YU PLANET
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9896
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: JUGOTON" tvg-logo="http://live.nettv.pro/icons/MUZICKI/jugoton.png" group-title="MUZICKI",MUZ: JUGOTON
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9897
-#EXTINF:-1 tvg-id="pink-n-roll" tvg-name="MUZ: PINK & ROLL" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkroll.png" group-title="MUZICKI",MUZ: PINK & ROLL
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9898
-#EXTINF:-1 tvg-id="pink-hits" tvg-name="MUZ: PINK HITS 1" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkhits.png" group-title="MUZICKI",MUZ: PINK HITS 1
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9899
-#EXTINF:-1 tvg-id="pink-hits-2" tvg-name="MUZ: PINK HITS 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkhits2.png" group-title="MUZICKI",MUZ: PINK HITS 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9900
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: MTV LIVE" tvg-logo="http://live.nettv.pro/icons/MUZICKI/mtvlive.jpg" group-title="MUZICKI",MUZ: MTV LIVE
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9901
-#EXTINF:-1 tvg-id="vh1classic" tvg-name="MUZ: MTV 80'" tvg-logo="http://live.nettv.pro/icons/MUZICKI/mtv80.png" group-title="MUZICKI",MUZ: MTV 80'
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38548
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: MTV CLUB" tvg-logo="http://live.nettv.pro/icons/MUZICKI/mtvclub.png" group-title="MUZICKI",MUZ: MTV CLUB
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38550
-#EXTINF:-1 tvg-id="mtvhits" tvg-name="MUZ: MTV HITS" tvg-logo="http://live.nettv.pro/icons/MUZICKI/mtvhits.png" group-title="MUZICKI",MUZ: MTV HITS
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9904
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: TOXIC TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/toxictv.png" group-title="MUZICKI",MUZ: TOXIC TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38544
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: KAFANSKA HD" tvg-logo="http://live.nettv.pro/icons/MUZICKI/kafanska.jpg" group-title="MUZICKI",MUZ: KAFANSKA HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38542
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: KAFANSKA 2 HD" tvg-logo="http://live.nettv.pro/icons/MUZICKI/kafanska.jpg" group-title="MUZICKI",MUZ: KAFANSKA 2 HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38543
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: KRONE HIT" tvg-logo="http://live.nettv.pro/icons/MUZICKI/kronetv.png" group-title="MUZICKI",MUZ: KRONE HIT
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/9905
 
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC" tvg-logo="http://logo.smart-iptvpro.info/224.sr.png" group-title="XXX FOR ADULT",PINK EROTIC
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70666
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 2" tvg-logo="http://logo.smart-iptvpro.info/225.sr.png" group-title="XXX FOR ADULT",PINK EROTIC 2
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70667
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 3" tvg-logo="http://logo.smart-iptvpro.info/226.sr.png" group-title="XXX FOR ADULT",PINK EROTIC 3
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70668
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 4" tvg-logo="http://logo.smart-iptvpro.info/227.sr.png" group-title="XXX FOR ADULT",PINK EROTIC 4
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70669
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 5" tvg-logo="http://logo.smart-iptvpro.info/228.sr.png" group-title="XXX FOR ADULT",PINK EROTIC 5
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70670
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 6" tvg-logo="http://logo.smart-iptvpro.info/229.sr.png" group-title="XXX FOR ADULT",PINK EROTIC 6
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70671
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 7" tvg-logo="http://logo.smart-iptvpro.info/230.sr.png" group-title="XXX FOR ADULT",PINK EROTIC 7
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70672
-#EXTINF:-1 tvg-id="" tvg-name="DORCEL TV" tvg-logo="https://www.a1.hr/var/ezflow_site/storage/images/televizija/dorcel_tv/22706-3-cro-HR/dorcel_tv.png" group-title="XXX FOR ADULT",DORCEL TV
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70673
-#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER" tvg-logo="https://www.a1.hr/var/ezflow_site/storage/images/televizija/blue_hustler/9486-4-cro-HR/blue_hustler.png" group-title="XXX FOR ADULT",BLUE HUSTLER
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70674
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN EROTIC" tvg-logo="http://titaniptv.com/epg/logo/Balkan%20Erotika.png" group-title="XXX FOR ADULT",BALKAN EROTIC
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70675
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| Hustler" tvg-logo="http://super-tvnow.com:80/images/a8cd1ea5107ffc44d1b1573e7722c065.png" group-title="XXX FOR ADULT",|XxX| Hustler
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70684
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| Dusk" tvg-logo="http://super-tvnow.com:80/images/e37aa4628f2d98084000bc2100282dea.png" group-title="XXX FOR ADULT",|XxX| Dusk
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70685
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| Redlight HD" tvg-logo="http://super-tvnow.com:80/images/a194ed1d5659245d889a57205d46e764.png" group-title="XXX FOR ADULT",|XxX| Redlight HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70686
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| Private TV HD" tvg-logo="http://super-tvnow.com:80/images/a4782bd090e1856cf8ac9d71a5e01d41.png" group-title="XXX FOR ADULT",|XxX| Private TV HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70687
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| Balkan Erotic" tvg-logo="http://super-tvnow.com:80/images/50363fbecf5fd4a506a6e54355e28589.png" group-title="XXX FOR ADULT",|XxX| Balkan Erotic
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70688
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ONLY FANS" tvg-logo="http://super-tvnow.com:80/images/14a7757b230a890bb44725cb8be9dea9.png" group-title="XXX FOR ADULT",XXX: ONLY FANS
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70689
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TUSHY" tvg-logo="http://super-tvnow.com:80/images/14a7757b230a890bb44725cb8be9dea9.png" group-title="XXX FOR ADULT",XXX: TUSHY
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70690
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| BRAZZERS TV EUROPE" tvg-logo="http://super-tvnow.com:80/images/ff0c7e2fae3201e081336192ff10103a.png" group-title="XXX FOR ADULT",|XxX| BRAZZERS TV EUROPE
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70691
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| FAKE AGENT" tvg-logo="http://super-tvnow.com:80/images/bb7e32f676bed0df639b5c5ab4d96f3c.jpg" group-title="XXX FOR ADULT",|XxX| FAKE AGENT
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70692
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| VIVIDRED" tvg-logo="http://super-tvnow.com:80/images/9a8e0de8c7292583cda6b391bea7ac03.png" group-title="XXX FOR ADULT",|XxX| VIVIDRED
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70693
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| LEGAL PORNO HD" tvg-logo="http://super-tvnow.com:80/images/205676f50b949782bf30091f6056e710.jpg" group-title="XXX FOR ADULT",|XxX| LEGAL PORNO HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70694
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| OLA LA PORN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVG6fFaj_pgsxezt_bCFHCKN2Tt_yl_W-TcQ&usqp=CAU" group-title="XXX FOR ADULT",|XxX| OLA LA PORN HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70695
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PENTHOUSE GOLD" tvg-logo="http://super-tvnow.com:80/images/55b319893a44f33cfd46cf27c2e85b3c.png" group-title="XXX FOR ADULT",|XxX| PENTHOUSE GOLD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70696
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| NUART HOT HD" tvg-logo="https://lh3.googleusercontent.com/proxy/-pSdsZawZu77UgzB70n8fXSQEhl44KTcnWpBjsZliupGn4oeM-u5z4MmV-84uuhpWMJ1XXWIH_xqeDtxmkBsEPIyOmP-Yjit9tVHM1m98J-AuTfmdhDBj00NBsCAMnFkbW5kleehQ-ullg" group-title="XXX FOR ADULT",|XxX| NUART HOT HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70697
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| HOT HD" tvg-logo="http://super-tvnow.com:80/images/970f9f942753ddfeab74f130b0d5dd88.png" group-title="XXX FOR ADULT",|XxX| HOT HD
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70698
-#EXTINF:-1 tvg-id="" tvg-name="Sex CO BLACK" tvg-logo="http://super-tvnow.com:80/images/48433e05485e536502581bebacdf3fbf.png" group-title="XXX FOR ADULT",Sex CO BLACK
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70699
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: AMATEUR ALLURE" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: AMATEUR ALLURE
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70701
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: BLUSH EROTICA" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: BLUSH EROTICA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70702
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: PURE MATURE" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: PURE MATURE
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70703
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: SWEET SINNER" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: SWEET SINNER
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70704
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: INTERRACIAL PASS" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: INTERRACIAL PASS
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70705
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: I KNOW THAT GIRL" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: I KNOW THAT GIRL
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70706
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: HARD X" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: HARD X
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70707
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| PORNBOX: SPY FAM" tvg-logo="http://super-tvnow.com:80/images/09016f7f0c6da75b9c8315838812650d.png" group-title="XXX FOR ADULT",|XxX| PORNBOX: SPY FAM
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70708
-#EXTINF:-1 tvg-id="" tvg-name="|XxX| Bang Bros" tvg-logo="http://super-tvnow.com:80/images/4390006a756421acfba1ca1e176b1f2a.png" group-title="XXX FOR ADULT",|XxX| Bang Bros
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/70709
 
 
 # martino
