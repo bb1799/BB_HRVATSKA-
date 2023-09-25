@@ -1,875 +1,1285 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-id="35539" tvg-name="MAXSPORT 1" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport1.png" group-title="SPORTSKI",HR: MAXSPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/56215
-#EXTINF:-1 tvg-id="21472" tvg-name="MAXSPORT 2" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport2.png" group-title="SPORTSKI",HR: MAXSPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/56216
-#EXTINF:-1 tvg-id="city-tv" tvg-name="BA: CITY TV" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/citytv.png" group-title="SPORTSKI",BA: CITY TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10258
-#EXTINF:-1 tvg-id="" tvg-name="HR: HNTV" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/hntv.jpg" group-title="SPORTSKI",HR: HNTV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10259
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="HR: KREATOR TV(TEST)" tvg-logo="" group-title="SPORTSKI",HR: KREATOR TV(TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10260
-#EXTINF:-1 tvg-id="18306" tvg-name="SR: SOS(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sos.png" group-title="SPORTSKI",SR: SOS(TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10261
-#EXTINF:-1 tvg-id="20028" tvg-name="SR: NOVA SPORT HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/novasport.png" group-title="SPORTSKI",SR: NOVA SPORT HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10262
-#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="BA: ARENA SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",BA: ARENA SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10263
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="HR: ARENA SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",HR: ARENA SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10264
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="HR: ARENA SPORT 1 HD BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",HR: ARENA SPORT 1 HD BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10432
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="SR: ARENA SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",SR: ARENA SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10265
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="SR: ARENA SPORT 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport.png" group-title="SPORTSKI",SR: ARENA SPORT 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10435
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="HR: ARENA SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",HR: ARENA SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10266
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="HR: ARENA SPORT 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",HR: ARENA SPORT 2 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10433
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="SR: ARENA SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",SR: ARENA SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10267
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="SR: ARENA SPORT 2 BACKUP " tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport2.png" group-title="SPORTSKI",SR: ARENA SPORT 2 BACKUP 
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10436
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="HR: ARENA SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",HR: ARENA SPORT 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10268
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="HR: ARENA SPORT 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",HR: ARENA SPORT 3 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10434
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="SR: ARENA SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",SR: ARENA SPORT 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10269
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="SR: ARENA SPORT 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport3.png" group-title="SPORTSKI",SR: ARENA SPORT 3 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10437
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="HR: ARENA SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport4.png" group-title="SPORTSKI",HR: ARENA SPORT 4 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10270
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="SR: ARENA SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport4.png" group-title="SPORTSKI",SR: ARENA SPORT 4 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10271
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="HR: ARENA SPORT 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport5.png" group-title="SPORTSKI",HR: ARENA SPORT 5 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10272
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="SR: ARENA SPORT 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport5.png" group-title="SPORTSKI",SR: ARENA SPORT 5 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10273
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 6 " tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport6.png" group-title="SPORTSKI",HR: ARENA SPORT 6 
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/36975
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 7" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport7.png" group-title="SPORTSKI",HR: ARENA SPORT 7
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/36976
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 8" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport8.png" group-title="SPORTSKI",HR: ARENA SPORT 8
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/36977
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 9" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport9.png" group-title="SPORTSKI",HR: ARENA SPORT 9
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/36978
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 10" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/arenasport10.png" group-title="SPORTSKI",HR: ARENA SPORT 10
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/36979
-#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-name="ARENA SPORT 1x2 SR(TEST)" tvg-logo="https://images.tvtoday.de/files/images/201610/1/tv-news-0802-premiere-verbreitet-arena-angebot-flaechendeckend,151935_aufmacher_100.jpg" group-title="SPORTSKI",ARENA SPORT 1x2 SR(TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/63195
-#EXTINF:-1 tvg-id="35539" tvg-name="HR: MAXSPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport1.png" group-title="SPORTSKI",HR: MAXSPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/56215
-#EXTINF:-1 tvg-id="21472" tvg-name="HR: MAXSPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/maxsport2.png" group-title="SPORTSKI",HR: MAXSPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/56216
-#EXTINF:-1 tvg-id="32169" tvg-name="Arena Sport 1 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 1 Premium
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38020
-#EXTINF:-1 tvg-id="32170" tvg-name="Arena Sport 2 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 2 Premium
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38021
-#EXTINF:-1 tvg-id="32168" tvg-name="Arena Sport 3 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 3 Premium
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38022
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="HR: SPORT KLUB HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub.png" group-title="SPORTSKI",HR: SPORT KLUB HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10274
-#EXTINF:-1 tvg-id="60" tvg-name="SR: SPORT KLUB HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub.png" group-title="SPORTSKI",SR: SPORT KLUB HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10275
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="HR: SPORT KLUB 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",HR: SPORT KLUB 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10276
-#EXTINF:-1 tvg-id="SportKlub1" tvg-name="HR: SPORT KLUB 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",HR: SPORT KLUB 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10438
-#EXTINF:-1 tvg-id="sport-klub" tvg-name="SR: SPORT KLUB 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",SR: SPORT KLUB 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10277
-#EXTINF:-1 tvg-id="sport-klub" tvg-name="SR: SPORT KLUB 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub1.png" group-title="SPORTSKI",SR: SPORT KLUB 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10441
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SR: SPORT KLUB 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",SR: SPORT KLUB 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10278
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SR: SPORT KLUB 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",SR: SPORT KLUB 2 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10442
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="HR: SPORT KLUB 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",HR: SPORT KLUB 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10279
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="HR: SPORT KLUB 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub2.png" group-title="SPORTSKI",HR: SPORT KLUB 2 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10439
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SR: SPORT KLUB 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",SR: SPORT KLUB 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10280
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SR: SPORT KLUB 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",SR: SPORT KLUB 3 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10443
-#EXTINF:-1 tvg-id="SK3HR" tvg-name="HR: SPORT KLUB 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",HR: SPORT KLUB 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10281
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 3 BACKUP" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub3.png" group-title="SPORTSKI",HR: SPORT KLUB 3 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10440
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="SR: SPORT KLUB 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub4.png" group-title="SPORTSKI",SR: SPORT KLUB 4 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10282
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="HR: SPORT KLUB 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub4.png" group-title="SPORTSKI",HR: SPORT KLUB 4 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10283
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="SR: SPORT KLUB 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub5.png" group-title="SPORTSKI",SR: SPORT KLUB 5 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10284
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="HR: SPORT KLUB 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub5.png" group-title="SPORTSKI",HR: SPORT KLUB 5 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10285
-#EXTINF:-1 tvg-id="" tvg-name="SR: SPORT KLUB 6" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub6.png" group-title="SPORTSKI",SR: SPORT KLUB 6
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38023
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 6" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub6.png" group-title="SPORTSKI",HR: SPORT KLUB 6
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38024
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 7" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub7.png" group-title="SPORTSKI",HR: SPORT KLUB 7
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38025
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 8" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub8.png" group-title="SPORTSKI",HR: SPORT KLUB 8
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38026
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 9" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub9.png" group-title="SPORTSKI",HR: SPORT KLUB 9
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38027
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 10" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportklub10.png" group-title="SPORTSKI",HR: SPORT KLUB 10
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38028
-#EXTINF:-1 tvg-id="eurosport" tvg-name="SR: EURO SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/eurosport1.jpg" group-title="SPORTSKI",SR: EURO SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10289
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="SR: EURO SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/eurosport2.jpg" group-title="SPORTSKI",SR: EURO SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10290
-#EXTINF:-1 tvg-id="" tvg-name="Fight Channel" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightchannel.png" group-title="SPORTSKI",Fight Channel
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10292
-#EXTINF:-1 tvg-id="Fight Channel-EXYU" tvg-name="ID: FIGHT SPORTS(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightsports.png" group-title="SPORTSKI",ID: FIGHT SPORTS(TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10294
-#EXTINF:-1 tvg-id="" tvg-name="PL: FIGHT KLUB(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightklub.png" group-title="SPORTSKI",PL: FIGHT KLUB(TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10295
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT FIGHT (TEST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/640px-Polsat_Sport_Fight_2021_gradient.svg.png" group-title="SPORTSKI",PL: POLSAT SPORT FIGHT (TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10296
-#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://podcast-octogon.fr/wp-content/uploads/2015/02/UFC-kombat-sport.jpg" group-title="SPORTSKI",PT: KOMBAT SPORT
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10297
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK(TEST)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/fightnetwork.png" group-title="SPORTSKI",FIGHT NETWORK(TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10298
-#EXTINF:-1 tvg-id="" tvg-name="ES : MOVISTAR F1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/movistar.png" group-title="SPORTSKI",ES : MOVISTAR F1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10301
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR MOTO GP HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/movistar.png" group-title="SPORTSKI",ES: MOVISTAR MOTO GP HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10302
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportf1.png" group-title="SPORTSKI",IT: SKY SPORT F1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10303
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportmoto.jpg" group-title="SPORTSKI",IT: SKY SPORT MOTOGP HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10304
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportf1.png" group-title="SPORTSKI",UK: SKY SPORTS F1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10305
-#EXTINF:-1 tvg-id="orf-sportplus" tvg-name="AT: ORF SPORT +" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/orfsport.png" group-title="SPORTSKI",AT: ORF SPORT +
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10307
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportaustria.png" group-title="SPORTSKI",AT: SKY SPORT AUSTRIA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10308
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA HD(L2)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportaustria.png" group-title="SPORTSKI",AT: SKY SPORT AUSTRIA HD(L2)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10309
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA 2 HD( During Games only )" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportaustria.png" group-title="SPORTSKI",AT: SKY SPORT AUSTRIA 2 HD( During Games only )
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10310
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA 3 HD( During Games only )" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportaustria.png" group-title="SPORTSKI",AT: SKY SPORT AUSTRIA 3 HD( During Games only )
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10311
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA 4 HD( During Games only )" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportaustria.png" group-title="SPORTSKI",AT: SKY SPORT AUSTRIA 4 HD( During Games only )
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10312
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-1" tvg-name="B LIGA 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10321
-#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="B LIGA 1 HD(L2)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 1 HD(L2)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10322
-#EXTINF:-1 tvg-id="sky-sport-bundesliga-2" tvg-name="B LIGA 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10323
-#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="B LIGA 2 HD(L2)" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 2 HD(L2)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10324
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="B LIGA 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10325
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 4 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10326
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="B LIGA 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 5 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10327
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="B LIGA 6 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 6 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10328
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 7 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 7 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10329
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 8 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 8 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10330
-#EXTINF:-1 tvg-id="" tvg-name="B LIGA 9 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B LIGA 9 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10331
-#EXTINF:-1 tvg-id="" tvg-name="B SLIGA 10 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/bundesliga.jpg" group-title="SPORTSKI",B SLIGA 10 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10332
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/artsport.png" group-title="SPORTSKI",AL: ART SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10345
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/artsport.png" group-title="SPORTSKI",AL: ART SPORT 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10346
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/ksport1.png" group-title="SPORTSKI",AL: K SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10347
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/ksport2.png" group-title="SPORTSKI",AL: K SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10348
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/ksport3.png" group-title="SPORTSKI",AL: K SPORT 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10349
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport1.png" group-title="SPORTSKI",AL: SUPER SPORT 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10350
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport2.png" group-title="SPORTSKI",AL: SUPER SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10351
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport3.png" group-title="SPORTSKI",AL: SUPER SPORT 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10352
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport4.png" group-title="SPORTSKI",AL: SUPER SPORT 4 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10353
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 5 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supersport5.png" group-title="SPORTSKI",AL: SUPER SPORT 5 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10354
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsports.png" group-title="SPORTSKI",AL: TRING SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10355
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsport2.png" group-title="SPORTSKI",AL: TRING SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10356
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsport3.png" group-title="SPORTSKI",AL: TRING SPORT 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10357
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 4 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tringsport4.png" group-title="SPORTSKI",AL: TRING SPORT 4 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10358
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/btsport1.png" group-title="SPORTSKI",UK: BT SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10373
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/btsport2.png" group-title="SPORTSKI",UK: BT SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10374
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/btsportespn.png" group-title="SPORTSKI",UK: BT SPORT ESPN HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10375
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportsaction.png" group-title="SPORTSKI",UK: SKY SPORTS ACTION HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10376
-#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/barca.png" group-title="SPORTSKI",ES: BARCA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10379
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/movistar.png" group-title="SPORTSKI",ES: MOVISTAR DEPORTES 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10380
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/rmcsport.png" group-title="SPORTSKI",FR: RMC SPORT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10394
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/rmcsport.png" group-title="SPORTSKI",FR: RMC SPORT 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10395
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportarena.png" group-title="SPORTSKI",IT: SKY SPORT ARENA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10399
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT FOOTBALL HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportsfootball.png" group-title="SPORTSKI",IT: SKY SPORT FOOTBALL HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10400
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportnba.jpg" group-title="SPORTSKI",IT: SKY SPORT NBA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10401
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT SERIE A HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportserie.png" group-title="SPORTSKI",IT: SKY SPORT SERIE A HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10402
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/skysportuno.png" group-title="SPORTSKI",IT: SKY SPORT UNO HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10403
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/supertenis.png" group-title="SPORTSKI",IT: SUPER TENNIS HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10404
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 1" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10406
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 2" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10407
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 3
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10408
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/espn.jpg" group-title="SPORTSKI",NL: ESPN 4
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10409
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigosportselect.jpg" group-title="SPORTSKI",NL: ZIGGO SPORT SELECT HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10412
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO VOETBAL HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigosportvoetbal.jpg" group-title="SPORTSKI",NL: ZIGGO VOETBAL HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10413
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO RACING HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigoracing.png" group-title="SPORTSKI",NL: ZIGGO RACING HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10414
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/zigosportgolf.png" group-title="SPORTSKI",NL: ZIGGO SPORT GOLF HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10415
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/sportstv.png" group-title="SPORTSKI",TR: SPORTS TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10426
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tivibuspor.png" group-title="SPORTSKI",TR: TIVIBU SPOR 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10427
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tivibuspor.png" group-title="SPORTSKI",TR: TIVIBU SPOR 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10428
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/tivibuspor.png" group-title="SPORTSKI",TR: TIVIBU SPOR 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10429
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2 HD+" tvg-logo="http://live.nettv.pro/icons/SPORTSKI/trtspor2.jpg" group-title="SPORTSKI",TR: TRT SPOR 2 HD+
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10431
+#EXTINF:-1 group-title="HRVATSKA",*** HRVATSKA ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28
+#EXTINF:-1 group-title="HRVATSKA",HRT 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1
+#EXTINF:-1 group-title="HRVATSKA",HRT 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5641
+#EXTINF:-1 group-title="HRVATSKA",HRT 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/2
+#EXTINF:-1 group-title="HRVATSKA",HRT 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5642
+#EXTINF:-1 group-title="HRVATSKA",HRT 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3
+#EXTINF:-1 group-title="HRVATSKA",HRT 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5643
+#EXTINF:-1 group-title="HRVATSKA",HRT 4
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4
+#EXTINF:-1 group-title="HRVATSKA",HRT 4 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5644
+#EXTINF:-1 group-title="HRVATSKA",HRT Int.
+http://bazaruto.top:8000/lazodj/M83jN6A89X/482
+#EXTINF:-1 group-title="HRVATSKA",Nova TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5
+#EXTINF:-1 group-title="HRVATSKA",Nova TV HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39408
+#EXTINF:-1 group-title="HRVATSKA",Doma TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/29
+#EXTINF:-1 group-title="HRVATSKA",Doma TV  HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/172
+#EXTINF:-1 group-title="HRVATSKA",RTL Televizija
+http://bazaruto.top:8000/lazodj/M83jN6A89X/6
+#EXTINF:-1 group-title="HRVATSKA",RTL Televizija  HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1417
+#EXTINF:-1 group-title="HRVATSKA",RTL 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/7
+#EXTINF:-1 group-title="HRVATSKA",RTL 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42701
+#EXTINF:-1 group-title="HRVATSKA",Una TV HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39713
+#EXTINF:-1 group-title="HRVATSKA",RTL Crime
+http://bazaruto.top:8000/lazodj/M83jN6A89X/15
+#EXTINF:-1 group-title="HRVATSKA",RTL Passion
+http://bazaruto.top:8000/lazodj/M83jN6A89X/8
+#EXTINF:-1 group-title="HRVATSKA",RTL Living
+http://bazaruto.top:8000/lazodj/M83jN6A89X/9
+#EXTINF:-1 group-title="HRVATSKA",RTL Adria
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5707
+#EXTINF:-1 group-title="HRVATSKA",RTL Croatia World
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5708
+#EXTINF:-1 group-title="HRVATSKA",Nova World
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39951
+#EXTINF:-1 group-title="HRVATSKA",Nova Family
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39156
+#EXTINF:-1 group-title="HRVATSKA",N1 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/11
+#EXTINF:-1 group-title="HRVATSKA",Laudato TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/10
+#EXTINF:-1 group-title="HRVATSKA",Slavonska Tv
+http://bazaruto.top:8000/lazodj/M83jN6A89X/12
+#EXTINF:-1 group-title="HRVATSKA",Z1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/447
+#EXTINF:-1 group-title="HRVATSKA",Plava Vinkovacka 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/13
+#EXTINF:-1 group-title="HRVATSKA",TV Sibenik
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5806
+#EXTINF:-1 group-title="HRVATSKA",Kanal Ri
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4029
+#EXTINF:-1 group-title="HRVATSKA",Osjecka TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/368
+#EXTINF:-1 group-title="HRVATSKA",Trend TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/14
+#EXTINF:-1 group-title="HRVATSKA",Aurora TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16675
+#EXTINF:-1 group-title="HRVATSKA",Mreza Split
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16973
+#EXTINF:-1 group-title="HRVATSKA",Zdrava Tv
+http://bazaruto.top:8000/lazodj/M83jN6A89X/658
+#EXTINF:-1 group-title="HRVATSKA",Jabuka
+http://bazaruto.top:8000/lazodj/M83jN6A89X/659
 
-#EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1 HD" tvg-logo="http://live.nettv.pro/icons/BHT1.png" group-title="BOSNA",BHT 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/19
-#EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/BHT1.png" group-title="BOSNA",BHT 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4114
-#EXTINF:-1 tvg-id="ftv" tvg-name="FEDERALNA TV" tvg-logo="http://live.nettv.pro/icons/FEDERALNA.png" group-title="BOSNA",FEDERALNA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/20
-#EXTINF:-1 tvg-id="ftv" tvg-name="FEDERALNA TV BACKUP" tvg-logo="http://live.nettv.pro/icons/FEDERALNA.png" group-title="BOSNA",FEDERALNA TV BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4115
-#EXTINF:-1 tvg-id="tv-sarajevo" tvg-name="TV SARAJEVO" tvg-logo="http://live.nettv.pro/icons/tvsarajevo.png" group-title="BOSNA",TV SARAJEVO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/22
-#EXTINF:-1 tvg-id="tv-sarajevo" tvg-name="TV SARAJEVO BACKUP" tvg-logo="http://live.nettv.pro/icons/tvsarajevo.png" group-title="BOSNA",TV SARAJEVO BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9343
-#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="Al Jazeera Balkans" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="BOSNA",Al Jazeera Balkans
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/23
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="http://live.nettv.pro/icons/atv.png" group-title="BOSNA",ATV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/24
-#EXTINF:-1 tvg-id="face-tv" tvg-name="FACE TV" tvg-logo="http://live.nettv.pro/icons/facetv.png" group-title="BOSNA",FACE TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/25
-#EXTINF:-1 tvg-id="face-tv" tvg-name="FACE TV BACKUP" tvg-logo="http://live.nettv.pro/icons/facetv.png" group-title="BOSNA",FACE TV BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4117
-#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT TV HD" tvg-logo="http://live.nettv.pro/icons/HAYAT.png" group-title="BOSNA",HAYAT TV HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/26
-#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT HD BACKUP" tvg-logo="http://live.nettv.pro/icons/HAYAT.png" group-title="BOSNA",HAYAT HD BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4116
-#EXTINF:-1 tvg-id="hayat-plus" tvg-name="HAYAT PLUS" tvg-logo="http://live.nettv.pro/icons/HAYATPLUS.png" group-title="BOSNA",HAYAT PLUS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/27
-#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA BH" tvg-logo="http://live.nettv.pro/icons/NOVABH.png" group-title="BOSNA",NOVA BH
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/21
-#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA BH BACKUP" tvg-logo="http://live.nettv.pro/icons/NOVABH.png" group-title="BOSNA",NOVA BH BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1138
-#EXTINF:-1 tvg-id="n1" tvg-name="N1 BIH " tvg-logo="http://live.nettv.pro/icons/n1bih.png" group-title="BOSNA",N1 BIH 
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/28
-#EXTINF:-1 tvg-id="n1" tvg-name="N1 BIH BACKUP" tvg-logo="http://live.nettv.pro/icons/n1bih.png" group-title="BOSNA",N1 BIH BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1189
-#EXTINF:-1 tvg-id="htv1" tvg-name="OBN" tvg-logo="http://live.nettv.pro/icons/OBN.png" group-title="BOSNA",OBN
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/29
-#EXTINF:-1 tvg-id="obn" tvg-name="OBN BACKUP" tvg-logo="http://live.nettv.pro/icons/OBN.png" group-title="BOSNA",OBN BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1145
-#EXTINF:-1 tvg-id="bn" tvg-name="BN TV" tvg-logo="http://live.nettv.pro/icons/bntv.png" group-title="BOSNA",BN TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/30
-#EXTINF:-1 tvg-id="bn" tvg-name="BN TV BACKUP" tvg-logo="http://live.nettv.pro/icons/bntv.png" group-title="BOSNA",BN TV BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1144
-#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS " tvg-logo="http://live.nettv.pro/icons/rtrs.png" group-title="BOSNA",RTRS 
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/34
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="RTRS PLUS" tvg-logo="http://super-tvnow.com:80/images/ff485b9d163357f457fd3798743996a3.png" group-title="BOSNA",RTRS PLUS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/35
-#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="DUGA TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/duga.png" group-title="MUZICKI",DUGA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/31
-#EXTINF:-1 tvg-id="" tvg-name="TV DUGA PLUS" tvg-logo="http://live.nettv.pro/icons/MUZICKI/dugaplus.png" group-title="MUZICKI",TV DUGA PLUS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/56214
-#EXTINF:-1 tvg-id="posavinatv" tvg-name="POSAVINA TV" tvg-logo="http://live.nettv.pro/icons/posavinatv.png" group-title="BOSNA",POSAVINA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1008
-#EXTINF:-1 tvg-id="kanal5" tvg-name="TELEVIZIJA 5" tvg-logo="http://live.nettv.pro/icons/tv5.png" group-title="BOSNA",TELEVIZIJA 5
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/37
-#EXTINF:-1 tvg-id="rtv7" tvg-name="TV 7 TUZLA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/rtv-tk-logo.png" group-title="BOSNA",TV 7 TUZLA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1012
-#EXTINF:-1 tvg-id="kanal-6" tvg-name="KANAL 6 TRAVNIK" tvg-logo="http://live.nettv.pro/icons/kanal6travnik.jpg" group-title="BOSNA",KANAL 6 TRAVNIK
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1000
-#EXTINF:-1 tvg-id="rtv-ze" tvg-name="RTV ZENICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb-eBP0CpquxVKMhO_VZ8mBB9aDfvWEhnkrCQD33ChVwboZYwv&usqp=CAU" group-title="BOSNA",RTV ZENICA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1011
-#EXTINF:-1 tvg-id="" tvg-name="RTV CAZIN" tvg-logo="http://live.nettv.pro/icons/rtvcazin.jpg" group-title="BOSNA",RTV CAZIN
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1002
-#EXTINF:-1 tvg-id="" tvg-name="RTV SANA" tvg-logo="http://live.nettv.pro/icons/rtvsana.png" group-title="BOSNA",RTV SANA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1003
-#EXTINF:-1 tvg-id="FilmboxExtra.svn" tvg-name="RTV KAKANJ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/NTV_IC_Logo_BiH.png" group-title="BOSNA",RTV KAKANJ
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/999
-#EXTINF:-1 tvg-id="rtv-hb" tvg-name="RTV HB HD" tvg-logo="http://live.nettv.pro/icons/rtvhb.png" group-title="BOSNA",RTV HB HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1005
-#EXTINF:-1 tvg-id="rtv-hit" tvg-name="RTV HIT BRCKO" tvg-logo="http://live.nettv.pro/icons/hitbrcko.png" group-title="BOSNA",RTV HIT BRCKO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1010
-#EXTINF:-1 tvg-id="rtvtk" tvg-name="RTV TK TUZLA" tvg-logo="http://live.nettv.pro/icons/tuzla.png" group-title="BOSNA",RTV TK TUZLA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1013
-#EXTINF:-1 tvg-id="rtv-vogosca" tvg-name="VOGOSCA TV" tvg-logo="http://live.nettv.pro/icons/vogosca.jpeg" group-title="BOSNA",VOGOSCA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1001
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPER TV MEDIA HD" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png" group-title="BOSNA",SUPER TV MEDIA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1006
-#EXTINF:-1 tvg-id="mtv-igman" tvg-name="MTV IGMAN" tvg-logo="http://live.nettv.pro/icons/mtvigman.png" group-title="BOSNA",MTV IGMAN
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/996
-#EXTINF:-1 tvg-id="" tvg-name="OTV VALENTINO" tvg-logo="http://live.nettv.pro/icons/MUZICKI/OTV.png" group-title="MUZICKI",OTV VALENTINO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1007
-#EXTINF:-1 tvg-id="bir-tv" tvg-name="BIR TV UZIVO" tvg-logo="http://live.nettv.pro/icons/birtv.png" group-title="BOSNA",BIR TV UZIVO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/997
-#EXTINF:-1 tvg-id="alfa-tv" tvg-name="ALFA TV SARAJEVO" tvg-logo="http://live.nettv.pro/icons/alfatv.png" group-title="BOSNA",ALFA TV SARAJEVO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1014
-#EXTINF:-1 tvg-id="o-kanal" tvg-name="O KANAL" tvg-logo="http://live.nettv.pro/icons/okanal.png" group-title="BOSNA",O KANAL
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1015
-#EXTINF:-1 tvg-id="" tvg-name="B1 GRADACAC HD" tvg-logo="http://live.nettv.pro/icons/b1gradacac.jpg" group-title="BOSNA",B1 GRADACAC HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1009
-#EXTINF:-1 tvg-id="" tvg-name="MOJA TV PREMIER LIGA" tvg-logo="http://live.nettv.pro/icons/mojatvsport.jpg" group-title="BOSNA",MOJA TV PREMIER LIGA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/36
-#EXTINF:-1 tvg-id="" tvg-name="MOJA TV PREMIER LIGA BACKUP" tvg-logo="" group-title="BOSNA",MOJA TV PREMIER LIGA BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/56217
-#EXTINF:-1 tvg-id="rtv-usk" tvg-name="TV USK HD" tvg-logo="http://live.nettv.pro/icons/tvusk.png" group-title="BOSNA",TV USK HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1004
-#EXTINF:-1 tvg-id="rtv-slon" tvg-name="TV SLON EXTRA" tvg-logo="http://live.nettv.pro/icons/tvslonextra.jpg" group-title="BOSNA",TV SLON EXTRA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/33
-#EXTINF:-1 tvg-id="2108202113926" tvg-name="TV GLAS DRINE" tvg-logo="http://live.nettv.pro/icons/glasdrine.png" group-title="BOSNA",TV GLAS DRINE
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/998
-#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 HD" tvg-logo="http://live.nettv.pro/icons/rts1.png" group-title="SRBIJA",RTS 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/2
-#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/rts1.png" group-title="SRBIJA",RTS 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1139
-#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD" tvg-logo="http://live.nettv.pro/icons/rts2.png" group-title="SRBIJA",RTS 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3
-#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 HD" tvg-logo="http://live.nettv.pro/icons/rts3.png" group-title="SRBIJA",RTS 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4
-#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS TREZOR HD" tvg-logo="http://live.nettv.pro/icons/rtstrezor.png" group-title="SRBIJA",RTS TREZOR HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1016
-#EXTINF:-1 tvg-id="rts-zivot" tvg-name="RTS ZIVOT HD" tvg-logo="http://live.nettv.pro/icons/rtszivot.png" group-title="SRBIJA",RTS ZIVOT HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1017
-#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS SVET HD" tvg-logo="http://live.nettv.pro/icons/rtssvet.png" group-title="SRBIJA",RTS SVET HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1018
-#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS DRAMA" tvg-logo="http://live.nettv.pro/icons/rtsdrama.png" group-title="SRBIJA",RTS DRAMA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1019
-#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS KOLO" tvg-logo="http://live.nettv.pro/icons/rtskolo.png" group-title="SRBIJA",RTS KOLO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1020
-#EXTINF:-1 tvg-id="35056" tvg-name="RTS NAUKA" tvg-logo="http://live.nettv.pro/icons/rtsnauka.jpg" group-title="SRBIJA",RTS NAUKA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38539
-#EXTINF:-1 tvg-id="" tvg-name="RTS KLASIKA [TEST]" tvg-logo="http://live.nettv.pro/icons/rtsklasika.png" group-title="SRBIJA",RTS KLASIKA [TEST]
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38538
-#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA TV" tvg-logo="http://live.nettv.pro/icons/prvatv.png" group-title="SRBIJA",PRVA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/5
-#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA TV BACKUP" tvg-logo="http://live.nettv.pro/icons/prvatv.png" group-title="SRBIJA",PRVA TV BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1147
-#EXTINF:-1 tvg-id="prva-plus" tvg-name="PRVA PLUS" tvg-logo="http://live.nettv.pro/icons/prvaplus.png" group-title="SRBIJA",PRVA PLUS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/6
-#EXTINF:-1 tvg-id="prva-world" tvg-name="PRVA WORLD" tvg-logo="http://live.nettv.pro/icons/prvaworld.png" group-title="SRBIJA",PRVA WORLD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/7
-#EXTINF:-1 tvg-id="14105" tvg-name="PRVA MAX" tvg-logo="http://live.nettv.pro/icons/prvamax.png" group-title="SRBIJA",PRVA MAX
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/8
-#EXTINF:-1 tvg-id="14106" tvg-name="PRVA KICK" tvg-logo="http://live.nettv.pro/icons/prvakick.png" group-title="SRBIJA",PRVA KICK
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9
-#EXTINF:-1 tvg-id="14106" tvg-name="PRVA KICK BACKUP" tvg-logo="http://live.nettv.pro/icons/prvakick.png" group-title="SRBIJA",PRVA KICK BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3583
-#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S HD" tvg-logo="http://live.nettv.pro/icons/novas.png" group-title="SRBIJA",NOVA S HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10
-#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S BACKUP" tvg-logo="http://live.nettv.pro/icons/novas.png" group-title="SRBIJA",NOVA S BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4120
-#EXTINF:-1 tvg-id="b92" tvg-name="B92 BACKUP" tvg-logo="http://live.nettv.pro/icons/b92.png" group-title="SRBIJA",B92 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4121
-#EXTINF:-1 tvg-id="b92" tvg-name="B92 TV HD" tvg-logo="http://live.nettv.pro/icons/b92.png" group-title="SRBIJA",B92 TV HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/11
-#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY TV" tvg-logo="http://live.nettv.pro/icons/happy.png" group-title="SRBIJA",HAPPY TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/12
-#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY TV BACKUP" tvg-logo="http://live.nettv.pro/icons/happy.png" group-title="SRBIJA",HAPPY TV BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9637
-#EXTINF:-1 tvg-id="" tvg-name="Blic TV" tvg-logo="http://tv.luzer.org:8080/images/4cac532f848606e22e1475643a71cb28.png" group-title="SRBIJA",Blic TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/64060
-#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SR" tvg-logo="http://live.nettv.pro/icons/n1serbia.png" group-title="SRBIJA",N1 SR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/13
-#EXTINF:-1 tvg-id="studio-b-yu" tvg-name="STUDIO B" tvg-logo="http://live.nettv.pro/icons/studiob.png" group-title="SRBIJA",STUDIO B
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/350
-#EXTINF:-1 tvg-id="kcn1" tvg-name="KCN 1" tvg-logo="http://live.nettv.pro/icons/kcn1.png" group-title="SRBIJA",KCN 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/16
-#EXTINF:-1 tvg-id="kcn2" tvg-name="KCN 2" tvg-logo="http://live.nettv.pro/icons/kcn2.png" group-title="SRBIJA",KCN 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/17
-#EXTINF:-1 tvg-id="kcn3" tvg-name="KCN 3" tvg-logo="http://live.nettv.pro/icons/kcn3.png" group-title="SRBIJA",KCN 3
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/18
-#EXTINF:-1 tvg-id="TV Sandžak" tvg-name="SANDZAK TV" tvg-logo="http://live.nettv.pro/icons/sandzak.png" group-title="SRBIJA",SANDZAK TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1024
-#EXTINF:-1 tvg-id="" tvg-name="SAT TV POZAREVAC" tvg-logo="http://live.nettv.pro/icons/sattv.jpg" group-title="SRBIJA",SAT TV POZAREVAC
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1031
-#EXTINF:-1 tvg-id="135.sr" tvg-name="BELLE AMIE" tvg-logo="http://live.nettv.pro/icons/belleamie.png" group-title="SRBIJA",BELLE AMIE
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1026
-#EXTINF:-1 tvg-id="PalmaPlus.rs" tvg-name="PALMA PLUS JAGODINA" tvg-logo="http://live.nettv.pro/icons/jagodina.png" group-title="SRBIJA",PALMA PLUS JAGODINA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1027
-#EXTINF:-1 tvg-id="" tvg-name="BK TV HD" tvg-logo="" group-title="SRBIJA",BK TV HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1021
-#EXTINF:-1 tvg-id="tv-hram" tvg-name="TV Hram" tvg-logo="http://live.nettv.pro/icons/tvhram.png" group-title="SRBIJA",TV Hram
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/349
-#EXTINF:-1 tvg-id="239.sr" tvg-name="TV ISTOK 1" tvg-logo="http://live.nettv.pro/icons/istok.png" group-title="SRBIJA",TV ISTOK 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1029
-#EXTINF:-1 tvg-id="" tvg-name="TV ISTOK 2" tvg-logo="http://live.nettv.pro/icons/istok.png" group-title="SRBIJA",TV ISTOK 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/37706
-#EXTINF:-1 tvg-id="23483" tvg-name="TV KLADOVO" tvg-logo="" group-title="SRBIJA",TV KLADOVO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1028
-#EXTINF:-1 tvg-id="14117" tvg-name="RTV BOR" tvg-logo="http://live.nettv.pro/icons/bor.png" group-title="SRBIJA",RTV BOR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1030
-#EXTINF:-1 tvg-id="novi-pazar" tvg-name="RTV NOVI PAZAR" tvg-logo="http://live.nettv.pro/icons/novipazar.png" group-title="SRBIJA",RTV NOVI PAZAR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1025
-#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV VOJVODINA 1" tvg-logo="http://live.nettv.pro/icons/vojvodina1.png" group-title="SRBIJA",RTV VOJVODINA 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1022
-#EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV VOJVODINA 2" tvg-logo="http://live.nettv.pro/icons/vojvodina2.png" group-title="SRBIJA",RTV VOJVODINA 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1023
-#EXTINF:-1 tvg-id="Zadruga Live 1" tvg-name="ZADRUGA LIVE 1" tvg-logo="http://live.nettv.pro/icons/zadruga1.png" group-title="PINK",ZADRUGA LIVE 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/14
-#EXTINF:-1 tvg-id="Zadruga 2" tvg-name="ZADRUGA LIVE 2" tvg-logo="http://live.nettv.pro/icons/zadruga2.png" group-title="PINK",ZADRUGA LIVE 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/15
-#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 3" tvg-logo="http://live.nettv.pro/icons/PINK/zadruga3.png" group-title="PINK",ZADRUGA LIVE 3
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1047
-#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 4" tvg-logo="http://live.nettv.pro/icons/PINK/zadruga4.png" group-title="PINK",ZADRUGA LIVE 4
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1048
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HRT 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/38
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HRT 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1140
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HRT 2 
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4118
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HRT 2 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/20009
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://live.nettv.pro/icons/HRT3.png" group-title="HRVATSKA",HRT 3
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/40
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 " tvg-logo="http://live.nettv.pro/icons/HRT4.png" group-title="HRVATSKA",HRT 4 
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/41
-#EXTINF:-1 tvg-id="htv5" tvg-name="HRT INT" tvg-logo="http://super-tvnow.com:80/images/9ead3b566c73da2df200ddf045c83219.png" group-title="HRVATSKA",HRT INT
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1033
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-logo="http://live.nettv.pro/icons/RTL.png" group-title="HRVATSKA",RTL
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/45
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL BACKUP" tvg-logo="http://live.nettv.pro/icons/RTL.png" group-title="HRVATSKA",RTL BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1141
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://live.nettv.pro/icons/RTL2.png" group-title="HRVATSKA",RTL 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1034
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/RTL2.png" group-title="HRVATSKA",RTL 2 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/66381
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="RTL ADRIA" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/8/80/RTL_Adria_%282020-.n.v.%29.png/revision/latest?cb=20200225184616" group-title="HRVATSKA",RTL ADRIA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/44
-#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING" tvg-logo="http://live.nettv.pro/icons/RTLLIVING.png" group-title="HRVATSKA",RTL LIVING
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/47
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-logo="http://4.bp.blogspot.com/-DhB-0XAlLEA/VQNIcJQvguI/AAAAAAAAATM/ueyQ56S_WgI/s1600/RTL-Crime1.png" group-title="HRVATSKA",RTL CRIME
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/46
-#EXTINF:-1 tvg-id="rtl-passion-de" tvg-name="RTL PASSION" tvg-logo="http://live.nettv.pro/icons/RTLPASSION.png" group-title="HRVATSKA",RTL PASSION
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1035
-#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION BACKUP" tvg-logo="http://live.nettv.pro/icons/RTLPASSION.png" group-title="HRVATSKA",RTL PASSION BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/4119
-#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="http://live.nettv.pro/icons/N1HR.png" group-title="HRVATSKA",N1 HR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/48
-#EXTINF:-1 tvg-id="nova" tvg-name="NOVA TV" tvg-logo="http://live.nettv.pro/icons/NOVATV.png" group-title="HRVATSKA",NOVA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/42
-#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA TV BACKUP" tvg-logo="http://live.nettv.pro/icons/NOVATV.png" group-title="HRVATSKA",NOVA TV BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1143
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV" tvg-logo="http://live.nettv.pro/icons/domatv.png" group-title="HRVATSKA",DOMA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/43
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV BACKUP" tvg-logo="http://live.nettv.pro/icons/domatv.png" group-title="HRVATSKA",DOMA TV BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1142
-#EXTINF:-1 tvg-id="z1" tvg-name="Z1 TV" tvg-logo="http://live.nettv.pro/icons/Z1.png" group-title="HRVATSKA",Z1 TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1036
-#EXTINF:-1 tvg-id="dubrovacka-tv" tvg-name="DUBROVACKA TV" tvg-logo="https://www.livecamcroatia.com/data/public/2019-04/tn_dubrovacka-televizija.jpg" group-title="HRVATSKA",DUBROVACKA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1046
-#EXTINF:-1 tvg-id="ostv" tvg-name="OSJECKA TV" tvg-logo="http://live.nettv.pro/icons/OSJECKATV.png" group-title="HRVATSKA",OSJECKA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/49
-#EXTINF:-1 tvg-id="jabukatv" tvg-name="JABUKA TV" tvg-logo="https://www.jabuka.tv/logo.png" group-title="HRVATSKA",JABUKA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/50
-#EXTINF:-1 tvg-id="rtbtv" tvg-name="BANOVINA TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKA",BANOVINA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/51
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="SLAVONSKA TV" tvg-logo="http://live.nettv.pro/icons/SLAVONSKATV.png" group-title="HRVATSKA",SLAVONSKA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/351
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="VINKOVACKA TV" tvg-logo="https://img.new.livestream.com/accounts/00000000019610f2/888d1e44-e2bb-4946-9b7b-91c2e3e9d1fe.jpg" group-title="HRVATSKA",VINKOVACKA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1038
-#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="POLJOPRIVREDNA TV" tvg-logo="https://pozega.eu/wp-content/uploads/2014/04/poljoprivredna-tv-logo.jpg" group-title="HRVATSKA",POLJOPRIVREDNA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1040
-#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VARAZDIN TV" tvg-logo="http://live.nettv.pro/icons/VARDZINTV.jpg" group-title="HRVATSKA",VARAZDIN TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1039
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="ZDRAVA TV" tvg-logo="http://live.nettv.pro/icons/ZDRAVATV.jpg" group-title="HRVATSKA",ZDRAVA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1041
-#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LAUDATO TV" tvg-logo="http://live.nettv.pro/icons/LAUDATO.png" group-title="HRVATSKA",LAUDATO TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1042
-#EXTINF:-1 tvg-id="tv-jadran" tvg-name="JADRAN TV" tvg-logo="http://live.nettv.pro/icons/JADRANTV.png" group-title="HRVATSKA",JADRAN TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1043
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="ISTRA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092014/tv_istra.png?itok=o2EgmL9G" group-title="HRVATSKA",ISTRA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1045
-#EXTINF:-1 tvg-id="kanal-ri" tvg-name="KANAL RI" tvg-logo="http://live.nettv.pro/icons/KANALRI.jpg" group-title="HRVATSKA",KANAL RI
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1044
-#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1" tvg-logo="http://live.nettv.pro/icons/RTCG1.png" group-title="CRNA GORA",RTCG 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/53
-#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/RTCG1.png" group-title="CRNA GORA",RTCG 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10136
-#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-logo="http://live.nettv.pro/icons/RTCG2.png" group-title="CRNA GORA",RTCG 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/54
-#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2 BACKUP  " tvg-logo="http://live.nettv.pro/icons/RTCG2.png" group-title="CRNA GORA",RTCG 2 BACKUP  
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/10137
-#EXTINF:-1 tvg-id="" tvg-name="RTCG SAT" tvg-logo="http://live.nettv.pro/icons/RTCGSAT.png" group-title="CRNA GORA",RTCG SAT
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/55
-#EXTINF:-1 tvg-id="prva-tv-cg" tvg-name="PRVA CG" tvg-logo="http://live.nettv.pro/icons/PRVACG.png" group-title="CRNA GORA",PRVA CG
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/57
-#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="VIJESTI CG" tvg-logo="http://live.nettv.pro/icons/VIJESTICG.png" group-title="CRNA GORA",VIJESTI CG
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3776
-#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="VIJESTI CG BACKUP" tvg-logo="http://live.nettv.pro/icons/VIJESTICG.png" group-title="CRNA GORA",VIJESTI CG BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9344
-#EXTINF:-1 tvg-id="nova-m" tvg-name="NOVA M" tvg-logo="http://live.nettv.pro/icons/NOVAM.png" group-title="CRNA GORA",NOVA M
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/52
-#EXTINF:-1 tvg-id="pink-m" tvg-name="PINK M" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkmusic.png" group-title="MUZICKI",PINK M
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/58
-#EXTINF:-1 tvg-id="" tvg-name="TV 777" tvg-logo="http://live.nettv.pro/icons/rtv7.png" group-title="CRNA GORA",TV 777
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/56
-#EXTINF:-1 tvg-id="pink-bih" tvg-name="Pink BH" tvg-logo="http://live.nettv.pro/icons/PINK/pinkbh.png" group-title="PINK",Pink BH
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/151
-#EXTINF:-1 tvg-id="pink" tvg-name="Pink HD" tvg-logo="http://live.nettv.pro/icons/PINK/pink.png" group-title="PINK",Pink HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/152
-#EXTINF:-1 tvg-id="" tvg-name="PINK BACKUP" tvg-logo="http://www.koreni.rs/wp-content/uploads/2015/11/tv-pink-uzivo.jpg" group-title="PINK",PINK BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9345
-#EXTINF:-1 tvg-id="pink2" tvg-name="Pink 2" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_2_rs.png" group-title="PINK",Pink 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/154
-#EXTINF:-1 tvg-id="pink-3" tvg-name="Pink 3" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_3_info_rs.png" group-title="PINK",Pink 3
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/155
-#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="http://live.nettv.pro/icons/PINK/pinkplus.png" group-title="PINK",Pink Plus
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/153
-#EXTINF:-1 tvg-id="pink-action" tvg-name="Pink Action" tvg-logo="http://live.nettv.pro/icons/PINK/pinkaction.png" group-title="PINK",Pink Action
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/156
-#EXTINF:-1 tvg-id="pink-classic" tvg-name="Pink Classic" tvg-logo="http://live.nettv.pro/icons/PINK/pinkclasic.png" group-title="PINK",Pink Classic
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/157
-#EXTINF:-1 tvg-id="pink-action-3" tvg-name="Pink Crime & Mystery" tvg-logo="http://live.nettv.pro/icons/PINK/pinkcrimemistery.png" group-title="PINK",Pink Crime & Mystery
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/159
-#EXTINF:-1 tvg-id="pink-film" tvg-name="Pink Film" tvg-logo="http://live.nettv.pro/icons/PINK/pinkfilm.png" group-title="PINK",Pink Film
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/160
-#EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="http://live.nettv.pro/icons/PINK/pinkhorror.png" group-title="PINK",Pink Horror
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/161
-#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="http://live.nettv.pro/icons/PINK/pinkkuvar.png" group-title="PINK",Pink Kuvar
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/162
-#EXTINF:-1 tvg-id="pink-movies" tvg-name="Pink Movies" tvg-logo="http://live.nettv.pro/icons/PINK/pinkmovies.png" group-title="PINK",Pink Movies
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/163
-#EXTINF:-1 tvg-id="pink-premium" tvg-name="Pink Premium" tvg-logo="http://live.nettv.pro/icons/PINK/pinkpremium.png" group-title="PINK",Pink Premium
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/164
-#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="http://live.nettv.pro/icons/PINK/pinkreality.png" group-title="PINK",Pink Reality
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/165
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="Pink Romance" tvg-logo="http://live.nettv.pro/icons/PINK/pinkromance.png" group-title="PINK",Pink Romance
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/166
-#EXTINF:-1 tvg-id="pink-comedy" tvg-name="Pink Comedy" tvg-logo="http://live.nettv.pro/icons/PINK/pinkcomedy.jpg" group-title="PINK",Pink Comedy
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/158
-#EXTINF:-1 tvg-id="pink-serije" tvg-name="Pink Serije" tvg-logo="http://live.nettv.pro/icons/PINK/pinkserije.jpg" group-title="PINK",Pink Serije
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/168
-#EXTINF:-1 tvg-id="pink-soap" tvg-name="Pink Soap" tvg-logo="http://live.nettv.pro/icons/PINK/pinksoap.png" group-title="PINK",Pink Soap
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/169
-#EXTINF:-1 tvg-id="pink-action-2" tvg-name="Pink Thriller" tvg-logo="http://live.nettv.pro/icons/PINK/pinkthriller.png" group-title="PINK",Pink Thriller
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/170
-#EXTINF:-1 tvg-id="pink-western" tvg-name="Pink Western" tvg-logo="http://live.nettv.pro/icons/PINK/pinkwestern.png" group-title="PINK",Pink Western
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/171
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World" tvg-logo="http://live.nettv.pro/icons/PINK/pinkworld.jpg" group-title="PINK",Pink World
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/172
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="http://live.nettv.pro/icons/PINK/pinkworldcinema.png" group-title="PINK",Pink World Cinema
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/173
-#EXTINF:-1 tvg-id="pink-zabava" tvg-name="Pink Zabava" tvg-logo="http://live.nettv.pro/icons/PINK/pinkzabava.png" group-title="PINK",Pink Zabava
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/174
-#EXTINF:-1 tvg-id="pink-extra" tvg-name="Pink Extra" tvg-logo="http://live.nettv.pro/icons/PINK/pinkextra.png" group-title="PINK",Pink Extra
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/175
-#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="Pink HAHA" tvg-logo="http://live.nettv.pro/icons/PINK/pinkhaha.png" group-title="PINK",Pink HAHA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/176
-#EXTINF:-1 tvg-id="pink-lol" tvg-name="Pink LOL" tvg-logo="http://live.nettv.pro/icons/PINK/pinklol.png" group-title="PINK",Pink LOL
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/177
-#EXTINF:-1 tvg-id="" tvg-name="Pink Show" tvg-logo="http://live.nettv.pro/icons/PINK/pinkshow.jpg" group-title="PINK",Pink Show
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/178
-#EXTINF:-1 tvg-id="pink-family" tvg-name="Pink Family " tvg-logo="http://live.nettv.pro/icons/PINK/pinkfamily.png" group-title="PINK",Pink Family 
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/181
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="http://live.nettv.pro/icons/PINK/pinkscififantasy.png" group-title="PINK",Pink Sci Fi & Fantasy
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/167
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo.png" group-title="FILMSKI",HBO 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/389
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo.png" group-title="FILMSKI",HBO 1 BACKUP
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/1146
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo2.png" group-title="FILMSKI",HBO 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/390
-#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/hbo3.png" group-title="FILMSKI",HBO 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/391
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CINESTAR PREMIERE 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarpremiere1.png" group-title="FILMSKI",CINESTAR PREMIERE 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/419
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CINESTAR PREMIERE 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarpremiere2.png" group-title="FILMSKI",CINESTAR PREMIERE 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/420
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="CINESTAR TV 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestar1.png" group-title="FILMSKI",CINESTAR TV 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/421
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestar2.png" group-title="FILMSKI",CINESTAR TV 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/422
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV ACTION" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestaractiom.png" group-title="FILMSKI",CINESTAR TV ACTION
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/423
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CINESTAR FANTASY" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarfantasy.png" group-title="FILMSKI",CINESTAR FANTASY
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/424
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR COMEDY" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinestarcomedy.png" group-title="FILMSKI",CINESTAR COMEDY
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/425
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX 1 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinemax1.png" group-title="FILMSKI",CINEMAX 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/426
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="CINEMAX 2 HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinemax2.png" group-title="FILMSKI",CINEMAX 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/427
-#EXTINF:-1 tvg-id="cinemania" tvg-name="CINEMANIA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cinemania.png" group-title="FILMSKI",CINEMANIA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/428
-#EXTINF:-1 tvg-id="fox" tvg-name="FOX HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/fox.png" group-title="FILMSKI",FOX HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/429
-#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX LIFE HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/foxlife.png" group-title="FILMSKI",FOX LIFE HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/430
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX CRIME HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/foxcrime.png" group-title="FILMSKI",FOX CRIME HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/431
-#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA CHANEL" tvg-logo="http://live.nettv.pro/icons/FILMSKI/divachannel.png" group-title="FILMSKI",DIVA CHANEL
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/433
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN ADRIA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/axnadria.png" group-title="FILMSKI",AXN ADRIA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/434
-#EXTINF:-1 tvg-id="" tvg-name="AXN SPIN" tvg-logo="http://live.nettv.pro/icons/FILMSKI/axnspin.png" group-title="FILMSKI",AXN SPIN
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/435
-#EXTINF:-1 tvg-id="" tvg-name="TV 1000" tvg-logo="http://live.nettv.pro/icons/FILMSKI/tv1000.png" group-title="FILMSKI",TV 1000
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/436
-#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://live.nettv.pro/icons/FILMSKI/klasiktv.png" group-title="FILMSKI",KLASIK TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/437
-#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/epicdrama.png" group-title="FILMSKI",EPIC DRAMA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/438
-#EXTINF:-1 tvg-id="" tvg-name="M1 FILM" tvg-logo="http://live.nettv.pro/icons/FILMSKI/m1film.png" group-title="FILMSKI",M1 FILM
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/439
-#EXTINF:-1 tvg-id="m1-gold" tvg-name="M GOLD HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/m1gold.jpg" group-title="FILMSKI",M GOLD HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/440
-#EXTINF:-1 tvg-id="" tvg-name="PICKBOX HD" tvg-logo="http://live.nettv.pro/icons/FILMSKI/pickbox.png" group-title="FILMSKI",PICKBOX HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/441
-#EXTINF:-1 tvg-id="star-tv" tvg-name="STAR TV HD" tvg-logo="http://super-tvnow.com:80/images/8096c9a82dbd998f1eda9a6728103412.png" group-title="FILMSKI",STAR TV HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/442
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR TV" tvg-logo="http://live.nettv.pro/icons/FILMSKI/superstartv.png" group-title="FILMSKI",SUPERSTAR TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/443
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL EXTRA" tvg-logo="http://live.nettv.pro/icons/FILMSKI/comedycentral.jpg" group-title="FILMSKI",COMEDY CENTRAL EXTRA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/444
-#EXTINF:-1 tvg-id="" tvg-name="FILM BOX EXTRA HD" tvg-logo="" group-title="FILMSKI",FILM BOX EXTRA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/445
-#EXTINF:-1 tvg-id="" tvg-name="FILM BOX PLUS HD" tvg-logo="" group-title="FILMSKI",FILM BOX PLUS HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/446
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 1" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/447
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 2" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/448
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 3" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 3
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/449
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 4" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 4
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/450
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 5" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 5
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/451
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 6" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 6
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/452
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 7" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 7
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/453
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 8" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 8
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/454
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT 9" tvg-logo="http://live.nettv.pro/icons/FILMSKI/cromax.png" group-title="FILMSKI",CROMAX SELECT 9
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/455
-#EXTINF:-1 tvg-id="25402" tvg-name="HGTV" tvg-logo="http://live.nettv.pro/icons/DOKU/hgtv.png" group-title="DOKUMENTARNI",HGTV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/47457
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATGEO HD" tvg-logo="http://live.nettv.pro/icons/DOKU/natgeo.png" group-title="DOKUMENTARNI",NATGEO HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/972
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="NATGEO WILD HD" tvg-logo="http://live.nettv.pro/icons/DOKU/natgeowild.png" group-title="DOKUMENTARNI",NATGEO WILD HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/973
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://live.nettv.pro/icons/DOKU/animalplanet.png" group-title="DOKUMENTARNI",ANIMAL PLANET HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/974
-#EXTINF:-1 tvg-id="discovery-europe" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DOKU/discoverychannel.png" group-title="DOKUMENTARNI",DISCOVERY CHANNEL HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/975
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://live.nettv.pro/icons/DOKU/discoveryscience.jpg" group-title="DOKUMENTARNI",DISCOVERY SCIENCE HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/976
-#EXTINF:-1 tvg-id="" tvg-name="ID DISCOVERY HD" tvg-logo="http://live.nettv.pro/icons/DOKU/iddiscovery.png" group-title="DOKUMENTARNI",ID DISCOVERY HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/977
-#EXTINF:-1 tvg-id="history-channel" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DOKU/history.png" group-title="DOKUMENTARNI",HISTORY CHANNEL HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/978
-#EXTINF:-1 tvg-id="history-channel-2" tvg-name="HISTORY CHANNEL 2 HD" tvg-logo="http://live.nettv.pro/icons/DOKU/history2.png" group-title="DOKUMENTARNI",HISTORY CHANNEL 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/979
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIASAT HISTORY HD" tvg-logo="http://live.nettv.pro/icons/DOKU/viasthistory.jpg" group-title="DOKUMENTARNI",VIASAT HISTORY HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/980
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIASAT NATURE HD" tvg-logo="http://live.nettv.pro/icons/DOKU/viastnature.jpg" group-title="DOKUMENTARNI",VIASAT NATURE HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/981
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="VIASAT EXPLORER" tvg-logo="http://live.nettv.pro/icons/DOKU/viastexplorer.png" group-title="DOKUMENTARNI",VIASAT EXPLORER
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/982
-#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH HD" tvg-logo="http://live.nettv.pro/icons/DOKU/bbcearth.png" group-title="DOKUMENTARNI",BBC EARTH HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/983
-#EXTINF:-1 tvg-id="planet-earth" tvg-name="PLANET EARTH  HD" tvg-logo="http://live.nettv.pro/icons/DOKU/planetearth.png" group-title="DOKUMENTARNI",PLANET EARTH  HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/984
-#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 KITCHEN HD" tvg-logo="http://live.nettv.pro/icons/DOKU/24kitchen.jpg" group-title="DOKUMENTARNI",24 KITCHEN HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/986
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC HD" tvg-logo="http://live.nettv.pro/icons/DOKU/tlc.png" group-title="DOKUMENTARNI",TLC HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/987
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY HD" tvg-logo="http://live.nettv.pro/icons/DOKU/cbsreality.png" group-title="DOKUMENTARNI",CBS REALITY HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/988
-#EXTINF:-1 tvg-id="" tvg-name="LOV & RIBOLOV HD" tvg-logo="http://live.nettv.pro/icons/DOKU/loviribolov.png" group-title="DOKUMENTARNI",LOV & RIBOLOV HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/989
-#EXTINF:-1 tvg-id="eenterntainment" tvg-name="ENTERTAINMENT HD" tvg-logo="http://live.nettv.pro/icons/DOKU/entertainment.png" group-title="DOKUMENTARNI",ENTERTAINMENT HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/990
-#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION HD" tvg-logo="http://live.nettv.pro/icons/DOKU/crimeinvestigation.jpg" group-title="DOKUMENTARNI",CRIME INVESTIGATION HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/991
-#EXTINF:-1 tvg-id="" tvg-name="DA VINCI LEARNING HD" tvg-logo="http://live.nettv.pro/icons/DOKU/davinci.png" group-title="DOKUMENTARNI",DA VINCI LEARNING HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/992
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DOKU/travel.png" group-title="DOKUMENTARNI",TRAVEL CHANNEL HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/993
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO XTRA HD" tvg-logo="http://live.nettv.pro/icons/DOKU/discoveryturbo.png" group-title="DOKUMENTARNI",DISCOVERY TURBO XTRA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/994
-#EXTINF:-1 tvg-id="" tvg-name="WOMAN ᴴᴰ (TEST)" tvg-logo="http://live.nettv.pro/icons/DOKU/woman.jpg" group-title="DOKUMENTARNI",WOMAN ᴴᴰ (TEST)
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/995
-#EXTINF:-1 tvg-id="" tvg-name="SL: SLO 1 HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/slo1.png" group-title="SLOVENIJA",SL: SLO 1 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3800
-#EXTINF:-1 tvg-id="" tvg-name="SL: SLO 2 HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/slo2.png" group-title="SLOVENIJA",SL: SLO 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3801
-#EXTINF:-1 tvg-id="" tvg-name="SL: SLO 3 HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/slo3.png" group-title="SLOVENIJA",SL: SLO 3 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3802
-#EXTINF:-1 tvg-id="" tvg-name="SL: PLANET HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/planet.png" group-title="SLOVENIJA",SL: PLANET HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3803
-#EXTINF:-1 tvg-id="" tvg-name="SL: PLANET 2 HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/planet2.png" group-title="SLOVENIJA",SL: PLANET 2 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3804
-#EXTINF:-1 tvg-id="" tvg-name="SL: FOX HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/FOX.png" group-title="SLOVENIJA",SL: FOX HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3805
-#EXTINF:-1 tvg-id="" tvg-name="SL: FOX LIFE HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/foxlife.png" group-title="SLOVENIJA",SL: FOX LIFE HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3806
-#EXTINF:-1 tvg-id="" tvg-name="SL: FOX CRIME HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/foxcrime.png" group-title="SLOVENIJA",SL: FOX CRIME HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3807
-#EXTINF:-1 tvg-id="" tvg-name="SL: OTO HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/popoto.png" group-title="SLOVENIJA",SL: OTO HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3808
-#EXTINF:-1 tvg-id="" tvg-name="SL: ANIMAL PLANET HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/animalplanet.png" group-title="SLOVENIJA",SL: ANIMAL PLANET HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3809
-#EXTINF:-1 tvg-id="" tvg-name="SL: POP TV HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/pop.png" group-title="SLOVENIJA",SL: POP TV HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3810
-#EXTINF:-1 tvg-id="" tvg-name="SL: POP KINO HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/popkino.png" group-title="SLOVENIJA",SL: POP KINO HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3811
-#EXTINF:-1 tvg-id="" tvg-name="SL: POP BRIO HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/popbrio.png" group-title="SLOVENIJA",SL: POP BRIO HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3812
-#EXTINF:-1 tvg-id="" tvg-name="SL: EPIC DRAMA HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/epicdrama.png" group-title="SLOVENIJA",SL: EPIC DRAMA HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3813
-#EXTINF:-1 tvg-id="" tvg-name="SL: KANAL A HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/kanala.png" group-title="SLOVENIJA",SL: KANAL A HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3814
-#EXTINF:-1 tvg-id="" tvg-name="SL: TV 1000 HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/tv1000.png" group-title="SLOVENIJA",SL: TV 1000 HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3815
-#EXTINF:-1 tvg-id="" tvg-name="SL: NIKELODEON HD" tvg-logo="http://live.nettv.pro/icons/SLOVENIJA/nickelodeon.png" group-title="SLOVENIJA",SL: NIKELODEON HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3816
-#EXTINF:-1 tvg-id="" tvg-name="SL: VOYO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Voyo_logo_2011.png/revision/latest/scale-to-width-down/340?cb=20171005162441" group-title="SLOVENIJA",SL: VOYO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3817
+#EXTINF:-1 group-title="MAKEDONIJA",MRT  1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/30
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/127
+#EXTINF:-1 group-title="MAKEDONIJA",Sitel MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/31
+#EXTINF:-1 group-title="MAKEDONIJA",Sitel MK HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/126
+#EXTINF:-1 group-title="MAKEDONIJA",Telma
+http://bazaruto.top:8000/lazodj/M83jN6A89X/32
+#EXTINF:-1 group-title="MAKEDONIJA",Telma HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/217
+#EXTINF:-1 group-title="MAKEDONIJA",Kanal 5 MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/35
+#EXTINF:-1 group-title="MAKEDONIJA",Kanal 5 MK HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/279
+#EXTINF:-1 group-title="MAKEDONIJA",TV 24
+http://bazaruto.top:8000/lazodj/M83jN6A89X/34
+#EXTINF:-1 group-title="MAKEDONIJA",TV 24 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5741
+#EXTINF:-1 group-title="MAKEDONIJA",Alfa MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/33
+#EXTINF:-1 group-title="MAKEDONIJA",Alfa MK HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5740
+#EXTINF:-1 group-title="MAKEDONIJA",V Kanal MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/17493
+#EXTINF:-1 group-title="MAKEDONIJA",Nasha TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/305
+#EXTINF:-1 group-title="MAKEDONIJA",Sonce
+http://bazaruto.top:8000/lazodj/M83jN6A89X/142
+#EXTINF:-1 group-title="MAKEDONIJA",Edo MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/657
+#EXTINF:-1 group-title="MAKEDONIJA",MTM
+http://bazaruto.top:8000/lazodj/M83jN6A89X/674
+#EXTINF:-1 group-title="MAKEDONIJA",M-Net
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1238
+#EXTINF:-1 group-title="MAKEDONIJA",Tera
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1379
+#EXTINF:-1 group-title="MAKEDONIJA",Orbis
+http://bazaruto.top:8000/lazodj/M83jN6A89X/873
+#EXTINF:-1 group-title="MAKEDONIJA",TV Plus
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1422
+#EXTINF:-1 group-title="MAKEDONIJA",VTV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46188
+#EXTINF:-1 group-title="MAKEDONIJA",Zdrava TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28564
+#EXTINF:-1 group-title="MAKEDONIJA",Kanal 8 Kocani
+http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
+#EXTINF:-1 group-title="MAKEDONIJA",TV Zdravkin
+http://bazaruto.top:8000/lazodj/M83jN6A89X/37295
+#EXTINF:-1 group-title="MAKEDONIJA",TV Svet
+http://bazaruto.top:8000/lazodj/M83jN6A89X/663
+#EXTINF:-1 group-title="MAKEDONIJA",3.MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/664
+#EXTINF:-1 group-title="MAKEDONIJA",Iris TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28544
+#EXTINF:-1 group-title="MAKEDONIJA",B1 (Shutel TV)
+http://bazaruto.top:8000/lazodj/M83jN6A89X/338
+#EXTINF:-1 group-title="MAKEDONIJA",MRT Sobraniski
+http://bazaruto.top:8000/lazodj/M83jN6A89X/339
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16437
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44299
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 5
+http://bazaruto.top:8000/lazodj/M83jN6A89X/15780
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/340
+#EXTINF:-1 group-title="MAKEDONIJA",AlSat M
+http://bazaruto.top:8000/lazodj/M83jN6A89X/341
+#EXTINF:-1 group-title="MAKEDONIJA",Balkan Music MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/111
+#EXTINF:-1 group-title="MAKEDONIJA",Sky Folk MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/36
+#EXTINF:-1 group-title="MAKEDONIJA",IN TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/169
+#EXTINF:-1 group-title="MAKEDONIJA",IN TV 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/170
+#EXTINF:-1 group-title="MAKEDONIJA",Star Folk MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/33712
+#EXTINF:-1 group-title="MAKEDONIJA",MCD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/665
+#EXTINF:-1 group-title="MAKEDONIJA",HBO MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43559
+#EXTINF:-1 group-title="MAKEDONIJA",HBO 2 MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43560
+#EXTINF:-1 group-title="MAKEDONIJA",HBO 3 MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43561
+#EXTINF:-1 group-title="MAKEDONIJA",Fox MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41324
+#EXTINF:-1 group-title="MAKEDONIJA",Fox Movies MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/17488
+#EXTINF:-1 group-title="MAKEDONIJA",Fox Life MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/426
+#EXTINF:-1 group-title="MAKEDONIJA",Fox Crime MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/749
+#EXTINF:-1 group-title="MAKEDONIJA",TV 1000 MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/15593
+#EXTINF:-1 group-title="MAKEDONIJA",FilmBox Plus MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/830
+#EXTINF:-1 group-title="MAKEDONIJA",M1 MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/17489
+#EXTINF:-1 group-title="MAKEDONIJA",M1 Gold MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4107
+#EXTINF:-1 group-title="MAKEDONIJA",Cineplex
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46189
+#EXTINF:-1 group-title="MAKEDONIJA",National Geographic MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/360
+#EXTINF:-1 group-title="MAKEDONIJA",Viasat History MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/669
+#EXTINF:-1 group-title="MAKEDONIJA",Viasat Nature MK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/420
 
-#EXTINF:-1 tvg-id="hayatovci" tvg-name="DJ: HAYATOVCI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/hayatovci.png" group-title="DJECIJI",DJ: HAYATOVCI
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3933
-#EXTINF:-1 tvg-id="" tvg-name="DJ: RTL KOCKICA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/rtlkockica.png" group-title="DJECIJI",DJ: RTL KOCKICA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3934
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="DJ: PINK KIDS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/pinkkids.png" group-title="DJECIJI",DJ: PINK KIDS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3935
-#EXTINF:-1 tvg-id="minimax" tvg-name="DJ: MINIMAX" tvg-logo="http://live.nettv.pro/icons/DJECIJI/minimax.png" group-title="DJECIJI",DJ: MINIMAX
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3936
-#EXTINF:-1 tvg-id="" tvg-name="DJ: NICKELODEON SR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickelodeon.png" group-title="DJECIJI",DJ: NICKELODEON SR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/55498
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="DJ: NICKELODEON HR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickelodeon.png" group-title="DJECIJI",DJ: NICKELODEON HR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3937
-#EXTINF:-1 tvg-id="" tvg-name="DJ: NICK JR SR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickjr.png" group-title="DJECIJI",DJ: NICK JR SR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/55497
-#EXTINF:-1 tvg-id="" tvg-name="DJ: NICK JR HR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickjr.png" group-title="DJECIJI",DJ: NICK JR HR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3939
-#EXTINF:-1 tvg-id="pikaboo" tvg-name="DJ: PIKABOO" tvg-logo="http://live.nettv.pro/icons/DJECIJI/pikabo.png" group-title="DJECIJI",DJ: PIKABOO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3940
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MASA I MEDO" tvg-logo="http://live.nettv.pro/icons/DJECIJI/masaimedo.jpg" group-title="DJECIJI",24/7 MASA I MEDO
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3941
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TOM & JERRY" tvg-logo="http://live.nettv.pro/icons/DJECIJI/tomandjerry.jpg" group-title="DJECIJI",24/7 TOM & JERRY
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3942
-#EXTINF:-1 tvg-id="babytv" tvg-name="DJ: BABY TV" tvg-logo="http://live.nettv.pro/icons/DJECIJI/babay.png" group-title="DJECIJI",DJ: BABY TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3943
-#EXTINF:-1 tvg-id="tnt-kids" tvg-name="DJ: TNT KIDS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/tntkids.png" group-title="DJECIJI",DJ: TNT KIDS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3944
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="DJ: SUPER KIDS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/superkids.png" group-title="DJECIJI",DJ: SUPER KIDS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3945
-#EXTINF:-1 tvg-id="" tvg-name="DJ: MINI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/mini.png" group-title="DJECIJI",DJ: MINI
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3938
-#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KIKA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/kika.png" group-title="DJECIJI",DE: KIKA
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3946
-#EXTINF:-1 tvg-id="041e399dfd000d40c599fa5fb08d5781" tvg-name="DE: SUPER RTL" tvg-logo="http://live.nettv.pro/icons/DJECIJI/superrtč.png" group-title="DJECIJI",DE: SUPER RTL
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3947
-#EXTINF:-1 tvg-id="toggo-plus" tvg-name="DE: TOGGO PLUS" tvg-logo="http://live.nettv.pro/icons/DJECIJI/toggoplus.png" group-title="DJECIJI",DE: TOGGO PLUS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3948
-#EXTINF:-1 tvg-id="nickelodeon-de" tvg-name="DE: NICKELODEON" tvg-logo="http://live.nettv.pro/icons/DJECIJI/nickelodeon.png" group-title="DJECIJI",DE: NICKELODEON
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3949
-#EXTINF:-1 tvg-id="disney-channel-de" tvg-name="DE: DISNEY CHANNEL HD" tvg-logo="http://live.nettv.pro/icons/DJECIJI/disnay.png" group-title="DJECIJI",DE: DISNEY CHANNEL HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3950
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY JUNIOR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/disnay.png" group-title="DJECIJI",DE: DISNEY JUNIOR
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3951
-#EXTINF:-1 tvg-id="boomerang-de" tvg-name="DE: BOOMERANG HD" tvg-logo="http://live.nettv.pro/icons/DJECIJI/boomerang.png" group-title="DJECIJI",DE: BOOMERANG HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3952
-#EXTINF:-1 tvg-id="cartoon-network-de" tvg-name="DE: CARTOON  NETWORK HD" tvg-logo="http://live.nettv.pro/icons/DJECIJI/cartnonetwork.png" group-title="DJECIJI",DE: CARTOON  NETWORK HD
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/3953
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="MUZ: GRAND TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/grand.png" group-title="MUZICKI",MUZ: GRAND TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9880
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: GRAND 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/grand.png" group-title="MUZICKI",MUZ: GRAND 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9881
-#EXTINF:-1 tvg-id="dmsat" tvg-name="MUZ: DM SAT" tvg-logo="http://live.nettv.pro/icons/MUZICKI/dmsat.png" group-title="MUZICKI",MUZ: DM SAT
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9882
-#EXTINF:-1 tvg-id="pink-folk" tvg-name="MUZ: PINK FOLK 1" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkfolk1.png" group-title="MUZICKI",MUZ: PINK FOLK 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9883
-#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="MUZ: PINK FOLK 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkfolk2.png" group-title="MUZICKI",MUZ: PINK FOLK 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9884
-#EXTINF:-1 tvg-id="bn-music" tvg-name="MUZ: BN MUSIC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/bnmusic.png" group-title="MUZICKI",MUZ: BN MUSIC
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9885
-#EXTINF:-1 tvg-id="pink-music" tvg-name="MUZ: PINK MUSIC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkmusic.png" group-title="MUZICKI",MUZ: PINK MUSIC
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9886
-#EXTINF:-1 tvg-id="pink-music-2" tvg-name="MUZ: PINK MUSIC 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkmusic.png" group-title="MUZICKI",MUZ: PINK MUSIC 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9887
-#EXTINF:-1 tvg-id="hayat-folk" tvg-name="MUZ: HAYAT FOLK" tvg-logo="http://live.nettv.pro/icons/MUZICKI/hayatfolk.png" group-title="MUZICKI",MUZ: HAYAT FOLK
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9888
-#EXTINF:-1 tvg-id="hayat-music" tvg-name="MUZ: HAYAT MUSIC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/hayatmusic.png" group-title="MUZICKI",MUZ: HAYAT MUSIC
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9889
-#EXTINF:-1 tvg-id="cmc" tvg-name="MUZ: CMC" tvg-logo="http://live.nettv.pro/icons/MUZICKI/cmc.png" group-title="MUZICKI",MUZ: CMC
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9890
-#EXTINF:-1 tvg-id="balkanika" tvg-name="MUZ: BALKANIKA TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/balkanika.png" group-title="MUZICKI",MUZ: BALKANIKA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9891
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: IDJ TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/idj.png" group-title="MUZICKI",MUZ: IDJ TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9892
-#EXTINF:-1 tvg-id="imperiatv" tvg-name="IMPERIA TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/imperia.png" group-title="MUZICKI",IMPERIA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9893
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: SEHARA TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/sehara.jpg" group-title="MUZICKI",MUZ: SEHARA TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9894
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: SEVDAH TV" tvg-logo="http://live.nettv.pro/icons/MUZICKI/sevdah.png" group-title="MUZICKI",MUZ: SEVDAH TV
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9895
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: YU PLANET" tvg-logo="http://live.nettv.pro/icons/MUZICKI/yuplanet.png" group-title="MUZICKI",MUZ: YU PLANET
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9896
-#EXTINF:-1 tvg-id="" tvg-name="JUGOTON" tvg-logo="http://live.nettv.pro/icons/MUZICKI/jugoton.png" group-title="MUZICKI",JUGOTON
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9897
-#EXTINF:-1 tvg-id="pink-n-roll" tvg-name="MUZ: PINK & ROLL" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkroll.png" group-title="MUZICKI",MUZ: PINK & ROLL
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9898
-#EXTINF:-1 tvg-id="pink-hits" tvg-name="MUZ: PINK HITS 1" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkhits.png" group-title="MUZICKI",MUZ: PINK HITS 1
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9899
-#EXTINF:-1 tvg-id="pink-hits-2" tvg-name="MUZ: PINK HITS 2" tvg-logo="http://live.nettv.pro/icons/MUZICKI/pinkhits2.png" group-title="MUZICKI",MUZ: PINK HITS 2
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9900
-#EXTINF:-1 tvg-id="" tvg-name="MUZ: MTV LIVE" tvg-logo="http://live.nettv.pro/icons/MUZICKI/mtvlive.jpg" group-title="MUZICKI",MUZ: MTV LIVE
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9901
-#EXTINF:-1 tvg-id="mtvhits" tvg-name="MTV HITS" tvg-logo="http://live.nettv.pro/icons/MUZICKI/mtvhits.png" group-title="MUZICKI",MTV HITS
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9904
-#EXTINF:-1 tvg-id="" tvg-name="KRONE HIT" tvg-logo="http://live.nettv.pro/icons/MUZICKI/kronetv.png" group-title="MUZICKI",KRONE HIT
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/9905
-#EXTINF:-1 tvg-id="" tvg-name="Pink Style" tvg-logo="" group-title="PINK",Pink Style
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/179
-#EXTINF:-1 tvg-id="pink-fashion" tvg-name="Pink Fashion" tvg-logo="http://live.nettv.pro/icons/PINK/pinfashion.png" group-title="PINK",Pink Fashion
-http://live.baltazar.pro:80/stefanbaleksandarmomicvib/2fa3q5R4qe/180
+#EXTINF:-1 group-title="SRBIJA",*** Srbija ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/740
+#EXTINF:-1 group-title="SRBIJA",RTS 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16
+#EXTINF:-1 group-title="SRBIJA",RTS 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/363
+#EXTINF:-1 group-title="SRBIJA",RTS 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/17
+#EXTINF:-1 group-title="SRBIJA",RTS 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46741
+#EXTINF:-1 group-title="SRBIJA",RTS 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/18
+#EXTINF:-1 group-title="SRBIJA",RTS 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46742
+#EXTINF:-1 group-title="SRBIJA",RTS Svet
+http://bazaruto.top:8000/lazodj/M83jN6A89X/19
+#EXTINF:-1 group-title="SRBIJA",Prva TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/20
+#EXTINF:-1 group-title="SRBIJA",Prva TV HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/137
+#EXTINF:-1 group-title="SRBIJA",Pink
+http://bazaruto.top:8000/lazodj/M83jN6A89X/21
+#EXTINF:-1 group-title="SRBIJA",Pink HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/168
+#EXTINF:-1 group-title="SRBIJA",B92
+http://bazaruto.top:8000/lazodj/M83jN6A89X/71
+#EXTINF:-1 group-title="SRBIJA",B92 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43195
+#EXTINF:-1 group-title="SRBIJA",Happy TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/22
+#EXTINF:-1 group-title="SRBIJA",Happy TV HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43196
+#EXTINF:-1 group-title="SRBIJA",Nova S
+http://bazaruto.top:8000/lazodj/M83jN6A89X/167
+#EXTINF:-1 group-title="SRBIJA",Nova S HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/6252
+#EXTINF:-1 group-title="SRBIJA",Nova Max
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45494
+#EXTINF:-1 group-title="SRBIJA",Una TV SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39715
+#EXTINF:-1 group-title="SRBIJA",K1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26080
+#EXTINF:-1 group-title="SRBIJA",Hype TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41320
+#EXTINF:-1 group-title="SRBIJA",Blic TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43887
+#EXTINF:-1 group-title="SRBIJA",N1 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/278
+#EXTINF:-1 group-title="SRBIJA",EuroNews Srbija
+http://bazaruto.top:8000/lazodj/M83jN6A89X/40094
+#EXTINF:-1 group-title="SRBIJA",Tanjug
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39728
+#EXTINF:-1 group-title="SRBIJA",Vesti
+http://bazaruto.top:8000/lazodj/M83jN6A89X/87
+#EXTINF:-1 group-title="SRBIJA",Prva Plus
+http://bazaruto.top:8000/lazodj/M83jN6A89X/221
+#EXTINF:-1 group-title="SRBIJA",Prva World
+http://bazaruto.top:8000/lazodj/M83jN6A89X/174
+#EXTINF:-1 group-title="SRBIJA",Prva Max
+http://bazaruto.top:8000/lazodj/M83jN6A89X/258
+#EXTINF:-1 group-title="SRBIJA",Prva Kick
+http://bazaruto.top:8000/lazodj/M83jN6A89X/256
+#EXTINF:-1 group-title="SRBIJA",Prva Files
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1868
+#EXTINF:-1 group-title="SRBIJA",Prva Life
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41611
+#EXTINF:-1 group-title="SRBIJA",RTV Vojvodina 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/23
+#EXTINF:-1 group-title="SRBIJA",RTV Vojvodina 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/24
+#EXTINF:-1 group-title="SRBIJA",TV Centar Svilajnac
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45493
+#EXTINF:-1 group-title="SRBIJA",Sat TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41608
+#EXTINF:-1 group-title="SRBIJA",TV Istok
+http://bazaruto.top:8000/lazodj/M83jN6A89X/262
+#EXTINF:-1 group-title="SRBIJA",TV Istok 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/2713
+#EXTINF:-1 group-title="SRBIJA",YU Eco
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44697
+#EXTINF:-1 group-title="SRBIJA",KCN 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/393
+#EXTINF:-1 group-title="SRBIJA",KCN 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/394
+#EXTINF:-1 group-title="SRBIJA",KCN 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/395
+#EXTINF:-1 group-title="SRBIJA",Kurir TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/260
+#EXTINF:-1 group-title="SRBIJA",Jefimija
+http://bazaruto.top:8000/lazodj/M83jN6A89X/261
+#EXTINF:-1 group-title="SRBIJA",Studio B
+http://bazaruto.top:8000/lazodj/M83jN6A89X/259
+#EXTINF:-1 group-title="SRBIJA",Novosadska TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16654
+#EXTINF:-1 group-title="SRBIJA",Belle Amie
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3169
+#EXTINF:-1 group-title="SRBIJA",Agro TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3170
+#EXTINF:-1 group-title="SRBIJA",PI Kanal
+http://bazaruto.top:8000/lazodj/M83jN6A89X/347
+#EXTINF:-1 group-title="SRBIJA",Palma Plus
+http://bazaruto.top:8000/lazodj/M83jN6A89X/453
+#EXTINF:-1 group-title="SRBIJA",RTV Kraljevo
+http://bazaruto.top:8000/lazodj/M83jN6A89X/454
+#EXTINF:-1 group-title="SRBIJA",Insajder TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44293
+#EXTINF:-1 group-title="SRBIJA",Jeka HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16667
+#EXTINF:-1 group-title="SRBIJA",Novi Pazar
+http://bazaruto.top:8000/lazodj/M83jN6A89X/687
+#EXTINF:-1 group-title="SRBIJA",RTV Mir
+http://bazaruto.top:8000/lazodj/M83jN6A89X/349
+#EXTINF:-1 group-title="SRBIJA",TV Kladovo
+http://bazaruto.top:8000/lazodj/M83jN6A89X/2714
+#EXTINF:-1 group-title="SRBIJA",K 25
+http://bazaruto.top:8000/lazodj/M83jN6A89X/450
+#EXTINF:-1 group-title="SRBIJA",Balkan Trip
+http://bazaruto.top:8000/lazodj/M83jN6A89X/2715
+#EXTINF:-1 group-title="SRBIJA",RTV Mlava
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1167
+#EXTINF:-1 group-title="SRBIJA",Pirot
+http://bazaruto.top:8000/lazodj/M83jN6A89X/483
+#EXTINF:-1 group-title="SRBIJA",Srpska Dijaspora
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16340
+#EXTINF:-1 group-title="SRBIJA",SOS Kanal
+http://bazaruto.top:8000/lazodj/M83jN6A89X/396
+#EXTINF:-1 group-title="SRBIJA",Hram TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4191
+#EXTINF:-1 group-title="SRBIJA",RTS Drama
+http://bazaruto.top:8000/lazodj/M83jN6A89X/440
+#EXTINF:-1 group-title="SRBIJA",RTS Zivot
+http://bazaruto.top:8000/lazodj/M83jN6A89X/441
+#EXTINF:-1 group-title="SRBIJA",RTS Trezor
+http://bazaruto.top:8000/lazodj/M83jN6A89X/439
+#EXTINF:-1 group-title="SRBIJA",RTS Kolo
+http://bazaruto.top:8000/lazodj/M83jN6A89X/442
+#EXTINF:-1 group-title="SRBIJA",RTS Muzika 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3181
+#EXTINF:-1 group-title="SRBIJA",RTS Poletarac
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16677
+#EXTINF:-1 group-title="SRBIJA",RTS Nauka
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41319
+#EXTINF:-1 group-title="SRBIJA",Happy Drustvo
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44789
+#EXTINF:-1 group-title="SRBIJA",Happy Zivot
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44790
+#EXTINF:-1 group-title="SRBIJA",Happy Muzika
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44791
+#EXTINF:-1 group-title="SRBIJA",Red TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/17071
+#EXTINF:-1 group-title="SRBIJA",Red TV HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45966
+#EXTINF:-1 group-title="SRBIJA",Elita 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/271
+#EXTINF:-1 group-title="SRBIJA",Elita 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/37823
+#EXTINF:-1 group-title="SRBIJA",Elita 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/272
+#EXTINF:-1 group-title="SRBIJA",Elita 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1424
+#EXTINF:-1 group-title="SRBIJA",Elita 4
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1425
+#EXTINF:-1 group-title="SRBIJA",Insta TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44385
+
+#EXTINF:-1 group-title="BIH",*** BOSNA ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39
+#EXTINF:-1 group-title="BIH",BHT 1 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38
+#EXTINF:-1 group-title="BIH",BHT 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/418
+#EXTINF:-1 group-title="BIH",OBN
+http://bazaruto.top:8000/lazodj/M83jN6A89X/40
+#EXTINF:-1 group-title="BIH",OBN HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1293
+#EXTINF:-1 group-title="BIH",Federalna TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41
+#EXTINF:-1 group-title="BIH",Federalna TV HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42686
+#EXTINF:-1 group-title="BIH",Face TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42
+#EXTINF:-1 group-title="BIH",Face TV HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42685
+#EXTINF:-1 group-title="BIH",Hayat TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43
+#EXTINF:-1 group-title="BIH",Hayat TV HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42687
+#EXTINF:-1 group-title="BIH",Hayat Plus
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44
+#EXTINF:-1 group-title="BIH",Nova BH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/47
+#EXTINF:-1 group-title="BIH",Nova BH HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42831
+#EXTINF:-1 group-title="BIH",BN TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/49
+#EXTINF:-1 group-title="BIH",BN 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39700
+#EXTINF:-1 group-title="BIH",Pink BH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/48
+#EXTINF:-1 group-title="BIH",RTRS
+http://bazaruto.top:8000/lazodj/M83jN6A89X/25
+#EXTINF:-1 group-title="BIH",RTRS Plus
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26
+#EXTINF:-1 group-title="BIH",ATV Banja Luka
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45
+#EXTINF:-1 group-title="BIH",N1 BiH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/277
+#EXTINF:-1 group-title="BIH",N1 BH HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42830
+#EXTINF:-1 group-title="BIH",Al Jazeera Balkans
+http://bazaruto.top:8000/lazodj/M83jN6A89X/50
+#EXTINF:-1 group-title="BIH",0 Kanal
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1294
+#EXTINF:-1 group-title="BIH",Una TV BH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39714
+#EXTINF:-1 group-title="BIH",TataBrada
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39178
+#EXTINF:-1 group-title="BIH",TV TK Tuzla
+http://bazaruto.top:8000/lazodj/M83jN6A89X/51
+#EXTINF:-1 group-title="BIH",RTV Visoko
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46505
+#EXTINF:-1 group-title="BIH",K3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/678
+#EXTINF:-1 group-title="BIH",Elta 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/351
+#EXTINF:-1 group-title="BIH",Elta 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39498
+#EXTINF:-1 group-title="BIH",Sandzak TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/688
+#EXTINF:-1 group-title="BIH",RTV USK HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16336
+#EXTINF:-1 group-title="BIH",B1 Gradacac
+http://bazaruto.top:8000/lazodj/M83jN6A89X/350
+#EXTINF:-1 group-title="BIH",Alfa TV 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46
+#EXTINF:-1 group-title="BIH",TV Sarajevo
+http://bazaruto.top:8000/lazodj/M83jN6A89X/53
+#EXTINF:-1 group-title="BIH",NTV IC Kakanj
+http://bazaruto.top:8000/lazodj/M83jN6A89X/448
+#EXTINF:-1 group-title="BIH",RTV Sana
+http://bazaruto.top:8000/lazodj/M83jN6A89X/6169
+#EXTINF:-1 group-title="BIH",Kanal 6
+http://bazaruto.top:8000/lazodj/M83jN6A89X/449
+#EXTINF:-1 group-title="BIH",Duga
+http://bazaruto.top:8000/lazodj/M83jN6A89X/457
+#EXTINF:-1 group-title="BIH",TV Slon Extra
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16750
+#EXTINF:-1 group-title="BIH",TV Zenica
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16751
+#EXTINF:-1 group-title="BIH",Bosanska Posavina TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16752
+#EXTINF:-1 group-title="BIH",RTV Herceg Bosna
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16753
+#EXTINF:-1 group-title="BIH",Glas Drine
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16754
+#EXTINF:-1 group-title="BIH",Lotel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46592
+#EXTINF:-1 group-title="BIH",Neon TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46593
+#EXTINF:-1 group-title="BIH",RTV Cazin
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46540
+#EXTINF:-1 group-title="BIH",RTV Bugojno
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46541
+#EXTINF:-1 group-title="BIH",Sezam TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46542
+#EXTINF:-1 group-title="BIH",Super TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46543
+#EXTINF:-1 group-title="BIH",TV 7 Tuzla
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46544
+#EXTINF:-1 group-title="BIH",TV Sehara Online
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46545
+#EXTINF:-1 group-title="BIH",Podrinje
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16755
+#EXTINF:-1 group-title="BIH",Hit Brcko
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16756
+#EXTINF:-1 group-title="BIH",City TV Mostar
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16766
+#EXTINF:-1 group-title="BIH",MTV Igman
+http://bazaruto.top:8000/lazodj/M83jN6A89X/686
+
+#EXTINF:-1 group-title="CRNA GORA",RTCG Sat
+http://bazaruto.top:8000/lazodj/M83jN6A89X/357
+#EXTINF:-1 group-title="CRNA GORA",RTCG 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/424
+#EXTINF:-1 group-title="CRNA GORA",RTCG 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/358
+#EXTINF:-1 group-title="CRNA GORA",Prva TV CG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/24726
+#EXTINF:-1 group-title="CRNA GORA",Nova m
+http://bazaruto.top:8000/lazodj/M83jN6A89X/419
+#EXTINF:-1 group-title="CRNA GORA",Vijesti Crg
+http://bazaruto.top:8000/lazodj/M83jN6A89X/359
+#EXTINF:-1 group-title="CRNA GORA",TV 7 CG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/361
+#EXTINF:-1 group-title="CRNA GORA",Niksic CG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/40101
+#EXTINF:-1 group-title="CRNA GORA",TV Budva
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41323
+
+#EXTINF:-1 group-title="SLOVENIJA",***SLOVENIJA***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38241
+#EXTINF:-1 group-title="SLOVENIJA",Slo 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/460
+#EXTINF:-1 group-title="SLOVENIJA",Slo 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/461
+#EXTINF:-1 group-title="SLOVENIJA",Slo 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/462
+#EXTINF:-1 group-title="SLOVENIJA",Planet TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/465
+#EXTINF:-1 group-title="SLOVENIJA",Planet 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38242
+#EXTINF:-1 group-title="SLOVENIJA",Planet Plus
+http://bazaruto.top:8000/lazodj/M83jN6A89X/464
+#EXTINF:-1 group-title="SLOVENIJA",Pop TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3811
+#EXTINF:-1 group-title="SLOVENIJA",Kanal A
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3812
+#EXTINF:-1 group-title="SLOVENIJA",TV Maribor
+http://bazaruto.top:8000/lazodj/M83jN6A89X/466
+#EXTINF:-1 group-title="SLOVENIJA",Nova 24
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38246
+#EXTINF:-1 group-title="SLOVENIJA",Pop Kino
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38244
+#EXTINF:-1 group-title="SLOVENIJA",POP Brio
+http://bazaruto.top:8000/lazodj/M83jN6A89X/468
+
+#EXTINF:-1 group-title="FILM",*** FILM ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/869
+#EXTINF:-1 group-title="FILM",HBO Adria
+http://bazaruto.top:8000/lazodj/M83jN6A89X/54
+#EXTINF:-1 group-title="FILM",HBO Adria HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/218
+#EXTINF:-1 group-title="FILM",HBO 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/56
+#EXTINF:-1 group-title="FILM",HBO 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/672
+#EXTINF:-1 group-title="FILM",HBO 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/57
+#EXTINF:-1 group-title="FILM",HBO 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/220
+#EXTINF:-1 group-title="FILM",FOX
+http://bazaruto.top:8000/lazodj/M83jN6A89X/62
+#EXTINF:-1 group-title="FILM",FOX HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1507
+#EXTINF:-1 group-title="FILM",FOX Movies
+http://bazaruto.top:8000/lazodj/M83jN6A89X/63
+#EXTINF:-1 group-title="FILM",FOX Movies HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1510
+#EXTINF:-1 group-title="FILM",FOX Life
+http://bazaruto.top:8000/lazodj/M83jN6A89X/65
+#EXTINF:-1 group-title="FILM",FOX Life HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1509
+#EXTINF:-1 group-title="FILM",FOX Crime
+http://bazaruto.top:8000/lazodj/M83jN6A89X/64
+#EXTINF:-1 group-title="FILM",FOX Crime HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1508
+#EXTINF:-1 group-title="FILM",CineStar Action
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44200
+#EXTINF:-1 group-title="FILM",CineStar Premiere 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/58
+#EXTINF:-1 group-title="FILM",Cinestar Premiere 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/6179
+#EXTINF:-1 group-title="FILM",CineStar Premiere 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/59
+#EXTINF:-1 group-title="FILM",Cinestar Premiere 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/6180
+#EXTINF:-1 group-title="FILM",CineStar TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/60
+#EXTINF:-1 group-title="FILM",CineStar TV 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/17021
+#EXTINF:-1 group-title="FILM",Cinestar Comedy
+http://bazaruto.top:8000/lazodj/M83jN6A89X/2522
+#EXTINF:-1 group-title="FILM",Cinestar Fantasy
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46930
+#EXTINF:-1 group-title="FILM",TV 1000
+http://bazaruto.top:8000/lazodj/M83jN6A89X/113
+#EXTINF:-1 group-title="FILM",Cinemax 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/66
+#EXTINF:-1 group-title="FILM",Cinemax 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/67
+#EXTINF:-1 group-title="FILM",FilmBox Extra 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39481
+#EXTINF:-1 group-title="FILM",AMC
+http://bazaruto.top:8000/lazodj/M83jN6A89X/68
+#EXTINF:-1 group-title="FILM",Kino TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/273
+#EXTINF:-1 group-title="FILM",Diva
+http://bazaruto.top:8000/lazodj/M83jN6A89X/661
+#EXTINF:-1 group-title="FILM",SciFi Chanel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3194
+#EXTINF:-1 group-title="FILM",AXN
+http://bazaruto.top:8000/lazodj/M83jN6A89X/274
+#EXTINF:-1 group-title="FILM",AXN Spin
+http://bazaruto.top:8000/lazodj/M83jN6A89X/275
+#EXTINF:-1 group-title="FILM",M1 Film
+http://bazaruto.top:8000/lazodj/M83jN6A89X/132
+#EXTINF:-1 group-title="FILM",M1 Gold
+http://bazaruto.top:8000/lazodj/M83jN6A89X/133
+#EXTINF:-1 group-title="FILM",M1 Family
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39160
+#EXTINF:-1 group-title="FILM",Epic Drama
+http://bazaruto.top:8000/lazodj/M83jN6A89X/255
+#EXTINF:-1 group-title="FILM",Klasik TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/253
+#EXTINF:-1 group-title="FILM",Film Klub
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1454
+#EXTINF:-1 group-title="FILM",SuperStar
+http://bazaruto.top:8000/lazodj/M83jN6A89X/254
+#EXTINF:-1 group-title="FILM",SuperStar 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1660
+#EXTINF:-1 group-title="FILM",Pickbox TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/753
+#EXTINF:-1 group-title="FILM",Dobra Cinema
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3224
+#EXTINF:-1 group-title="FILM",TimeOut
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16707
+#EXTINF:-1 group-title="FILM",MaxCro Select 1 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/37889
+#EXTINF:-1 group-title="FILM",MaxCro Select 2 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/635
+#EXTINF:-1 group-title="FILM",MaxCro Select 3 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/634
+#EXTINF:-1 group-title="FILM",MaxCro Select 4 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/633
+#EXTINF:-1 group-title="FILM",MaxCro Select 5 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/632
+#EXTINF:-1 group-title="FILM",MaxCro Select 6 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/631
+#EXTINF:-1 group-title="FILM",MaxCro Select 7 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/630
+#EXTINF:-1 group-title="FILM",MaxCro Select 8 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/629
+#EXTINF:-1 group-title="FILM",MaxCro Select 9 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/628
+#EXTINF:-1 group-title="FILM",MaxCro Select 10
+http://bazaruto.top:8000/lazodj/M83jN6A89X/627
+#EXTINF:-1 group-title="FILM",Box Office 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39157
+#EXTINF:-1 group-title="FILM",Box Office 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39158
+#EXTINF:-1 group-title="FILM",Box Office 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39824
+#EXTINF:-1 group-title="FILM",Nova Cinema
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39154
+#EXTINF:-1 group-title="FILM",Nova Cinema 2K
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39155
+#EXTINF:-1 group-title="FILM",Sky GO 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26535
+#EXTINF:-1 group-title="FILM",Sky GO 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26534
+#EXTINF:-1 group-title="FILM",Sky GO 3 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26533
+#EXTINF:-1 group-title="FILM",Sky GO 4 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26532
+#EXTINF:-1 group-title="FILM",Sky GO 5
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26530
+#EXTINF:-1 group-title="FILM",Sky GO 6
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26527
+#EXTINF:-1 group-title="FILM",Sky GO 7
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26526
+#EXTINF:-1 group-title="FILM",Sky GO 8
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26525
+#EXTINF:-1 group-title="FILM",Sky GO 9
+http://bazaruto.top:8000/lazodj/M83jN6A89X/26522
+#EXTINF:-1 group-title="FILM",Sky GO 10
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45738
+#EXTINF:-1 group-title="FILM",Euro Cinema 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45592
+#EXTINF:-1 group-title="FILM",Euro Cinema 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45593
+#EXTINF:-1 group-title="FILM",Euro Cinema 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45594
+#EXTINF:-1 group-title="FILM",Euro Cinema 4
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45595
+#EXTINF:-1 group-title="FILM",*** PINK MEDIA GROUP ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/72
+#EXTINF:-1 group-title="FILM",Pink Plus
+http://bazaruto.top:8000/lazodj/M83jN6A89X/85
+#EXTINF:-1 group-title="FILM",Pink Film
+http://bazaruto.top:8000/lazodj/M83jN6A89X/80
+#EXTINF:-1 group-title="FILM",Pink Film HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45965
+#EXTINF:-1 group-title="FILM",Pink Premium
+http://bazaruto.top:8000/lazodj/M83jN6A89X/88
+#EXTINF:-1 group-title="FILM",Pink World Cinema
+http://bazaruto.top:8000/lazodj/M83jN6A89X/96
+#EXTINF:-1 group-title="FILM",Pink Thriller
+http://bazaruto.top:8000/lazodj/M83jN6A89X/92
+#EXTINF:-1 group-title="FILM",Pink Sci Fi and Fantasy
+http://bazaruto.top:8000/lazodj/M83jN6A89X/89
+#EXTINF:-1 group-title="FILM",Pink Action
+http://bazaruto.top:8000/lazodj/M83jN6A89X/74
+#EXTINF:-1 group-title="FILM",Pink Horror
+http://bazaruto.top:8000/lazodj/M83jN6A89X/81
+#EXTINF:-1 group-title="FILM",Pink Movies
+http://bazaruto.top:8000/lazodj/M83jN6A89X/84
+#EXTINF:-1 group-title="FILM",Pink Comedy
+http://bazaruto.top:8000/lazodj/M83jN6A89X/573
+#EXTINF:-1 group-title="FILM",Pink Crime & Mystery
+http://bazaruto.top:8000/lazodj/M83jN6A89X/76
+#EXTINF:-1 group-title="FILM",Pink Classic
+http://bazaruto.top:8000/lazodj/M83jN6A89X/75
+#EXTINF:-1 group-title="FILM",Pink Western
+http://bazaruto.top:8000/lazodj/M83jN6A89X/93
+#EXTINF:-1 group-title="FILM",Pink Family
+http://bazaruto.top:8000/lazodj/M83jN6A89X/78
+#EXTINF:-1 group-title="FILM",Pink Soap
+http://bazaruto.top:8000/lazodj/M83jN6A89X/91
+#EXTINF:-1 group-title="FILM",Pink Serije
+http://bazaruto.top:8000/lazodj/M83jN6A89X/90
+#EXTINF:-1 group-title="FILM",Pink Romance
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3043
+#EXTINF:-1 group-title="FILM",Pink Reality
+http://bazaruto.top:8000/lazodj/M83jN6A89X/86
+#EXTINF:-1 group-title="FILM",Pink LOL
+http://bazaruto.top:8000/lazodj/M83jN6A89X/83
+#EXTINF:-1 group-title="FILM",Pink HaHa
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3410
+#EXTINF:-1 group-title="FILM",Pink World
+http://bazaruto.top:8000/lazodj/M83jN6A89X/95
+#EXTINF:-1 group-title="FILM",Pink Pedia
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28543
+#EXTINF:-1 group-title="FILM",Pink Zabava
+http://bazaruto.top:8000/lazodj/M83jN6A89X/94
+#EXTINF:-1 group-title="FILM",Pink Kuvar
+http://bazaruto.top:8000/lazodj/M83jN6A89X/82
+#EXTINF:-1 group-title="FILM",Pink Fashion
+http://bazaruto.top:8000/lazodj/M83jN6A89X/79
+#EXTINF:-1 group-title="FILM",Pink Style
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3044
+#EXTINF:-1 group-title="FILM",Pink Extra
+http://bazaruto.top:8000/lazodj/M83jN6A89X/77
+#EXTINF:-1 group-title="FILM",Pink Show
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28180
+
+#EXTINF:-1 group-title="DOKU",Discovery Chanel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/105
+#EXTINF:-1 group-title="DOKU",Animal Planet
+http://bazaruto.top:8000/lazodj/M83jN6A89X/106
+#EXTINF:-1 group-title="DOKU",National Geographic
+http://bazaruto.top:8000/lazodj/M83jN6A89X/109
+#EXTINF:-1 group-title="DOKU", National Geographic Wild
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45578
+#EXTINF:-1 group-title="DOKU", Wild
+http://bazaruto.top:8000/lazodj/M83jN6A89X/110
+#EXTINF:-1 group-title="DOKU",History Channel 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/107
+#EXTINF:-1 group-title="DOKU",History Channel 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/108
+#EXTINF:-1 group-title="DOKU",Discovery Science
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1959
+#EXTINF:-1 group-title="DOKU",ID Discovery
+http://bazaruto.top:8000/lazodj/M83jN6A89X/371
+#EXTINF:-1 group-title="DOKU",Crime & Investigation
+http://bazaruto.top:8000/lazodj/M83jN6A89X/370
+#EXTINF:-1 group-title="DOKU",Viasat Nature
+http://bazaruto.top:8000/lazodj/M83jN6A89X/297
+#EXTINF:-1 group-title="DOKU",Viasat History
+http://bazaruto.top:8000/lazodj/M83jN6A89X/298
+#EXTINF:-1 group-title="DOKU",Viasat Explore
+http://bazaruto.top:8000/lazodj/M83jN6A89X/124
+#EXTINF:-1 group-title="DOKU",Lov i Ribolov
+http://bazaruto.top:8000/lazodj/M83jN6A89X/343
+#EXTINF:-1 group-title="DOKU",Chasse & Peche
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3526
+#EXTINF:-1 group-title="DOKU",24 Kitchen
+http://bazaruto.top:8000/lazodj/M83jN6A89X/122
+#EXTINF:-1 group-title="DOKU",Food Network
+http://bazaruto.top:8000/lazodj/M83jN6A89X/372
+#EXTINF:-1 group-title="DOKU",Kitchen TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/123
+#EXTINF:-1 group-title="DOKU",TLC
+http://bazaruto.top:8000/lazodj/M83jN6A89X/130
+#EXTINF:-1 group-title="DOKU",Travel Chanel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/303
+#EXTINF:-1 group-title="DOKU",Dobra Travel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3225
+#EXTINF:-1 group-title="DOKU",Da Vinci Learning
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1438
+#EXTINF:-1 group-title="DOKU",E!Entertainment
+http://bazaruto.top:8000/lazodj/M83jN6A89X/304
+#EXTINF:-1 group-title="DOKU",Comedy Central Extra
+http://bazaruto.top:8000/lazodj/M83jN6A89X/423
+#EXTINF:-1 group-title="DOKU",FLN
+http://bazaruto.top:8000/lazodj/M83jN6A89X/131
+#EXTINF:-1 group-title="DOKU",Woman TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/5803
+#EXTINF:-1 group-title="DOKU",Fashion TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/246
+#EXTINF:-1 group-title="DOKU",Luxe HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/375
+#EXTINF:-1 group-title="DOKU",Doku TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3397
+#EXTINF:-1 group-title="DOKU",DokuBox
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16929
+#EXTINF:-1 group-title="DOKU",Planet Earth
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3398
+#EXTINF:-1 group-title="DOKU",BBC Earth
+http://bazaruto.top:8000/lazodj/M83jN6A89X/564
+#EXTINF:-1 group-title="DOKU",CNN 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/247
+#EXTINF:-1 group-title="DOKU",RT Docu HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/251
+#EXTINF:-1 group-title="DOKU",Euronews
+http://bazaruto.top:8000/lazodj/M83jN6A89X/250
+#EXTINF:-1 group-title="DOKU",CNBC
+http://bazaruto.top:8000/lazodj/M83jN6A89X/249
+#EXTINF:-1 group-title="DOKU",BBC Worldnews
+http://bazaruto.top:8000/lazodj/M83jN6A89X/248
+#EXTINF:-1 group-title="DOKU",Aljazeera English HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/40038
+
+#EXTINF:-1 group-title="DJECA",*** KIDS ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/216
+#EXTINF:-1 group-title="DJECA",Nickelodeon SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45492
+#EXTINF:-1 group-title="DJECA",Nickelodeon HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/206
+#EXTINF:-1 group-title="DJECA",NickJr. SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/205
+#EXTINF:-1 group-title="DJECA",NickJr. HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45814
+#EXTINF:-1 group-title="DJECA",RTL Kockica
+http://bazaruto.top:8000/lazodj/M83jN6A89X/209
+#EXTINF:-1 group-title="DJECA",Hayatovci
+http://bazaruto.top:8000/lazodj/M83jN6A89X/210
+#EXTINF:-1 group-title="DJECA",Pikaboo
+http://bazaruto.top:8000/lazodj/M83jN6A89X/215
+#EXTINF:-1 group-title="DJECA",TNT Kids
+http://bazaruto.top:8000/lazodj/M83jN6A89X/203
+#EXTINF:-1 group-title="DJECA",MiniMax
+http://bazaruto.top:8000/lazodj/M83jN6A89X/208
+#EXTINF:-1 group-title="DJECA",Mini tv
+http://bazaruto.top:8000/lazodj/M83jN6A89X/211
+#EXTINF:-1 group-title="DJECA",VaVooM
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3409
+#EXTINF:-1 group-title="DJECA",Pink Kids
+http://bazaruto.top:8000/lazodj/M83jN6A89X/373
+#EXTINF:-1 group-title="DJECA",SuperKids
+http://bazaruto.top:8000/lazodj/M83jN6A89X/374
+#EXTINF:-1 group-title="DJECA",Boomerang
+http://bazaruto.top:8000/lazodj/M83jN6A89X/214
+#EXTINF:-1 group-title="DJECA",Cartoon Network
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1292
+#EXTINF:-1 group-title="DJECA",Disney Jr.
+http://bazaruto.top:8000/lazodj/M83jN6A89X/438
+#EXTINF:-1 group-title="DJECA",Kazabuka
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42908
+#EXTINF:-1 group-title="DJECA",Hey Kids
+http://bazaruto.top:8000/lazodj/M83jN6A89X/40093
+#EXTINF:-1 group-title="DJECA",JimJam
+http://bazaruto.top:8000/lazodj/M83jN6A89X/300
+#EXTINF:-1 group-title="DJECA",Baby TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/212
+#EXTINF:-1 group-title="DJECA",Duck TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/213
+#EXTINF:-1 group-title="DJECA",Masa i Medo
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28179
+#EXTINF:-1 group-title="DJECA",Looney Tunes
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3182
+#EXTINF:-1 group-title="DJECA",Tom And Jery
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3826
+#EXTINF:-1 group-title="DJECA",Karusel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/295
+#EXTINF:-1 group-title="DJECA",Gametoon HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16974
+#EXTINF:-1 group-title="DJECA",GB TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4157
+
+#EXTINF:-1 group-title="MUZIKA",*** MUZIKA ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/867
+#EXTINF:-1 group-title="MUZIKA",Grand TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/223
+#EXTINF:-1 group-title="MUZIKA",Grand TV 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/224
+#EXTINF:-1 group-title="MUZIKA",Balkanika
+http://bazaruto.top:8000/lazodj/M83jN6A89X/243
+#EXTINF:-1 group-title="MUZIKA",DM Sat
+http://bazaruto.top:8000/lazodj/M83jN6A89X/225
+#EXTINF:-1 group-title="MUZIKA",Hayat Folk
+http://bazaruto.top:8000/lazodj/M83jN6A89X/235
+#EXTINF:-1 group-title="MUZIKA",BN Music
+http://bazaruto.top:8000/lazodj/M83jN6A89X/226
+#EXTINF:-1 group-title="MUZIKA",Pink Folk 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/227
+#EXTINF:-1 group-title="MUZIKA",Pink Folk 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/228
+#EXTINF:-1 group-title="MUZIKA",Izvorna TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/344
+#EXTINF:-1 group-title="MUZIKA",Dobra Svadba
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3223
+#EXTINF:-1 group-title="MUZIKA",Dobra Exclusive
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1123
+#EXTINF:-1 group-title="MUZIKA",Sevdah TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/367
+#EXTINF:-1 group-title="MUZIKA",TV Banovina
+http://bazaruto.top:8000/lazodj/M83jN6A89X/233
+#EXTINF:-1 group-title="MUZIKA",Posavina TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/232
+#EXTINF:-1 group-title="MUZIKA",Narodna TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28251
+#EXTINF:-1 group-title="MUZIKA",TOP Sound
+http://bazaruto.top:8000/lazodj/M83jN6A89X/28541
+#EXTINF:-1 group-title="MUZIKA",Roma TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/296
+#EXTINF:-1 group-title="MUZIKA",Upera Balkan TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3396
+#EXTINF:-1 group-title="MUZIKA",Pink Music 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/230
+#EXTINF:-1 group-title="MUZIKA",Pink Music 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/229
+#EXTINF:-1 group-title="MUZIKA",YU Planet
+http://bazaruto.top:8000/lazodj/M83jN6A89X/348
+#EXTINF:-1 group-title="MUZIKA",Dobra Muzicka
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3226
+#EXTINF:-1 group-title="MUZIKA",OTV Valentino
+http://bazaruto.top:8000/lazodj/M83jN6A89X/691
+#EXTINF:-1 group-title="MUZIKA",Valentino Etno
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43719
+#EXTINF:-1 group-title="MUZIKA",Libertas TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/6259
+#EXTINF:-1 group-title="MUZIKA",DMC
+http://bazaruto.top:8000/lazodj/M83jN6A89X/6260
+#EXTINF:-1 group-title="MUZIKA",Hayat Music
+http://bazaruto.top:8000/lazodj/M83jN6A89X/234
+#EXTINF:-1 group-title="MUZIKA",IDJ TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/342
+#EXTINF:-1 group-title="MUZIKA",Toxic
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44069
+#EXTINF:-1 group-title="MUZIKA",Jugoton
+http://bazaruto.top:8000/lazodj/M83jN6A89X/459
+#EXTINF:-1 group-title="MUZIKA",CMC
+http://bazaruto.top:8000/lazodj/M83jN6A89X/231
+#EXTINF:-1 group-title="MUZIKA",OKK
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39717
+#EXTINF:-1 group-title="MUZIKA",Pink Hits 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/443
+#EXTINF:-1 group-title="MUZIKA",Pink Hits 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/444
+#EXTINF:-1 group-title="MUZIKA",MTV 00s
+http://bazaruto.top:8000/lazodj/M83jN6A89X/236
+#EXTINF:-1 group-title="MUZIKA",MTV 80s
+http://bazaruto.top:8000/lazodj/M83jN6A89X/241
+#EXTINF:-1 group-title="MUZIKA",MTV 90s
+http://bazaruto.top:8000/lazodj/M83jN6A89X/239
+#EXTINF:-1 group-title="MUZIKA",MTV Live
+http://bazaruto.top:8000/lazodj/M83jN6A89X/37475
+#EXTINF:-1 group-title="MUZIKA",MTV Adria
+http://bazaruto.top:8000/lazodj/M83jN6A89X/238
+#EXTINF:-1 group-title="MUZIKA",MTV Hits
+http://bazaruto.top:8000/lazodj/M83jN6A89X/240
+#EXTINF:-1 group-title="MUZIKA",MTV Club
+http://bazaruto.top:8000/lazodj/M83jN6A89X/17504
+#EXTINF:-1 group-title="MUZIKA",City TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/245
+#EXTINF:-1 group-title="MUZIKA",The Voice
+http://bazaruto.top:8000/lazodj/M83jN6A89X/244
+#EXTINF:-1 group-title="MUZIKA",MCM Top
+http://bazaruto.top:8000/lazodj/M83jN6A89X/237
+#EXTINF:-1 group-title="MUZIKA",Jukebox 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39672
+#EXTINF:-1 group-title="MUZIKA",Magic TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/242
+
+#EXTINF:-1 group-title="SPORT",*** SPORT ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/868
+#EXTINF:-1 group-title="SPORT",MaxSport 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43197
+#EXTINF:-1 group-title="SPORT",MaxSport 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43198
+#EXTINF:-1 group-title="SPORT",Arena Sport Premium 1 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39240
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 Premium HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42568
+#EXTINF:-1 group-title="SPORT",Arena Sport Premium 2 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39241
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 Premium HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44114
+#EXTINF:-1 group-title="SPORT",Arena Sport Premium 3 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39242
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 Premium HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44115
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 Premium BH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45542
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 Premium BH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45543
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 Premium BH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45544
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/97
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 SR HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/643
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/98
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 SR HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/677
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/99
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 SR HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/645
+#EXTINF:-1 group-title="SPORT",Arena Sport 4 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/100
+#EXTINF:-1 group-title="SPORT",Arena Sport 4 SR HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/646
+#EXTINF:-1 group-title="SPORT",Arena Sport 5 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/101
+#EXTINF:-1 group-title="SPORT",Arena Sport 5 SR HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1398
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/102
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/103
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/104
+#EXTINF:-1 group-title="SPORT",Arena Sport 4 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/112
+#EXTINF:-1 group-title="SPORT",Arena Sport 5 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/114
+#EXTINF:-1 group-title="SPORT",Arena Sport 6 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/352
+#EXTINF:-1 group-title="SPORT",Arena Sport 7 HR 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38772
+#EXTINF:-1 group-title="SPORT",Arena Sport 8 HR 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38773
+#EXTINF:-1 group-title="SPORT",Arena Sport 9 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38774
+#EXTINF:-1 group-title="SPORT",Arena Sport 10 HR 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/38775
+#EXTINF:-1 group-title="SPORT",Arena Sport BIH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43829
+#EXTINF:-1 group-title="SPORT",Arena ESport
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45590
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/116
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 SR HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/40052
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/117
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/118
+#EXTINF:-1 group-title="SPORT",Sport Klub 4 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44849
+#EXTINF:-1 group-title="SPORT",Sport Klub 5 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44850
+#EXTINF:-1 group-title="SPORT",Sport Klub 6 SR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44851
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/119
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/120
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/121
+#EXTINF:-1 group-title="SPORT",Sport Klub 4 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/353
+#EXTINF:-1 group-title="SPORT",Sport Klub 5 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/694
+#EXTINF:-1 group-title="SPORT",Sport Klub 6 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/355
+#EXTINF:-1 group-title="SPORT",Sport Klub HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/738
+#EXTINF:-1 group-title="SPORT",Sport Klub 7
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16876
+#EXTINF:-1 group-title="SPORT",Sport Klub 8
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16877
+#EXTINF:-1 group-title="SPORT",Sport Klub 9
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16878
+#EXTINF:-1 group-title="SPORT",Sport Klub 10
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16879
+#EXTINF:-1 group-title="SPORT",Sport Klub Golf
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39834
+#EXTINF:-1 group-title="SPORT",Eurosport 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/128
+#EXTINF:-1 group-title="SPORT",EuroSport 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/2709
+#EXTINF:-1 group-title="SPORT",Eurosport 1 HD BG/EN Audio
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42684
+#EXTINF:-1 group-title="SPORT",Eurosport 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/129
+#EXTINF:-1 group-title="SPORT",EuroSport 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/2711
+#EXTINF:-1 group-title="SPORT",Eurosport 2 HD BG/EN Audio
+http://bazaruto.top:8000/lazodj/M83jN6A89X/42688
+#EXTINF:-1 group-title="SPORT",Max Sport 1 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43197
+#EXTINF:-1 group-title="SPORT",Max Sport 2 HR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43198
+#EXTINF:-1 group-title="SPORT",Nova Sport
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3105
+#EXTINF:-1 group-title="SPORT",MNE Sport 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44841
+#EXTINF:-1 group-title="SPORT",MNE Sport 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44842
+#EXTINF:-1 group-title="SPORT",MNE Sport 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/44843
+#EXTINF:-1 group-title="SPORT",TV Partizan
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46151
+#EXTINF:-1 group-title="SPORT",Zvezda TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/46152
+#EXTINF:-1 group-title="SPORT",Матч! Футбол 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45361
+#EXTINF:-1 group-title="SPORT",Матч! Футбол 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45362
+#EXTINF:-1 group-title="SPORT",Матч! Футбол 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45363
+#EXTINF:-1 group-title="SPORT",Матч! ТВ HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45458
+#EXTINF:-1 group-title="SPORT",Max Sport 1 BG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/182
+#EXTINF:-1 group-title="SPORT",Max Sport 2 BG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/183
+#EXTINF:-1 group-title="SPORT",Max Sport 3 BG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/184
+#EXTINF:-1 group-title="SPORT",Max Sport 4 BG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/185
+#EXTINF:-1 group-title="SPORT",Diema Sport HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/390
+#EXTINF:-1 group-title="SPORT",Diema Sport 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/391
+#EXTINF:-1 group-title="SPORT",Diema Sport 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39657
+#EXTINF:-1 group-title="SPORT",Nova Sport BG
+http://bazaruto.top:8000/lazodj/M83jN6A89X/392
+#EXTINF:-1 group-title="SPORT",Ring HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3774
+#EXTINF:-1 group-title="SPORT",Sport TV 1 SL
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41720
+#EXTINF:-1 group-title="SPORT",Sport TV 2 SL
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41721
+#EXTINF:-1 group-title="SPORT",Sport TV 3 SL
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41722
+#EXTINF:-1 group-title="SPORT",Blue Sport 1 CH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41613
+#EXTINF:-1 group-title="SPORT",Blue Sport 2 CH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41614
+#EXTINF:-1 group-title="SPORT",Sport TV 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/433
+#EXTINF:-1 group-title="SPORT",Sport TV 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/434
+#EXTINF:-1 group-title="SPORT",Sport TV 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/435
+#EXTINF:-1 group-title="SPORT",Sport TV 4
+http://bazaruto.top:8000/lazodj/M83jN6A89X/436
+#EXTINF:-1 group-title="SPORT",Sport TV 5
+http://bazaruto.top:8000/lazodj/M83jN6A89X/437
+#EXTINF:-1 group-title="SPORT",Eleven Sports 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/612
+#EXTINF:-1 group-title="SPORT",Eleven Sports 2 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/613
+#EXTINF:-1 group-title="SPORT",Eleven Sports 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/614
+#EXTINF:-1 group-title="SPORT",Eleven Sports 4 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/615
+#EXTINF:-1 group-title="SPORT",Eleven Sports 5 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/616
+#EXTINF:-1 group-title="SPORT",Bein Sport 1 FR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16843
+#EXTINF:-1 group-title="SPORT",Bein Sport 2 FR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16844
+#EXTINF:-1 group-title="SPORT",Bein Sport 3 FR
+http://bazaruto.top:8000/lazodj/M83jN6A89X/16933
+#EXTINF:-1 group-title="SPORT",RMC Sport 1 HD 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1073
+#EXTINF:-1 group-title="SPORT",RMC Sport 2 HD 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1074
+#EXTINF:-1 group-title="SPORT",RMC Sport 3 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/1075
+#EXTINF:-1 group-title="SPORT",DAZN Bar 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/345
+#EXTINF:-1 group-title="SPORT",DAZN Bar 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/43624
+#EXTINF:-1 group-title="SPORT",DAZN Bar 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/346
+#EXTINF:-1 group-title="SPORT",NBA
+http://bazaruto.top:8000/lazodj/M83jN6A89X/569
+#EXTINF:-1 group-title="SPORT",Fight Channel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/422
+#EXTINF:-1 group-title="SPORT",Arena Fight
+http://bazaruto.top:8000/lazodj/M83jN6A89X/39710
+#EXTINF:-1 group-title="SPORT",Fight Box 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45591
+#EXTINF:-1 group-title="SPORT",Extreme Sports
+http://bazaruto.top:8000/lazodj/M83jN6A89X/40097
+#EXTINF:-1 group-title="SPORT",Moja TV Premier Liga BH
+http://bazaruto.top:8000/lazodj/M83jN6A89X/388
+#EXTINF:-1 group-title="SPORT",Lig tv 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/683
+#EXTINF:-1 group-title="SPORT",Lig TV 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/684
+#EXTINF:-1 group-title="SPORT",SyS 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/301
+#EXTINF:-1 group-title="SPORT",SyS 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/302
+#EXTINF:-1 group-title="SPORT",Bundesliga 1
+http://bazaruto.top:8000/lazodj/M83jN6A89X/263
+#EXTINF:-1 group-title="SPORT",Bundesliga 1 HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/366
+#EXTINF:-1 group-title="SPORT",Bundesliga 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/384
+#EXTINF:-1 group-title="SPORT",Bundesliga 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/385
+#EXTINF:-1 group-title="SPORT",Bundesliga 4
+http://bazaruto.top:8000/lazodj/M83jN6A89X/386
+#EXTINF:-1 group-title="SPORT",Bundesliga 5
+http://bazaruto.top:8000/lazodj/M83jN6A89X/387
+#EXTINF:-1 group-title="SPORT",Bundesliga 6
+http://bazaruto.top:8000/lazodj/M83jN6A89X/655
+#EXTINF:-1 group-title="SPORT",Bundesliga 7
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3055
+#EXTINF:-1 group-title="SPORT",Bundesliga 8
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3056
+#EXTINF:-1 group-title="SPORT",Liverpool TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/41975
+#EXTINF:-1 group-title="SPORT",Magenta Sport 1 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45719
+#EXTINF:-1 group-title="SPORT",Magenta Sport 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45720
+#EXTINF:-1 group-title="SPORT",Magenta Sport 3
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45721
+#EXTINF:-1 group-title="SPORT",Magenta Sport 4 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45722
+#EXTINF:-1 group-title="SPORT",Magenta Sport 5
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45723
+#EXTINF:-1 group-title="SPORT",Magenta Sport 6
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45724
+#EXTINF:-1 group-title="SPORT",Magenta Sport 7
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45725
+#EXTINF:-1 group-title="SPORT",Magenta Sport 8 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45726
+#EXTINF:-1 group-title="SPORT",Magenta Sport 9
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45727
+#EXTINF:-1 group-title="SPORT",Magenta Sport 10
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45728
+#EXTINF:-1 group-title="SPORT",Magenta Sport 11
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45729
+#EXTINF:-1 group-title="SPORT",Magenta Sport 12
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45730
+#EXTINF:-1 group-title="SPORT",Magenta Sport 13 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45731
+#EXTINF:-1 group-title="SPORT",Magenta Sport 14
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45732
+#EXTINF:-1 group-title="SPORT",Magenta Sport 15
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45733
+#EXTINF:-1 group-title="SPORT",Magenta Sport 16 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45734
+#EXTINF:-1 group-title="SPORT",Magenta Sport 17
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45735
+#EXTINF:-1 group-title="SPORT",Magenta Sport 18 
+http://bazaruto.top:8000/lazodj/M83jN6A89X/45736
+
+#EXTINF:-1 group-title="EROTSKI",*** Erotski Kanali ***
+http://bazaruto.top:8000/lazodj/M83jN6A89X/813
+#EXTINF:-1 group-title="EROTSKI",Private
+http://bazaruto.top:8000/lazodj/M83jN6A89X/175
+#EXTINF:-1 group-title="EROTSKI",Dorcel HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/176
+#EXTINF:-1 group-title="EROTSKI",Penthouse Gold HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/568
+#EXTINF:-1 group-title="EROTSKI",Passion XXX 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/177
+#EXTINF:-1 group-title="EROTSKI",EvilAngel HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/178
+#EXTINF:-1 group-title="EROTSKI",Hustler HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/180
+#EXTINF:-1 group-title="EROTSKI",Hustler TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4050
+#EXTINF:-1 group-title="EROTSKI",Evil Angel
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4049
+#EXTINF:-1 group-title="EROTSKI",EroXX HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4051
+#EXTINF:-1 group-title="EROTSKI",Brazzers TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/4052
+#EXTINF:-1 group-title="EROTSKI",PinkO TV
+http://bazaruto.top:8000/lazodj/M83jN6A89X/566
+#EXTINF:-1 group-title="EROTSKI",Stars XXX
+http://bazaruto.top:8000/lazodj/M83jN6A89X/567
+#EXTINF:-1 group-title="EROTSKI",Super One
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3113
+#EXTINF:-1 group-title="EROTSKI",Alba XXX-HD 2
+http://bazaruto.top:8000/lazodj/M83jN6A89X/3114
+#EXTINF:-1 group-title="EROTSKI",Playboy HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/427
+#EXTINF:-1 group-title="EROTSKI",Penthouse Fashion HD
+http://bazaruto.top:8000/lazodj/M83jN6A89X/179
+#EXTINF:-1 group-title="EROTSKI",Русская Ночь
+http://bazaruto.top:8000/lazodj/M83jN6A89X/565
+
+
+
 
 
 
