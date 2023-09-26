@@ -543,5 +543,13 @@ http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/68540.mkv
 #EXTINF:-1 tvg-id="" tvg-name="217. Harry Potter and the Deathly Hallows Part 2 2011" tvg-logo="http://95.217.78.120/aplikacije/images/355155e8ed5480402bea2cb71759914f.jpg" group-title="HARRY POTTER",Harry Potter and the Deathly Hallows Part 2 2011
 http://my.nettv.pro:80/movie/ivana.dzomba.mensur/8RrsYJKyO3/86365.mkv
 
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://tv.trexiptv.com:80/serafimovskivlatko/vlatkoskopje/1107495
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/652936.ts
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/299605
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://balkan-x.net:80/Mario/Mario/47399
 
 # end
