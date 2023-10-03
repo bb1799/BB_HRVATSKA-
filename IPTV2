@@ -1,1286 +1,439 @@
+
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
+#x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
-#EXTINF:-1 group-title="HRVATSKA",*** HRVATSKA ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28
-#EXTINF:-1 group-title="HRVATSKA",HRT 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1
-#EXTINF:-1 group-title="HRVATSKA",HRT 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5641
-#EXTINF:-1 group-title="HRVATSKA",HRT 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/2
-#EXTINF:-1 group-title="HRVATSKA",HRT 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5642
-#EXTINF:-1 group-title="HRVATSKA",HRT 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3
-#EXTINF:-1 group-title="HRVATSKA",HRT 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5643
-#EXTINF:-1 group-title="HRVATSKA",HRT 4
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4
-#EXTINF:-1 group-title="HRVATSKA",HRT 4 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5644
-#EXTINF:-1 group-title="HRVATSKA",HRT Int.
-http://bazaruto.top:8000/lazodj/M83jN6A89X/482
-#EXTINF:-1 group-title="HRVATSKA",Nova TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5
-#EXTINF:-1 group-title="HRVATSKA",Nova TV HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39408
-#EXTINF:-1 group-title="HRVATSKA",Doma TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/29
-#EXTINF:-1 group-title="HRVATSKA",Doma TV  HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/172
-#EXTINF:-1 group-title="HRVATSKA",RTL Televizija
-http://bazaruto.top:8000/lazodj/M83jN6A89X/6
-#EXTINF:-1 group-title="HRVATSKA",RTL Televizija  HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1417
-#EXTINF:-1 group-title="HRVATSKA",RTL 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/7
-#EXTINF:-1 group-title="HRVATSKA",RTL 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42701
-#EXTINF:-1 group-title="HRVATSKA",Una TV HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39713
-#EXTINF:-1 group-title="HRVATSKA",RTL Crime
-http://bazaruto.top:8000/lazodj/M83jN6A89X/15
-#EXTINF:-1 group-title="HRVATSKA",RTL Passion
-http://bazaruto.top:8000/lazodj/M83jN6A89X/8
-#EXTINF:-1 group-title="HRVATSKA",RTL Living
-http://bazaruto.top:8000/lazodj/M83jN6A89X/9
-#EXTINF:-1 group-title="HRVATSKA",RTL Adria
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5707
-#EXTINF:-1 group-title="HRVATSKA",RTL Croatia World
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5708
-#EXTINF:-1 group-title="HRVATSKA",Nova World
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39951
-#EXTINF:-1 group-title="HRVATSKA",Nova Family
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39156
-#EXTINF:-1 group-title="HRVATSKA",N1 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/11
-#EXTINF:-1 group-title="HRVATSKA",Laudato TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/10
-#EXTINF:-1 group-title="HRVATSKA",Slavonska Tv
-http://bazaruto.top:8000/lazodj/M83jN6A89X/12
-#EXTINF:-1 group-title="HRVATSKA",Z1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/447
-#EXTINF:-1 group-title="HRVATSKA",Plava Vinkovacka 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/13
-#EXTINF:-1 group-title="HRVATSKA",TV Sibenik
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5806
-#EXTINF:-1 group-title="HRVATSKA",Kanal Ri
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4029
-#EXTINF:-1 group-title="HRVATSKA",Osjecka TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/368
-#EXTINF:-1 group-title="HRVATSKA",Trend TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/14
-#EXTINF:-1 group-title="HRVATSKA",Aurora TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16675
-#EXTINF:-1 group-title="HRVATSKA",Mreza Split
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16973
-#EXTINF:-1 group-title="HRVATSKA",Zdrava Tv
-http://bazaruto.top:8000/lazodj/M83jN6A89X/658
-#EXTINF:-1 group-title="HRVATSKA",Jabuka
-http://bazaruto.top:8000/lazodj/M83jN6A89X/659
-
-#EXTINF:-1 group-title="MAKEDONIJA",MRT  1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/30
-#EXTINF:-1 group-title="MAKEDONIJA",MRT 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/127
-#EXTINF:-1 group-title="MAKEDONIJA",Sitel MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/31
-#EXTINF:-1 group-title="MAKEDONIJA",Sitel MK HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/126
-#EXTINF:-1 group-title="MAKEDONIJA",Telma
-http://bazaruto.top:8000/lazodj/M83jN6A89X/32
-#EXTINF:-1 group-title="MAKEDONIJA",Telma HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/217
-#EXTINF:-1 group-title="MAKEDONIJA",Kanal 5 MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/35
-#EXTINF:-1 group-title="MAKEDONIJA",Kanal 5 MK HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/279
-#EXTINF:-1 group-title="MAKEDONIJA",TV 24
-http://bazaruto.top:8000/lazodj/M83jN6A89X/34
-#EXTINF:-1 group-title="MAKEDONIJA",TV 24 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5741
-#EXTINF:-1 group-title="MAKEDONIJA",Alfa MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/33
-#EXTINF:-1 group-title="MAKEDONIJA",Alfa MK HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5740
-#EXTINF:-1 group-title="MAKEDONIJA",V Kanal MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/17493
-#EXTINF:-1 group-title="MAKEDONIJA",Nasha TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/305
-#EXTINF:-1 group-title="MAKEDONIJA",Sonce
-http://bazaruto.top:8000/lazodj/M83jN6A89X/142
-#EXTINF:-1 group-title="MAKEDONIJA",Edo MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/657
-#EXTINF:-1 group-title="MAKEDONIJA",MTM
-http://bazaruto.top:8000/lazodj/M83jN6A89X/674
-#EXTINF:-1 group-title="MAKEDONIJA",M-Net
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1238
-#EXTINF:-1 group-title="MAKEDONIJA",Tera
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1379
-#EXTINF:-1 group-title="MAKEDONIJA",Orbis
-http://bazaruto.top:8000/lazodj/M83jN6A89X/873
-#EXTINF:-1 group-title="MAKEDONIJA",TV Plus
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1422
-#EXTINF:-1 group-title="MAKEDONIJA",VTV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46188
-#EXTINF:-1 group-title="MAKEDONIJA",Zdrava TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28564
-#EXTINF:-1 group-title="MAKEDONIJA",Kanal 8 Kocani
-http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
-#EXTINF:-1 group-title="MAKEDONIJA",TV Zdravkin
-http://bazaruto.top:8000/lazodj/M83jN6A89X/37295
-#EXTINF:-1 group-title="MAKEDONIJA",TV Svet
-http://bazaruto.top:8000/lazodj/M83jN6A89X/663
-#EXTINF:-1 group-title="MAKEDONIJA",3.MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/664
-#EXTINF:-1 group-title="MAKEDONIJA",Iris TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28544
-#EXTINF:-1 group-title="MAKEDONIJA",B1 (Shutel TV)
-http://bazaruto.top:8000/lazodj/M83jN6A89X/338
-#EXTINF:-1 group-title="MAKEDONIJA",MRT Sobraniski
-http://bazaruto.top:8000/lazodj/M83jN6A89X/339
-#EXTINF:-1 group-title="MAKEDONIJA",MRT 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16437
-#EXTINF:-1 group-title="MAKEDONIJA",MRT 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44299
-#EXTINF:-1 group-title="MAKEDONIJA",MRT 5
-http://bazaruto.top:8000/lazodj/M83jN6A89X/15780
-#EXTINF:-1 group-title="MAKEDONIJA",MRT 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/340
-#EXTINF:-1 group-title="MAKEDONIJA",AlSat M
-http://bazaruto.top:8000/lazodj/M83jN6A89X/341
-#EXTINF:-1 group-title="MAKEDONIJA",Balkan Music MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/111
-#EXTINF:-1 group-title="MAKEDONIJA",Sky Folk MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/36
-#EXTINF:-1 group-title="MAKEDONIJA",IN TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/169
-#EXTINF:-1 group-title="MAKEDONIJA",IN TV 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/170
-#EXTINF:-1 group-title="MAKEDONIJA",Star Folk MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/33712
-#EXTINF:-1 group-title="MAKEDONIJA",MCD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/665
-#EXTINF:-1 group-title="MAKEDONIJA",HBO MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43559
-#EXTINF:-1 group-title="MAKEDONIJA",HBO 2 MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43560
-#EXTINF:-1 group-title="MAKEDONIJA",HBO 3 MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43561
-#EXTINF:-1 group-title="MAKEDONIJA",Fox MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41324
-#EXTINF:-1 group-title="MAKEDONIJA",Fox Movies MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/17488
-#EXTINF:-1 group-title="MAKEDONIJA",Fox Life MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/426
-#EXTINF:-1 group-title="MAKEDONIJA",Fox Crime MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/749
-#EXTINF:-1 group-title="MAKEDONIJA",TV 1000 MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/15593
-#EXTINF:-1 group-title="MAKEDONIJA",FilmBox Plus MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/830
-#EXTINF:-1 group-title="MAKEDONIJA",M1 MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/17489
-#EXTINF:-1 group-title="MAKEDONIJA",M1 Gold MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4107
-#EXTINF:-1 group-title="MAKEDONIJA",Cineplex
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46189
-#EXTINF:-1 group-title="MAKEDONIJA",National Geographic MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/360
-#EXTINF:-1 group-title="MAKEDONIJA",Viasat History MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/669
-#EXTINF:-1 group-title="MAKEDONIJA",Viasat Nature MK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/420
-
-#EXTINF:-1 group-title="SRBIJA",*** Srbija ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/740
-#EXTINF:-1 group-title="SRBIJA",RTS 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16
-#EXTINF:-1 group-title="SRBIJA",RTS 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/363
-#EXTINF:-1 group-title="SRBIJA",RTS 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/17
-#EXTINF:-1 group-title="SRBIJA",RTS 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46741
-#EXTINF:-1 group-title="SRBIJA",RTS 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/18
-#EXTINF:-1 group-title="SRBIJA",RTS 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46742
-#EXTINF:-1 group-title="SRBIJA",RTS Svet
-http://bazaruto.top:8000/lazodj/M83jN6A89X/19
-#EXTINF:-1 group-title="SRBIJA",Prva TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/20
-#EXTINF:-1 group-title="SRBIJA",Prva TV HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/137
-#EXTINF:-1 group-title="SRBIJA",Pink
-http://bazaruto.top:8000/lazodj/M83jN6A89X/21
-#EXTINF:-1 group-title="SRBIJA",Pink HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/168
-#EXTINF:-1 group-title="SRBIJA",B92
-http://bazaruto.top:8000/lazodj/M83jN6A89X/71
-#EXTINF:-1 group-title="SRBIJA",B92 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43195
-#EXTINF:-1 group-title="SRBIJA",Happy TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/22
-#EXTINF:-1 group-title="SRBIJA",Happy TV HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43196
-#EXTINF:-1 group-title="SRBIJA",Nova S
-http://bazaruto.top:8000/lazodj/M83jN6A89X/167
-#EXTINF:-1 group-title="SRBIJA",Nova S HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/6252
-#EXTINF:-1 group-title="SRBIJA",Nova Max
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45494
-#EXTINF:-1 group-title="SRBIJA",Una TV SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39715
-#EXTINF:-1 group-title="SRBIJA",K1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26080
-#EXTINF:-1 group-title="SRBIJA",Hype TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41320
-#EXTINF:-1 group-title="SRBIJA",Blic TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43887
-#EXTINF:-1 group-title="SRBIJA",N1 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/278
-#EXTINF:-1 group-title="SRBIJA",EuroNews Srbija
-http://bazaruto.top:8000/lazodj/M83jN6A89X/40094
-#EXTINF:-1 group-title="SRBIJA",Tanjug
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39728
-#EXTINF:-1 group-title="SRBIJA",Vesti
-http://bazaruto.top:8000/lazodj/M83jN6A89X/87
-#EXTINF:-1 group-title="SRBIJA",Prva Plus
-http://bazaruto.top:8000/lazodj/M83jN6A89X/221
-#EXTINF:-1 group-title="SRBIJA",Prva World
-http://bazaruto.top:8000/lazodj/M83jN6A89X/174
-#EXTINF:-1 group-title="SRBIJA",Prva Max
-http://bazaruto.top:8000/lazodj/M83jN6A89X/258
-#EXTINF:-1 group-title="SRBIJA",Prva Kick
-http://bazaruto.top:8000/lazodj/M83jN6A89X/256
-#EXTINF:-1 group-title="SRBIJA",Prva Files
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1868
-#EXTINF:-1 group-title="SRBIJA",Prva Life
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41611
-#EXTINF:-1 group-title="SRBIJA",RTV Vojvodina 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/23
-#EXTINF:-1 group-title="SRBIJA",RTV Vojvodina 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/24
-#EXTINF:-1 group-title="SRBIJA",TV Centar Svilajnac
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45493
-#EXTINF:-1 group-title="SRBIJA",Sat TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41608
-#EXTINF:-1 group-title="SRBIJA",TV Istok
-http://bazaruto.top:8000/lazodj/M83jN6A89X/262
-#EXTINF:-1 group-title="SRBIJA",TV Istok 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/2713
-#EXTINF:-1 group-title="SRBIJA",YU Eco
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44697
-#EXTINF:-1 group-title="SRBIJA",KCN 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/393
-#EXTINF:-1 group-title="SRBIJA",KCN 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/394
-#EXTINF:-1 group-title="SRBIJA",KCN 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/395
-#EXTINF:-1 group-title="SRBIJA",Kurir TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/260
-#EXTINF:-1 group-title="SRBIJA",Jefimija
-http://bazaruto.top:8000/lazodj/M83jN6A89X/261
-#EXTINF:-1 group-title="SRBIJA",Studio B
-http://bazaruto.top:8000/lazodj/M83jN6A89X/259
-#EXTINF:-1 group-title="SRBIJA",Novosadska TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16654
-#EXTINF:-1 group-title="SRBIJA",Belle Amie
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3169
-#EXTINF:-1 group-title="SRBIJA",Agro TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3170
-#EXTINF:-1 group-title="SRBIJA",PI Kanal
-http://bazaruto.top:8000/lazodj/M83jN6A89X/347
-#EXTINF:-1 group-title="SRBIJA",Palma Plus
-http://bazaruto.top:8000/lazodj/M83jN6A89X/453
-#EXTINF:-1 group-title="SRBIJA",RTV Kraljevo
-http://bazaruto.top:8000/lazodj/M83jN6A89X/454
-#EXTINF:-1 group-title="SRBIJA",Insajder TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44293
-#EXTINF:-1 group-title="SRBIJA",Jeka HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16667
-#EXTINF:-1 group-title="SRBIJA",Novi Pazar
-http://bazaruto.top:8000/lazodj/M83jN6A89X/687
-#EXTINF:-1 group-title="SRBIJA",RTV Mir
-http://bazaruto.top:8000/lazodj/M83jN6A89X/349
-#EXTINF:-1 group-title="SRBIJA",TV Kladovo
-http://bazaruto.top:8000/lazodj/M83jN6A89X/2714
-#EXTINF:-1 group-title="SRBIJA",K 25
-http://bazaruto.top:8000/lazodj/M83jN6A89X/450
-#EXTINF:-1 group-title="SRBIJA",Balkan Trip
-http://bazaruto.top:8000/lazodj/M83jN6A89X/2715
-#EXTINF:-1 group-title="SRBIJA",RTV Mlava
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1167
-#EXTINF:-1 group-title="SRBIJA",Pirot
-http://bazaruto.top:8000/lazodj/M83jN6A89X/483
-#EXTINF:-1 group-title="SRBIJA",Srpska Dijaspora
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16340
-#EXTINF:-1 group-title="SRBIJA",SOS Kanal
-http://bazaruto.top:8000/lazodj/M83jN6A89X/396
-#EXTINF:-1 group-title="SRBIJA",Hram TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4191
-#EXTINF:-1 group-title="SRBIJA",RTS Drama
-http://bazaruto.top:8000/lazodj/M83jN6A89X/440
-#EXTINF:-1 group-title="SRBIJA",RTS Zivot
-http://bazaruto.top:8000/lazodj/M83jN6A89X/441
-#EXTINF:-1 group-title="SRBIJA",RTS Trezor
-http://bazaruto.top:8000/lazodj/M83jN6A89X/439
-#EXTINF:-1 group-title="SRBIJA",RTS Kolo
-http://bazaruto.top:8000/lazodj/M83jN6A89X/442
-#EXTINF:-1 group-title="SRBIJA",RTS Muzika 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3181
-#EXTINF:-1 group-title="SRBIJA",RTS Poletarac
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16677
-#EXTINF:-1 group-title="SRBIJA",RTS Nauka
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41319
-#EXTINF:-1 group-title="SRBIJA",Happy Drustvo
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44789
-#EXTINF:-1 group-title="SRBIJA",Happy Zivot
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44790
-#EXTINF:-1 group-title="SRBIJA",Happy Muzika
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44791
-#EXTINF:-1 group-title="SRBIJA",Red TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/17071
-#EXTINF:-1 group-title="SRBIJA",Red TV HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45966
-#EXTINF:-1 group-title="SRBIJA",Elita 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/271
-#EXTINF:-1 group-title="SRBIJA",Elita 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/37823
-#EXTINF:-1 group-title="SRBIJA",Elita 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/272
-#EXTINF:-1 group-title="SRBIJA",Elita 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1424
-#EXTINF:-1 group-title="SRBIJA",Elita 4
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1425
-#EXTINF:-1 group-title="SRBIJA",Insta TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44385
-
-#EXTINF:-1 group-title="BIH",*** BOSNA ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39
-#EXTINF:-1 group-title="BIH",BHT 1 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38
-#EXTINF:-1 group-title="BIH",BHT 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/418
-#EXTINF:-1 group-title="BIH",OBN
-http://bazaruto.top:8000/lazodj/M83jN6A89X/40
-#EXTINF:-1 group-title="BIH",OBN HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1293
-#EXTINF:-1 group-title="BIH",Federalna TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41
-#EXTINF:-1 group-title="BIH",Federalna TV HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42686
-#EXTINF:-1 group-title="BIH",Face TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42
-#EXTINF:-1 group-title="BIH",Face TV HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42685
-#EXTINF:-1 group-title="BIH",Hayat TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43
-#EXTINF:-1 group-title="BIH",Hayat TV HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42687
-#EXTINF:-1 group-title="BIH",Hayat Plus
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44
-#EXTINF:-1 group-title="BIH",Nova BH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/47
-#EXTINF:-1 group-title="BIH",Nova BH HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42831
-#EXTINF:-1 group-title="BIH",BN TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/49
-#EXTINF:-1 group-title="BIH",BN 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39700
-#EXTINF:-1 group-title="BIH",Pink BH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/48
-#EXTINF:-1 group-title="BIH",RTRS
-http://bazaruto.top:8000/lazodj/M83jN6A89X/25
-#EXTINF:-1 group-title="BIH",RTRS Plus
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26
-#EXTINF:-1 group-title="BIH",ATV Banja Luka
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45
-#EXTINF:-1 group-title="BIH",N1 BiH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/277
-#EXTINF:-1 group-title="BIH",N1 BH HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42830
-#EXTINF:-1 group-title="BIH",Al Jazeera Balkans
-http://bazaruto.top:8000/lazodj/M83jN6A89X/50
-#EXTINF:-1 group-title="BIH",0 Kanal
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1294
-#EXTINF:-1 group-title="BIH",Una TV BH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39714
-#EXTINF:-1 group-title="BIH",TataBrada
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39178
-#EXTINF:-1 group-title="BIH",TV TK Tuzla
-http://bazaruto.top:8000/lazodj/M83jN6A89X/51
-#EXTINF:-1 group-title="BIH",RTV Visoko
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46505
-#EXTINF:-1 group-title="BIH",K3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/678
-#EXTINF:-1 group-title="BIH",Elta 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/351
-#EXTINF:-1 group-title="BIH",Elta 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39498
-#EXTINF:-1 group-title="BIH",Sandzak TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/688
-#EXTINF:-1 group-title="BIH",RTV USK HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16336
-#EXTINF:-1 group-title="BIH",B1 Gradacac
-http://bazaruto.top:8000/lazodj/M83jN6A89X/350
-#EXTINF:-1 group-title="BIH",Alfa TV 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46
-#EXTINF:-1 group-title="BIH",TV Sarajevo
-http://bazaruto.top:8000/lazodj/M83jN6A89X/53
-#EXTINF:-1 group-title="BIH",NTV IC Kakanj
-http://bazaruto.top:8000/lazodj/M83jN6A89X/448
-#EXTINF:-1 group-title="BIH",RTV Sana
-http://bazaruto.top:8000/lazodj/M83jN6A89X/6169
-#EXTINF:-1 group-title="BIH",Kanal 6
-http://bazaruto.top:8000/lazodj/M83jN6A89X/449
-#EXTINF:-1 group-title="BIH",Duga
-http://bazaruto.top:8000/lazodj/M83jN6A89X/457
-#EXTINF:-1 group-title="BIH",TV Slon Extra
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16750
-#EXTINF:-1 group-title="BIH",TV Zenica
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16751
-#EXTINF:-1 group-title="BIH",Bosanska Posavina TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16752
-#EXTINF:-1 group-title="BIH",RTV Herceg Bosna
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16753
-#EXTINF:-1 group-title="BIH",Glas Drine
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16754
-#EXTINF:-1 group-title="BIH",Lotel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46592
-#EXTINF:-1 group-title="BIH",Neon TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46593
-#EXTINF:-1 group-title="BIH",RTV Cazin
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46540
-#EXTINF:-1 group-title="BIH",RTV Bugojno
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46541
-#EXTINF:-1 group-title="BIH",Sezam TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46542
-#EXTINF:-1 group-title="BIH",Super TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46543
-#EXTINF:-1 group-title="BIH",TV 7 Tuzla
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46544
-#EXTINF:-1 group-title="BIH",TV Sehara Online
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46545
-#EXTINF:-1 group-title="BIH",Podrinje
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16755
-#EXTINF:-1 group-title="BIH",Hit Brcko
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16756
-#EXTINF:-1 group-title="BIH",City TV Mostar
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16766
-#EXTINF:-1 group-title="BIH",MTV Igman
-http://bazaruto.top:8000/lazodj/M83jN6A89X/686
-
-#EXTINF:-1 group-title="CRNA GORA",RTCG Sat
-http://bazaruto.top:8000/lazodj/M83jN6A89X/357
-#EXTINF:-1 group-title="CRNA GORA",RTCG 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/424
-#EXTINF:-1 group-title="CRNA GORA",RTCG 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/358
-#EXTINF:-1 group-title="CRNA GORA",Prva TV CG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/24726
-#EXTINF:-1 group-title="CRNA GORA",Nova m
-http://bazaruto.top:8000/lazodj/M83jN6A89X/419
-#EXTINF:-1 group-title="CRNA GORA",Vijesti Crg
-http://bazaruto.top:8000/lazodj/M83jN6A89X/359
-#EXTINF:-1 group-title="CRNA GORA",TV 7 CG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/361
-#EXTINF:-1 group-title="CRNA GORA",Niksic CG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/40101
-#EXTINF:-1 group-title="CRNA GORA",TV Budva
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41323
-
-#EXTINF:-1 group-title="SLOVENIJA",***SLOVENIJA***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38241
-#EXTINF:-1 group-title="SLOVENIJA",Slo 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/460
-#EXTINF:-1 group-title="SLOVENIJA",Slo 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/461
-#EXTINF:-1 group-title="SLOVENIJA",Slo 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/462
-#EXTINF:-1 group-title="SLOVENIJA",Planet TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/465
-#EXTINF:-1 group-title="SLOVENIJA",Planet 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38242
-#EXTINF:-1 group-title="SLOVENIJA",Planet Plus
-http://bazaruto.top:8000/lazodj/M83jN6A89X/464
-#EXTINF:-1 group-title="SLOVENIJA",Pop TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3811
-#EXTINF:-1 group-title="SLOVENIJA",Kanal A
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3812
-#EXTINF:-1 group-title="SLOVENIJA",TV Maribor
-http://bazaruto.top:8000/lazodj/M83jN6A89X/466
-#EXTINF:-1 group-title="SLOVENIJA",Nova 24
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38246
-#EXTINF:-1 group-title="SLOVENIJA",Pop Kino
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38244
-#EXTINF:-1 group-title="SLOVENIJA",POP Brio
-http://bazaruto.top:8000/lazodj/M83jN6A89X/468
-
-#EXTINF:-1 group-title="FILM",*** FILM ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/869
-#EXTINF:-1 group-title="FILM",HBO Adria
-http://bazaruto.top:8000/lazodj/M83jN6A89X/54
-#EXTINF:-1 group-title="FILM",HBO Adria HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/218
-#EXTINF:-1 group-title="FILM",HBO 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/56
-#EXTINF:-1 group-title="FILM",HBO 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/672
-#EXTINF:-1 group-title="FILM",HBO 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/57
-#EXTINF:-1 group-title="FILM",HBO 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/220
-#EXTINF:-1 group-title="FILM",FOX
-http://bazaruto.top:8000/lazodj/M83jN6A89X/62
-#EXTINF:-1 group-title="FILM",FOX HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1507
-#EXTINF:-1 group-title="FILM",FOX Movies
-http://bazaruto.top:8000/lazodj/M83jN6A89X/63
-#EXTINF:-1 group-title="FILM",FOX Movies HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1510
-#EXTINF:-1 group-title="FILM",FOX Life
-http://bazaruto.top:8000/lazodj/M83jN6A89X/65
-#EXTINF:-1 group-title="FILM",FOX Life HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1509
-#EXTINF:-1 group-title="FILM",FOX Crime
-http://bazaruto.top:8000/lazodj/M83jN6A89X/64
-#EXTINF:-1 group-title="FILM",FOX Crime HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1508
-#EXTINF:-1 group-title="FILM",CineStar Action
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44200
-#EXTINF:-1 group-title="FILM",CineStar Premiere 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/58
-#EXTINF:-1 group-title="FILM",Cinestar Premiere 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/6179
-#EXTINF:-1 group-title="FILM",CineStar Premiere 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/59
-#EXTINF:-1 group-title="FILM",Cinestar Premiere 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/6180
-#EXTINF:-1 group-title="FILM",CineStar TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/60
-#EXTINF:-1 group-title="FILM",CineStar TV 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/17021
-#EXTINF:-1 group-title="FILM",Cinestar Comedy
-http://bazaruto.top:8000/lazodj/M83jN6A89X/2522
-#EXTINF:-1 group-title="FILM",Cinestar Fantasy
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46930
-#EXTINF:-1 group-title="FILM",TV 1000
-http://bazaruto.top:8000/lazodj/M83jN6A89X/113
-#EXTINF:-1 group-title="FILM",Cinemax 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/66
-#EXTINF:-1 group-title="FILM",Cinemax 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/67
-#EXTINF:-1 group-title="FILM",FilmBox Extra 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39481
-#EXTINF:-1 group-title="FILM",AMC
-http://bazaruto.top:8000/lazodj/M83jN6A89X/68
-#EXTINF:-1 group-title="FILM",Kino TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/273
-#EXTINF:-1 group-title="FILM",Diva
-http://bazaruto.top:8000/lazodj/M83jN6A89X/661
-#EXTINF:-1 group-title="FILM",SciFi Chanel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3194
-#EXTINF:-1 group-title="FILM",AXN
-http://bazaruto.top:8000/lazodj/M83jN6A89X/274
-#EXTINF:-1 group-title="FILM",AXN Spin
-http://bazaruto.top:8000/lazodj/M83jN6A89X/275
-#EXTINF:-1 group-title="FILM",M1 Film
-http://bazaruto.top:8000/lazodj/M83jN6A89X/132
-#EXTINF:-1 group-title="FILM",M1 Gold
-http://bazaruto.top:8000/lazodj/M83jN6A89X/133
-#EXTINF:-1 group-title="FILM",M1 Family
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39160
-#EXTINF:-1 group-title="FILM",Epic Drama
-http://bazaruto.top:8000/lazodj/M83jN6A89X/255
-#EXTINF:-1 group-title="FILM",Klasik TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/253
-#EXTINF:-1 group-title="FILM",Film Klub
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1454
-#EXTINF:-1 group-title="FILM",SuperStar
-http://bazaruto.top:8000/lazodj/M83jN6A89X/254
-#EXTINF:-1 group-title="FILM",SuperStar 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1660
-#EXTINF:-1 group-title="FILM",Pickbox TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/753
-#EXTINF:-1 group-title="FILM",Dobra Cinema
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3224
-#EXTINF:-1 group-title="FILM",TimeOut
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16707
-#EXTINF:-1 group-title="FILM",MaxCro Select 1 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/37889
-#EXTINF:-1 group-title="FILM",MaxCro Select 2 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/635
-#EXTINF:-1 group-title="FILM",MaxCro Select 3 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/634
-#EXTINF:-1 group-title="FILM",MaxCro Select 4 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/633
-#EXTINF:-1 group-title="FILM",MaxCro Select 5 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/632
-#EXTINF:-1 group-title="FILM",MaxCro Select 6 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/631
-#EXTINF:-1 group-title="FILM",MaxCro Select 7 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/630
-#EXTINF:-1 group-title="FILM",MaxCro Select 8 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/629
-#EXTINF:-1 group-title="FILM",MaxCro Select 9 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/628
-#EXTINF:-1 group-title="FILM",MaxCro Select 10
-http://bazaruto.top:8000/lazodj/M83jN6A89X/627
-#EXTINF:-1 group-title="FILM",Box Office 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39157
-#EXTINF:-1 group-title="FILM",Box Office 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39158
-#EXTINF:-1 group-title="FILM",Box Office 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39824
-#EXTINF:-1 group-title="FILM",Nova Cinema
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39154
-#EXTINF:-1 group-title="FILM",Nova Cinema 2K
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39155
-#EXTINF:-1 group-title="FILM",Sky GO 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26535
-#EXTINF:-1 group-title="FILM",Sky GO 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26534
-#EXTINF:-1 group-title="FILM",Sky GO 3 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26533
-#EXTINF:-1 group-title="FILM",Sky GO 4 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26532
-#EXTINF:-1 group-title="FILM",Sky GO 5
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26530
-#EXTINF:-1 group-title="FILM",Sky GO 6
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26527
-#EXTINF:-1 group-title="FILM",Sky GO 7
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26526
-#EXTINF:-1 group-title="FILM",Sky GO 8
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26525
-#EXTINF:-1 group-title="FILM",Sky GO 9
-http://bazaruto.top:8000/lazodj/M83jN6A89X/26522
-#EXTINF:-1 group-title="FILM",Sky GO 10
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45738
-#EXTINF:-1 group-title="FILM",Euro Cinema 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45592
-#EXTINF:-1 group-title="FILM",Euro Cinema 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45593
-#EXTINF:-1 group-title="FILM",Euro Cinema 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45594
-#EXTINF:-1 group-title="FILM",Euro Cinema 4
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45595
-#EXTINF:-1 group-title="FILM",*** PINK MEDIA GROUP ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/72
-#EXTINF:-1 group-title="FILM",Pink Plus
-http://bazaruto.top:8000/lazodj/M83jN6A89X/85
-#EXTINF:-1 group-title="FILM",Pink Film
-http://bazaruto.top:8000/lazodj/M83jN6A89X/80
-#EXTINF:-1 group-title="FILM",Pink Film HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45965
-#EXTINF:-1 group-title="FILM",Pink Premium
-http://bazaruto.top:8000/lazodj/M83jN6A89X/88
-#EXTINF:-1 group-title="FILM",Pink World Cinema
-http://bazaruto.top:8000/lazodj/M83jN6A89X/96
-#EXTINF:-1 group-title="FILM",Pink Thriller
-http://bazaruto.top:8000/lazodj/M83jN6A89X/92
-#EXTINF:-1 group-title="FILM",Pink Sci Fi and Fantasy
-http://bazaruto.top:8000/lazodj/M83jN6A89X/89
-#EXTINF:-1 group-title="FILM",Pink Action
-http://bazaruto.top:8000/lazodj/M83jN6A89X/74
-#EXTINF:-1 group-title="FILM",Pink Horror
-http://bazaruto.top:8000/lazodj/M83jN6A89X/81
-#EXTINF:-1 group-title="FILM",Pink Movies
-http://bazaruto.top:8000/lazodj/M83jN6A89X/84
-#EXTINF:-1 group-title="FILM",Pink Comedy
-http://bazaruto.top:8000/lazodj/M83jN6A89X/573
-#EXTINF:-1 group-title="FILM",Pink Crime & Mystery
-http://bazaruto.top:8000/lazodj/M83jN6A89X/76
-#EXTINF:-1 group-title="FILM",Pink Classic
-http://bazaruto.top:8000/lazodj/M83jN6A89X/75
-#EXTINF:-1 group-title="FILM",Pink Western
-http://bazaruto.top:8000/lazodj/M83jN6A89X/93
-#EXTINF:-1 group-title="FILM",Pink Family
-http://bazaruto.top:8000/lazodj/M83jN6A89X/78
-#EXTINF:-1 group-title="FILM",Pink Soap
-http://bazaruto.top:8000/lazodj/M83jN6A89X/91
-#EXTINF:-1 group-title="FILM",Pink Serije
-http://bazaruto.top:8000/lazodj/M83jN6A89X/90
-#EXTINF:-1 group-title="FILM",Pink Romance
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3043
-#EXTINF:-1 group-title="FILM",Pink Reality
-http://bazaruto.top:8000/lazodj/M83jN6A89X/86
-#EXTINF:-1 group-title="FILM",Pink LOL
-http://bazaruto.top:8000/lazodj/M83jN6A89X/83
-#EXTINF:-1 group-title="FILM",Pink HaHa
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3410
-#EXTINF:-1 group-title="FILM",Pink World
-http://bazaruto.top:8000/lazodj/M83jN6A89X/95
-#EXTINF:-1 group-title="FILM",Pink Pedia
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28543
-#EXTINF:-1 group-title="FILM",Pink Zabava
-http://bazaruto.top:8000/lazodj/M83jN6A89X/94
-#EXTINF:-1 group-title="FILM",Pink Kuvar
-http://bazaruto.top:8000/lazodj/M83jN6A89X/82
-#EXTINF:-1 group-title="FILM",Pink Fashion
-http://bazaruto.top:8000/lazodj/M83jN6A89X/79
-#EXTINF:-1 group-title="FILM",Pink Style
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3044
-#EXTINF:-1 group-title="FILM",Pink Extra
-http://bazaruto.top:8000/lazodj/M83jN6A89X/77
-#EXTINF:-1 group-title="FILM",Pink Show
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28180
-
-#EXTINF:-1 group-title="DOKU",Discovery Chanel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/105
-#EXTINF:-1 group-title="DOKU",Animal Planet
-http://bazaruto.top:8000/lazodj/M83jN6A89X/106
-#EXTINF:-1 group-title="DOKU",National Geographic
-http://bazaruto.top:8000/lazodj/M83jN6A89X/109
-#EXTINF:-1 group-title="DOKU", National Geographic Wild
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45578
-#EXTINF:-1 group-title="DOKU", Wild
-http://bazaruto.top:8000/lazodj/M83jN6A89X/110
-#EXTINF:-1 group-title="DOKU",History Channel 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/107
-#EXTINF:-1 group-title="DOKU",History Channel 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/108
-#EXTINF:-1 group-title="DOKU",Discovery Science
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1959
-#EXTINF:-1 group-title="DOKU",ID Discovery
-http://bazaruto.top:8000/lazodj/M83jN6A89X/371
-#EXTINF:-1 group-title="DOKU",Crime & Investigation
-http://bazaruto.top:8000/lazodj/M83jN6A89X/370
-#EXTINF:-1 group-title="DOKU",Viasat Nature
-http://bazaruto.top:8000/lazodj/M83jN6A89X/297
-#EXTINF:-1 group-title="DOKU",Viasat History
-http://bazaruto.top:8000/lazodj/M83jN6A89X/298
-#EXTINF:-1 group-title="DOKU",Viasat Explore
-http://bazaruto.top:8000/lazodj/M83jN6A89X/124
-#EXTINF:-1 group-title="DOKU",Lov i Ribolov
-http://bazaruto.top:8000/lazodj/M83jN6A89X/343
-#EXTINF:-1 group-title="DOKU",Chasse & Peche
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3526
-#EXTINF:-1 group-title="DOKU",24 Kitchen
-http://bazaruto.top:8000/lazodj/M83jN6A89X/122
-#EXTINF:-1 group-title="DOKU",Food Network
-http://bazaruto.top:8000/lazodj/M83jN6A89X/372
-#EXTINF:-1 group-title="DOKU",Kitchen TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/123
-#EXTINF:-1 group-title="DOKU",TLC
-http://bazaruto.top:8000/lazodj/M83jN6A89X/130
-#EXTINF:-1 group-title="DOKU",Travel Chanel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/303
-#EXTINF:-1 group-title="DOKU",Dobra Travel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3225
-#EXTINF:-1 group-title="DOKU",Da Vinci Learning
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1438
-#EXTINF:-1 group-title="DOKU",E!Entertainment
-http://bazaruto.top:8000/lazodj/M83jN6A89X/304
-#EXTINF:-1 group-title="DOKU",Comedy Central Extra
-http://bazaruto.top:8000/lazodj/M83jN6A89X/423
-#EXTINF:-1 group-title="DOKU",FLN
-http://bazaruto.top:8000/lazodj/M83jN6A89X/131
-#EXTINF:-1 group-title="DOKU",Woman TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/5803
-#EXTINF:-1 group-title="DOKU",Fashion TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/246
-#EXTINF:-1 group-title="DOKU",Luxe HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/375
-#EXTINF:-1 group-title="DOKU",Doku TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3397
-#EXTINF:-1 group-title="DOKU",DokuBox
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16929
-#EXTINF:-1 group-title="DOKU",Planet Earth
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3398
-#EXTINF:-1 group-title="DOKU",BBC Earth
-http://bazaruto.top:8000/lazodj/M83jN6A89X/564
-#EXTINF:-1 group-title="DOKU",CNN 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/247
-#EXTINF:-1 group-title="DOKU",RT Docu HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/251
-#EXTINF:-1 group-title="DOKU",Euronews
-http://bazaruto.top:8000/lazodj/M83jN6A89X/250
-#EXTINF:-1 group-title="DOKU",CNBC
-http://bazaruto.top:8000/lazodj/M83jN6A89X/249
-#EXTINF:-1 group-title="DOKU",BBC Worldnews
-http://bazaruto.top:8000/lazodj/M83jN6A89X/248
-#EXTINF:-1 group-title="DOKU",Aljazeera English HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/40038
-
-#EXTINF:-1 group-title="DJECA",*** KIDS ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/216
-#EXTINF:-1 group-title="DJECA",Nickelodeon SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45492
-#EXTINF:-1 group-title="DJECA",Nickelodeon HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/206
-#EXTINF:-1 group-title="DJECA",NickJr. SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/205
-#EXTINF:-1 group-title="DJECA",NickJr. HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45814
-#EXTINF:-1 group-title="DJECA",RTL Kockica
-http://bazaruto.top:8000/lazodj/M83jN6A89X/209
-#EXTINF:-1 group-title="DJECA",Hayatovci
-http://bazaruto.top:8000/lazodj/M83jN6A89X/210
-#EXTINF:-1 group-title="DJECA",Pikaboo
-http://bazaruto.top:8000/lazodj/M83jN6A89X/215
-#EXTINF:-1 group-title="DJECA",TNT Kids
-http://bazaruto.top:8000/lazodj/M83jN6A89X/203
-#EXTINF:-1 group-title="DJECA",MiniMax
-http://bazaruto.top:8000/lazodj/M83jN6A89X/208
-#EXTINF:-1 group-title="DJECA",Mini tv
-http://bazaruto.top:8000/lazodj/M83jN6A89X/211
-#EXTINF:-1 group-title="DJECA",VaVooM
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3409
-#EXTINF:-1 group-title="DJECA",Pink Kids
-http://bazaruto.top:8000/lazodj/M83jN6A89X/373
-#EXTINF:-1 group-title="DJECA",SuperKids
-http://bazaruto.top:8000/lazodj/M83jN6A89X/374
-#EXTINF:-1 group-title="DJECA",Boomerang
-http://bazaruto.top:8000/lazodj/M83jN6A89X/214
-#EXTINF:-1 group-title="DJECA",Cartoon Network
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1292
-#EXTINF:-1 group-title="DJECA",Disney Jr.
-http://bazaruto.top:8000/lazodj/M83jN6A89X/438
-#EXTINF:-1 group-title="DJECA",Kazabuka
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42908
-#EXTINF:-1 group-title="DJECA",Hey Kids
-http://bazaruto.top:8000/lazodj/M83jN6A89X/40093
-#EXTINF:-1 group-title="DJECA",JimJam
-http://bazaruto.top:8000/lazodj/M83jN6A89X/300
-#EXTINF:-1 group-title="DJECA",Baby TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/212
-#EXTINF:-1 group-title="DJECA",Duck TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/213
-#EXTINF:-1 group-title="DJECA",Masa i Medo
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28179
-#EXTINF:-1 group-title="DJECA",Looney Tunes
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3182
-#EXTINF:-1 group-title="DJECA",Tom And Jery
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3826
-#EXTINF:-1 group-title="DJECA",Karusel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/295
-#EXTINF:-1 group-title="DJECA",Gametoon HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16974
-#EXTINF:-1 group-title="DJECA",GB TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4157
-
-#EXTINF:-1 group-title="MUZIKA",*** MUZIKA ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/867
-#EXTINF:-1 group-title="MUZIKA",Grand TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/223
-#EXTINF:-1 group-title="MUZIKA",Grand TV 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/224
-#EXTINF:-1 group-title="MUZIKA",Balkanika
-http://bazaruto.top:8000/lazodj/M83jN6A89X/243
-#EXTINF:-1 group-title="MUZIKA",DM Sat
-http://bazaruto.top:8000/lazodj/M83jN6A89X/225
-#EXTINF:-1 group-title="MUZIKA",Hayat Folk
-http://bazaruto.top:8000/lazodj/M83jN6A89X/235
-#EXTINF:-1 group-title="MUZIKA",BN Music
-http://bazaruto.top:8000/lazodj/M83jN6A89X/226
-#EXTINF:-1 group-title="MUZIKA",Pink Folk 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/227
-#EXTINF:-1 group-title="MUZIKA",Pink Folk 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/228
-#EXTINF:-1 group-title="MUZIKA",Izvorna TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/344
-#EXTINF:-1 group-title="MUZIKA",Dobra Svadba
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3223
-#EXTINF:-1 group-title="MUZIKA",Dobra Exclusive
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1123
-#EXTINF:-1 group-title="MUZIKA",Sevdah TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/367
-#EXTINF:-1 group-title="MUZIKA",TV Banovina
-http://bazaruto.top:8000/lazodj/M83jN6A89X/233
-#EXTINF:-1 group-title="MUZIKA",Posavina TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/232
-#EXTINF:-1 group-title="MUZIKA",Narodna TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28251
-#EXTINF:-1 group-title="MUZIKA",TOP Sound
-http://bazaruto.top:8000/lazodj/M83jN6A89X/28541
-#EXTINF:-1 group-title="MUZIKA",Roma TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/296
-#EXTINF:-1 group-title="MUZIKA",Upera Balkan TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3396
-#EXTINF:-1 group-title="MUZIKA",Pink Music 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/230
-#EXTINF:-1 group-title="MUZIKA",Pink Music 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/229
-#EXTINF:-1 group-title="MUZIKA",YU Planet
-http://bazaruto.top:8000/lazodj/M83jN6A89X/348
-#EXTINF:-1 group-title="MUZIKA",Dobra Muzicka
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3226
-#EXTINF:-1 group-title="MUZIKA",OTV Valentino
-http://bazaruto.top:8000/lazodj/M83jN6A89X/691
-#EXTINF:-1 group-title="MUZIKA",Valentino Etno
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43719
-#EXTINF:-1 group-title="MUZIKA",Libertas TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/6259
-#EXTINF:-1 group-title="MUZIKA",DMC
-http://bazaruto.top:8000/lazodj/M83jN6A89X/6260
-#EXTINF:-1 group-title="MUZIKA",Hayat Music
-http://bazaruto.top:8000/lazodj/M83jN6A89X/234
-#EXTINF:-1 group-title="MUZIKA",IDJ TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/342
-#EXTINF:-1 group-title="MUZIKA",Toxic
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44069
-#EXTINF:-1 group-title="MUZIKA",Jugoton
-http://bazaruto.top:8000/lazodj/M83jN6A89X/459
-#EXTINF:-1 group-title="MUZIKA",CMC
-http://bazaruto.top:8000/lazodj/M83jN6A89X/231
-#EXTINF:-1 group-title="MUZIKA",OKK
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39717
-#EXTINF:-1 group-title="MUZIKA",Pink Hits 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/443
-#EXTINF:-1 group-title="MUZIKA",Pink Hits 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/444
-#EXTINF:-1 group-title="MUZIKA",MTV 00s
-http://bazaruto.top:8000/lazodj/M83jN6A89X/236
-#EXTINF:-1 group-title="MUZIKA",MTV 80s
-http://bazaruto.top:8000/lazodj/M83jN6A89X/241
-#EXTINF:-1 group-title="MUZIKA",MTV 90s
-http://bazaruto.top:8000/lazodj/M83jN6A89X/239
-#EXTINF:-1 group-title="MUZIKA",MTV Live
-http://bazaruto.top:8000/lazodj/M83jN6A89X/37475
-#EXTINF:-1 group-title="MUZIKA",MTV Adria
-http://bazaruto.top:8000/lazodj/M83jN6A89X/238
-#EXTINF:-1 group-title="MUZIKA",MTV Hits
-http://bazaruto.top:8000/lazodj/M83jN6A89X/240
-#EXTINF:-1 group-title="MUZIKA",MTV Club
-http://bazaruto.top:8000/lazodj/M83jN6A89X/17504
-#EXTINF:-1 group-title="MUZIKA",City TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/245
-#EXTINF:-1 group-title="MUZIKA",The Voice
-http://bazaruto.top:8000/lazodj/M83jN6A89X/244
-#EXTINF:-1 group-title="MUZIKA",MCM Top
-http://bazaruto.top:8000/lazodj/M83jN6A89X/237
-#EXTINF:-1 group-title="MUZIKA",Jukebox 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39672
-#EXTINF:-1 group-title="MUZIKA",Magic TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/242
-
-#EXTINF:-1 group-title="SPORT",*** SPORT ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/868
-#EXTINF:-1 group-title="SPORT",MaxSport 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43197
-#EXTINF:-1 group-title="SPORT",MaxSport 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43198
-#EXTINF:-1 group-title="SPORT",Arena Sport Premium 1 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39240
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 Premium HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42568
-#EXTINF:-1 group-title="SPORT",Arena Sport Premium 2 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39241
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 Premium HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44114
-#EXTINF:-1 group-title="SPORT",Arena Sport Premium 3 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39242
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 Premium HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44115
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 Premium BH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45542
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 Premium BH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45543
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 Premium BH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45544
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/97
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 SR HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/643
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/98
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 SR HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/677
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/99
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 SR HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/645
-#EXTINF:-1 group-title="SPORT",Arena Sport 4 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/100
-#EXTINF:-1 group-title="SPORT",Arena Sport 4 SR HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/646
-#EXTINF:-1 group-title="SPORT",Arena Sport 5 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/101
-#EXTINF:-1 group-title="SPORT",Arena Sport 5 SR HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1398
-#EXTINF:-1 group-title="SPORT",Arena Sport 1 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/102
-#EXTINF:-1 group-title="SPORT",Arena Sport 2 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/103
-#EXTINF:-1 group-title="SPORT",Arena Sport 3 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/104
-#EXTINF:-1 group-title="SPORT",Arena Sport 4 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/112
-#EXTINF:-1 group-title="SPORT",Arena Sport 5 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/114
-#EXTINF:-1 group-title="SPORT",Arena Sport 6 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/352
-#EXTINF:-1 group-title="SPORT",Arena Sport 7 HR 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38772
-#EXTINF:-1 group-title="SPORT",Arena Sport 8 HR 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38773
-#EXTINF:-1 group-title="SPORT",Arena Sport 9 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38774
-#EXTINF:-1 group-title="SPORT",Arena Sport 10 HR 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/38775
-#EXTINF:-1 group-title="SPORT",Arena Sport BIH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43829
-#EXTINF:-1 group-title="SPORT",Arena ESport
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45590
-#EXTINF:-1 group-title="SPORT",Sport Klub 1 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/116
-#EXTINF:-1 group-title="SPORT",Sport Klub 1 SR HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/40052
-#EXTINF:-1 group-title="SPORT",Sport Klub 2 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/117
-#EXTINF:-1 group-title="SPORT",Sport Klub 3 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/118
-#EXTINF:-1 group-title="SPORT",Sport Klub 4 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44849
-#EXTINF:-1 group-title="SPORT",Sport Klub 5 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44850
-#EXTINF:-1 group-title="SPORT",Sport Klub 6 SR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44851
-#EXTINF:-1 group-title="SPORT",Sport Klub 1 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/119
-#EXTINF:-1 group-title="SPORT",Sport Klub 2 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/120
-#EXTINF:-1 group-title="SPORT",Sport Klub 3 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/121
-#EXTINF:-1 group-title="SPORT",Sport Klub 4 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/353
-#EXTINF:-1 group-title="SPORT",Sport Klub 5 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/694
-#EXTINF:-1 group-title="SPORT",Sport Klub 6 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/355
-#EXTINF:-1 group-title="SPORT",Sport Klub HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/738
-#EXTINF:-1 group-title="SPORT",Sport Klub 7
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16876
-#EXTINF:-1 group-title="SPORT",Sport Klub 8
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16877
-#EXTINF:-1 group-title="SPORT",Sport Klub 9
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16878
-#EXTINF:-1 group-title="SPORT",Sport Klub 10
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16879
-#EXTINF:-1 group-title="SPORT",Sport Klub Golf
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39834
-#EXTINF:-1 group-title="SPORT",Eurosport 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/128
-#EXTINF:-1 group-title="SPORT",EuroSport 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/2709
-#EXTINF:-1 group-title="SPORT",Eurosport 1 HD BG/EN Audio
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42684
-#EXTINF:-1 group-title="SPORT",Eurosport 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/129
-#EXTINF:-1 group-title="SPORT",EuroSport 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/2711
-#EXTINF:-1 group-title="SPORT",Eurosport 2 HD BG/EN Audio
-http://bazaruto.top:8000/lazodj/M83jN6A89X/42688
-#EXTINF:-1 group-title="SPORT",Max Sport 1 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43197
-#EXTINF:-1 group-title="SPORT",Max Sport 2 HR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43198
-#EXTINF:-1 group-title="SPORT",Nova Sport
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3105
-#EXTINF:-1 group-title="SPORT",MNE Sport 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44841
-#EXTINF:-1 group-title="SPORT",MNE Sport 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44842
-#EXTINF:-1 group-title="SPORT",MNE Sport 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/44843
-#EXTINF:-1 group-title="SPORT",TV Partizan
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46151
-#EXTINF:-1 group-title="SPORT",Zvezda TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/46152
-#EXTINF:-1 group-title="SPORT",Матч! Футбол 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45361
-#EXTINF:-1 group-title="SPORT",Матч! Футбол 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45362
-#EXTINF:-1 group-title="SPORT",Матч! Футбол 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45363
-#EXTINF:-1 group-title="SPORT",Матч! ТВ HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45458
-#EXTINF:-1 group-title="SPORT",Max Sport 1 BG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/182
-#EXTINF:-1 group-title="SPORT",Max Sport 2 BG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/183
-#EXTINF:-1 group-title="SPORT",Max Sport 3 BG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/184
-#EXTINF:-1 group-title="SPORT",Max Sport 4 BG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/185
-#EXTINF:-1 group-title="SPORT",Diema Sport HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/390
-#EXTINF:-1 group-title="SPORT",Diema Sport 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/391
-#EXTINF:-1 group-title="SPORT",Diema Sport 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39657
-#EXTINF:-1 group-title="SPORT",Nova Sport BG
-http://bazaruto.top:8000/lazodj/M83jN6A89X/392
-#EXTINF:-1 group-title="SPORT",Ring HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3774
-#EXTINF:-1 group-title="SPORT",Sport TV 1 SL
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41720
-#EXTINF:-1 group-title="SPORT",Sport TV 2 SL
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41721
-#EXTINF:-1 group-title="SPORT",Sport TV 3 SL
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41722
-#EXTINF:-1 group-title="SPORT",Blue Sport 1 CH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41613
-#EXTINF:-1 group-title="SPORT",Blue Sport 2 CH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41614
-#EXTINF:-1 group-title="SPORT",Sport TV 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/433
-#EXTINF:-1 group-title="SPORT",Sport TV 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/434
-#EXTINF:-1 group-title="SPORT",Sport TV 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/435
-#EXTINF:-1 group-title="SPORT",Sport TV 4
-http://bazaruto.top:8000/lazodj/M83jN6A89X/436
-#EXTINF:-1 group-title="SPORT",Sport TV 5
-http://bazaruto.top:8000/lazodj/M83jN6A89X/437
-#EXTINF:-1 group-title="SPORT",Eleven Sports 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/612
-#EXTINF:-1 group-title="SPORT",Eleven Sports 2 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/613
-#EXTINF:-1 group-title="SPORT",Eleven Sports 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/614
-#EXTINF:-1 group-title="SPORT",Eleven Sports 4 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/615
-#EXTINF:-1 group-title="SPORT",Eleven Sports 5 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/616
-#EXTINF:-1 group-title="SPORT",Bein Sport 1 FR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16843
-#EXTINF:-1 group-title="SPORT",Bein Sport 2 FR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16844
-#EXTINF:-1 group-title="SPORT",Bein Sport 3 FR
-http://bazaruto.top:8000/lazodj/M83jN6A89X/16933
-#EXTINF:-1 group-title="SPORT",RMC Sport 1 HD 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1073
-#EXTINF:-1 group-title="SPORT",RMC Sport 2 HD 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1074
-#EXTINF:-1 group-title="SPORT",RMC Sport 3 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/1075
-#EXTINF:-1 group-title="SPORT",DAZN Bar 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/345
-#EXTINF:-1 group-title="SPORT",DAZN Bar 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/43624
-#EXTINF:-1 group-title="SPORT",DAZN Bar 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/346
-#EXTINF:-1 group-title="SPORT",NBA
-http://bazaruto.top:8000/lazodj/M83jN6A89X/569
-#EXTINF:-1 group-title="SPORT",Fight Channel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/422
-#EXTINF:-1 group-title="SPORT",Arena Fight
-http://bazaruto.top:8000/lazodj/M83jN6A89X/39710
-#EXTINF:-1 group-title="SPORT",Fight Box 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45591
-#EXTINF:-1 group-title="SPORT",Extreme Sports
-http://bazaruto.top:8000/lazodj/M83jN6A89X/40097
-#EXTINF:-1 group-title="SPORT",Moja TV Premier Liga BH
-http://bazaruto.top:8000/lazodj/M83jN6A89X/388
-#EXTINF:-1 group-title="SPORT",Lig tv 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/683
-#EXTINF:-1 group-title="SPORT",Lig TV 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/684
-#EXTINF:-1 group-title="SPORT",SyS 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/301
-#EXTINF:-1 group-title="SPORT",SyS 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/302
-#EXTINF:-1 group-title="SPORT",Bundesliga 1
-http://bazaruto.top:8000/lazodj/M83jN6A89X/263
-#EXTINF:-1 group-title="SPORT",Bundesliga 1 HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/366
-#EXTINF:-1 group-title="SPORT",Bundesliga 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/384
-#EXTINF:-1 group-title="SPORT",Bundesliga 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/385
-#EXTINF:-1 group-title="SPORT",Bundesliga 4
-http://bazaruto.top:8000/lazodj/M83jN6A89X/386
-#EXTINF:-1 group-title="SPORT",Bundesliga 5
-http://bazaruto.top:8000/lazodj/M83jN6A89X/387
-#EXTINF:-1 group-title="SPORT",Bundesliga 6
-http://bazaruto.top:8000/lazodj/M83jN6A89X/655
-#EXTINF:-1 group-title="SPORT",Bundesliga 7
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3055
-#EXTINF:-1 group-title="SPORT",Bundesliga 8
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3056
-#EXTINF:-1 group-title="SPORT",Liverpool TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/41975
-#EXTINF:-1 group-title="SPORT",Magenta Sport 1 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45719
-#EXTINF:-1 group-title="SPORT",Magenta Sport 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45720
-#EXTINF:-1 group-title="SPORT",Magenta Sport 3
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45721
-#EXTINF:-1 group-title="SPORT",Magenta Sport 4 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45722
-#EXTINF:-1 group-title="SPORT",Magenta Sport 5
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45723
-#EXTINF:-1 group-title="SPORT",Magenta Sport 6
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45724
-#EXTINF:-1 group-title="SPORT",Magenta Sport 7
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45725
-#EXTINF:-1 group-title="SPORT",Magenta Sport 8 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45726
-#EXTINF:-1 group-title="SPORT",Magenta Sport 9
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45727
-#EXTINF:-1 group-title="SPORT",Magenta Sport 10
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45728
-#EXTINF:-1 group-title="SPORT",Magenta Sport 11
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45729
-#EXTINF:-1 group-title="SPORT",Magenta Sport 12
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45730
-#EXTINF:-1 group-title="SPORT",Magenta Sport 13 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45731
-#EXTINF:-1 group-title="SPORT",Magenta Sport 14
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45732
-#EXTINF:-1 group-title="SPORT",Magenta Sport 15
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45733
-#EXTINF:-1 group-title="SPORT",Magenta Sport 16 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45734
-#EXTINF:-1 group-title="SPORT",Magenta Sport 17
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45735
-#EXTINF:-1 group-title="SPORT",Magenta Sport 18 
-http://bazaruto.top:8000/lazodj/M83jN6A89X/45736
-
-#EXTINF:-1 group-title="EROTSKI",*** Erotski Kanali ***
-http://bazaruto.top:8000/lazodj/M83jN6A89X/813
-#EXTINF:-1 group-title="EROTSKI",Private
-http://bazaruto.top:8000/lazodj/M83jN6A89X/175
-#EXTINF:-1 group-title="EROTSKI",Dorcel HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/176
-#EXTINF:-1 group-title="EROTSKI",Penthouse Gold HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/568
-#EXTINF:-1 group-title="EROTSKI",Passion XXX 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/177
-#EXTINF:-1 group-title="EROTSKI",EvilAngel HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/178
-#EXTINF:-1 group-title="EROTSKI",Hustler HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/180
-#EXTINF:-1 group-title="EROTSKI",Hustler TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4050
-#EXTINF:-1 group-title="EROTSKI",Evil Angel
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4049
-#EXTINF:-1 group-title="EROTSKI",EroXX HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4051
-#EXTINF:-1 group-title="EROTSKI",Brazzers TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/4052
-#EXTINF:-1 group-title="EROTSKI",PinkO TV
-http://bazaruto.top:8000/lazodj/M83jN6A89X/566
-#EXTINF:-1 group-title="EROTSKI",Stars XXX
-http://bazaruto.top:8000/lazodj/M83jN6A89X/567
-#EXTINF:-1 group-title="EROTSKI",Super One
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3113
-#EXTINF:-1 group-title="EROTSKI",Alba XXX-HD 2
-http://bazaruto.top:8000/lazodj/M83jN6A89X/3114
-#EXTINF:-1 group-title="EROTSKI",Playboy HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/427
-#EXTINF:-1 group-title="EROTSKI",Penthouse Fashion HD
-http://bazaruto.top:8000/lazodj/M83jN6A89X/179
-#EXTINF:-1 group-title="EROTSKI",Русская Ночь
-http://bazaruto.top:8000/lazodj/M83jN6A89X/565
-
-
-
-
+#EXTINF:-1,Laudato Tv
+http://213.186.1.123:8000/Laudato%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Hrt 1
+http://213.186.1.123:8000/Hrt%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Hrt 2
+http://213.186.1.123:8000/Hrt%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Hrt 3
+http://213.186.1.123:8000/Hrt%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Hrt 4
+http://213.186.1.123:8000/Hrt%204?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Hrt int.
+http://213.186.1.123:8000/Hrt%205?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl
+http://213.186.1.123:8000/Rtl?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl 2
+http://213.186.1.123:8000/Rtl%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl Crime
+http://213.186.1.123:8000/Rtl%20Crime?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl Living
+http://213.186.1.123:8000/Rtl%20Living?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Doma Tv
+http://213.186.1.123:8000/Doma%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Nova Tv
+http://213.186.1.123:8000/Nova%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Z1
+http://213.186.1.123:8000/Z1?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,OTV
+http://213.186.1.123:8000/Jabuka%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Osjecka
+http://213.186.1.123:8000/Osjecka?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Vinkovacka
+http://213.186.1.123:8000/Vinkovacka?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Mreza Tv
+http://213.186.1.123:8000/Mreza%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,VTV
+http://213.186.1.123:8000/Varazdinska%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Tv Istra
+http://213.186.1.123:8000/Tv%20Istra?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Zdrava
+http://213.186.1.123:8000/Zdrava%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Capital TV
+http://213.186.1.123:8000/Capital%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,FTV
+http://213.186.1.123:8000/FTV?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,BHT
+http://213.186.1.123:8000/BHT?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Pop Tv
+http://213.186.1.123:8000/Pop%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Service 01
+http://213.186.1.123:8000/Kanal%20A?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,RTRS
+http://213.186.1.123:8000/RTRS?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Alternativna Telefizija
+http://213.186.1.123:8000/ATV%20BiH?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,N1
+http://213.186.1.123:8000/N1?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Hayat
+http://213.186.1.123:8000/Hayat?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Face tv
+http://213.186.1.123:8000/Face%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,NovaBH
+http://213.186.1.123:8000/Pink%20BiH?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,BN Televizija
+http://213.186.1.123:8000/BN%20Televizija?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Posavina
+http://213.186.1.123:8000/Posavina%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,K3
+http://213.186.1.123:8000/K3?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,ALJeezera
+http://213.186.1.123:8000/AL%20Jeezera%20Balkan?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,RTv
+http://213.186.1.123:8000/RTv%20USK?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Tuzla
+http://213.186.1.123:8000/TK%20Tuzla?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Doboj
+http://213.186.1.123:8000/RTv%20Doboj?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rts 1
+http://213.186.1.123:8000/Rts%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rts 3
+http://213.186.1.123:8000/Rts%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rts 2
+http://213.186.1.123:8000/Rts%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Prva Tv
+http://213.186.1.123:8000/Prva%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Prva Plus
+http://213.186.1.123:8000/Prva%20Plus?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Nova RS
+http://213.186.1.123:8000/Nova%20RS?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,B92
+http://213.186.1.123:8000/B%2092?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Pink 1
+http://213.186.1.123:8000/Pink%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Red
+http://213.186.1.123:8000/Pink%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Pink 3
+http://213.186.1.123:8000/Pink%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK PLUS
+http://213.186.1.123:8000/Pink%20Plus?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK EXTRA
+http://213.186.1.123:8000/Pink%20Extra?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,HappyTv
+http://213.186.1.123:8000/Happy%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Kladovo
+http://213.186.1.123:8000/Kladovo%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sabac Tv
+http://213.186.1.123:8000/Sabac%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Novi Pazar
+http://213.186.1.123:8000/RTv%20Novi%20Pazar?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sportska Tv
+http://213.186.1.123:8000/Sportska%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://magm1giillmig.funtogether.xyz:8080/gamerzemmerriets/hPrASlQ7Wf/108388?play_token=3oyy12tGIT
+#EXTINF:-1,SportKlub SD
+http://213.186.1.123:8000/SportKlub%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,SK 1
+http://213.186.1.123:8000/SportKlub%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,SK 2
+http://213.186.1.123:8000/SportKlub%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,SK 3
+http://213.186.1.123:8000/SportKlub%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 4
+http://213.186.1.123:8000/SportKlub%204?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 5
+http://213.186.1.123:8000/SportKlub%205?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,RTv CG
+http://213.186.1.123:8000/RTv%20CG?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 6
+http://213.186.1.123:8000/SportKlub%206?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 7
+http://213.186.1.123:8000/SportKlub%207?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 8
+http://213.186.1.123:8000/SportKlub%208?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 9
+http://213.186.1.123:8000/SportKlub%209?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 10
+http://213.186.1.123:8000/SportKlub%2010?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena1HR
+http://213.186.1.123:8000/Arena%201%20HR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 2 HR
+http://213.186.1.123:8000/Arena%202%20HR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 3 HR
+http://213.186.1.123:8000/Arena%203%20HR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 4 HR
+http://213.186.1.123:8000/Arena%204%20HR%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 5 HR
+http://213.186.1.123:8000/Arena%205%20HR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 1
+http://213.186.1.123:8000/SportKlub%201%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 2
+http://213.186.1.123:8000/SportKlub%202%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 3
+http://213.186.1.123:8000/SportKlub%203%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 1 HR
+http://213.186.1.123:8000/Arena%201%20HR%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 2 HR
+http://213.186.1.123:8000/Arena%202%20HR%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 4 HR
+http://213.186.1.123:8000/Arena%204%20HR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena Sport 1 HD
+http://213.186.1.123:8000/Arena%201%20SR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 2 SR
+http://213.186.1.123:8000/Arena%202%20SR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Arena 5 SR
+http://213.186.1.123:8000/Arena%205%20SR?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Eurosport 1
+http://213.186.1.123:8000/EuroSport%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,EuroSport 2
+http://213.186.1.123:8000/EuroSportDVA?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,FightBox
+http://213.186.1.123:8000/Fightbox?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Beini Sport 3
+http://213.186.1.123:8000/BeinSport%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,BeinSport4
+http://213.186.1.123:8000/BeinSport%204?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Bein Sport 1
+http://213.186.1.123:8000/BeinSport%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,BeinSport6
+http://213.186.1.123:8000/BeinSport%206?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Klasik Tv
+http://213.186.1.123:8000/Klasik%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,HBO 1
+http://213.186.1.123:8000/HBO%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,HBO 2
+http://213.186.1.123:8000/HBO%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,HBO 3
+http://213.186.1.123:8000/HBO%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cinesta Pre 2
+http://213.186.1.123:8000/Rtl%20Passion?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cinesta Pre 1
+http://213.186.1.123:8000/Fox%20Crime?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cinemax 1
+http://213.186.1.123:8000/Cinemax%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cinestar Action
+http://213.186.1.123:8000/Cinestar%20Action?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,CinestarFantasy
+http://213.186.1.123:8000/Cinestar%20Fantasy?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cinestar Prem 1
+http://213.186.1.123:8000/Cinestar%20Premiere%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cinestar Prem 2
+http://213.186.1.123:8000/Cinestar%20Premiere%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK PEDIA
+http://213.186.1.123:8000/Pink%20Pedia?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK ACTION
+http://213.186.1.123:8000/Pink%20Action?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK COMEDY
+http://213.186.1.123:8000/Pink%20Comedy?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK MOVIES
+http://213.186.1.123:8000/Pink%20Movies?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK FILM
+http://213.186.1.123:8000/Pink%20Film?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK HORROR
+http://213.186.1.123:8000/Pink%20Horor?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK CRIME MYSTERY
+http://213.186.1.123:8000/Pink%20Crime%20i%20Mistery?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK WESTERN
+http://213.186.1.123:8000/Pink%20Western?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK CLASSIC
+http://213.186.1.123:8000/Pink%20Classic?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK SCI FI
+http://213.186.1.123:8000/Pink%20Sci-Fi%20i%20Fantasy?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK THRILLER
+http://213.186.1.123:8000/Pink%20Thriller?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK KUVAR
+http://213.186.1.123:8000/Pink%20Kuhar?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,24Kitchen
+http://213.186.1.123:8000/24%20Kitchen?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK REALITY
+http://213.186.1.123:8000/Pink%20Reality?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK ZABAVA
+http://213.186.1.123:8000/Pink%20Zabava?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK WORLD
+http://213.186.1.123:8000/Pink%20World?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK KONCERT
+http://213.186.1.123:8000/Pink%20Koncert?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK HITS 2
+http://213.186.1.123:8000/Pink%20Hits?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK MUSIC
+http://213.186.1.123:8000/Pink%20Music?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PinkFolk
+http://213.186.1.123:8000/Pink%20Folk?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,E
+http://213.186.1.123:8000/E+?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK SERIJE
+http://213.186.1.123:8000/Pink%20Serije?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK SOAP
+http://213.186.1.123:8000/Pink%20Soap?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,NGW
+http://213.186.1.123:8000/NGW?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Fox
+http://213.186.1.123:8000/Fox?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,History 2
+http://213.186.1.123:8000/History%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Discovery
+http://213.186.1.123:8000/Discovery?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Animal Planet
+http://213.186.1.123:8000/Animal%20Planet?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,History
+http://213.186.1.123:8000/History?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Viasat History
+http://213.186.1.123:8000/Viasat%20History?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Viasat Explorer
+http://213.186.1.123:8000/Viasat%20Explorer?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Viasat Nature
+http://213.186.1.123:8000/Viasat%20Nature?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,ID
+http://213.186.1.123:8000/ID?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,LoviRibolov
+http://213.186.1.123:8000/Lov%20i%20Ribolov?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Travel Channel
+http://213.186.1.123:8000/Travel%20Channel?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,HGTV
+http://213.186.1.123:8000/Fine%20Living?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl Kockica
+http://213.186.1.123:8000/RTL%20Kockica?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Vavoom
+http://213.186.1.123:8000/OK%20Bambino?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Nickeleodon
+http://213.186.1.123:8000/Nickelodeon?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Super RTL
+http://213.186.1.123:8000/Super%20RTL?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,BabyTv
+http://213.186.1.123:8000/Baby%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Service01
+http://213.186.1.123:8000/Hayatovci?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,PINK KIDS
+http://213.186.1.123:8000/Pink%20Kids?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Mini Tv
+http://213.186.1.123:8000/Mini%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,CMC
+http://213.186.1.123:8000/CMC?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,DMSat
+http://213.186.1.123:8000/DM%20Sat?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Service01
+http://213.186.1.123:8000/Grand%20Tv%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Grand Tv
+http://213.186.1.123:8000/Grand%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,OTV Valentino
+http://213.186.1.123:8000/OTV%20Valentino?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Hayatovci
+http://213.186.1.123:8000/BN%20Music?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Izvorna Tv
+http://213.186.1.123:8000/Izvorna%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Banovina Tv
+http://213.186.1.123:8000/Banovina%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,TV DUGA
+http://213.186.1.123:8000/Tv%20Duga?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,MTV Hits
+http://213.186.1.123:8000/MTV%20Adria?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,VH Classic
+http://213.186.1.123:8000/Orf%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,MTV 80s
+http://213.186.1.123:8000/VH%201%20Classic?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,VH 1
+http://213.186.1.123:8000/VH%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Orf 2
+http://213.186.1.123:8000/Orf%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Servus Tv
+http://213.186.1.123:8000/Servus%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl DE
+http://213.186.1.123:8000/Rtl%20DE?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Pro Sieben
+http://213.186.1.123:8000/Pro%20Sieben?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl 2 DE
+http://213.186.1.123:8000/Rtl%202%20DE?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Kabel 1
+http://213.186.1.123:8000/Kabel%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sat 1
+http://213.186.1.123:8000/Sat%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,D max
+http://213.186.1.123:8000/Dmax?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Zdf
+http://213.186.1.123:8000/Zdf?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport 1
+http://213.186.1.123:8000/Sport%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Das Erste
+http://213.186.1.123:8000/Das%20Erste?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,xxx
+http://213.186.1.123:8000/XXX?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,xxx
+http://213.186.1.123:8000/XXX%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,xxx
+http://213.186.1.123:8000/XXX%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,xxx
+http://213.186.1.123:8000/XXX%204?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,XXX 3
+http://213.186.1.123:8000/XXX%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Service01
+http://213.186.1.123:8000/XXX%205?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Service01
+http://213.186.1.123:8000/XXX%206?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Mrt 1
+http://213.186.1.123:8000/Mrt%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Mrt 3
+http://213.186.1.123:8000/Mrt%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Mrt 2
+http://213.186.1.123:8000/Mrt%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sitel Tv
+http://213.186.1.123:8000/Sitel%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sitel 3
+http://213.186.1.123:8000/Sitel%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sitel 2
+http://213.186.1.123:8000/Sitel%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Telma
+http://213.186.1.123:8000/Telma?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,MKTV 5
+http://213.186.1.123:8000/Kanal%205?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Alfa
+http://213.186.1.123:8000/Alfa?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 2
+http://213.186.1.123:8000/Special%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 2
+http://213.186.1.123:8000/Special%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 4
+http://213.186.1.123:8000/Special%204?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 6
+http://213.186.1.123:8000/Special%206?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 8
+http://213.186.1.123:8000/Special%208?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 3
+http://213.186.1.123:8000/Special%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 7
+http://213.186.1.123:8000/Special%207?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Special 5
+http://213.186.1.123:8000/Special%205?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cinestar Tv
+http://213.186.1.123:8000/Cinestar%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Top
+http://213.186.1.123:8000/Top?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Axn Spin
+http://213.186.1.123:8000/Axn%20Spin?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Bein Sport 2
+http://213.186.1.123:8000/BeinSport%202%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Nick Jr
+http://213.186.1.123:8000/NickJr?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Tv Dubrovnik
+http://213.186.1.123:8000/Tv%20Dubrovnik?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Bein Sport 1
+http://213.186.1.123:8000/BeinSport%201%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Duck Tv
+http://213.186.1.123:8000/Duck%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Fashion 4K
+http://213.186.1.123:8000/Fashion%204K?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,O Kanal
+http://213.186.1.123:8000/RTV%20Herceg%20Bosne?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Tv 1000
+http://213.186.1.123:8000/Tv%201000?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Planet Tv
+http://213.186.1.123:8000/Planet%20Tv?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Slo 1
+http://213.186.1.123:8000/Slo%201?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Slo 2
+http://213.186.1.123:8000/Slo%202?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Discovery Science
+http://213.186.1.123:8000/Discovery%20Science?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Cartoon Network
+http://213.186.1.123:8000/Cartoon%20Network?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Slo 3
+http://213.186.1.123:8000/Slo%203?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,IDJ Tv HD
+http://213.186.1.123:8000/DM%20Sat%20HD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Sport Klub 1 HR
+http://213.186.1.123:8000/SportKlub%201%20HR%20SD?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Rtl Adria
+http://213.186.1.123:8000/Rtl%20Adria?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Toon kids
+http://213.186.1.123:8000/Toon%20kids?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,YU PLANET
+http://213.186.1.123:8000/Yu%20Planet?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Da Vinci
+http://213.186.1.123:8000/Da%20Vinci?u=00:1A:79:29:CE:D4:p=001A7929CED4
+#EXTINF:-1,Doku Tv
+http://213.186.1.123:8000/DokuTv?u=00:1A:79:29:CE:D4:p=001A7929CED4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="One Hundred and One Dalmatians (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRY84MJeWKnp9joev82QtslJFvk.jpg" group-title="CRTANI FILMOVI",One Hundred and One Dalmatians (1961)
