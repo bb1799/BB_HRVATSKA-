@@ -543,6 +543,29 @@ http://bntvs.com:2052/movie/Stanisa/55432245/26832.mp4
 http://bntvs.com:2052/movie/Stanisa/55432245/26833.mp4
 
 
+#24/7
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MASA I MEDO" tvg-logo="http://live.nettv.pro/icons/DJECIJI/masaimedo.jpg" group-title="DJECIJI 24/7",24/7 MASA I MEDO
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3941
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOM & JERRY" tvg-logo="http://live.nettv.pro/icons/DJECIJI/tomandjerry.jpg" group-title="DJECIJI 24/7",24/7 TOM & JERRY
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3942
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRUMPFOVI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/strumpfovi.jpg" group-title="DJECIJI 24/7",24/7 STRUMPFOVI
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38553
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 MR BEAN
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56425
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB GRADITELJ" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 BOB GRADITELJ
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56426
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KUHARICA KIFLICA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 KUHARICA KIFLICA
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56427
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PROFESOR BALTAZAR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 PROFESOR BALTAZAR
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56429
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TIMON I PUMBA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 TIMON I PUMBA
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56432
+#EXTINF:-1 tvg-id="" tvg-name="24/7  ALVINNN!!! I NEMIRNE VJEVERICE" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7  ALVINNN!!! I NEMIRNE VJEVERICE
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56433
+#EXTINF:-1 tvg-id="" tvg-name="24/7  MOJ MALI PONI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7  MOJ MALI PONI
+http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56435
+
+#maxsport1
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53547
