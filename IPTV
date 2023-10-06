@@ -373,7 +373,8 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 # filmovi
 
-
+#EXTINF:1 group-title="FILMOVI 2022/2023",GRAN TIRISMO (2023)
+http://content2.bilosta.org/DISK2/filmovi/765200.mkv
 #EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="FILMOVI 2022/2023",65 (2023)
 http://bntvs.com:2052/movie/Stanisa/55432245/30039.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Man Called Otto (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/130H1gap9lFfiTF9iDrqNIkFvC9.jpg" group-title="FILMOVI 2022/2023",A Man Called Otto (2022)
