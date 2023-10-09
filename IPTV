@@ -1,325 +1,440 @@
+
+
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://iptvunited.org:8080/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8499
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="http://iptvunited.org:8080/images/d66f3ed717b48fe9573d77d086f93242.png" group-title="Hrvatska",HRT 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8500
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://iptvunited.org:8080/images/bb22402b402d0944146db818c2d87da2.png" group-title="Hrvatska",HRT 3
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8501
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="http://iptvunited.org:8080/images/7f8f97c669df5aeaf943a6e7d5ec897c.png" group-title="Hrvatska",HRT 4
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8502
-#EXTINF:-1 tvg-id="htv5" tvg-name="HRT 5" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRTint_logo.png" group-title="Hrvatska",HRT 5
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8503
-#EXTINF:-1 tvg-id="nova" tvg-name="Nova TV" tvg-logo="http://iptvunited.org:8080/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="Hrvatska",Nova TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8505
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL (H265)" tvg-logo="http://iptvunited.org:8080/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="Hrvatska",RTL (H265)
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8506
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HR" tvg-logo="http://iptvunited.org:8080/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="Hrvatska",RTL HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8507
-#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL Adria" tvg-logo="http://iptvunited.org:8080/images/8dc98da90374651fb8c436dfcad78a94.png" group-title="Hrvatska",RTL Adria
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8508
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://iptvunited.org:8080/images/b1a874b3e9aefba9968dcd412f06b4af.png" group-title="Hrvatska",RTL 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8509
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8510
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/rtl-kockica-logo.png" group-title="Hrvatska",RTL Kockica
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8511
-#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska",RTL Living
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8512
-#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Passion" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL Passion
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8513
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8514
-#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/10.%20DIVA.png" group-title="Hrvatska",Diva
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8515
-#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Hrvatska" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/26.%20N1%20SRB.png" group-title="Hrvatska",N1 Hrvatska
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8516
-#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CMC_TV_logo.png" group-title="Hrvatska",CMC
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8517
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska televizija" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/24.%20SLAVONSKA%20TV.jpg" group-title="Hrvatska",Slavonska televizija
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8518
-#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/23.%20LAUDATO%20TV.png" group-title="Hrvatska",Laudato TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8519
-#EXTINF:-1 tvg-id="" tvg-name="Jabuka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/25.%20JABUKA%20TV.png" group-title="Hrvatska",Jabuka TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8520
-#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/OTV%20VALENTINO.png" group-title="Hrvatska",OTV Valentino
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8521
-#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/63.%20Z1.png" group-title="Hrvatska",Z1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8522
-#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/64.%20OSJECKA%20TV.png" group-title="Hrvatska",Osjecka TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8523
-#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/5.%20banovina.png" group-title="Hrvatska",Banovina TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8524
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/65.%20VINKOVACKA%20TV.png" group-title="Hrvatska",Vinkovacka TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8525
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 HD (hevc)" tvg-logo="" group-title="Hrvatska",HRT 1 HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1319
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 HD" tvg-logo="" group-title="Hrvatska",HRT 1 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2032
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 HD (hevc)" tvg-logo="" group-title="Hrvatska",HRT 2 HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1325
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 HD" tvg-logo="" group-title="Hrvatska",HRT 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2033
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 HD (hevc)" tvg-logo="" group-title="Hrvatska",HRT 3 HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1328
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 HD" tvg-logo="" group-title="Hrvatska",HRT 3 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2034
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 HD (hevc)" tvg-logo="" group-title="Hrvatska",HRT 4 HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1390
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 HD" tvg-logo="" group-title="Hrvatska",HRT 4 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15585
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT int.• International" tvg-logo="" group-title="Hrvatska",HRT int.• International
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1406
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HD HR. (hevc)" tvg-logo="" group-title="Hrvatska",RTL HD HR. (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/31463
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HD HR." tvg-logo="" group-title="Hrvatska",RTL HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1383
+#EXTINF:-1 tvg-id="12cd3d725d78fcffe18dad193b8bdc72" tvg-name="RTL2 HD HR. (hevc)" tvg-logo="" group-title="Hrvatska",RTL2 HD HR. (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15587
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL2 HD HR." tvg-logo="" group-title="Hrvatska",RTL2 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1384
+#EXTINF:-1 tvg-id="4bacececa9d3cb316ae38f55c27117e8" tvg-name="RTL Crime HR." tvg-logo="" group-title="Hrvatska",RTL Crime HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1382
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Passion HR." tvg-logo="" group-title="Hrvatska",RTL Passion HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1407
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living HR." tvg-logo="" group-title="Hrvatska",RTL Living HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1408
+#EXTINF:-1 tvg-id="cc58d12e39ab85aa3c67f7af4745b2ba" tvg-name="RTL Adria" tvg-logo="" group-title="Hrvatska",RTL Adria
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16628
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova HR HD (hevc)" tvg-logo="" group-title="Hrvatska",Nova HR HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1391
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova HR HD" tvg-logo="" group-title="Hrvatska",Nova HR HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1324
+#EXTINF:-1 tvg-id="290322216" tvg-name="Nova World" tvg-logo="" group-title="Hrvatska",Nova World
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15569
+#EXTINF:-1 tvg-id="29032212" tvg-name="Nova Family HR." tvg-logo="" group-title="Hrvatska",Nova Family HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23552
+#EXTINF:-1 tvg-id="29032219744" tvg-name="Klasik TV" tvg-logo="" group-title="Hrvatska",Klasik TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7158
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Hrv HD" tvg-logo="" group-title="Hrvatska",N1 Hrv HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1385
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Balkans HD HR." tvg-logo="" group-title="Hrvatska",Al Jazeera Balkans HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23600
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV HD (hevc)" tvg-logo="" group-title="Hrvatska",Doma TV HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2313
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV HD" tvg-logo="" group-title="Hrvatska",Doma TV HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1381
+#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV HD" tvg-logo="" group-title="Hrvatska",Osjecka TV HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1497
+#EXTINF:-1 tvg-id="2903226010" tvg-name="Plava Vinkovacka TV HD " tvg-logo="" group-title="Hrvatska",Plava Vinkovacka TV HD 
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1498
+#EXTINF:-1 tvg-id="posavinatv" tvg-name="Posavina TV" tvg-logo="" group-title="Hrvatska",Posavina TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1531
+#EXTINF:-1 tvg-id="TvNovaPula.hr" tvg-name="TV Nova Pula HD" tvg-logo="" group-title="Hrvatska",TV Nova Pula HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15584
+#EXTINF:-1 tvg-id="2001235819" tvg-name="RTV Banovina Glina" tvg-logo="" group-title="Hrvatska",RTV Banovina Glina
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/5862
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1 • Zagrebacka TV" tvg-logo="" group-title="Hrvatska",Z1 • Zagrebacka TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1525
+#EXTINF:-1 tvg-id="29032223473" tvg-name="Prva Hercegovacka" tvg-logo="" group-title="Hrvatska",Prva Hercegovacka
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1417
+#EXTINF:-1 tvg-id="RTV HB HD" tvg-name="RTV Herceg Bosne" tvg-logo="" group-title="Hrvatska",RTV Herceg Bosne
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7021
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LaudatoTV" tvg-logo="" group-title="Hrvatska",LaudatoTV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1409
+#EXTINF:-1 tvg-id="Maria Vision Međugorje" tvg-name=" Maria Vision Međugorje • TV Kraljice Mira" tvg-logo="" group-title="Hrvatska", Maria Vision Međugorje • TV Kraljice Mira
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/13943
+#EXTINF:-1 tvg-id="Maria Vision Međugorje_max" tvg-name="MaryTV Medjugorje LIVE" tvg-logo="" group-title="Hrvatska",MaryTV Medjugorje LIVE
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15576
+#EXTINF:-1 tvg-id="279a214d98f3a3ae2afab8a0b2faccf3" tvg-name="Jugoton TV" tvg-logo="" group-title="Hrvatska",Jugoton TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/5747
+#EXTINF:-1 tvg-id="18f3d6ff09c0998e7daf7a646e806a17" tvg-name="CMC TV HD • Croatian Music Channel" tvg-logo="" group-title="Hrvatska",CMC TV HD • Croatian Music Channel
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1331
+#EXTINF:-1 tvg-id="CMC HD" tvg-name="CMC TV HD (hevc)" tvg-logo="" group-title="Hrvatska",CMC TV HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15588
+#EXTINF:-1 tvg-id="SlavonskaTv.hr" tvg-name="Slavonska TV" tvg-logo="" group-title="Hrvatska",Slavonska TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/22278
+#EXTINF:-1 tvg-id="3410bc9bcabb60aa7f395bd6cb197673" tvg-name="Trend TV Karlovac" tvg-logo="" group-title="Hrvatska",Trend TV Karlovac
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/22279
 
-#EXTINF:-1 tvg-name="MAXSPORT 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/HNTV.jpg" group-title="Sport",MAXSPORT 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8623
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8592
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8593
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8594
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8595
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8596
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Sport 1 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 Premium
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8597
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Sport 2 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 Premium
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8598
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena Sport 3 Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 Premium
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8599
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8601
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8602
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8603
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8604
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8605
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/arena6_logo.png" group-title="Sport",Arena Sport 6 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8606
-#EXTINF:-1 tvg-id="dazn-1-de" tvg-name="Dazn 1 Bar" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/DAZN_1_DE_logo.png" group-title="Sport",Dazn 1 Bar
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8608
-#EXTINF:-1 tvg-id="dazn-2-de" tvg-name="Dazn 2 Bar" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/DAZN_2_DE_logo.png" group-title="Sport",Dazn 2 Bar
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8609
-#EXTINF:-1 tvg-id="bt-sport-1" tvg-name="BT Sport 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_GB_logo.png" group-title="Sport",BT Sport 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8610
-#EXTINF:-1 tvg-id="bt-sport-2" tvg-name="BT Sport 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_GB_logo.png" group-title="Sport",BT Sport 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8611
-#EXTINF:-1 tvg-id="bt-sport-europe" tvg-name="BT Sport 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_3_GB_logo.png" group-title="Sport",BT Sport 3
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8612
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8613
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8614
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport",Fox Sports 3
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8615
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="EuroSport 2 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",EuroSport 2 HD
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8617
-#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/NBA_TV.png" group-title="Sport",NBA TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8618
-#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Zvezda%20TV.png" group-title="Sport",Zvezda TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8619
-#EXTINF:-1 tvg-id="" tvg-name="Partizan TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Partizan%20TV.png" group-title="Sport",Partizan TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8620
-#EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fight-channel-logo.png" group-title="Sport",Fight Channel
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8621
-#EXTINF:-1 tvg-id="" tvg-name="UFC/FightBox" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Fight_Channel_World_logo.png" group-title="Sport",UFC/FightBox
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8622
-#EXTINF:-1 tvg-id="htv1" tvg-name="HNTV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/HNTV.jpg" group-title="Sport",HNTV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8623
-#EXTINF:-1 tvg-id="htv1" tvg-name="Kreator TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kreator%20TV.jpg" group-title="Sport",Kreator TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8624
-#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov i Ribolov" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Lov%20i%20ribolov.png" group-title="Sport",Lov i Ribolov
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8625
-#EXTINF:-1 tvg-id="" tvg-name="Sport Digital HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sport%20Digital.jpg" group-title="Sport",Sport Digital HD
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8626
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="Sport Klub 1 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",Sport Klub 1 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8627
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="Sport Klub 2 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",Sport Klub 2 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8628
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",Sport Klub 3 HR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8629
-#EXTINF:-1 tvg-id="sport-klub" tvg-name="Sport Klub 1 SR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",Sport Klub 1 SR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8630
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="Sport Klub 2 SR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",Sport Klub 2 SR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8631
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 SR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",Sport Klub 3 SR
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8632
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="Sport Klub 4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK4_HR_logo.png" group-title="Sport",Sport Klub 4
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8633
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="Sport Klub 5" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK5_HR_logo.png" group-title="Sport",Sport Klub 5
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8634
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="Sport Klub 6" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK6_HR_logo.png" group-title="Sport",Sport Klub 6
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8635
-#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="Sport Klub 7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK7_RS_logo.png" group-title="Sport",Sport Klub 7
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8636
-#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="Sport Klub 8" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK8_RS_logo.png" group-title="Sport",Sport Klub 8
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8637
-#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="Sport Klub 9" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK9_RS_logo.png" group-title="Sport",Sport Klub 9
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8638
-#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="Sport Klub 10" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK10_RS_logo.png" group-title="Sport",Sport Klub 10
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8639
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sport%20klub%20start.jpg" group-title="Sport",Sport Klub Start
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8640
-#EXTINF:-1 tvg-id="real-madrid-tv" tvg-name="Real Madrid TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Real%20Madrid.png" group-title="Sport",Real Madrid TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8641
-#EXTINF:-1 tvg-id="barca-tv" tvg-name="Barca TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Barca%20TV.jpg" group-title="Sport",Barca TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8642
-#EXTINF:-1 tvg-id="" tvg-name="Bayern TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/bayern%20tv.png" group-title="Sport",Bayern TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8643
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SPORT%201.png" group-title="Sport",Sport 1 HD
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8644
-#EXTINF:-1 tvg-id="" tvg-name="Sportska TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sportska%20TV.jpg" group-title="Sport",Sportska TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8645
-#EXTINF:-1 tvg-id="sos" tvg-name="SOS" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SOS_RS_logo.png" group-title="Sport",SOS
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8646
-#EXTINF:-1 tvg-id="supertennis-hd" tvg-name="Super Tennis" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERTENNIS.png" group-title="Sport",Super Tennis
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8647
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax.png" group-title="Film",Cinemax 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8649
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax-2.png" group-title="Film",Cinemax 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8650
-#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_action_logo.png" group-title="Film",Cinestar Action
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8651
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinestartv_fantasy_logo.png" group-title="Film",CineStar Fantasy
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8652
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Film",CineStar Premiere 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8653
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="Film",CineStar Premiere 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8654
-#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinestar_TV1_logo.png" group-title="Film",CineStar TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8655
-#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="Cinestar TV 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Film",Cinestar TV 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8656
-#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="Cinestar Comedy" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/cinestartv_comedy_logo.png" group-title="Film",Cinestar Comedy
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8657
-#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinemania-logo.png" group-title="Film",Cinemania
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8658
-#EXTINF:-1 tvg-id="film-klub" tvg-name="Film Klub" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/14.%20FILM%20KLUB.png" group-title="Film",Film Klub
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8659
-#EXTINF:-1 tvg-id="filmbox-hd" tvg-name="FilmBox Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/filmbox_extra_pl_hd.png" group-title="Film",FilmBox Extra
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8660
-#EXTINF:-1 tvg-id="fox" tvg-name="Fox" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-logo.png" group-title="Film",Fox
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8661
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox_crime_logo.png" group-title="Film",Fox Crime
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8662
-#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox_life_ru.png" group-title="Film",Fox Life
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8663
-#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-movies-logo.png" group-title="Film",Fox Movies
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8664
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO Adria
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8666
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO 2 HD
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8667
-#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO 3 HD
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8668
-#EXTINF:-1 tvg-id="" tvg-name="HBO GO" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/21.%20HBO.png" group-title="Film",HBO GO
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8669
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8670
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8671
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 4" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 4
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8672
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SuperStar" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERSTAR.png" group-title="Film",SuperStar
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8673
-#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/25.%20KINO%20TV.png" group-title="Film",Kino TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8674
-#EXTINF:-1 tvg-id="klasiktv" tvg-name="Klasik Tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/KlasikTV_logo.png" group-title="Film",Klasik Tv
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8675
-#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film" tvg-logo="http://ikonice.zvjerka.com/ikonice/Film%20UBACENO/27.%20M1%20FILM.png" group-title="Film",M1 Film
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8676
-#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickBox TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PICKBOX.png" group-title="Film",PickBox TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8677
-#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/scifi_adria_logo.jpg" group-title="Film",SciFi
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8678
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/amc_logo_2016.png" group-title="Film",AMC
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8679
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/axn-logo.png" group-title="Film",AXN
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8680
-#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/axn_spin_logo.png" group-title="Film",AXN Spin
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8681
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/vh1-classic-logo.png" group-title="Muzika",VH1 Classic TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8682
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/comedy-centra-extra-logo.png" group-title="Film",Comedy Central Extra
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8683
-#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/viasat-tv-1000.png" group-title="Film",TV 1000
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8684
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8685
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8686
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 3
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8687
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 4
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8688
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 5
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8689
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 6
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8690
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 8
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8692
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 9
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8693
-#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Gold" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Gold
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8697
-#EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/dm-sat-logo.png" group-title="Muzika",DM Sat
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8699
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Grand_TV_logo.png" group-title="Muzika",Grand 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8700
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand Narodna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Grand_TV_logo.png" group-title="Muzika",Grand Narodna TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8701
-#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/IzvornaTV_logo.png" group-title="Muzika",Izvorna TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8702
-#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/jugoton-tv-logo.png" group-title="Muzika",Jugoton TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8703
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kopernikus.jfif" group-title="Muzika",K::CN 1
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8704
-#EXTINF:-1 tvg-id="k-cn-music" tvg-name="K::CN 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kopernikus.jfif" group-title="Muzika",K::CN 2
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8705
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Kopernikus.jfif" group-title="Muzika",K::CN 3
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8706
-#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sevdahtv-250x187-logo.png" group-title="Muzika",Sevdah TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8707
-#EXTINF:-1 tvg-id="" tvg-name="Moj Kanal BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/MOJ%20KANAL%20OK.png" group-title="Muzika",Moj Kanal BiH
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8708
-#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-logo.png" group-title="Muzika",MTV Adria
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8709
-#EXTINF:-1 tvg-id="mtv-base" tvg-name="MTV Base" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-base-logo.png" group-title="Muzika",MTV Base
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8710
-#EXTINF:-1 tvg-id="" tvg-name="Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/NARODNA%20TV.jpg" group-title="Muzika",Narodna TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8711
-#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV Hits" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/MTV_Hits_FR_logo.png" group-title="Muzika",MTV Hits
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8712
-#EXTINF:-1 tvg-id="balkanika" tvg-name="Balkanika TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/balkanika-logo.png" group-title="Muzika",Balkanika TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8713
-#EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/planeta_tv.png" group-title="Muzika",Planeta TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8714
-#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/idj_tv_logo.png" group-title="Muzika",IDJ TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8715
-#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="Duga TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png" group-title="Muzika",Duga TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8716
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry 24 h" tvg-logo="http://ikonice.zvjerka.com/ikonice/Djeciji%20UBAČENO%20IMA%20VISKA/4.%20tom%20and%20jerry.png" group-title="Djeciji",Tom and Jerry 24 h
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8718
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/cartoon_network_logo.png" group-title="Djeciji",Cartoon Network
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8719
-#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/babatv-logo.png" group-title="Djeciji",Baby TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8720
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/boomerang_it_logo.png" group-title="Djeciji",Boomerang
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8721
-#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/disney_channel_2019.png" group-title="Djeciji",Disney channel
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8722
-#EXTINF:-1 tvg-id="" tvg-name="Mini Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mini_ultra_logo.png" group-title="Djeciji",Mini Ultra TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8723
-#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/minimax-logo.png" group-title="Djeciji",Minimax
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8724
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nick_jr_logo.png" group-title="Djeciji",Nick Jr.
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8725
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nickelodeon-logo.png" group-title="Djeciji",Nickelodeon
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8726
-#EXTINF:-1 tvg-id="" tvg-name="Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/ultra-tv-logo.png" group-title="Djeciji",Ultra TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8727
-#EXTINF:-1 tvg-id="" tvg-name="TNT Kids" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/tnt-kids_logo.png" group-title="Djeciji",TNT Kids
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8728
-#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pikaboo_logo.png" group-title="Djeciji",Pikaboo
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8729
-#EXTINF:-1 tvg-id="toggo-plus" tvg-name="Toggo Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/toggo-logoUntitled-1.png" group-title="Djeciji",Toggo Plus
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8730
-#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nedostaju/Masa%20i%20Medo.webp" group-title="Djeciji",Masa i Medo
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8732
-#EXTINF:-1 tvg-id="" tvg-name="Sundjer Bob" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nedostaju/Sundjer%20Bob.png" group-title="Djeciji",Sundjer Bob
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8733
-#EXTINF:-1 tvg-id="vavoom" tvg-name="Vavoom TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/vavoom.png" group-title="Djeciji",Vavoom TV
-http://bntvs.com:2052/mireltz/HsfY9gtnTn/8734
+#EXTINF:-1 tvg-id="maxsport1" tvg-name="MaxSport 1" tvg-logo="" group-title="SPORT",MaxSport 1 • Hr. Nogometna Televizija
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2334
+#EXTINF:-1 tvg-id="maxsport2" tvg-name="MaxSport 2" tvg-logo="" group-title="SPORT",MaxSport 2 
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/24161
+#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Moja TV • Arena BH" tvg-logo="" group-title="SPORT",Moja TV • Arena BH
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/13970
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="Arena sport 1 BiH HD - BH Premijer liga " tvg-logo="" group-title="SPORT",Arena sport 1 BiH HD - BH Premijer liga 
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1317
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena 1 PREMIUM HD SR." tvg-logo="" group-title="SPORT",Arena 1 PREMIUM HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21697
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena 2 PREMIUM HD SR." tvg-logo="" group-title="SPORT",Arena 2 PREMIUM HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21698
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena 3 PREMIUM HD SR." tvg-logo="" group-title="SPORT",Arena 3 PREMIUM HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21699
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1 HD Sr." tvg-logo="" group-title="SPORT",Arena Sport 1 HD Sr.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/14543
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1 HD SR." tvg-logo="" group-title="SPORT",Arena Sport 1 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1352
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2 HD SR." tvg-logo="" group-title="SPORT",Arena Sport 2 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1350
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3 HD SR." tvg-logo="" group-title="SPORT",Arena Sport 3 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1348
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 HD SR." tvg-logo="" group-title="SPORT",Arena Sport 4 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1346
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5 HD SR." tvg-logo="" group-title="SPORT",Arena Sport 5 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1344
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="Sport Klub HD SR." tvg-logo="" group-title="SPORT",Sport Klub HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/14370
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="Sport Klub 1 HD SR." tvg-logo="" group-title="SPORT",Sport Klub 1 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1358
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="Sport Klub 2 HD SR." tvg-logo="" group-title="SPORT",Sport Klub 2 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1360
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 HD SR." tvg-logo="" group-title="SPORT",Sport Klub 3 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1363
+#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1 HD SR." tvg-logo="" group-title="SPORT",Eurosport 1 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1370
+#EXTINF:-1 tvg-id="29032214794" tvg-name="Eurosport 2 HD SR." tvg-logo="" group-title="SPORT",Eurosport 2 HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1371
+#EXTINF:-1 tvg-id="nova-sport-rs" tvg-name="Nova Sport SR." tvg-logo="" group-title="SPORT",Nova Sport SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/3941
+#EXTINF:-1 tvg-id="4a47b6c179767dcf43d274fef96b156f" tvg-name="Sportska TV HD (hevc)" tvg-logo="" group-title="SPORT",Sportska TV HD (hevc)
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15590
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="Arena Sport 1 HD HR." tvg-logo="" group-title="SPORT",Arena Sport 1 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1351
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="Arena Sport 2 HD HR." tvg-logo="" group-title="SPORT",Arena Sport 2 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1349
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="Arena Sport 3 HD HR." tvg-logo="" group-title="SPORT",Arena Sport 3 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1347
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 HD HR." tvg-logo="" group-title="SPORT",Arena Sport 4 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1345
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HD HR." tvg-logo="" group-title="SPORT",Arena Sport 5 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1343
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HD HR." tvg-logo="" group-title="SPORT",Arena Sport 6 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16649
+#EXTINF:-1 tvg-id="12a47903f4cbf91fc2f48fa16a95d982" tvg-name="Arena Sport 7 HD HR" tvg-logo="" group-title="SPORT",Arena Sport 7 HD HR
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16583
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD HR" tvg-logo="" group-title="SPORT",Arena Sport 8 HD HR
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16582
+#EXTINF:-1 tvg-id="81b566d4fc74235d1e13fdc77344c2d2" tvg-name="Arena Sport 9 HD HR" tvg-logo="" group-title="SPORT",Arena Sport 9 HD HR
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/22128
+#EXTINF:-1 tvg-id="a50fd299df580257692a8d87e8a9c9bf" tvg-name="Arena Sport 10 HD HR" tvg-logo="" group-title="SPORT",Arena Sport 10 HD HR
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16580
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="Sport Klub 1 HD HR." tvg-logo="" group-title="SPORT",Sport Klub 1 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1359
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="Sport Klub 2 HD HR." tvg-logo="" group-title="SPORT",Sport Klub 2 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1361
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 HD HR." tvg-logo="" group-title="SPORT",Sport Klub 3 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1362
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="Sport Klub 4 HD HR." tvg-logo="" group-title="SPORT",Sport Klub 4 HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1364
+#EXTINF:-1 tvg-id="maxsport1" tvg-name="MaxSport 1" tvg-logo="" group-title="SPORT",MaxSport 1 • Hr. Nogometna Televizija
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2334
+#EXTINF:-1 tvg-id="maxsport2" tvg-name="MaxSport 2 " tvg-logo="" group-title="SPORT",MaxSport 2 
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/24161
+#EXTINF:-1 tvg-id="29032214763" tvg-name="AT: ORF Sport+ HD" tvg-logo="" group-title="SPORT",AT: ORF Sport+ HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7041
+#EXTINF:-1 tvg-id="2903227873" tvg-name="AT: Sky Sport Austria 1 HD" tvg-logo="" group-title="SPORT",AT: Sky Sport Austria 1 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1664
+#EXTINF:-1 tvg-id="29032235914" tvg-name="AT: Sky Sport Austria 2 HD" tvg-logo="" group-title="SPORT",AT: Sky Sport Austria 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21660
+#EXTINF:-1 tvg-id="29032235915" tvg-name="AT: Sky Sport Austria 3 HD" tvg-logo="" group-title="SPORT",AT: Sky Sport Austria 3 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21661
+#EXTINF:-1 tvg-id="29032235916" tvg-name="AT: Sky Sport Austria 4 HD" tvg-logo="" group-title="SPORT",AT: Sky Sport Austria 4 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21898
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="" group-title="SPORT",DE: DAZN 1 Bar HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1329
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="" group-title="SPORT",DE: DAZN 2 Bar HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1330
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="SPORT",DE: Eurosport 1 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1665
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="SPORT",DE: Eurosport 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1944
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="DE: Sky Sport F1 HD" tvg-logo="" group-title="SPORT",DE: Sky Sport F1 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16651
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="DE: Sport 1 HD" tvg-logo="https://business.sport1.de/fileadmin/relaunch2019.sport1media.de/pictures/13_Startseite/SPORT1_LOGO_exclusion_area.png" group-title="SPORT",DE: Sport 1 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/25305
+#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="DE: Sport 1+ HD" tvg-logo="" group-title="SPORT",DE: Sport 1+ HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/6444
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="DE: Sky Sport Top Event HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/512px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="SPORT",DE: Sky Sport Top Event HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1296
+#EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="DE: Sky Sport Mix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/512px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="SPORT",DE: Sky Sport Mix HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1297
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="De: Sky Sport 3 HD" tvg-logo="" group-title="SPORT",De: Sky Sport 3 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16989
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="De: Sky Sport 4 HD" tvg-logo="" group-title="SPORT",De: Sky Sport 4 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16990
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="DE: Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="SPORT",DE: Sky Sport News HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1634
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="DE: Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="SPORT",DE: Sky Sport Bundesliga 1 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1526
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE: Sky Sport Bundesliga 2 HD ( During Games only )" tvg-logo="" group-title="SPORT",DE: Sky Sport Bundesliga 2 HD ( During Games only )
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1527
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE: Sky Sport Bundesliga 3 HD ( During Games only )" tvg-logo="" group-title="SPORT",DE: Sky Sport Bundesliga 3 HD ( During Games only )
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1826
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE: Sky Sport Bundesliga 4 HD ( During Games only )" tvg-logo="" group-title="SPORT",DE: Sky Sport Bundesliga 4 HD ( During Games only )
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1827
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE: Sky Sport Bundesliga 5 HD ( During Games only )" tvg-logo="" group-title="SPORT",DE: Sky Sport Bundesliga 5 HD ( During Games only )
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1828
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE: Sky Sport Bundesliga 6 HD ( During Games only )" tvg-logo="" group-title="SPORT",DE: Sky Sport Bundesliga 6 HD ( During Games only )
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7042
+#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-name="DE: Sky Sport Premier League HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/512px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="SPORT",DE: Sky Sport Premier League HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/28315
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png" group-title="SPORT",DE: Sky Sport Tennis HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/28316
+#EXTINF:-1 tvg-id="fightchannel" tvg-name="SK Fight HRV" tvg-logo="" group-title="SPORT",SK Fight HRV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1535
+#EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight BOX HD" tvg-logo="" group-title="SPORT",Fight BOX HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21727
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="|FR| RMC SPORT 1" tvg-logo="" group-title="SPORT",|FR| RMC SPORT 1
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16679
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="|FR| RMC SPORT 2" tvg-logo="" group-title="SPORT",|FR| RMC SPORT 2
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16680
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="|FR| RMC SPORT 3" tvg-logo="" group-title="SPORT",|FR| RMC SPORT 3
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16681
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="|FR| RMC SPORT 4" tvg-logo="" group-title="SPORT",|FR| RMC SPORT 4
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16682
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="USA: NBA TV" tvg-logo="" group-title="SPORT",USA: NBA TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16133
 
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="" group-title="Dokumentar",HGTV HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/13956
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel HD" tvg-logo="" group-title="Dokumentar",History Channel HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1421
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History 2 HD" tvg-logo="" group-title="Dokumentar",History 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1437
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explorer HD" tvg-logo="" group-title="Dokumentar",Viasat Explorer HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16072
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History HD" tvg-logo="" group-title="Dokumentar",Viasat History HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1413
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature HD" tvg-logo="" group-title="Dokumentar",Viasat Nature HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1422
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="ID Xtra Europe HD" tvg-logo="" group-title="Dokumentar",ID Xtra Europe HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1415
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Investigation" tvg-logo="" group-title="Dokumentar",Crime & Investigation
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/6797
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery HD" tvg-logo="" group-title="Dokumentar",Discovery HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1414
+#EXTINF:-1 tvg-id="national-geographic-hd" tvg-name="National Geographic HD" tvg-logo="" group-title="Dokumentar",National Geographic HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1442
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox HD" tvg-logo="" group-title="Dokumentar",DocuBox HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23559
+#EXTINF:-1 tvg-id="planet-earth" tvg-name="Planet Earth HD" tvg-logo="" group-title="Dokumentar",Planet Earth HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23560
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC HD" tvg-logo="" group-title="Dokumentar",TLC HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1430
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen HD" tvg-logo="" group-title="Dokumentar",24 Kitchen HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1392
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Dokumentar",Nat Geo Wild HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1429
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet HD" tvg-logo="" group-title="Dokumentar",Animal Planet HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1416
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="" group-title="Dokumentar",Travel Channel HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1372
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning TV" tvg-logo="" group-title="Dokumentar",Da Vinci Learning TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1418
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment" tvg-logo="" group-title="Dokumentar",E! Entertainment
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2343
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="" group-title="Dokumentar",Discovery Science HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16521
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr. SR." tvg-logo="" group-title="Kids",Nick Jr. SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1445
+#EXTINF:-1 tvg-id="Pink Kids" tvg-name="Pink Kids" tvg-logo="" group-title="Kids",Pink Kids
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1485
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="" group-title="Kids",Pink Super Kids
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1457
+#EXTINF:-1 tvg-id="Pikaboo HD" tvg-name="Pikaboo SR." tvg-logo="" group-title="Kids",Pikaboo SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1493
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax SR." tvg-logo="" group-title="Kids",Minimax SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1492
+#EXTINF:-1 tvg-id="" tvg-name="Pepa prase 24/7 HR." tvg-logo="" group-title="Kids",Pepa prase 24/7 HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/6760
+#EXTINF:-1 tvg-id="29032211303" tvg-name="Maša i Medvjed HR." tvg-logo="" group-title="Kids",Maša i Medvjed HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1822
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica HR." tvg-logo="" group-title="Kids",RTL Kockica HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1483
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon HR." tvg-logo="" group-title="Kids",Nickelodeon HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1487
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NickJr Cro HR." tvg-logo="" group-title="Kids",NickJr Cro HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/2135
+#EXTINF:-1 tvg-id="" tvg-name="Spuzva Bob 24/7 HR." tvg-logo="" group-title="Kids",Spuzva Bob 24/7 HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7118
+#EXTINF:-1 tvg-id="minitv" tvg-name="Mini TV HR." tvg-logo="" group-title="Kids",Mini TV HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16658
+#EXTINF:-1 tvg-id="" tvg-name="Štrumpfovi 24/7 HR." tvg-logo="" group-title="Kids",Štrumpfovi 24/7 HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16660
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci HD" tvg-logo="" group-title="Kids",Hayatovci HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1488
+#EXTINF:-1 tvg-id="2903227873" tvg-name="Tom & Jerry TV 24h" tvg-logo="" group-title="Kids",Tom & Jerry TV 24h
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1820
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="EN: Cartoon Network" tvg-logo="" group-title="Kids",EN: Cartoon Network
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7096
+#EXTINF:-1 tvg-id="babytv" tvg-name="EN: Baby tv" tvg-logo="" group-title="Kids",EN: Baby tv
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1432
+#EXTINF:-1 tvg-id="boomerang" tvg-name="EN: Boomerang" tvg-logo="" group-title="Kids",EN: Boomerang
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1821
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="DE: Boomerang HD" tvg-logo="" group-title="Kids",DE: Boomerang HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/6041
+#EXTINF:-1 tvg-id="6275f3b4136f61dce0479ea30737d4db" tvg-name="nickToons HD HRV/DE" tvg-logo="" group-title="Kids",nickToons HD HRV/DE
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1823
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="DE: Cartoon Network" tvg-logo="" group-title="Kids",DE: Cartoon Network
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/6435
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="Kids",DE: Disney Channel HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/5813
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="DE: Kika HD" tvg-logo="" group-title="Kids",DE: Kika HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1656
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="DE: Toggo Plus" tvg-logo="" group-title="Kids",DE: Toggo Plus
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16578
+#EXTINF:-1 tvg-id="" tvg-name="DE: Die Biene Maja" tvg-logo="" group-title="Kids",DE: Die Biene Maja
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23549
+#EXTINF:-1 tvg-id="Junior" tvg-name="DE: Feuerwehrmann Sam" tvg-logo="" group-title="Kids",DE: Feuerwehrmann Sam
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23656
+#EXTINF:-1 tvg-id="NickJr.de" tvg-name="DE: Nick Jr." tvg-logo="" group-title="Kids",DE: Nick Jr.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23657
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN Music" tvg-logo="" group-title="Music",BN Music
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1447
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand" tvg-logo="" group-title="Music",Grand
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1520
+#EXTINF:-1 tvg-id="Grand narodna televizija 2" tvg-name="Grand 2" tvg-logo="" group-title="Music",Grand 2
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1521
+#EXTINF:-1 tvg-id="621f3113f386557db54cf537ea798ec1" tvg-name="Dm Sat" tvg-logo="" group-title="Music",Dm Sat
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1438
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="" group-title="Music",Pink Folk 1
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1435
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="" group-title="Music",Pink Folk 2
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1436
+#EXTINF:-1 tvg-id="pink-music" tvg-name="Pink Music" tvg-logo="" group-title="Music",Pink Music
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1459
+#EXTINF:-1 tvg-id="2001234867" tvg-name="Pink Music 2" tvg-logo="" group-title="Music",Pink Music 2
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1458
+#EXTINF:-1 tvg-id="Pink n roll" tvg-name="Pink&Roll" tvg-logo="" group-title="Music",Pink&Roll
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23568
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="Pink Hits 1" tvg-logo="" group-title="Music",Pink Hits 1
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23566
+#EXTINF:-1 tvg-id="pink-hits-2" tvg-name="Pink Hits 2" tvg-logo="" group-title="Music",Pink Hits 2
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23567
+#EXTINF:-1 tvg-id="City Play" tvg-name="City Play" tvg-logo="" group-title="Music",City Play
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23564
+#EXTINF:-1 tvg-id="Bravo Music" tvg-name="Bravo Music" tvg-logo="" group-title="Music",Bravo Music
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23565
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="Hayat Folk" tvg-logo="" group-title="Music",Hayat Folk
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1522
+#EXTINF:-1 tvg-id="hayat-music" tvg-name="Hayat Music" tvg-logo="" group-title="Music",Hayat Music
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1523
+#EXTINF:-1 tvg-id="20012310806" tvg-name="YU PLANET" tvg-logo="" group-title="Music",YU PLANET
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21888
+#EXTINF:-1 tvg-id="29032223475" tvg-name="TV Sezam/Prva Hercegovacka" tvg-logo="" group-title="Music",TV Sezam/Prva Hercegovacka
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/14068
+#EXTINF:-1 tvg-id="20012327337" tvg-name="Valentino Music HD" tvg-logo="" group-title="Music",Valentino Music HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1620
+#EXTINF:-1 tvg-id="20012327337" tvg-name="Valentino Etno" tvg-logo="" group-title="Music",Valentino Etno
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7036
+#EXTINF:-1 tvg-id="20012329981" tvg-name="PTV-Production Vienna" tvg-logo="" group-title="Music",PTV-Production Vienna
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1398
+#EXTINF:-1 tvg-id="20012314108" tvg-name="Duga Plus" tvg-logo="" group-title="Music",Duga Plus
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/6325
+#EXTINF:-1 tvg-id="balkanika" tvg-name="Balkanika Music TV" tvg-logo="" group-title="Music",Balkanika Music TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1443
+#EXTINF:-1 tvg-id="2903227873" tvg-name="MTV" tvg-logo="" group-title="Music",MTV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21994
+#EXTINF:-1 tvg-id="ec0024cc76593d5df99ccb95642f4e9e" tvg-name="MTV 00s" tvg-logo="" group-title="Music",MTV 00s
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1562
+#EXTINF:-1 tvg-id="2001235966" tvg-name="192 TV" tvg-logo="" group-title="Music",192 TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/6467
+#EXTINF:-1 tvg-id="" tvg-name="m2o TV" tvg-logo="" group-title="Music",m2o TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/22154
+#EXTINF:-1 tvg-id="2001235899" tvg-name="One By 2 HD" tvg-logo="" group-title="Music",One By 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/22260
+#EXTINF:-1 tvg-id="Balkan Retro Hits (SN)" tvg-name="Retro Music TV" tvg-logo="" group-title="Music",Retro Music TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/22261
+#EXTINF:-1 tvg-id="29032223497" tvg-name="UpperA Balkan TV" tvg-logo="" group-title="Music",UpperA Balkan TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/22273
+#EXTINF:-1 tvg-id="Toxic TV" tvg-name="xToxic TV" tvg-logo="" group-title="Music",xToxic TV
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/23377
 
-
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1 HD " tvg-logo="" group-title="Filmski",Cinemax 1 HD 
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1824
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2 HD" tvg-logo="" group-title="Filmski",Cinemax 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1825
+#EXTINF:-1 tvg-id="" tvg-name="CineStar Comedy" tvg-logo="" group-title="Filmski",CineStar Comedy
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15669
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="CineStar TV 2 HD" tvg-logo="" group-title="Filmski",CineStar TV 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7157
+#EXTINF:-1 tvg-id="CineStar TV Action HD (RS)" tvg-name="CineStar A&T SRB" tvg-logo="" group-title="Filmski",CineStar A&T SRB
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1355
+#EXTINF:-1 tvg-id="CineStar TV 1 HD (SR)" tvg-name="CineStar TV 1 SRB" tvg-logo="" group-title="Filmski",CineStar TV 1 SRB
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21890
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="Cinestar Fantasy " tvg-logo="" group-title="Filmski",Cinestar Fantasy 
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1354
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="Cinestar Premiere 1 HD" tvg-logo="" group-title="Filmski",Cinestar Premiere 1 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1503
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="Cinestar Premiere 2 HD" tvg-logo="" group-title="Filmski",Cinestar Premiere 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1504
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva SR." tvg-logo="" group-title="Filmski",Diva SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/21889
+#EXTINF:-1 tvg-id="fox" tvg-name="Fox HD SR." tvg-logo="" group-title="Filmski",Fox HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1393
+#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life HD SR." tvg-logo="" group-title="Filmski",Fox Life HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1395
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime HD SR." tvg-logo="" group-title="Filmski",Fox Crime HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15670
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies HD SR." tvg-logo="" group-title="Filmski",Fox Movies HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15671
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film HR." tvg-logo="" group-title="Filmski",M1 Film HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15667
+#EXTINF:-1 tvg-id="" tvg-name="M1 Gold HR." tvg-logo="" group-title="Filmski",M1 Gold HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16624
+#EXTINF:-1 tvg-id="FilmBox Stars" tvg-name="FilmBox Stars SR." tvg-logo="" group-title="Filmski",FilmBox Stars SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16626
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-name="Cinemania HD SR." tvg-logo="" group-title="Filmski",Cinemania HD SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/16627
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama HD HR." tvg-logo="" group-title="Filmski",Epic Drama HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15665
+#EXTINF:-1 tvg-id="" tvg-name="Pickbox TV HR." tvg-logo="" group-title="Filmski",Pickbox TV HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15666
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva HRV Sub" tvg-logo="" group-title="Filmski",Diva HRV Sub
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15668
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO HD" tvg-logo="" group-title="Filmski",HBO HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1399
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="" group-title="Filmski",HBO 2 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1400
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="" group-title="Filmski",HBO 3 HD
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1401
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN SR." tvg-logo="" group-title="Filmski",AXN SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1439
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000 Balkan SR." tvg-logo="" group-title="Filmski",TV 1000 Balkan SR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1462
+#EXTINF:-1 tvg-id="29032213764" tvg-name="Kino TV HD HR." tvg-logo="" group-title="Filmski",Kino TV HD HR.
+http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/7161
 
 
 # martino
@@ -544,29 +659,6 @@ http://live.baltazar.pro:80/movie/antewhats/yEGzIimRuk/117552.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Deathly Hallows: Part 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="HARRY POTTER",8.Harry Potter and the Deathly Hallows: Part 2 (2011)
 http://live.baltazar.pro:80/movie/antewhats/yEGzIimRuk/117553.mp4
 
-
-
-#24/7
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MASA I MEDO" tvg-logo="http://live.nettv.pro/icons/DJECIJI/masaimedo.jpg" group-title="DJECIJI 24/7",24/7 MASA I MEDO
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3941
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TOM & JERRY" tvg-logo="http://live.nettv.pro/icons/DJECIJI/tomandjerry.jpg" group-title="DJECIJI 24/7",24/7 TOM & JERRY
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/3942
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STRUMPFOVI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/strumpfovi.jpg" group-title="DJECIJI 24/7",24/7 STRUMPFOVI
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/38553
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 MR BEAN
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56425
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB GRADITELJ" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 BOB GRADITELJ
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56426
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KUHARICA KIFLICA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 KUHARICA KIFLICA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56427
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PROFESOR BALTAZAR" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 PROFESOR BALTAZAR
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56429
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TIMON I PUMBA" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7 TIMON I PUMBA
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56432
-#EXTINF:-1 tvg-id="" tvg-name="24/7  ALVINNN!!! I NEMIRNE VJEVERICE" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7  ALVINNN!!! I NEMIRNE VJEVERICE
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56433
-#EXTINF:-1 tvg-id="" tvg-name="24/7  MOJ MALI PONI" tvg-logo="http://live.nettv.pro/icons/DJECIJI/24h-1.png" group-title="DJECIJI 24/7",24/7  MOJ MALI PONI
-http://my.nettv.pro:80/ivana.dzomba.mensur/8RrsYJKyO3/56435
 
 #maxsport1
 
