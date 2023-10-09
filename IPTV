@@ -66,6 +66,8 @@ http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/15584
 http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/5862
 #EXTINF:-1 tvg-id="z1" tvg-name="Z1 • Zagrebacka TV" tvg-logo="" group-title="Hrvatska",Z1 • Zagrebacka TV
 http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1525
+#EXTINF:-1 tvg-id="6873" tvg-name="Jabuka TV (Test)" tvg-logo="https://www.jabuka.tv/wp-content/uploads/2015/01/logo_jabuka_web1.png" group-title="Hrvatska",Jabuka TV (Test)
+http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6873
 #EXTINF:-1 tvg-id="29032223473" tvg-name="Prva Hercegovacka" tvg-logo="" group-title="Hrvatska",Prva Hercegovacka
 http://datacentar.org:80/u7TdNPU3u3ft/svBpadqmqdqF/1417
 #EXTINF:-1 tvg-id="RTV HB HD" tvg-name="RTV Herceg Bosne" tvg-logo="" group-title="Hrvatska",RTV Herceg Bosne
