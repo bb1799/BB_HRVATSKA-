@@ -1,729 +1,1294 @@
 #EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
 
-#EXTINF:-1 tvg-id="1261" tvg-name="HRT 1" tvg-logo="https://aviion-frontcdn.aviion.tv/18988b7176f2420d9584da7f2b1e2da4.png" group-title="Hrvatska",HRT 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1261
-#EXTINF:-1 tvg-id="4578" tvg-name="HRT 1 Backup" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/htv1-logo.png" group-title="Hrvatska",HRT 1 Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4578
-#EXTINF:-1 tvg-id="1260" tvg-name="HRT 2" tvg-logo="https://aviion-frontcdn.aviion.tv/e76a1ffc86e54cb6adc0d9b19c490712.png" group-title="Hrvatska",HRT 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1260
-#EXTINF:-1 tvg-id="4579" tvg-name="HRT 2 Backup" tvg-logo="https://aviion-frontcdn.aviion.tv/e76a1ffc86e54cb6adc0d9b19c490712.png" group-title="Hrvatska",HRT 2 Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4579
-#EXTINF:-1 tvg-id="1259" tvg-name="HRT 3" tvg-logo="https://aviion-frontcdn.aviion.tv/e62ea560badf4409bdba35cceb40e3b8.png" group-title="Hrvatska",HRT 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1259
-#EXTINF:-1 tvg-id="5724" tvg-name="HRT 3 Backup" tvg-logo="https://tvprofil.com/img/kanali-logo/HRT3_logo.png" group-title="Hrvatska",HRT 3 Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/5724
-#EXTINF:-1 tvg-id="1258" tvg-name="HRT 4" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/HRT4-logo.png" group-title="Hrvatska",HRT 4
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1258
-#EXTINF:-1 tvg-id="5725" tvg-name="HRT 4 Backup" tvg-logo="http://epg.netsolutionpro.com/logo-tv/103.hr.png" group-title="Hrvatska",HRT 4 Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/5725
-#EXTINF:-1 tvg-id="1257" tvg-name="HRT Int." tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/HRTint_logo.png" group-title="Hrvatska",HRT Int.
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1257
-#EXTINF:-1 tvg-id="1256" tvg-name="Nova Tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="Hrvatska",Nova Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1256
-#EXTINF:-1 tvg-id="1255" tvg-name="Doma Tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1255
-#EXTINF:-1 tvg-id="1252" tvg-name="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/4/img/kanali-logo/RTL2-logo.png" group-title="Hrvatska",RTL 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1252
-#EXTINF:-1 tvg-id="1251" tvg-name="RTL Crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1251
-#EXTINF:-1 tvg-id="1250" tvg-name="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska",RTL Living
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1250
-#EXTINF:-1 tvg-id="1245" tvg-name="RTL Passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL Passion
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1249
-#EXTINF:-1 tvg-id="1245" tvg-name="Z1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/z1-logo.png" group-title="Hrvatska",Z1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1245
-#EXTINF:-1 tvg-id="1248" tvg-name="Osjecka TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/ostv-logo.png" group-title="Hrvatska",Osjecka TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1248
-#EXTINF:-1 tvg-id="1247" tvg-name="Slavonska TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/118.hr.png" group-title="Hrvatska",Slavonska TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1247
-#EXTINF:-1 tvg-id="1246" tvg-name="Vinkovacka TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="Hrvatska",Vinkovacka TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1246
-#EXTINF:-1 tvg-id="1244" tvg-name="Banovina TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTB_TV_HR_logo.png" group-title="Hrvatska",Banovina TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1244
-#EXTINF:-1 tvg-id="1339" tvg-name="BHT 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BHT1_logo.png" group-title="BiH",BHT 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1339
-#EXTINF:-1 tvg-id="1338" tvg-name="Federalna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/FTV_BA_logo.png" group-title="BiH",Federalna TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1338
-#EXTINF:-1 tvg-id="1244" tvg-name="TV Sarajevo" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/tvsa-logo.png" group-title="BiH",TV Sarajevo
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1337
-#EXTINF:-1 tvg-id="1336" tvg-name="Al Jazeera Balkans" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/aljazeera_balkans-logo.png" group-title="BiH",Al Jazeera Balkans
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1336
-#EXTINF:-1 tvg-id="1335" tvg-name="ATV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/ATV_BA_logo.png" group-title="BiH",ATV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1335
-#EXTINF:-1 tvg-id="1334" tvg-name="Face TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/face-tv-logo.png" group-title="BiH",Face TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1334
-#EXTINF:-1 tvg-id="1333" tvg-name="TK Tuzla" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTV_TK_Logo.jpg" group-title="BiH",TK Tuzla
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1333
-#EXTINF:-1 tvg-id="1332" tvg-name="Hayat TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayat-hd_logo.png" group-title="BiH",Hayat TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1332
-#EXTINF:-1 tvg-id="1332" tvg-name="Hayat Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayatplus_logo.png" group-title="BiH",Hayat Plus
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1331
-#EXTINF:-1 tvg-id="1330" tvg-name="N1 BH" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/n1-logo.png" group-title="BiH",N1 BH
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1330
-#EXTINF:-1 tvg-id="1329" tvg-name="OBN" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/OBN-logo.png" group-title="BiH",OBN
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1329
-#EXTINF:-1 tvg-id="1328" tvg-name="Valentino TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/otv-valentino-logo.png" group-title="BiH",Valentino TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1328
-#EXTINF:-1 tvg-id="1327" tvg-name="MTV Igman" tvg-logo="http://epg.netsolutionpro.com/logo-tv/121.ba.png" group-title="BiH",MTV Igman
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1327
-#EXTINF:-1 tvg-id="1326" tvg-name="BN" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/4/img/kanali-logo/bn_televizija_zemaljski.jpg" group-title="BiH",BN
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1326
-#EXTINF:-1 tvg-id="1244" tvg-name="RTV Zenica" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTV_ZE_BA_logo.png" group-title="BiH",RTV Zenica
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1325
-#EXTINF:-1 tvg-id="1324" tvg-name="Posavina Tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/PosavinaTV_BA_logo.png" group-title="BiH",Posavina Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1324
-#EXTINF:-1 tvg-id="1323" tvg-name="Duga Tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/tv_duga_plus.png" group-title="BiH",Duga Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1323
-#EXTINF:-1 tvg-id="1322" tvg-name="O kanal" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/o_kanal_widelogo.png" group-title="BiH",O kanal
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1322
-#EXTINF:-1 tvg-id="1320" tvg-name="RTV USK" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/rtv-usk-logo.png" group-title="BiH",RTV USK
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1320
-#EXTINF:-1 tvg-id="1318" tvg-name="Alfa TV Sarajevo" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/alfatvlogo.png" group-title="BiH",Alfa TV Sarajevo
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1318
-#EXTINF:-1 tvg-id="1316" tvg-name="Glas Drine" tvg-logo="https://rtvglasdrine.com/wp-content/uploads/2021/03/rgdlogo.png" group-title="BiH",Glas Drine
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1316
-#EXTINF:-1 tvg-id="1317" tvg-name="RTRS" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/rtrs-logo.png" group-title="BiH",RTRS
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1317
-#EXTINF:-1 tvg-id="1312" tvg-name="Nova S" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Nova_S_RS_logo.png" group-title="Srbija",Nova S
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1312
-#EXTINF:-1 tvg-id="1245" tvg-name="Televizija 5" tvg-logo="https://tvprofil.com/img/kanali-logo/favicon-www.televizija5.ba.png" group-title="BiH",Televizija 5
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/3244
-#EXTINF:-1 tvg-id="1310" tvg-name="RTS 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1310
-#EXTINF:-1 tvg-id="1309" tvg-name="RTS 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS2_logo.png" group-title="Srbija",RTS 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1309
-#EXTINF:-1 tvg-id="1308" tvg-name="RTS 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_3_logo.png" group-title="Srbija",RTS 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1308
-#EXTINF:-1 tvg-id="1307" tvg-name="RTV Vojvodina1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/rtv-vojvodina.jpg" group-title="Srbija",RTV Vojvodina1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1307
-#EXTINF:-1 tvg-id="1306" tvg-name="B92" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/b92_logo_2020.png" group-title="Srbija",B92
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1306
-#EXTINF:-1 tvg-id="1305" tvg-name="Studio B" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/studiob-logo.png" group-title="Srbija",Studio B
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1305
-#EXTINF:-1 tvg-id="1303" tvg-name="Prva" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva-srpska-logo.png" group-title="Srbija",Prva
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1303
-#EXTINF:-1 tvg-id="1244" tvg-name="Prva Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Prva_Plus_Logo.png" group-title="Srbija",Prva Plus
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1302
-#EXTINF:-1 tvg-id="1301" tvg-name="Prva World" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva_world_logo.png" group-title="Srbija",Prva World
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1301
-#EXTINF:-1 tvg-id="1300" tvg-name="Prva Max" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva-max_logo.jpg" group-title="Srbija",Prva Max
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1300
-#EXTINF:-1 tvg-id="1299" tvg-name="Happy TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Happy_new_logo.png" group-title="Srbija",Happy TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1299
-#EXTINF:-1 tvg-id="1298" tvg-name="Happy Parovi uzivo 24h" tvg-logo="http://epg.netsolutionpro.com/logo-tv/147.sr.png" group-title="Srbija",Happy Parovi uzivo 24h
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1298
-#EXTINF:-1 tvg-id="1297" tvg-name="RTV Novi Pazar" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/rtv-novi-pazar-logo.png" group-title="Srbija",RTV Novi Pazar
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1297
-#EXTINF:-1 tvg-id="1244" tvg-name="RTCG Sat" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/TVCG_MNE_ME_logo.png" group-title="Crna Gora",RTCG Sat
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1296
-#EXTINF:-1 tvg-id="1292" tvg-name="KCN 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/kcn1-logo.png" group-title="Srbija",KCN 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1292
-#EXTINF:-1 tvg-id="1291" tvg-name="KCN 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/k_cn2_rs.png" group-title="Srbija",KCN 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1291
-#EXTINF:-1 tvg-id="1290" tvg-name="KCN 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/svetplus_logo.png" group-title="Srbija",KCN 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1290
-#EXTINF:-1 tvg-id="1244" tvg-name="TV Vijesti" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/TV_Vijesti_CG_logo.png" group-title="Crna Gora",TV Vijesti
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1288
-#EXTINF:-1 tvg-id="2456" tvg-name="Sandzak TV" tvg-logo="https://zona.ba/wp-content/uploads/sandzak-2.jpg" group-title="Srbija",Sandzak TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/2456
-#EXTINF:-1 tvg-id="1286" tvg-name="MRT 1" tvg-logo="http://caffe.link:25461/images/392cf321385870748982c92ffc4ed595.png" group-title="Makedonija",MRT 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1286
-#EXTINF:-1 tvg-id="1285" tvg-name="MRT 2" tvg-logo="http://caffe.link:25461/images/c43a43f9229f0f5dea0c36a1b35a98b4.png" group-title="Makedonija",MRT 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1285
-#EXTINF:-1 tvg-id="1284" tvg-name="MRT 3" tvg-logo="http://caffe.link:25461/images/ea97dbb971a2e1f7d2de3c18cc14160b.png" group-title="Makedonija",MRT 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1284
-#EXTINF:-1 tvg-id="1244" tvg-name="Kanal 5" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/kanal5-logo.png" group-title="Makedonija",Kanal 5
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1283
-#EXTINF:-1 tvg-id="1282" tvg-name="Sitel" tvg-logo="http://caffe.link:25461/images/241979fa5673bbc117fd4cb00ad5f4e2.png" group-title="Makedonija",Sitel
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1282
-#EXTINF:-1 tvg-id="1280" tvg-name="Telma" tvg-logo="http://caffe.link:25461/images/95b694c912a3f454a014ce2961282219.png" group-title="Makedonija",Telma
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1280
-#EXTINF:-1 tvg-id="1244" tvg-name="Alsat M" tvg-logo="http://caffe.link:25461/images/e89b66f4b863721eeb9430f392df865e.png" group-title="Makedonija",Alsat M
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1279
-#EXTINF:-1 tvg-id="1278" tvg-name="Alfa TV MK" tvg-logo="http://caffe.link:25461/images/ba2f48c5d52fa3e568cb890825d4b2e1.png" group-title="Makedonija",Alfa TV MK
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1278
-#EXTINF:-1 tvg-id="1277" tvg-name="24 Vesti" tvg-logo="http://caffe.link:25461/images/cc9ea3e3d01cef846498202016a6acc3.jpg" group-title="Makedonija",24 Vesti
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1277
-#EXTINF:-1 tvg-id="1276" tvg-name="Sutel TV" tvg-logo="https://www.jagledam.com/logo/shutel.jpg" group-title="Makedonija",Sutel TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1276
-#EXTINF:-1 tvg-id="1272" tvg-name="SLO 1" tvg-logo="https://tvprofil.com/img/kanali-logo/rtv-slo1-logo.png" group-title="Slovenija",SLO 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1272
-#EXTINF:-1 tvg-id="1271" tvg-name="SLO 2" tvg-logo="https://tvprofil.com/img/kanali-logo/rtv-slo2-logo.png" group-title="Slovenija",SLO 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1271
-#EXTINF:-1 tvg-id="1270" tvg-name="POP TV" tvg-logo="https://tvprofil.com/img/kanali-logo/pop-tv-logo.png" group-title="Slovenija",POP TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1270
-#EXTINF:-1 tvg-id="1269" tvg-name="POP Kino" tvg-logo="https://tvprofil.com/img/kanali-logo/LOGO-KINO_logo2.png" group-title="Slovenija",POP Kino
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1269
-#EXTINF:-1 tvg-id="1363" tvg-name="Pink" tvg-logo="http://caffe.link:25461/images/0a9aadded0962cb60be24c0d51a3d185.png" group-title="Pink",Pink
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1363
-#EXTINF:-1 tvg-id="1362" tvg-name="Nova BH" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Nova_BH_BA_logo.png" group-title="BiH",Nova BH
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1362
-#EXTINF:-1 tvg-id="4595" tvg-name="Pink Backup" tvg-logo="http://caffe.link:25461/images/0a9aadded0962cb60be24c0d51a3d185.png" group-title="Pink",Pink Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4595
-#EXTINF:-1 tvg-id="1361" tvg-name="Pink Plus" tvg-logo="http://caffe.link:25461/images/61cce84159c07a5f912f297d40a1c54c.png" group-title="Pink",Pink Plus
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1361
-#EXTINF:-1 tvg-id="1360" tvg-name="RED TV" tvg-logo="http://caffe.link:25461/images/5450e45f3856347f4ac747bd8758d883.png" group-title="Pink",RED TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1360
-#EXTINF:-1 tvg-id="1244" tvg-name="Vesti" tvg-logo="http://caffe.link:25461/images/07aeac46a23c0795372c75533f5acf97.png" group-title="Pink",Vesti
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1359
-#EXTINF:-1 tvg-id="1244" tvg-name="Nova M CG" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Nova_M_ME_logo.png" group-title="Crna Gora",Nova M CG
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1358
-#EXTINF:-1 tvg-id="1356" tvg-name="Pink Action" tvg-logo="http://caffe.link:25461/images/a2e8099158c4f228d22e7ce8e646279c.png" group-title="Pink",Pink Action
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1356
-#EXTINF:-1 tvg-id="1344" tvg-name="Pink Classic" tvg-logo="http://caffe.link:25461/images/c34be68853b91db3980d8b03a9552343.png" group-title="Pink",Pink Classic
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1344
-#EXTINF:-1 tvg-id="1353" tvg-name="Pink Comedy" tvg-logo="http://caffe.link:25461/images/9457bd2bc46a282d0abf809b9c7b2b63.png" group-title="Pink",Pink Comedy
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1353
-#EXTINF:-1 tvg-id="3654" tvg-name="Pink HAHA" tvg-logo="http://epg.netsolutionpro.com/logo-tv/177.sr.png" group-title="Pink",Pink HAHA
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/3654
-#EXTINF:-1 tvg-id="3652" tvg-name="Pink Extra" tvg-logo="http://epg.netsolutionpro.com/logo-tv/154.sr.png" group-title="Pink",Pink Extra
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/3652
-#EXTINF:-1 tvg-id="3653" tvg-name="Pink LOL" tvg-logo="http://epg.netsolutionpro.com/logo-tv/176.sr.png" group-title="Pink",Pink LOL
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/3653
-#EXTINF:-1 tvg-id="1350" tvg-name="Pink Crime & Mystery" tvg-logo="http://epg.netsolutionpro.com/logo-tv/162.sr.png" group-title="Pink",Pink Crime & Mystery
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1350
-#EXTINF:-1 tvg-id="1355" tvg-name="Pink Film" tvg-logo="http://caffe.link:25461/images/99a034810f2d32e886e4c53daad1d105.png" group-title="Pink",Pink Film
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1355
-#EXTINF:-1 tvg-id="1352" tvg-name="Pink Horror" tvg-logo="http://epg.netsolutionpro.com/logo-tv/164.sr.png" group-title="Pink",Pink Horror
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1352
-#EXTINF:-1 tvg-id="1340" tvg-name="Pink Kuvar" tvg-logo="http://caffe.link:25461/images/5141c5a257b70ca33b66da1be661afa6.png" group-title="Doku & Style",Pink Kuvar
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1340
-#EXTINF:-1 tvg-id="1351" tvg-name="Pink Movies" tvg-logo="http://caffe.link:25461/images/f0904492cd7073ce6a11fe48ded223fd.png" group-title="Pink",Pink Movies
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1351
-#EXTINF:-1 tvg-id="1354" tvg-name="Pink Premium" tvg-logo="http://caffe.link:25461/images/f111f98dbb5637ff42c7b539da828d3e.png" group-title="Pink",Pink Premium
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1354
-#EXTINF:-1 tvg-id="1341" tvg-name="Pink Reality" tvg-logo="http://epg.netsolutionpro.com/logo-tv/173.sr.png" group-title="Pink",Pink Reality
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1341
-#EXTINF:-1 tvg-id="1342" tvg-name="Pink Romance" tvg-logo="http://epg.netsolutionpro.com/logo-tv/167.sr.png" group-title="Pink",Pink Romance
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1342
-#EXTINF:-1 tvg-id="1347" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="http://epg.netsolutionpro.com/logo-tv/163.sr.png" group-title="Pink",Pink Sci Fi & Fantasy
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1347
-#EXTINF:-1 tvg-id="1345" tvg-name="Pink Serije" tvg-logo="http://caffe.link:25461/images/e56e1829dc28582e1aa796adb06b99f6.png" group-title="Pink",Pink Serije
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1345
-#EXTINF:-1 tvg-id="1357" tvg-name="Pink Soap" tvg-logo="http://epg.netsolutionpro.com/logo-tv/172.sr.png" group-title="Pink",Pink Soap
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1357
-#EXTINF:-1 tvg-id="1346" tvg-name="Pink Thriller" tvg-logo="http://epg.netsolutionpro.com/logo-tv/161.sr.png" group-title="Pink",Pink Thriller
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1346
-#EXTINF:-1 tvg-id="1348" tvg-name="Pink Western" tvg-logo="http://caffe.link:25461/images/64ff1b346ebbdf9511a2dbc31f64bf0a.png" group-title="Pink",Pink Western
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1348
-#EXTINF:-1 tvg-id="4830" tvg-name="Pink Koncert" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkKoncert_logo.png" group-title="Music",Pink Koncert
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4830
-#EXTINF:-1 tvg-id="5305" tvg-name="Pink Media BH" tvg-logo="http://caffe.link:25461/images/b765b35b9ba8b58a070a0ec1a45ae210.png" group-title="Pink",Pink Media BH
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/5305
-#EXTINF:-1 tvg-id="5386" tvg-name="Pink World Cinema" tvg-logo="http://caffe.link:25461/images/1b57375900c3d1e98910cd4ed2502dfd.png" group-title="Pink",Pink World Cinema
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/5386
-#EXTINF:-1 tvg-id="1349" tvg-name="Pink World" tvg-logo="http://caffe.link:25461/images/1b57375900c3d1e98910cd4ed2502dfd.png" group-title="Pink",Pink World
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1349
-#EXTINF:-1 tvg-id="1343" tvg-name="Pink Zabava" tvg-logo="http://caffe.link:25461/images/c80868c30ba461486a9c736bb0051bde.png" group-title="Pink",Pink Zabava
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1343
-#EXTINF:-1 tvg-id="1385" tvg-name="HBO" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/hbo-logo.png" group-title="Film & serije",HBO
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1385
-#EXTINF:-1 tvg-id="1384" tvg-name="HBO 2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/HBO2_b_p.png" group-title="Film & serije",HBO 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1384
-#EXTINF:-1 tvg-id="1383" tvg-name="HBO 3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/HBO3_logo.png" group-title="Film & serije",HBO 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1383
-#EXTINF:-1 tvg-id="1382" tvg-name="CineStar TV" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",CineStar TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1382
-#EXTINF:-1 tvg-id="1381" tvg-name="CineStar Premiere" tvg-logo="http://caffe.link:25461/images/cb3272cef2e6fb58387c7e25d07adaee.png" group-title="Film & serije",CineStar Premiere
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1381
-#EXTINF:-1 tvg-id="4827" tvg-name="AMC" tvg-logo="http://epg.netsolutionpro.com/logo-tv/155.hr.png" group-title="Film & serije",AMC
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4827
-#EXTINF:-1 tvg-id="1244" tvg-name="C mania" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/cinemania-logo.png" group-title="Film & serije",C mania
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/5214
-#EXTINF:-1 tvg-id="5387" tvg-name="DIVA" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/DIVA_ENGLISH_STACK_CORAL_RGB.png" group-title="Film & serije",DIVA
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/5387
-#EXTINF:-1 tvg-id="1380" tvg-name="CineStar Premiere 2" tvg-logo="http://caffe.link:25461/images/3f709962dc81fefd67d71def236379e9.png" group-title="Film & serije",CineStar Premiere 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1380
-#EXTINF:-1 tvg-id="1379" tvg-name="CineStar Action & Thriller" tvg-logo="http://caffe.link:25461/images/72a0e4f0fd08198007a9ee8aeaeefb39.png" group-title="Film & serije",CineStar Action & Thriller
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1379
-#EXTINF:-1 tvg-id="1378" tvg-name="Cinestar Fantasy" tvg-logo="http://caffe.link:25461/images/0887d7aa041510cf9866530459881062.png" group-title="Film & serije",Cinestar Fantasy
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1378
-#EXTINF:-1 tvg-id="1377" tvg-name="Cinemax 1" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",Cinemax 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1377
-#EXTINF:-1 tvg-id="1376" tvg-name="Cinemax 2" tvg-logo="http://caffe.link:25461/images/9cce6235ca31e849206127bf0a6c59e7.png" group-title="Film & serije",Cinemax 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1376
-#EXTINF:-1 tvg-id="1375" tvg-name="M1 Film" tvg-logo="http://caffe.link:25461/images/b2479cb301b7e0e67a2fd846750350b5.png" group-title="Film & serije",M1 Film
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1375
-#EXTINF:-1 tvg-id="1374" tvg-name="Kino TV" tvg-logo="http://caffe.link:25461/images/fbcbe07e312381f9ac5367b55865bde0.png" group-title="Film & serije",Kino TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1374
-#EXTINF:-1 tvg-id="1373" tvg-name="FilmBox Extra" tvg-logo="http://nextgen-iptv.com/logo/filmbox.png" group-title="Film & serije",FilmBox Extra
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1373
-#EXTINF:-1 tvg-id="1371" tvg-name="Klasik TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/122.hr.png" group-title="Film & serije",Klasik TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1371
-#EXTINF:-1 tvg-id="1370" tvg-name="TV 1000" tvg-logo="http://epg.netsolutionpro.com/logo-tv/149.hr.png" group-title="Film & serije",TV 1000
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1370
-#EXTINF:-1 tvg-id="1369" tvg-name="AXN" tvg-logo="http://caffe.link:25461/images/005d646fc58240959ccda3435c209b55.png" group-title="Film & serije",AXN
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1369
-#EXTINF:-1 tvg-id="1368" tvg-name="FOX" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox-logo.png" group-title="Film & serije",FOX
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1368
-#EXTINF:-1 tvg-id="1367" tvg-name="FOX Movies" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox-movies-logo.png" group-title="Film & serije",FOX Movies
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1367
-#EXTINF:-1 tvg-id="1366" tvg-name="FOX Life" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox_life_ru.png" group-title="Film & serije",FOX Life
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1366
-#EXTINF:-1 tvg-id="1365" tvg-name="FOX Crime" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox_crime_logo.png" group-title="Film & serije",FOX Crime
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1365
-#EXTINF:-1 tvg-id="1404" tvg-name="National Geographic" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1404
-#EXTINF:-1 tvg-id="1403" tvg-name="Discovery Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Doku & Style",Discovery Channel
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1403
-#EXTINF:-1 tvg-id="1402" tvg-name="History Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/history-logo.png" group-title="Doku & Style",History Channel
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1402
-#EXTINF:-1 tvg-id="1401" tvg-name="History Channel 2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/H2_logo.png" group-title="Doku & Style",History Channel 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1401
-#EXTINF:-1 tvg-id="1400" tvg-name="Viasat Explore" tvg-logo="http://caffe.link:25461/images/78fc90bf0ef1af02fa73abb2b37403fc.png" group-title="Doku & Style",Viasat Explore
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1400
-#EXTINF:-1 tvg-id="1399" tvg-name="Viasat History" tvg-logo="http://caffe.link:25461/images/3ed399a4b1dee605b3b8b9a25b3a3f91.png" group-title="Doku & Style",Viasat History
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1399
-#EXTINF:-1 tvg-id="1396" tvg-name="Viasat Nature" tvg-logo="http://caffe.link:25461/images/9f66dbd204358af98ec59f5c3199a36f.png" group-title="Doku & Style",Viasat Nature
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1396
-#EXTINF:-1 tvg-id="1395" tvg-name="NatGeo Wild" tvg-logo="http://caffe.link:25461/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="Doku & Style",NatGeo Wild
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1395
-#EXTINF:-1 tvg-id="1394" tvg-name="Animal Planet" tvg-logo="http://caffe.link:25461/images/2ae20085ab28d1ecbb3a4ca4e797d483.png" group-title="Doku & Style",Animal Planet
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1394
-#EXTINF:-1 tvg-id="1386" tvg-name="Lov i Ribolov" tvg-logo="http://caffe.link:25461/images/b0702ed6a2111e2ade8dc6fd095a8e5d.png" group-title="Doku & Style",Lov i Ribolov
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1386
-#EXTINF:-1 tvg-id="1398" tvg-name="Travel Channel" tvg-logo="http://caffe.link:25461/images/28ddfc274d22ef447aa649aa103ed5fb.png" group-title="Doku & Style",Travel Channel
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1398
-#EXTINF:-1 tvg-id="1393" tvg-name="Crime Investigation" tvg-logo="http://caffe.link:25461/images/10116afbb86e4a29cde074b825db49bb.png" group-title="Doku & Style",Crime Investigation
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1393
-#EXTINF:-1 tvg-id="1244" tvg-name="Investigation Discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",Investigation Discovery
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1392
-#EXTINF:-1 tvg-id="1244" tvg-name="ID Backup" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",ID Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1391
-#EXTINF:-1 tvg-id="1397" tvg-name="Pink Pedia" tvg-logo="http://caffe.link:25461/images/60e8cdb9178abcc08f81c8a34b79a85b.png" group-title="Pink",Pink Pedia
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1397
-#EXTINF:-1 tvg-id="1244" tvg-name="Comedy Central Extra" tvg-logo="http://caffe.link:25461/images/f6c25056b9a3b2c01b92eaba48916542.png" group-title="Doku & Style",Comedy Central Extra
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1388
-#EXTINF:-1 tvg-id="1390" tvg-name="E!" tvg-logo="http://epg.netsolutionpro.com/logo-tv/185.hr.png" group-title="Doku & Style",E!
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1390
-#EXTINF:-1 tvg-id="1389" tvg-name="TLC" tvg-logo="http://caffe.link:25461/images/adb1dd921634dd6d09ad9da5820f0f92.png" group-title="Doku & Style",TLC
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1389
-#EXTINF:-1 tvg-id="1387" tvg-name="24 Kitchen" tvg-logo="http://caffe.link:25461/images/9f3f201e08e2b18f6a2cd29d79bcb3b4.png" group-title="Doku & Style",24 Kitchen
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1387
-#EXTINF:-1 tvg-id="1428" tvg-name="MTV Adria" tvg-logo="http://caffe.link:25461/images/5b5a0568a4d5902fe6a027d59343dbca.png" group-title="Music",MTV Adria
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1428
-#EXTINF:-1 tvg-id="1422" tvg-name="MTV Base" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-base-logo.png" group-title="Music",MTV Base
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1422
-#EXTINF:-1 tvg-id="1425" tvg-name="MTV Classic" tvg-logo="https://seeklogo.com/images/M/mtv-classic-2013-logo-68E2737F53-seeklogo.com.png" group-title="Music",MTV Classic
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1425
-#EXTINF:-1 tvg-id="1244" tvg-name="MTV Club" tvg-logo="https://tvprofil.com/img/kanali-logo/Club_mtv_logo.png" group-title="Music",MTV Club
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1423
-#EXTINF:-1 tvg-id="1426" tvg-name="MTV Hits" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-hits-logo.png" group-title="Music",MTV Hits
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1426
-#EXTINF:-1 tvg-id="1244" tvg-name="MTV Music" tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-music.png" group-title="Music",MTV Music
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1427
-#EXTINF:-1 tvg-id="1424" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1424
-#EXTINF:-1 tvg-id="1244" tvg-name="VH1" tvg-logo="https://tvprofil.com/img/kanali-logo/VH1_IT_logo.png" group-title="Music",VH1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1421
-#EXTINF:-1 tvg-id="1411" tvg-name="Pink n Roll" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkNRoll_logo.png" group-title="Music",Pink n Roll
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1411
-#EXTINF:-1 tvg-id="1419" tvg-name="Jugoton TV" tvg-logo="http://caffe.link:25461/images/bce5485c205385172e5a5643a1f080c4.png" group-title="Music",Jugoton TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1419
-#EXTINF:-1 tvg-id="1420" tvg-name="CMC" tvg-logo="http://caffe.link:25461/images/ad2b08a58bbcf1214cc29d221eafcb5c.png" group-title="Music",CMC
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1420
-#EXTINF:-1 tvg-id="1409" tvg-name="Pink Folk 1" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkFolk1_logo.png" group-title="Music",Pink Folk 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1409
-#EXTINF:-1 tvg-id="1408" tvg-name="Pink Folk 2" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkFolk2_logo.png" group-title="Music",Pink Folk 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1408
-#EXTINF:-1 tvg-id="1410" tvg-name="Pink Music" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkMusic_logo.png" group-title="Music",Pink Music
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1410
-#EXTINF:-1 tvg-id="1244" tvg-name="G2 Narodna Tv" tvg-logo="http://caffe.link:25461/images/1a013725390efb5c7022af9b6fa3ecb6.png" group-title="Music",G2 Narodna Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1416
-#EXTINF:-1 tvg-id="1417" tvg-name="G Narodna TV" tvg-logo="https://tvprofil.com/img/kanali-logo/Grand_TV_logo.png" group-title="Music",G Narodna TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1417
-#EXTINF:-1 tvg-id="1413" tvg-name="Hayat Folk" tvg-logo="https://tvprofil.com/img/kanali-logo/hayatfolk_logo.png" group-title="Music",Hayat Folk
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1413
-#EXTINF:-1 tvg-id="1414" tvg-name="Hayat Music" tvg-logo="https://tvprofil.com/img/kanali-logo/hayatmusic_logo.png" group-title="Music",Hayat Music
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1414
-#EXTINF:-1 tvg-id="1418" tvg-name="BN Music" tvg-logo="http://caffe.link:25461/images/5477c05e5d784d59eaf515c8122ca047.png" group-title="Music",BN Music
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1418
-#EXTINF:-1 tvg-id="1415" tvg-name="DM Sat" tvg-logo="https://tvprofil.com/img/kanali-logo/dm-sat-logo.png" group-title="Music",DM Sat
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1415
-#EXTINF:-1 tvg-id="1244" tvg-name="IDJ TV" tvg-logo="http://rem.rs/uploads/attachment/pruzalac/1385/idjtv_k.png" group-title="Music",IDJ TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/2536
-#EXTINF:-1 tvg-id="1407" tvg-name="Balkanika" tvg-logo="http://caffe.link:25461/images/9aa9756c22c4ea8102fdd5be1f0b8484.png" group-title="Music",Balkanika
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1407
-#EXTINF:-1 tvg-id="1244" tvg-name="Sevdah TV" tvg-logo="https://tvprofil.com/kanali/kanal/sevdah-tv" group-title="Music",Sevdah TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1405
-#EXTINF:-1 tvg-id="1406" tvg-name="Izvorna TV" tvg-logo="https://tvprofil.com/img/kanali-logo/IzvornaTV_logo.png" group-title="Music",Izvorna TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1406
-#EXTINF:-1 tvg-id="1445" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/img/kanali-logo/rtl-kockica-logo.png" group-title="Kids",RTL Kockica
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1445
-#EXTINF:-1 tvg-id="1444" tvg-name="Nickelodeon" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids",Nickelodeon
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1444
-#EXTINF:-1 tvg-id="1444" tvg-name="Nick Jr Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/nick_jr_logo.png" group-title="Kids",Nick Jr Hr
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1443
-#EXTINF:-1 tvg-id="1442" tvg-name="Mini Tv" tvg-logo="http://caffe.link:25461/images/f0d790a663b827f1ad00b08c4e6cec41.png" group-title="Kids",Mini Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1442
-#EXTINF:-1 tvg-id="1441" tvg-name="Minimax" tvg-logo="https://tvprofil.com/img/kanali-logo/minimax-logo.png" group-title="Kids",Minimax
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1441
-#EXTINF:-1 tvg-id="1440" tvg-name="Hayatovci" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayatovci-logo.png" group-title="Kids",Hayatovci
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1440
-#EXTINF:-1 tvg-id="1439" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-kids-logo.png" group-title="Kids",Pink Kids
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1439
-#EXTINF:-1 tvg-id="1438" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkSuperKids_logo.png" group-title="Kids",Pink Super Kids
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1438
-#EXTINF:-1 tvg-id="1244" tvg-name="Disney Channel UK" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids",Disney Channel UK
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1436
-#EXTINF:-1 tvg-id="1244" tvg-name="Disney Junior UK" tvg-logo="http://caffe.link:25461/images/85e7dd0b4aee92209317b2f1c2cd94c4.png" group-title="Kids",Disney Junior UK
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1435
-#EXTINF:-1 tvg-id="1433" tvg-name="Cartoon Network UK" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids",Cartoon Network UK
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1433
-#EXTINF:-1 tvg-id="1432" tvg-name="Kika DE" tvg-logo="https://tvprofil.com/img/kanali-logo/kika-logo.png" group-title="Kids",Kika DE
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1432
-#EXTINF:-1 tvg-id="1430" tvg-name="Nickelodeon DE" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids",Nickelodeon DE
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1430
-#EXTINF:-1 tvg-id="1429" tvg-name="Baby TV" tvg-logo="http://caffe.link:25461/images/8d3375d0af71f11028bbac82710a9e79.png" group-title="Kids",Baby TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1429
-#EXTINF:-1 tvg-id="1529" tvg-name="SK 1  ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",SK 1  ( HR )
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1529
-#EXTINF:-1 tvg-id="1528" tvg-name="SK 2 ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",SK 2 ( HR )
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1528
-#EXTINF:-1 tvg-id="1527" tvg-name="SK 3 ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",SK 3 ( HR )
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1527
-#EXTINF:-1 tvg-id="1526" tvg-name="SK 1" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport",SK 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1526
-#EXTINF:-1 tvg-id="1525" tvg-name="SK 2" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport",SK 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1525
-#EXTINF:-1 tvg-id="1524" tvg-name="SK 3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport",SK 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1524
-#EXTINF:-1 tvg-id="1523" tvg-name="SK 4" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK4_HR_logo.png" group-title="Sport",SK 4
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1523
-#EXTINF:-1 tvg-id="1522" tvg-name="SK 5" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK5_HR_logo.png" group-title="Sport",SK 5
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1522
-#EXTINF:-1 tvg-id="1244" tvg-name="SK 6" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK6_HR_logo.png" group-title="Sport",SK 6
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1521
-#EXTINF:-1 tvg-id="1520" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport",Arena Sport 1 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1520
-#EXTINF:-1 tvg-id="1519" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="Sport",Arena Sport 2 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1519
-#EXTINF:-1 tvg-id="1518" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="Sport",Arena Sport 3 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1518
-#EXTINF:-1 tvg-id="1517" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="Sport",Arena Sport 4 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1517
-#EXTINF:-1 tvg-id="1516" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="Sport",Arena Sport 5 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1516
-#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport",Arena Sport 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1515
-#EXTINF:-1 tvg-id="1514" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Sport",Arena Sport 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1514
-#EXTINF:-1 tvg-id="1513" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Sport",Arena Sport 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1513
-#EXTINF:-1 tvg-id="1512" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Sport",Arena Sport 4
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1512
-#EXTINF:-1 tvg-id="1511" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="Sport",Arena Sport 5
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1511
-#EXTINF:-1 tvg-id="1510" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="Sport",Arena Sport 6 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1510
-#EXTINF:-1 tvg-id="1508" tvg-name="Eurosport 1" tvg-logo="http://caffe.link:25461/images/7c31d506280b8151acf6e374787db2ee.png" group-title="Sport",Eurosport 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1508
-#EXTINF:-1 tvg-id="1507" tvg-name="Eurosport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",Eurosport 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1507
-#EXTINF:-1 tvg-id="1506" tvg-name="Eurosport 1 DE" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="Sport",Eurosport 1 DE
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1506
-#EXTINF:-1 tvg-id="1505" tvg-name="Eurosport 2 DE" tvg-logo="http://caffe.link:25461/images/30d8bcbb44a3a267b27d9a39464a2402.png" group-title="Sport",Eurosport 2 DE
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1505
-#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="http://caffe.link:25461/images/636fa30942ce6c7b74d682339866ea27.png" group-title="Sport",Skx Sport 1 DE FHD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1487
-#EXTINF:-1 tvg-id="1486" tvg-name="Skx Sport 2 DE FHD" tvg-logo="http://caffe.link:25461/images/cebb51f46a0f5d27367554bc24ea4514.png" group-title="Sport",Skx Sport 2 DE FHD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1486
-#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport Action HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="Sport",Skx Sport Action HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1498
-#EXTINF:-1 tvg-id="1497" tvg-name="Skx Sport Arena HD" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-arena.png" group-title="Sport",Skx Sport Arena HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1497
-#EXTINF:-1 tvg-id="1496" tvg-name="Cricket HD" tvg-logo="http://caffe.link:25461/images/965611e613278f75a569eea7861f6355.png" group-title="Sport",Cricket HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1496
-#EXTINF:-1 tvg-id="1499" tvg-name="Skx Sport F1 UK" tvg-logo="http://caffe.link:25461/images/14a51e49472aab8602a9b81f475d9d1e.png" group-title="Sport",Skx Sport F1 UK
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1499
-#EXTINF:-1 tvg-id="1495" tvg-name="Skx Sports Fotball HD" tvg-logo="http://caffe.link:25461/images/3be62fbaa4806d3d6c747f3bb4d633d3.png" group-title="Sport",Skx Sports Fotball HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1495
-#EXTINF:-1 tvg-id="1494" tvg-name="Skx sports Golff HD" tvg-logo="https://tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png" group-title="Sport",Skx sports Golff HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1494
-#EXTINF:-1 tvg-id="1493" tvg-name="Skx Sport Main Event HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="Sport",Skx Sport Main Event HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1493
-#EXTINF:-1 tvg-id="1492" tvg-name="Skx Sport Mix HD" tvg-logo="http://caffe.link:25461/images/959bb2868772e7f17fd06e6c5aa0380b.png" group-title="Sport",Skx Sport Mix HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1492
-#EXTINF:-1 tvg-id="1491" tvg-name="BSport 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_1_logo.png" group-title="Sport",BSport 1 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1491
-#EXTINF:-1 tvg-id="1490" tvg-name="BSport 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 2 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1490
-#EXTINF:-1 tvg-id="1489" tvg-name="BSport 3 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 3 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1489
-#EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="Sport",BSports ESPN HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1488
-#EXTINF:-1 tvg-id="1485" tvg-name="BLiga DE FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/skybundesliga1_logo.png" group-title="Sport",BLiga DE FHD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1485
-#EXTINF:-1 tvg-id="1484" tvg-name="BLiga 2 (Matchday only)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/sky_sport_bundesliga_2.png" group-title="Sport",BLiga 2 (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1484
-#EXTINF:-1 tvg-id="1483" tvg-name="BLiga 3 (Matchday only)" tvg-logo="http://caffe.link:25461/images/ed1eb31f9204710cffbc3c66acfd84ea.png" group-title="Sport",BLiga 3 (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1483
-#EXTINF:-1 tvg-id="1482" tvg-name="BLiga 4 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_bundesliga_4.png" group-title="Sport",BLiga 4 (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1482
-#EXTINF:-1 tvg-id="1481" tvg-name="BLiga5 Test (Matchday only)" tvg-logo="http://caffe.link:25461/images/43e21b20d013f8f39054f67e0dc4c256.png" group-title="Sport",BLiga5 Test (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1481
-#EXTINF:-1 tvg-id="1476" tvg-name="Skx Sport F1 IT" tvg-logo="http://caffe.link:25461/images/7cae27aceb2fe350825e92d21ec651c7.png" group-title="Sport",Skx Sport F1 IT
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1476
-#EXTINF:-1 tvg-id="4859" tvg-name="Bein Sports 1 Fr" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 1 Fr
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4859
-#EXTINF:-1 tvg-id="4860" tvg-name="Bein Sports 2 Fr" tvg-logo="http://caffe.link:25461/images/35f8e05d9395269ee92d352daf5b5f07.png" group-title="Sport",Bein Sports 2 Fr
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4860
-#EXTINF:-1 tvg-id="4861" tvg-name="Bein Sports 3 Fr" tvg-logo="https://tvprofil.com/img/kanali-logo/Bein-sports-max-3_logo.png" group-title="Sport",Bein Sports 3 Fr
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/4861
-#EXTINF:-1 tvg-id="1475" tvg-name="Bein Sports 1" tvg-logo="http://caffe.link:25461/images/35e363b9f790404ee212d15fa5ca9d97.png" group-title="Sport",Bein Sports 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1475
-#EXTINF:-1 tvg-id="1474" tvg-name="Bein Sports 2" tvg-logo="http://caffe.link:25461/images/ec320fef7ab69378d11d85f0f2d0a063.png" group-title="Sport",Bein Sports 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1474
-#EXTINF:-1 tvg-id="1473" tvg-name="Bein Sports 3" tvg-logo="http://caffe.link:25461/images/b20b3bacff756560118f6bf64b0e2525.png" group-title="Sport",Bein Sports 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1473
-#EXTINF:-1 tvg-id="1472" tvg-name="Bein Sports 4" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD4.png" group-title="Sport",Bein Sports 4
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1472
-#EXTINF:-1 tvg-id="1471" tvg-name="Bein Sports 5" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD5.png" group-title="Sport",Bein Sports 5
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1471
-#EXTINF:-1 tvg-id="1470" tvg-name="Bein Sports 6" tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD6.png" group-title="Sport",Bein Sports 6
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1470
-#EXTINF:-1 tvg-id="1469" tvg-name="Bein Sports 7" tvg-logo="http://caffe.link:25461/images/b9cc8ad6389b452ee3f2c9c3e4579785.png" group-title="Sport",Bein Sports 7
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1469
-#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 8" tvg-logo="http://caffe.link:25461/images/faf9fbf9bf8eaef2af875086440a79ae.png" group-title="Sport",Bein Sports 8
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1468
-#EXTINF:-1 tvg-id="1244" tvg-name="Bein Sports 9" tvg-logo="http://caffe.link:25461/images/8662db5677e4a06be94824a45dba2993.png" group-title="Sport",Bein Sports 9
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1467
-#EXTINF:-1 tvg-id="1466" tvg-name="FOX Sports 1 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-eredivisie.png" group-title="Sport",FOX Sports 1 (Nl)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1466
-#EXTINF:-1 tvg-id="1465" tvg-name="FOX Sports 2 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-2-netherlands.png" group-title="Sport",FOX Sports 2 (Nl)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1465
-#EXTINF:-1 tvg-id="1464" tvg-name="FOX Sports 3 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-3-eredivisie.png" group-title="Sport",FOX Sports 3 (Nl)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1464
-#EXTINF:-1 tvg-id="1463" tvg-name="FOX Sports 4 (Nl)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-4-netherlands.png" group-title="Sport",FOX Sports 4 (Nl)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1463
-#EXTINF:-1 tvg-id="1462" tvg-name="Digi Sport 1 (Ro)" tvg-logo="http://caffe.link:25461/images/4c018807b6dd0c4fd44f8c6e5a6209f8.png" group-title="Sport",Digi Sport 1 (Ro)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1462
-#EXTINF:-1 tvg-id="1461" tvg-name="Digi Sport 2 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport2.png" group-title="Sport",Digi Sport 2 (Ro)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1461
-#EXTINF:-1 tvg-id="1457" tvg-name="Skx Sport Austria" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria.png" group-title="Sport",Skx Sport Austria
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1457
-#EXTINF:-1 tvg-id="1456" tvg-name="TSN 1" tvg-logo="http://caffe.link:25461/images/b9090b8a6264dfedbf216f0183a8b0f4.png" group-title="Sport",TSN 1
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1456
-#EXTINF:-1 tvg-id="1455" tvg-name="TSN 2" tvg-logo="http://caffe.link:25461/images/b9090b8a6264dfedbf216f0183a8b0f4.png" group-title="Sport",TSN 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1455
-#EXTINF:-1 tvg-id="1454" tvg-name="TSN 3" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="Sport",TSN 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1454
-#EXTINF:-1 tvg-id="1453" tvg-name="TSN 4" tvg-logo="http://caffe.link:25461/images/b9090b8a6264dfedbf216f0183a8b0f4.png" group-title="Sport",TSN 4
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1453
-#EXTINF:-1 tvg-id="1452" tvg-name="TSN 5" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="Sport",TSN 5
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1452
-#EXTINF:-1 tvg-id="1244" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Sport",NBA TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1451
-#EXTINF:-1 tvg-id="1450" tvg-name="Sportska TV" tvg-logo="https://tvprofil.com/img/kanali-logo/sptv-logo.png" group-title="Sport",Sportska TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1450
-#EXTINF:-1 tvg-id="1449" tvg-name="Auto Motor Sport" tvg-logo="https://ewsat.com/img/AUTO_MOTOR_SPORT.png" group-title="Sport",Auto Motor Sport
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1449
-#EXTINF:-1 tvg-id="1448" tvg-name="Fight Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Fight_Channel_World_logo.png" group-title="Sport",Fight Channel
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1448
-#EXTINF:-1 tvg-id="1447" tvg-name="Real Madrid TV (Spa)" tvg-logo="https://tvprofil.com/img/kanali-logo/realmadrid-tv-logo.png" group-title="Sport",Real Madrid TV (Spa)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1447
-#EXTINF:-1 tvg-id="1446" tvg-name="Barca TV (Spa)" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/barca-tv-plus.png" group-title="Sport",Barca TV (Spa)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1446
-#EXTINF:-1 tvg-id="6870" tvg-name="Poljoprivredna TV (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/124.hr.png" group-title="Hrvatska",Poljoprivredna TV (Test)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6870
-#EXTINF:-1 tvg-id="6872" tvg-name="Libertas TV" tvg-logo="https://tvprofil.com/img/kanali-logo/LibertasTV.png" group-title="Hrvatska",Libertas TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6872
-#EXTINF:-1 tvg-id="6873" tvg-name="Jabuka TV (Test)" tvg-logo="https://www.jabuka.tv/wp-content/uploads/2015/01/logo_jabuka_web1.png" group-title="Hrvatska",Jabuka TV (Test)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6873
-#EXTINF:-1 tvg-id="6875" tvg-name="TV Bor" tvg-logo="http://epg.netsolutionpro.com/logo-tv/117.sr.png" group-title="Srbija",TV Bor
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6875
-#EXTINF:-1 tvg-id="6877" tvg-name="City TV (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/122.ba.png" group-title="BiH",City TV (Test)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6877
-#EXTINF:-1 tvg-id="1244" tvg-name="K3 Prnjavor (Test)" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/kanal3-prnjavor-logo.png" group-title="BiH",K3 Prnjavor (Test)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6878
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 1 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15789
-#EXTINF:-1 tvg-id="15790" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 2 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15790
-#EXTINF:-1 tvg-id="15791" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 3 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15791
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 4 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15792
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 6 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15794
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 7 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15795
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 8 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15796
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 9 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15797
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 10 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15798
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="https://secure.cromax.com/etc/designs/cromax/clientlibs/images/logo.png" group-title="Film & serije",MAXCRO SELECT 11 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15799
-#EXTINF:-1 tvg-id="1244" tvg-name="Nova Family ᴴᴰ" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Nova_Family_logo.png" group-title="Hrvatska",Nova Family ᴴᴰ
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33006
-#EXTINF:-1 tvg-id="1245" tvg-name="Kurir TV" tvg-logo="https://tvprofil.com/img/kanali-logo/KurirTV_logo.png" group-title="Srbija",Kurir TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33008
-#EXTINF:-1 tvg-id="1244" tvg-name="Toxic TV (TEST)" tvg-logo="http://caffe.link:25461/images/73037018a44c492ef02c88606bb5178c.png" group-title="Music",Toxic TV (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33010
-#EXTINF:-1 tvg-id="1244" tvg-name="RTL Croatia World (TEST)" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="Hrvatska",RTL Croatia World (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33016
-#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sports 3 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_3_de.png" group-title="Sport",Skx Sports 3 (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33017
-#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport 4 (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_4_de.png" group-title="Sport",Skx Sport 4 (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33018
-#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport 5 (Matchday only)" tvg-logo="http://caffe.link:25461/images/7beaf44c8a8340e3a9f5fd36575632ea.png" group-title="Sport",Skx Sport 5 (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33019
-#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport 6 TEST (Matchday only)" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_sport_6_de.png" group-title="Sport",Skx Sport 6 TEST (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33020
-#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport 7 (Matchday only)" tvg-logo="http://caffe.link:25461/images/01103a4c42453e49afb349cb62362d72.png" group-title="Sport",Skx Sport 7 (Matchday only)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33021
-#EXTINF:-1 tvg-id="1244" tvg-name="Agro TV (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/agrotv_logo-1.png" group-title="Srbija",Agro TV (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33023
-#EXTINF:-1 tvg-id="1244" tvg-name="UFC Fight Pass" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x300/4/img/covers/img402073-tv6805242.jpg" group-title="Sport",UFC Fight Pass
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34132
-#EXTINF:-1 tvg-id="34141" tvg-name="Da Vinci Learning (TEST)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/da_vinci_learning.png" group-title="Doku & Style",Da Vinci Learning (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34141
-#EXTINF:-1 tvg-id="34134" tvg-name="Filmbox stars" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/FilmboxStars_Black.png" group-title="Film & serije",Filmbox stars
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34134
-#EXTINF:-1 tvg-id="34138" tvg-name="CBS Reality (TEST)" tvg-logo="http://caffe.link:25461/images/c631d7329ae4d6a7e80866ec62cbfb41.png" group-title="Doku & Style",CBS Reality (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34138
-#EXTINF:-1 tvg-id="1244" tvg-name="Fashion TV (TEST)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fashiontv-logo.png" group-title="Doku & Style",Fashion TV (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34143
-#EXTINF:-1 tvg-id="34142" tvg-name="DTX (TEST)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/170.hr.png" group-title="Doku & Style",DTX (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34142
-#EXTINF:-1 tvg-id="1244" tvg-name="Balkan trip" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/balkan-trip_logo.png" group-title="Doku & Style",Balkan trip
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34139
-#EXTINF:-1 tvg-id="34151" tvg-name="HGTV" tvg-logo="http://caffe.link:25461/images/ff1293a36697f240de9ef70dd1500d25.png" group-title="Doku & Style",HGTV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34151
-#EXTINF:-1 tvg-id="1244" tvg-name="RTS MUZIKA" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTS_Muzika_logo.png" group-title="Srbija",RTS MUZIKA
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34150
-#EXTINF:-1 tvg-id="1244" tvg-name="BN 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BiH",BN 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34148
-#EXTINF:-1 tvg-id="1244" tvg-name="Nova TV sport" tvg-logo="https://tvprofil.com/img/kanali-logo/nova_sport.png" group-title="Sport",Nova TV sport
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34147
-#EXTINF:-1 tvg-id="1244" tvg-name="TV Sibenik (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/tv-sibenik-logo.png" group-title="Hrvatska",TV Sibenik (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34162
-#EXTINF:-1 tvg-id="34161" tvg-name="VTV Varazdin (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/vtv-logo.png" group-title="Hrvatska",VTV Varazdin (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34161
-#EXTINF:-1 tvg-id="34160" tvg-name="Zdrava TV (TEST)" tvg-logo="https://d2wk81qbuk09ji.cloudfront.net/37741/public/imagegallery/original/ztv-weblogo-muvi_hr_1551616358.png" group-title="Hrvatska",Zdrava TV (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34160
-#EXTINF:-1 tvg-id="34159" tvg-name="Trend TV (TEST)" tvg-logo="https://tvprofil.com/img/kanali-logo/Trend_TV_HR_logo.png" group-title="Hrvatska",Trend TV (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34159
-#EXTINF:-1 tvg-id="1244" tvg-name="Arena Fight" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="Sport",Arena Fight
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34155
-#EXTINF:-1 tvg-id="34176" tvg-name="Discovery Science" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="Doku & Style",Discovery Science
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34176
-#EXTINF:-1 tvg-id="1244" tvg-name="Motorvision" tvg-logo="https://tvprofil.com/img/kanali-logo/motorvision_logo.png" group-title="Sport",Motorvision
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34173
-#EXTINF:-1 tvg-id="34166" tvg-name="M1 Gold (TEST)" tvg-logo="http://caffe.link:25461/images/2f0b0f0676f5fe52702a8fe1b114cce3.png" group-title="Film & serije",M1 Gold (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34166
-#EXTINF:-1 tvg-id="1244" tvg-name="NickToons DE" tvg-logo="http://caffe.link:25461/images/a2262f4e85da4df3e570d2450c1a39c5.png" group-title="Kids",NickToons DE
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34187
-#EXTINF:-1 tvg-id="1244" tvg-name="Skx Sport F1 HEVC" tvg-logo="http://caffe.link:25461/images/14a51e49472aab8602a9b81f475d9d1e.png" group-title="Sport",Skx Sport F1 HEVC
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34185
-#EXTINF:-1 tvg-id="1244" tvg-name="M1 Family (TEST)" tvg-logo="http://caffe.link:25461/images/2f0b0f0676f5fe52702a8fe1b114cce3.png" group-title="Film & serije",M1 Family (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34183
-#EXTINF:-1 tvg-id="1244" tvg-name="BMC" tvg-logo="https://bmc-network.com/wp-content/uploads/2022/08/BMC-Nova-Verzija-90-final.png" group-title="Music",BMC
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34182
-#EXTINF:-1 tvg-id="1244" tvg-name="Imperia" tvg-logo="https://tvprofil.com/img/kanali-logo/ImperiaTV_logo.png" group-title="Music",Imperia
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34181
-#EXTINF:-1 tvg-id="1244" tvg-name="Pink Bravo (TEST)" tvg-logo="http://caffe.link:25461/images/7ec4c45615b5c8d35fe8dc21cbb46d10.png" group-title="Pink",Pink Bravo (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34179
-#EXTINF:-1 tvg-id="1244" tvg-name="Prva life" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Prva_LIFE_logo.png" group-title="Srbija",Prva life
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34190
-#EXTINF:-1 tvg-id="1244" tvg-name="SportDigital" tvg-logo="https://tvprofil.com/img/kanali-logo/Sportdigital_Fussball_DE_logo.png" group-title="Sport",SportDigital
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34188
-#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport Premium 1 (SR)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 1 (SR)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34303
-#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport Premium 2 (SR)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 2 (SR)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34304
-#EXTINF:-1 tvg-id="" tvg-name="RTV Bugojno" tvg-logo="https://rtvbugojno.ba/wp-content/uploads/2021/04/logo-rtv-bugojno.png" group-title="BiH",RTV Bugojno
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34306
-#EXTINF:-1 tvg-id="5812" tvg-name="Zadruga Live" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-1-384x216-1.png" group-title="Srbija",Zadruga Live
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/5812
-#EXTINF:-1 tvg-id="6080" tvg-name="Zvezda TV" tvg-logo="http://caffe.link:25461/images/b600900468fb1b5da023303a728dfbba.png" group-title="Sport",Zvezda TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6080
-#EXTINF:-1 tvg-id="1244" tvg-name="Tv Jadran" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/tv-jadran-logo.png" group-title="Hrvatska",Tv Jadran
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/6868
-#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 7 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport",Arena Sport 7 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15733
-#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 8 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="Sport",Arena Sport 8 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15734
-#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 9 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="Sport",Arena Sport 9 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15735
-#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport 10 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Sport",Arena Sport 10 HR
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15736
-#EXTINF:-1 tvg-id="15737" tvg-name="DMC TV" tvg-logo="https://tvprofil.com/img/kanali-logo/DMC_televizija_logo.png" group-title="Music",DMC TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15737
-#EXTINF:-1 tvg-id="1244" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="http://caffe.link:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Film & serije",MAXCRO SELECT 5 HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/15793
-#EXTINF:-1 tvg-id="1244" tvg-name="TV Jefimija HD" tvg-logo="https://jefimija.tv/wp-content/uploads/2016/09/logo2.png" group-title="Srbija",TV Jefimija HD
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33009
-#EXTINF:-1 tvg-id="1244" tvg-name="TV Zivinice (TEST)" tvg-logo="http://rtvzivinice.tv/wp-content/uploads/2018/03/LOGO-TVZ-PRIMJER-1.png" group-title="BiH",TV Zivinice (TEST)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/33022
-#EXTINF:-1 tvg-id="34152" tvg-name="Elta TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/elta1-hd-logo.png" group-title="BiH",Elta TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34152
-#EXTINF:-1 tvg-id="34153" tvg-name="OTV etno" tvg-logo="http://caffe.link:25461/images/26636378699c0a4d9232cfcd451d0082.png" group-title="Music",OTV etno
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34153
-#EXTINF:-1 tvg-id="34164" tvg-name="RTS POLETARAC" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTS_Poletarac_logo.png" group-title="Srbija",RTS POLETARAC
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34164
-#EXTINF:-1 tvg-id="1244" tvg-name="Arena Sport Premium 3 (SR)" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 3 (SR)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/34305
-#EXTINF:-1 tvg-id="" tvg-name="Belle Amie" tvg-logo="https://tvprofil.com/img/kanali-logo/tv-belle-amie-logo.png" group-title="Srbija",Belle Amie
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/50709
-#EXTINF:-1 tvg-id="" tvg-name="Neon Tv" tvg-logo="https://tvprofil.com/img/kanali-logo/Neon_TV_BA_logo.png" group-title="BiH",Neon Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/50711
-#EXTINF:-1 tvg-id="" tvg-name="Tatabrada TV" tvg-logo="https://tvprofil.com/img/kanali-logo/Tata_Brada_RS_logo.png" group-title="BiH",Tatabrada TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/50712
-#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 1 (HR)" tvg-logo="http://caffe.link:25461/images/0e44b65b8862d14134bcb8c89b4a72f4.png" group-title="Sport",MAX Sport 1 (HR)
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53547
-#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 2" tvg-logo="http://caffe.link:25461/images/f3836dad5e8f725be975f402819e8127.png" group-title="Sport",MAX Sport 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53548
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 1  Backup" tvg-logo="http://caffe.link:25461/images/0e44b65b8862d14134bcb8c89b4a72f4.png" group-title="Sport",MAX SPORT 1  Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53550
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 2 Backup" tvg-logo="http://caffe.link:25461/images/f3836dad5e8f725be975f402819e8127.png" group-title="Sport",MAX SPORT 2 Backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53551
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV COMEDY  (TEST) " tvg-logo="https://nstatic.net/img/tv/channels/m/cinestar-tv-comedy.png" group-title="Film & serije",CINESTAR TV COMEDY  (TEST) 
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53582
-#EXTINF:-1 tvg-id="" tvg-name="Skx Sport Premier League HEVC" tvg-logo="http://caffe.link:25461/images/556e258513a22a8c2bc1f4474fb267f3.png" group-title="Sport",Skx Sport Premier League HEVC
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53652
-#EXTINF:-1 tvg-id="1254" tvg-name="RTL" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL.png" group-title="Hrvatska",RTL
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53655
-#EXTINF:-1 tvg-id="" tvg-name="TV Hram" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/TV_Hram_logo.png" group-title="Srbija",TV Hram
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53657
-#EXTINF:-1 tvg-id="" tvg-name="SKY folk" tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Makedonija",SKY folk
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53665
-#EXTINF:-1 tvg-id="" tvg-name="City RTV" tvg-logo="https://www.jagledam.com/logo/logotvcityub.jpg" group-title="Music",City RTV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53666
-#EXTINF:-1 tvg-id="34157" tvg-name="Arena E Sport" tvg-logo="https://tvprofil.com/img/kanali-logo/arena_esport_logo.png" group-title="Sport",Arena E Sport
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53701
-#EXTINF:-1 tvg-id="" tvg-name="Tennis channel" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/05/tennis-channel-1024x576.png" group-title="Sport",Tennis channel
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53722
-#EXTINF:-1 tvg-id="" tvg-name="Tennis channel 2" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/05/tennis-channel-1024x576.png" group-title="Sport",Tennis channel 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53723
-#EXTINF:-1 tvg-id="" tvg-name="Boxing Tv" tvg-logo="https://boxing-tv.com/wp-content/uploads/2020/10/121468580_1239763093053450_6846298824313007452_n-1.png" group-title="Sport",Boxing Tv
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53725
-#EXTINF:-1 tvg-id="" tvg-name="Impact Plus" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/11/Plus-1.jpg" group-title="Sport",Impact Plus
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53730
-#EXTINF:-1 tvg-id="" tvg-name="FTF Sports" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/for-the-fans.png" group-title="Sport",FTF Sports
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53731
-#EXTINF:-1 tvg-id="" tvg-name="Billiard TV" tvg-logo="https://streamstak.com/whistletv/wp-content/uploads/sites/19/2022/04/billiard-tv.jpg" group-title="Sport",Billiard TV
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53734
-#EXTINF:-1 tvg-id="" tvg-name="Skx Sport Austria 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria-2.png" group-title="Sport",Skx Sport Austria 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53768
-#EXTINF:-1 tvg-id="" tvg-name="Skx Sport Austria 3" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria-3.png" group-title="Sport",Skx Sport Austria 3
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53769
-#EXTINF:-1 tvg-id="" tvg-name="Skx Sport Austria 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria-4.png" group-title="Sport",Skx Sport Austria 4
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/53770
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1x2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_1x2_RS_logo.png" group-title="Sport",Arena Sport 1x2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/54037
-#EXTINF:-1 tvg-id="" tvg-name="SuperStar TV 2" tvg-logo="https://tvprofil.com/cdn/200x64/4/img/kanali-logo/Superstar_2_RS_logo.png" group-title="Srbija",SuperStar TV 2
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/56669
-#EXTINF:-1 tvg-id="6410" tvg-name="Superstar TV backup" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SuperstarTV_logo.png" group-title="Srbija",Superstar TV backup
-http://caffe.link:25461/77startv88/BTpBEuTUyQwv/114361
+#EXTINF:-1 group-title="HRVATSKA",HRT  1 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30473.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT  2 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30474.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT 3 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30475.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova TV HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2470.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30476.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL 2 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45.ts
+#EXTINF:-1 group-title="HRVATSKA",Doma HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/112.ts
+#EXTINF:-1 group-title="HRVATSKA",N1 HR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3774.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/40.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/41.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/353.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/354.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT int.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/9049.ts
+#EXTINF:-1 group-title="HRVATSKA",HRT Doku
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73694.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/22.ts
+#EXTINF:-1 group-title="HRVATSKA",Doma 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68556.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova World
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45126.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova Cinema 4K
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69176.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova Family
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39435.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova Series
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72613.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova Cinema 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39476.ts
+#EXTINF:-1 group-title="HRVATSKA",Nova Cinema 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45121.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL 2 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68558.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL World
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45127.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL Passion
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1198.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL Crime
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1199.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL Living
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2502.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL Adria
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/26431.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL+
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45113.ts
+#EXTINF:-1 group-title="HRVATSKA",RTL Play
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45120.ts
+#EXTINF:-1 group-title="HRVATSKA",Z1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1550.ts
+#EXTINF:-1 group-title="HRVATSKA",Laudato 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24581.ts
+#EXTINF:-1 group-title="HRVATSKA",Vinkovacka 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/551.ts
+#EXTINF:-1 group-title="HRVATSKA",Slavonska 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1176.ts
+#EXTINF:-1 group-title="HRVATSKA",OTV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4537.ts
+#EXTINF:-1 group-title="HRVATSKA",Zdrava Tv 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4632.ts
+#EXTINF:-1 group-title="HRVATSKA",VTV Varaždin
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/5015.ts
+#EXTINF:-1 group-title="HRVATSKA",Herceg Bosna
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/5017.ts
+#EXTINF:-1 group-title="HRVATSKA",Jadran tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/5018.ts
+#EXTINF:-1 group-title="HRVATSKA",Televizija Dalmacija
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69879.ts
+#EXTINF:-1 group-title="HRVATSKA",SBTV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/9125.ts
+#EXTINF:-1 group-title="HRVATSKA",Poljoprivredna 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/22517.ts
+#EXTINF:-1 group-title="HRVATSKA",Libertas 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24582.ts
+#EXTINF:-1 group-title="HRVATSKA",TV Dubrovnik
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3819.ts
+#EXTINF:-1 group-title="HRVATSKA",Osjecka 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1207.ts
+#EXTINF:-1 group-title="HRVATSKA",Marry TV Medugorje
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29258.ts
+#EXTINF:-1 group-title="HRVATSKA",kanalR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/66467.ts
+#EXTINF:-1 group-title="HRVATSKA",Mreža tv Zagreb
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39477.ts
+#EXTINF:-1 group-title="HRVATSKA",CroTV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67281.ts
+#EXTINF:-1 group-title="HRVATSKA",Trend Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69886.ts
+#EXTINF:-1 group-title="HRVATSKA",Tv Zapad
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69895.ts
+#EXTINF:-1 group-title="HRVATSKA",Prigorska Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69903.ts
+#EXTINF:-1 group-title="HRVATSKA",Tv Sibenik
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71763.ts
+
+#EXTINF:-1 group-title="SPORT",MAXSport 1 SD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71739.ts
+#EXTINF:-1 group-title="SPORT",MAXSport 1 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2496.ts
+#EXTINF:-1 group-title="SPORT",MAXSport 2 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/61224.ts
+#EXTINF:-1 group-title="SPORT",Eurosport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/66.ts
+#EXTINF:-1 group-title="SPORT",Eurosport 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/34330.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39321.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/62.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/64.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39318.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/33.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/34.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 1 SL 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29776.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 2 SL 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29777.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 3 SL 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29779.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/205.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1202.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 6
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1626.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 7
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69870.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 8
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69871.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 9
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69872.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub 10
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69873.ts
+#EXTINF:-1 group-title="SPORT",Arena Premium 1 BiH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67283.ts
+#EXTINF:-1 group-title="SPORT",Arena Premium 2 BiH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67284.ts
+#EXTINF:-1 group-title="SPORT",Arena Premium 3 BiH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67285.ts
+#EXTINF:-1 group-title="SPORT",Arena Premium 1 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39440.ts
+#EXTINF:-1 group-title="SPORT",Arena Premium 2 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39441.ts
+#EXTINF:-1 group-title="SPORT",Arena Premium 3 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39439.ts
+#EXTINF:-1 group-title="SPORT",Arena Premium 1 SL
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/62594.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 BiH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/128.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 BiH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 BiH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 4 BiH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/31.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/27.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/192.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/193.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 4 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/194.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 5 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/645.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 6 HR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/37928.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 7 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35185.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 8 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35186.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 9 HR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35187.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 10 HR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35188.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/28.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 SR 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1043.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1044.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 4 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1045.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 5 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/66258.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 6 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/66259.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 7 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/70657.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 8 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/70658.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 9 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/70659.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 10 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/70660.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 1 SL
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/62590.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 2 SL
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/62591.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 3 SL
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/62592.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 4 SL
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/62593.ts
+#EXTINF:-1 group-title="SPORT",Arena ESport
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36410.ts
+#EXTINF:-1 group-title="SPORT",Arena Sport 1x2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/66260.ts
+#EXTINF:-1 group-title="SPORT",Sport SLO 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/206.ts
+#EXTINF:-1 group-title="SPORT",Sport SLO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/207.ts
+#EXTINF:-1 group-title="SPORT",Sport SLO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/208.ts
+#EXTINF:-1 group-title="SPORT",Nova Sport 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25463.ts
+#EXTINF:-1 group-title="SPORT",City TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29606.ts
+#EXTINF:-1 group-title="SPORT",SPTV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12622.ts
+#EXTINF:-1 group-title="SPORT",SOS Kanal
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/204.ts
+#EXTINF:-1 group-title="SPORT",Zvezda Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69875.ts
+#EXTINF:-1 group-title="SPORT",Tv Partizan
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69874.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub Golf
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68481.ts
+#EXTINF:-1 group-title="SPORT",Sport Klub Fight
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68480.ts
+#EXTINF:-1 group-title="SPORT",Arena Fight
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30491.ts
+#EXTINF:-1 group-title="SPORT",Fight Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/61.ts
+#EXTINF:-1 group-title="SPORT",Eurosport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3420.ts
+#EXTINF:-1 group-title="SPORT",Eurosport 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4096.ts
+#EXTINF:-1 group-title="SPORT",Dazn 1 SD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76836.ts
+#EXTINF:-1 group-title="SPORT",DAZN 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25971.ts
+#EXTINF:-1 group-title="SPORT",DAZN 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12615.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport News
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1184.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Top Event
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/147.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Tenis
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/149.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Mix
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25998.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport F 1 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/33079.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Golf
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23476.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Premier League
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23475.ts
+#EXTINF:-1 group-title="SPORT",Motorvision TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2876.ts
+#EXTINF:-1 group-title="SPORT",Auto Motor TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4281.ts
+#EXTINF:-1 group-title="SPORT",Blue Zoom
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/32061.ts
+#EXTINF:-1 group-title="SPORT",Blue Sport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/32062.ts
+#EXTINF:-1 group-title="SPORT",Blue Sport 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45123.ts
+#EXTINF:-1 group-title="SPORT",Sport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4103.ts
+#EXTINF:-1 group-title="SPORT",Sport 1+
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76565.ts
+#EXTINF:-1 group-title="SPORT",Sportdigital
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/40970.ts
+#EXTINF:-1 group-title="SPORT",ORF Sport+
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2875.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 1 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1164.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 2 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/61587.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/38539.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25996.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1166.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1167.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1168.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 6
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1169.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 7
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72619.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Bundesliga 8
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72620.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76558.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76559.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76560.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76561.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76562.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport 6
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76563.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Austria 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1119.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Austria 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30224.ts
+#EXTINF:-1 group-title="SPORT",Sky  Sport Austria 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30225.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Austria 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30226.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Austria 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/61307.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Austria 6
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/61308.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68315.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68316.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68317.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68318.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68319.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 6
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68320.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 7
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68322.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 8
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68323.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 9
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76582.ts
+#EXTINF:-1 group-title="SPORT",Magenta Sport 10
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76583.ts
+#EXTINF:-1 group-title="SPORT",RTL+ 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69342.ts
+#EXTINF:-1 group-title="SPORT",RTL+ 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69343.ts
+#EXTINF:-1 group-title="SPORT",RTL+ 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69344.ts
+#EXTINF:-1 group-title="SPORT",RTL+ 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69345.ts
+#EXTINF:-1 group-title="SPORT",RTL+ 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69346.ts
+#EXTINF:-1 group-title="SPORT",RTL+ 6
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69347.ts
+#EXTINF:-1 group-title="SPORT",Premijer Legue
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71274.ts
+#EXTINF:-1 group-title="SPORT",NBA TV HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24722.ts
+#EXTINF:-1 group-title="SPORT",Super Tennis HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2754.ts
+#EXTINF:-1 group-title="SPORT",BeIN Sports HD 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12644.ts
+#EXTINF:-1 group-title="SPORT",BeIN Sports HD 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12645.ts
+#EXTINF:-1 group-title="SPORT",BeIN Sports HD 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12646.ts
+#EXTINF:-1 group-title="SPORT",BeIN Sports HD 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12647.ts
+#EXTINF:-1 group-title="SPORT",BeIN Sports HD 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12648.ts
+#EXTINF:-1 group-title="SPORT",BeIN Sports HD 6
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12649.ts
+#EXTINF:-1 group-title="SPORT",BeIN Sports HD 7
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12650.ts
+#EXTINF:-1 group-title="SPORT",Bein Sports 1  FR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36407.ts
+#EXTINF:-1 group-title="SPORT",Bein Sports 2 FR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36408.ts
+#EXTINF:-1 group-title="SPORT",Bein Sports 3 FR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36409.ts
+#EXTINF:-1 group-title="SPORT",Supersport 1 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29739.ts
+#EXTINF:-1 group-title="SPORT",Supersport 2 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29740.ts
+#EXTINF:-1 group-title="SPORT",Supersport 3 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29741.ts
+#EXTINF:-1 group-title="SPORT",Supersport 4 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29742.ts
+#EXTINF:-1 group-title="SPORT",Supersport 5 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29743.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39886.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39887.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39888.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39889.ts
+#EXTINF:-1 group-title="SPORT",Orange Sport 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69800.ts
+#EXTINF:-1 group-title="SPORT",Orange Sport 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69802.ts
+#EXTINF:-1 group-title="SPORT",Orange Sport 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69803.ts
+#EXTINF:-1 group-title="SPORT",Orange Sport 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69804.ts
+#EXTINF:-1 group-title="SPORT",LIG TV 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39895.ts
+#EXTINF:-1 group-title="SPORT",LIG TV 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39896.ts
+#EXTINF:-1 group-title="SPORT",LIG TV 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39897.ts
+#EXTINF:-1 group-title="SPORT",LIG TV 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39898.ts
+#EXTINF:-1 group-title="SPORT",Eleven Sports 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67766.ts
+#EXTINF:-1 group-title="SPORT",Eleven Sports 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67767.ts
+#EXTINF:-1 group-title="SPORT",Eleven Sports 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67768.ts
+#EXTINF:-1 group-title="SPORT",Polsat Sport
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67770.ts
+#EXTINF:-1 group-title="SPORT",Polsat Sport Premium 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67771.ts
+#EXTINF:-1 group-title="SPORT",Polsat Sport Premium 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67772.ts
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67773.ts
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67774.ts
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71761.ts
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71762.ts
+#EXTINF:-1 group-title="SPORT",TV2 Sport
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69797.ts
+#EXTINF:-1 group-title="SPORT",TV2 Sport X
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69798.ts
+#EXTINF:-1 group-title="SPORT",TV3 Sport
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68705.ts
+#EXTINF:-1 group-title="SPORT",C More Live 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4444.ts
+#EXTINF:-1 group-title="SPORT",C More Live 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4445.ts
+#EXTINF:-1 group-title="SPORT",C More Live 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4446.ts
+#EXTINF:-1 group-title="SPORT",C More Live 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4447.ts
+#EXTINF:-1 group-title="SPORT",C More Fotboll
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/40569.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport News
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72627.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Foodball
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72625.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Arene
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72623.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Mix
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72624.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Golf
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72626.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport F1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71731.ts
+#EXTINF:-1 group-title="SPORT",Sky Sport Cricket
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72645.ts
+#EXTINF:-1 group-title="SPORT",Racing TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72646.ts
+#EXTINF:-1 group-title="SPORT",ESPN 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25466.ts
+#EXTINF:-1 group-title="SPORT",ESPN 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25465.ts
+#EXTINF:-1 group-title="SPORT",ESPN 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25464.ts
+#EXTINF:-1 group-title="SPORT",BT S 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39632.ts
+#EXTINF:-1 group-title="SPORT",BT S 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39633.ts
+#EXTINF:-1 group-title="SPORT",BT S 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39634.ts
+#EXTINF:-1 group-title="SPORT",Sport TV 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69683.ts
+#EXTINF:-1 group-title="SPORT",Sport TV 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69684.ts
+#EXTINF:-1 group-title="SPORT",Sport TV 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69685.ts
+#EXTINF:-1 group-title="SPORT",Sport TV 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69686.ts
+#EXTINF:-1 group-title="SPORT",Sport TV 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69687.ts
+#EXTINF:-1 group-title="SPORT",Eleven Sports 1 PT
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69688.ts
+#EXTINF:-1 group-title="SPORT",Eleven Sports 2 PT
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69689.ts
+#EXTINF:-1 group-title="SPORT",Eleven Sports 3 PT
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69690.ts
+#EXTINF:-1 group-title="SPORT",Fight Box
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73899.ts
+#EXTINF:-1 group-title="SPORT",Supersport Rugby
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/75452.ts
+#EXTINF:-1 group-title="SPORT",UFC Pass
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/75526.ts
+#EXTINF:-1 group-title="SPORT",Moto GP
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/75534.ts
+
+#EXTINF:-1 group-title="BIH",FTV HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/31733.ts
+#EXTINF:-1 group-title="BIH",BHT HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/214.ts
+#EXTINF:-1 group-title="BIH",Nova BH HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4.ts
+#EXTINF:-1 group-title="BIH",Face TV HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2469.ts
+#EXTINF:-1 group-title="BIH",HAYAT HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/40636.ts
+#EXTINF:-1 group-title="BIH",OBN HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/11.ts
+#EXTINF:-1 group-title="BIH",N1 BIH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29845.ts
+#EXTINF:-1 group-title="BIH",FTV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1.ts
+#EXTINF:-1 group-title="BIH",BHT 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2.ts
+#EXTINF:-1 group-title="BIH",Nova BH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/13939.ts
+#EXTINF:-1 group-title="BIH",Face TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/26.ts
+#EXTINF:-1 group-title="BIH",Hayat
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29454.ts
+#EXTINF:-1 group-title="BIH",Hayat Plus
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/546.ts
+#EXTINF:-1 group-title="BIH",OBN
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68600.ts
+#EXTINF:-1 group-title="BIH",BN
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68755.ts
+#EXTINF:-1 group-title="BIH",BN 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/32379.ts
+#EXTINF:-1 group-title="BIH",RTRS
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/96.ts
+#EXTINF:-1 group-title="BIH",ATV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/10.ts
+#EXTINF:-1 group-title="BIH",Al Jazeera Balkans
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/99.ts
+#EXTINF:-1 group-title="BIH",0 Kanal
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12.ts
+#EXTINF:-1 group-title="BIH",O Kanal Plus
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36411.ts
+#EXTINF:-1 group-title="BIH",MY tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/22820.ts
+#EXTINF:-1 group-title="BIH",Historija
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69403.ts
+#EXTINF:-1 group-title="BIH",Alfa Sarajevo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/13.ts
+#EXTINF:-1 group-title="BIH",TV Sarajevo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/234.ts
+#EXTINF:-1 group-title="BIH",TV Zenica
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1209.ts
+#EXTINF:-1 group-title="BIH",TV Igman
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/14.ts
+#EXTINF:-1 group-title="BIH",BIR TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/28677.ts
+#EXTINF:-1 group-title="BIH",Televizija 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1568.ts
+#EXTINF:-1 group-title="BIH",Sandzak TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1070.ts
+#EXTINF:-1 group-title="BIH",USK
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/676.ts
+#EXTINF:-1 group-title="BIH",TK
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3.ts
+#EXTINF:-1 group-title="BIH",BPK
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69412.ts
+#EXTINF:-1 group-title="BIH",HIT Brcko
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/650.ts
+#EXTINF:-1 group-title="BIH",RTV7
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71621.ts
+#EXTINF:-1 group-title="BIH",RTV Slon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/218.ts
+#EXTINF:-1 group-title="BIH",TV Kakanj
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/210.ts
+#EXTINF:-1 group-title="BIH",Kanal 6 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/9126.ts
+#EXTINF:-1 group-title="BIH",Smart tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/33158.ts
+#EXTINF:-1 group-title="BIH",NTV Amna
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/11265.ts
+#EXTINF:-1 group-title="BIH",RTV Maglaj
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/8409.ts
+#EXTINF:-1 group-title="BIH",Tatabrada TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1114.ts
+#EXTINF:-1 group-title="BIH",TV Posavina
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1074.ts
+#EXTINF:-1 group-title="BIH",TV Zivinice
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/65411.ts
+#EXTINF:-1 group-title="BIH",B1 Gradacac
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2485.ts
+#EXTINF:-1 group-title="BIH",RTV Sana
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/11587.ts
+#EXTINF:-1 group-title="BIH",RTV Cazin
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24947.ts
+#EXTINF:-1 group-title="BIH",TV Podrinje
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24511.ts
+#EXTINF:-1 group-title="BIH",Glas Drine
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1072.ts
+#EXTINF:-1 group-title="BIH",Neon TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36346.ts
+#EXTINF:-1 group-title="BIH",RTV Vogosca
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71117.ts
+#EXTINF:-1 group-title="BIH",Super Media TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/26000.ts
+#EXTINF:-1 group-title="BIH",K3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1851.ts
+#EXTINF:-1 group-title="BIH",TVIS
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/64139.ts
+#EXTINF:-1 group-title="BIH",RTV HB
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/32084.ts
+#EXTINF:-1 group-title="BIH",Jata tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/62989.ts
+#EXTINF:-1 group-title="BIH",Live Neum
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4097.ts
+#EXTINF:-1 group-title="BIH",Live Panonska
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/16819.ts
+#EXTINF:-1 group-title="BIH",Live Sarajevo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/16818.ts
+#EXTINF:-1 group-title="BIH",Live Kanjon Une
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30237.ts
+#EXTINF:-1 group-title="BIH",Live Tesanj
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/38497.ts
+#EXTINF:-1 group-title="BIH",Live Medina
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1624.ts
+#EXTINF:-1 group-title="BIH", Islam canel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35953.ts
+#EXTINF:-1 group-title="BIH",Saudi Kur an
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35955.ts
+
+#EXTINF:-1 group-title="SRBIJA",RTS 1 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39647.ts
+#EXTINF:-1 group-title="SRBIJA",RTS 2 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/17.ts
+#EXTINF:-1 group-title="SRBIJA",RTS 3 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1529.ts
+#EXTINF:-1 group-title="SRBIJA",Pink HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68555.ts
+#EXTINF:-1 group-title="SRBIJA",Prva HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25974.ts
+#EXTINF:-1 group-title="SRBIJA",Nova S HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29409.ts
+#EXTINF:-1 group-title="SRBIJA",Happy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25975.ts
+#EXTINF:-1 group-title="SRBIJA",b92 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39.ts
+#EXTINF:-1 group-title="SRBIJA",N1 SR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3775.ts
+#EXTINF:-1 group-title="SRBIJA",SUPERSTAR
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3985.ts
+#EXTINF:-1 group-title="SRBIJA",SUPERSTAR 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4293.ts
+#EXTINF:-1 group-title="SRBIJA",Prva TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30191.ts
+#EXTINF:-1 group-title="SRBIJA",Prva Plus
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/47.ts
+#EXTINF:-1 group-title="SRBIJA",Prva Files
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/19.ts
+#EXTINF:-1 group-title="SRBIJA",Prva Kick
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4739.ts
+#EXTINF:-1 group-title="SRBIJA",Prva Life
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29824.ts
+#EXTINF:-1 group-title="SRBIJA",Prva Max
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2848.ts
+#EXTINF:-1 group-title="SRBIJA",Prva World
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2828.ts
+#EXTINF:-1 group-title="SRBIJA",RTS 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30272.ts
+#EXTINF:-1 group-title="SRBIJA",RTS 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30274.ts
+#EXTINF:-1 group-title="SRBIJA",RTS Sat
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/361.ts
+#EXTINF:-1 group-title="SRBIJA",RTS Drama
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/7174.ts
+#EXTINF:-1 group-title="SRBIJA",RTS Trezor
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/7173.ts
+#EXTINF:-1 group-title="SRBIJA",RTS Zivot
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/7175.ts
+#EXTINF:-1 group-title="SRBIJA",RTS Kolo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73653.ts
+#EXTINF:-1 group-title="SRBIJA",RTS Poletarac
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73663.ts
+#EXTINF:-1 group-title="SRBIJA",Happy Drustvo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73641.ts
+#EXTINF:-1 group-title="SRBIJA",Happy Zivot
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73642.ts
+#EXTINF:-1 group-title="SRBIJA",Happy Zemlja
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73643.ts
+#EXTINF:-1 group-title="SRBIJA",K1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3821.ts
+#EXTINF:-1 group-title="SRBIJA",Blic tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/64142.ts
+#EXTINF:-1 group-title="SRBIJA",Una TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67963.ts
+#EXTINF:-1 group-title="SRBIJA",RTV 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1172.ts
+#EXTINF:-1 group-title="SRBIJA",RTV 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2837.ts
+#EXTINF:-1 group-title="SRBIJA",RTV Pazar
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/20.ts
+#EXTINF:-1 group-title="SRBIJA",Studio B
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1173.ts
+#EXTINF:-1 group-title="SRBIJA",Euronews Serbia
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/37917.ts
+#EXTINF:-1 group-title="SRBIJA",Kurir TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12617.ts
+#EXTINF:-1 group-title="SRBIJA",TSD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2540.ts
+#EXTINF:-1 group-title="SRBIJA",Agro tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/8412.ts
+#EXTINF:-1 group-title="SRBIJA",Yu Planet
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/70254.ts
+#EXTINF:-1 group-title="SRBIJA",Belle Ammi
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3856.ts
+#EXTINF:-1 group-title="SRBIJA",MLAVA TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2838.ts
+#EXTINF:-1 group-title="SRBIJA",Palma Plus
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/157.ts
+#EXTINF:-1 group-title="SRBIJA",TV Hram
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2787.ts
+#EXTINF:-1 group-title="SRBIJA",TV Jefimija
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30214.ts
+#EXTINF:-1 group-title="SRBIJA",TV Kraljevo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30215.ts
+#EXTINF:-1 group-title="SRBIJA",TV Krusevac
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30216.ts
+#EXTINF:-1 group-title="SRBIJA", TV Leskovac
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29825.ts
+#EXTINF:-1 group-title="SRBIJA",TV Bor
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25999.ts
+#EXTINF:-1 group-title="SRBIJA",TV Kladovo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2789.ts
+#EXTINF:-1 group-title="SRBIJA",TV ISTOK
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/15.ts
+#EXTINF:-1 group-title="SRBIJA",TV ISTOK 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2523.ts
+#EXTINF:-1 group-title="SRBIJA",TV Centar
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71823.ts
+#EXTINF:-1 group-title="SRBIJA",TV Pirot
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/74837.ts
+#EXTINF:-1 group-title="SRBIJA",TV Koreni
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/76475.ts
+#EXTINF:-1 group-title="SRBIJA",PINK HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/5.ts
+#EXTINF:-1 group-title="SRBIJA",Pink
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30275.ts
+#EXTINF:-1 group-title="SRBIJA",Pink BH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12616.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Vesti
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67719.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Film
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/6.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Serije
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/232.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Action
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/150.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Classic
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1182.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Comedy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/42.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Crime & Mystery
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/110.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Family
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/614.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Horror
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/108.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Movies
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1143.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Romance
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2796.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Sci-Fi & Fantasy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1412.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Thriller
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/111.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Western
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/49.ts
+#EXTINF:-1 group-title="SRBIJA",Pink World Cinema
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/153.ts
+#EXTINF:-1 group-title="SRBIJA",Red TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/37937.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Plus
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35958.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Extra
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1211.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Reality
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Kuvar
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/43.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Pedia
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1140.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Style
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1144.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Soap
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1214.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Show
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/211.ts
+#EXTINF:-1 group-title="SRBIJA",Pink Zabava
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2795.ts
+#EXTINF:-1 group-title="SRBIJA",Pink World
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1142.ts
+#EXTINF:-1 group-title="SRBIJA",Pink HA HA
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1161.ts
+#EXTINF:-1 group-title="SRBIJA",Pink LOL
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2612.ts
+#EXTINF:-1 group-title="SRBIJA",Zadruga Live 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24116.ts
+#EXTINF:-1 group-title="SRBIJA",Zadruga Live 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25891.ts
+#EXTINF:-1 group-title="SRBIJA",Zadruga Live 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/31811.ts
+#EXTINF:-1 group-title="SRBIJA",Zadruga Live 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/31812.ts
+
+#EXTINF:-1 group-title="SLOVENIJA",SLO 1 TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2379.ts
+#EXTINF:-1 group-title="SLOVENIJA",SLO 2 TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2628.ts
+#EXTINF:-1 group-title="SLOVENIJA",SLO 3 TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23262.ts
+#EXTINF:-1 group-title="SLOVENIJA",Planet Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2577.ts
+#EXTINF:-1 group-title="SLOVENIJA",Planet 2 Tv 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12755.ts
+#EXTINF:-1 group-title="SLOVENIJA",POP TV 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2576.ts
+#EXTINF:-1 group-title="SLOVENIJA",POP Brio
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4746.ts
+#EXTINF:-1 group-title="SLOVENIJA",Pop Kino 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3657.ts
+#EXTINF:-1 group-title="SLOVENIJA",Pop Oto
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3697.ts
+#EXTINF:-1 group-title="SLOVENIJA",Kanal A
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2627.ts
+#EXTINF:-1 group-title="SLOVENIJA",RTS Maribor
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23263.ts
+#EXTINF:-1 group-title="SLOVENIJA",Nova 24 TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23264.ts
+#EXTINF:-1 group-title="SLOVENIJA",TV VESELJAK
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23257.ts
+
+#EXTINF:-1 group-title="CRNA GORA",RTCG 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1080.ts
+#EXTINF:-1 group-title="CRNA GORA",RTCG 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2543.ts
+#EXTINF:-1 group-title="CRNA GORA",RTCG Sat
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71118.ts
+#EXTINF:-1 group-title="CRNA GORA",Prva M
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/9920.ts
+#EXTINF:-1 group-title="CRNA GORA",Nova M
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/23607.ts
+#EXTINF:-1 group-title="CRNA GORA",Pink M
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/159.ts
+#EXTINF:-1 group-title="CRNA GORA",TV Vijesti CG
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1623.ts
+#EXTINF:-1 group-title="CRNA GORA",TV 7
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2770.ts
+#EXTINF:-1 group-title="CRNA GORA",RTV Rozaje
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71120.ts
+#EXTINF:-1 group-title="CRNA GORA",RTCG Parlament
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71122.ts
+
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1186.ts
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4611.ts
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68077.ts
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 4
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68076.ts
+#EXTINF:-1 group-title="MAKEDONIJA",MRT 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68084.ts
+#EXTINF:-1 group-title="MAKEDONIJA",TV Sitel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1162.ts
+#EXTINF:-1 group-title="MAKEDONIJA",TV Telma
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1174.ts
+#EXTINF:-1 group-title="MAKEDONIJA",TV Kanal 5
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1406.ts
+#EXTINF:-1 group-title="MAKEDONIJA",TV Alfa
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1411.ts
+#EXTINF:-1 group-title="MAKEDONIJA",24 Vesti
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2792.ts
+#EXTINF:-1 group-title="MAKEDONIJA",Hugo 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68081.ts
+#EXTINF:-1 group-title="MAKEDONIJA",Hugo 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68082.ts
+#EXTINF:-1 group-title="MAKEDONIJA",Hugo 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68083.ts
+#EXTINF:-1 group-title="MAKEDONIJA",B1 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/9846.ts
+#EXTINF:-1 group-title="MAKEDONIJA",Tera TV HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29583.ts
+#EXTINF:-1 group-title="MAKEDONIJA",IN TV Avstralija
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29584.ts
+#EXTINF:-1 group-title="MAKEDONIJA",TV Sonce 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68079.ts
+#EXTINF:-1 group-title="MAKEDONIJA",Alsat M
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68080.ts
+#EXTINF:-1 group-title="MAKEDONIJA",V Kanal
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68086.ts
+#EXTINF:-1 group-title="MAKEDONIJA",Folk tv MK
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68078.ts
+
+#EXTINF:-1 group-title="FILM i GLAZBA",HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30519.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30520.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Imperija 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24800.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Toxic TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3823.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",IDJ TV HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1112.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",TV Sehara Music
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4264.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",UZIVOTEKA
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45114.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Kafansko Vece
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/70263.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Extra Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68474.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Hayat Music
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/51.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Hayat Folk
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/131.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",BN Music
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/46.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",DM Sat
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/26004.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Bravo Music
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35952.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Pink Folk 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/97.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Pink Folk 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/504.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Grand
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/21.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Grand 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1071.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",TV Sevdah
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/730.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Izvorna TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/231.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",OTV Valentino
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/152.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Valentino Music
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/32083.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Valentino Etno
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/32082.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",BMC Music
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/35956.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",BMC Etno
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69399.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CityPlay
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69400.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Toxic Folk
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/66261.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Duga TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/549.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",KCN 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/630.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",KCN 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/641.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",O Kanal Music
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36412.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",bravo!
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/74027.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",DMC Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69133.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Jugoton TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/251.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CMC
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/113.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Banovina 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1552.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Klape i Tambure
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69348.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Croatia Records
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69902.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Pink Hits
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4140.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Pink n Roll
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69401.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Balkanika
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/239.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Krone Hit
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69786.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",MTV Hits
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/16758.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",MTV 00s
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/50.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",MTV 80s
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69350.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",MTV 90s
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69349.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",MTV Club
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/16759.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",HBO
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/44.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",HBO 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",HBO 3
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1555.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cinemax
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/70.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cinemax  2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/126.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CineStar Premiere 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/36.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CineStar Premiere 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/37.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CineStar TV 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3851.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CineStar TV 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/37920.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CineStar Action
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2685.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CineStar Fantasy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/10444.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",CineStar Comedy
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/30492.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",FOX
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/178.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",FOX Movies
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25990.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Fox Life
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1378.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",FOX Crime
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1553.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",M1 Gold
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1351.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",M1 Film
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2494.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",M1 Family
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24936.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",TV 1000
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/705.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",AXN
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1181.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",AXN Spin
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69009.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",SciFi
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/8859.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cinemania
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/357.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cinema TV BH
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/174.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Time Out
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24603.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",PickboxTV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1630.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Kino TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4223.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",DIVA
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4224.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",AMC
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/9109.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",EPIC Drama
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24362.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Sehara TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29202.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Klasik TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/38.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Film Klub
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1073.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Euro Cinema 1
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68477.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Euro Cinema 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68478.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",HBO MAX
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45107.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 1 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45268.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 2 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45269.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 3 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45270.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 4 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45271.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 5 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45272.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 6 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45273.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 7 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45274.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 8 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45275.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 9 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45276.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Cine+Select 10 HD
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45277.ts
+#EXTINF:-1 group-title="FILM i GLAZBA",Lud Zbunjen Normalan
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68944.ts
+
+#EXTINF:-1 group-title="DJEČIJI",Baby TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/40217.ts
+#EXTINF:-1 group-title="DJEČIJI",Minimax
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/93.ts
+#EXTINF:-1 group-title="DJEČIJI",Mini Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/265.ts
+#EXTINF:-1 group-title="DJEČIJI",Nick Jr Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25986.ts
+#EXTINF:-1 group-title="DJEČIJI",Nick Jr 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68475.ts
+#EXTINF:-1 group-title="DJEČIJI",Nicktoons Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71269.ts
+#EXTINF:-1 group-title="DJEČIJI",Nicktoons
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/40979.ts
+#EXTINF:-1 group-title="DJEČIJI",Nickelodeon Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25987.ts
+#EXTINF:-1 group-title="DJEČIJI",Nickelodeon 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68476.ts
+#EXTINF:-1 group-title="DJEČIJI",Cartoon Network Hr.
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71267.ts
+#EXTINF:-1 group-title="DJEČIJI",Cartoon Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71113.ts
+#EXTINF:-1 group-title="DJEČIJI",Tnt Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/66257.ts
+#EXTINF:-1 group-title="DJEČIJI",Pink Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/266.ts
+#EXTINF:-1 group-title="DJEČIJI",Pink Super Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71270.ts
+#EXTINF:-1 group-title="DJEČIJI",Kazbuka
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71116.ts
+#EXTINF:-1 group-title="DJEČIJI",Pikaboo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/3854.ts
+#EXTINF:-1 group-title="DJEČIJI",Toon Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/8858.ts
+#EXTINF:-1 group-title="DJEČIJI",Hayatovci
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25970.ts
+#EXTINF:-1 group-title="DJEČIJI",Cartoonito
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71114.ts
+#EXTINF:-1 group-title="DJEČIJI",Rtl Kockica
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25997.ts
+#EXTINF:-1 group-title="DJEČIJI",Disney Chanel 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71109.ts
+#EXTINF:-1 group-title="DJEČIJI",Disney Junior 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71268.ts
+#EXTINF:-1 group-title="DJEČIJI",Dexy Tv
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67745.ts
+#EXTINF:-1 group-title="DJEČIJI",JimJam
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68479.ts
+#EXTINF:-1 group-title="DJEČIJI",HBO Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72614.ts
+#EXTINF:-1 group-title="DJEČIJI",Nova  Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67744.ts
+#EXTINF:-1 group-title="DJEČIJI",CoComelon
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69637.ts
+#EXTINF:-1 group-title="DJEČIJI",IDJ Kids
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68943.ts
+#EXTINF:-1 group-title="DJEČIJI",Looney Tunes 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/45122.ts
+#EXTINF:-1 group-title="DJEČIJI",Tom and Jerry
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67747.ts
+#EXTINF:-1 group-title="DJEČIJI",Psici u Ophodnji
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69630.ts
+#EXTINF:-1 group-title="DJEČIJI",Psici u ophodnji 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72028.ts
+#EXTINF:-1 group-title="DJEČIJI",Mickey Mouse
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/74173.ts
+#EXTINF:-1 group-title="DJEČIJI",Masa i Medo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67743.ts
+#EXTINF:-1 group-title="DJEČIJI",Pepa Prašcic
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/67746.ts
+#EXTINF:-1 group-title="DJEČIJI",Tri Mace
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69635.ts
+#EXTINF:-1 group-title="DJEČIJI",A Je To
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69632.ts
+#EXTINF:-1 group-title="DJEČIJI",Strumpfovi
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69633.ts
+#EXTINF:-1 group-title="DJEČIJI",Pingvini
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/69634.ts
+#EXTINF:-1 group-title="DJEČIJI",Mickey Mouse
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72012.ts
+#EXTINF:-1 group-title="DJEČIJI",Mr Magoo
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72013.ts
+#EXTINF:-1 group-title="DJEČIJI",Larva
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72014.ts
+#EXTINF:-1 group-title="DJEČIJI",Blippi
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72015.ts
+#EXTINF:-1 group-title="DJEČIJI",Lucky Luke
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72016.ts
+#EXTINF:-1 group-title="DJEČIJI",Alice i Lewis
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72017.ts
+#EXTINF:-1 group-title="DJEČIJI",SpongeBob
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72018.ts
+#EXTINF:-1 group-title="DJEČIJI",Pink Panther
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72019.ts
+#EXTINF:-1 group-title="DJEČIJI",Profesor Baltazar
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72020.ts
+#EXTINF:-1 group-title="DJEČIJI",Gormiti
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72021.ts
+#EXTINF:-1 group-title="DJEČIJI",MetaJets
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72022.ts
+#EXTINF:-1 group-title="DJEČIJI",Agent Binky
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72023.ts
+#EXTINF:-1 group-title="DJEČIJI",Bolek i Lolek
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72024.ts
+#EXTINF:-1 group-title="DJEČIJI",Nindza Kornjace
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72025.ts
+#EXTINF:-1 group-title="DJEČIJI",Kung-Fu Panda
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72026.ts
+#EXTINF:-1 group-title="DJEČIJI",Mr Bean
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/72029.ts
+#EXTINF:-1 group-title="DJEČIJI",Mickey Mouse
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73981.ts
+#EXTINF:-1 group-title="DJEČIJI",La Linea
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/73980.ts
+
+#EXTINF:-1 group-title="DOKU",National Geographic
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25978.ts
+#EXTINF:-1 group-title="DOKU",National Geographic Wild
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25977.ts
+#EXTINF:-1 group-title="DOKU",Discovery Channel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68.ts
+#EXTINF:-1 group-title="DOKU",Discovery ID
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25980.ts
+#EXTINF:-1 group-title="DOKU",Discovery Science
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25984.ts
+#EXTINF:-1 group-title="DOKU",Discovery XD 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/12788.ts
+#EXTINF:-1 group-title="DOKU",TLC
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/74.ts
+#EXTINF:-1 group-title="DOKU",Animal Planet
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25983.ts
+#EXTINF:-1 group-title="DOKU",Crime & Invvestigation
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25982.ts
+#EXTINF:-1 group-title="DOKU",History 
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2574.ts
+#EXTINF:-1 group-title="DOKU",History 2
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25981.ts
+#EXTINF:-1 group-title="DOKU",Viasat Nature
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4126.ts
+#EXTINF:-1 group-title="DOKU",Viasat History
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2797.ts
+#EXTINF:-1 group-title="DOKU",Viasat Explorer
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/1204.ts
+#EXTINF:-1 group-title="DOKU",Balkan Trip
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/4485.ts
+#EXTINF:-1 group-title="DOKU",Lov i Ribolov
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/65.ts
+#EXTINF:-1 group-title="DOKU",Travel Channel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/181.ts
+#EXTINF:-1 group-title="DOKU",Cbs Reality
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2836.ts
+#EXTINF:-1 group-title="DOKU",BBC Earth
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24373.ts
+#EXTINF:-1 group-title="DOKU",Planet Earth
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/24374.ts
+#EXTINF:-1 group-title="DOKU",Food Network
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/33261.ts
+#EXTINF:-1 group-title="DOKU",24 Kitchen
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/25985.ts
+#EXTINF:-1 group-title="DOKU",E! Entertainment
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/2572.ts
+#EXTINF:-1 group-title="DOKU",Woman TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/29455.ts
+#EXTINF:-1 group-title="DOKU",Doku TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/31853.ts
+#EXTINF:-1 group-title="DOKU",HGTV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/39108.ts
+#EXTINF:-1 group-title="DOKU",Nautical Channel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/71247.ts
+#EXTINF:-1 group-title="DOKU",Love Nature 4K
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/68948.ts
+#EXTINF:-1 group-title="DOKU",Fashion TV
+http://ottshow.net:80/live/xplanet739fdh/n5nRtO/9108.ts
 
 
 
 #crtani
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Abominable (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg" group-title="CRTANI",Abominable (2019)
 http://datacentar.org:80/movie/u7TdNPU3u3ft/svBpadqmqdqF/29841.mkv
