@@ -1,5 +1,5 @@
 
-#EXTM3U  x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
+#EXTM3U  #x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml" x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1261" tvg-name="HRT 1" tvg-logo="https://aviion-frontcdn.aviion.tv/18988b7176f2420d9584da7f2b1e2da4.png" group-title="Hrvatska",HRT 1
 http://caffe.link:25461/77startv88/BTpBEuTUyQwv/1261
