@@ -618,13 +618,7 @@ http://bntvs.com:2052/movie/zeljkobogicevic/04032022/30376.mp4
 
 
 
-
-
-
-
-
-
-
+#24/7
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | SKY MARVEL UNIVERSE" tvg-logo="http://tv.luzer.org:8080/images/0e561187d51609f59a35e1079f062c7a.png" group-title="KANALI 24/7",24/7 | SKY MARVEL UNIVERSE
 http://anotv.org:80/proba/proba/10105
@@ -670,6 +664,284 @@ http://anotv.org:80/proba/proba/10126
 http://anotv.org:80/proba/proba/10128
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LUD ZBUNJEN NORMALAN" tvg-logo="http://tv.luzer.org:8080/images/658564d265bd8f0dcb8b8f0aac57bf4b.png" group-title="KANALI 24/7",24/7 | LUD ZBUNJEN NORMALAN
 http://anotv.org:80/proba/proba/10129
+
+
+#4k/hd
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",*** NOVI FILMOVI ***
+SKIP
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",*** S PREVODOM ***
+SKIP
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",*** U 4K i HD KVALITETI ***
+SKIP
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",*** BY BBsoftZELINA ***
+SKIP
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Equalizer 3 (2023)
+http://content.bilosta.org/4k/493657.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Equalizer 3 (2023)
+http://content2.bilosta.org/DISK2/filmovi/493657.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Gran Turismo (2023)
+http://content.bilosta.org/4k/765200.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Gran Turismo (2023)
+http://content2.bilosta.org/DISK2/filmovi/765200.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Retribution (2023)
+http://content.bilosta.org/4k/282158.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Retribution (2023)
+http://content2.bilosta.org/DISK2/filmovi/282158.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Barbie (2023)
+http://content.bilosta.org/4k/563496.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Barbie (2023)
+http://content2.bilosta.org/DISK2/filmovi/563496.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
+http://content.bilosta.org/4k/761630.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
+http://content2.bilosta.org/DISK2/filmovi/761630.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Indiana Jones and the Dial of Destiny (2023)
+http://content.bilosta.org/4k/370512.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Indiana Jones and the Dial of Destiny (2023)
+http://content2.bilosta.org/DISK2/filmovi/370512.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Meg 2: The Trench (2023)
+http://content.bilosta.org/4k/545173.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Meg 2: The Trench (2023)
+http://content2.bilosta.org/DISK2/filmovi/545173.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Three Musketeers: D'Artagnan (2023)
+http://content.bilosta.org/4k/172314.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Three Musketeers: D'Artagnan (2023)
+http://content2.bilosta.org/DISK2/filmovi/172314.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Heart Of Stone (2023)
+http://content.bilosta.org/4k/354050.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Heart Of Stone (2023)
+http://content2.bilosta.org/DISK2/filmovi/354050.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Flash (2023)
+http://content.bilosta.org/4k/533808.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Flash (2023)
+http://content2.bilosta.org/DISK2/filmovi/533808.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Transformers: Rise of the Beasts (2023)
+http://content.bilosta.org/4k/789972.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Transformers: Rise of the Beasts (2023)
+http://content2.bilosta.org/DISK2/filmovi/789972.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Guardians of the Galaxy Vol. 3 (2023)
+http://content.bilosta.org/4k/141773.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Guardians of the Galaxy Vol. 3 (2023)
+http://content2.bilosta.org/DISK2/filmovi/141773.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Extraction II (2023)
+http://content.bilosta.org/4k/532152.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Extraction II (2023)
+http://content2.bilosta.org/DISK2/filmovi/532152.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Kandahar(2023)
+http://content.bilosta.org/4k/834418.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Kandahar(2023)
+http://content2.bilosta.org/DISK2/filmovi/834418.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Fast X (2023)
+http://content.bilosta.org/4k/221736.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Fast X (2023)
+http://content2.bilosta.org/DISK2/klasici/221736.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Sisu (2023)
+http://content.bilosta.org/4k/860884.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Sisu (2023)
+http://content2.drycloth.org/DISK2/filmovi/860884.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Hypnotic (2023)
+http://content.bilosta.org/4k/206238.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Hypnotic (2023)
+http://content2.drycloth.org/DISK2/filmovi/206238.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*GoodFellas (1990)
+http://content.bilosta.org/4k/200062.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD GoodFellas (1990)
+http://content2.drycloth.org/DISK2/filmovi/200062.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*John Wick 4 (2023)
+http://content.bilosta.org/4k/817060.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD John Wick 4 (2023)
+http://content2.drycloth.org/DISK2/filmovi/817060.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Mother (2023)
+http://content.bilosta.org/4k/303712.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Mother (2023)
+http://content2.drycloth.org/DISK2/filmovi/303712.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Super Mario Bros (2023)
+http://content.bilosta.org/4k/796452.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Super Mario Bros (2023)
+http://content2.drycloth.org/DISK2/filmovi/796452.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Air (2023)
+http://content.bilosta.org/4k/211770.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Air (2023)
+http://content2.drycloth.org/DISK2/filmovi/211770.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Covenant (2023)
+http://content.bilosta.org/4k/602581.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Covenant (2023)
+http://content2.drycloth.org/DISK2/filmovi/602581.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*A Man Called Otto (2023)
+http://content.bilosta.org/4k/231018.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD A Man Called Otto (2023)
+http://content2.drycloth.org/DISK2/filmovi/231018.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Dungeons and Dragons: Honor Among Thieves (2023)
+http://content.bilosta.org/4k/884859.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Dungeons and Dragons: Honor Among Thieves (2023)
+http://content2.drycloth.org/DISK2/filmovi/884859.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Pope's Exorcist (2023)
+http://content.bilosta.org/4k/799243.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Pope's Exorcist (2023)
+http://content2.drycloth.org/DISK2/filmovi/799243.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Scream VI (2023)
+http://content.bilosta.org/4k/635318.mkv<
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Scream VI (2023)
+http://content2.drycloth.org/DISK2/filmovi/635318.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Ant-Man and the Wasp: Quantumania (2023)
+http://content.bilosta.org/4k/415250.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Ant-Man and the Wasp: Quantumania (2023)
+http://content2.drycloth.org/DISK2/filmovi/415250.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*65 (2023)
+http://content.bilosta.org/4k/166474.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD 65 (2023)
+http://content2.drycloth.org/DISK2/filmovi/166474.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Shazam! Fury of the Gods (2023)
+http://content.bilosta.org/4k/235972.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Shazam! Fury of the Gods (2023)
+http://content2.drycloth.org/DISK2/filmovi/235972.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Creed III (2023)
+http://content.bilosta.org/4k/963410.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Creed III (2023)
+http://content2.drycloth.org/DISK2/filmovi/963410.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Avatar The Way of Water (2023)
+http://content.bilosta.org/4k/609243.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Avatar The Way of Water (2023)
+http://content2.drycloth.org/DISK2/filmovi/609243.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Boston Strangler (2023)
+http://content.bilosta.org/4k/486365.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Boston Strangler (2023)
+http://content2.drycloth.org/DISK2/filmovi/486365.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Luther The Fallen Sun (2023)
+http://content.bilosta.org/4k/797468.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Luther The Fallen Sun (2023)
+http://content2.drycloth.org/DISK2/filmovi/797468.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Ritual Killer (2023)
+http://content.bilosta.org/4k/385935.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Ritual Killer (2023)
+http://content2.drycloth.org/DISK2/filmovi/385935.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Everything Everywhere All at Once (2022)
+http://content.bilosta.org/4k/498466.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Everything Everywhere All at Once (2022)
+http://content2.drycloth.org/DISK2/filmovi/498466.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Sharper (2023)
+http://content.bilosta.org/4k/140972.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Sharper (2023)
+http://content2.drycloth.org/DISK2/filmovi/140972.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Plane (2023)
+http://content.bilosta.org/4k/891089.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Plane (2023)
+http://content2.drycloth.org/DISK2/filmovi/891089.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Black Panther Wakanda Forever (2022)
+http://content.bilosta.org/4k/715869.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Black Panther Wakanda Forever (2022)
+http://content2.drycloth.org/DISK2/filmovi/715869.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Black Adam (2022)
+http://content.bilosta.org/4k/767797.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Black Adam (2022)
+http://content2.drycloth.org/DISK2/filmovi/767797.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Tomorrow War (2021)
+http://content.bilosta.org/4k/925243.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Tomorrow War (2021)
+http://content2.drycloth.org/DISK2/filmovi/925243.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Thor: Love and Thunder (2022)
+http://content.bilosta.org/4k/972215.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Thor: Love and Thunder (2022)
+http://content2.drycloth.org/DISK2/filmovi/972215.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Spider-Man No Way Home (2021)
+http://content.bilosta.org/4k/485614.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD Spider-Man No Way Home (2021)
+http://content2.drycloth.org/DISK2/filmovi/485614.mkv
+
+
+
 
 
 
