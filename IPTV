@@ -655,9 +655,10 @@ http://anotv.org:80/proba/proba/10128
 http://anotv.org:80/proba/proba/10129
 
 
+
+
+
 #4k/hd
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",*** NOVI FILMOVI ***
 SKIP
@@ -674,9 +675,8 @@ SKIP
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*The Equalizer 3 (2023)
 http://content.bilosta.org/4k/493657.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Equalizer 3 (2023)
+#EXTINF:-1 tvg-name="HD The Equalizer 3 (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",HD The Equalizer 3 (2023)
 http://content2.bilosta.org/DISK2/filmovi/493657.mkv
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K/HD NOVI FILMOVI",4K*Gran Turismo (2023)
 http://content.bilosta.org/4k/765200.mkv
 
