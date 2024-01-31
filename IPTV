@@ -774,6 +774,9 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 #maxsport1
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://ottshow.net:80/stipancevic1160/Milos16-OK/2496
+
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://tv.trexiptv.com:80/serafimovskivlatko/vlatkoskopje/1107495
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
@@ -781,6 +784,7 @@ http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/17176
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://livebalkan.com:8080/IsmirMirvic/5s2eb7dUzb/5206
+
 
 
 
@@ -4602,20 +4606,16 @@ http://caffe.link:25461/movie/11Next-tv1/DFZcON5AL0/114689.mkv
 #otv+zelinatv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://alternator.pro:80/live/Nez23R/Res20N/4537.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://alternator.pro:80/live/Valentina.77z/Reactor102030/4537.ts
+http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://caffe.link:25461/956bassem/BHrMOpKtyb/6873
+http://bntvs.com:2052/slobodanmomic/354455825/8520
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://dujpral.ddns.me:82/ISMETTVMLI/qzebJcWeed/36211
-
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://caffe.link:25461/dreamteam/m8K3hU45zD/6873
+http://bntvs.com:2052/zeljkobogicevic/04032022/8520
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
@@ -4624,57 +4624,13 @@ http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
 http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/10253
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://alternator.pro:80/live/Nez23R/Res20N/69903.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://alternator.pro:80/live/Valentina.77z/Reactor102030/69903.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://smartntv.pro:25461/Fadilrazmjenee23/qGqF!=PR6B7nq=kl!dhz3NXaf/13826
-
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://dujpral.ddns.me:82/ISMETTVMLI/qzebJcWeed/83817
-
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
 http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/23883
 
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
+http://ottshow.net:80/stipancevic1160/Milos16-OK/69903
 
-
-#24/7 kanali
-
-
-#EXTINF:-1 group-title="KANALI 24/7",LUD ZBUNJEN NORMALAN
-http://dujpral.ddns.me:82/ISMETTVMLI/qzebJcWeed/2622
-
-#EXTINF:-1 group-title="KANALI 24/7",MAŠA I MEDO
-http://dujpral.ddns.me:82/ISMETTVMLI/qzebJcWeed/1886
-
-#EXTINF:-1 group-title="KANALI 24/7",TOM I ĐERI
-http://dujpral.ddns.me:82/ISMETTVMLI/qzebJcWeed/1889
-
-#EXTINF:-1 group-title="KANALI 24/7",TOM I ĐERI
-http://dujpral.ddns.me:82/ISMETTVMLI/qzebJcWeed/3415
-
-#EXTINF:-1 group-title="KANALI 24/7",LOONEY TUNES
-http://alternator.pro:80/Tibor-Denih67/Denih67/45122
-
-#EXTINF:-1 group-title="KANALI 24/7",TOM I ĐERI
-http://alternator.pro:80/Tibor-Denih67/Denih67/67747
-
-#EXTINF:-1 group-title="KANALI 24/7",PSIĆI U OPHODNJI
-http://alternator.pro:80/Tibor-Denih67/Denih67/69630
-
-#EXTINF:-1 group-title="KANALI 24/7",PSIĆI U OPHODNJI 2
-http://alternator.pro:80/Tibor-Denih67/Denih67/72028
-
-#EXTINF:-1 group-title="KANALI 24/7",A JE TO
-http://alternator.pro:80/Tibor-Denih67/Denih67/69632
-
-#EXTINF:-1 group-title="KANALI 24/7",MR. BEAN
-http://alternator.pro:80/Tibor-Denih67/Denih67/72029
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
+http://alternator.pro:80/AdemSk23/AdemSk23/69903
 
 
 # end
