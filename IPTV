@@ -769,12 +769,10 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
 
-
-
 #maxsport1
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://ottshow.net:80/stipancevic1160/Milos16-OK/2496
+http://ottshow.net:80/SOVO-Olga5/n3rpRASe5/2496
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://tv.trexiptv.com:80/serafimovskivlatko/vlatkoskopje/1107495
@@ -784,8 +782,6 @@ http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/17176
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://livebalkan.com:8080/IsmirMirvic/5s2eb7dUzb/5206
-
-
 
 
 
@@ -4606,8 +4602,6 @@ http://caffe.link:25461/movie/11Next-tv1/DFZcON5AL0/114689.mkv
 #otv+zelinatv
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
 
@@ -4627,10 +4621,11 @@ http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/10253
 http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/23883
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://ottshow.net:80/stipancevic1160/Milos16-OK/69903
+http://ottshow.net:80/SOVO-Olga5/n3rpRASe5/69903
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
 http://alternator.pro:80/AdemSk23/AdemSk23/69903
+
 
 
 # end
