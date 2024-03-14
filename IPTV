@@ -1774,6 +1774,8 @@ http://caffe.link:25461/movie/11Next-tv1/DFZcON5AL0/86429.mkv
 
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
 
@@ -1784,16 +1786,19 @@ http://bntvs.com:2052/slobodanmomic/354455825/8520
 http://bntvs.com:2052/zeljkobogicevic/04032022/8520
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/10253
+http://37241037218790881.ofd0310ax.xyz:80/play/ja812348/jCtJ9XRgtA8/790881.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+http://mart.maxones.xyz/live/vi722000/XujngJYMTAg/790881.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
+http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5iSmdIjeMPCrpXfqeQozxJ/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
 http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/13826
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
 http://smartntv.pro:25461/Fadilrazmjenee23/qGqF!=PR6B7nq=kl!dhz3NXaf/13826
-
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://tv.nett-tv.org:80/44Jurica55Cvenic/XKDcExtFLB/23883
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
 http://alternator.pro:80/AdemSk23/AdemSk23/69903
