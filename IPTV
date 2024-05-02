@@ -2393,6 +2393,36 @@ http://filmovizija.ddns.me:25461/movie/FILIPVOD/2UxYUqxhhmTs/83905.mp4
 http://filmovizija.ddns.me:25461/movie/FILIPVOD/2UxYUqxhhmTs/83907.mp4
 
 
+#domaci filmovi
+
+
+#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200"  group-title="DOMAČI_FILMOVI",*** DOMAČI FILMOVI ***
+skip
+
+#EXTINF:-1  tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200" group-title="DOMAČI_FILMOVI",LISINSKI (1944)
+https://www.youtube.com/embed/09oEWrtOzw8
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BYWEzODRjNDUtMzU5ZC00MzljLTkzNjUtZGI0NDZjYjVlMWI4XkEyXkFqcGdeQXVyMjU0MjU2MjI@._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="DOMAČI_FILMOVI",BARBA ŽVANE (1947)
+https://www.youtube.com/embed/eOCnWVK2Z4E
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3ODQyOGQtZjkwMi00Y2NjLTllMDQtNzQzODc4NTQ3Yzg5XkEyXkFqcGdeQXVyMjQ5MDQ3MDg@._V1_.jpg" group-title="DOMAČI_FILMOVI",SVOGA TELA GOSPODAR (1957)
+https://www.youtube.com/embed/0iXG1M-tmOU
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY1MzA0Y2ItOWUwMy00ZDA1LWI1NGQtMDlhYjBkYzRiNTVmXkEyXkFqcGdeQXVyMjI2NDIxNjI@._V1_.jpg" group-title="DOMAČI_FILMOVI",TKO PJEVA ZLO NE MISLI (1970)
+https://www.youtube.com/embed/43e941mr-bk
+
+#EXTINF:-1 group-title="DOMAČI_FILMOVI" tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200" ,NE OKREČI SE SINE (1956)
+https://www.youtube.com/embed/rJzfir4idFw
+
+#EXTINF:-1 group-title="DOMAČI_FILMOVI" tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200" ,U GORI RASTE ZELEN BOR (1974)
+https://www.youtube.com/embed/r9YRies1i6g
+
+#EXTINF:-1 group-title="DOMAČI_FILMOVI" tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200",KAD MRTVI ZAPJEVAJU (1998)
+https://www.youtube.com/embed/NeaF3j3cmTs
+
+
+
+
 
 
 
