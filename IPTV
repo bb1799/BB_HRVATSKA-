@@ -586,18 +586,21 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 #maxsport1
 
 
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://smartntv.pro:25461/Fadilrazmjenee23/qGqF!=PR6B7nq=kl!dhz3NXaf/26254
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://tv.trexiptv.com:80/serafimovskivlatko/vlatkoskopje/1107495
-
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://live.nettv.pro/live/Samir1/123samir/56215.ts
+http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/26254
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://bntvs.com:2052/live/zeljkobogicevic/04032022/23998.ts
 
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://bntvs.com:2052/slobodanmomic/354455825/23998
+
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
+http://g-med.xyz:25461/live/popovic.marijana/wDKsMkGOyE/21962.ts
+
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://magovi.uk:8000/benjaminbrzovic/benjamin123/26688
 
 
 
@@ -1772,8 +1775,6 @@ http://caffe.link:25461/movie/11Next-tv1/DFZcON5AL0/86429.mkv
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
 
@@ -1784,10 +1785,10 @@ http://bntvs.com:2052/slobodanmomic/354455825/8520
 http://bntvs.com:2052/zeljkobogicevic/04032022/8520
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://37241037218790881.ofd0310ax.xyz:80/play/ja812348/jCtJ9XRgtA8/790881.ts
+http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5PvgaYvYtzwwVvcyNkwObF/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://mart.maxones.xyz/live/vi722000/XujngJYMTAg/790881.ts
+http://caffe.link:25461/200JaskoH/DlDBvg4x1F/6873
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
 http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5iSmdIjeMPCrpXfqeQozxJ/ts
@@ -1796,10 +1797,8 @@ http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5iSmdIjeM
 http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/13826
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://smartntv.pro:25461/Fadilrazmjenee23/qGqF!=PR6B7nq=kl!dhz3NXaf/13826
+http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5iSmdIjeMPCrpXfqeQozxJ/ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://alternator.pro:80/AdemSk23/AdemSk23/69903
 
 
 
