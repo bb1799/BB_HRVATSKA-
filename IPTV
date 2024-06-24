@@ -148,12 +148,14 @@ http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(Hx
 http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/26254
 #EXTINF:-1 tvg-id="maxsport-2" tvg-name="MaxSport 2 ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/maxisp2.png" group-title="⚽⚽ Sport ⚽⚽",MaxSport 2 ғʜᴅ
 http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/26255
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SportKlub 1 HR ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk1hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 1 HR ғʜᴅ
-http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/13439
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="SportKlub 2 HR ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk2hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 2 HR ғʜᴅ
-http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/31879
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SportKlub 3 HR ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk3hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub 3 HR ғʜᴅ
-http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/13444
+
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="Sport Klub 1 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="⚽⚽ Sport ⚽⚽",Sport Klub 1 HR
+http://bntvs.com:2052/zeljkobogicevic/04032022/8627
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="Sport Klub 2 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="⚽⚽ Sport ⚽⚽",Sport Klub 2 HR
+http://bntvs.com:2052/zeljkobogicevic/04032022/8628
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="Sport Klub 3 HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="⚽⚽ Sport ⚽⚽",Sport Klub 3 HR
+http://bntvs.com:2052/zeljkobogicevic/04032022/8629
+
 #EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SportKlub1 Hr" tvg-logo="http://smartntv.pro/logokanali/sport/skk1hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub1 Hr
 http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/31878
 #EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SportKlub3Hr" tvg-logo="http://smartntv.pro/logokanali/sport/skk3hr.png" group-title="⚽⚽ Sport ⚽⚽",SportKlub3Hr
