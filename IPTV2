@@ -1,19 +1,18 @@
 
 
-#EXTM3U  #x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#x-tvg-url = "http://cdn.iptvhr.net/tvdata/guide.xml"
-x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
-#EXTINF:-1 tvg-id="htv1" tvg-name="HR 1" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HR 1
+#EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HRT 1
 http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/38
-#EXTINF:-1 tvg-id="100.hr" tvg-name="HR 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HR 1 BACKUP
+#EXTINF:-1 tvg-id="100.hr" tvg-name="HRT 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HRT 1 BACKUP
 http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/1140
-#EXTINF:-1 tvg-id="htv2" tvg-name="HR 2 " tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HR 2 
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HRT 2 
 http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/4118
-#EXTINF:-1 tvg-id="htv2" tvg-name="HR 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HR 2 BACKUP
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT2.png" group-title="HRVATSKA",HRT 2 BACKUP
 http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/20009
-#EXTINF:-1 tvg-id="htv3" tvg-name="HR 3" tvg-logo="http://live.nettv.pro/icons/HRT3.png" group-title="HRVATSKA",HR 3
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="http://live.nettv.pro/icons/HRT3.png" group-title="HRVATSKA",HRT 3
 http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/40
-#EXTINF:-1 tvg-id="htv4" tvg-name="HR 4 " tvg-logo="http://live.nettv.pro/icons/HRT4.png" group-title="HRVATSKA",HR 4 
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 " tvg-logo="http://live.nettv.pro/icons/HRT4.png" group-title="HRVATSKA",HRT 4 
 http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/41
 #EXTINF:-1 tvg-id="htv5" tvg-name="HRT INT" tvg-logo="http://super-tvnow.com:80/images/9ead3b566c73da2df200ddf045c83219.png" group-title="HRVATSKA",HRT INT
 http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/1033
