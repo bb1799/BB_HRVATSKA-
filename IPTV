@@ -589,6 +589,9 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
 
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
+http://luxury-iptv.com/live/Edo_Jusic/N9eyU3zPsL/12540.ts
+
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/26254
 
@@ -598,287 +601,191 @@ http://bntvs.com:2052/live/zeljkobogicevic/04032022/23998.ts
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://bntvs.com:2052/slobodanmomic/354455825/23998
 
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://g-med.xyz:25461/live/popovic.marijana/wDKsMkGOyE/21962.ts
 
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://magovi.uk:8000/benjaminbrzovic/benjamin123/26688
 
 
 
-
-#4k-hd filmovi
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",*** NOVI FILMOVI ***
-SKIP
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",*** S PREVODOM ***
-SKIP
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",*** U 4K i HD KVALITETI ***
-SKIP
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",*** BY BBsoftZELINA ***
-SKIP
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Equalizer 3 (2023)
-http://content.bilosta.org/4k/493657.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Equalizer 3 (2023)
-http://content2.bilosta.org/DISK2/filmovi/493657.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Gran Turismo (2023)
-http://content.bilosta.org/4k/765200.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Gran Turismo (2023)
-http://content2.bilosta.org/DISK2/filmovi/765200.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Retribution (2023)
-http://content.bilosta.org/4k/282158.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Retribution (2023)
-http://content2.bilosta.org/DISK2/filmovi/282158.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Barbie (2023)
-http://content.bilosta.org/4k/563496.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Barbie (2023)
-http://content2.bilosta.org/DISK2/filmovi/563496.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
-http://content.bilosta.org/4k/761630.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
-http://content2.bilosta.org/DISK2/filmovi/761630.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Indiana Jones and the Dial of Destiny (2023)
-http://content.bilosta.org/4k/370512.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Indiana Jones and the Dial of Destiny (2023)
-http://content2.bilosta.org/DISK2/filmovi/370512.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Meg 2: The Trench (2023)
-http://content.bilosta.org/4k/545173.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Meg 2: The Trench (2023)
-http://content2.bilosta.org/DISK2/filmovi/545173.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Three Musketeers: D'Artagnan (2023)
-http://content.bilosta.org/4k/172314.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Three Musketeers: D'Artagnan (2023)
-http://content2.bilosta.org/DISK2/filmovi/172314.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Heart Of Stone (2023)
-http://content.bilosta.org/4k/354050.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Heart Of Stone (2023)
-http://content2.bilosta.org/DISK2/filmovi/354050.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Flash (2023)
-http://content.bilosta.org/4k/533808.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Flash (2023)
-http://content2.bilosta.org/DISK2/filmovi/533808.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Transformers: Rise of the Beasts (2023)
-http://content.bilosta.org/4k/789972.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Transformers: Rise of the Beasts (2023)
-http://content2.bilosta.org/DISK2/filmovi/789972.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Guardians of the Galaxy Vol. 3 (2023)
-http://content.bilosta.org/4k/141773.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Guardians of the Galaxy Vol. 3 (2023)
-http://content2.bilosta.org/DISK2/filmovi/141773.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Extraction II (2023)
-http://content.bilosta.org/4k/532152.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Extraction II (2023)
-http://content2.bilosta.org/DISK2/filmovi/532152.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Kandahar(2023)
-http://content.bilosta.org/4k/834418.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Kandahar(2023)
-http://content2.bilosta.org/DISK2/filmovi/834418.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Fast X (2023)
-http://content.bilosta.org/4k/221736.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Fast X (2023)
-http://content2.bilosta.org/DISK2/klasici/221736.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Sisu (2023)
-http://content.bilosta.org/4k/860884.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Sisu (2023)
-http://content2.drycloth.org/DISK2/filmovi/860884.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Hypnotic (2023)
-http://content.bilosta.org/4k/206238.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Hypnotic (2023)
-http://content2.drycloth.org/DISK2/filmovi/206238.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*GoodFellas (1990)
-http://content.bilosta.org/4k/200062.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD GoodFellas (1990)
-http://content2.drycloth.org/DISK2/filmovi/200062.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*John Wick 4 (2023)
-http://content.bilosta.org/4k/817060.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD John Wick 4 (2023)
-http://content2.drycloth.org/DISK2/filmovi/817060.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Mother (2023)
-http://content.bilosta.org/4k/303712.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Mother (2023)
-http://content2.drycloth.org/DISK2/filmovi/303712.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Super Mario Bros (2023)
-http://content.bilosta.org/4k/796452.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Super Mario Bros (2023)
-http://content2.drycloth.org/DISK2/filmovi/796452.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Air (2023)
-http://content.bilosta.org/4k/211770.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Air (2023)
-http://content2.drycloth.org/DISK2/filmovi/211770.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Covenant (2023)
-http://content.bilosta.org/4k/602581.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Covenant (2023)
-http://content2.drycloth.org/DISK2/filmovi/602581.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*A Man Called Otto (2023)
-http://content.bilosta.org/4k/231018.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD A Man Called Otto (2023)
-http://content2.drycloth.org/DISK2/filmovi/231018.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Dungeons and Dragons: Honor Among Thieves (2023)
-http://content.bilosta.org/4k/884859.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Dungeons and Dragons: Honor Among Thieves (2023)
-http://content2.drycloth.org/DISK2/filmovi/884859.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Pope's Exorcist (2023)
-http://content.bilosta.org/4k/799243.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Pope's Exorcist (2023)
-http://content2.drycloth.org/DISK2/filmovi/799243.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Scream VI (2023)
-http://content.bilosta.org/4k/635318.mkv<
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Scream VI (2023)
-http://content2.drycloth.org/DISK2/filmovi/635318.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Ant-Man and the Wasp: Quantumania (2023)
-http://content.bilosta.org/4k/415250.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Ant-Man and the Wasp: Quantumania (2023)
-http://content2.drycloth.org/DISK2/filmovi/415250.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*65 (2023)
-http://content.bilosta.org/4k/166474.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD 65 (2023)
-http://content2.drycloth.org/DISK2/filmovi/166474.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Shazam! Fury of the Gods (2023)
-http://content.bilosta.org/4k/235972.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Shazam! Fury of the Gods (2023)
-http://content2.drycloth.org/DISK2/filmovi/235972.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Creed III (2023)
-http://content.bilosta.org/4k/963410.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Creed III (2023)
-http://content2.drycloth.org/DISK2/filmovi/963410.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Avatar The Way of Water (2023)
-http://content.bilosta.org/4k/609243.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Avatar The Way of Water (2023)
-http://content2.drycloth.org/DISK2/filmovi/609243.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Boston Strangler (2023)
-http://content.bilosta.org/4k/486365.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Boston Strangler (2023)
-http://content2.drycloth.org/DISK2/filmovi/486365.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Luther The Fallen Sun (2023)
-http://content.bilosta.org/4k/797468.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Luther The Fallen Sun (2023)
-http://content2.drycloth.org/DISK2/filmovi/797468.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Ritual Killer (2023)
-http://content.bilosta.org/4k/385935.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Ritual Killer (2023)
-http://content2.drycloth.org/DISK2/filmovi/385935.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Everything Everywhere All at Once (2022)
-http://content.bilosta.org/4k/498466.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Everything Everywhere All at Once (2022)
-http://content2.drycloth.org/DISK2/filmovi/498466.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Sharper (2023)
-http://content.bilosta.org/4k/140972.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Sharper (2023)
-http://content2.drycloth.org/DISK2/filmovi/140972.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Plane (2023)
-http://content.bilosta.org/4k/891089.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Plane (2023)
-http://content2.drycloth.org/DISK2/filmovi/891089.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Black Panther Wakanda Forever (2022)
-http://content.bilosta.org/4k/715869.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Black Panther Wakanda Forever (2022)
-http://content2.drycloth.org/DISK2/filmovi/715869.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Black Adam (2022)
-http://content.bilosta.org/4k/767797.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Black Adam (2022)
-http://content2.drycloth.org/DISK2/filmovi/767797.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*The Tomorrow War (2021)
-http://content.bilosta.org/4k/925243.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD The Tomorrow War (2021)
-http://content2.drycloth.org/DISK2/filmovi/925243.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Thor: Love and Thunder (2022)
-http://content.bilosta.org/4k/972215.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Thor: Love and Thunder (2022)
-http://content2.drycloth.org/DISK2/filmovi/972215.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",4K*Spider-Man No Way Home (2021)
-http://content.bilosta.org/4k/485614.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAWM4S5oJp5r4rgpPi5m78IjS4Pyhf5syKQ&usqp=CAU" group-title="4K-HD NOVI FILMOVI",HD Spider-Man No Way Home (2021)
-http://content2.drycloth.org/DISK2/filmovi/485614.mkv
+#4k filmovi
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg" group-title="4K FILMOVI",1917 (2019)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="21 Jump Street (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg" group-title="4K FILMOVI",21 Jump Street (2012)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Jump Street (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/850chzYHYbT3IISl6Q7dbBuFP2B.jpg" group-title="4K FILMOVI",22 Jump Street (2014)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="About My Father (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg" group-title="4K FILMOVI",About My Father (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After Earth (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXMvYIlzzJBs352CfeiQcBvovZt.jpg" group-title="4K FILMOVI",After Earth (2013)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Sniper (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg" group-title="4K FILMOVI",American Sniper (2014)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg" group-title="4K FILMOVI",Aquaman (2018)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asteroid City (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdq40gRS8xKnpFt5V75t6lUHgpx.jpg" group-title="4K FILMOVI",Asteroid City (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Blonde (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCmMRNbDlCno6ra91ruXp5rtsUC.jpg" group-title="4K FILMOVI",Atomic Blonde (2017)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbarian. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg" group-title="4K FILMOVI",Barbarian. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="4K FILMOVI",Barbie (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg" group-title="4K FILMOVI",Batman Begins (2005)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" group-title="4K FILMOVI",Black Adam. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chupa. (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" group-title="4K FILMOVI",Chupa. (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confidential Informant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3MqxGqMdq4eqzWN6H7ugEdYv1W.jpg" group-title="4K FILMOVI",Confidential Informant (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dolittle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg" group-title="4K FILMOVI",Dolittle (2020)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dracula Untold (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJJFZ7tYASyQ7rNOLTrb2JpDc7A.jpg" group-title="4K FILMOVI",Dracula Untold (2014)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elemental (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg" group-title="4K FILMOVI",Elemental (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goodnight Mommy (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg" group-title="4K FILMOVI",Goodnight Mommy (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg" group-title="4K FILMOVI",Heart of Stone (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hocus Pocus (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg" group-title="4K FILMOVI",Hocus Pocus (1993)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hocus Pocus 2. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="4K FILMOVI",Hocus Pocus 2. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="If You Were the Last (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg" group-title="4K FILMOVI",If You Were the Last (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="4K FILMOVI",Indiana Jones and the Dial of Destiny (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ym2zWdb6dbHGO3nd0EhbTY23j4y.jpg" group-title="4K FILMOVI",Jeepers Creepers: Reborn (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jules (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg" group-title="4K FILMOVI",Jules (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg" group-title="4K FILMOVI",Jurassic Park (1993)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park III (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg" group-title="4K FILMOVI",Jurassic Park III (2001)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg" group-title="4K FILMOVI",Jurassic World (2015)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kong: Skull Island (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg" group-title="4K FILMOVI",Kong: Skull Island (2017)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WyMvoqPYJe5g1ENsbLTv40pUrX.jpg" group-title="4K FILMOVI",Lara Croft: Tomb Raider (2001)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Looper (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg" group-title="4K FILMOVI",Looper (2012)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LrI4GiCSrChgkdskVZiwv643Kg.jpg" group-title="4K FILMOVI",Mad Max (1979)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max Beyond Thunderdome (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg" group-title="4K FILMOVI",Mad Max Beyond Thunderdome (1985)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maleficent (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg" group-title="4K FILMOVI",Maleficent (2014)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maleficent: Mistress of Evil (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg" group-title="4K FILMOVI",Maleficent: Mistress of Evil (2019)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men in Black: International (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="4K FILMOVI",Men in Black: International (2019)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Dead Reckoning Part One (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="4K FILMOVI",Mission: Impossible - Dead Reckoning Part One (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natural Born Killers (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg" group-title="4K FILMOVI",Natural Born Killers (1994)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Hard Feelings (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg" group-title="4K FILMOVI",No Hard Feelings (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nope. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg" group-title="4K FILMOVI",Nope. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsFXwJG1NKZO2zL9Hba39CnUQrL.jpg" group-title="4K FILMOVI",Paradise (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Past Lives (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg" group-title="4K FILMOVI",Past Lives (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pearl. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg" group-title="4K FILMOVI",Pearl. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Persuasion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s99WrKSEVR4RVvwm5Zn2cqrHTMM.jpg" group-title="4K FILMOVI",Persuasion (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean: At World's End (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg" group-title="4K FILMOVI",Pirates of the Caribbean: At World's End (2007)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean: Dead Man's Chest (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg" group-title="4K FILMOVI",Pirates of the Caribbean: Dead Man's Chest (2006)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean: Dead Men Tell No Tales (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwoGfcg6YUS55nUweKGujHE54Wy.jpg" group-title="4K FILMOVI",Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean: On Stranger Tides (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keGfSvCmYj7CvdRx36OdVrAEibE.jpg" group-title="4K FILMOVI",Pirates of the Caribbean: On Stranger Tides (2011)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean: The Curse of the Black Pearl (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg" group-title="4K FILMOVI",Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prey for the Devil. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg" group-title="4K FILMOVI",Prey for the Devil. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puppy Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTc03izWZ9UdD3y0HegVV2M0s0J.jpg" group-title="4K FILMOVI",Puppy Love (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red, White & Royal Blue (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uffOY4W354o9RTRmercFyVvl56Z.jpg" group-title="4K FILMOVI",Red, White & Royal Blue (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosemary's Baby (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg" group-title="4K FILMOVI",Rosemary's Baby (1968)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" group-title="4K FILMOVI",Saw X (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="See How They Run. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3rpSAi2yukZwr9H2km0WKGODWo.jpg" group-title="4K FILMOVI",See How They Run. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="See You on Venus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r94waWYiNhXoAuCEWBCf2XEEegx.jpg" group-title="4K FILMOVI",See You on Venus (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/momkKuWburNTqKBF6ez7rvhYVhE.jpg" group-title="4K FILMOVI",Sherlock Holmes (2009)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes: A Game of Shadows (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg" group-title="4K FILMOVI",Sherlock Holmes: A Game of Shadows (2011)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sympathy for the Devil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afGdVMa80LMs6ibLP22CwM5uI4e.jpg" group-title="4K FILMOVI",Sympathy for the Devil (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg" group-title="4K FILMOVI",Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Meg (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg" group-title="4K FILMOVI",The Meg (2018)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGjoPttcbKR5VWg1jQuNFB247KL.jpg" group-title="4K FILMOVI",The Amazing Spider-Man 2 (2014)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Batman. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="4K FILMOVI",The Batman. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Identity (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aP8swke3gmowbkfZ6lmNidu0y9p.jpg" group-title="4K FILMOVI",The Bourne Identity (2002)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Supremacy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg" group-title="4K FILMOVI",The Bourne Supremacy (2004)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Ultimatum (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg" group-title="4K FILMOVI",The Bourne Ultimatum (2007)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Commuter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg" group-title="4K FILMOVI",The Commuter (2018)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="4K FILMOVI",The Conjuring (2013)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="4K FILMOVI",The Dark Knight (2008)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg" group-title="4K FILMOVI",The Dark Knight Rises (2012)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" group-title="4K FILMOVI",The Equalizer (2014)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Exorcist: Believer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg" group-title="4K FILMOVI",The Exorcist: Believer (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="4K FILMOVI",The Flash (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: Mockingjay - Part 1 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg" group-title="4K FILMOVI",The Hunger Games: Mockingjay - Part 1 (2014)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Voyage of the Demeter (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg" group-title="4K FILMOVI",The Last Voyage of the Demeter (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lost World: Jurassic Park (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg" group-title="4K FILMOVI",The Lost World: Jurassic Park (1997)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mist (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg" group-title="4K FILMOVI",The Mist (2007)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Passenger (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWIwES7kkAGjD6rihy26plmkXHU.jpg" group-title="4K FILMOVI",The Passenger (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pianist (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg" group-title="4K FILMOVI",The Pianist (2002)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Woman King. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg" group-title="4K FILMOVI",The Woman King. (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="They Cloned Tyrone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnzXoDaK346U4ByfvQenu2DZnTg.jpg" group-title="4K FILMOVI",They Cloned Tyrone (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tin & Tina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" group-title="4K FILMOVI",Tin & Tina (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg" group-title="4K FILMOVI",Transformers (2007)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Revenge of the Fallen (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg" group-title="4K FILMOVI",Transformers: Revenge of the Fallen (2009)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="4K FILMOVI",Venom (2018)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vesper (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etvK8ni1adjXU8obDpdUxTTQT6n.jpg" group-title="4K FILMOVI",Vesper (2022)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Where the Tracks End. (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etvK8ni1adjXU8obDpdUxTTQT6n.jpg" group-title="4K FILMOVI",Where the Tracks End. (2023)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: The Last Knight (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg" group-title="4K FILMOVI",Transformers: The Last Knight (2017)
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140337.mp4
 
 
 
@@ -984,9 +891,6 @@ http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1337.mp
 http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1339.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mravi (1998)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Antz-Poster.jpg/220px-Antz-Poster.jpg" group-title="EXYU Crtani filmovi",Mravi (1998)
 http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1340.mkv
-
-Crtani filmovi",Velika avantura malog dinosaurusa (2018)
-http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1372.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Trnova ružica (1959)" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/5/5c/Sleeping_Beauty_1959.jpg/250px-Sleeping_Beauty_1959.jpg" group-title="EXYU Crtani filmovi",Trnova ružica (1959)
 http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1371.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stuart Little - IGRANI  film (2000)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Stuart_Little.jpg/220px-Stuart_Little.jpg" group-title="EXYU Crtani filmovi",Stuart Little - IGRANI  film (2000)
@@ -1021,10 +925,8 @@ http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1345.mp
 http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1344.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Up (2009)" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/0/05/Up_%282009_film%29.jpg" group-title="EXYU Crtani filmovi",Up (2009)
 http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/1341.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Balto 2 (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ958HnW3JO2pEZeedjmoZCV8Rn.jpg" group-title="EXYU Crtani filmovi",Balto 2 (2002)
 http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/5568.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="10 Božijih zapovesti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcHz1edjzsvTKWsF9m8smjdqzL5.jpg" group-title="EXYU Crtani filmovi",10 Božijih zapovesti
 http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/14559.mp4
 #EXTINF:-1 tvg-id="" tvg-name="101 Dalmatinac 2 (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg" group-title="EXYU Crtani filmovi",101 Dalmatinac 2 (1996)
@@ -1381,6 +1283,12 @@ http://api.mediaking.fi:8080/movie/filip.nikolic2201@gmail.com/Snajper99/37524.m
 http://101433332271878589.ofrt0823.xyz:80/live/vi112560/8mXh9mVjH7/878589.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+http://mohdtv.com:8880/ALLChannels4255c809293e/17836354/46243
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://bntvs.com:2052/slobodanmomic/354455825/8520
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
@@ -1390,384 +1298,13 @@ http://bntvs.com:2052/zeljkobogicevic/04032022/8520
 http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5PvgaYvYtzwwVvcyNkwObF/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://caffe.link:25461/200JaskoH/DlDBvg4x1F/6873
+http://luxury-iptv.com/live/Edo_Jusic/N9eyU3zPsL/10249.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5iSmdIjeMPCrpXfqeQozxJ/ts
+http://gradina1.info/live/JokRomania23/VNL765E8DmEL/69903.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
 http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/13826
-
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5iSmdIjeMPCrpXfqeQozxJ/ts
-
-
-
-
-# STRANI FILMOVI
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10776.jpg" group-title="FILMOVI 2024" ,5lbs of Pressure (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10776.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qDSKxeHoN9pvVChXXc2YZN4KwBJ.jpg" group-title="FILMOVI 2024" ,60 Minutes (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10409.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10997.jpg" group-title="FILMOVI 2024" ,6 Hours Away (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10997.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11152.jpg" group-title="FILMOVI 2024" ,Abigail (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11152.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3jVwnnSD4YxkGZM1F6RdLAu8Ayy.jpg" group-title="FILMOVI 2024" ,Aftermath (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10794.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/oQa53sxHVz43qzAXXpJ6gl2YTYM.jpg" group-title="FILMOVI 2024" ,Air (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11197.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM1OGJjMDMtNDhlZS00MWM1LTk2NTItYzkzN2I4OGJhODE0XkEyXkFqcGdeQXVyMjU0ODI4MzY@._V1_SX155.jpg" group-title="FILMOVI 2024" ,Air Force One Down (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10552.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10699.jpg" group-title="FILMOVI 2024" ,Amelia’s Children (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10699.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10777.jpg" group-title="FILMOVI 2024" ,American Dreamer (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10777.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/l3UO18fD7rSPRw8AYB8d19zwxUb.jpg" group-title="FILMOVI 2024" ,American Star (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10441.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11093.jpg" group-title="FILMOVI 2024" ,Arcadian (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11093.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10693.jpg" group-title="FILMOVI 2024" ,Argylle (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10693.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10316.jpg" group-title="FILMOVI 2024" ,Arthur's Whisky (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10316.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10992.jpg" group-title="FILMOVI 2024" ,Arthur the King (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10992.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEwYjYwNjYtOTMwMi00NmI5LWI3MTUtYTZlNDNhMzIxOWZmXkEyXkFqcGdeQXVyMzIwNTM5NTQ@._V1_FMjpg_UX1000_.jpg" group-title="FILMOVI 2024" ,A Soweto Love Story (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10558.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10984.jpg" group-title="FILMOVI 2024" ,Asphalt City (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10984.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="FILMOVI 2024" ,Badland Hunters (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10443.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10811.jpg" group-title="FILMOVI 2024" ,Bardejov (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10811.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjYxZjg4NDktNGM0My00ZDhhLWExNDQtMzgzMWE1ODE1NzJlXkEyXkFqcGdeQXVyMTQ4MDUxMTk1._V1_SX155.jpg" group-title="FILMOVI 2024" ,Beautiful Wedding (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10623.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="FILMOVI 2024" ,Bitconned (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10346.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10682.jpg" group-title="FILMOVI 2024" ,Bleeding Love (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10682.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10985.jpg" group-title="FILMOVI 2024" ,Blood for Dust (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10985.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10812.jpg" group-title="FILMOVI 2024" ,Bob Marley: One Love (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10812.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dXjSeS3w97setnrNv4m6tlqqXzn.jpg" group-title="FILMOVI 2024" ,Bosco (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10468.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10935.jpg" group-title="FILMOVI 2024" ,Breathe (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10935.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11094.jpg" group-title="FILMOVI 2024" ,Cabrini (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11094.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10686.jpg" group-title="FILMOVI 2024" ,Calamity Jane (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10686.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU2NDgxZGEtOGEwOC00YmJjLWI5ZTAtNzEzNjI2ZDAwZmI3XkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_SX155.jpg" group-title="FILMOVI 2024" ,Captain Miller (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10559.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10998.jpg" group-title="FILMOVI 2024" ,Cash Out (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10998.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10795.jpg" group-title="FILMOVI 2024" ,Cat and Dog (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10795.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11101.jpg" group-title="FILMOVI 2024" ,Chief of Station (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11101.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11097.jpg" group-title="FILMOVI 2024" ,City Hunter (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11097.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10683.jpg" group-title="FILMOVI 2024" ,Code 8 Part II (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10683.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10674.jpg" group-title="FILMOVI 2024" ,Cold Copy (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10674.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9htMnu5Zg3WEpz6SccgzfxWfDPw.jpg" group-title="FILMOVI 2024" ,Confessions of a Cam Girl (2024) (2011)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10457.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10886.jpg" group-title="FILMOVI 2024" ,Crimes of Fashion: Killer Clutch (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10886.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" group-title="FILMOVI 2024" ,Cult Killer (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10522.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11095.jpg" group-title="FILMOVI 2024" ,Curious Caterer: Foiled Plans (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11095.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10936.jpg" group-title="FILMOVI 2024" ,Damaged (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10936.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10700.jpg" group-title="FILMOVI 2024" ,Damsel (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10700.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10798.jpg" group-title="FILMOVI 2024" ,Danger on Party Island (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10798.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10887.jpg" group-title="FILMOVI 2024" ,DarkGame (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10887.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11196.jpg" group-title="FILMOVI 2024" ,Darkness of Man (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11196.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jIpjUy6ACDk8Fc8GkynLcIAPP49.jpg" group-title="FILMOVI 2024" ,Destroy All Neighbors (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10394.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zvrkAXaFFPpJCFcus18qlsGfOrz.jpg" group-title="FILMOVI 2024" ,Divided (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10949.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA3ZTMwNzQtNzJiMi00NzZkLWIwMWItMDljMjNjNThiZjQ4XkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SX155.jpg" group-title="FILMOVI 2024" ,Double Blind (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10569.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10892.jpg" group-title="FILMOVI 2024" ,Double Down South (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10892.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/h5HdtvogDClJjNdtdIxGgOfaZjK.jpg" group-title="FILMOVI 2024" ,Down the Rabbit Hole (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11102.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4OMssa91kM2GUNrDUfcqDqxajnR.jpg" group-title="FILMOVI 2024" ,Drift (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10829.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10784.jpg" group-title="FILMOVI 2024" ,Drive-Away Dolls (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10784.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10778.jpg" group-title="FILMOVI 2024" ,Drugstore June (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10778.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10858.jpg" group-title="FILMOVI 2024" ,Dune: Part Two (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10858.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10675.jpg" group-title="FILMOVI 2024" ,Einstein and the Bomb (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10675.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11150.jpg" group-title="FILMOVI 2024" ,Exhuma (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11150.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1NDg1OWEtYzAwYy00YjdjLTgzYWQtNjNjOTA1NjJmMTlmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX155.jpg" group-title="FILMOVI 2024" ,Five Blind Dates (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10553.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kPpaxvoQJ2xomVtirSqbDDNl79T.jpg" group-title="FILMOVI 2024" ,Float (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10538.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11153.jpg" group-title="FILMOVI 2024" ,Force of Nature: The Dry 2 (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11153.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10701.jpg" group-title="FILMOVI 2024" ,Frankenstein: Legacy (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10701.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQwYTlmNjktZmUzNC00YTRhLWI4MGUtMDhlYzY2ZmIzMjlhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="FILMOVI 2024" ,FRENCH GIRL (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10888.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10956.jpg" group-title="FILMOVI 2024" ,Ghostbusters: Frozen Empire (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10956.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ea8609DKrceNJocKEUpDom6mHzx.jpg" group-title="FILMOVI 2024" ,Gods of the Deep (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10523.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10957.jpg" group-title="FILMOVI 2024" ,Godzilla x Kong: The New Empire (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10957.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10854.jpg" group-title="FILMOVI 2024" ,Heart of the Hunter (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10854.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJlYWMyMjAtM2ZhMC00YWRjLWIyZWQtNGE0MmQwNmY2MjZkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_SX155.jpg" group-title="FILMOVI 2024" ,Hellhound (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10560.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg" group-title="FILMOVI 2024" ,He Went That Way (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10448.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10999.jpg" group-title="FILMOVI 2024" ,Humane (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10999.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10785.jpg" group-title="FILMOVI 2024" ,Hunting Housewives (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10785.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10827.jpg" group-title="FILMOVI 2024" ,Imaginary (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10827.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10950.jpg" group-title="FILMOVI 2024" ,Immaculate (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10950.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11240.jpg" group-title="FILMOVI 2024" ,Irena's Vow (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11240.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10792.jpg" group-title="FILMOVI 2024" ,Irish Wish (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10792.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="FILMOVI 2024" ,I.S.S. (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10694.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11200.jpg" group-title="FILMOVI 2024" ,Jade (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11200.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10786.jpg" group-title="FILMOVI 2024" ,Jonah (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10786.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ajGJmcLNgFNTHN2IkOwoQDHqXv0.jpg" group-title="FILMOVI 2024" ,Kill Me If You Dare (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10570.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10893.jpg" group-title="FILMOVI 2024" ,Knox Goes Away (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10893.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10932.jpg" group-title="FILMOVI 2024" ,Kung Fu Panda 4 (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10932.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkyOTUzYTUtY2UzYS00MjY4LTljZWYtYzMyMmZlMWYwMjQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX155.jpg" group-title="FILMOVI 2024" ,Land of Bad (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10561.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11151.jpg" group-title="FILMOVI 2024" ,Late Night with the Devil (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11151.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11241.jpg" group-title="FILMOVI 2024" ,Lazareth (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11241.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg" group-title="FILMOVI 2024" ,Lift (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10395.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kL4PTj8nWae0UmYVyDZgRRvL0zs.jpg" group-title="FILMOVI 2024" ,Light (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11154.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" group-title="FILMOVI 2024" ,Lights Out (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10571.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10684.jpg" group-title="FILMOVI 2024" ,Lisa Frankenstein (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10684.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10787.jpg" group-title="FILMOVI 2024" ,Little Wing (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10787.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11000.jpg" group-title="FILMOVI 2024" ,Love Lies Bleeding (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11000.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10809.jpg" group-title="FILMOVI 2024" ,Love's Fast Lane (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10809.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10789.jpg" group-title="FILMOVI 2024" ,Madame Web (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10789.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI0ZDZkMDktMDlkYi00YjhkLWFmMGEtZWUzYTc3ZmEwZmMyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX155.jpg" group-title="FILMOVI 2024" ,Marmalade (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10539.mp4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnQGP8pfm9doP3kpM3TQZDN9zhVTANYixdP0EE9LwADI-1n9i87Ra2iBO4SKO08ULKmWDECbJg_lMibwsr1-HYCRR59BSViYSQbq4ieUFkeuTux8HO8ynk2fAGnMfwa1mC8gV8p0vKgo7qpkRAS4bpRIGbDymjjl1AndBhVdmcUTLKZjX6ZHfPA/s755/IMG_6405.jpeg" group-title="FILMOVI 2024" ,Mea Culpa (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10663.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDExMGMyN2QtYjRkZC00Yzk1LTkzMDktMTliZTI5NjQ0NTNkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX155.jpg" group-title="FILMOVI 2024" ,Mean Girls (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10624.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JiYTQzM2MtOWU4NS00MGMwLTg2NTYtMTNhMzk5Y2JlY2Q4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX155.jpg" group-title="FILMOVI 2024" ,Miller's Girl (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10562.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10993.jpg" group-title="FILMOVI 2024" ,Monkey Man (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10993.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10927.jpg" group-title="FILMOVI 2024" ,Monster Mash (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10927.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11213.jpg" group-title="FILMOVI 2024" ,Mother of the Bride (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11213.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10692.jpg" group-title="FILMOVI 2024" ,My Name Is Loh Kiwan (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10692.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11103.jpg" group-title="FILMOVI 2024" ,New Life (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11103.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg" group-title="FILMOVI 2024" ,Night Swim (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10435.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyOTQzZjgtMDM1OC00MWMxLWI2ZGUtYWUwOTQxNTRmZTU0XkEyXkFqcGdeQXVyNTU1MDIzMzg@._V1_SX155.jpg" group-title="FILMOVI 2024" ,No Way Up (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10563.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nQ1BQg4yMdlYSHvHZgwladzy7EF.jpg" group-title="FILMOVI 2024" ,One More Shot (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10354.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10830.jpg" group-title="FILMOVI 2024" ,Ordinary Angels (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10830.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10695.jpg" group-title="FILMOVI 2024" ,Out of Darkness (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10695.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10779.jpg" group-title="FILMOVI 2024" ,Paging Mr. Darcy (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10779.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10951.jpg" group-title="FILMOVI 2024" ,Parachute (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10951.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10687.jpg" group-title="FILMOVI 2024" ,Parallel (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10687.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10676.jpg" group-title="FILMOVI 2024" ,Planetquake (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10676.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg" group-title="FILMOVI 2024" ,Players (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10564.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nLT3d89C2vHbpHGvELIqHWgfV9d.jpg" group-title="FILMOVI 2024" ,Possessions (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11155.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5wAlO5zZ3IyzLBAf7cp5WejalmG.jpg" group-title="FILMOVI 2024" ,Prey (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10796.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11216.jpg" group-title="FILMOVI 2024" ,Problemista (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11216.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11104.jpg" group-title="FILMOVI 2024" ,Prom Dates (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11104.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" group-title="FILMOVI 2024" ,Race for Glory: Audi vs Lancia (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10320.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10976.jpg" group-title="FILMOVI 2024" ,Rebel Moon - Part Two: The Scargiver (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10976.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10664.jpg" group-title="FILMOVI 2024" ,Red Right Hand (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10664.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10859.jpg" group-title="FILMOVI 2024" ,Rest in Peace (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10859.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10702.jpg" group-title="FILMOVI 2024" ,Ricky Stanicky (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10702.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10797.jpg" group-title="FILMOVI 2024" ,Road House (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10797.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/g4y8qq4acg2Q41hCKKwYO69VIr9.jpg" group-title="FILMOVI 2024" ,Roadkill (2024) (2020)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10344.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10799.jpg" group-title="FILMOVI 2024" ,Room 0 (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10799.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11242.jpg" group-title="FILMOVI 2024" ,Sasquatch Sunset (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11242.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10894.jpg" group-title="FILMOVI 2024" ,Scoop (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10894.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11217.jpg" group-title="FILMOVI 2024" ,Seagrass (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11217.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4AH3S0xMEYW20KGI6CSPO1W70bo.jpg" group-title="FILMOVI 2024" ,Self Reliance (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10396.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10831.jpg" group-title="FILMOVI 2024" ,Sentinel (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10831.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10800.jpg" group-title="FILMOVI 2024" ,Shirley (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10800.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y5OWEyYWYtYmJlMy00YjlkLTkyNTMtNzZjY2Q1MzE0YTBlXkEyXkFqcGdeQXVyMjMxODY3MTE@._V1_SX155.jpg" group-title="FILMOVI 2024" ,Skeletons in the Closet (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10540.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10933.jpg" group-title="FILMOVI 2024" ,Sleeping Dogs (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10933.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10860.jpg" group-title="FILMOVI 2024" ,Snack Shack (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10860.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10952.jpg" group-title="FILMOVI 2024" ,Snow Valley (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10952.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11105.jpg" group-title="FILMOVI 2024" ,Something in the Water (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11105.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10855.jpg" group-title="FILMOVI 2024" ,Son of a Rich 2 (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10855.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10689.jpg" group-title="FILMOVI 2024" ,Spaceman (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10689.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11243.jpg" group-title="FILMOVI 2024" ,Sting (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11243.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11096.jpg" group-title="FILMOVI 2024" ,Stockholm Bloodbath (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11096.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ovUBfip0EgyqHZYhVx4K0ZjFkgn.jpg" group-title="FILMOVI 2024" ,Stolen (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10977.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10946.jpg" group-title="FILMOVI 2024" ,Stolen Water (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10946.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10835.jpg" group-title="FILMOVI 2024" ,Stopmotion (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10835.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10685.jpg" group-title="FILMOVI 2024" ,Stranger in the Woods (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10685.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10947.jpg" group-title="FILMOVI 2024" ,Strictly Confidential (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10947.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10793.jpg" group-title="FILMOVI 2024" ,Suncoast (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10793.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11218.jpg" group-title="FILMOVI 2024" ,Sweet Dreams (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11218.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg" group-title="FILMOVI 2024" ,Texas (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10953.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10889.jpg" group-title="FILMOVI 2024" ,The American Society of Magical Negroes (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10889.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10836.jpg" group-title="FILMOVI 2024" ,The Beautiful Game (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10836.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="FILMOVI 2024" ,The Beekeeper (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10450.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10626.jpg" group-title="FILMOVI 2024" ,The Book of Clarence (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10626.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/smiEA0WTErj1FlowpAuEGPJKyZp.jpg" group-title="FILMOVI 2024" ,The Courier (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11229.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10954.jpg" group-title="FILMOVI 2024" ,The Greatest Hits (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10954.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWIzZmY3MzgtMTdhZC00YzI0LTk0MzMtMDNhMWM3OThkZDZmXkEyXkFqcGdeQXVyMTgwNTE1NTA@._V1_.jpg" group-title="FILMOVI 2024" ,The Heartbreak Agency (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10565.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11106.jpg" group-title="FILMOVI 2024" ,The Idea of You (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11106.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11214.jpg" group-title="FILMOVI 2024" ,The Last Stop in Yuma County (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11214.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11219.jpg" group-title="FILMOVI 2024" ,The Long Game (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11219.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11202.jpg" group-title="FILMOVI 2024" ,The Ministry of Ungentlemanly Warfare (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11202.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg" group-title="FILMOVI 2024" ,The Night They Came Home (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10397.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="FILMOVI 2024" ,The Painter (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10355.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10696.jpg" group-title="FILMOVI 2024" ,The Parades (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10696.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10704.jpg" group-title="FILMOVI 2024" ,The Seeding (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10704.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11244.jpg" group-title="FILMOVI 2024" ,The Shamrock Spitfire (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11244.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10941.jpg" group-title="FILMOVI 2024" ,The Tearsmith (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10941.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10703.jpg" group-title="FILMOVI 2024" ,The Thundermans Return (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10703.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/24iOlmQYV5aUgzLARyzSQN3T6qH.jpg" group-title="FILMOVI 2024" ,The Unbreakable Tatiana Suarez (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10469.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wj1VRcVsh39nkxLkZP8tuGd96tc.jpg" group-title="FILMOVI 2024" ,The Underdoggs (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10444.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nBrzD4DOsj1lbXvjODGAbA8ddm8.jpg" group-title="FILMOVI 2024" ,The Vampire Next Door (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10410.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VjOGZjMDktZGU2OC00NzkwLThlZDgtMmIzMWIxZWYyZDAwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX155.jpg" group-title="FILMOVI 2024" ,This Is Me... Now (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10575.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10677.jpg" group-title="FILMOVI 2024" ,Through My Window 3: Looking at You (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10677.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pN7VxfVY0dtgcoaA1CD3dir649U.jpg" group-title="FILMOVI 2024" ,True Justice: Family Ties (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10452.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11149.jpg" group-title="FILMOVI 2024" ,Turtles All the Way Down (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11149.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10678.jpg" group-title="FILMOVI 2024" ,unDEFILED (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10678.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11107.jpg" group-title="FILMOVI 2024" ,Unfrosted (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11107.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNhMjc1MzMtZGUyOC00NjhiLWJiM2YtMWNkMzU0YjgwZDU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX155.jpg" group-title="FILMOVI 2024" ,Upgraded (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10541.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10436.jpg" group-title="FILMOVI 2024" ,Wanted Man (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10436.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-11220.jpg" group-title="FILMOVI 2024" ,Warchief (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/11220.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10788.jpg" group-title="FILMOVI 2024" ,Weak Layers (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10788.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10989.jpg" group-title="FILMOVI 2024" ,White Bird (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10989.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10937.jpg" group-title="FILMOVI 2024" ,Wicked Little Letters (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10937.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10861.jpg" group-title="FILMOVI 2024" ,Windcatcher (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10861.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10948.jpg" group-title="FILMOVI 2024" ,Woody Woodpecker Goes to Camp (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10948.mp4
-#EXTINF:-1 tvg-logo="http://olix.club:8080/movie_covers/cover-10928.jpg" group-title="FILMOVI 2024" ,You'll Never Find Me (2024) (2024)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10928.mp4
-
-
 
 
 
@@ -1806,8 +1343,6 @@ https://www.youtube.com/embed/NeaF3j3cmTs
 #EXTINF:-1 group-title="TEA" tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200",THE PASSION OF THE CRIST (2004)
 http://gradina1.info:80/movie/JokRomania23/VNL765E8DmEL/39413.mp4
 
-#EXTINF:-1 group-title="TEA" tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200",THE PASSION OF THE CRIST (2004)
-http://s3.olix.cc:80/movie/valentinavujica/7opfXPMxzg/10833.mp4
 
 
 #harry potter
