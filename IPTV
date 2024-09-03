@@ -1551,33 +1551,20 @@ http://luxury-iptv.com:80/movie/Edo_Jusic/N9eyU3zPsL/8707.mp4
 #top filmovi
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP FILMOVI",*** NAJBOLJI FILMOVI ***
-skip
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP FILMOVI",*** SVIH VREMENA ! ***
-skip
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP FILMOVI",*** OCIJENILI GLEDATELJI ***
-skip
-
 #EXTINF:-1 tvg-id="" tvg-name="The Shawshank Redemption (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg" group-title="TOP FILMOVI",1.) The Shawshank Redemption (1994)
-https://videoteka.game-host.org/film2/klasici/875172.mkv
-#http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/149335.mp4
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/149335.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Godfather (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="TOP FILMOVI",2.) The Godfather (1972)
-#http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140498.mp4
-https://videoteka.game-host.org/film2/klasici/691007.mkv
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140498.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight (2008)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg" group-title="TOP FILMOVI",3.) The Dark Knight (2008)
 https://videoteka.game-host.org/film2/klasici/836051.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Return of the King (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" group-title="TOP FILMOVI",4.) The Lord of the Rings: The Return of the King (2003)
-#http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/149181.mp4
-https://videoteka.game-host.org/film2/klasici/876291.mkv
+http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/149181.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Schindlers List (1993)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="TOP FILMOVI",5.) Schindlers List (1993)
-#http://luxury-iptv.com:80/movie/Edo_Jusic/N9eyU3zPsL/7055.mkv
-https://videoteka.game-host.org/film2/klasici/900726.mkv
+http://luxury-iptv.com:80/movie/Edo_Jusic/N9eyU3zPsL/7055.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="12 Angry Men (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg" group-title="TOP FILMOVI",6.) 12 Angry Men (1957)
 http://live.baltazar.pro:80/movie/pajopranjicgmail/ObKoIVgHG8/140338.mp4
