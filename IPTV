@@ -596,16 +596,8 @@ http://bntvs.com:2052/slobodanmomic/354455825/8520
 http://olix.cc:8000/live/gligorilic/TG7caWyo9P/7.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5PvgaYvYtzwwVvcyNkwObF/ts
-
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/live/mujanovico/orle654/6854.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://gradina1.info/live/JokRomania23/VNL765E8DmEL/69903.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
-http://smartntv.pro:25461/dreamexchangenew349/V=!X@9Fc=3Gm)(B1@=3GcpER@=X3N!7(HxZySYKkjXmXtE/13826
 
 
 
@@ -1464,8 +1456,17 @@ https://www.youtube.com/embed/NeaF3j3cmTs
 
 #tea
 
+
+
 #EXTINF:-1 group-title="TEA" tvg-logo="https://res.9appsinstall.com/group1/M01/E8/67/poYBAFbXBkSABcPGAACTHnEx99Q382.png?x-oss-process=style/mq200",THE PASSION OF THE CRIST (2004)
-http://gradina1.info:80/movie/JokRomania23/VNL765E8DmEL/39413.mp4
+http://izipizi1.info:80/movie/MukiDu2/Muki14622/39413.mp4
+
+#EXTINF:-1 group-title="TEA", RAIN MAN (1988)
+http://izipizi1.info:80/movie/MukiDu2/Muki14622/33680.mp4
+
+#EXTINF:-1 group-title="TEA", SON OF GOD (2014)
+http://izipizi1.info:80/movie/MukiDu2/Muki14622/18674.mp4
+
 
 
 
