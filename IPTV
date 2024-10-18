@@ -559,6 +559,10 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 #jabuka+prigorska tv
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/50
+
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
 
@@ -569,7 +573,16 @@ http://bntvs.com:2052/slobodanmomic/354455825/8520
 http://olix.cc:8000/live/gligorilic/TG7caWyo9P/7.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5PvgaYvYtzwwVvcyNkwObF/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/live/mujanovico/orle654/6854.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
+http://nett-tv.org:80/live/Seljan_marijan/uVQ67pLacS/23883.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
+http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/37718
 
 
 
