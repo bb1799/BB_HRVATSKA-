@@ -556,12 +556,13 @@ https://www.youtube.com/embed/BZkCDgTf7G0
 https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
+
+
 #jabuka+prigorska tv
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/50
+http://live.baltazar.pro:80/live/dubravkovib/nAjoOb5X34/50.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
 http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
@@ -570,15 +571,15 @@ http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/6854
 http://bntvs.com:2052/slobodanmomic/354455825/8520
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://olix.cc:8000/live/gligorilic/TG7caWyo9P/7.ts
+http://ad.v166.xyz/live/me82356/WJtktPvBgC9s/951829.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://ip.tv2c.xyz:8080/play/un57oPuNoSSQjqJ-QZLeW1WEUgNDnHfsZ2raAGar-O5PvgaYvYtzwwVvcyNkwObF/ts
+http://iptvxx.ddns.net:25461/live/kajinicz8000hr/gq87vTRZbKMU/1576.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://ott.dobratv.net:25461/live/mujanovico/orle654/6854.ts
+http://digital.nicesecrethotdigital.xyz:80/live/vi112560/8mXh9mVjH7/951829.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Tv Zelina
 http://nett-tv.org:80/live/Seljan_marijan/uVQ67pLacS/23883.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Prigorska Tv
@@ -588,21 +589,26 @@ http://live.baltazar.pro:80/pajopranjicgmail/ObKoIVgHG8/37718
 
 
 
+
 #maxsport1
 
 
 
+
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://olix.cc:8000/live/gligorilic/TG7caWyo9P/29288.ts
+http://live.baltazar.pro:80/live/dubravkovib/nAjoOb5X34/152094.ts
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://bntvs.com:2052/slobodanmomic/354455825/23998
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://caffe.link:25461/live/denissatdrugostari/6EMqKdWt3D8M/53547.ts
+http://fastrunner.live:8080/live/4TjigENaSK/fpuBGFvt4K/108388.ts
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://bntvs.com:2052/live/feridnurkovic/5tr2568265/23998.ts
+http://iptvxx.ddns.net:25461/live/kajinicz8000hr/gq87vTRZbKMU/1872.ts
+
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
+http://vipgsiv.top:8080/live/VIP0180170851739253/ec906fdd01c7/34146.ts
 
 
 
