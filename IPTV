@@ -14722,7 +14722,6 @@ http://bntvs.com:2052/movie/slobodanmomic/354455825/30099.mp4
 
 
 
-
 #EXTINF:-1 tvg-id="Sjene prošlosti S01 E01" tvg-logo="http://focuskanali.pro:8080/images/97622753e241f2f14e502f93c05db9a6.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E01
 http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/33082.mkv
 
@@ -14903,11 +14902,17 @@ http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34036.mp4
 #EXTINF:-1 tvg-id="Sjene prošlosti S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E60
 http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34037.mp4
 
+#EXTINF:-1 tvg-id="Sjene prošlosti S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E61
+http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34090.mp4
 
+#EXTINF:-1 tvg-id="Sjene prošlosti S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E62
+http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34116.mp4
 
+#EXTINF:-1 tvg-id="Sjene prošlosti S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E63
+http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34117.mp4
 
+#EXTINF:-1 tvg-id="Sjene prošlosti S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E64
+http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34118.mp4
 
-
-# kraj
 
 
