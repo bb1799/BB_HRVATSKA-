@@ -558,29 +558,25 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
 
-# otv-jabuka+zelina tv
+# otv-jabuka tv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
 http://bntvs.com:2052/live/nikolamatijevic/534t2725411/8520.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://127.0.0.1:40673/http/bntvs.com:2052/slobodanmomic/354455825/8520
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://serv2.mediaking.fi:8080/live/Dalibor_Ristov/7c:64:56:97:48:04/2892.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://nett-tv.org:80/live/Seljan_marijan/uVQ67pLacS/10253.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
 http://ad.v166.xyz/live/me82356/WJtktPvBgC9s/951829.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
-http://iptvxx.ddns.net:25461/live/kajinicz8000hr/gq87vTRZbKMU/1576.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6854.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV+PRIGORSKA TV",OTV
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
 http://bntvs.com:2052/live/NenadG/457454566343/8520.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="OTV+PRIGORSKA TV",Tv Zelina
-http://nett-tv.org:80/live/Seljan_marijan/uVQ67pLacS/23883.ts
 
 
 
