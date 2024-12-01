@@ -1922,8 +1922,8 @@ http://bntvs.com:2052/live/NenadG/457454566343/8520.ts
 
 # maxsport1
 
-
-
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
+http://serv2.mediaking.fi:8080/live/Dalibor_Ristov/7c:64:56:97:48:04/14218.ts
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://bntvs.com:2052/slobodanmomic/354455825/23998
