@@ -1,1523 +1,1520 @@
- 
+
 #EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="CRO | HRT 1" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111414.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111414.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 1 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 1 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111415.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111415.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 2" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111416.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111416.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 2 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 2 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111417.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111417.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 3" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111418.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111418.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 3 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 3 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111419.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111419.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 4" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 4
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111420.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111420.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 4 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 4 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111421.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111421.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT Int" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT Int
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111422.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111422.ts
 
 #EXTINF:-1 tvg-id="CRO | Nova TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Nova TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111430.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111430.ts
 
 #EXTINF:-1 tvg-id="CRO | Nova TV (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Nova TV (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111779.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111779.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111423.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111423.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111777.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111777.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL (B2)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL (B2)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111778.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111778.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL 2" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111424.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111424.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL Adria" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL Adria
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111426.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111426.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL Crime" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL Crime
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111425.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111425.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL Living" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL Living
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111427.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111427.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL Passion" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL Passion
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111428.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111428.ts
 
 #EXTINF:-1 tvg-id="CRO | Banovina Tv" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Banovina Tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111431.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111431.ts
 
 #EXTINF:-1 tvg-id="CRO | DOMA TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | DOMA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111429.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111429.ts
 
 #EXTINF:-1 tvg-id="CRO | Kanal Ri" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Kanal Ri
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111433.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111433.ts
 
 #EXTINF:-1 tvg-id="CRO | Laudato TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Laudato TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111434.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111434.ts
 
 #EXTINF:-1 tvg-id="CRO | Libertas TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Libertas TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111435.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111435.ts
 
 #EXTINF:-1 tvg-id="CRO | Mreza Split" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Mreza Split
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111436.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111436.ts
 
 #EXTINF:-1 tvg-id="CRO | N1" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | N1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111437.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111437.ts
 
 #EXTINF:-1 tvg-id="CRO | N1 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | N1 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111780.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111780.ts
 
 #EXTINF:-1 tvg-id="CRO | Osjecka TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Osjecka TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111438.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111438.ts
 
 #EXTINF:-1 tvg-id="CRO | OTV (Jabuka TV)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | OTV (Jabuka TV)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111432.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111432.ts
 
 #EXTINF:-1 tvg-id="CRO | Poljoprivredna TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Poljoprivredna TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111439.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111439.ts
 
 #EXTINF:-1 tvg-id="CRO | Posavina TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Posavina TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111440.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111440.ts
 
 #EXTINF:-1 tvg-id="CRO | Trend TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Trend TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111441.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111441.ts
 
 #EXTINF:-1 tvg-id="CRO | TV Zapad" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | TV Zapad
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111442.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111442.ts
 
 #EXTINF:-1 tvg-id="CRO | Vinkovacka TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Vinkovacka TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111443.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111443.ts
 
 #EXTINF:-1 tvg-id="CRO | VTV Televizija" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | VTV Televizija
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111444.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111444.ts
 
 #EXTINF:-1 tvg-id="CRO | Z1" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Z1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111445.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111445.ts
 
 #EXTINF:-1 tvg-id="CRO | Zdrava TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Zdrava TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111446.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111446.ts
 
 #EXTINF:-1 tvg-id="SRB | B92" tvg-logo="noimage.png" group-title="SRBIJA", SRB | B92
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111339.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111339.ts
 
 #EXTINF:-1 tvg-id="SRB | BlicTV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | BlicTV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111768.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111768.ts
 
 #EXTINF:-1 tvg-id="SRB | BlicTV (B)" tvg-logo="noimage.png" group-title="SRBIJA", SRB | BlicTV (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111769.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111769.ts
 
 #EXTINF:-1 tvg-id="SRB | Euronews" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Euronews
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111400.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111400.ts
 
 #EXTINF:-1 tvg-id="SRB | Happy TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Happy TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111342.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111342.ts
 
 #EXTINF:-1 tvg-id="SRB | Informer TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Informer TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111856.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111856.ts
 
 #EXTINF:-1 tvg-id="SRB | INSAJDER TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | INSAJDER TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111770.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111770.ts
 
 #EXTINF:-1 tvg-id="SRB | INSTA TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | INSTA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111771.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111771.ts
 
 #EXTINF:-1 tvg-id="SRB | K1 TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | K1 TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111375.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111375.ts
 
 #EXTINF:-1 tvg-id="SRB | KCN 1" tvg-logo="noimage.png" group-title="SRBIJA", SRB | KCN 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111379.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111379.ts
 
 #EXTINF:-1 tvg-id="SRB | KCN 2" tvg-logo="noimage.png" group-title="SRBIJA", SRB | KCN 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111380.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111380.ts
 
 #EXTINF:-1 tvg-id="SRB | KCN 3" tvg-logo="noimage.png" group-title="SRBIJA", SRB | KCN 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111381.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111381.ts
 
 #EXTINF:-1 tvg-id="SRB | Kurir TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Kurir TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111376.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111376.ts
 
 #EXTINF:-1 tvg-id="SRB | Mlava Tv" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Mlava Tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111402.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111402.ts
 
 #EXTINF:-1 tvg-id="SRB | Moj Happy Zivot" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Moj Happy Zivot
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111766.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111766.ts
 
 #EXTINF:-1 tvg-id="SRB | Moja Happy Zemlja" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Moja Happy Zemlja
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111765.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111765.ts
 
 #EXTINF:-1 tvg-id="SRB | Moje Happy Drustvo" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Moje Happy Drustvo
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111764.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111764.ts
 
 #EXTINF:-1 tvg-id="SRB | N1" tvg-logo="noimage.png" group-title="SRBIJA", SRB | N1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111340.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111340.ts
 
 #EXTINF:-1 tvg-id="SRB | N1 (B)" tvg-logo="noimage.png" group-title="SRBIJA", SRB | N1 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111341.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111341.ts
 
 #EXTINF:-1 tvg-id="SRB | Nova S" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Nova S
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111382.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111382.ts
 
 #EXTINF:-1 tvg-id="SRB | Nova S (B)" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Nova S (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111772.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111772.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink 1" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111344.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111344.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink 1 (B)" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink 1 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111767.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111767.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink 2" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111345.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111345.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink 3" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111346.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111346.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Action" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Action
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111347.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111347.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Classic" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Classic
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111348.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111348.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Comedy" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Comedy
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111349.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111349.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Crime & Mystery" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Crime & Mystery
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111350.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111350.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Extra" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Extra
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111351.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111351.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Family" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Family
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111352.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111352.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Fashion" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Fashion
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111353.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111353.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Film" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Film
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111354.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111354.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink HaHa" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink HaHa
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111355.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111355.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Horror" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Horror
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111356.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111356.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Koncert" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Koncert
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111357.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111357.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Kuvar" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Kuvar
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111358.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111358.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink LoL" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink LoL
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111359.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111359.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Movies" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Movies
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111360.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111360.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink N Roll" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink N Roll
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111361.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111361.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Pedia" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Pedia
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111362.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111362.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Plus" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Plus
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111363.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111363.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Premium" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Premium
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111364.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111364.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Reality" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Reality
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111365.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111365.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Romance" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Romance
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111366.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111366.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Sci Fi & Fantasy" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Sci Fi & Fantasy
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111367.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111367.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Serije" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Serije
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111368.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111368.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Soap" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Soap
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111369.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111369.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Thriller" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Thriller
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111370.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111370.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Western" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Western
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111371.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111371.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink World" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink World
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111372.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111372.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink World Cinema" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink World Cinema
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111373.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111373.ts
 
 #EXTINF:-1 tvg-id="SRB | Pink Zabava" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Pink Zabava
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111374.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111374.ts
 
 #EXTINF:-1 tvg-id="SRB | Prva Kick" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Prva Kick
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111383.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111383.ts
 
 #EXTINF:-1 tvg-id="SRB | Prva Max" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Prva Max
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111384.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111384.ts
 
 #EXTINF:-1 tvg-id="SRB | Prva Plus" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Prva Plus
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111385.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111385.ts
 
 #EXTINF:-1 tvg-id="SRB | Prva TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Prva TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111338.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111338.ts
 
 #EXTINF:-1 tvg-id="SRB | Prva World" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Prva World
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111386.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111386.ts
 
 #EXTINF:-1 tvg-id="SRB | Reality Parovi" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Reality Parovi
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111343.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111343.ts
 
 #EXTINF:-1 tvg-id="SRB | Red TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Red TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111387.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111387.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS 1" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111335.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111335.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS 2" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111336.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111336.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS 2 (B)" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS 2 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111762.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111762.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS 3" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111337.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111337.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS 3 (B)" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS 3 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111763.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111763.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Drama" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Drama
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111388.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111388.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Klasika" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Klasika
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111775.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111775.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Kolo" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Kolo
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111389.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111389.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Muzika" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Muzika
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111390.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111390.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Nauka" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Nauka
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111773.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111773.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Poletarac" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Poletarac
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111774.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111774.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Svet" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Svet
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111391.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111391.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Trezor" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Trezor
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111392.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111392.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Zivot" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTS Zivot
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111393.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111393.ts
 
 #EXTINF:-1 tvg-id="SRB | RTV 1" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTV 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111394.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111394.ts
 
 #EXTINF:-1 tvg-id="SRB | RTV 2" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTV 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111395.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111395.ts
 
 #EXTINF:-1 tvg-id="SRB | RTV Mir" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTV Mir
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111396.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111396.ts
 
 #EXTINF:-1 tvg-id="SRB | RTV Novi Pazar" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTV Novi Pazar
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111397.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111397.ts
 
 #EXTINF:-1 tvg-id="SRB | RTV Novi Pazar (B)" tvg-logo="noimage.png" group-title="SRBIJA", SRB | RTV Novi Pazar (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111776.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111776.ts
 
 #EXTINF:-1 tvg-id="SRB | SOS Kanal Plus" tvg-logo="noimage.png" group-title="SRBIJA", SRB | SOS Kanal Plus
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111398.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111398.ts
 
 #EXTINF:-1 tvg-id="SRB | Studio B" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Studio B
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111399.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111399.ts
 
 #EXTINF:-1 tvg-id="SRB | SuperSat TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | SuperSat TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111401.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111401.ts
 
 #EXTINF:-1 tvg-id="SRB | Tanjug" tvg-logo="noimage.png" group-title="SRBIJA", SRB | Tanjug
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111378.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111378.ts
 
 #EXTINF:-1 tvg-id="SRB | TV Belle Amie" tvg-logo="noimage.png" group-title="SRBIJA", SRB | TV Belle Amie
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111403.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111403.ts
 
 #EXTINF:-1 tvg-id="SRB | TV Hram" tvg-logo="noimage.png" group-title="SRBIJA", SRB | TV Hram
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111404.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111404.ts
 
 #EXTINF:-1 tvg-id="SRB | TV Jefimija" tvg-logo="noimage.png" group-title="SRBIJA", SRB | TV Jefimija
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111405.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111405.ts
 
 #EXTINF:-1 tvg-id="SRB | TV Krusevac" tvg-logo="noimage.png" group-title="SRBIJA", SRB | TV Krusevac
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111406.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111406.ts
 
 #EXTINF:-1 tvg-id="SRB | TV Leskovac" tvg-logo="noimage.png" group-title="SRBIJA", SRB | TV Leskovac
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111407.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111407.ts
 
 #EXTINF:-1 tvg-id="SRB | TV Palma Plus Jagodina" tvg-logo="noimage.png" group-title="SRBIJA", SRB | TV Palma Plus Jagodina
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111408.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111408.ts
 
 #EXTINF:-1 tvg-id="SRB | TV Pirot" tvg-logo="noimage.png" group-title="SRBIJA", SRB | TV Pirot
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111409.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111409.ts
 
 #EXTINF:-1 tvg-id="SRB | UNA TV" tvg-logo="noimage.png" group-title="SRBIJA", SRB | UNA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111377.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111377.ts
 
 #EXTINF:-1 tvg-id="SRB | ZADRUGA 1" tvg-logo="noimage.png" group-title="SRBIJA", SRB | ZADRUGA 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111410.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111410.ts
 
 #EXTINF:-1 tvg-id="SRB | ZADRUGA 2" tvg-logo="noimage.png" group-title="SRBIJA", SRB | ZADRUGA 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111411.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111411.ts
 
 #EXTINF:-1 tvg-id="SRB | ZADRUGA 3" tvg-logo="noimage.png" group-title="SRBIJA", SRB | ZADRUGA 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111412.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111412.ts
 
 #EXTINF:-1 tvg-id="SRB | ZADRUGA 4" tvg-logo="noimage.png" group-title="SRBIJA", SRB | ZADRUGA 4
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111413.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111413.ts
 
 #EXTINF:-1 tvg-id="BIH | AL JAZZERA BALKANS HD" tvg-logo="noimage.png" group-title="BIH", BIH | AL JAZZERA BALKANS HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111447.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111447.ts
 
 #EXTINF:-1 tvg-id="BIH | Alfa TV" tvg-logo="noimage.png" group-title="BIH", BIH | Alfa TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111462.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111462.ts
 
 #EXTINF:-1 tvg-id="BIH | ATV BANJA LUKA" tvg-logo="noimage.png" group-title="BIH", BIH | ATV BANJA LUKA
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111461.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111461.ts
 
 #EXTINF:-1 tvg-id="BIH | BHT 1" tvg-logo="noimage.png" group-title="BIH", BIH | BHT 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111448.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111448.ts
 
 #EXTINF:-1 tvg-id="BIH | BN HD" tvg-logo="noimage.png" group-title="BIH", BIH | BN HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111458.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111458.ts
 
 #EXTINF:-1 tvg-id="BIH | BN TV (B)" tvg-logo="noimage.png" group-title="BIH", BIH | BN TV (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111784.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111784.ts
 
 #EXTINF:-1 tvg-id="BIH | BOSANSKO POSAVSKA TV HD" tvg-logo="noimage.png" group-title="BIH", BIH | BOSANSKO POSAVSKA TV HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111489.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111489.ts
 
 #EXTINF:-1 tvg-id="BIH | CITY TV" tvg-logo="noimage.png" group-title="BIH", BIH | CITY TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111480.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111480.ts
 
 #EXTINF:-1 tvg-id="BIH | Elta 2 HD" tvg-logo="noimage.png" group-title="BIH", BIH | Elta 2 HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111464.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111464.ts
 
 #EXTINF:-1 tvg-id="BIH | ELTA TV" tvg-logo="noimage.png" group-title="BIH", BIH | ELTA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111463.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111463.ts
 
 #EXTINF:-1 tvg-id="BIH | FACE TV" tvg-logo="noimage.png" group-title="BIH", BIH | FACE TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111449.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111449.ts
 
 #EXTINF:-1 tvg-id="BIH | FTV" tvg-logo="noimage.png" group-title="BIH", BIH | FTV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111450.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111450.ts
 
 #EXTINF:-1 tvg-id="BIH | GLAS DRINE" tvg-logo="noimage.png" group-title="BIH", BIH | GLAS DRINE
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111481.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111481.ts
 
 #EXTINF:-1 tvg-id="BIH | HAYAT PLUS" tvg-logo="noimage.png" group-title="BIH", BIH | HAYAT PLUS
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111453.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111453.ts
 
 #EXTINF:-1 tvg-id="BIH | Hayat TV" tvg-logo="noimage.png" group-title="BIH", BIH | Hayat TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111452.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111452.ts
 
 #EXTINF:-1 tvg-id="BIH | HEMA TV" tvg-logo="noimage.png" group-title="BIH", BIH | HEMA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111482.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111482.ts
 
 #EXTINF:-1 tvg-id="BIH | HIT BRCKO TV" tvg-logo="noimage.png" group-title="BIH", BIH | HIT BRCKO TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111484.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111484.ts
 
 #EXTINF:-1 tvg-id="BIH | IZVORNA TV" tvg-logo="noimage.png" group-title="BIH", BIH | IZVORNA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111485.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111485.ts
 
 #EXTINF:-1 tvg-id="BIH | K3 TV" tvg-logo="noimage.png" group-title="BIH", BIH | K3 TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111465.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111465.ts
 
 #EXTINF:-1 tvg-id="BIH | Kreator TV" tvg-logo="noimage.png" group-title="BIH", BIH | Kreator TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111466.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111466.ts
 
 #EXTINF:-1 tvg-id="BIH | Meka TV" tvg-logo="noimage.png" group-title="BIH", BIH | Meka TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111469.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111469.ts
 
 #EXTINF:-1 tvg-id="BIH | MTV IGMAN HD" tvg-logo="noimage.png" group-title="BIH", BIH | MTV IGMAN HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111467.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111467.ts
 
 #EXTINF:-1 tvg-id="BIH | N1" tvg-logo="noimage.png" group-title="BIH", BIH | N1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111457.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111457.ts
 
 #EXTINF:-1 tvg-id="BIH | N1 (B)" tvg-logo="noimage.png" group-title="BIH", BIH | N1 (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111783.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111783.ts
 
 #EXTINF:-1 tvg-id="BIH | NOVA BH" tvg-logo="noimage.png" group-title="BIH", BIH | NOVA BH
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111451.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111451.ts
 
 #EXTINF:-1 tvg-id="BIH | NOVA BH (B)" tvg-logo="noimage.png" group-title="BIH", BIH | NOVA BH (B)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111781.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111781.ts
 
 #EXTINF:-1 tvg-id="BIH | NTV IC KAKANJ" tvg-logo="noimage.png" group-title="BIH", BIH | NTV IC KAKANJ
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111468.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111468.ts
 
 #EXTINF:-1 tvg-id="BIH | O KANAL" tvg-logo="noimage.png" group-title="BIH", BIH | O KANAL
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111487.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111487.ts
 
 #EXTINF:-1 tvg-id="BIH | OBN" tvg-logo="noimage.png" group-title="BIH", BIH | OBN
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111454.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111454.ts
 
 #EXTINF:-1 tvg-id="BIH | Pink BH" tvg-logo="noimage.png" group-title="BIH", BIH | Pink BH
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111782.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111782.ts
 
 #EXTINF:-1 tvg-id="BIH | POSAVINA TV" tvg-logo="noimage.png" group-title="BIH", BIH | POSAVINA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111483.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111483.ts
 
 #EXTINF:-1 tvg-id="BIH | QOURAN BOSNA TV" tvg-logo="noimage.png" group-title="BIH", BIH | QOURAN BOSNA TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111490.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111490.ts
 
 #EXTINF:-1 tvg-id="BIH | RTRS" tvg-logo="noimage.png" group-title="BIH", BIH | RTRS
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111459.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111459.ts
 
 #EXTINF:-1 tvg-id="BIH | RTRS PLUS" tvg-logo="noimage.png" group-title="BIH", BIH | RTRS PLUS
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111460.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111460.ts
 
 #EXTINF:-1 tvg-id="BIH | RTV HERCEG BOSNE" tvg-logo="noimage.png" group-title="BIH", BIH | RTV HERCEG BOSNE
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111455.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111455.ts
 
 #EXTINF:-1 tvg-id="BIH | RTV SANA" tvg-logo="noimage.png" group-title="BIH", BIH | RTV SANA
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111477.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111477.ts
 
 #EXTINF:-1 tvg-id="BIH | RTV VISOKO HD" tvg-logo="noimage.png" group-title="BIH", BIH | RTV VISOKO HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111478.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111478.ts
 
 #EXTINF:-1 tvg-id="BIH | Sandzak TV" tvg-logo="noimage.png" group-title="BIH", BIH | Sandzak TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111470.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111470.ts
 
 #EXTINF:-1 tvg-id="BIH | Sehara TV HD" tvg-logo="noimage.png" group-title="BIH", BIH | Sehara TV HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111471.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111471.ts
 
 #EXTINF:-1 tvg-id="BIH | TK" tvg-logo="noimage.png" group-title="BIH", BIH | TK
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111479.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111479.ts
 
 #EXTINF:-1 tvg-id="BIH | TV 5 Islam" tvg-logo="noimage.png" group-title="BIH", BIH | TV 5 Islam
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111472.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111472.ts
 
 #EXTINF:-1 tvg-id="BIH | TV B1 Gradacac" tvg-logo="noimage.png" group-title="BIH", BIH | TV B1 Gradacac
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111473.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111473.ts
 
 #EXTINF:-1 tvg-id="BIH | TV Podrinje" tvg-logo="noimage.png" group-title="BIH", BIH | TV Podrinje
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111474.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111474.ts
 
 #EXTINF:-1 tvg-id="BIH | TV SARAJEVO" tvg-logo="noimage.png" group-title="BIH", BIH | TV SARAJEVO
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111456.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111456.ts
 
 #EXTINF:-1 tvg-id="BIH | TV SLON EXTRA" tvg-logo="noimage.png" group-title="BIH", BIH | TV SLON EXTRA
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111476.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111476.ts
 
 #EXTINF:-1 tvg-id="BIH | TV ZENICA" tvg-logo="noimage.png" group-title="BIH", BIH | TV ZENICA
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111475.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111475.ts
 
 #EXTINF:-1 tvg-id="BIH | USK HD" tvg-logo="noimage.png" group-title="BIH", BIH | USK HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111488.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111488.ts
 
 #EXTINF:-1 tvg-id="BIH | Vikom TV" tvg-logo="noimage.png" group-title="BIH", BIH | Vikom TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111486.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111486.ts
 
 #EXTINF:-1 tvg-id="SLO | FOX Crime" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | FOX Crime
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111533.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111533.ts
 
 #EXTINF:-1 tvg-id="SLO | FOX Life" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | FOX Life
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111534.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111534.ts
 
 #EXTINF:-1 tvg-id="SLO | FOX Movies" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | FOX Movies
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111535.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111535.ts
 
 #EXTINF:-1 tvg-id="SLO | Golica" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | Golica
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111537.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111537.ts
 
 #EXTINF:-1 tvg-id="SLO | History" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | History
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111538.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111538.ts
 
 #EXTINF:-1 tvg-id="SLO | Kanal A" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | Kanal A
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111536.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111536.ts
 
 #EXTINF:-1 tvg-id="SLO | Planet TV" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | Planet TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111539.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111539.ts
 
 #EXTINF:-1 tvg-id="SLO | POP Brio" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | POP Brio
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111540.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111540.ts
 
 #EXTINF:-1 tvg-id="SLO | POP Kino" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | POP Kino
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111541.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111541.ts
 
 #EXTINF:-1 tvg-id="SLO | POP Oto" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | POP Oto
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111542.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111542.ts
 
 #EXTINF:-1 tvg-id="SLO | POP TV" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | POP TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111543.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111543.ts
 
 #EXTINF:-1 tvg-id="SLO | SLO 1" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | SLO 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111544.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111544.ts
 
 #EXTINF:-1 tvg-id="SLO | SLO 2" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | SLO 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111545.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111545.ts
 
 #EXTINF:-1 tvg-id="SLO | SLO 3" tvg-logo="noimage.png" group-title="SLOVENIJA", SLO | SLO 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111546.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111546.ts
 
 #EXTINF:-1 tvg-id="MKD | 24 Vesti" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | 24 Vesti
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111501.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111501.ts
 
 #EXTINF:-1 tvg-id="MKD | Alfa TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Alfa TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111507.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111507.ts
 
 #EXTINF:-1 tvg-id="MKD | Alsat" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Alsat
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111508.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111508.ts
 
 #EXTINF:-1 tvg-id="MKD | Cinestar TV premiere 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Cinestar TV premiere 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111517.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111517.ts
 
 #EXTINF:-1 tvg-id="MKD | Cinestar TV premiere 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Cinestar TV premiere 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111518.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111518.ts
 
 #EXTINF:-1 tvg-id="MKD | Folk Club Tv" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Folk Club Tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111524.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111524.ts
 
 #EXTINF:-1 tvg-id="MKD | Fox Life" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Fox Life
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111509.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111509.ts
 
 #EXTINF:-1 tvg-id="MKD | Fox TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Fox TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111510.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111510.ts
 
 #EXTINF:-1 tvg-id="MKD | Hugo 1 HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Hugo 1 HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111511.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111511.ts
 
 #EXTINF:-1 tvg-id="MKD | Hugo 2 HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Hugo 2 HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111512.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111512.ts
 
 #EXTINF:-1 tvg-id="MKD | Hugo 3 HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Hugo 3 HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111513.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111513.ts
 
 #EXTINF:-1 tvg-id="MKD | Hugo 4 HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Hugo 4 HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111514.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111514.ts
 
 #EXTINF:-1 tvg-id="MKD | Hugo 5 HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Hugo 5 HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111515.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111515.ts
 
 #EXTINF:-1 tvg-id="MKD | intv Avstralija" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | intv Avstralija
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111526.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111526.ts
 
 #EXTINF:-1 tvg-id="MKD | Kanal 5" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Kanal 5
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111503.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111503.ts
 
 #EXTINF:-1 tvg-id="MKD | Kanal 8" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Kanal 8
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111504.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111504.ts
 
 #EXTINF:-1 tvg-id="MKD | M:NET" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | M:NET
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111527.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111527.ts
 
 #EXTINF:-1 tvg-id="MKD | M:NET Info" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | M:NET Info
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111528.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111528.ts
 
 #EXTINF:-1 tvg-id="MKD | M:NET Kids" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | M:NET Kids
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111529.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111529.ts
 
 #EXTINF:-1 tvg-id="MKD | M:NET Sport" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | M:NET Sport
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111530.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111530.ts
 
 #EXTINF:-1 tvg-id="MKD | Makedonsko Sonce" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Makedonsko Sonce
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111531.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111531.ts
 
 #EXTINF:-1 tvg-id="MKD | MDC" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | MDC
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111532.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111532.ts
 
 #EXTINF:-1 tvg-id="MKD | MRT 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | MRT 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111498.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111498.ts
 
 #EXTINF:-1 tvg-id="MKD | MRT 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | MRT 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111499.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111499.ts
 
 #EXTINF:-1 tvg-id="MKD | MRT 3" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | MRT 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111500.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111500.ts
 
 #EXTINF:-1 tvg-id="MKD | Nasha Tv" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Nasha Tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111505.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111505.ts
 
 #EXTINF:-1 tvg-id="MKD | Roma TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Roma TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111506.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111506.ts
 
 #EXTINF:-1 tvg-id="MKD | Sitel" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Sitel
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111502.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111502.ts
 
 #EXTINF:-1 tvg-id="MKD | Sky Folk" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Sky Folk
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111516.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111516.ts
 
 #EXTINF:-1 tvg-id="MKD | Star Folk TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Star Folk TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111525.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111525.ts
 
 #EXTINF:-1 tvg-id="MKD | Telma HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Telma HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111520.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111520.ts
 
 #EXTINF:-1 tvg-id="MKD | Tera Bitola TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | Tera Bitola TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111521.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111521.ts
 
 #EXTINF:-1 tvg-id="MKD | TV Sonce" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | TV Sonce
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111522.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111522.ts
 
 #EXTINF:-1 tvg-id="MKD | TV Sutel" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | TV Sutel
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111523.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111523.ts
 
 #EXTINF:-1 tvg-id="MKD | TV+" tvg-logo="noimage.png" group-title="MAKEDONIJA", MKD | TV+
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111519.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111519.ts
 
 #EXTINF:-1 tvg-id="MNE | Gradska" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | Gradska
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111857.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111857.ts
 
 #EXTINF:-1 tvg-id="MNE | Nova M" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | Nova M
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111494.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111494.ts
 
 #EXTINF:-1 tvg-id="MNE | Pink M" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | Pink M
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111785.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111785.ts
 
 #EXTINF:-1 tvg-id="MNE | Prva TV CG" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | Prva TV CG
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111495.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111495.ts
 
 #EXTINF:-1 tvg-id="MNE | RTB Budva" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | RTB Budva
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111786.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111786.ts
 
 #EXTINF:-1 tvg-id="MNE | RTCG 1" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | RTCG 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111491.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111491.ts
 
 #EXTINF:-1 tvg-id="MNE | RTCG 2" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | RTCG 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111492.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111492.ts
 
 #EXTINF:-1 tvg-id="MNE | RTCG Sat" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | RTCG Sat
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111493.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111493.ts
 
 #EXTINF:-1 tvg-id="MNE | RTV Rozaje" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | RTV Rozaje
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111497.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111497.ts
 
 #EXTINF:-1 tvg-id="MNE | TV 7" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | TV 7
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111787.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111787.ts
 
 #EXTINF:-1 tvg-id="MNE | TVE" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | TVE
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111858.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111858.ts
 
 #EXTINF:-1 tvg-id="MNE | Vijesti" tvg-logo="noimage.png" group-title="CRNA GORA", MNE | Vijesti
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111496.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111496.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena ESport (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena ESport (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111686.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111686.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Fight (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Fight (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111687.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111687.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111692.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111692.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 1 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 1 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111701.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111701.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 1 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 1 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111693.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111693.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 1 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 1 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111862.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111862.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 10 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 10 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111710.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111710.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 10 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 10 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111761.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111761.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 1x2 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 1x2 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111691.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111691.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 2 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 2 (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111852.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111852.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 2 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 2 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111702.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111702.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 2 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 2 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111694.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111694.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 2 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 2 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111863.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111863.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 3 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 3 (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111853.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111853.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 3 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 3 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111703.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111703.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 3 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 3 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111695.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111695.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 3 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 3 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111864.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111864.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 4 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 4 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111704.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111704.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 4 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 4 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111696.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111696.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 4 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 4 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111865.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111865.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 5 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 5 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111705.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111705.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 5 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 5 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111697.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111697.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 5 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 5 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111866.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111866.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 6 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 6 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111706.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111706.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 6 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 6 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111698.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111698.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 7 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 7 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111707.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111707.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 7 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 7 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111699.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111699.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 8 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 8 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111708.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111708.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 8 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 8 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111700.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111700.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 9 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 9 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111709.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111709.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport 9 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport 9 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111760.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111760.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 1 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 1 (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111849.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111849.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 1 FHD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 1 FHD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111688.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111688.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 1 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 1 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111859.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111859.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 2 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 2 (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111850.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111850.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 2 FHD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 2 FHD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111689.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111689.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 2 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 2 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111860.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111860.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 3 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 3 (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111851.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111851.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 3 FHD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 3 FHD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111690.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111690.ts
 
 #EXTINF:-1 tvg-id="SPORT | Arena Sport Premium 3 HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Arena Sport Premium 3 HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111861.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111861.ts
 
 #EXTINF:-1 tvg-id="SPORT | EuroSport 1 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | EuroSport 1 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111711.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111711.ts
 
 #EXTINF:-1 tvg-id="SPORT | EuroSport 2 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | EuroSport 2 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111712.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111712.ts
 
 #EXTINF:-1 tvg-id="SPORT | Fight Network" tvg-logo="noimage.png" group-title="SPORT", SPORT | Fight Network
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111718.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111718.ts
 
 #EXTINF:-1 tvg-id="SPORT | MAX Sport 1 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | MAX Sport 1 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111713.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111713.ts
 
 #EXTINF:-1 tvg-id="SPORT | MAX Sport 2 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | MAX Sport 2 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111714.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111714.ts
 
 #EXTINF:-1 tvg-id="SPORT | Moja TV Premier Liga (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Moja TV Premier Liga (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111715.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111715.ts
 
 #EXTINF:-1 tvg-id="SPORT | Nova Sport ?? (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Nova Sport ?? (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111717.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111717.ts
 
 #EXTINF:-1 tvg-id="SPORT | Nova Sport ??? (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Nova Sport ??? (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111716.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111716.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 1 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 1 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111732.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111732.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 1 ?? (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 1 ?? (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111724.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111724.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 1 ??? (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 1 ??? (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111723.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111723.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 10 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 10 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111855.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111855.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 2 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 2 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111733.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111733.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 2 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 2 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111725.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111725.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 3 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 3 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111734.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111734.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 3 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 3 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111726.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111726.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 4 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 4 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111735.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111735.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 4 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 4 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111727.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111727.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 5 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 5 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111736.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111736.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 5 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 5 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111728.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111728.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 6 (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 6 (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111737.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111737.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 6 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 6 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111729.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111729.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 7 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 7 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111730.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111730.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 8 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 8 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111731.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111731.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub 9 (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub 9 (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111854.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111854.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub ESport (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub ESport (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111720.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111720.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub Fight (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub Fight (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111719.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111719.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub Golf (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub Golf (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111721.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111721.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport Klub HD (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport Klub HD (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111722.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111722.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport TV 1 (SLO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport TV 1 (SLO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111741.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111741.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport TV 2 (SLO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport TV 2 (SLO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111742.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111742.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sport TV 3 (SLO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sport TV 3 (SLO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111743.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111743.ts
 
 #EXTINF:-1 tvg-id="SPORT | Sportska TV (CRO)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Sportska TV (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111738.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111738.ts
 
 #EXTINF:-1 tvg-id="SPORT | TV Partizan (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | TV Partizan (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111739.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111739.ts
 
 #EXTINF:-1 tvg-id="SPORT | Zvezda TV (SRB)" tvg-logo="noimage.png" group-title="SPORT", SPORT | Zvezda TV (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111740.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111740.ts
 
 #EXTINF:-1 tvg-id="Filmski | AMC" tvg-logo="noimage.png" group-title="FILM", Filmski | AMC
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111547.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111547.ts
 
 #EXTINF:-1 tvg-id="Filmski | AXN" tvg-logo="noimage.png" group-title="FILM", Filmski | AXN
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111548.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111548.ts
 
 #EXTINF:-1 tvg-id="Filmski | AXN Spin" tvg-logo="noimage.png" group-title="FILM", Filmski | AXN Spin
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111549.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111549.ts
 
 #EXTINF:-1 tvg-id="Filmski | Box Office 1" tvg-logo="noimage.png" group-title="FILM", Filmski | Box Office 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111814.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111814.ts
 
 #EXTINF:-1 tvg-id="Filmski | Box Office 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Box Office 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111815.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111815.ts
 
 #EXTINF:-1 tvg-id="Filmski | Box Office 3" tvg-logo="noimage.png" group-title="FILM", Filmski | Box Office 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111816.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111816.ts
 
 #EXTINF:-1 tvg-id="Filmski | Box Office 4" tvg-logo="noimage.png" group-title="FILM", Filmski | Box Office 4
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111817.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111817.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 1" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111802.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111802.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 10" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 10
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111811.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111811.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111803.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111803.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 2K" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 2K
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111812.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111812.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 2K 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 2K 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111813.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111813.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 3" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111804.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111804.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 4" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 4
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111805.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111805.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 5" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 5
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111807.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111807.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 6" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 6
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111806.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111806.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 7" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 7
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111808.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111808.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 8" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 8
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111809.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111809.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cine+ Select 9" tvg-logo="noimage.png" group-title="FILM", Filmski | Cine+ Select 9
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111810.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111810.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinemania" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinemania
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111550.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111550.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinemax 1" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinemax 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111551.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111551.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinemax 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinemax 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111552.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111552.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinestar Action" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinestar Action
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111553.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111553.ts
 
 #EXTINF:-1 tvg-id="Filmski | CineStar Comedy" tvg-logo="noimage.png" group-title="FILM", Filmski | CineStar Comedy
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111554.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111554.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinestar Fantasy" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinestar Fantasy
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111555.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111555.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinestar Premiere 1" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinestar Premiere 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111556.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111556.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinestar Premiere 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinestar Premiere 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111557.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111557.ts
 
 #EXTINF:-1 tvg-id="Filmski | Cinestar TV" tvg-logo="noimage.png" group-title="FILM", Filmski | Cinestar TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111558.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111558.ts
 
 #EXTINF:-1 tvg-id="Filmski | CineStar Tv 2" tvg-logo="noimage.png" group-title="FILM", Filmski | CineStar Tv 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111559.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111559.ts
 
 #EXTINF:-1 tvg-id="Filmski | Comedy Central Extra Hr" tvg-logo="noimage.png" group-title="FILM", Filmski | Comedy Central Extra Hr
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111560.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111560.ts
 
 #EXTINF:-1 tvg-id="Filmski | Diva" tvg-logo="noimage.png" group-title="FILM", Filmski | Diva
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111561.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111561.ts
 
 #EXTINF:-1 tvg-id="Filmski | Dizi (Turske Serije)" tvg-logo="noimage.png" group-title="FILM", Filmski | Dizi (Turske Serije)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111789.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111789.ts
 
 #EXTINF:-1 tvg-id="Filmski | Epic Drama HD" tvg-logo="noimage.png" group-title="FILM", Filmski | Epic Drama HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111562.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111562.ts
 
 #EXTINF:-1 tvg-id="Filmski | Euro Cinema 1" tvg-logo="noimage.png" group-title="FILM", Filmski | Euro Cinema 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111790.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111790.ts
 
 #EXTINF:-1 tvg-id="Filmski | Euro Cinema 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Euro Cinema 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111791.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111791.ts
 
 #EXTINF:-1 tvg-id="Filmski | Euro Cinema 3" tvg-logo="noimage.png" group-title="FILM", Filmski | Euro Cinema 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111792.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111792.ts
 
 #EXTINF:-1 tvg-id="Filmski | Euro Cinema 4" tvg-logo="noimage.png" group-title="FILM", Filmski | Euro Cinema 4
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111793.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111793.ts
 
 #EXTINF:-1 tvg-id="Filmski | Filmbox Extra" tvg-logo="noimage.png" group-title="FILM", Filmski | Filmbox Extra
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111563.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111563.ts
 
 #EXTINF:-1 tvg-id="Filmski | FilmBox Stars" tvg-logo="noimage.png" group-title="FILM", Filmski | FilmBox Stars
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111564.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111564.ts
 
 #EXTINF:-1 tvg-id="Filmski | Friends 24/7" tvg-logo="noimage.png" group-title="FILM", Filmski | Friends 24/7
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111569.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111569.ts
 
 #EXTINF:-1 tvg-id="Filmski | HBO" tvg-logo="noimage.png" group-title="FILM", Filmski | HBO
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111570.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111570.ts
 
 #EXTINF:-1 tvg-id="Filmski | HBO 2" tvg-logo="noimage.png" group-title="FILM", Filmski | HBO 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111571.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111571.ts
 
 #EXTINF:-1 tvg-id="Filmski | HBO 3" tvg-logo="noimage.png" group-title="FILM", Filmski | HBO 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111572.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111572.ts
 
 #EXTINF:-1 tvg-id="Filmski | HBO Go" tvg-logo="noimage.png" group-title="FILM", Filmski | HBO Go
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111574.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111574.ts
 
 #EXTINF:-1 tvg-id="Filmski | HBO Max" tvg-logo="noimage.png" group-title="FILM", Filmski | HBO Max
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111573.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111573.ts
 
 #EXTINF:-1 tvg-id="Filmski | Kino Tv" tvg-logo="noimage.png" group-title="FILM", Filmski | Kino Tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111575.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111575.ts
 
 #EXTINF:-1 tvg-id="Filmski | Klasik TV" tvg-logo="noimage.png" group-title="FILM", Filmski | Klasik TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111576.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111576.ts
 
 #EXTINF:-1 tvg-id="Filmski | Lud zbunjen normalan 24/7" tvg-logo="noimage.png" group-title="FILM", Filmski | Lud zbunjen normalan 24/7
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111577.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111577.ts
 
 #EXTINF:-1 tvg-id="Filmski | M1 Family" tvg-logo="noimage.png" group-title="FILM", Filmski | M1 Family
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111788.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111788.ts
 
 #EXTINF:-1 tvg-id="Filmski | M1 Film" tvg-logo="noimage.png" group-title="FILM", Filmski | M1 Film
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111578.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111578.ts
 
 #EXTINF:-1 tvg-id="Filmski | M1 Film Gold" tvg-logo="noimage.png" group-title="FILM", Filmski | M1 Film Gold
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111579.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111579.ts
 
 #EXTINF:-1 tvg-id="Filmski | Nova Cinema" tvg-logo="noimage.png" group-title="FILM", Filmski | Nova Cinema
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111580.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111580.ts
 
 #EXTINF:-1 tvg-id="Filmski | Nova Family" tvg-logo="noimage.png" group-title="FILM", Filmski | Nova Family
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111581.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111581.ts
 
 #EXTINF:-1 tvg-id="Filmski | Nova Plus Cinema" tvg-logo="noimage.png" group-title="FILM", Filmski | Nova Plus Cinema
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111582.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111582.ts
 
 #EXTINF:-1 tvg-id="Filmski | Nova Plus Cinema 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Nova Plus Cinema 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111583.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111583.ts
 
 #EXTINF:-1 tvg-id="Filmski | Nova Plus Family" tvg-logo="noimage.png" group-title="FILM", Filmski | Nova Plus Family
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111584.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111584.ts
 
 #EXTINF:-1 tvg-id="Filmski | Nova World" tvg-logo="noimage.png" group-title="FILM", Filmski | Nova World
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111585.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111585.ts
 
 #EXTINF:-1 tvg-id="Filmski | Pickbox HD" tvg-logo="noimage.png" group-title="FILM", Filmski | Pickbox HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111586.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111586.ts
 
 #EXTINF:-1 tvg-id="Filmski | Premiere 1" tvg-logo="noimage.png" group-title="FILM", Filmski | Premiere 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111818.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111818.ts
 
 #EXTINF:-1 tvg-id="Filmski | Premiere 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Premiere 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111819.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111819.ts
 
 #EXTINF:-1 tvg-id="Filmski | Premiere 3" tvg-logo="noimage.png" group-title="FILM", Filmski | Premiere 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111820.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111820.ts
 
 #EXTINF:-1 tvg-id="Filmski | Premiere 4" tvg-logo="noimage.png" group-title="FILM", Filmski | Premiere 4
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111821.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111821.ts
 
 #EXTINF:-1 tvg-id="Filmski | Premiere 5" tvg-logo="noimage.png" group-title="FILM", Filmski | Premiere 5
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111822.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111822.ts
 
 #EXTINF:-1 tvg-id="Filmski | SciFi Max" tvg-logo="noimage.png" group-title="FILM", Filmski | SciFi Max
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111587.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111587.ts
 
 #EXTINF:-1 tvg-id="Filmski | STAR Channel" tvg-logo="noimage.png" group-title="FILM", Filmski | STAR Channel
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111565.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111565.ts
 
 #EXTINF:-1 tvg-id="Filmski | STAR Crime" tvg-logo="noimage.png" group-title="FILM", Filmski | STAR Crime
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111566.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111566.ts
 
 #EXTINF:-1 tvg-id="Filmski | STAR Life" tvg-logo="noimage.png" group-title="FILM", Filmski | STAR Life
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111567.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111567.ts
 
 #EXTINF:-1 tvg-id="Filmski | STAR Movies" tvg-logo="noimage.png" group-title="FILM", Filmski | STAR Movies
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111568.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111568.ts
 
 #EXTINF:-1 tvg-id="Filmski | Superstar 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Superstar 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111589.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111589.ts
 
 #EXTINF:-1 tvg-id="Filmski | Superstar TV" tvg-logo="noimage.png" group-title="FILM", Filmski | Superstar TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111588.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111588.ts
 
 #EXTINF:-1 tvg-id="Filmski | TV 1000" tvg-logo="noimage.png" group-title="FILM", Filmski | TV 1000
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111602.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111602.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 1" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111794.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111794.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 2" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111795.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111795.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 3" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 3
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111796.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111796.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 4" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 4
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111797.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111797.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 5" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 5
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111798.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111798.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 6" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 6
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111799.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111799.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 7" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 7
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111800.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111800.ts
 
 #EXTINF:-1 tvg-id="Filmski | Tv Select 8" tvg-logo="noimage.png" group-title="FILM", Filmski | Tv Select 8
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111801.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111801.ts
 
 #EXTINF:-1 tvg-id="Doku | 24 Kitchen" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | 24 Kitchen
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111603.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111603.ts
 
 #EXTINF:-1 tvg-id="Doku | Agro TV" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Agro TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111604.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111604.ts
 
 #EXTINF:-1 tvg-id="Doku | Animal Planet" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Animal Planet
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111605.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111605.ts
 
 #EXTINF:-1 tvg-id="Doku | BBC Earth" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | BBC Earth
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111606.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111606.ts
 
 #EXTINF:-1 tvg-id="Doku | Capital" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Capital
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111607.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111607.ts
 
 #EXTINF:-1 tvg-id="Doku | Crime & Investigation" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Crime & Investigation
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111608.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111608.ts
 
 #EXTINF:-1 tvg-id="Doku | Da Vinci Learning" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Da Vinci Learning
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111609.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111609.ts
 
 #EXTINF:-1 tvg-id="Doku | Discovery Channel" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Discovery Channel
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111610.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111610.ts
 
 #EXTINF:-1 tvg-id="Doku | DOKU TV" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | DOKU TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111612.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111612.ts
 
 #EXTINF:-1 tvg-id="Doku | DOX Tv" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | DOX Tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111611.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111611.ts
 
 #EXTINF:-1 tvg-id="Doku | E! Entertainment" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | E! Entertainment
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111613.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111613.ts
 
 #EXTINF:-1 tvg-id="Doku | FashionTV (FTV)" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | FashionTV (FTV)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111823.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111823.ts
 
 #EXTINF:-1 tvg-id="Doku | FashionTV (FTV) 4K UHD" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | FashionTV (FTV) 4K UHD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111827.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111827.ts
 
 #EXTINF:-1 tvg-id="Doku | FashionTV (FTV) Midnight Secrets" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | FashionTV (FTV) Midnight Secrets
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111826.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111826.ts
 
 #EXTINF:-1 tvg-id="Doku | FashionTV (FTV) NewYork" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | FashionTV (FTV) NewYork
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111824.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111824.ts
 
 #EXTINF:-1 tvg-id="Doku | FashionTV (FTV) Paris" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | FashionTV (FTV) Paris
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111825.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111825.ts
 
 #EXTINF:-1 tvg-id="Doku | Food Network" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Food Network
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111614.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111614.ts
 
 #EXTINF:-1 tvg-id="Doku | History Channel" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | History Channel
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111615.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111615.ts
 
 #EXTINF:-1 tvg-id="Doku | History Channel 2" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | History Channel 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111616.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111616.ts
 
 #EXTINF:-1 tvg-id="Doku | ID Discovery / Investigation Discovery" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | ID Discovery / Investigation Discovery
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111617.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111617.ts
 
 #EXTINF:-1 tvg-id="Doku | Kanal 6 HD" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Kanal 6 HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111618.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111618.ts
 
 #EXTINF:-1 tvg-id="Doku | Lov i Ribolov" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Lov i Ribolov
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111619.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111619.ts
 
 #EXTINF:-1 tvg-id="Doku | Nat Geo Wild" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Nat Geo Wild
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111620.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111620.ts
 
 #EXTINF:-1 tvg-id="Doku | National Geographic" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | National Geographic
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111621.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111621.ts
 
 #EXTINF:-1 tvg-id="Doku | Nova Documentary" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Nova Documentary
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111622.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111622.ts
 
 #EXTINF:-1 tvg-id="Doku | TLC" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | TLC
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111623.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111623.ts
 
 #EXTINF:-1 tvg-id="Doku | Travel Channel HD" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Travel Channel HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111624.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111624.ts
 
 #EXTINF:-1 tvg-id="Doku | Viasat Explorer" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Viasat Explorer
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111625.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111625.ts
 
 #EXTINF:-1 tvg-id="Doku | Viasat History" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Viasat History
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111626.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111626.ts
 
 #EXTINF:-1 tvg-id="Doku | Viasat Nature" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Doku | Viasat Nature
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111627.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111627.ts
 
 #EXTINF:-1 tvg-id="Muzika | ALTEA" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | ALTEA
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111828.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111828.ts
 
 #EXTINF:-1 tvg-id="Muzika | Balkan Tv Salzburg" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Balkan Tv Salzburg
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111829.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111829.ts
 
 #EXTINF:-1 tvg-id="Muzika | Balkanika Music TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Balkanika Music TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111628.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111628.ts
 
 #EXTINF:-1 tvg-id="Muzika | BN Music" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | BN Music
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111629.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111629.ts
 
 #EXTINF:-1 tvg-id="Muzika | CityPlay" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | CityPlay
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111630.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111630.ts
 
 #EXTINF:-1 tvg-id="Muzika | CMC" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | CMC
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111631.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111631.ts
 
 #EXTINF:-1 tvg-id="Muzika | DM SAT" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | DM SAT
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111632.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111632.ts
 
 #EXTINF:-1 tvg-id="Muzika | DMC TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | DMC TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111633.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111633.ts
 
 #EXTINF:-1 tvg-id="Muzika | Duga TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Duga TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111634.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111634.ts
 
 #EXTINF:-1 tvg-id="Muzika | Grand 2" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Grand 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111635.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111635.ts
 
 #EXTINF:-1 tvg-id="Muzika | Grand Narodna TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Grand Narodna TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111636.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111636.ts
 
 #EXTINF:-1 tvg-id="Muzika | Hayat Folk" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Hayat Folk
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111637.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111637.ts
 
 #EXTINF:-1 tvg-id="Muzika | Hayat Music" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Hayat Music
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111638.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111638.ts
 
 #EXTINF:-1 tvg-id="Muzika | HIT FM TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | HIT FM TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111830.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111830.ts
 
 #EXTINF:-1 tvg-id="Muzika | Hype" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Hype
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111831.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111831.ts
 
 #EXTINF:-1 tvg-id="Muzika | IDJ TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | IDJ TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111639.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111639.ts
 
 #EXTINF:-1 tvg-id="Muzika | Imperia TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Imperia TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111640.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111640.ts
 
 #EXTINF:-1 tvg-id="Muzika | Jugoton" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Jugoton
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111641.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111641.ts
 
 #EXTINF:-1 tvg-id="Muzika | Karolina" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Karolina
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111642.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111642.ts
 
 #EXTINF:-1 tvg-id="Muzika | Moja Happy Muzika" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Moja Happy Muzika
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111833.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111833.ts
 
 #EXTINF:-1 tvg-id="Muzika | MTV Dance" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | MTV Dance
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111643.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111643.ts
 
 #EXTINF:-1 tvg-id="Muzika | MTV Rock" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | MTV Rock
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111644.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111644.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Electro" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Electro
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111842.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111842.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Flashback" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Flashback
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111843.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111843.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Jeka" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Jeka
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111838.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111838.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Moba" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Moba
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111844.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111844.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Pop Star" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Pop Star
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111836.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111836.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Rivijera" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Rivijera
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111839.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111839.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Rock&Roll" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Rock&Roll
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111835.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111835.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik Sense" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik Sense
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111841.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111841.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111834.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111834.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik World Wide Muzzik" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik World Wide Muzzik
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111837.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111837.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik ZZ 4000" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik ZZ 4000
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111845.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111845.ts
 
 #EXTINF:-1 tvg-id="Muzika | Muzzik ZZ TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Muzzik ZZ TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111840.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111840.ts
 
 #EXTINF:-1 tvg-id="Muzika | Narodni Tv" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Narodni Tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111645.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111645.ts
 
 #EXTINF:-1 tvg-id="Muzika | Pink Folk 1" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Pink Folk 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111646.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111646.ts
 
 #EXTINF:-1 tvg-id="Muzika | Pink Folk 2" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Pink Folk 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111647.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111647.ts
 
 #EXTINF:-1 tvg-id="Muzika | Pink Hits" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Pink Hits
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111648.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111648.ts
 
 #EXTINF:-1 tvg-id="Muzika | Pink Hits 2" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Pink Hits 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111649.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111649.ts
 
 #EXTINF:-1 tvg-id="Muzika | Pink Music 1" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Pink Music 1
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111650.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111650.ts
 
 #EXTINF:-1 tvg-id="Muzika | Pink Music 2" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Pink Music 2
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111651.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111651.ts
 
 #EXTINF:-1 tvg-id="Muzika | Planeta tv" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Planeta tv
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111652.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111652.ts
 
 #EXTINF:-1 tvg-id="Muzika | Radio Lola TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Radio Lola TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111832.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111832.ts
 
 #EXTINF:-1 tvg-id="Muzika | Radio S TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Radio S TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111653.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111653.ts
 
 #EXTINF:-1 tvg-id="Muzika | Sevdah TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Sevdah TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111654.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111654.ts
 
 #EXTINF:-1 tvg-id="Muzika | TDI Radio TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | TDI Radio TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111655.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111655.ts
 
 #EXTINF:-1 tvg-id="Muzika | TOP TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | TOP TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111656.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111656.ts
 
 #EXTINF:-1 tvg-id="Muzika | Toxic" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Toxic
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111657.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111657.ts
 
 #EXTINF:-1 tvg-id="Muzika | Valentino TV" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Valentino TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111658.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111658.ts
 
 #EXTINF:-1 tvg-id="Muzika | Yu Planet" tvg-logo="noimage.png" group-title="MUZIKA", Muzika | Yu Planet
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111659.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111659.ts
 
 #EXTINF:-1 tvg-id="SRB | RTS Muzika" tvg-logo="noimage.png" group-title="MUZIKA", SRB | RTS Muzika
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111390.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111390.ts
 
 #EXTINF:-1 tvg-id="Deca | Baby TV" tvg-logo="noimage.png" group-title="DJECA", Deca | Baby TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111660.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111660.ts
 
 #EXTINF:-1 tvg-id="Deca | Blejz i Cudovisne Masine (SRB)" tvg-logo="noimage.png" group-title="DJECA", Deca | Blejz i Cudovisne Masine (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111674.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111674.ts
 
 #EXTINF:-1 tvg-id="Deca | Cartoon Network" tvg-logo="noimage.png" group-title="DJECA", Deca | Cartoon Network
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111661.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111661.ts
 
 #EXTINF:-1 tvg-id="Deca | Comedy Central Extra" tvg-logo="noimage.png" group-title="DJECA", Deca | Comedy Central Extra
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111662.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111662.ts
 
 #EXTINF:-1 tvg-id="Deca | Disney Channel" tvg-logo="noimage.png" group-title="DJECA", Deca | Disney Channel
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111663.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111663.ts
 
 #EXTINF:-1 tvg-id="Deca | DUCK TV" tvg-logo="noimage.png" group-title="DJECA", Deca | DUCK TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111664.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111664.ts
 
 #EXTINF:-1 tvg-id="Deca | Hayatovci" tvg-logo="noimage.png" group-title="DJECA", Deca | Hayatovci
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111665.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111665.ts
 
 #EXTINF:-1 tvg-id="Deca | LOONEY TUNES TV HD" tvg-logo="noimage.png" group-title="DJECA", Deca | LOONEY TUNES TV HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111666.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111666.ts
 
 #EXTINF:-1 tvg-id="Deca | Masa i Medo (BIH)" tvg-logo="noimage.png" group-title="DJECA", Deca | Masa i Medo (BIH)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111667.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111667.ts
 
 #EXTINF:-1 tvg-id="Deca | Masa i Medved (SRB)" tvg-logo="noimage.png" group-title="DJECA", Deca | Masa i Medved (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111668.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111668.ts
 
 #EXTINF:-1 tvg-id="Deca | Mickey Mouse Clubhouse" tvg-logo="noimage.png" group-title="DJECA", Deca | Mickey Mouse Clubhouse
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111846.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111846.ts
 
 #EXTINF:-1 tvg-id="Deca | Mini TV" tvg-logo="noimage.png" group-title="DJECA", Deca | Mini TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111669.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111669.ts
 
 #EXTINF:-1 tvg-id="Deca | Minimax" tvg-logo="noimage.png" group-title="DJECA", Deca | Minimax
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111670.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111670.ts
 
 #EXTINF:-1 tvg-id="Deca | Nick Jr" tvg-logo="noimage.png" group-title="DJECA", Deca | Nick Jr
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111671.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111671.ts
 
 #EXTINF:-1 tvg-id="Deca | Nick Jr (CRO)" tvg-logo="noimage.png" group-title="DJECA", Deca | Nick Jr (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111847.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111847.ts
 
 #EXTINF:-1 tvg-id="Deca | Nickelodeon" tvg-logo="noimage.png" group-title="DJECA", Deca | Nickelodeon
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111672.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111672.ts
 
 #EXTINF:-1 tvg-id="Deca | Patrolne Sape (SRB)" tvg-logo="noimage.png" group-title="DJECA", Deca | Patrolne Sape (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111675.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111675.ts
 
 #EXTINF:-1 tvg-id="Deca | Pepa Prase (SRB)" tvg-logo="noimage.png" group-title="DJECA", Deca | Pepa Prase (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111673.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111673.ts
 
 #EXTINF:-1 tvg-id="Deca | Pikaboo" tvg-logo="noimage.png" group-title="DJECA", Deca | Pikaboo
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111677.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111677.ts
 
 #EXTINF:-1 tvg-id="Deca | Pink Kids" tvg-logo="noimage.png" group-title="DJECA", Deca | Pink Kids
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111679.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111679.ts
 
 #EXTINF:-1 tvg-id="Deca | PINK PANTER TV" tvg-logo="noimage.png" group-title="DJECA", Deca | PINK PANTER TV
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111678.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111678.ts
 
 #EXTINF:-1 tvg-id="Deca | PINK SUPER KIDS" tvg-logo="noimage.png" group-title="DJECA", Deca | PINK SUPER KIDS
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111680.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111680.ts
 
 #EXTINF:-1 tvg-id="Deca | Pocoyo (CRO)" tvg-logo="noimage.png" group-title="DJECA", Deca | Pocoyo (CRO)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111676.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111676.ts
 
 #EXTINF:-1 tvg-id="Deca | RTL Kockica" tvg-logo="noimage.png" group-title="DJECA", Deca | RTL Kockica
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111681.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111681.ts
 
 #EXTINF:-1 tvg-id="Deca | Sundjer Bob (SRB)" tvg-logo="noimage.png" group-title="DJECA", Deca | Sundjer Bob (SRB)
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111848.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111848.ts
 
 #EXTINF:-1 tvg-id="Deca | TeslaVision Kids" tvg-logo="noimage.png" group-title="DJECA", Deca | TeslaVision Kids
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111682.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111682.ts
 
 #EXTINF:-1 tvg-id="Deca | TeslaVision Uspavanke 24/7" tvg-logo="noimage.png" group-title="DJECA", Deca | TeslaVision Uspavanke 24/7
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111683.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111683.ts
 
 #EXTINF:-1 tvg-id="Deca | TNT KIDS" tvg-logo="noimage.png" group-title="DJECA", Deca | TNT KIDS
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111684.m3u8
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111684.ts
 
 #EXTINF:-1 tvg-id="Deca | TOM & JERRY CHANNEL HD" tvg-logo="noimage.png" group-title="DJECA", Deca | TOM & JERRY CHANNEL HD
-https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111685.m3u8
-
-
-
+https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111685.ts
 
 
 
