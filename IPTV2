@@ -1,40 +1,40 @@
 
 #EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="CRO | HRT 1" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 1
+#EXTINF:-1 tvg-id="CRO | HRT 1" tvg-name="HRT 1" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 1
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111414.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 1 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 1 (B)
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111415.ts
 
-#EXTINF:-1 tvg-id="CRO | HRT 2" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 2
+#EXTINF:-1 tvg-id="CRO | HRT 2" tvg-name="HRT 2" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 2
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111416.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 2 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 2 (B)
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111417.ts
 
-#EXTINF:-1 tvg-id="CRO | HRT 3" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 3
+#EXTINF:-1 tvg-id="CRO | HRT 3" tvg-name="HRT 3" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 3
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111418.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 3 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 3 (B)
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111419.ts
 
-#EXTINF:-1 tvg-id="CRO | HRT 4" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 4
+#EXTINF:-1 tvg-id="CRO | HRT 4" tvg-name="HRT 4" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 4
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111420.ts
 
 #EXTINF:-1 tvg-id="CRO | HRT 4 (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT 4 (B)
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111421.ts
 
-#EXTINF:-1 tvg-id="CRO | HRT Int" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT Int
+#EXTINF:-1 tvg-id="CRO | HRT Int" tvg-name="HRT int" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | HRT Int
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111422.ts
 
-#EXTINF:-1 tvg-id="CRO | Nova TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Nova TV
+#EXTINF:-1 tvg-id="CRO | Nova TV" tvg-name="NOVA TV" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Nova TV
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111430.ts
 
 #EXTINF:-1 tvg-id="CRO | Nova TV (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | Nova TV (B)
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111779.ts
 
-#EXTINF:-1 tvg-id="CRO | RTL" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL
+#EXTINF:-1 tvg-id="CRO | RTL" tvg-logo="noimage.png" tvg-name="RTL" group-title="HRVATSKA", CRO | RTL
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111423.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL (B)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL (B)
@@ -43,7 +43,7 @@ https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111777.ts
 #EXTINF:-1 tvg-id="CRO | RTL (B2)" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL (B2)
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111778.ts
 
-#EXTINF:-1 tvg-id="CRO | RTL 2" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL 2
+#EXTINF:-1 tvg-id="CRO | RTL 2" tvg-name="RTL 2" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL 2
 https://blackfenix.pro:2096/live/kERdH3L4AUSF/j9WdnfRUm3cN/111424.ts
 
 #EXTINF:-1 tvg-id="CRO | RTL Adria" tvg-logo="noimage.png" group-title="HRVATSKA", CRO | RTL Adria
