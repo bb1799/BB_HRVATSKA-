@@ -1921,21 +1921,20 @@ http://bntvs.com:2052/live/NenadG/457454566343/8520.ts
 
 # maxsport1
 
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://serv2.mediaking.fi:8080/live/Dalibor_Ristov/7c:64:56:97:48:04/14218.ts
+
+
+
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://fastrunner.live:8080/live/4TjigENaSK/fpuBGFvt4K/108388.ts
+
+#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
+http://bntvs.com:2052/live/NenadG/457454566343/23998.ts
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
 http://bntvs.com:2052/slobodanmomic/354455825/23998
 
 #EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://fastrunner.live:8080/live/4TjigENaSK/fpuBGFvt4K/108388.ts
-
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://iptvxx.ddns.net:25461/live/kajinicz8000hr/gq87vTRZbKMU/1872.ts
-
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://vipgsiv.top:8080/live/VIP0180170851739253/ec906fdd01c7/34146.ts
-
+http://client.nodomain.vip:80/live.ts?channelId=2185&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
 
 
 
