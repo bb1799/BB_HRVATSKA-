@@ -561,6 +561,19 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://bntvs.com:2052/live/zeljkobogicevic/04032022/8520.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://client.nodomain.vip:80/live.ts?channelId=1236&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://ott.dobratv.net:25461/live/mujanovico/orle654/6854.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://caffe.link:25461/live/65ivicajedinaknetiptv/vEHmkXdzGYvG1qwgh/6873.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
 http://s1.stealtnet.com/live/11eleelko2/iJvEdyV1qQ/39.ts
 
@@ -571,7 +584,19 @@ http://digital.nicesecrethotdigital.xyz:80/live/vi112560/8mXh9mVjH7/975349.ts
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6854.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://nett-tv.org:80/live/Seljan_marijan/uVQ67pLacS/10253.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
+http://anotv.org/live/Wapreal/NAFnLT7YZc/94.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",OTV
 http://bntvs.com:2052/live/NenadG/457454566343/8520.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-JABUKA TV",TV ZELINA
+http://ottshow.net:80/live/stojanGERAS.1200/gerasSTOJAN.1200/69903.ts
+
+
+
 
 
 
