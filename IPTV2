@@ -1,21 +1,3 @@
-
-#EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
-
-#EXTINF:-1 tvg-id="::::: HRVATSKA :::::" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2560px-Flag_of_Croatia.svg.png" group-title="HR_HRVATSKA", ::::: HRVATSKA :::::
-http://balkan-x.net:80/3U0BE3nCoy/PE1b9KXPIE/49240
-
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="HR_HRVATSKA", HRT 1 (HR)
-http://balkan-x.net:80/3U0BE3nCoy/PE1b9KXPIE/75921
-
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="HR_HRVATSKA", HRT 1 (HR) L2
-http://balkan-x.net:80/3U0BE3nCoy/PE1b9KXPIE/75922
-
-#EXTINF:-1 tvg-id="HRT 2 HD (HR).hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="HR_HRVATSKA", HRT 2 (HR)
-http://balkan-x.net:80/3U0BE3nCoy/PE1b9KXPIE/75923
-
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="HR_HRVATSKA", HRT 2 (HR) L2
-http://balkan-x.net:80/3U0BE3nCoy/PE1b9KXPIE/75924
-
 #EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska", HRT  1 HD
@@ -1957,1615 +1939,1611 @@ http://ottshow.net:80/stojanGERAS.1200/gerasSTOJAN.1200/76742
 
 
 
+#filmovi
 
 
 
 
-
-#vod exyu
-
-
-
-
-#EXTINF:-1 group-title="VOD EX-YU",Nedelja (2024) [EX-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Nedelja (2024) [EX-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/120395.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Zeros And Ones () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zeros And Ones () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103878.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Wrath Of Man () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Wrath Of Man () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103877.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Those Who Wish Me Dead () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Those Who Wish Me Dead () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103875.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Woman In The Window () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Woman In The Window () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103874.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Tomorrow War () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Tomorrow War () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103870.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Starling () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Starling () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103869.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Marksman () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Marksman () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103868.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Last Son () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Last Son () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103867.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Ice Road () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Ice Road () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103866.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Hitmans Wifes Bodyguard () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hitmans Wifes Bodyguard () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103865.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Hearts Of The Down Under And The My Son () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hearts Of The Down Under And The My Son () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103864.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Swan Song () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Swan Song () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103861.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Spiral From The Book Of Saw () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Spiral From The Book Of Saw () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103860.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Skater Girl () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Skater Girl () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103859.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Seobok () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Seobok () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103858.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Rogue Hostage () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rogue Hostage () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103857.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Prisoners Of The Ghostland () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Prisoners Of The Ghostland () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103856.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Old () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Old () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103854.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Nobody () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Nobody () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103853.mp4
-#EXTINF:-1 group-title="VOD EX-YU",My Little Pony A New Generation () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",My Little Pony A New Generation () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103851.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Mortal Kombat Legends Battle Of The Realms () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mortal Kombat Legends Battle Of The Realms () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103850.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Midnight In The Switchgrass () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Midnight In The Switchgrass () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103849.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Insight () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Insight () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103848.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Infinite () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Infinite () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103847.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Hytte () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hytte () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103845.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Free Guy () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Free Guy () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103844.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Fatherhood () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fatherhood () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103840.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Encounter () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Encounter () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103838.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Encanto () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Encanto () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103837.mp4
-#EXTINF:-1 group-title="VOD EX-YU",East Of The Mountains () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",East Of The Mountains () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103836.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Cruella () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cruella () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103835.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Blood Red Sky () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Blood Red Sky () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103833.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Aftermath () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Aftermath () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103831.mp4
-#EXTINF:-1 group-title="VOD EX-YU",A Quiet Place Part II () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Quiet Place Part II () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103830.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Zabavni Park Nocnih Mora () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zabavni Park Nocnih Mora () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103829.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Voyagers () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Voyagers () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103828.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Toma () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Toma () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103826.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Tom Clancy's Without Remorse () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tom Clancy's Without Remorse () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103825.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Tom And Jerry () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tom And Jerry () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103824.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Reckoning () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Reckoning () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103823.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Mitchells Vs  The Machines () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Mitchells Vs  The Machines () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103821.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Devil's Child () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Devil's Child () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103820.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Boss Baby Family Business () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Boss Baby Family Business () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103819.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Spoiled Brats () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Spoiled Brats () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103818.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Red Notice () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Red Notice () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103816.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Otac () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Otac () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103814.mp4
-#EXTINF:-1 group-title="VOD EX-YU",One Shot () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",One Shot () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103813.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Mortal Kombat () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mortal Kombat () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103812.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Lazarus () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lazarus () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103810.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Juzni Vetar 2 Ubrzanje () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Juzni Vetar 2 Ubrzanje () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103809.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Jungle Cruise () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jungle Cruise () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103808.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Jakobs Wife () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jakobs Wife () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103807.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Here Are The Young Men () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Here Are The Young Men () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103806.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Deset U Pola () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Deset U Pola () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103805.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Death Valley () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Death Valley () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103804.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Death To () [Ex-YU] () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Death To () [Ex-YU] () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103803.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Coming 2 America () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Coming 2 America () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103802.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Cherry () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cherry () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103801.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Chaos Walking () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Chaos Walking () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103800.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Castle Falls () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Castle Falls () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103799.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Bijeli Tigar () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bijeli Tigar () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103798.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Army Of The Dead () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Army Of The Dead () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103797.mp4
-#EXTINF:-1 group-title="VOD EX-YU",An  Raya And The Last Dragon () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",An  Raya And The Last Dragon () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103795.mp4
-#EXTINF:-1 group-title="VOD EX-YU",American Badger () [Ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",American Badger () [Ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/103794.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Wonder Woman () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Wonder Woman () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96113.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Triggered () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Triggered () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96112.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Source Of Shadows () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Source Of Shadows () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96111.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Midnight Sky () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Midnight Sky () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96110.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Invisible Man () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",The Invisible Man () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96109.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Empty Man () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Empty Man () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96108.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Bloodhound () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Bloodhound () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96107.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Tenet () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Tenet () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96106.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Strain 100 () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Strain 100 () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96105.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Skylines () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Skylines () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96104.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Run Hide Fight () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Run Hide Fight () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96103.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Roald Beatrix The Tail Of The Curious Mouse () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Roald Beatrix The Tail Of The Curious Mouse () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96102.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Redemption Day () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Redemption Day () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96101.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Outside The Wire () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Outside The Wire () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96100.mp4
-#EXTINF:-1 group-title="VOD EX-YU",News Of The World () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",News Of The World () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96099.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Let Him Go () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Let Him Go () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96098.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Horizon Line () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Horizon Line () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96097.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Honest Thief () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Honest Thief () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96096.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Half Brothers () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Half Brothers () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96095.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Greenland () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Greenland () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96094.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Girl Lost A Hollywood Story () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Girl Lost A Hollywood Story () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96093.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Freaky () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Freaky () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96092.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Fatman () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Fatman () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96091.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Clouds () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Clouds () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96090.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Blindfire () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Blindfire () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96089.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Army Of One () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Army Of One () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96088.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Ariana Grande Excuse Me I Love You () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ariana Grande Excuse Me I Love You () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96087.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Ana () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",Ana () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96086.mp4
-#EXTINF:-1 group-title="VOD EX-YU",A Recipe For Seduction () [ex-yu]
+#EXTINF:-1 group-title="BB_FILMOVI",A Recipe For Seduction () [ex-yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96085.mp4
-#EXTINF:-1 group-title="VOD EX-YU",A Christmas Gift From Bob () [ex-Yu]
+#EXTINF:-1 group-title="BB_FILMOVI",A Christmas Gift From Bob () [ex-Yu]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/96084.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Zona Zamfirova- 2 Vrati Se Zone [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zona Zamfirova- 2 Vrati Se Zone [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92192.avi
-#EXTINF:-1 group-title="VOD EX-YU",Zavet  [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zavet  [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92191.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Zajedno [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zajedno [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92190.avi
-#EXTINF:-1 group-title="VOD EX-YU",Zaba [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zaba [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92189.avi
-#EXTINF:-1 group-title="VOD EX-YU",Wrath Of The Titans (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Wrath Of The Titans (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92188.avi
-#EXTINF:-1 group-title="VOD EX-YU",Wonder Woman (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Wonder Woman (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92187.avi
-#EXTINF:-1 group-title="VOD EX-YU",Winchester (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Winchester (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92186.avi
-#EXTINF:-1 group-title="VOD EX-YU",Who Am I (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Who Am I (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92185.avi
-#EXTINF:-1 group-title="VOD EX-YU",White House Down (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",White House Down (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92184.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Where To Invade Next (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Where To Invade Next (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92183.avi
-#EXTINF:-1 group-title="VOD EX-YU",Wheelman (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Wheelman (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92182.avi
-#EXTINF:-1 group-title="VOD EX-YU",What Happened To Monday (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",What Happened To Monday (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92181.avi
-#EXTINF:-1 group-title="VOD EX-YU",Warcraft (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Warcraft (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92180.avi
-#EXTINF:-1 group-title="VOD EX-YU",War For The Planet Of The Apes (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",War For The Planet Of The Apes (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92179.avi
-#EXTINF:-1 group-title="VOD EX-YU",War Dogs (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",War Dogs (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92178.avi
-#EXTINF:-1 group-title="VOD EX-YU",Wall E (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Wall E (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92177.avi
-#EXTINF:-1 group-title="VOD EX-YU",Vuk Samotnjak [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Vuk Samotnjak [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92176.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Victor Frankenstein (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Victor Frankenstein (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92175.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Venom (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Venom (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92174.avi
-#EXTINF:-1 group-title="VOD EX-YU",Velika Frka () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Velika Frka () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92173.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Varljivo Leto [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Varljivo Leto [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92172.avi
-#EXTINF:-1 group-title="VOD EX-YU",Van Helsing () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Van Helsing () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92171.avi
-#EXTINF:-1 group-title="VOD EX-YU",Valter Brani Sarajevo [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Valter Brani Sarajevo [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92170.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Valerian And The City Of A Thousand Planets (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Valerian And The City Of A Thousand Planets (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92169.avi
-#EXTINF:-1 group-title="VOD EX-YU",V For Vendetta (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",V For Vendetta (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92168.avi
-#EXTINF:-1 group-title="VOD EX-YU",Upside Down (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Upside Down (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92167.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ups! Noa Je Otisao (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ups! Noa Je Otisao (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92166.avi
-#EXTINF:-1 group-title="VOD EX-YU",Upgrade (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Upgrade (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92165.avi
-#EXTINF:-1 group-title="VOD EX-YU",Unlocked (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Unlocked (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92164.avi
-#EXTINF:-1 group-title="VOD EX-YU",United 93 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",United 93 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92163.avi
-#EXTINF:-1 group-title="VOD EX-YU",Unfriended Dark Web (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Unfriended Dark Web (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92162.avi
-#EXTINF:-1 group-title="VOD EX-YU",Undisputed IV Boyka (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Undisputed IV Boyka (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92161.avi
-#EXTINF:-1 group-title="VOD EX-YU",Undisputed 3 Redemption (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Undisputed 3 Redemption (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92160.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Undisputed 2 Last Man Standing (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Undisputed 2 Last Man Standing (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92159.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Undisputed (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Undisputed (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92158.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Underworld Blood Wars (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Underworld Blood Wars (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92157.avi
-#EXTINF:-1 group-title="VOD EX-YU",Zoolander 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zoolander 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92156.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Uncle Drew (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Uncle Drew (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92155.avi
-#EXTINF:-1 group-title="VOD EX-YU",U Gori Raste Zelen Bor [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",U Gori Raste Zelen Bor [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92154.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tvrd Orah (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tvrd Orah (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92153.avi
-#EXTINF:-1 group-title="VOD EX-YU",Turneja () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Turneja () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92152.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Turbo (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Turbo (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92151.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Tunel () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tunel () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92150.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Truth (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Truth (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92149.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Trumbo (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Trumbo (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92148.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Triple Frontier (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Triple Frontier (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92147.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tri Metra Iznad Neba (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tri Metra Iznad Neba (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92146.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Trench 11 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Trench 11 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92145.avi
-#EXTINF:-1 group-title="VOD EX-YU",Trash (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Trash (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92144.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Transformers The Last Knight (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Transformers The Last Knight (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92143.avi
-#EXTINF:-1 group-title="VOD EX-YU",Transformers Age Of Extinction (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Transformers Age Of Extinction (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92142.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Tragedy Girls (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tragedy Girls (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92141.avi
-#EXTINF:-1 group-title="VOD EX-YU",Toro (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Toro (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92140.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tomb Raider (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tomb Raider (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92139.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tockovi [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tockovi [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92138.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tko Se Boji Vuka Jos (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tko Se Boji Vuka Jos (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92137.avi
-#EXTINF:-1 group-title="VOD EX-YU",Titanic (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Titanic (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92136.avi
-#EXTINF:-1 group-title="VOD EX-YU",Three Palms For Two Punks And A Babe [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Three Palms For Two Punks And A Babe [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92135.avi
-#EXTINF:-1 group-title="VOD EX-YU",Thor The Dark World (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Thor The Dark World (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92134.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Thor Ragnarok (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Thor Ragnarok (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92133.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Wolf Of Wall Street (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Wolf Of Wall Street (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92132.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Week Of (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Week Of (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92131.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Wedding Ringer (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Wedding Ringer (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92130.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Way Back (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Way Back (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92129.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Two Towers (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Two Towers (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92128.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Trust (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Trust (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92127.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Truman Show (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Truman Show (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92126.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Transporter Refueled (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Transporter Refueled (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92125.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Titan (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Titan (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92124.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Texas Chainsaw Massacre (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Texas Chainsaw Massacre (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92123.mp4
-#EXTINF:-1 group-title="VOD EX-YU",The Stolen Princess (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Stolen Princess (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92122.avi
-#EXTINF:-1 group-title="VOD EX-YU",The SpongeBob Movie Sponge Out Of Water () (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The SpongeBob Movie Sponge Out Of Water () (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92121.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Zootopia (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Zootopia (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92120.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Shawshank Redemption (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Shawshank Redemption (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92119.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Santa Clause (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Santa Clause (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92118.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Revenant (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Revenant (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92117.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Return Of The King (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Return Of The King (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92116.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Raid 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Raid 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92115.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Pyramid (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Pyramid (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92114.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Prodigy (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Prodigy (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92113.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Princess Switch (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Princess Switch (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92112.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Predator (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Predator (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92111.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Polar Express (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Polar Express (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92110.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Outsider (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Outsider (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92109.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Notebook (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Notebook (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92108.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Mule (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Mule (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92107.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Mountain Between Us (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Mountain Between Us (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92106.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Meg (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Meg (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92105.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Maze Runner (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Maze Runner (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92104.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Maus (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Maus (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92103.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Martian (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Martian (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92102.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Magnificent Seven (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Magnificent Seven (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92101.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Last Man (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Last Man (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92100.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Karate Kid () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Karate Kid () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92099.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Jungle Bunch (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Jungle Bunch (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92098.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Jungle Book (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Jungle Book (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92097.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Island (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Island (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92096.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Infiltrator (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Infiltrator (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92095.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Imitation Game (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Imitation Game (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92094.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Hurricane Heist (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hurricane Heist (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92093.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Hunger Games 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hunger Games 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92092.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Hunger Games (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hunger Games (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92091.avi
-#EXTINF:-1 group-title="VOD EX-YU",The House With A Clock In Its Walls (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The House With A Clock In Its Walls (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92090.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Hole In The Ground (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hole In The Ground (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92089.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Hobbit The Battle Of The Five Armies (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hobbit The Battle Of The Five Armies (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92088.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Hitman's Bodyguard (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Hitman's Bodyguard (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92087.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Happytime Murders (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Happytime Murders (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92086.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Guilty (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Guilty (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92085.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Green Mile (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Green Mile (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92084.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Good The Bad And The Ugly (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Good The Bad And The Ugly (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92083.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Godfather (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Godfather (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92082.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Girl In The Spider's Web (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Girl In The Spider's Web (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92081.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Gateway (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Gateway (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92080.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Foreigner (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Foreigner (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92079.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Fellowship Of The Ring (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Fellowship Of The Ring (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92078.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Expendables3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Expendables3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92077.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Equalizer (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Equalizer (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92076.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Emoji Movie (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Emoji Movie (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92075.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Dinner (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Dinner (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92074.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Dictator (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Dictator (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92073.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Debt Collector (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Debt Collector (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92072.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Dawnseeker (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Dawnseeker (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92071.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Dark Tower (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Dark Tower (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92070.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Dark Knight (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Dark Knight (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92069.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Cured (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Cured (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92068.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Croods (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Croods (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92067.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Conjuring 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Conjuring 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92066.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Cobbler (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Cobbler (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92065.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Circus (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Circus (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92064.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Christmas Chronicles (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Christmas Chronicles (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92063.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Bucket List (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Bucket List (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92062.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Brothers Grimsby (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Brothers Grimsby (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92061.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Boy Next Door (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Boy Next Door (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92060.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Bourne Legacy (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Bourne Legacy (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92059.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Bouncer (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Bouncer (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92058.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Avengers (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Avengers (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92057.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Amazing Wizard Of Paws (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Amazing Wizard Of Paws (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92056.avi
-#EXTINF:-1 group-title="VOD EX-YU",The Amazing Spider-Man 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Amazing Spider-Man 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92055.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The Accountant (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The Accountant (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92054.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tesna Koza 4 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tesna Koza 4 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92053.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Tesna Koza 3 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tesna Koza 3 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92052.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Tesna Koza 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tesna Koza 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92051.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Tesna Koza 1 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tesna Koza 1 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92050.mkv
-#EXTINF:-1 group-title="VOD EX-YU",The 33 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",The 33 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92049.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Tesko Je Biti Fin [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tesko Je Biti Fin [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92048.avi
-#EXTINF:-1 group-title="VOD EX-YU",Terminator Genisys (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Terminator Genisys (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92047.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Terminal (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Terminal (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92046.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tengo Ganas De Ti  (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tengo Ganas De Ti  (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92045.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Teenage Mutant Ninja Turtles () (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Teenage Mutant Ninja Turtles () (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92044.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Ted 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ted 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92043.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Taxi 5 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Taxi 5 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92042.avi
-#EXTINF:-1 group-title="VOD EX-YU",Tango Argentino [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tango Argentino [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92041.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Takva Su Pravila [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Takva Su Pravila [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92040.avi
-#EXTINF:-1 group-title="VOD EX-YU",Takken 3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Takken 3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92039.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Tajni (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Tajni (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92038.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sweet Country (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sweet Country (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92037.avi
-#EXTINF:-1 group-title="VOD EX-YU",Survival Island () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Survival Island () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92036.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Super Troopers 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Super Troopers 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92035.avi
-#EXTINF:-1 group-title="VOD EX-YU",Suicide Squad (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Suicide Squad (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92034.avi
-#EXTINF:-1 group-title="VOD EX-YU",Strumpfovi 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Strumpfovi 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92033.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Strangerland (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Strangerland (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92032.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Still-Born (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Still-Born (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92031.avi
-#EXTINF:-1 group-title="VOD EX-YU",Star WarsEpisode VII The Force Awakens (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Star WarsEpisode VII The Force Awakens (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92030.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Star Wars Episode 6 Return Of The Jedi (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Star Wars Episode 6 Return Of The Jedi (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92029.avi
-#EXTINF:-1 group-title="VOD EX-YU",Star Wars Episode 5 The Empire Strikes Back (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Star Wars Episode 5 The Empire Strikes Back (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92028.avi
-#EXTINF:-1 group-title="VOD EX-YU",Star Wars Episode 4 A New Hope (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Star Wars Episode 4 A New Hope (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92027.avi
-#EXTINF:-1 group-title="VOD EX-YU",Star Wars Episode 3  Revenge Of The Sith (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Star Wars Episode 3  Revenge Of The Sith (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92026.avi
-#EXTINF:-1 group-title="VOD EX-YU",Star Wars Episode 2  Attack Of The Clones (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Star Wars Episode 2  Attack Of The Clones (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92025.avi
-#EXTINF:-1 group-title="VOD EX-YU",Star Wars Episode 1 The Phantom Menace (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Star Wars Episode 1 The Phantom Menace (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92024.avi
-#EXTINF:-1 group-title="VOD EX-YU",Stan & Ollie (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Stan & Ollie (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92023.avi
-#EXTINF:-1 group-title="VOD EX-YU",Stado [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Stado [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92022.avi
-#EXTINF:-1 group-title="VOD EX-YU",Split (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Split (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92021.avi
-#EXTINF:-1 group-title="VOD EX-YU",Spirited Away (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Spirited Away (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92020.avi
-#EXTINF:-1 group-title="VOD EX-YU",Spider-Man Homecoming (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Spider-Man Homecoming (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92019.avi
-#EXTINF:-1 group-title="VOD EX-YU",Specijalno Vaspitanje [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Specijalno Vaspitanje [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92018.avi
-#EXTINF:-1 group-title="VOD EX-YU",Spasavanje Djeda Mraza (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Spasavanje Djeda Mraza (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92017.avi
-#EXTINF:-1 group-title="VOD EX-YU",Southpaw (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Southpaw (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92016.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Sonja I Bik [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sonja I Bik [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92015.avi
-#EXTINF:-1 group-title="VOD EX-YU",Snowden (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Snowden (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92014.avi
-#EXTINF:-1 group-title="VOD EX-YU",Snjezno Kraljevstvo (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Snjezno Kraljevstvo (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92013.avi
-#EXTINF:-1 group-title="VOD EX-YU",Snitch (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Snitch (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92012.avi
-#EXTINF:-1 group-title="VOD EX-YU",Smurfs The Lost Village (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Smurfs The Lost Village (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92011.avi
-#EXTINF:-1 group-title="VOD EX-YU",Smrt U Sarajevu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Smrt U Sarajevu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92010.avi
-#EXTINF:-1 group-title="VOD EX-YU",Skyscraper (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Skyscraper (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92009.avi
-#EXTINF:-1 group-title="VOD EX-YU",Skyfall (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Skyfall (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92008.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sjecas Li Se Dolly Bell [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sjecas Li Se Dolly Bell [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92007.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sisanje [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sisanje [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92006.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Sin City A Dame To Kill For (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sin City A Dame To Kill For (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92005.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Silent Hill (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Silent Hill (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92004.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Silencer (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Silencer (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92003.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sicario (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sicario (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92002.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Shrek 4 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Shrek 4 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92001.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Shrek 3 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Shrek 3 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/92000.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Shrek 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Shrek 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91999.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Shrek 1 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Shrek 1 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91998.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Shazam! (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Shazam! (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91997.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sharon 1 2 3  (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sharon 1 2 3  (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91996.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sezona Lova 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sezona Lova 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91995.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Sezona Lova (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sezona Lova (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91994.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Sex And The City 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sex And The City 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91993.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sesir Profesora Koste Vujica [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sesir Profesora Koste Vujica [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91992.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Sesir Profesora Koste Vujica EP 1 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sesir Profesora Koste Vujica EP 1 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91991.avi
-#EXTINF:-1 group-title="VOD EX-YU",Serenity (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Serenity (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91990.avi
-#EXTINF:-1 group-title="VOD EX-YU",Segrt Hlapic [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Segrt Hlapic [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91989.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sedmi Patuljak (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sedmi Patuljak (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91988.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sedam I Po [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sedam I Po [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91987.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Security (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Security (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91986.avi
-#EXTINF:-1 group-title="VOD EX-YU",Secret In Their Eyes (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Secret In Their Eyes (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91985.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Searching (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Searching (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91984.avi
-#EXTINF:-1 group-title="VOD EX-YU",Schindler's List (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Schindler's List (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91983.avi
-#EXTINF:-1 group-title="VOD EX-YU",Saw V (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Saw V (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91982.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Saw 4 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Saw 4 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91981.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Saving Private Ryan (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Saving Private Ryan (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91980.avi
-#EXTINF:-1 group-title="VOD EX-YU",San Andreas (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",San Andreas (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91979.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Samson (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Samson (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91978.avi
-#EXTINF:-1 group-title="VOD EX-YU",Samo Jednom Se Ljubi [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Samo Jednom Se Ljubi [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91977.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Sam U Kuci 4 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sam U Kuci 4 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91976.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sam U Kuci 3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sam U Kuci 3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91975.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sam U Kuci 2 Izgubljen U New Yorku (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sam U Kuci 2 Izgubljen U New Yorku (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91974.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sam U Kuci (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sam U Kuci (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91973.avi
-#EXTINF:-1 group-title="VOD EX-YU",Salas U Malom Ritu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Salas U Malom Ritu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91972.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Safe House (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Safe House (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91971.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Safe (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Safe (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91970.avi
-#EXTINF:-1 group-title="VOD EX-YU",Sabur [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Sabur [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91969.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Ruzno Pace Velika Utrka (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ruzno Pace Velika Utrka (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91968.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rust Creek (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rust Creek (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91967.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ronal Varvarin (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ronal Varvarin (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91966.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Rode U Magli 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rode U Magli 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91965.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Rode U Magli 1 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rode U Magli 1 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91964.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Rode (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rode (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91963.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rocky5 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rocky5 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91962.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rocky4 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rocky4 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91961.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rocky3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rocky3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91960.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rocky2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rocky2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91959.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rocky1 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rocky1 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91958.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rocky Balboa (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rocky Balboa (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91957.avi
-#EXTINF:-1 group-title="VOD EX-YU",RoboCop (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",RoboCop (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91956.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Robinson Krusoe  (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Robinson Krusoe  (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91955.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Robinson Crusoe (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Robinson Crusoe (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91954.avi
-#EXTINF:-1 group-title="VOD EX-YU",Robin Hood (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Robin Hood (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91953.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rise Of The Planet Of The Apes (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rise Of The Planet Of The Apes (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91952.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Rio (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rio (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91951.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Rings 3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rings 3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91950.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ride Along 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ride Along 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91949.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Revolt (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Revolt (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91948.avi
-#EXTINF:-1 group-title="VOD EX-YU",Resident Evil Retribution (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Resident Evil Retribution (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91947.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Reprisal (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Reprisal (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91946.avi
-#EXTINF:-1 group-title="VOD EX-YU",Replicas (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Replicas (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91945.avi
-#EXTINF:-1 group-title="VOD EX-YU",Regression (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Regression (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91944.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Rango (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rango (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91943.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rane [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rane [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91942.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Rampage (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rampage (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91941.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rambo 4 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rambo 4 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91940.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rambo 3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rambo 3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91939.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rambo 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rambo 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91938.avi
-#EXTINF:-1 group-title="VOD EX-YU",Rambo 1 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Rambo 1 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91937.avi
-#EXTINF:-1 group-title="VOD EX-YU",Profesionalac [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Profesionalac [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91936.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Princeva Strana Price (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Princeva Strana Price (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91935.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pride And Prejudice And Zombies (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pride And Prejudice And Zombies (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91934.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Prica O Igrackama 3 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Prica O Igrackama 3 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91933.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Prica O Igrackama 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Prica O Igrackama 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91932.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Prica O Igrackama (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Prica O Igrackama (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91931.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Praznik U Sarajevu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Praznik U Sarajevu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91930.avi
-#EXTINF:-1 group-title="VOD EX-YU",Potraga Za Nemom (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Potraga Za Nemom (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91929.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Potera Za Sreckom [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Potera Za Sreckom [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91928.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Poslednji Krug U Monci [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Poslednji Krug U Monci [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91927.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pompeii New Secrets Revealed (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pompeii New Secrets Revealed (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91926.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pompeii (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pompeii (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91925.avi
-#EXTINF:-1 group-title="VOD EX-YU",Podzemlje (Underground) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Podzemlje (Underground) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91924.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pljacka Treceg Rajha [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pljacka Treceg Rajha [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91923.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Planet Of The Sharks (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Planet Of The Sharks (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91922.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pismo Za Deda Mraza [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pismo Za Deda Mraza [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91921.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Pirates Of The Caribbean Dead Men Tell No Tales (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pirates Of The Caribbean Dead Men Tell No Tales (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91920.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pipi Duga Carapa (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pipi Duga Carapa (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91919.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pinokio I Zlatni Kljuc (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pinokio I Zlatni Kljuc (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91918.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pinokio (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pinokio (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91917.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pingvini S Madagaskara (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pingvini S Madagaskara (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91916.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pete I Zmaj (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pete I Zmaj (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91915.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pcelica Maja (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pcelica Maja (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91914.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Pawn Sacrifice (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pawn Sacrifice (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91913.avi
-#EXTINF:-1 group-title="VOD EX-YU",Partizanska Eskadrila [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Partizanska Eskadrila [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91912.avi
-#EXTINF:-1 group-title="VOD EX-YU",Paranormal Activity The Marked Ones (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Paranormal Activity The Marked Ones (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91911.avi
-#EXTINF:-1 group-title="VOD EX-YU",Paranormal Activity The Ghost Dimension (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Paranormal Activity The Ghost Dimension (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91910.avi
-#EXTINF:-1 group-title="VOD EX-YU",Paranormal Activity 3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Paranormal Activity 3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91909.avi
-#EXTINF:-1 group-title="VOD EX-YU",Paranormal Activity 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Paranormal Activity 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91908.avi
-#EXTINF:-1 group-title="VOD EX-YU",Paranormal Activity 1 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Paranormal Activity 1 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91907.avi
-#EXTINF:-1 group-title="VOD EX-YU",Parada [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Parada [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91906.avi
-#EXTINF:-1 group-title="VOD EX-YU",Papillon (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Papillon (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91905.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pain & Gain (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pain & Gain (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91904.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Pacific Rim Uprising (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pacific Rim Uprising (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91903.avi
-#EXTINF:-1 group-title="VOD EX-YU",Pablo Escobar Paradise Lost (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Pablo Escobar Paradise Lost (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91902.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ozzy Fast & Furry (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ozzy Fast & Furry (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91901.avi
-#EXTINF:-1 group-title="VOD EX-YU",Overlord (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Overlord (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91900.avi
-#EXTINF:-1 group-title="VOD EX-YU",Overboard (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Overboard (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91899.avi
-#EXTINF:-1 group-title="VOD EX-YU",Outcast (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Outcast (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91898.avi
-#EXTINF:-1 group-title="VOD EX-YU",Our Brand Is Crisis (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Our Brand Is Crisis (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91897.avi
-#EXTINF:-1 group-title="VOD EX-YU",Otac Na Sluzbenom Putu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Otac Na Sluzbenom Putu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91896.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Occupation (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Occupation (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91895.avi
-#EXTINF:-1 group-title="VOD EX-YU",Oblivion (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Oblivion (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91894.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Oblacno S Cuftama 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Oblacno S Cuftama 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91893.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Oblacno S Cuftama (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Oblacno S Cuftama (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91892.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Norm Of The North (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Norm Of The North (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91891.avi
-#EXTINF:-1 group-title="VOD EX-YU",Nobody's Fool (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Nobody's Fool (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91890.avi
-#EXTINF:-1 group-title="VOD EX-YU",Noah (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Noah (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91889.mkv
-#EXTINF:-1 group-title="VOD EX-YU",No Escape (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",No Escape (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91888.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Niko Bozicna Potraga (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Niko Bozicna Potraga (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91887.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Niko 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Niko 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91886.avi
-#EXTINF:-1 group-title="VOD EX-YU",Night School (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Night School (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91885.avi
-#EXTINF:-1 group-title="VOD EX-YU",Never Grow Old (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Never Grow Old (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91884.avi
-#EXTINF:-1 group-title="VOD EX-YU",Never Back Down No Surrender (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Never Back Down No Surrender (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91883.avi
-#EXTINF:-1 group-title="VOD EX-YU",Never Back Down 2 The Beatdown (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Never Back Down 2 The Beatdown (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91882.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Never Back Down (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Never Back Down (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91881.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Nerve (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Nerve (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91880.avi
-#EXTINF:-1 group-title="VOD EX-YU",Neka Druga Zena [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Neka Druga Zena [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91879.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Neighbors (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Neighbors (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91878.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Nasa Svakodnevna Prica [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Nasa Svakodnevna Prica [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91877.avi
-#EXTINF:-1 group-title="VOD EX-YU",Najbolji [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Najbolji [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91876.avi
-#EXTINF:-1 group-title="VOD EX-YU",Na Putu () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Na Putu () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91875.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Na Mlijecnom Putu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Na Mlijecnom Putu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91874.avi
-#EXTINF:-1 group-title="VOD EX-YU",My Little Pony (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",My Little Pony (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91873.avi
-#EXTINF:-1 group-title="VOD EX-YU",My Blind Date With Life (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",My Blind Date With Life (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91872.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mute (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mute (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91871.avi
-#EXTINF:-1 group-title="VOD EX-YU",Munje [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Munje [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91870.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mujo I Suljo Vicevi [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mujo I Suljo Vicevi [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91869.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mujo Gleda Lijepu Nizamu 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mujo Gleda Lijepu Nizamu 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91868.flv
-#EXTINF:-1 group-title="VOD EX-YU",Mujo Gleda Lijepu Nizamu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mujo Gleda Lijepu Nizamu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91867.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Mrtav Ladan [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mrtav Ladan [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91866.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mr  Peabody & Sherman (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mr  Peabody & Sherman (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91865.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mowgli Legend Of The Jungle (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mowgli Legend Of The Jungle (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91864.avi
-#EXTINF:-1 group-title="VOD EX-YU",Montevideo Vidimo Se! [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Montevideo Vidimo Se! [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91863.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Montevideo Bog Te Video! [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Montevideo Bog Te Video! [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91862.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Moljac [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Moljac [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91861.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Moana (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Moana (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91860.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mission Impossible Fallout (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mission Impossible Fallout (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91859.avi
-#EXTINF:-1 group-title="VOD EX-YU",Misconduct (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Misconduct (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91858.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Miracle On 34th Street (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Miracle On 34th Street (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91857.avi
-#EXTINF:-1 group-title="VOD EX-YU",Miodrag 'Ckalja' Petrovic [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Miodrag 'Ckalja' Petrovic [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91856.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Minions () (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Minions () (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91855.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mile 22 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mile 22 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91854.avi
-#EXTINF:-1 group-title="VOD EX-YU",Midnight Sun (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Midnight Sun (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91853.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mi Nismo Andjeli [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mi Nismo Andjeli [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91852.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mi Nismo Andjeli 3 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mi Nismo Andjeli 3 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91851.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mi Nismo Andjeli 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mi Nismo Andjeli 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91850.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Men Dont Cry [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Men Dont Cry [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91849.avi
-#EXTINF:-1 group-title="VOD EX-YU",Megamind (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Megamind (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91848.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Mechanic Resurrection (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mechanic Resurrection (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91847.avi
-#EXTINF:-1 group-title="VOD EX-YU",Maze Runner The Scorch Trials (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Maze Runner The Scorch Trials (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91846.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Maze Runner The Death Cure (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Maze Runner The Death Cure (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91845.avi
-#EXTINF:-1 group-title="VOD EX-YU",Matrix Revolutions (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Matrix Revolutions (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91844.avi
-#EXTINF:-1 group-title="VOD EX-YU",Matrix Reloaded (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Matrix Reloaded (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91843.avi
-#EXTINF:-1 group-title="VOD EX-YU",Matrix (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Matrix (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91842.avi
-#EXTINF:-1 group-title="VOD EX-YU",Marrying Father Christmas (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Marrying Father Christmas (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91841.avi
-#EXTINF:-1 group-title="VOD EX-YU",Maratonci Trce Pocasni Krug [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Maratonci Trce Pocasni Krug [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91840.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Man Of Steel (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Man Of Steel (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91839.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mamma Mia! Here We Go Again (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mamma Mia! Here We Go Again (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91838.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mali Leteci Medvjedici 3 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mali Leteci Medvjedici 3 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91837.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mali Leteci Medvjedici 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mali Leteci Medvjedici 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91836.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mali Leteci Medvjedici 1 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mali Leteci Medvjedici 1 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91835.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mali Budo [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mali Budo [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91834.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mali (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mali (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91833.avi
-#EXTINF:-1 group-title="VOD EX-YU",Mala Nocna Muzika [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mala Nocna Muzika [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91832.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Maggie (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Maggie (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91831.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Madagascar 3 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Madagascar 3 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91830.avi
-#EXTINF:-1 group-title="VOD EX-YU",Madagascar 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Madagascar 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91829.avi
-#EXTINF:-1 group-title="VOD EX-YU",Madagascar 1 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Madagascar 1 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91828.avi
-#EXTINF:-1 group-title="VOD EX-YU",MadMax Fury Road (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",MadMax Fury Road (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91827.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Mad Max Fury Road (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Mad Max Fury Road (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91826.avi
-#EXTINF:-1 group-title="VOD EX-YU",Macak U Cizmama (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Macak U Cizmama (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91825.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 9 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 9 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91824.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 8 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 8 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91823.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 10 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 10 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91822.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 7 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 7 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91821.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 6 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 6 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91820.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 5 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 5 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91819.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 4 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 4 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91818.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 3 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 3 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91817.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91816.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lude Godine 1 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lude Godine 1 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91815.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Love () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Love () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91814.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Lov U Mutnom [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lov U Mutnom [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91813.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Lost City Raiders (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lost City Raiders (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91812.avi
-#EXTINF:-1 group-title="VOD EX-YU",Lorax (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lorax (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91811.avi
-#EXTINF:-1 group-title="VOD EX-YU",Looking Glass (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Looking Glass (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91810.avi
-#EXTINF:-1 group-title="VOD EX-YU",Logan (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Logan (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91809.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ljeto U Zlatnoj Dolini [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ljeto U Zlatnoj Dolini [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91808.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Life On The Line (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Life On The Line (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91807.avi
-#EXTINF:-1 group-title="VOD EX-YU",Let's Be Cops (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Let's Be Cops (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91806.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Ledeno Doba 4 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ledeno Doba 4 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91805.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Ledeno Doba 3 Dinosauri Dolaze (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ledeno Doba 3 Dinosauri Dolaze (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91804.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ledeno Doba 2 Zatopljenje (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ledeno Doba 2 Zatopljenje (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91803.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Led [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Led [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91802.avi
-#EXTINF:-1 group-title="VOD EX-YU",Law Abiding Citizen (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Law Abiding Citizen (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91801.avi
-#EXTINF:-1 group-title="VOD EX-YU",Lassie (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lassie (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91800.avi
-#EXTINF:-1 group-title="VOD EX-YU",Lajanje Na Zvezde [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Lajanje Na Zvezde [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91799.mkv
-#EXTINF:-1 group-title="VOD EX-YU",La La Land (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",La La Land (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91798.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kursadzije Specijal 4 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kursadzije Specijal 4 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91797.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Kursadzije Specijal 3 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kursadzije Specijal 3 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91796.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Kursadzije Specijal 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kursadzije Specijal 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91795.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Kursadzije Specijal 1 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kursadzije Specijal 1 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91794.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Kung-Fu Yoga (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kung-Fu Yoga (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91793.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kung Fu Panda 3 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kung Fu Panda 3 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91792.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kuduz () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kuduz () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91791.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Kratki Izlet [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kratki Izlet [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91790.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kong Skull Island (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kong Skull Island (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91789.avi
-#EXTINF:-1 group-title="VOD EX-YU",Koliba U Sumi The Cabin In The Woods (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Koliba U Sumi The Cabin In The Woods (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91788.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ko To Tamo Peva [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ko To Tamo Peva [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91787.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kingsman The Golden Circle (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kingsman The Golden Circle (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91786.avi
-#EXTINF:-1 group-title="VOD EX-YU",King Of Thieves (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",King Of Thieves (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91785.avi
-#EXTINF:-1 group-title="VOD EX-YU",King Lear (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",King Lear (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91784.avi
-#EXTINF:-1 group-title="VOD EX-YU",Killing Season (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Killing Season (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91783.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kill Order (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kill Order (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91782.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kickboxer Vengeance (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kickboxer Vengeance (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91781.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kickboxer Retaliation (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kickboxer Retaliation (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91780.avi
-#EXTINF:-1 group-title="VOD EX-YU",Karaula [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Karaula [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91779.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kamijondzije 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kamijondzije 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91778.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Kamijondzije 1 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kamijondzije 1 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91777.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Kako Je Propao Rokenrol [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kako Je Propao Rokenrol [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91776.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Kajmak I Marmelada [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kajmak I Marmelada [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91775.avi
-#EXTINF:-1 group-title="VOD EX-YU",Kad Cujes Zvona [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Kad Cujes Zvona [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91774.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Juzni Vetar [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Juzni Vetar [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91773.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Justice League (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Justice League (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91772.avi
-#EXTINF:-1 group-title="VOD EX-YU",Just Getting Started (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Just Getting Started (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91771.avi
-#EXTINF:-1 group-title="VOD EX-YU",Jurassic World Fallen Kingdom (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jurassic World Fallen Kingdom (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91770.avi
-#EXTINF:-1 group-title="VOD EX-YU",Jurassic World (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jurassic World (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91769.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Juraj I Hrabri Vitezovi (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Juraj I Hrabri Vitezovi (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91768.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Jumanji Welcome To The Jungle (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jumanji Welcome To The Jungle (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91767.avi
-#EXTINF:-1 group-title="VOD EX-YU",Juhu-hu (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Juhu-hu (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91766.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Johnny English Strikes Again (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Johnny English Strikes Again (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91765.avi
-#EXTINF:-1 group-title="VOD EX-YU",John Wick 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",John Wick 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91764.avi
-#EXTINF:-1 group-title="VOD EX-YU",John Wick (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",John Wick (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91763.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Jesen Stize Dunjo Moja [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jesen Stize Dunjo Moja [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91762.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Jesen Samuraja [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jesen Samuraja [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91761.avi
-#EXTINF:-1 group-title="VOD EX-YU",Je Li Jasno Prijatelju [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Je Li Jasno Prijatelju [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91760.avi
-#EXTINF:-1 group-title="VOD EX-YU",Jason Bourne (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jason Bourne (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91759.avi
-#EXTINF:-1 group-title="VOD EX-YU",Jarhead 3 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jarhead 3 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91758.mkv
-#EXTINF:-1 group-title="VOD EX-YU",James Bond 007 Quantum Of Solace Zrno Utjehe (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",James Bond 007 Quantum Of Solace Zrno Utjehe (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91757.avi
-#EXTINF:-1 group-title="VOD EX-YU",James Bond 007 Die Another Day (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",James Bond 007 Die Another Day (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91756.avi
-#EXTINF:-1 group-title="VOD EX-YU",James Bond 007 Casino Royale (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",James Bond 007 Casino Royale (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91755.avi
-#EXTINF:-1 group-title="VOD EX-YU",Jaguarov Skok [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jaguarov Skok [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91754.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Jagode U Grlu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jagode U Grlu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91753.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Jack Ryan Shadow Recruit (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Jack Ryan Shadow Recruit (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91752.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Izvrnuto Obrnuto (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Izvrnuto Obrnuto (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91751.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ivkova Slava [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ivkova Slava [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91750.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Ispuni Mi Zelju Emisija O Ameli [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ispuni Mi Zelju Emisija O Ameli [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91749.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Isn't It Romantic (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Isn't It Romantic (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91748.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ismet Horo [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ismet Horo [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91747.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Island Zero (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Island Zero (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91746.avi
-#EXTINF:-1 group-title="VOD EX-YU",Iron Sky The Coming Race (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Iron Sky The Coming Race (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91745.avi
-#EXTINF:-1 group-title="VOD EX-YU",Into The Storm (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Into The Storm (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91744.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Interstellar (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Interstellar (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91743.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Inception (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Inception (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91742.avi
-#EXTINF:-1 group-title="VOD EX-YU",In Like Flynn (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",In Like Flynn (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91741.avi
-#EXTINF:-1 group-title="VOD EX-YU",In Darkness (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",In Darkness (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91740.avi
-#EXTINF:-1 group-title="VOD EX-YU",IO (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",IO (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91739.avi
-#EXTINF:-1 group-title="VOD EX-YU",IBoy (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",IBoy (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91738.avi
-#EXTINF:-1 group-title="VOD EX-YU",I T  () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",I T  () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91737.avi
-#EXTINF:-1 group-title="VOD EX-YU",I Am Wrath (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",I Am Wrath (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91736.mkv
-#EXTINF:-1 group-title="VOD EX-YU",I Am Malala (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",I Am Malala (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91735.avi
-#EXTINF:-1 group-title="VOD EX-YU",I Am Legend (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",I Am Legend (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91734.avi
-#EXTINF:-1 group-title="VOD EX-YU",I Am Bolt (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",I Am Bolt (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91733.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hunting Emma (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hunting Emma (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91732.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hunter Killer (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hunter Killer (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91731.avi
-#EXTINF:-1 group-title="VOD EX-YU",How To Train Your Dragon (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",How To Train Your Dragon (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91730.mkv
-#EXTINF:-1 group-title="VOD EX-YU",How To Be A Latin Lover (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",How To Be A Latin Lover (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91729.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hotel Transylvania 3 Summer Vacation (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hotel Transylvania 3 Summer Vacation (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91728.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hotel Transilvanija 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hotel Transilvanija 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91727.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hotel Rwanda (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hotel Rwanda (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91726.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hotel Mumbai (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hotel Mumbai (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91725.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hotel Artemis (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hotel Artemis (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91724.avi
-#EXTINF:-1 group-title="VOD EX-YU",Horton (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Horton (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91723.avi
-#EXTINF:-1 group-title="VOD EX-YU",Home (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Home (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91722.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Holmes & Watson (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Holmes & Watson (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91721.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hitman Agent 47 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hitman Agent 47 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91720.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hiljadarka [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hiljadarka [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91719.mkv
-#EXTINF:-1 group-title="VOD EX-YU",High Life (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",High Life (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91718.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hercules The Legend Begins (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hercules The Legend Begins (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91717.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hercules (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hercules (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91716.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hellraiser Judgment (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hellraiser Judgment (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91715.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hardcore Henry (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hardcore Henry (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91714.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hannibal  (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hannibal  (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91713.avi
-#EXTINF:-1 group-title="VOD EX-YU",Halo Taxi [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Halo Taxi [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91712.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Halloween (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Halloween (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91711.avi
-#EXTINF:-1 group-title="VOD EX-YU",Halimin Put [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Halimin Put [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91710.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hajde Da Se Volimo 3 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hajde Da Se Volimo 3 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91709.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hajde Da Se Volimo 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hajde Da Se Volimo 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91708.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hajde Da Se Volimo () [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hajde Da Se Volimo () [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91707.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Hacksaw Ridge (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hacksaw Ridge (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91706.avi
-#EXTINF:-1 group-title="VOD EX-YU",Hachi A Dog's Tale (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Hachi A Dog's Tale (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91705.avi
-#EXTINF:-1 group-title="VOD EX-YU",Guardians Of The Galaxy Vol  2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Guardians Of The Galaxy Vol  2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91704.avi
-#EXTINF:-1 group-title="VOD EX-YU",Guardians Of The Galaxy () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Guardians Of The Galaxy () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91703.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Grown UPS 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Grown UPS 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91702.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Grown UPS (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Grown UPS (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91701.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Gringo (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Gringo (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91700.avi
-#EXTINF:-1 group-title="VOD EX-YU",Grimove Bajke Kralj Kozje Brade (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Grimove Bajke Kralj Kozje Brade (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91699.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Gridlocked (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Gridlocked (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91698.avi
-#EXTINF:-1 group-title="VOD EX-YU",Gosnell The Trial Of America's Biggest Serial Killer (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Gosnell The Trial Of America's Biggest Serial Killer (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91697.avi
-#EXTINF:-1 group-title="VOD EX-YU",Gori Vatra [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Gori Vatra [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91696.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Goosebumps 2 Haunted Halloween (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Goosebumps 2 Haunted Halloween (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91695.avi
-#EXTINF:-1 group-title="VOD EX-YU",Good Kids (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Good Kids (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91694.avi
-#EXTINF:-1 group-title="VOD EX-YU",Gone Girl (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Gone Girl (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91693.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Gods Of Egypt (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Gods Of Egypt (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91692.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Glup I Gluplji () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Glup I Gluplji () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91691.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Gladiator (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Gladiator (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91690.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ghost Rider 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ghost Rider 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91689.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ghost Rider 1 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ghost Rider 1 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91688.avi
-#EXTINF:-1 group-title="VOD EX-YU",Get Hard (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Get Hard (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91687.avi
-#EXTINF:-1 group-title="VOD EX-YU",Geostorm (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Geostorm (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91686.avi
-#EXTINF:-1 group-title="VOD EX-YU",Game Of Assassins The Gauntlet (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Game Of Assassins The Gauntlet (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91685.avi
-#EXTINF:-1 group-title="VOD EX-YU",Future World (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Future World (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91684.avi
-#EXTINF:-1 group-title="VOD EX-YU",Forever My Girl (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Forever My Girl (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91683.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fist Fight (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fist Fight (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91682.avi
-#EXTINF:-1 group-title="VOD EX-YU",First Reformed (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",First Reformed (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91681.avi
-#EXTINF:-1 group-title="VOD EX-YU",First Light (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",First Light (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91680.avi
-#EXTINF:-1 group-title="VOD EX-YU",Final Score (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Final Score (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91679.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fight Club (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fight Club (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91678.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fifty Shades Of Grey (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fifty Shades Of Grey (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91677.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Fifty Shades Darker (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fifty Shades Darker (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91676.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fetih  (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fetih  (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91675.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Feral (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Feral (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91674.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fast And Furious 8 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fast And Furious 8 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91673.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fast And Furious 7 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fast And Furious 7 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91672.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Fast And Furious 6 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fast And Furious 6 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91671.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fantastic Beasts And Where To Find Them (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fantastic Beasts And Where To Find Them (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91670.avi
-#EXTINF:-1 group-title="VOD EX-YU",Fantastic Beasts The Crimes Of Grindelwald (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Fantastic Beasts The Crimes Of Grindelwald (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91669.avi
-#EXTINF:-1 group-title="VOD EX-YU",Family Is Family (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Family Is Family (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91668.avi
-#EXTINF:-1 group-title="VOD EX-YU",Falsifikator [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Falsifikator [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91667.avi
-#EXTINF:-1 group-title="VOD EX-YU",Extinction (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Extinction (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91666.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ex Machina (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ex Machina (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91665.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Everly (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Everly (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91664.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Everest (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Everest (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91663.avi
-#EXTINF:-1 group-title="VOD EX-YU",Escape From Planet Earth (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Escape From Planet Earth (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91662.avi
-#EXTINF:-1 group-title="VOD EX-YU",Escape Room (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Escape Room (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91661.avi
-#EXTINF:-1 group-title="VOD EX-YU",Escape Plan The Extractors (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Escape Plan The Extractors (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91660.avi
-#EXTINF:-1 group-title="VOD EX-YU",Eragon (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Eragon (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91659.avi
-#EXTINF:-1 group-title="VOD EX-YU",Epizoda U Zivotu Beraca Zeljeza [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Epizoda U Zivotu Beraca Zeljeza [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91658.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Elysium (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Elysium (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91657.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Edge Of Tomorrow (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Edge Of Tomorrow (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91656.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Early Man (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Early Man (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91655.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dva Igraca S Klupe [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dva Igraca S Klupe [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91654.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dunkirk (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dunkirk (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91653.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dumb And Dumber To (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dumb And Dumber To (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91652.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Dragonheart Battle For The Heartfire (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dragonheart Battle For The Heartfire (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91651.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dragged Across Concrete (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dragged Across Concrete (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91650.avi
-#EXTINF:-1 group-title="VOD EX-YU",Draft Day (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Draft Day (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91649.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Dracula Untold (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dracula Untold (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91648.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Downrange (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Downrange (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91647.avi
-#EXTINF:-1 group-title="VOD EX-YU",Down A Dark Hall (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Down A Dark Hall (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91646.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dom Za Vjesanje [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dom Za Vjesanje [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91645.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Dobro Ustimani Mrtvaci [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobro Ustimani Mrtvaci [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91644.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dobro Jutro Komsija [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobro Jutro Komsija [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91643.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Dobro Jutro Komsija 5 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobro Jutro Komsija 5 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91642.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Dobro Jutro Komsija 4 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobro Jutro Komsija 4 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91641.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Dobro Jutro Komsija 3 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobro Jutro Komsija 3 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91640.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Dobro Jutro Komsija 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobro Jutro Komsija 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91639.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Dobri Dinosaur (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobri Dinosaur (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91638.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dobra Zena  [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dobra Zena  [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91637.avi
-#EXTINF:-1 group-title="VOD EX-YU",Djecak I Carobni Grah (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Djecak I Carobni Grah (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91636.avi
-#EXTINF:-1 group-title="VOD EX-YU",District B13 () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",District B13 () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91635.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Dirty Grandpa (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dirty Grandpa (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91634.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Diploma Za Smrt [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Diploma Za Smrt [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91633.avi
-#EXTINF:-1 group-title="VOD EX-YU",Devil's Tree Rooted Evil (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Devil's Tree Rooted Evil (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91632.avi
-#EXTINF:-1 group-title="VOD EX-YU",Despicable Me 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Despicable Me 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91631.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Den Of Thieves (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Den Of Thieves (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91630.avi
-#EXTINF:-1 group-title="VOD EX-YU",Defiance (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Defiance (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91629.avi
-#EXTINF:-1 group-title="VOD EX-YU",Deepwater Horizon (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Deepwater Horizon (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91628.avi
-#EXTINF:-1 group-title="VOD EX-YU",Deep (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Deep (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91627.avi
-#EXTINF:-1 group-title="VOD EX-YU",Debeli I Mrsavi [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Debeli I Mrsavi [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91626.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Death Wish (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Death Wish (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91625.avi
-#EXTINF:-1 group-title="VOD EX-YU",Deadpool 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Deadpool 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91624.avi
-#EXTINF:-1 group-title="VOD EX-YU",Deadpool (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Deadpool (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91623.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Dawn Of The Planet Of The Apes (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dawn Of The Planet Of The Apes (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91622.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Dark River (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dark River (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91621.avi
-#EXTINF:-1 group-title="VOD EX-YU",Darc (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Darc (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91620.avi
-#EXTINF:-1 group-title="VOD EX-YU",Dans La Brume (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Dans La Brume (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91619.avi
-#EXTINF:-1 group-title="VOD EX-YU",Daddy's Home 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Daddy's Home 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91618.avi
-#EXTINF:-1 group-title="VOD EX-YU",Daddy's Home (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Daddy's Home (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91617.avi
-#EXTINF:-1 group-title="VOD EX-YU",Cuvar Plaze U Zimskom Periodu [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cuvar Plaze U Zimskom Periodu [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91616.avi
-#EXTINF:-1 group-title="VOD EX-YU",Curse Of Chucky (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Curse Of Chucky (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91615.avi
-#EXTINF:-1 group-title="VOD EX-YU",Curse Of The Zodiac (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Curse Of The Zodiac (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91614.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Cudovista Sa Sveucilista (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cudovista Sa Sveucilista (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91613.avi
-#EXTINF:-1 group-title="VOD EX-YU",Cries From Syria (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cries From Syria (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91612.avi
-#EXTINF:-1 group-title="VOD EX-YU",Creep 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Creep 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91611.avi
-#EXTINF:-1 group-title="VOD EX-YU",Creed II (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Creed II (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91610.avi
-#EXTINF:-1 group-title="VOD EX-YU",Creed (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Creed (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91609.avi
-#EXTINF:-1 group-title="VOD EX-YU",Conan The Barbarian () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Conan The Barbarian () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91608.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Cold Pursuit (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cold Pursuit (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91607.avi
-#EXTINF:-1 group-title="VOD EX-YU",Coherence (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Coherence (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91606.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Close (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Close (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91605.avi
-#EXTINF:-1 group-title="VOD EX-YU",Citulja Za Eskobara [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Citulja Za Eskobara [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91604.avi
-#EXTINF:-1 group-title="VOD EX-YU",Chappie (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Chappie (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91603.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Central Intelligence (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Central Intelligence (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91602.avi
-#EXTINF:-1 group-title="VOD EX-YU",Cell (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cell (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91601.avi
-#EXTINF:-1 group-title="VOD EX-YU",Catch Me If You Can (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Catch Me If You Can (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91600.avi
-#EXTINF:-1 group-title="VOD EX-YU",Cast Away (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cast Away (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91599.avi
-#EXTINF:-1 group-title="VOD EX-YU",Cars 3 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cars 3 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91598.avi
-#EXTINF:-1 group-title="VOD EX-YU",Cars 2 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cars 2 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91597.avi
-#EXTINF:-1 group-title="VOD EX-YU",Cars (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Cars (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91596.avi
-#EXTINF:-1 group-title="VOD EX-YU",Captive State (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Captive State (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91595.avi
-#EXTINF:-1 group-title="VOD EX-YU",Captain America The Winter Soldier () (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Captain America The Winter Soldier () (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91594.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Captain America Civil War (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Captain America Civil War (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91593.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bumblebee (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bumblebee (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91592.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bruce Lee Fist Of Fury (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bruce Lee Fist Of Fury (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91591.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bright (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bright (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91590.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bridge Of Spies (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bridge Of Spies (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91589.avi
-#EXTINF:-1 group-title="VOD EX-YU",Braveheart (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Braveheart (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91588.avi
-#EXTINF:-1 group-title="VOD EX-YU",Boy 7 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Boy 7 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91587.avi
-#EXTINF:-1 group-title="VOD EX-YU",Boxing WBO Anthony Joshua Vs Wladimir Klitschko (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Boxing WBO Anthony Joshua Vs Wladimir Klitschko (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91586.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Bourneova Nadmoc (The Bourne Supremacy) (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bourneova Nadmoc (The Bourne Supremacy) (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91585.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bourneov Ultimatum (The Bourne Ultimatum) (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bourneov Ultimatum (The Bourne Ultimatum) (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91584.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bourneov Identitet (The Bourne Identity) (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bourneov Identitet (The Bourne Identity) (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91583.avi
-#EXTINF:-1 group-title="VOD EX-YU",Borat (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Borat (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91582.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Boomerang  [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Boomerang  [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91581.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bon Cop Bad Cop 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bon Cop Bad Cop 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91580.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bombasi [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bombasi [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91579.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Bolt (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bolt (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91578.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bokseri Idu U Raj [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bokseri Idu U Raj [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91577.flv
-#EXTINF:-1 group-title="VOD EX-YU",Blindspotting (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Blindspotting (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91576.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bleeding Steel (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bleeding Steel (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91575.avi
-#EXTINF:-1 group-title="VOD EX-YU",Blade Runner  (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Blade Runner  (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91574.avi
-#EXTINF:-1 group-title="VOD EX-YU",Black Water (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Black Water (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91573.avi
-#EXTINF:-1 group-title="VOD EX-YU",Black Panther (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Black Panther (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91572.avi
-#EXTINF:-1 group-title="VOD EX-YU",Black Mirror Bandersnatch (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Black Mirror Bandersnatch (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91571.avi
-#EXTINF:-1 group-title="VOD EX-YU",Black '47 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Black '47 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91570.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bitka Na Neretvi [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bitka Na Neretvi [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91569.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bite (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bite (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91568.avi
-#EXTINF:-1 group-title="VOD EX-YU",Big Legend (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Big Legend (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91567.avi
-#EXTINF:-1 group-title="VOD EX-YU",Big Hero 6 (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Big Hero 6 (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91566.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bicemo Prvaci Sveta [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bicemo Prvaci Sveta [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91565.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Beyond The Edge (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Beyond The Edge (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91564.avi
-#EXTINF:-1 group-title="VOD EX-YU",Berlin Falling (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Berlin Falling (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91563.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bent (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bent (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91562.avi
-#EXTINF:-1 group-title="VOD EX-YU",Beirut (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Beirut (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91561.avi
-#EXTINF:-1 group-title="VOD EX-YU",Beatriz At Dinner (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Beatriz At Dinner (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91560.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bean    Film Vrhunske Katastrofe (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bean    Film Vrhunske Katastrofe (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91559.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Battleship (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Battleship (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91558.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Barbie In A Mermaid Tale (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Barbie In A Mermaid Tale (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91557.avi
-#EXTINF:-1 group-title="VOD EX-YU",Barbie Princeza I Seoska Djevojcica (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Barbie Princeza I Seoska Djevojcica (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91556.avi
-#EXTINF:-1 group-title="VOD EX-YU",Barbie Na Labudjem Jezeru (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Barbie Na Labudjem Jezeru (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91555.avi
-#EXTINF:-1 group-title="VOD EX-YU",Barbie A Mermaid Tale (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Barbie A Mermaid Tale (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91554.avi
-#EXTINF:-1 group-title="VOD EX-YU",Balkansko Proljece [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Balkansko Proljece [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91553.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Balkanski Spijun [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Balkanski Spijun [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91552.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Balkan Line-Balkanska Medja (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Balkan Line-Balkanska Medja (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91551.avi
-#EXTINF:-1 group-title="VOD EX-YU",Balkan Exspres 2 [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Balkan Exspres 2 [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91550.avi
-#EXTINF:-1 group-title="VOD EX-YU",Balkan Ekspres [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Balkan Ekspres [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91549.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bajke Hajdi (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bajke Hajdi (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91548.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Bajke Crvenkapa (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bajke Crvenkapa (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91547.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Bajke  Zeka Srecko (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bajke  Zeka Srecko (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91546.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Bad Moms (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bad Moms (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91545.avi
-#EXTINF:-1 group-title="VOD EX-YU",Bad Santa (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Bad Santa (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91544.avi
-#EXTINF:-1 group-title="VOD EX-YU",Backtrace (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Backtrace (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91543.avi
-#EXTINF:-1 group-title="VOD EX-YU",Back Roads (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Back Roads (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91542.avi
-#EXTINF:-1 group-title="VOD EX-YU",Baby Driver (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Baby Driver (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91541.avi
-#EXTINF:-1 group-title="VOD EX-YU",Avioni (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Avioni (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91540.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Avengers Infinity War (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Avengers Infinity War (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91539.avi
-#EXTINF:-1 group-title="VOD EX-YU",Avengers Age Of Ultron (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Avengers Age Of Ultron (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91538.avi
-#EXTINF:-1 group-title="VOD EX-YU",Avatar (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Avatar (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91537.avi
-#EXTINF:-1 group-title="VOD EX-YU",Avanture Borivoja Surdilovica [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Avanture Borivoja Surdilovica [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91536.mkv
-#EXTINF:-1 group-title="VOD EX-YU",August Osage County (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",August Osage County (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91535.avi
-#EXTINF:-1 group-title="VOD EX-YU",Atomic Blonde (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Atomic Blonde (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91534.avi
-#EXTINF:-1 group-title="VOD EX-YU",Asterix-Grad Bogova (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Asterix-Grad Bogova (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91533.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Asher (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Asher (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91532.avi
-#EXTINF:-1 group-title="VOD EX-YU",Artur Bozic (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Artur Bozic (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91531.mp4
-#EXTINF:-1 group-title="VOD EX-YU",Arrival (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Arrival (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91530.avi
-#EXTINF:-1 group-title="VOD EX-YU",Armin [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Armin [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91529.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Arctic (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Arctic (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91528.avi
-#EXTINF:-1 group-title="VOD EX-YU",Aquaman (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Aquaman (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91527.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ant-Man And The Wasp (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ant-Man And The Wasp (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91526.avi
-#EXTINF:-1 group-title="VOD EX-YU",A-X-L (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A-X-L (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91525.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ant-Man (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ant-Man (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91524.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Anon (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Anon (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91523.avi
-#EXTINF:-1 group-title="VOD EX-YU",Annihilation (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Annihilation (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91522.avi
-#EXTINF:-1 group-title="VOD EX-YU",Angry Birds (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Angry Birds (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91521.avi
-#EXTINF:-1 group-title="VOD EX-YU",Andjeo Cuvar [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Andjeo Cuvar [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91520.mp4
-#EXTINF:-1 group-title="VOD EX-YU",American Made (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",American Made (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91519.avi
-#EXTINF:-1 group-title="VOD EX-YU",American Assassin 2 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",American Assassin 2 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91518.avi
-#EXTINF:-1 group-title="VOD EX-YU",Alvin I Vjeverice Velika Alvintura (CRT) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Alvin I Vjeverice Velika Alvintura (CRT) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91517.avi
-#EXTINF:-1 group-title="VOD EX-YU",Alpha (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Alpha (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91516.avi
-#EXTINF:-1 group-title="VOD EX-YU",All The Money In The World Sav Novac Svijeta (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",All The Money In The World Sav Novac Svijeta (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91515.avi
-#EXTINF:-1 group-title="VOD EX-YU",All Is Lost (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",All Is Lost (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91514.avi
-#EXTINF:-1 group-title="VOD EX-YU",Alita Battle Angel (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Alita Battle Angel (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91513.avi
-#EXTINF:-1 group-title="VOD EX-YU",Airlift (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Airlift (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91512.mkv
-#EXTINF:-1 group-title="VOD EX-YU",Air Strike (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Air Strike (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91511.avi
-#EXTINF:-1 group-title="VOD EX-YU",Aftermath (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Aftermath (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91510.avi
-#EXTINF:-1 group-title="VOD EX-YU",Acts Of Vengeance (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Acts Of Vengeance (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91509.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ace Ventura When Nature Calls (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ace Ventura When Nature Calls (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91508.avi
-#EXTINF:-1 group-title="VOD EX-YU",Ace Ventura Pet Detective (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Ace Ventura Pet Detective (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91507.avi
-#EXTINF:-1 group-title="VOD EX-YU",Above The Law (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",Above The Law (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91506.avi
-#EXTINF:-1 group-title="VOD EX-YU",A Taxi Driver (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Taxi Driver (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91505.avi
-#EXTINF:-1 group-title="VOD EX-YU",A Private War (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Private War (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91504.avi
-#EXTINF:-1 group-title="VOD EX-YU",A Perfect Getaway (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Perfect Getaway (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91503.avi
-#EXTINF:-1 group-title="VOD EX-YU",A Most Wanted Mann (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Most Wanted Mann (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91502.mkv
-#EXTINF:-1 group-title="VOD EX-YU",A Most Wanted Man (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Most Wanted Man (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91501.mkv
-#EXTINF:-1 group-title="VOD EX-YU",A Good Day To Die Hard (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Good Day To Die Hard (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91500.mkv
-#EXTINF:-1 group-title="VOD EX-YU",A Fine Step (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Fine Step (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91499.mkv
-#EXTINF:-1 group-title="VOD EX-YU",A Bad Moms Christmas (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",A Bad Moms Christmas (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91498.avi
-#EXTINF:-1 group-title="VOD EX-YU",9-11 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",9-11 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91497.avi
-#EXTINF:-1 group-title="VOD EX-YU",28 Days Later (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",28 Days Later (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91496.mkv
-#EXTINF:-1 group-title="VOD EX-YU",24 Hours To Live (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",24 Hours To Live (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91495.avi
-#EXTINF:-1 group-title="VOD EX-YU",211 (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",211 (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91494.avi
-#EXTINF:-1 group-title="VOD EX-YU",2 Guns (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",2 Guns (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91493.avi
-#EXTINF:-1 group-title="VOD EX-YU",12 Strong (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",12 Strong (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91492.avi
-#EXTINF:-1 group-title="VOD EX-YU",007-Spectre (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",007-Spectre (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91491.mkv
-#EXTINF:-1 group-title="VOD EX-YU",(500) Days Of Summer (STR) [ex-YU]
+#EXTINF:-1 group-title="BB_FILMOVI",(500) Days Of Summer (STR) [ex-YU]
 http://fastrunner.live:8080/movie/4TjigENaSK/fpuBGFvt4K/91490.avi
 
 
 
 
-#kraj
+
+
 
