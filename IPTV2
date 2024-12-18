@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
+#EXTM3U  x-tvg-url = "http://gz.iptelevizija.com:8080/xmltv.php?username=bpavlovic&password=dXtXDKfygUWV"
 
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska", HRT  1 HD
 http://ottshow.net:80/stojanGERAS.1200/gerasSTOJAN.1200/30473
