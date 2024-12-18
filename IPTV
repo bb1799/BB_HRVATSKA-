@@ -1,5 +1,5 @@
 
-#EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
+#EXTM3U  x-tvg-url = "http://gz.iptelevizija.com:8080/xmltv.php?username=bpavlovic&password=dXtXDKfygUWV"
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="http://iptvunited.org:8080/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska",HRT 1
 http://bntvs.com:2052/zeljkobogicevic/04032022/8499
