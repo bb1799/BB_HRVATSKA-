@@ -15115,7 +15115,11 @@ http://android.mediaking.fi:8080/series/12slba12@gmail.com/kugla200/40080.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_SJENE PROŠLOSTI", Sjene prošlosti  (2024) S01 E75
 http://android.mediaking.fi:8080/series/12slba12@gmail.com/kugla200/40081.mp4
 
+#EXTINF:-1 tvg-id="Sjene prošlosti S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E76
+http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34289.mkv
 
+#EXTINF:-1 tvg-id="Sjene prošlosti S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti S01 E77
+http://focuskanali.pro:8080/series/d.mariobarbaric.viber/dbiptv667/34317.mkv
 
 
 
