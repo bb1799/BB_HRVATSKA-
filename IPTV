@@ -561,6 +561,7 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
 http://ott.dobratv.net:25461/live/mujanovico/orle654/6854.ts
 
@@ -594,17 +595,16 @@ http://anotv.org/live/Wapreal/NAFnLT7YZc/94.ts
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
 http://bntvs.com:2052/live/NenadG/457454566343/8520.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",TV ZELINA
+#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
 http://ottshow.net:80/live/stojanGERAS.1200/gerasSTOJAN.1200/69903.ts
 
 #EXTINF:-1 tvg-id="14" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
 http://xyutv.net:8080/live/cypriottelegram/VGqsp3SHRWQs/14.ts
 
 #EXTINF:-1 tvg-id="14" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
-http://olix.cc:8000/live/harisbecirovic/223344556677/29446.ts
+http://ottshow.net:80/live/stojanGERAS.1200/gerasSTOJAN.1200/69903.ts
 
-#EXTINF:-1 tvg-id="14" tvg-name="prigorska tv"tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
-http://novamedia.pro:8080/live/SinisaMartinovic/sfAP3yAHtNHx739/14.ts
+
 
 
 
