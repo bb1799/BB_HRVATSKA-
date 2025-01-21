@@ -631,323 +631,863 @@ http://client.nodomain.vip:80/live.ts?channelId=2185&uid=23784&deviceUser=27zden
 
 
 
-#bozicni filmovi
+#novi filmovi
 
 
 
+#EXTINF:-1 tvg-id="24 Jam Bersama Gaspar" tvg-logo="https://image.tmdb.org/t/p/w500/8jJKM0ZR3GQo6E3CUkMKKVa4S8B.jpg" group-title="BB_NOVI FILMOVI", 24 Jam Bersama Gaspar
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79986.mp4
 
+#EXTINF:-1 tvg-id="5lbs of Pressure" tvg-logo="https://image.tmdb.org/t/p/w500/toEJOPYvM7Na0XwM8exg8aHq553.jpg" group-title="BB_NOVI FILMOVI", 5lbs of Pressure
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82845.mp4
 
-#EXTINF:-1 tvg-id="12 Dates of Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/26X4Lldt6bwLnrX6kkLfUZTLojw.jpg" group-title="BB_BOŽIĆNI FILMOVI", 12 Dates of Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39063.mp4
+#EXTINF:-1 tvg-id="60 Minuten" tvg-logo="https://image.tmdb.org/t/p/w500/jojfbnIHGsRpodIood3OQoqA45Y.jpg" group-title="BB_NOVI FILMOVI", 60 Minuten
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78628.mp4
 
-#EXTINF:-1 tvg-id="48 Christmas Wishes" tvg-logo="https://image.tmdb.org/t/p/w500/mrcA62O9j8y4gsSpftMKVcvrzCI.jpg" group-title="BB_BOŽIĆNI FILMOVI", 48 Christmas Wishes
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39064.mp4
+#EXTINF:-1 tvg-id="A Halloween Feast" tvg-logo="https://image.tmdb.org/t/p/w500/hznABn68bmWok4thnvpXVGz8SIU.jpg" group-title="BB_NOVI FILMOVI", A Halloween Feast
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82028.mp4
 
-#EXTINF:-1 tvg-id="A Boy Called Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/AbGMS881keVocyHcbB9AxtsLQ9W.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Boy Called Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39048.mp4
+#EXTINF:-1 tvg-id="A Quiet Place: Day One" tvg-logo="https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg" group-title="BB_NOVI FILMOVI", A Quiet Place: Day One
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81114.mp4
 
-#EXTINF:-1 tvg-id="A California Christmas: City Lights" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzlSEp9I8ANpeOJ1AgHGklKxDCT.jpg" group-title="BB_BOŽIĆNI FILMOVI", A California Christmas: City Lights
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39191.mp4
+#EXTINF:-1 tvg-id="A Sacrifice" tvg-logo="https://image.tmdb.org/t/p/w500/ihXINKQfzdaVKvZwZqmchy20uVD.jpg" group-title="BB_NOVI FILMOVI", A Sacrifice
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82846.mp4
 
-#EXTINF:-1 tvg-id="A Castle for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Castle for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39148.mp4
+#EXTINF:-1 tvg-id="A Sacrifice" tvg-logo="https://image.tmdb.org/t/p/w500/ihXINKQfzdaVKvZwZqmchy20uVD.jpg" group-title="BB_NOVI FILMOVI", A Sacrifice
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81774.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Carol" tvg-logo="https://image.tmdb.org/t/p/w500/2KMxnbPZilgwF5N1rs6zmpwyVyG.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Carol
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38685.mp4
+#EXTINF:-1 tvg-id="Abigail" tvg-logo="https://image.tmdb.org/t/p/w500/7qxG0zyt29BI0IzFDfsps62kbQi.jpg" group-title="BB_NOVI FILMOVI", Abigail
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80441.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Carol" tvg-logo="https://image.tmdb.org/t/p/w500/kGmpIkjVRWHQ97AiEXC0pLt5VtY.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Carol
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38682.mp4
+#EXTINF:-1 tvg-id="Absolution" tvg-logo="https://image.tmdb.org/t/p/w500/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg" group-title="BB_NOVI FILMOVI", Absolution
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82617.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Carol 1999" tvg-logo="https://image.tmdb.org/t/p/w500/oi1NcVDXlFEsdpLp37BJmFbVlg9.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Carol 1999
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38683.mp4
+#EXTINF:-1 tvg-id="Ad Vitam" tvg-logo="https://image.tmdb.org/t/p/w500/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg" group-title="BB_NOVI FILMOVI", Ad Vitam
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82933.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Carol 2009" tvg-logo="https://image.tmdb.org/t/p/w500/jTMjNuMhGzudeLC2uXDPOFgQDJq.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Carol 2009
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38684.mp4
+#EXTINF:-1 tvg-id="Afraid" tvg-logo="https://image.tmdb.org/t/p/w500/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg" group-title="BB_NOVI FILMOVI", Afraid
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82029.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Detour" tvg-logo="https://image.tmdb.org/t/p/w500/ogBVg6Bowu3Y5zagUX4z8x2q4OL.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Detour
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38686.mp4
+#EXTINF:-1 tvg-id="Aftermath" tvg-logo="https://image.tmdb.org/t/p/w500/3jVwnnSD4YxkGZM1F6RdLAu8Ayy.jpg" group-title="BB_NOVI FILMOVI", Aftermath
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79987.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Horror Story" tvg-logo="https://image.tmdb.org/t/p/w500/qdzzFho1wZFvrDFcdg2r3wwMUSJ.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Horror Story
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38687.mp4
+#EXTINF:-1 tvg-id="Agent Recon" tvg-logo="https://image.tmdb.org/t/p/w500/fxxPAowtYuGj4WHrNqbPTfLHRLF.jpg" group-title="BB_NOVI FILMOVI", Agent Recon
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80827.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Melody" tvg-logo="http://repo.ottshow.net/slika/SFhJBJeEz4MjDQMwaF1xyMTAwgEZJb.png" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Melody
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38689.mp4
+#EXTINF:-1 tvg-id="Air Force One Down" tvg-logo="https://image.tmdb.org/t/p/w500/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg" group-title="BB_NOVI FILMOVI", Air Force One Down
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79641.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Mystery" tvg-logo="https://image.tmdb.org/t/p/w500/7ROhQeFIRCDadpIe4C7fVi5mV1Q.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Mystery
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/65914.mp4
+#EXTINF:-1 tvg-id="Akademia Pana Kleksa" tvg-logo="https://image.tmdb.org/t/p/w500/vipIN5pcVIO8QpooANSaUQnAJH7.jpg" group-title="BB_NOVI FILMOVI", Akademia Pana Kleksa
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80875.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Story" tvg-logo="http://repo.ottshow.net/slika/CPeNacwAVIWE1ITyjBI6ulfODQOe82.png" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Story
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38691.mp4
+#EXTINF:-1 tvg-id="Alien: Romulus" tvg-logo="https://image.tmdb.org/t/p/w500/1mshG0zGv77xHC4TZxEcPnXLN4p.jpg" group-title="BB_NOVI FILMOVI", Alien: Romulus
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82156.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Story Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Story Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/65777.mp4
+#EXTINF:-1 tvg-id="All Souls" tvg-logo="https://image.tmdb.org/t/p/w500/9QUZXrfokqrW6yJBYPgGD1cN0JO.jpg" group-title="BB_NOVI FILMOVI", All Souls
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78014.mp4
 
-#EXTINF:-1 tvg-id="A Christmas Wedding Tail" tvg-logo="https://image.tmdb.org/t/p/w500/a5p020pc0ZFE71ia8KV2KDvacAr.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Christmas Wedding Tail
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38692.mp4
+#EXTINF:-1 tvg-id="Amelia’s Children" tvg-logo="https://image.tmdb.org/t/p/w500/t4YAD0RElLZS1SO1iSULH6M8bXV.jpg" group-title="BB_NOVI FILMOVI", Amelia’s Children
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80239.mp4
 
-#EXTINF:-1 tvg-id="A Dogwalker's Christmas Tale" tvg-logo="http://repo.ottshow.net/slika/rZZ7au7pFUPJAuVDiPhYPhVPaO8bna.png" group-title="BB_BOŽIĆNI FILMOVI", A Dogwalker's Christmas Tale
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38693.mp4
+#EXTINF:-1 tvg-id="American Fiction" tvg-logo="https://image.tmdb.org/t/p/w500/57MFWGHarg9jid7yfDTka4RmcMU.jpg" group-title="BB_NOVI FILMOVI", American Fiction
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79232.mp4
 
-#EXTINF:-1 tvg-id="A Firehouse Christmas" tvg-logo="http://repo.ottshow.net/slika/nhx8Kyg5dCQ1DsKAYCL99yZfZ51KUp.png" group-title="BB_BOŽIĆNI FILMOVI", A Firehouse Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38694.mp4
+#EXTINF:-1 tvg-id="American Star" tvg-logo="https://image.tmdb.org/t/p/w500/l3UO18fD7rSPRw8AYB8d19zwxUb.jpg" group-title="BB_NOVI FILMOVI", American Star
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78739.mp4
 
-#EXTINF:-1 tvg-id="A Grandpa for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/fVmRmGoFMZgZGFyGLPTMyfseId2.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Grandpa for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38695.mp4
+#EXTINF:-1 tvg-id="Anyone But You" tvg-logo="https://image.tmdb.org/t/p/w500/tojwUpsHBN4vKf4vFlLvRkie2hr.jpg" group-title="BB_NOVI FILMOVI", Anyone But You
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79888.mp4
 
-#EXTINF:-1 tvg-id="A Merry Friggin' Christmas" tvg-logo="http://repo.ottshow.net/slika/mScsXzOxbADS3O9iMZzQ0nGKOgfCQA.png" group-title="BB_BOŽIĆNI FILMOVI", A Merry Friggin' Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38697.mp4
+#EXTINF:-1 tvg-id="Apartment 7A" tvg-logo="https://image.tmdb.org/t/p/w500/vZjEqA5MYEBinqIk0vXn9l7Le1R.jpg" group-title="BB_NOVI FILMOVI", Apartment 7A
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82030.mp4
 
-#EXTINF:-1 tvg-id="A Mom for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/nOv3L4vjlvPDcYspLh2QZWUBnOv.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Mom for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38698.mp4
+#EXTINF:-1 tvg-id="Apocalipsis Z: el principio del fin" tvg-logo="https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg" group-title="BB_NOVI FILMOVI", Apocalipsis Z: el principio del fin
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82285.mp4
 
-#EXTINF:-1 tvg-id="A Muppet Family Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/4A5EaZptr1cgWD1BlqqUJhkFCPh.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Muppet Family Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39066.mp4
+#EXTINF:-1 tvg-id="Apollo 13: Survival" tvg-logo="https://image.tmdb.org/t/p/w500/reknshaAy9OUvz2hbw78wTMCkY1.jpg" group-title="BB_NOVI FILMOVI", Apollo 13: Survival
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81430.mp4
 
-#EXTINF:-1 tvg-id="A Muppets Christmas: Letters to Santa" tvg-logo="http://repo.ottshow.net/slika/4moH2dECCIy886xaYlVqRHTaNuuohS.png" group-title="BB_BOŽIĆNI FILMOVI", A Muppets Christmas: Letters to Santa
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38699.mp4
+#EXTINF:-1 tvg-id="Aquaman and the Lost Kingdom" tvg-logo="https://image.tmdb.org/t/p/w500/6ImTcka871vQeDMRczZClXpXN75.jpg" group-title="BB_NOVI FILMOVI", Aquaman and the Lost Kingdom
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78614.mp4
 
-#EXTINF:-1 tvg-id="A Perfect Christmas List" tvg-logo="https://image.tmdb.org/t/p/w500/aR6lVOHd5YRPRkxTPLpl4tquZmP.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Perfect Christmas List
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38700.mp4
+#EXTINF:-1 tvg-id="Arca de Noé" tvg-logo="https://image.tmdb.org/t/p/w500/iI79rRbcwPKVlbEN5Sc4EwppRpa.jpg" group-title="BB_NOVI FILMOVI", Arca de Noé
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82396.mp4
 
-#EXTINF:-1 tvg-id="A Very Harold & Kumar Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/hgrKTnY1UJIYJHDv5geHixHVGl3.jpg" group-title="BB_BOŽIĆNI FILMOVI", A Very Harold & Kumar Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/36367.mp4
+#EXTINF:-1 tvg-id="Arcadian" tvg-logo="https://image.tmdb.org/t/p/w500/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg" group-title="BB_NOVI FILMOVI", Arcadian
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80349.mp4
 
-#EXTINF:-1 tvg-id="A Very Murray Christmas" tvg-logo="http://repo.ottshow.net/slika/kyg2vU8Skf01JoV7IL7KRO5kwJisY4.png" group-title="BB_BOŽIĆNI FILMOVI", A Very Murray Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38702.mp4
+#EXTINF:-1 tvg-id="Argylle" tvg-logo="https://image.tmdb.org/t/p/w500/siduVKgOnABO4WH4lOwPQwaGwJp.jpg" group-title="BB_NOVI FILMOVI", Argylle
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79988.mp4
 
-#EXTINF:-1 tvg-id="All I Want For Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/f8iJeYSGDm1YtCfiH9LTniEs0c4.jpg" group-title="BB_BOŽIĆNI FILMOVI", All I Want For Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38703.mp4
+#EXTINF:-1 tvg-id="Armor" tvg-logo="https://image.tmdb.org/t/p/w500/685wCHwr2kyQZxvThNIM04HuuCt.jpg" group-title="BB_NOVI FILMOVI", Armor
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82618.mp4
 
-#EXTINF:-1 tvg-id="Anything but Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/mtsEIUkM6qUS0gPfPiznd3s8pjq.jpg" group-title="BB_BOŽIĆNI FILMOVI", Anything but Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39067.mp4
+#EXTINF:-1 tvg-id="Arthur the King" tvg-logo="https://image.tmdb.org/t/p/w500/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg" group-title="BB_NOVI FILMOVI", Arthur the King
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80360.mp4
 
-#EXTINF:-1 tvg-id="Arthur Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg" group-title="BB_BOŽIĆNI FILMOVI", Arthur Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/28460.mp4
+#EXTINF:-1 tvg-id="Atlas" tvg-logo="https://image.tmdb.org/t/p/w500/btwFwOpBBDtxYKtWLwcKVFegk6U.jpg" group-title="BB_NOVI FILMOVI", Atlas
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80555.mp4
 
-#EXTINF:-1 tvg-id="Barbie in 'A Christmas Carol'" tvg-logo="https://image.tmdb.org/t/p/w500/fX9g1AE1JIqjX3LPPKVjcmHs6fd.jpg" group-title="BB_BOŽIĆNI FILMOVI", Barbie in 'A Christmas Carol'
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/77950.mp4
+#EXTINF:-1 tvg-id="Autumn and the Black Jaguar" tvg-logo="https://image.tmdb.org/t/p/w500/ocHu00nOZzK0m9BsFdrFg3SglS0.jpg" group-title="BB_NOVI FILMOVI", Autumn and the Black Jaguar
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82031.mp4
 
-#EXTINF:-1 tvg-id="Beethoven's Christmas Adventure" tvg-logo="https://image.tmdb.org/t/p/w500/wuBKbz0bZUdTAhU26A62AIlvE5A.jpg" group-title="BB_BOŽIĆNI FILMOVI", Beethoven's Christmas Adventure
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38706.mp4
+#EXTINF:-1 tvg-id="Azrael" tvg-logo="http://repo.ottshow.net/slika/2aOInY736Pmw2VAZPbUv03Jf1zcix3.png" group-title="BB_NOVI FILMOVI", Azrael
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82032.mp4
 
-#EXTINF:-1 tvg-id="Best Christmas Party Ever" tvg-logo="http://repo.ottshow.net/slika/HFeYaCkhcsM1qgpVV5JZELvHBdc2ND.png" group-title="BB_BOŽIĆNI FILMOVI", Best Christmas Party Ever
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38707.mp4
+#EXTINF:-1 tvg-id="Back in Action" tvg-logo="https://image.tmdb.org/t/p/w500/4l0smrYaKAUM6Ezr2WFSL4dxZtd.jpg" group-title="BB_NOVI FILMOVI", Back in Action
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83014.mp4
 
-#EXTINF:-1 tvg-id="Black Christmas" tvg-logo="http://repo.ottshow.net/slika/J5wVDch3d6i5A3PI9Dfxa8Pk3ZvIVH.png" group-title="BB_BOŽIĆNI FILMOVI", Black Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38721.mp4
+#EXTINF:-1 tvg-id="Bad Boys: Ride or Die" tvg-logo="https://image.tmdb.org/t/p/w500/4xyjiXvPJ3u7wmkc9oydTfQvsjK.jpg" group-title="BB_NOVI FILMOVI", Bad Boys: Ride or Die
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81033.mp4
 
-#EXTINF:-1 tvg-id="Cancel Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/3c3zW8mhK7kgjH1NT9XGinUkcPz.jpg" group-title="BB_BOŽIĆNI FILMOVI", Cancel Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38722.mp4
+#EXTINF:-1 tvg-id="Badland Hunters" tvg-logo="https://image.tmdb.org/t/p/w500/qIlO6qADF6MEhi8gijWpvaktQip.jpg" group-title="BB_NOVI FILMOVI", Badland Hunters
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79962.mp4
 
-#EXTINF:-1 tvg-id="Charming Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/nn6A2ZVEcldAr02AYNwqgAr3GBp.jpg" group-title="BB_BOŽIĆNI FILMOVI", Charming Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38723.mp4
+#EXTINF:-1 tvg-id="Baghead" tvg-logo="https://image.tmdb.org/t/p/w500/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg" group-title="BB_NOVI FILMOVI", Baghead
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81411.mp4
 
-#EXTINF:-1 tvg-id="Christmas As Usual" tvg-logo="https://image.tmdb.org/t/p/w500/suDjK0qIsPoBNrAhWUtIjkIWx1G.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas As Usual
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/77974.mp4
+#EXTINF:-1 tvg-id="Bagman" tvg-logo="https://image.tmdb.org/t/p/w500/cWANCB2BX2LN4V8mSTKzxiB2jcW.jpg" group-title="BB_NOVI FILMOVI", Bagman
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82356.mp4
 
-#EXTINF:-1 tvg-id="Christmas Break-In" tvg-logo="https://image.tmdb.org/t/p/w500/qZmPodMlyRNOHrVPYLTGehM2s3q.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Break-In
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39068.mp4
+#EXTINF:-1 tvg-id="Beautiful Wedding" tvg-logo="https://image.tmdb.org/t/p/w500/AeR04828CWxMvSM5ABz1YrYbK01.jpg" group-title="BB_NOVI FILMOVI", Beautiful Wedding
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80828.mp4
 
-#EXTINF:-1 tvg-id="Christmas Comes Home to Canaan" tvg-logo="https://image.tmdb.org/t/p/w500/llycTLvu6R9ALZ5pHXQGJxMl8aQ.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Comes Home to Canaan
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38724.mp4
+#EXTINF:-1 tvg-id="Beetlejuice Beetlejuice" tvg-logo="https://image.tmdb.org/t/p/w500/txzTeQmorQczk8yfQKQR0cSY8L7.jpg" group-title="BB_NOVI FILMOVI", Beetlejuice Beetlejuice
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82033.mp4
 
-#EXTINF:-1 tvg-id="Christmas Cottage" tvg-logo="https://image.tmdb.org/t/p/w500/xgVxmbD4mLtvelP8U5jbT7Rxjiv.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Cottage
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39060.mp4
+#EXTINF:-1 tvg-id="Before Dawn" tvg-logo="https://image.tmdb.org/t/p/w500/a51x5NWJqdzWbFA58dwRgwfgQDj.jpg" group-title="BB_NOVI FILMOVI", Before Dawn
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81689.mp4
 
-#EXTINF:-1 tvg-id="Christmas Cupid" tvg-logo="http://repo.ottshow.net/slika/7kGQQnx1OZlsk90tsGqGLspZxfXtTZ.png" group-title="BB_BOŽIĆNI FILMOVI", Christmas Cupid
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38725.mp4
+#EXTINF:-1 tvg-id="Bitconned" tvg-logo="https://image.tmdb.org/t/p/w500/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="BB_NOVI FILMOVI", Bitconned
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78066.mp4
 
-#EXTINF:-1 tvg-id="Christmas Festival of Ice" tvg-logo="https://image.tmdb.org/t/p/w500/iTCaI6r7xSDVnmxF3qPmHlr2Bag.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Festival of Ice
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38726.mp4
+#EXTINF:-1 tvg-id="Blackwater Lane" tvg-logo="https://image.tmdb.org/t/p/w500/5ut7D7v9ZKlmlEiOZpdLKfZ0P9g.jpg" group-title="BB_NOVI FILMOVI", Blackwater Lane
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81157.mp4
 
-#EXTINF:-1 tvg-id="Christmas Getaway" tvg-logo="https://image.tmdb.org/t/p/w500/ohBJhAI7YJrlYmnr4czCvZj1FW7.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Getaway
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38727.mp4
+#EXTINF:-1 tvg-id="Bob Marley: One Love" tvg-logo="https://image.tmdb.org/t/p/w500/mKWalirPreEdCKDJjc5TKeOP2xi.jpg" group-title="BB_NOVI FILMOVI", Bob Marley: One Love
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79989.mp4
 
-#EXTINF:-1 tvg-id="Christmas Harmony" tvg-logo="https://image.tmdb.org/t/p/w500/8yjJTGOJiTj4lGnkSFlUmUGsZCS.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Harmony
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38728.mp4
+#EXTINF:-1 tvg-id="Bokser" tvg-logo="https://image.tmdb.org/t/p/w500/2LtIFOtp9yjVd2pOtVRc091TpxP.jpg" group-title="BB_NOVI FILMOVI", Bokser
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81537.mp4
 
-#EXTINF:-1 tvg-id="Christmas Icetastrophe" tvg-logo="http://images.ottshow.net/images/4rb9TYWTAcPgEXabWnRdgg5pHnA_big.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Icetastrophe
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/17285.mp4
+#EXTINF:-1 tvg-id="Boneyard" tvg-logo="https://image.tmdb.org/t/p/w500/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg" group-title="BB_NOVI FILMOVI", Boneyard
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80909.mp4
 
-#EXTINF:-1 tvg-id="Christmas in August" tvg-logo="https://image.tmdb.org/t/p/w500/vCRcrz5zuQ9d8lgM3oEmgIqEe6b.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas in August
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38729.mp4
+#EXTINF:-1 tvg-id="Borderlands" tvg-logo="https://image.tmdb.org/t/p/w500/5PgP3kXewVUR2y80om9KmpYUSNz.jpg" group-title="BB_NOVI FILMOVI", Borderlands
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81343.mp4
 
-#EXTINF:-1 tvg-id="Christmas in Canaan" tvg-logo="https://image.tmdb.org/t/p/w500/72ERMKvJx1kNOv8tJhq9CBPs0Um.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas in Canaan
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38730.mp4
+#EXTINF:-1 tvg-id="Boy Kills World" tvg-logo="https://image.tmdb.org/t/p/w500/25JskXmchcYwj3jHRmcPm738MpB.jpg" group-title="BB_NOVI FILMOVI", Boy Kills World
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80663.mp4
 
-#EXTINF:-1 tvg-id="Christmas in Conway" tvg-logo="http://repo.ottshow.net/slika/daSWcnmP9IU0JIB6op7WBNg6fW3wDE.png" group-title="BB_BOŽIĆNI FILMOVI", Christmas in Conway
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38731.mp4
+#EXTINF:-1 tvg-id="Breakwater" tvg-logo="https://image.tmdb.org/t/p/w500/pfwCmX13GAwrFhhVFOgXmPdZgS6.jpg" group-title="BB_NOVI FILMOVI", Breakwater
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78620.mp4
 
-#EXTINF:-1 tvg-id="Christmas in Wonderland" tvg-logo="https://image.tmdb.org/t/p/w500/o1zsNUlDJFQOP8RtPgPaKjVHgUf.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas in Wonderland
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38732.mp4
+#EXTINF:-1 tvg-id="Breathe" tvg-logo="https://image.tmdb.org/t/p/w500/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg" group-title="BB_NOVI FILMOVI", Breathe
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80829.mp4
 
-#EXTINF:-1 tvg-id="Christmas Incorporated" tvg-logo="https://image.tmdb.org/t/p/w500/2rJOyucwo6M8is8rtimmt4RNS6e.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Incorporated
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39071.mp4
+#EXTINF:-1 tvg-id="Butchers Book Two: Raghorn" tvg-logo="https://image.tmdb.org/t/p/w500/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg" group-title="BB_NOVI FILMOVI", Butchers Book Two: Raghorn
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79889.mp4
 
-#EXTINF:-1 tvg-id="Christmas on the Carousel" tvg-logo="https://image.tmdb.org/t/p/w500/gs99UXoQnjsbJlNxBQRfBVrPSNq.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas on the Carousel
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/37634.mp4
+#EXTINF:-1 tvg-id="Caddo Lake" tvg-logo="https://image.tmdb.org/t/p/w500/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg" group-title="BB_NOVI FILMOVI", Caddo Lake
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82034.mp4
 
-#EXTINF:-1 tvg-id="Christmas Song" tvg-logo="https://image.tmdb.org/t/p/w500/re3anKnvNMn4YFGWrrGHDJiKBmj.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Song
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38733.mp4
+#EXTINF:-1 tvg-id="Camera" tvg-logo="https://image.tmdb.org/t/p/w500/lTtsYOWNiTO2t5WLjB4wjZFnAp0.jpg" group-title="BB_NOVI FILMOVI", Camera
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82263.mp4
 
-#EXTINF:-1 tvg-id="Christmas Under Wraps" tvg-logo="https://image.tmdb.org/t/p/w500/d11GDOTKouEw62Y26JYRDU13fHG.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas Under Wraps
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39072.mp4
+#EXTINF:-1 tvg-id="Canary Black" tvg-logo="https://image.tmdb.org/t/p/w500/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg" group-title="BB_NOVI FILMOVI", Canary Black
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82286.mp4
 
-#EXTINF:-1 tvg-id="Christmas with Holly" tvg-logo="https://image.tmdb.org/t/p/w500/bGbvMw4pkSHLFAYVjvOZsR0WwPZ.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas with Holly
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39073.mp4
+#EXTINF:-1 tvg-id="Carry-On" tvg-logo="https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg" group-title="BB_NOVI FILMOVI", Carry-On
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82789.mp4
 
-#EXTINF:-1 tvg-id="Christmas with the Kranks" tvg-logo="http://repo.ottshow.net/slika/204DSOiaj3bTn7CigXjuI8PRLrgnuq.png" group-title="BB_BOŽIĆNI FILMOVI", Christmas with the Kranks
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38734.mp4
+#EXTINF:-1 tvg-id="Challengers" tvg-logo="https://image.tmdb.org/t/p/w500/k54yslRRXk5CII4ZjAQYq6tzU4c.jpg" group-title="BB_NOVI FILMOVI", Challengers
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80664.mp4
 
-#EXTINF:-1 tvg-id="Christmas with You" tvg-logo="https://image.tmdb.org/t/p/w500/26RZloFHUyc0GTsybmnUPpSCPHb.jpg" group-title="BB_BOŽIĆNI FILMOVI", Christmas with You
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/65778.mp4
+#EXTINF:-1 tvg-id="Charlie Tango" tvg-logo="https://image.tmdb.org/t/p/w500/3fSghhD8QVqpJxmDO3xd3sCqTs6.jpg" group-title="BB_NOVI FILMOVI", Charlie Tango
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81431.mp4
 
-#EXTINF:-1 tvg-id="Crown for Christmas" tvg-logo="http://repo.ottshow.net/slika/dAy8Q0bVe3PTUVGJfsPzZYqxq1qjpC.png" group-title="BB_BOŽIĆNI FILMOVI", Crown for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38924.mp4
+#EXTINF:-1 tvg-id="Civil War" tvg-logo="https://image.tmdb.org/t/p/w500/83qMF3OdaQZuiRCb1AnRZf5HLWp.jpg" group-title="BB_NOVI FILMOVI", Civil War
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80556.mp4
 
-#EXTINF:-1 tvg-id="Ernest Saves Christmas" tvg-logo="http://repo.ottshow.net/slika/SBjy3Q6iTjVub1Cz8I7wW2VK3XqFpA.png" group-title="BB_BOŽIĆNI FILMOVI", Ernest Saves Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38926.mp4
+#EXTINF:-1 tvg-id="Code 8 Part II" tvg-logo="https://image.tmdb.org/t/p/w500/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg" group-title="BB_NOVI FILMOVI", Code 8 Part II
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81412.mp4
 
-#EXTINF:-1 tvg-id="Falling for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/6GkphwL9s6dZb3DoQS9OQ4LcPgY.jpg" group-title="BB_BOŽIĆNI FILMOVI", Falling for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/65604.mp4
+#EXTINF:-1 tvg-id="Conclave" tvg-logo="https://image.tmdb.org/t/p/w500/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg" group-title="BB_NOVI FILMOVI", Conclave
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82505.mp4
 
-#EXTINF:-1 tvg-id="Father Christmas Is Back" tvg-logo="https://image.tmdb.org/t/p/w500/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg" group-title="BB_BOŽIĆNI FILMOVI", Father Christmas Is Back
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38354.mp4
+#EXTINF:-1 tvg-id="Consumed" tvg-logo="https://image.tmdb.org/t/p/w500/jMKc8AOyb7KWSzlKblstqjCXhvn.jpg" group-title="BB_NOVI FILMOVI", Consumed
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81538.mp4
 
-#EXTINF:-1 tvg-id="Finding John Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/jlHhhRZFUvlbKzxC6rrI7be7dMu.jpg" group-title="BB_BOŽIĆNI FILMOVI", Finding John Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38927.mp4
+#EXTINF:-1 tvg-id="Crescent City" tvg-logo="http://repo.ottshow.net/slika/B3DkNpCgq2CKADoJHQ2Kk9sJMIVA7G.png" group-title="BB_NOVI FILMOVI", Crescent City
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81344.mp4
 
-#EXTINF:-1 tvg-id="Hope at Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/ylrt2AjyunjjsU4ZQQeTNaJH41H.jpg" group-title="BB_BOŽIĆNI FILMOVI", Hope at Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39074.mp4
+#EXTINF:-1 tvg-id="Daddy's Head" tvg-logo="https://image.tmdb.org/t/p/w500/nEWbEBs8BalwasA4Un8rll3kauT.jpg" group-title="BB_NOVI FILMOVI", Daddy's Head
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82847.mp4
 
-#EXTINF:-1 tvg-id="How the Grinch Stole Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/1WZbbPApEivA421gCOluuzMMKCk.jpg" group-title="BB_BOŽIĆNI FILMOVI", How the Grinch Stole Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39145.mp4
+#EXTINF:-1 tvg-id="Damaged" tvg-logo="https://image.tmdb.org/t/p/w500/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg" group-title="BB_NOVI FILMOVI", Damaged
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80240.mp4
 
-#EXTINF:-1 tvg-id="I'll Be Home for Christmas" tvg-logo="http://repo.ottshow.net/slika/Aana3U2dXEoB1Vd8c0QB3gIkhiK1bv.png" group-title="BB_BOŽIĆNI FILMOVI", I'll Be Home for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38930.mp4
+#EXTINF:-1 tvg-id="Damsel" tvg-logo="https://image.tmdb.org/t/p/w500/zOE5mwQlPC2FU9flNS9nsToIsdg.jpg" group-title="BB_NOVI FILMOVI", Damsel
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79850.mp4
 
-#EXTINF:-1 tvg-id="Ice Age: A Mammoth Christmas" tvg-logo="http://repo.ottshow.net/slika/xlXxWTh8ALmTzdgsvTAQKUMO2Rwb04.png" group-title="BB_BOŽIĆNI FILMOVI", Ice Age: A Mammoth Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38929.mp4
+#EXTINF:-1 tvg-id="Dangerous Waters" tvg-logo="https://image.tmdb.org/t/p/w500/b7BLWOWrUZICFydcwUy3b6d9DBI.jpg" group-title="BB_NOVI FILMOVI", Dangerous Waters
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79466.mp4
 
-#EXTINF:-1 tvg-id="Jeff Dunham's Very Special Christmas Special" tvg-logo="http://repo.ottshow.net/slika/25HhRMf6jeYC1AY2Y89uYzHRhudugF.png" group-title="BB_BOŽIĆNI FILMOVI", Jeff Dunham's Very Special Christmas Special
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38931.mp4
+#EXTINF:-1 tvg-id="Dead Sea" tvg-logo="https://image.tmdb.org/t/p/w500/1VmbJsxJZgVjp69zxMFBL2OlkRr.jpg" group-title="BB_NOVI FILMOVI", Dead Sea
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81158.mp4
 
-#EXTINF:-1 tvg-id="Jingle Jangle: A Christmas Journey" tvg-logo="https://image.tmdb.org/t/p/w500/iBAhfSnXZFMrVhoVoD9MSjmeuUa.jpg" group-title="BB_BOŽIĆNI FILMOVI", Jingle Jangle: A Christmas Journey
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/30369.mp4
+#EXTINF:-1 tvg-id="Deadbolt" tvg-logo="https://image.tmdb.org/t/p/w500/nXAVCJohFwS95joB7mNUPmXMedv.jpg" group-title="BB_NOVI FILMOVI", Deadbolt
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82157.mp4
 
-#EXTINF:-1 tvg-id="Journey to the Christmas Star" tvg-logo="http://repo.ottshow.net/slika/AZPHW6VArmOGWrCrYYWGXnnb6msxj3.png" group-title="BB_BOŽIĆNI FILMOVI", Journey to the Christmas Star
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38933.mp4
+#EXTINF:-1 tvg-id="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w500/4VvCxMpFPeD6mIwuIUpKLlZVJPI.jpg" group-title="BB_NOVI FILMOVI", Deadpool & Wolverine
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81869.mp4
 
-#EXTINF:-1 tvg-id="Koala Brothers Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/b0i0tfEeX62aONxKT5h6SrVBKkF.jpg" group-title="BB_BOŽIĆNI FILMOVI", Koala Brothers Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/28510.mp4
+#EXTINF:-1 tvg-id="Dear Santa" tvg-logo="https://image.tmdb.org/t/p/w500/fRbDHbGBXg6kwQYr3CRYeKPJW5q.jpg" group-title="BB_NOVI FILMOVI", Dear Santa
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82619.mp4
 
-#EXTINF:-1 tvg-id="Last Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg" group-title="BB_BOŽIĆNI FILMOVI", Last Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/25878.mp4
+#EXTINF:-1 tvg-id="Des Teufels Bad" tvg-logo="https://image.tmdb.org/t/p/w500/ycoXsJomPmPjtCfNweM0UWiTkPY.jpg" group-title="BB_NOVI FILMOVI", Des Teufels Bad
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80911.mp4
 
-#EXTINF:-1 tvg-id="Looks Like Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/mekjG3Ev970kJmmWRs7kYTxAvom.jpg" group-title="BB_BOŽIĆNI FILMOVI", Looks Like Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39075.mp4
+#EXTINF:-1 tvg-id="Descendants: The Rise of Red" tvg-logo="https://image.tmdb.org/t/p/w500/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg" group-title="BB_NOVI FILMOVI", Descendants: The Rise of Red
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81032.mp4
 
-#EXTINF:-1 tvg-id="Marrying Father Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/2F2WazfLgWjszwS5NNWZvoLxwge.jpg" group-title="BB_BOŽIĆNI FILMOVI", Marrying Father Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38997.mp4
+#EXTINF:-1 tvg-id="Despicable Me 4" tvg-logo="https://image.tmdb.org/t/p/w500/uuttRxMVe6rVnm80juWfDQAFsv1.jpg" group-title="BB_NOVI FILMOVI", Despicable Me 4
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81465.mp4
 
-#EXTINF:-1 tvg-id="Merry Magic Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/3Y8HAZSutfIP3jcLJBEonz7n0te.jpg" group-title="BB_BOŽIĆNI FILMOVI", Merry Magic Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/77824.mp4
+#EXTINF:-1 tvg-id="Detained" tvg-logo="https://image.tmdb.org/t/p/w500/dtIWcxnueqEOg2WhIk4cHjtv41D.jpg" group-title="BB_NOVI FILMOVI", Detained
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82357.mp4
 
-#EXTINF:-1 tvg-id="Mickey Saves Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/yroznFQnEjgzgHj0vBDm4Hnppv6.jpg" group-title="BB_BOŽIĆNI FILMOVI", Mickey Saves Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/66120.mp4
+#EXTINF:-1 tvg-id="Die Hart 2:Die HArter" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiOGRhNmYtMjMzNy00OThjLWFjMmUtOTViNDE3NGI0ZGE5XkEyXkFqcGc@._V1_.jpg" group-title="BB_NOVI FILMOVI", Die Hart 2:Die HArter
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81539.mp4
 
-#EXTINF:-1 tvg-id="Mr. Krueger's Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/shhvBsmCqWzbRoL3jwgprrgnlVc.jpg" group-title="BB_BOŽIĆNI FILMOVI", Mr. Krueger's Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/38999.mp4
+#EXTINF:-1 tvg-id="Dirty Angels" tvg-logo="https://image.tmdb.org/t/p/w500/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg" group-title="BB_NOVI FILMOVI", Dirty Angels
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82790.mp4
 
-#EXTINF:-1 tvg-id="National Lampoon's Christmas Vacation" tvg-logo="https://image.tmdb.org/t/p/w500/gL8ZDtAy8vO95aAnv1H5CR4CGMA.jpg" group-title="BB_BOŽIĆNI FILMOVI", National Lampoon's Christmas Vacation
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39000.mp4
+#EXTINF:-1 tvg-id="Disaster Holiday" tvg-logo="https://image.tmdb.org/t/p/w500/pNZHImRQhSq5qEPSpDkmWLRB4RS.jpg" group-title="BB_NOVI FILMOVI", Disaster Holiday
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82848.mp4
 
-#EXTINF:-1 tvg-id="Northpole: Open for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/8sKl0ALNLSsNnMAcJaCiypxTJw8.jpg" group-title="BB_BOŽIĆNI FILMOVI", Northpole: Open for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39076.mp4
+#EXTINF:-1 tvg-id="Dogman" tvg-logo="https://image.tmdb.org/t/p/w500/rmRkZZ2aZq72dDTjbPnSLtPQcmJ.jpg" group-title="BB_NOVI FILMOVI", Dogman
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79659.mp4
 
-#EXTINF:-1 tvg-id="Office Christmas Party" tvg-logo="https://image.tmdb.org/t/p/w500/7CLL2P0m8zHExJWcODrfkOmoU3R.jpg" group-title="BB_BOŽIĆNI FILMOVI", Office Christmas Party
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39077.mp4
+#EXTINF:-1 tvg-id="Dominique" tvg-logo="https://image.tmdb.org/t/p/w500/29uKScAbQuKsMEdAn12a6BmvFn7.jpg" group-title="BB_NOVI FILMOVI", Dominique
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82264.mp4
 
-#EXTINF:-1 tvg-id="On Strike for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/k0iXcNLdIsH18zooJMoCXQmgHel.jpg" group-title="BB_BOŽIĆNI FILMOVI", On Strike for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39001.mp4
+#EXTINF:-1 tvg-id="Don't Die: The Man Who Wants to Live Forever" tvg-logo="https://image.tmdb.org/t/p/w500/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg" group-title="BB_NOVI FILMOVI", Don't Die: The Man Who Wants to Live Forever
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82934.mp4
 
-#EXTINF:-1 tvg-id="One Christmas Eve" tvg-logo="https://image.tmdb.org/t/p/w500/9x9vdwo74pJHsnaj6coMzBcZuc6.jpg" group-title="BB_BOŽIĆNI FILMOVI", One Christmas Eve
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39002.mp4
+#EXTINF:-1 tvg-id="Duchess" tvg-logo="https://image.tmdb.org/t/p/w500/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg" group-title="BB_NOVI FILMOVI", Duchess
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81345.mp4
 
-#EXTINF:-1 tvg-id="One Starry Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/bcJYxfeOY0oTW3i1SYMr8BKlXFR.jpg" group-title="BB_BOŽIĆNI FILMOVI", One Starry Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39003.mp4
+#EXTINF:-1 tvg-id="Dune: Part Two" tvg-logo="https://image.tmdb.org/t/p/w500/zwA9VTkXTIeep6lDLfxPpBroVd2.jpg" group-title="BB_NOVI FILMOVI", Dune: Part Two
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79995.mp4
 
-#EXTINF:-1 tvg-id="Surviving Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/dR7bbxzIqW2lfIz5eZCsYQxF5Jc.jpg" group-title="BB_BOŽIĆNI FILMOVI", Surviving Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39006.mp4
+#EXTINF:-1 tvg-id="Eileen" tvg-logo="https://image.tmdb.org/t/p/w500/gdGKBa3UVS5GMZsayqnfupBB5fb.jpg" group-title="BB_NOVI FILMOVI", Eileen
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78058.mp4
 
-#EXTINF:-1 tvg-id="Surviving Christmas" tvg-logo="http://images.ottshow.net/images/dR7bbxzIqW2lfIz5eZCsYQxF5Jc_small.jpg" group-title="BB_BOŽIĆNI FILMOVI", Surviving Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/17924.mp4
+#EXTINF:-1 tvg-id="Ekskurzija" tvg-logo="https://image.tmdb.org/t/p/w500/lbuJyz4G0mSXh66AXYpp9ZJAHGS.jpg" group-title="BB_NOVI FILMOVI", Ekskurzija
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81868.mp4
 
-#EXTINF:-1 tvg-id="Take Me Back for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/eNZUnfDR1ThpiE9F1jOG7paby16.jpg" group-title="BB_BOŽIĆNI FILMOVI", Take Me Back for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/77825.mp4
+#EXTINF:-1 tvg-id="El hoyo 2" tvg-logo="https://image.tmdb.org/t/p/w500/izuzUb0sDokqp9o8utVfsrSJuy5.jpg" group-title="BB_NOVI FILMOVI", El hoyo 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82003.mp4
 
-#EXTINF:-1 tvg-id="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/sMgAQTUQ0P8YBzCELSEhwVGUAL8.jpg" group-title="BB_BOŽIĆNI FILMOVI", That Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/82744.mp4
+#EXTINF:-1 tvg-id="Elevation" tvg-logo="https://image.tmdb.org/t/p/w500/uQhYBxOVFU6s9agD49FnGHwJqG5.jpg" group-title="BB_NOVI FILMOVI", Elevation
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82448.mp4
 
-#EXTINF:-1 tvg-id="The 12 Disasters Of Christmas" tvg-logo="http://images.ottshow.net/images/dUiYvgBUn3nAqRAIPpZML03bQ5u_small.jpg" group-title="BB_BOŽIĆNI FILMOVI", The 12 Disasters Of Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/18479.mp4
+#EXTINF:-1 tvg-id="Fast Charlie" tvg-logo="https://image.tmdb.org/t/p/w500/w0rYX6dDvcz1ASO4MAKPviaAj2x.jpg" group-title="BB_NOVI FILMOVI", Fast Charlie
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79615.mp4
 
-#EXTINF:-1 tvg-id="The Case for Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/2pQMZ7cVmHdNmB8MDM77zUIVsAe.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Case for Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39078.mp4
+#EXTINF:-1 tvg-id="Fentasy" tvg-logo="https://image.tmdb.org/t/p/w500/A1iIyDIVQqI0suDNRg9muGJi9rQ.jpg" group-title="BB_NOVI FILMOVI", Fentasy
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82449.mp4
 
-#EXTINF:-1 tvg-id="The Christmas Chronicles" tvg-logo="https://image.tmdb.org/t/p/w500/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Christmas Chronicles
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39079.mp4
+#EXTINF:-1 tvg-id="Ferrari" tvg-logo="https://image.tmdb.org/t/p/w500/xBFyJHvXCTgf9Vmq5uCnXRHrMQ4.jpg" group-title="BB_NOVI FILMOVI", Ferrari
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79469.mp4
 
-#EXTINF:-1 tvg-id="The Christmas Chronicles: Part Two" tvg-logo="http://repo.ottshow.net/slika/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Christmas Chronicles: Part Two
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/30657.mp4
+#EXTINF:-1 tvg-id="Ferry 2" tvg-logo="https://image.tmdb.org/t/p/w500/8pwdnL3pEISIN1EGmwZzU6hpNVk.jpg" group-title="BB_NOVI FILMOVI", Ferry 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82849.mp4
 
-#EXTINF:-1 tvg-id="The Christmas Contract" tvg-logo="https://image.tmdb.org/t/p/w500/5RTFU7VTN9IDaffRXlKa8Ig60mC.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Christmas Contract
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/25278.mp4
+#EXTINF:-1 tvg-id="Fly Me to the Moon" tvg-logo="https://image.tmdb.org/t/p/w500/lb0XDH6LbkYwzbHTqjsUNZTLXMS.jpg" group-title="BB_NOVI FILMOVI", Fly Me to the Moon
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81236.mp4
 
-#EXTINF:-1 tvg-id="The Christmas Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/aX6JE4JJvxIHEgaUfB25dGskdZd.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Christmas Dragon
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39080.mp4
+#EXTINF:-1 tvg-id="Force of Nature: The Dry 2" tvg-logo="https://image.tmdb.org/t/p/w500/qSyDO8dvG5Vg4dJrg98u8eWtPkP.jpg" group-title="BB_NOVI FILMOVI", Force of Nature: The Dry 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82358.mp4
 
-#EXTINF:-1 tvg-id="The Christmas Dragon" tvg-logo="http://images.ottshow.net/images/tgy5fFL3vg1Tf37P1ESRFoTZsob_small.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Christmas Dragon
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/17796.mp4
+#EXTINF:-1 tvg-id="From Darkness" tvg-logo="https://image.tmdb.org/t/p/w500/mDuePf1neIsvsUfN9tlnNObwjZd.jpg" group-title="BB_NOVI FILMOVI", From Darkness
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81248.mp4
 
-#EXTINF:-1 tvg-id="The Christmas Parade" tvg-logo="https://image.tmdb.org/t/p/w500/xbFcTozizElEXP9uAxtTXbQa8mn.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Christmas Parade
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39052.mp4
+#EXTINF:-1 tvg-id="Furiosa: A Mad Max Saga" tvg-logo="https://image.tmdb.org/t/p/w500/ovVs4EacNBKqjg0jlMf909O9nXt.jpg" group-title="BB_NOVI FILMOVI", Furiosa: A Mad Max Saga
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80830.mp4
 
-#EXTINF:-1 tvg-id="The Christmas Spirit" tvg-logo="https://image.tmdb.org/t/p/w500/onijNy3kGnpOLtFKiMwGRLRvb9Z.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Christmas Spirit
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39050.mp4
+#EXTINF:-1 tvg-id="Führer und Verführer" tvg-logo="https://image.tmdb.org/t/p/w500/iK5rrNUSNUMOWyPUQAHo6WsjOho.jpg" group-title="BB_NOVI FILMOVI", Führer und Verführer
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82035.mp4
 
-#EXTINF:-1 tvg-id="The Dog Who Saved Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/mZpckvQrk3NFSfgaltuzRnw6hVy.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Dog Who Saved Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39051.mp4
+#EXTINF:-1 tvg-id="Ghostbusters: Frozen Empire" tvg-logo="https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="BB_NOVI FILMOVI", Ghostbusters: Frozen Empire
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80363.mp4
 
-#EXTINF:-1 tvg-id="The Fitzgerald Family Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/toB3ZGJ7zRsU3CCtJLYzv6uB3Za.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Fitzgerald Family Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39053.mp4
+#EXTINF:-1 tvg-id="Ghosts of Red Ridge" tvg-logo="https://image.tmdb.org/t/p/w500/eNyj1J1GMasLYzss61o2rXz8Lpi.jpg" group-title="BB_NOVI FILMOVI", Ghosts of Red Ridge
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82620.mp4
 
-#EXTINF:-1 tvg-id="The Knight Before Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Knight Before Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/25574.mp4
+#EXTINF:-1 tvg-id="Gladiator II" tvg-logo="https://image.tmdb.org/t/p/w500/ntGsOEWqKSMLyJlFxQ2WzqjiL9H.jpg" group-title="BB_NOVI FILMOVI", Gladiator II
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82745.mp4
 
-#EXTINF:-1 tvg-id="The Man Who Invented Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/xYCuRgEKynGurSEooxDa9pQPF7n.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Man Who Invented Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39054.mp4
+#EXTINF:-1 tvg-id="Godzilla x Kong: The New Empire" tvg-logo="https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg" group-title="BB_NOVI FILMOVI", Godzilla x Kong: The New Empire
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80402.mp4
 
-#EXTINF:-1 tvg-id="The Muppet Christmas Carol" tvg-logo="https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Muppet Christmas Carol
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39055.mp4
+#EXTINF:-1 tvg-id="Godzilla x Kong: The New Empire" tvg-logo="https://image.tmdb.org/t/p/w500/vanNAEULVVfPMmtRTHzTW1kLRIV.jpg" group-title="BB_NOVI FILMOVI", Godzilla x Kong: The New Empire
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80411.mp4
 
-#EXTINF:-1 tvg-id="The Night Before Christmas: A Mouse Tale" tvg-logo="https://image.tmdb.org/t/p/w500/pAI41MpGL3dppv3ca1cNKe0JtiO.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Night Before Christmas: A Mouse Tale
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/28734.mp4
+#EXTINF:-1 tvg-id="Goyo" tvg-logo="https://image.tmdb.org/t/p/w500/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg" group-title="BB_NOVI FILMOVI", Goyo
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80910.mp4
 
-#EXTINF:-1 tvg-id="The Spirit of Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/ynWcaW8ZrtBeuzgUyEXR30A2TAT.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Spirit of Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39081.mp4
+#EXTINF:-1 tvg-id="Greedy People" tvg-logo="https://image.tmdb.org/t/p/w500/aIUZiciO0nMh8MrhmsTaMWZvEWK.jpg" group-title="BB_NOVI FILMOVI", Greedy People
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81432.mp4
 
-#EXTINF:-1 tvg-id="The Town Christmas Forgot" tvg-logo="https://image.tmdb.org/t/p/w500/3pKmJP0uU3x2gZjUBNohbWHk4oX.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Town Christmas Forgot
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39057.mp4
+#EXTINF:-1 tvg-id="Grenzeloos verraad" tvg-logo="https://image.tmdb.org/t/p/w500/bacyRY6bTW7aaOQX8MmrDDyRCF2.jpg" group-title="BB_NOVI FILMOVI", Grenzeloos verraad
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78028.mp4
 
-#EXTINF:-1 tvg-id="The Tree That Saved Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/b3gZQmlPWwOnaMl7t9A97LajF5q.jpg" group-title="BB_BOŽIĆNI FILMOVI", The Tree That Saved Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39058.mp4
+#EXTINF:-1 tvg-id="GTMAX" tvg-logo="https://image.tmdb.org/t/p/w500/bx92hl70NUhojjO3eV6LqKllj4L.jpg" group-title="BB_NOVI FILMOVI", GTMAX
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82450.mp4
 
-#EXTINF:-1 tvg-id="This Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/dBuLAw4mRlO83LPA2s4zOlVesUe.jpg" group-title="BB_BOŽIĆNI FILMOVI", This Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39059.mp4
+#EXTINF:-1 tvg-id="Gunner" tvg-logo="https://image.tmdb.org/t/p/w500/eEkAY5veAnwxUOOlpF62KawkFO9.jpg" group-title="BB_NOVI FILMOVI", Gunner
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81346.mp4
 
-#EXTINF:-1 tvg-id="White Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/A5kBQsHKbIptxJyELEpHQJROCRj.jpg" group-title="BB_BOŽIĆNI FILMOVI", White Christmas
-http://ottshow.net:80/movie/stojanGERAS.1200/gerasSTOJAN.1200/39062.mp4
+#EXTINF:-1 tvg-id="Harold and the Purple Crayon" tvg-logo="https://image.tmdb.org/t/p/w500/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg" group-title="BB_NOVI FILMOVI", Harold and the Purple Crayon
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81249.mp4
+
+#EXTINF:-1 tvg-id="Hellboy: The Crooked Man" tvg-logo="https://image.tmdb.org/t/p/w500/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg" group-title="BB_NOVI FILMOVI", Hellboy: The Crooked Man
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82451.mp4
+
+#EXTINF:-1 tvg-id="Hellhound" tvg-logo="https://image.tmdb.org/t/p/w500/f9hkaCIha8hIhRo0XXShhcosrPH.jpg" group-title="BB_NOVI FILMOVI", Hellhound
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79467.mp4
+
+#EXTINF:-1 tvg-id="Heretic" tvg-logo="https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg" group-title="BB_NOVI FILMOVI", Heretic
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82679.mp4
+
+#EXTINF:-1 tvg-id="Hijack '93" tvg-logo="https://image.tmdb.org/t/p/w500/g7Y1qXuXY6cyf44dBMVRYrx6Uyy.jpg" group-title="BB_NOVI FILMOVI", Hijack '93
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82267.mp4
+
+#EXTINF:-1 tvg-id="Hit Man" tvg-logo="https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg" group-title="BB_NOVI FILMOVI", Hit Man
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80741.mp4
+
+#EXTINF:-1 tvg-id="Horizon: An American Saga - Chapter 1" tvg-logo="http://repo.ottshow.net/slika/CHHPoq1E22QzfwgOaEop2BzdUj7hFv.png" group-title="BB_NOVI FILMOVI", Horizon: An American Saga - Chapter 1
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81115.mp4
+
+#EXTINF:-1 tvg-id="House of Ga'a" tvg-logo="https://image.tmdb.org/t/p/w500/s9CBq3jjJvFtLCrvDquoj1kIz0c.jpg" group-title="BB_NOVI FILMOVI", House of Ga'a
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81116.mp4
+
+#EXTINF:-1 tvg-id="How to Rob a Bank" tvg-logo="https://image.tmdb.org/t/p/w500/vhBQOgig0bXCXIgHHyO8ipG47J9.jpg" group-title="BB_NOVI FILMOVI", How to Rob a Bank
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80742.mp4
+
+#EXTINF:-1 tvg-id="I.S.S." tvg-logo="https://image.tmdb.org/t/p/w500/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="BB_NOVI FILMOVI", I.S.S.
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79233.mp4
+
+#EXTINF:-1 tvg-id="Imaginary" tvg-logo="https://image.tmdb.org/t/p/w500/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="BB_NOVI FILMOVI", Imaginary
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80030.mp4
+
+#EXTINF:-1 tvg-id="Immaculate" tvg-logo="https://image.tmdb.org/t/p/w500/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg" group-title="BB_NOVI FILMOVI", Immaculate
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80249.mp4
+
+#EXTINF:-1 tvg-id="In a Violent Nature" tvg-logo="https://image.tmdb.org/t/p/w500/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg" group-title="BB_NOVI FILMOVI", In a Violent Nature
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81031.mp4
+
+#EXTINF:-1 tvg-id="Indigo Crystal" tvg-logo="https://image.tmdb.org/t/p/w500/tfUzQKYA8Isyqsa1YrSwzPCKUBu.jpg" group-title="BB_NOVI FILMOVI", Indigo Crystal
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79194.mp4
+
+#EXTINF:-1 tvg-id="Inside Out 2" tvg-logo="https://image.tmdb.org/t/p/w500/8vn826D8Vc5RKPbtvHznEByHijv.jpg" group-title="BB_NOVI FILMOVI", Inside Out 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81571.mp4
+
+#EXTINF:-1 tvg-id="It's What's Inside" tvg-logo="https://image.tmdb.org/t/p/w500/uEXrrk3Jvf3XqBfKhh1OEDNrhHU.jpg" group-title="BB_NOVI FILMOVI", It's What's Inside
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81998.mp4
+
+#EXTINF:-1 tvg-id="Jackpot!" tvg-logo="https://image.tmdb.org/t/p/w500/fOsamTFIyGxjw1jLSKdZYxQBJOT.jpg" group-title="BB_NOVI FILMOVI", Jackpot!
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81347.mp4
+
+#EXTINF:-1 tvg-id="Joker: Folie à Deux" tvg-logo="https://image.tmdb.org/t/p/w500/4LMhal7FhHta5s9XN5kLteF21Zh.jpg" group-title="BB_NOVI FILMOVI", Joker: Folie à Deux
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82265.mp4
+
+#EXTINF:-1 tvg-id="Juror #2" tvg-logo="https://image.tmdb.org/t/p/w500/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg" group-title="BB_NOVI FILMOVI", Juror #2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82621.mp4
+
+#EXTINF:-1 tvg-id="Kill Craft" tvg-logo="https://image.tmdb.org/t/p/w500/gT9ucV7bpkIYfU5ugxFOuhInp8p.jpg" group-title="BB_NOVI FILMOVI", Kill Craft
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80835.mp4
+
+#EXTINF:-1 tvg-id="Kingdom of the Planet of the Apes" tvg-logo="https://image.tmdb.org/t/p/w500/u4UnQSHmCgRI2PPNoHaEc5NY6HR.jpg" group-title="BB_NOVI FILMOVI", Kingdom of the Planet of the Apes
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80922.mp4
+
+#EXTINF:-1 tvg-id="Kraven the Hunter" tvg-logo="https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg" group-title="BB_NOVI FILMOVI", Kraven the Hunter
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82850.mp4
+
+#EXTINF:-1 tvg-id="Kung Fu Games" tvg-logo="https://image.tmdb.org/t/p/w500/yjDdBBUEBMvyUiVohZ8T7W2IFl6.jpg" group-title="BB_NOVI FILMOVI", Kung Fu Games
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81620.mp4
+
+#EXTINF:-1 tvg-id="Kung Fu Panda 4" tvg-logo="https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="BB_NOVI FILMOVI", Kung Fu Panda 4
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82261.mp4
+
+#EXTINF:-1 tvg-id="La sociedad de la nieve" tvg-logo="https://image.tmdb.org/t/p/w500/iSZtnrB5a2YjpIrtzzcTATE0CEY.jpg" group-title="BB_NOVI FILMOVI", La sociedad de la nieve
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79617.mp4
+
+#EXTINF:-1 tvg-id="Lake George" tvg-logo="https://image.tmdb.org/t/p/w500/g2X9zAwVMJzu3A6v70bnMSlsybc.jpg" group-title="BB_NOVI FILMOVI", Lake George
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82791.mp4
+
+#EXTINF:-1 tvg-id="Land of Bad" tvg-logo="https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg" group-title="BB_NOVI FILMOVI", Land of Bad
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79468.mp4
+
+#EXTINF:-1 tvg-id="Lazareth" tvg-logo="https://image.tmdb.org/t/p/w500/36o8ancoKDKW1sstzMi0YYkQkpU.jpg" group-title="BB_NOVI FILMOVI", Lazareth
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80831.mp4
+
+#EXTINF:-1 tvg-id="Le Comte de Monte-Cristo" tvg-logo="https://image.tmdb.org/t/p/w500/7O0WDGsa4lBzqv3uaB1tp8UvFK3.jpg" group-title="BB_NOVI FILMOVI", Le Comte de Monte-Cristo
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82623.mp4
+
+#EXTINF:-1 tvg-id="Life After Fighting" tvg-logo="https://image.tmdb.org/t/p/w500/5IRyM2LaWfZcpuwWE1np2eWsdp0.jpg" group-title="BB_NOVI FILMOVI", Life After Fighting
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80923.mp4
+
+#EXTINF:-1 tvg-id="Lift" tvg-logo="https://image.tmdb.org/t/p/w500/8TcU4ivPftTuY549Nkm0oGzEYVZ.jpg" group-title="BB_NOVI FILMOVI", Lift
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79616.mp4
+
+#EXTINF:-1 tvg-id="Lights Out" tvg-logo="https://image.tmdb.org/t/p/w500/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" group-title="BB_NOVI FILMOVI", Lights Out
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79642.mp4
+
+#EXTINF:-1 tvg-id="Longlegs" tvg-logo="http://repo.ottshow.net/slika/TMISRRh2R3jOLf6VmW1nCp7Okt2xJ3.png" group-title="BB_NOVI FILMOVI", Longlegs
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81621.mp4
+
+#EXTINF:-1 tvg-id="Love Lies Bleeding" tvg-logo="https://image.tmdb.org/t/p/w500/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg" group-title="BB_NOVI FILMOVI", Love Lies Bleeding
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80749.mp4
+
+#EXTINF:-1 tvg-id="Madame Web" tvg-logo="https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg" group-title="BB_NOVI FILMOVI", Madame Web
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79880.mp4
+
+#EXTINF:-1 tvg-id="Marmalade" tvg-logo="https://image.tmdb.org/t/p/w500/trgW4mE3PsWg4T2GHczz0EpeHAn.jpg" group-title="BB_NOVI FILMOVI", Marmalade
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82680.mp4
+
+#EXTINF:-1 tvg-id="Mary" tvg-logo="https://image.tmdb.org/t/p/w500/qLeylh7WLmRNcMW3yuMaMLQG0RX.jpg" group-title="BB_NOVI FILMOVI", Mary
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82622.mp4
+
+#EXTINF:-1 tvg-id="Mavka: The Forest Song" tvg-logo="http://repo.ottshow.net/slika/YTD6a5NvABrfESHdBKdrzP2jIqRV6z.png" group-title="BB_NOVI FILMOVI", Mavka: The Forest Song
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79983.mp4
+
+#EXTINF:-1 tvg-id="Mea Culpa" tvg-logo="https://image.tmdb.org/t/p/w500/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="BB_NOVI FILMOVI", Mea Culpa
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79814.mp4
+
+#EXTINF:-1 tvg-id="Megalopolis" tvg-logo="https://image.tmdb.org/t/p/w500/9s1aRxipvnieZkqP2r1Z0KiSu1W.jpg" group-title="BB_NOVI FILMOVI", Megalopolis
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82355.mp4
+
+#EXTINF:-1 tvg-id="Megdan" tvg-logo="https://image.tmdb.org/t/p/w500/2lOoO4k9UGFTACPGbA79UlcP9KI.jpg" group-title="BB_NOVI FILMOVI", Megdan
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82866.mp4
+
+#EXTINF:-1 tvg-id="Mission: Cross" tvg-logo="https://image.tmdb.org/t/p/w500/aE9WqOApdRYsowsGE0118dyA4c9.jpg" group-title="BB_NOVI FILMOVI", Mission: Cross
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81690.mp4
+
+#EXTINF:-1 tvg-id="Moana 2" tvg-logo="https://image.tmdb.org/t/p/w500/xUbzkefX3GE2BLDcZgSrzFGiIwd.jpg" group-title="BB_NOVI FILMOVI", Moana 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82862.mp4
+
+#EXTINF:-1 tvg-id="Monkey Man" tvg-logo="https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg" group-title="BB_NOVI FILMOVI", Monkey Man
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80250.mp4
+
+#EXTINF:-1 tvg-id="Mother of the Bride" tvg-logo="https://image.tmdb.org/t/p/w500/vdTvwykMWvVgdaViBVRh8IFTku5.jpg" group-title="BB_NOVI FILMOVI", Mother of the Bride
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80364.mp4
+
+#EXTINF:-1 tvg-id="Mr. Monk's Last Case: A Monk Movie" tvg-logo="https://image.tmdb.org/t/p/w500/gj74sUGsPMg5qDQooh8GTs4MvbP.jpg" group-title="BB_NOVI FILMOVI", Mr. Monk's Last Case: A Monk Movie
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79234.mp4
+
+#EXTINF:-1 tvg-id="Mufasa: The Lion King" tvg-logo="https://image.tmdb.org/t/p/w500/86GvPooCs8HnuBCN7wdxNz30Csb.jpg" group-title="BB_NOVI FILMOVI", Mufasa: The Lion King
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83016.mp4
+
+#EXTINF:-1 tvg-id="Murder Company" tvg-logo="https://image.tmdb.org/t/p/w500/eUjzUUFm1dEUR6U4r0C6s9L2FEd.jpg" group-title="BB_NOVI FILMOVI", Murder Company
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81030.mp4
+
+#EXTINF:-1 tvg-id="My Penguin Friend" tvg-logo="https://image.tmdb.org/t/p/w500/2GvgFfpmIUPiU4PE9Ie3Tdi66Rz.jpg" group-title="BB_NOVI FILMOVI", My Penguin Friend
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82037.mp4
+
+#EXTINF:-1 tvg-id="My Spy The Eternal City" tvg-logo="https://image.tmdb.org/t/p/w500/Bf3vCfM94bSJ1saZlyi0UW0e0U.jpg" group-title="BB_NOVI FILMOVI", My Spy The Eternal City
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81146.mp4
+
+#EXTINF:-1 tvg-id="Napad" tvg-logo="https://image.tmdb.org/t/p/w500/zrzKoiLUdKuKqtYOKS2orLRoUhv.jpg" group-title="BB_NOVI FILMOVI", Napad
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82158.mp4
+
+#EXTINF:-1 tvg-id="Napoleon" tvg-logo="https://image.tmdb.org/t/p/w500/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg" group-title="BB_NOVI FILMOVI", Napoleon
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78064.mp4
+
+#EXTINF:-1 tvg-id="Nebo iznad Zenice" tvg-logo="https://image.tmdb.org/t/p/w500/ap3672vjjMHvdIfenXqTDkMUqD.jpg" group-title="BB_NOVI FILMOVI", Nebo iznad Zenice
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82453.mp4
+
+#EXTINF:-1 tvg-id="Nedelja" tvg-logo="https://image.tmdb.org/t/p/w500/1HrrcuccBQyaJHGhFfn4P9wkjEl.jpg" group-title="BB_NOVI FILMOVI", Nedelja
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78881.mp4
+
+#EXTINF:-1 tvg-id="Never Let Go" tvg-logo="https://image.tmdb.org/t/p/w500/3EpZ2ksjijmdr8BhISP03PYzNFW.jpg" group-title="BB_NOVI FILMOVI", Never Let Go
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82159.mp4
+
+#EXTINF:-1 tvg-id="Nice Girls" tvg-logo="https://image.tmdb.org/t/p/w500/2BjyLLlw1DfQufQTViPVFgcOQ0g.jpg" group-title="BB_NOVI FILMOVI", Nice Girls
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81250.mp4
+
+#EXTINF:-1 tvg-id="Night Swim" tvg-logo="https://image.tmdb.org/t/p/w500/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg" group-title="BB_NOVI FILMOVI", Night Swim
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79236.mp4
+
+#EXTINF:-1 tvg-id="No negociable" tvg-logo="https://image.tmdb.org/t/p/w500/bHQG4UsLMFCy91gfLAFRpnCOPdP.jpg" group-title="BB_NOVI FILMOVI", No negociable
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81117.mp4
+
+#EXTINF:-1 tvg-id="No Time to Spy: A Loud House Movie" tvg-logo="https://image.tmdb.org/t/p/w500/mh4Mk95u7fdY4D4t5kRGQpQbVFy.jpg" group-title="BB_NOVI FILMOVI", No Time to Spy: A Loud House Movie
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80874.mp4
+
+#EXTINF:-1 tvg-id="Nutcrackers" tvg-logo="https://image.tmdb.org/t/p/w500/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg" group-title="BB_NOVI FILMOVI", Nutcrackers
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82681.mp4
+
+#EXTINF:-1 tvg-id="One More Shot" tvg-logo="https://image.tmdb.org/t/p/w500/gdF3Q1Mcr2XvxLPStQSoQIO2cIj.jpg" group-title="BB_NOVI FILMOVI", One More Shot
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78128.mp4
+
+#EXTINF:-1 tvg-id="Ordinary Angels" tvg-logo="https://image.tmdb.org/t/p/w500/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg" group-title="BB_NOVI FILMOVI", Ordinary Angels
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80750.mp4
+
+#EXTINF:-1 tvg-id="Out Come the Wolves" tvg-logo="https://image.tmdb.org/t/p/w500/kDijoX2DQlymtUL44lCxJ1JLsGL.jpg" group-title="BB_NOVI FILMOVI", Out Come the Wolves
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81540.mp4
+
+#EXTINF:-1 tvg-id="Planeta 7693" tvg-logo="https://image.tmdb.org/t/p/w500/tMThaJYUVIlMtS0g3J45W8idGYn.jpg" group-title="BB_NOVI FILMOVI", Planeta 7693
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82871.mp4
+
+#EXTINF:-1 tvg-id="Players" tvg-logo="https://image.tmdb.org/t/p/w500/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg" group-title="BB_NOVI FILMOVI", Players
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79881.mp4
+
+#EXTINF:-1 tvg-id="Possessions" tvg-logo="https://image.tmdb.org/t/p/w500/39a7zYZvkGfs7EOVVK3dQlWyYJ0.jpg" group-title="BB_NOVI FILMOVI", Possessions
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80751.mp4
+
+#EXTINF:-1 tvg-id="Prey" tvg-logo="https://image.tmdb.org/t/p/w500/5wAlO5zZ3IyzLBAf7cp5WejalmG.jpg" group-title="BB_NOVI FILMOVI", Prey
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80361.mp4
+
+#EXTINF:-1 tvg-id="Príncipes salvajes" tvg-logo="https://image.tmdb.org/t/p/w500/iEe9RODlNgobupiksZ2vE4TZwUg.jpg" group-title="BB_NOVI FILMOVI", Príncipes salvajes
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81253.mp4
+
+#EXTINF:-1 tvg-id="Quad Gods" tvg-logo="https://image.tmdb.org/t/p/w500/wPKD810IOsLgYldcKzcAh4OLmnx.jpg" group-title="BB_NOVI FILMOVI", Quad Gods
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82452.mp4
+
+#EXTINF:-1 tvg-id="Race for Glory: Audi vs Lancia" tvg-logo="https://image.tmdb.org/t/p/w500/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" group-title="BB_NOVI FILMOVI", Race for Glory: Audi vs Lancia
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78059.mp4
+
+#EXTINF:-1 tvg-id="Rebel Moon - Part Two: The Scargiver" tvg-logo="https://image.tmdb.org/t/p/w500/7vBXZz3HwaXby1ccYmVfp33zdEo.jpg" group-title="BB_NOVI FILMOVI", Rebel Moon - Part Two: The Scargiver
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80272.mp4
+
+#EXTINF:-1 tvg-id="Rebel Ridge" tvg-logo="https://image.tmdb.org/t/p/w500/h0cL64iYeKYAYUBFupLgtxDXaVt.jpg" group-title="BB_NOVI FILMOVI", Rebel Ridge
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81433.mp4
+
+#EXTINF:-1 tvg-id="Red One" tvg-logo="https://image.tmdb.org/t/p/w500/8JkajVClGqi1FnPpfi9JGkZnz7a.jpg" group-title="BB_NOVI FILMOVI", Red One
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82682.mp4
+
+#EXTINF:-1 tvg-id="Rez Ball" tvg-logo="https://image.tmdb.org/t/p/w500/5MKpjuiCTk8nYnsUf5QegiPKEDh.jpg" group-title="BB_NOVI FILMOVI", Rez Ball
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82000.mp4
+
+#EXTINF:-1 tvg-id="Ricky Stanicky" tvg-logo="https://image.tmdb.org/t/p/w500/heSgHkFtzvPdNoWTyJgfre3uljc.jpg" group-title="BB_NOVI FILMOVI", Ricky Stanicky
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79921.mp4
+
+#EXTINF:-1 tvg-id="Rippy" tvg-logo="https://image.tmdb.org/t/p/w500/cZ5U4Ae74g29E02JR5oR98RQhiR.jpg" group-title="BB_NOVI FILMOVI", Rippy
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82683.mp4
+
+#EXTINF:-1 tvg-id="Road House" tvg-logo="https://image.tmdb.org/t/p/w500/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg" group-title="BB_NOVI FILMOVI", Road House
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79922.mp4
+
+#EXTINF:-1 tvg-id="Role Play" tvg-logo="https://image.tmdb.org/t/p/w500/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg" group-title="BB_NOVI FILMOVI", Role Play
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78627.mp4
+
+#EXTINF:-1 tvg-id="Room Service" tvg-logo="https://image.tmdb.org/t/p/w500/w7lRAP3yqFmY0lYkFftEWR8jJQZ.jpg" group-title="BB_NOVI FILMOVI", Room Service
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81237.mp4
+
+#EXTINF:-1 tvg-id="Ruski Konzul" tvg-logo="https://image.tmdb.org/t/p/w500/tMedWfNUz3MIx0OhiqGSKCx563A.jpg" group-title="BB_NOVI FILMOVI", Ruski Konzul
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82872.mp4
+
+#EXTINF:-1 tvg-id="S.T.A.L.K.E.R. Shadow of the Zone" tvg-logo="https://image.tmdb.org/t/p/w500/8FxyXMIt7seeAeXgkI28VmWKNPM.jpg" group-title="BB_NOVI FILMOVI", S.T.A.L.K.E.R. Shadow of the Zone
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83015.mp4
+
+#EXTINF:-1 tvg-id="Salem's Lot" tvg-logo="https://image.tmdb.org/t/p/w500/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg" group-title="BB_NOVI FILMOVI", Salem's Lot
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82001.mp4
+
+#EXTINF:-1 tvg-id="Saving Bikini Bottom: The Sandy Cheeks Movie" tvg-logo="https://image.tmdb.org/t/p/w500/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg" group-title="BB_NOVI FILMOVI", Saving Bikini Bottom: The Sandy Cheeks Movie
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81168.mp4
+
+#EXTINF:-1 tvg-id="Sector 36" tvg-logo="https://image.tmdb.org/t/p/w500/pbVcZmmcfqk35Q9hNxRoR7JPiVp.jpg" group-title="BB_NOVI FILMOVI", Sector 36
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81541.mp4
+
+#EXTINF:-1 tvg-id="Sedmo nebo" tvg-logo="https://image.tmdb.org/t/p/w500/vEluKz3QVIbJa6QfReHICQngZv5.jpg" group-title="BB_NOVI FILMOVI", Sedmo nebo
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80505.mp4
+
+#EXTINF:-1 tvg-id="Self Reliance" tvg-logo="https://image.tmdb.org/t/p/w500/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" group-title="BB_NOVI FILMOVI", Self Reliance
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79473.mp4
+
+#EXTINF:-1 tvg-id="Shadow Land" tvg-logo="https://image.tmdb.org/t/p/w500/n6tk8oqhUki6Zp4PIuQqr1aTSXq.jpg" group-title="BB_NOVI FILMOVI", Shadow Land
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80836.mp4
+
+#EXTINF:-1 tvg-id="Skeletons in the Closet" tvg-logo="https://image.tmdb.org/t/p/w500/piK7sqRNjToW7ryMbWEG34vFup5.jpg" group-title="BB_NOVI FILMOVI", Skeletons in the Closet
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80832.mp4
+
+#EXTINF:-1 tvg-id="Skywalkers: A Love Story" tvg-logo="https://image.tmdb.org/t/p/w500/7A4x0D1gNTpmMn9E9BW9hWiaOkv.jpg" group-title="BB_NOVI FILMOVI", Skywalkers: A Love Story
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81029.mp4
+
+#EXTINF:-1 tvg-id="Sleeping Dogs" tvg-logo="https://image.tmdb.org/t/p/w500/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg" group-title="BB_NOVI FILMOVI", Sleeping Dogs
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80177.mp4
+
+#EXTINF:-1 tvg-id="Small Things Like These" tvg-logo="https://image.tmdb.org/t/p/w500/vVxRLATTEgrLbVcuDki4VohFrzj.jpg" group-title="BB_NOVI FILMOVI", Small Things Like These
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82851.mp4
+
+#EXTINF:-1 tvg-id="Smart Home Killer" tvg-logo="https://image.tmdb.org/t/p/w500/2WlgLasqISfzwVmhJWAsmwuQiFQ.jpg" group-title="BB_NOVI FILMOVI", Smart Home Killer
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78015.mp4
+
+#EXTINF:-1 tvg-id="Smile 2" tvg-logo="https://image.tmdb.org/t/p/w500/kw7imzTJXECuNmbY8rh6Tcs0JVy.jpg" group-title="BB_NOVI FILMOVI", Smile 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82508.mp4
+
+#EXTINF:-1 tvg-id="Snøsøsteren" tvg-logo="https://image.tmdb.org/t/p/w500/l10sOYSpnDBcw2cLVoppsAJEzcK.jpg" group-title="BB_NOVI FILMOVI", Snøsøsteren
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82856.mp4
+
+#EXTINF:-1 tvg-id="Son of Rich 2/Sluga 2" tvg-logo="https://image.tmdb.org/t/p/w500/8wGPQIMhyB1hfGbURsbqezObvS1.jpg" group-title="BB_NOVI FILMOVI", Son of Rich 2/Sluga 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79990.mp4
+
+#EXTINF:-1 tvg-id="Sous la Seine" tvg-logo="https://image.tmdb.org/t/p/w500/3Q4husmOu7b6vwuMjOnI9cr8bHH.jpg" group-title="BB_NOVI FILMOVI", Sous la Seine
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80754.mp4
+
+#EXTINF:-1 tvg-id="Space Cadet" tvg-logo="https://image.tmdb.org/t/p/w500/7rda0SRuIGA8BDC8FTYHAOyXaRj.jpg" group-title="BB_NOVI FILMOVI", Space Cadet
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80924.mp4
+
+#EXTINF:-1 tvg-id="Spaceman" tvg-logo="https://image.tmdb.org/t/p/w500/5hnFFOWEchErNVr0wMLWFEob3q1.jpg" group-title="BB_NOVI FILMOVI", Spaceman
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79963.mp4
+
+#EXTINF:-1 tvg-id="Spadek" tvg-logo="https://image.tmdb.org/t/p/w500/A4UklDW0DYytzK5aydQIM3vw4dL.jpg" group-title="BB_NOVI FILMOVI", Spadek
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82036.mp4
+
+#EXTINF:-1 tvg-id="Spaghetti" tvg-logo="https://image.tmdb.org/t/p/w500/kGmy63TQ3XNXvP8zMYR5i7TVYea.jpg" group-title="BB_NOVI FILMOVI", Spaghetti
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80273.mp4
+
+#EXTINF:-1 tvg-id="Spellbound" tvg-logo="https://image.tmdb.org/t/p/w500/xFSIygDiX70Esp9dheCgGX0Nj77.jpg" group-title="BB_NOVI FILMOVI", Spellbound
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82395.mp4
+
+#EXTINF:-1 tvg-id="Sting" tvg-logo="https://image.tmdb.org/t/p/w500/uXUs1fwSuE06LgYETw2mi4JxQvc.jpg" group-title="BB_NOVI FILMOVI", Sting
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80442.mp4
+
+#EXTINF:-1 tvg-id="Subservience" tvg-logo="https://image.tmdb.org/t/p/w500/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg" group-title="BB_NOVI FILMOVI", Subservience
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82002.mp4
+
+#EXTINF:-1 tvg-id="Superpower" tvg-logo="https://image.tmdb.org/t/p/w500/ghIbgg1QPVyyDQTnMpBVRRPFxdL.jpg" group-title="BB_NOVI FILMOVI", Superpower
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79643.mp4
+
+#EXTINF:-1 tvg-id="Survivre" tvg-logo="https://image.tmdb.org/t/p/w500/59nsfU5hMG3puDZIGzZzJ1yW8FN.jpg" group-title="BB_NOVI FILMOVI", Survivre
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83017.mp4
+
+#EXTINF:-1 tvg-id="Svemu dode kraj" tvg-logo="https://image.tmdb.org/t/p/w500/g7WxFQgYCHH4ZBzdgIkTeQd93E9.jpg" group-title="BB_NOVI FILMOVI", Svemu dode kraj
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82864.mp4
+
+#EXTINF:-1 tvg-id="Sveta Petka - Krst U Pustinji" tvg-logo="https://image.tmdb.org/t/p/w500/qk68X1rWbfpTkgyCHTkptnR1kHe.jpg" group-title="BB_NOVI FILMOVI", Sveta Petka - Krst U Pustinji
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82259.mp4
+
+#EXTINF:-1 tvg-id="Take Cover" tvg-logo="https://image.tmdb.org/t/p/w500/xNLiMNyFzKTL9PVIEulG55Hei8j.jpg" group-title="BB_NOVI FILMOVI", Take Cover
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82684.mp4
+
+#EXTINF:-1 tvg-id="Taken from Rio Bravo" tvg-logo="https://image.tmdb.org/t/p/w500/N53KtTONRYWAGKiUBciHJHsyVB.jpg" group-title="BB_NOVI FILMOVI", Taken from Rio Bravo
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82039.mp4
+
+#EXTINF:-1 tvg-id="Tarot" tvg-logo="https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg" group-title="BB_NOVI FILMOVI", Tarot
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80752.mp4
+
+#EXTINF:-1 tvg-id="That Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/sMgAQTUQ0P8YBzCELSEhwVGUAL8.jpg" group-title="BB_NOVI FILMOVI", That Christmas
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82744.mp4
+
+#EXTINF:-1 tvg-id="The Beast Within" tvg-logo="https://image.tmdb.org/t/p/w500/5RvNjlDufqUBH3iHBPb1cS53wXl.jpg" group-title="BB_NOVI FILMOVI", The Beast Within
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81348.mp4
+
+#EXTINF:-1 tvg-id="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w500/iNEO7remJCVQNOaJHXQ31SJRLeL.jpg" group-title="BB_NOVI FILMOVI", The Beekeeper
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78972.mp4
+
+#EXTINF:-1 tvg-id="The Bricklayer" tvg-logo="https://image.tmdb.org/t/p/w500/36pYugctLa70NmwMEgXTR1G31Kq.jpg" group-title="BB_NOVI FILMOVI", The Bricklayer
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78060.mp4
+
+#EXTINF:-1 tvg-id="The Casagrandes Movie" tvg-logo="https://image.tmdb.org/t/p/w500/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg" group-title="BB_NOVI FILMOVI", The Casagrandes Movie
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79985.mp4
+
+#EXTINF:-1 tvg-id="The Clean Up Crew" tvg-logo="https://image.tmdb.org/t/p/w500/oinz9e5xvcn0hDQZyWUGPJ0oVye.jpg" group-title="BB_NOVI FILMOVI", The Clean Up Crew
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82852.mp4
+
+#EXTINF:-1 tvg-id="The Collective" tvg-logo="http://repo.ottshow.net/slika/KppgPJKp38ZrktUzvFZk0xSx2g3iUH.png" group-title="BB_NOVI FILMOVI", The Collective
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79742.mp4
+
+#EXTINF:-1 tvg-id="The Convert" tvg-logo="https://image.tmdb.org/t/p/w500/e5ZqqPlhKstzB4geibpZh38w7Pq.jpg" group-title="BB_NOVI FILMOVI", The Convert
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81434.mp4
+
+#EXTINF:-1 tvg-id="The Crow" tvg-logo="https://image.tmdb.org/t/p/w500/yeMVrFb0sh6ooSxDqHCSlXJ6sAj.jpg" group-title="BB_NOVI FILMOVI", The Crow
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81622.mp4
+
+#EXTINF:-1 tvg-id="The Curse of the Necklace" tvg-logo="https://image.tmdb.org/t/p/w500/mk8dEpi3ePHyDbbkBuEbGtksjWX.jpg" group-title="BB_NOVI FILMOVI", The Curse of the Necklace
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82040.mp4
+
+#EXTINF:-1 tvg-id="The End We Start From" tvg-logo="https://image.tmdb.org/t/p/w500/S9U0axheNakD9LQusEpFijDgSe.jpg" group-title="BB_NOVI FILMOVI", The End We Start From
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79235.mp4
+
+#EXTINF:-1 tvg-id="The Exorcism" tvg-logo="https://image.tmdb.org/t/p/w500/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg" group-title="BB_NOVI FILMOVI", The Exorcism
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81028.mp4
+
+#EXTINF:-1 tvg-id="The Fall Guy" tvg-logo="https://image.tmdb.org/t/p/w500/rYB4bfG7VXsNGe7cE5NvzMc5pMi.jpg" group-title="BB_NOVI FILMOVI", The Fall Guy
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80592.mp4
+
+#EXTINF:-1 tvg-id="The First Omen" tvg-logo="https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg" group-title="BB_NOVI FILMOVI", The First Omen
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80666.mp4
+
+#EXTINF:-1 tvg-id="The Forge" tvg-logo="https://image.tmdb.org/t/p/w500/vXW1I7HGZkeGUqw8QpGFiDA31Ih.jpg" group-title="BB_NOVI FILMOVI", The Forge
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82041.mp4
+
+#EXTINF:-1 tvg-id="The Garfield Movie" tvg-logo="https://image.tmdb.org/t/p/w500/5loMBjFH6kfC2JlziDuRspNH9Sx.jpg" group-title="BB_NOVI FILMOVI", The Garfield Movie
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80989.mp4
+
+#EXTINF:-1 tvg-id="The Hangman" tvg-logo="https://image.tmdb.org/t/p/w500/fPQHphdpewjHXb0IsLdfSnM4fYU.jpg" group-title="BB_NOVI FILMOVI", The Hangman
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80925.mp4
+
+#EXTINF:-1 tvg-id="The Hunger Games: The Ballad of Songbirds & Snakes" tvg-logo="https://image.tmdb.org/t/p/w500/9N23cLjdLSaf8BME58MzXKE3kcM.jpg" group-title="BB_NOVI FILMOVI", The Hunger Games: The Ballad of Songbirds & Snakes
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78061.mp4
+
+#EXTINF:-1 tvg-id="The Idea of You" tvg-logo="https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" group-title="BB_NOVI FILMOVI", The Idea of You
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80365.mp4
+
+#EXTINF:-1 tvg-id="The Inheritance" tvg-logo="https://image.tmdb.org/t/p/w500/3qQok7BPKVcM0DA9Zu5OeMzzmk6.jpg" group-title="BB_NOVI FILMOVI", The Inheritance
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81160.mp4
+
+#EXTINF:-1 tvg-id="The Instigators" tvg-logo="https://image.tmdb.org/t/p/w500/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg" group-title="BB_NOVI FILMOVI", The Instigators
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81251.mp4
+
+#EXTINF:-1 tvg-id="The Jack in the Box: Rises" tvg-logo="https://image.tmdb.org/t/p/w500/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg" group-title="BB_NOVI FILMOVI", The Jack in the Box: Rises
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81543.mp4
+
+#EXTINF:-1 tvg-id="The Killer" tvg-logo="https://image.tmdb.org/t/p/w500/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="BB_NOVI FILMOVI", The Killer
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81252.mp4
+
+#EXTINF:-1 tvg-id="The Killer's Game" tvg-logo="https://image.tmdb.org/t/p/w500/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" group-title="BB_NOVI FILMOVI", The Killer's Game
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82160.mp4
+
+#EXTINF:-1 tvg-id="The Last Breath" tvg-logo="https://image.tmdb.org/t/p/w500/vWb8fEIsqKpO36Y7K5QH4DyV7zn.jpg" group-title="BB_NOVI FILMOVI", The Last Breath
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81544.mp4
+
+#EXTINF:-1 tvg-id="The Lockdown" tvg-logo="https://image.tmdb.org/t/p/w500/78ZjjWtG2AxHMo9buTJbzXsbTJq.jpg" group-title="BB_NOVI FILMOVI", The Lockdown
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81349.mp4
+
+#EXTINF:-1 tvg-id="The Marvels" tvg-logo="https://image.tmdb.org/t/p/w500/p7FHZ2N7JR1kmhquJhh5Qbs27aA.jpg" group-title="BB_NOVI FILMOVI", The Marvels
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78062.mp4
+
+#EXTINF:-1 tvg-id="The Menendez Brothers" tvg-logo="https://image.tmdb.org/t/p/w500/zQ32RXVzrNq93TgfKMP4Q3rkzDe.jpg" group-title="BB_NOVI FILMOVI", The Menendez Brothers
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82613.mp4
+
+#EXTINF:-1 tvg-id="The Ministry of Ungentlemanly Warfare" tvg-logo="https://image.tmdb.org/t/p/w500/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg" group-title="BB_NOVI FILMOVI", The Ministry of Ungentlemanly Warfare
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81665.mp4
+
+#EXTINF:-1 tvg-id="The Order" tvg-logo="https://image.tmdb.org/t/p/w500/1bJ2652AUnuK1WhlR0GLbJKVqMF.jpg" group-title="BB_NOVI FILMOVI", The Order
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82853.mp4
+
+#EXTINF:-1 tvg-id="The Painter" tvg-logo="https://image.tmdb.org/t/p/w500/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="BB_NOVI FILMOVI", The Painter
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79852.mp4
+
+#EXTINF:-1 tvg-id="The Present" tvg-logo="https://image.tmdb.org/t/p/w500/mRXPjCNFbXVXmaqHItMHDUPaxvK.jpg" group-title="BB_NOVI FILMOVI", The Present
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83018.mp4
+
+#EXTINF:-1 tvg-id="The Return" tvg-logo="https://image.tmdb.org/t/p/w500/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg" group-title="BB_NOVI FILMOVI", The Return
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82854.mp4
+
+#EXTINF:-1 tvg-id="The Rooster" tvg-logo="https://image.tmdb.org/t/p/w500/z7cvgWyZWuk9GbaErLEXvPfSBZ9.jpg" group-title="BB_NOVI FILMOVI", The Rooster
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81435.mp4
+
+#EXTINF:-1 tvg-id="The Shadow Strays" tvg-logo="https://image.tmdb.org/t/p/w500/cfkcrKySRyJiIdLo6c6kNSyLFh7.jpg" group-title="BB_NOVI FILMOVI", The Shadow Strays
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82161.mp4
+
+#EXTINF:-1 tvg-id="The Shift" tvg-logo="https://image.tmdb.org/t/p/w500/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="BB_NOVI FILMOVI", The Shift
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79470.mp4
+
+#EXTINF:-1 tvg-id="The Six Triple Eight" tvg-logo="https://image.tmdb.org/t/p/w500/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg" group-title="BB_NOVI FILMOVI", The Six Triple Eight
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82855.mp4
+
+#EXTINF:-1 tvg-id="The Strangers: Chapter 1" tvg-logo="https://image.tmdb.org/t/p/w500/5IHyrIEgISUvu4PJIVlANNUgtCY.jpg" group-title="BB_NOVI FILMOVI", The Strangers: Chapter 1
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81419.mp4
+
+#EXTINF:-1 tvg-id="The Substance" tvg-logo="https://image.tmdb.org/t/p/w500/ihFij7zgy5fpcItpTxTF9AT3OWc.jpg" group-title="BB_NOVI FILMOVI", The Substance
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82162.mp4
+
+#EXTINF:-1 tvg-id="The Thundermans Return" tvg-logo="https://image.tmdb.org/t/p/w500/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg" group-title="BB_NOVI FILMOVI", The Thundermans Return
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79984.mp4
+
+#EXTINF:-1 tvg-id="The Union" tvg-logo="https://image.tmdb.org/t/p/w500/kWGVB2x76Bo5GWCR31W41Pmz3PH.jpg" group-title="BB_NOVI FILMOVI", The Union
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81239.mp4
+
+#EXTINF:-1 tvg-id="The Vampire Next Door" tvg-logo="https://image.tmdb.org/t/p/w500/nBrzD4DOsj1lbXvjODGAbA8ddm8.jpg" group-title="BB_NOVI FILMOVI", The Vampire Next Door
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/79472.mp4
+
+#EXTINF:-1 tvg-id="The Wages of Fear" tvg-logo="http://repo.ottshow.net/slika/RFlPlHiXYaPYwf2v7iTMrcwELJZU5b.png" group-title="BB_NOVI FILMOVI", The Wages of Fear
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81568.mp4
+
+#EXTINF:-1 tvg-id="The Watchers" tvg-logo="https://image.tmdb.org/t/p/w500/AjJNA0sMYR9TqwdcWJFej3l2Van.jpg" group-title="BB_NOVI FILMOVI", The Watchers
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80912.mp4
+
+#EXTINF:-1 tvg-id="The Well" tvg-logo="https://image.tmdb.org/t/p/w500/6Lo9s1L7b3eR6scU778Zl415Ewh.jpg" group-title="BB_NOVI FILMOVI", The Well
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82792.mp4
+
+#EXTINF:-1 tvg-id="The Wild Robot" tvg-logo="https://image.tmdb.org/t/p/w500/ugVGFGp0ZsBnTufhIWrs1jCXgeC.jpg" group-title="BB_NOVI FILMOVI", The Wild Robot
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82869.mp4
+
+#EXTINF:-1 tvg-id="Thelma the Unicorn" tvg-logo="https://image.tmdb.org/t/p/w500/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="BB_NOVI FILMOVI", Thelma the Unicorn
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80388.mp4
+
+#EXTINF:-1 tvg-id="There's Something in the Barn" tvg-logo="https://image.tmdb.org/t/p/w500/8qSov4Y66aXtMSQoVh4iEi5wLnd.jpg" group-title="BB_NOVI FILMOVI", There's Something in the Barn
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80186.mp4
+
+#EXTINF:-1 tvg-id="Time Cut" tvg-logo="https://image.tmdb.org/t/p/w500/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg" group-title="BB_NOVI FILMOVI", Time Cut
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82266.mp4
+
+#EXTINF:-1 tvg-id="Trap" tvg-logo="https://image.tmdb.org/t/p/w500/jwoaKYVqPgYemFpaANL941EF94R.jpg" group-title="BB_NOVI FILMOVI", Trap
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81350.mp4
+
+#EXTINF:-1 tvg-id="Trigger Warning" tvg-logo="https://image.tmdb.org/t/p/w500/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg" group-title="BB_NOVI FILMOVI", Trigger Warning
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80833.mp4
+
+#EXTINF:-1 tvg-id="Trolls Band Together" tvg-logo="https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg" group-title="BB_NOVI FILMOVI", Trolls Band Together
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80098.mp4
+
+#EXTINF:-1 tvg-id="Twisters" tvg-logo="https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="BB_NOVI FILMOVI", Twisters
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81241.mp4
+
+#EXTINF:-1 tvg-id="Uglies" tvg-logo="https://image.tmdb.org/t/p/w500/og1SH6we0UQx5XNIDSfxDD4S1Sp.jpg" group-title="BB_NOVI FILMOVI", Uglies
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81545.mp4
+
+#EXTINF:-1 tvg-id="Ultraman: Rising" tvg-logo="https://image.tmdb.org/t/p/w500/j886YEkIUsiImY53px5VHKD4lRa.jpg" group-title="BB_NOVI FILMOVI", Ultraman: Rising
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80817.mp4
+
+#EXTINF:-1 tvg-id="Under Paris" tvg-logo="https://image.tmdb.org/t/p/w500/3GuTGq5IhoGqfZIFY7opswRI6Fe.jpg" group-title="BB_NOVI FILMOVI", Under Paris
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80837.mp4
+
+#EXTINF:-1 tvg-id="Unfrosted" tvg-logo="https://image.tmdb.org/t/p/w500/efvnagceBlmNG10BKnSOEqI6VtP.jpg" group-title="BB_NOVI FILMOVI", Unfrosted
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80362.mp4
+
+#EXTINF:-1 tvg-id="Venom: The Last Dance" tvg-logo="https://image.tmdb.org/t/p/w500/qI196RDwsPXRbjpvxkBjjEGtKr5.jpg" group-title="BB_NOVI FILMOVI", Venom: The Last Dance
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82624.mp4
+
+#EXTINF:-1 tvg-id="Videoteka" tvg-logo="https://image.tmdb.org/t/p/w500/1jUU9Qzo8BWo2oWeaD0zUDzrJlE.jpg" group-title="BB_NOVI FILMOVI", Videoteka
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82867.mp4
+
+#EXTINF:-1 tvg-id="Wallace & Gromit: Vengeance Most Fowl" tvg-logo="https://image.tmdb.org/t/p/w500/zgQdbQV8kJfbPMhe62r1SpnkAkA.jpg" group-title="BB_NOVI FILMOVI", Wallace & Gromit: Vengeance Most Fowl
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82857.mp4
+
+#EXTINF:-1 tvg-id="Wanted Man" tvg-logo="https://image.tmdb.org/t/p/w500/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="BB_NOVI FILMOVI", Wanted Man
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78740.mp4
+
+#EXTINF:-1 tvg-id="Weekend in Taipei" tvg-logo="https://image.tmdb.org/t/p/w500/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg" group-title="BB_NOVI FILMOVI", Weekend in Taipei
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82858.mp4
+
+#EXTINF:-1 tvg-id="Werewolves" tvg-logo="https://image.tmdb.org/t/p/w500/qVyasYa8j8AINOqgex7z06tSUry.jpg" group-title="BB_NOVI FILMOVI", Werewolves
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82859.mp4
+
+#EXTINF:-1 tvg-id="Wicked" tvg-logo="https://image.tmdb.org/t/p/w500/kdcI296k6cZ2KArifNaigI4Orwv.jpg" group-title="BB_NOVI FILMOVI", Wicked
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82860.mp4
+
+#EXTINF:-1 tvg-id="Winnie-the-Pooh: Blood and Honey 2" tvg-logo="https://image.tmdb.org/t/p/w500/zXOmpQdomixbJIilaSFYkMvYhTx.jpg" group-title="BB_NOVI FILMOVI", Winnie-the-Pooh: Blood and Honey 2
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80921.mp4
+
+#EXTINF:-1 tvg-id="Wonka" tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg" group-title="BB_NOVI FILMOVI", Wonka
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/78632.mp4
+
+#EXTINF:-1 tvg-id="Woody Woodpecker Goes to Camp" tvg-logo="https://image.tmdb.org/t/p/w500/uJsgT0jBw5q2g82dzZcLgYrROTs.jpg" group-title="BB_NOVI FILMOVI", Woody Woodpecker Goes to Camp
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/80187.mp4
+
+#EXTINF:-1 tvg-id="Young Woman and the Sea" tvg-logo="https://image.tmdb.org/t/p/w500/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg" group-title="BB_NOVI FILMOVI", Young Woman and the Sea
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81027.mp4
+
+#EXTINF:-1 tvg-id="Za danas toliko" tvg-logo="https://image.tmdb.org/t/p/w500/lwMviSok7mbx3msNbNPKqMuDEnm.jpg" group-title="BB_NOVI FILMOVI", Za danas toliko
+http://cdn.gradina2.info:80/movie/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82863.mp4
+
+
 
 
 
