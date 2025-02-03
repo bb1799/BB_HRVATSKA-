@@ -1,4 +1,5 @@
- #EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
+
+#EXTM3U  x-tvg-url = "http://epg.serbianforum.org/losmij/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ HRVATSKA ✦●✦" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png" group-title="HRVATSKA" ,✦●✦ HRVATSKA ✦●✦
 http://client.nodomain.vip:80/live.ts?channelId=1114&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
@@ -15837,6 +15838,7 @@ http://vodnew.nodomain.vip:80/vod?movieId=4026&uid=23784&deviceUser=27zdenkoveic
 
 
 
+
 #EXTINF:-1 tvg-id="Sjene prošlosti  S01 E01" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E01
 http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/81316.mp4
 
@@ -16109,6 +16111,27 @@ http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/8297
 
 #EXTINF:-1 tvg-id="Sjene prošlosti  S01 E91" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E91
 http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/82974.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S01 E92" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E92
+http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83215.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S01 E93" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E93
+http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83216.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S01 E94" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E94
+http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83217.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S01 E95" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E95
+http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83218.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S01 E96" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E96
+http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83219.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S01 E97" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E97
+http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83220.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S01 E98" tvg-logo="http://repo.ottshow.net/slika/91SoIN7fQYJzPMx9W2JvGpsAKpf4vd.png" group-title="BB_SJENE_PROŠLOSTI", Sjene prošlosti  S01 E98
+http://cdn.gradina2.info:80/series/samoVodNoviPanel2024OttShow/LiQIUN0BqyzK/83221.mp4
 
 
 
