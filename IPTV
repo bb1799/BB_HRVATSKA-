@@ -3,23 +3,23 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ HRVATSKA ✦●✦" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png" group-title="HRVATSKA" ,✦●✦ HRVATSKA ✦●✦
 http://client.nodomain.vip:80/live.ts?channelId=1114&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="2" tvg-name="HTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HRT1-logo.png/250px-HRT1-logo.png" group-title="HRVATSKA" ,HTV 1
+#EXTINF:-1 tvg-id="2" tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HRT1-logo.png/250px-HRT1-logo.png" group-title="HRVATSKA" ,HRT 1
 http://client.nodomain.vip:80/live.ts?channelId=2&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="2" tvg-name="HTV 1 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt1_hd.png" group-title="HRVATSKA" ,HTV 1 HD
+#EXTINF:-1 tvg-id="2" tvg-name="HRT 1 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt1_hd.png" group-title="HRVATSKA" ,HRT 1 HD
 http://client.nodomain.vip:80/live.ts?channelId=1489&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="3" tvg-name="HTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Htv2-logo.png/150px-Htv2-logo.png" group-title="HRVATSKA" ,HTV 2
+#EXTINF:-1 tvg-id="3" tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Htv2-logo.png/150px-Htv2-logo.png" group-title="HRVATSKA" ,HRT 2
 http://client.nodomain.vip:80/live.ts?channelId=3&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="3" tvg-name="HTV 2 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt2_hd.png" group-title="HRVATSKA" ,HTV 2 HD
+#EXTINF:-1 tvg-id="3" tvg-name="HRT 2 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt2_hd.png" group-title="HRVATSKA" ,HRT 2 HD
 http://client.nodomain.vip:80/live.ts?channelId=1463&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="htv3" tvg-name="HTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HRT3_Logo_aktuell.png/150px-HRT3_Logo_aktuell.png" group-title="HRVATSKA" ,HTV 3
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HRT3_Logo_aktuell.png/150px-HRT3_Logo_aktuell.png" group-title="HRVATSKA" ,HRT 3
 http://client.nodomain.vip:80/live.ts?channelId=188&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="188" tvg-name="HTV 3 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt3_hd.png" group-title="HRVATSKA" ,HTV 3 HD
+#EXTINF:-1 tvg-id="188" tvg-name="HRT 3 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt3_hd.png" group-title="HRVATSKA" ,HRT 3 HD
 http://client.nodomain.vip:80/live.ts?channelId=1490&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="277" tvg-name="HTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HRT4-logo.png/150px-HRT4-logo.png" group-title="HRVATSKA" ,HTV 4
+#EXTINF:-1 tvg-id="277" tvg-name="HRT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HRT4-logo.png/150px-HRT4-logo.png" group-title="HRVATSKA" ,HRT 4
 http://client.nodomain.vip:80/live.ts?channelId=277&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="277" tvg-name="HTV 4 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt4_hd.png" group-title="HRVATSKA" ,HTV 4 HD
+#EXTINF:-1 tvg-id="277" tvg-name="HTV 4 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt4_hd.png" group-title="HRVATSKA" ,HRT 4 HD
 http://client.nodomain.vip:80/live.ts?channelId=1491&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
-#EXTINF:-1 tvg-id="606" tvg-name="HTV INT." tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c5/HRTint.jpg" group-title="HRVATSKA" ,HTV INT.
+#EXTINF:-1 tvg-id="606" tvg-name="HRT INT." tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c5/HRTint.jpg" group-title="HRVATSKA" ,HRT INT.
 http://client.nodomain.vip:80/live.ts?channelId=606&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
 #EXTINF:-1 tvg-id="5" tvg-name="NOVA TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA" ,NOVA TV
 http://client.nodomain.vip:80/live.ts?channelId=5&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
