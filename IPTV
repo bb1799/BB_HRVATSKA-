@@ -480,47 +480,49 @@ http://client.nodomain.vip:80/live.ts?channelId=1740&uid=23784&deviceUser=27zden
 http://client.nodomain.vip:80/live.ts?channelId=1741&uid=23784&deviceUser=27zdenkoveic1ab1&devicePass=27zv56g86b3
 
 
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 1 HR
-http://bntvs.com:2052/slobodanmomic/354455825/8627
 
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 2 HR
-http://bntvs.com:2052/slobodanmomic/354455825/8628
+#EXTINF:-1 tvg-id="Sport Klub 1 HD" tvg-logo="https://i.imgur.com/dSnp9rA.png" group-title="BB_SPORT KLUB", Sport Klub 1 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/18.ts
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="BB_Sport Klub", Sport Klub 3 HR
-http://bntvs.com:2052/slobodanmomic/354455825/8629
+#EXTINF:-1 tvg-id="Sport Klub 1 HD (HR)" tvg-logo="https://i.imgur.com/9YoqHZl.png" group-title="BB_SPORT KLUB", Sport Klub 1 HD (HR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1242.ts
 
-#EXTINF:-1 tvg-id="sport-klub" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 1 SR
-http://bntvs.com:2052/slobodanmomic/354455825/8630
+#EXTINF:-1 tvg-id="Sport Klub 10" tvg-logo="https://i.imgur.com/D2eplGc.png" group-title="BB_SPORT KLUB", Sport Klub 10
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/27.ts
 
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 2 SR
-http://bntvs.com:2052/slobodanmomic/354455825/8631
+#EXTINF:-1 tvg-id="Sport Klub 2 HD" tvg-logo="https://i.imgur.com/aBpIKO5.png" group-title="BB_SPORT KLUB", Sport Klub 2 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/19.ts
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="BB_Sport Klub", Sport Klub 3 SR
-http://bntvs.com:2052/slobodanmomic/354455825/8632
+#EXTINF:-1 tvg-id="Sport Klub 2 HD (HR)" tvg-logo="https://i.imgur.com/XU2Eod3.png" group-title="BB_SPORT KLUB", Sport Klub 2 HD (HR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1243.ts
 
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK4_HR_logo.png" group-title="BB_Sport Klub", Sport Klub 4
-http://bntvs.com:2052/slobodanmomic/354455825/8633
+#EXTINF:-1 tvg-id="Sport Klub 3 HD" tvg-logo="https://i.imgur.com/x4rhbVx.png" group-title="BB_SPORT KLUB", Sport Klub 3 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/20.ts
 
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK5_HR_logo.png" group-title="BB_Sport Klub", Sport Klub 5
-http://bntvs.com:2052/slobodanmomic/354455825/8634
+#EXTINF:-1 tvg-id="Sport Klub 3 HD (HR)" tvg-logo="https://i.imgur.com/ck0yQ4f.png" group-title="BB_SPORT KLUB", Sport Klub 3 HD (HR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1244.ts
 
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK6_HR_logo.png" group-title="BB_Sport Klub", Sport Klub 6
-http://bntvs.com:2052/slobodanmomic/354455825/8635
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-logo="https://i.imgur.com/s2Wxian.png" group-title="BB_SPORT KLUB", Sport Klub 4
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/21.ts
 
-#EXTINF:-1 tvg-id="sport-klub-7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK7_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 7
-http://bntvs.com:2052/slobodanmomic/354455825/8636
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-logo="https://i.imgur.com/vTVJvyZ.png" group-title="BB_SPORT KLUB", Sport Klub 5
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/22.ts
 
-#EXTINF:-1 tvg-id="sport-klub-8" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK8_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 8
-http://bntvs.com:2052/slobodanmomic/354455825/8637
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="https://i.imgur.com/EOOHu9w.png" group-title="BB_SPORT KLUB", Sport Klub 6
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/23.ts
 
-#EXTINF:-1 tvg-id="sport-klub-9" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK9_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 9
-http://bntvs.com:2052/slobodanmomic/354455825/8638
+#EXTINF:-1 tvg-id="Sport Klub 7" tvg-logo="https://i.imgur.com/oqT6tk9.png" group-title="BB_SPORT KLUB", Sport Klub 7
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/24.ts
 
-#EXTINF:-1 tvg-id="sport-klub-10" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK10_RS_logo.png" group-title="BB_Sport Klub", Sport Klub 10
-http://bntvs.com:2052/slobodanmomic/354455825/8639
+#EXTINF:-1 tvg-id="Sport Klub 8" tvg-logo="https://i.imgur.com/V1XKkaQ.png" group-title="BB_SPORT KLUB", Sport Klub 8
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/25.ts
 
-#EXTINF:-1 tvg-id="Sport Klub Start" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sport%20klub%20start.jpg" group-title="BB_Sport Klub", Sport Klub Start
-http://bntvs.com:2052/slobodanmomic/354455825/8640
+#EXTINF:-1 tvg-id="Sport Klub 9" tvg-logo="https://i.imgur.com/ATaOCof.png" group-title="BB_SPORT KLUB", Sport Klub 9
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/26.ts
+
+#EXTINF:-1 tvg-id="Sport Klub HD" tvg-logo="https://i.imgur.com/sSXMc5X.png" group-title="BB_SPORT KLUB", Sport Klub HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/17.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ DOKU & ZABAVA ✦●✦" tvg-logo="" group-title="DOKU & ZABAVA" ,✦●✦ DOKU & ZABAVA ✦●✦
