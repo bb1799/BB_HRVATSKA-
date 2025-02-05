@@ -1,1594 +1,1217 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HRVATSKA", =======  HRVATSKA  =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoB2XhsBgbxlVzKe3u2Q-2k/ts
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska", HRT  1 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30473
 
-#EXTINF:-1 tvg-id="hrt1.hr" tvg-logo="noimage.png" group-title="HRVATSKA", HRT 1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunkczF7sGjE82UU859QBruA/ts
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="Hrvatska", HRT  2 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30474
 
-#EXTINF:-1 tvg-id="hrt1.hr" tvg-logo="noimage.png" group-title="HRVATSKA", HRT 1 HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhK-XRiKg9ocnHVocdtanzY/ts
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3hd.gif" group-title="Hrvatska", HRT 3 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30475
 
-#EXTINF:-1 tvg-id="hrt2.hr" tvg-logo="noimage.png" group-title="HRVATSKA", HRT 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwus369jXuqyByDTOKYx0hh3I/ts
+#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/78320
 
-#EXTINF:-1 tvg-id="HRT 2 HD" tvg-logo="noimage.png" group-title="HRVATSKA", HRT 2 HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuKOPCuwJkj0_WMi-2a6O8g/ts
+#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatskahd.gif" group-title="Hrvatska", RTL HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30476
 
-#EXTINF:-1 tvg-id="hrt3.hr" tvg-logo="noimage.png" group-title="HRVATSKA", HRT 3
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwupii5mLGnlA6d4hculpa5dQ/ts
+#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45
 
-#EXTINF:-1 tvg-id="hrt3.hr" tvg-logo="noimage.png" group-title="HRVATSKA", HRT 3 HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo4vU-7n2VGeU_oeiwvUErw/ts
+#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/112
 
-#EXTINF:-1 tvg-id="HRT4CR" tvg-logo="noimage.png" group-title="HRVATSKA", HRT 4
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj2utWLLEZOY2N_Dbxrsmc8/ts
+#EXTINF:-1 tvg-id="n1-hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/n1hr.gif" group-title="Hrvatska", N1 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3774
 
-#EXTINF:-1 tvg-id="HRT5CR" tvg-logo="noimage.png" group-title="HRVATSKA", HRT int.
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukbeF9SwogNOMgsa7f0tzXU/ts
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1.gif" group-title="Hrvatska", HRT 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/40
 
-#EXTINF:-1 tvg-id="novatv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Nova TV
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutOtWRmiHaXu7sgVLYA0U9o/ts
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2.gif" group-title="Hrvatska", HRT 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/41
 
-#EXTINF:-1 tvg-id="novatv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Nova TV L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupuEEAkhdAD8ncPQe9w1cbQ/ts
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3.gif" group-title="Hrvatska", HRT 3
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/353
 
-#EXTINF:-1 tvg-id="domatv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Doma TV
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukU8SCAvyGHY0ApxcTbNcfw/ts
+#EXTINF:-1 tvg-id="htv4" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt4.gif" group-title="Hrvatska", HRT 4
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/354
 
-#EXTINF:-1 tvg-id="domatv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Doma TV HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuKbNURjWu-vBTIdBH3wxnI/ts
+#EXTINF:-1 tvg-id="htv5" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt5.gif" group-title="Hrvatska", HRT int.
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9049
 
-#EXTINF:-1 tvg-id="RTL Adria HD_max" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Adria
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiKGw-esdMcc5ShLz_syrKw/ts
+#EXTINF:-1 tvg-id="HRT Doku" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/hrtdoku.gif" group-title="Hrvatska", HRT Doku
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/73694
 
-#EXTINF:-1 tvg-id="rtl.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukjuOczNly92rF9rj7np4YY/ts
+#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/22
 
-#EXTINF:-1 tvg-id="RTL HR HD" tvg-logo="noimage.png" group-title="HRVATSKA", RTL L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqpq25wXK1J47ADZqKGZ1X0/ts
+#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68556
 
-#EXTINF:-1 tvg-id="RTL2" tvg-logo="http://mysolutionsbn.xyz:12974/images/7881816a9354690942240f6dbe3a9acb.png" group-title="HRVATSKA", RTL 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurlPRJWGdC8VjydE5Odcybc/ts
+#EXTINF:-1 tvg-id="nova-world" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novaworld.gif" group-title="Hrvatska", Nova World
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45126
 
-#EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="HRVATSKA", RTL 2 L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoRyXbWeA7JS0XgVMsmZrcY/ts
+#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/novafamily.gif" group-title="Hrvatska", Nova Family
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39435
 
-#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Crime (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuSEMne3ANwmWtPxWGRGQJs/ts
+#EXTINF:-1 tvg-id="Nova Series" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/novaseries.gif" group-title="Hrvatska", Nova Series
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72613
 
-#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Passion (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiTx-uLne_uPlSsQbnN1Xmc/ts
+#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/novacinema.gif" group-title="Hrvatska", Nova Cinema
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39476
 
-#EXTINF:-1 tvg-id="rtlliving.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Living (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun-vJc20seVzI-JVeVJMkd4/ts
+#EXTINF:-1 tvg-id="Nova Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novacinema2.gif" group-title="Hrvatska", Nova Cinema 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45121
 
-#EXTINF:-1 tvg-id="N1 HD (HR)" tvg-logo="noimage.png" group-title="HRVATSKA", N1 Televizija (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutD4RIfA-0RhmhsOp0usvvg/ts
+#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatska.gif" group-title="Hrvatska", RTL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/23
 
-#EXTINF:-1 tvg-id="z1.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Z1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulFcaEkHwER8DOwmr07e6XU/ts
+#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68558
 
-#EXTINF:-1 tvg-id="jabukatv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", OTV
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulZcZx8FVPOZwYKHMOQAimo/ts
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlworld.gif" group-title="Hrvatska", RTL World
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45127
 
-#EXTINF:-1 tvg-id="PLAVA Vinkovačka _max" tvg-logo="noimage.png" group-title="HRVATSKA", Plava vinkovacka TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukxjYBeR1koMtioGEWJxglY/ts
+#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlpassion.gif" group-title="Hrvatska", RTL Passion
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1198
 
-#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", OSJECKA TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurE1BOnOEybjC7C41wIaWiM/ts
+#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlkrime.gif" group-title="Hrvatska", RTL Crime
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1199
 
-#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", TV Slavonije i Baranje - Slavkonska TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulsOmdID_PR0FaglsHsZWjs/ts
+#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlliving.gif" group-title="Hrvatska", RTL Living
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2502
 
-#EXTINF:-1 tvg-id="dutv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Dubrovacka Televizija - DUTV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwut3PsQgVUlyNztDZXDhEeYM/ts
+#EXTINF:-1 tvg-id="rtl-adria" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtladria.gif" group-title="Hrvatska", RTL Adria
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/26431
 
-#EXTINF:-1 tvg-id="kanalri.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Kanal Rijeka (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwujjtn9_qzkHox0SR8DFtHzU/ts
+#EXTINF:-1 tvg-id="RTL+" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlplus.gif" group-title="Hrvatska", RTL+
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45113
 
-#EXTINF:-1 tvg-id="Zdrava TV_max" tvg-logo="noimage.png" group-title="HRVATSKA", Zdrava televizija (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuullGkBTxX4jife8MHiYVwY/ts
+#EXTINF:-1 tvg-id="RTL Play" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/RTL%20Pley.gif" group-title="Hrvatska", RTL Play
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45120
 
-#EXTINF:-1 tvg-id="laudatotv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Laudato TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoQ9Ov3anCVqGpNNHbeVJ44/ts
+#EXTINF:-1 tvg-id="z1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/z1.gif" group-title="Hrvatska", Z1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1550
 
-#EXTINF:-1 tvg-id="Libertas TV_max" tvg-logo="noimage.png" group-title="HRVATSKA", Libertas TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoH5y-s21nFnI7kGNcoaHEo/ts
+#EXTINF:-1 tvg-id="Laudato" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/laudatotv.gif" group-title="Hrvatska", Laudato
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24581
 
-#EXTINF:-1 tvg-id="24kitchen.si" tvg-logo="noimage.png" group-title="HRVATSKA", TV Istra (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutENxauhJw97cHVxyYvKEHY/ts
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vinkovacka.gif" group-title="Hrvatska", Vinkovacka
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/551
 
-#EXTINF:-1 tvg-id="TV Jadran_max" tvg-logo="noimage.png" group-title="HRVATSKA", TV Jadran (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum5oOsZcCWH83SoJbKkzA4M/ts
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/slavonskatv.gif" group-title="Hrvatska", Slavonska
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1176
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="HRVATSKA", RTV Banovina (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwui-lRCuYA1UXX9h5E4MLO3Y/ts
+#EXTINF:-1 tvg-id="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="Hrvatska", OTV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4537
 
-#EXTINF:-1 tvg-id="posavinatv.ba" tvg-logo="noimage.png" group-title="HRVATSKA", POSAVINA TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurAynBhQPTtijSvTGlJ0Q9w/ts
+#EXTINF:-1 tvg-id="cakovec" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/srcetv.gif" group-title="Hrvatska", Zdrava Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4632
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="HRVATSKA", Poljoprivredna TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusFh9RJDfcdlo1UTo1hsv34/ts
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vtvvarazdintv.gif" group-title="Hrvatska", VTV Varaždin
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5015
 
-#EXTINF:-1 tvg-id="Trend TV_max" tvg-logo="noimage.png" group-title="HRVATSKA", Trend TV Karlovac (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupMw5c9iI_uPeS4PzcMoWwE/ts
+#EXTINF:-1 tvg-id="rtv-hb" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hercegbosnatv.gif" group-title="Hrvatska", Herceg Bosna
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5017
 
-#EXTINF:-1 tvg-id="VTV_max" tvg-logo="noimage.png" group-title="HRVATSKA", Varazdinska Televizija - VTV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk333eMUgf9IxbzwSxEx4hE/ts
+#EXTINF:-1 tvg-id="tv-jadran" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jadrantv.gif" group-title="Hrvatska", Jadran tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5018
 
-#EXTINF:-1 tvg-id="mrezazg.hr" tvg-logo="noimage.png" group-title="HRVATSKA", Mreza TV Zagreb (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun5w_vHc7UfpNwrWNr36NsY/ts
+#EXTINF:-1 tvg-id="tv-dalmacija" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/televizija-dalmacija.gif" group-title="Hrvatska", Televizija Dalmacija
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69879
 
-#EXTINF:-1 tvg-id="TV Zapad_max" tvg-logo="noimage.png" group-title="HRVATSKA", TV Zapad
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunIwGugknbVH6AkXC9eWr4U/ts
+#EXTINF:-1 tvg-id="sbtv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/sbtv.gif" group-title="Hrvatska", SBTV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9125
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT EX-YU", =======  SPORT EX-YU =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuililJ9Q00tkbzdmKZkMpY4/ts
+#EXTINF:-1 tvg-id="libertas-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/libertastv.gif" group-title="Hrvatska", Libertas
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24582
 
-#EXTINF:-1 tvg-id="GP1_max" tvg-logo="noimage.png" group-title="SPORT EX-YU", GP1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuodllEyFG5VYmMmZkUTQJOw/ts
+#EXTINF:-1 tvg-id="Osjecka" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/osijeckatv.gif" group-title="Hrvatska", Osjecka
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1207
 
-#EXTINF:-1 tvg-id="MAXSport 1_max" tvg-logo="noimage.png" group-title="SPORT EX-YU", MAXsport (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoGPdD1rStqQAB_senhveCY/ts
+#EXTINF:-1 tvg-id="Marry TV Medugorje" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/marrytvmedugorije.gif" group-title="Hrvatska", Marry TV Medugorje
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29258
 
-#EXTINF:-1 tvg-id="MAXSport 2_max" tvg-logo="noimage.png" group-title="SPORT EX-YU", MAXsport 2 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuscw9WmqUlcqRHiGZXX35wo/ts
+#EXTINF:-1 tvg-id="kanal-ri" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/kanal-ir.gif" group-title="Hrvatska", kanalR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66467
 
-#EXTINF:-1 tvg-id="HTV1" tvg-logo="noimage.png" group-title="SPORT EX-YU", Nova Sport HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuihVLcGwHQ7njLM9ucpsTnI/ts
+#EXTINF:-1 tvg-id="Mreža tv Zagreb" tvg-logo="http://web.izipizi1.info/pi/mreza-zg-tv.png" group-title="Hrvatska", Mreža tv Zagreb
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39477
 
-#EXTINF:-1 tvg-id="Moja TV" tvg-logo="noimage.png" group-title="SPORT EX-YU", MOJA Sport TV (BiH) BH Premier liga
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwunjy4XaBtB5pvL50FyNgZzE/ts
+#EXTINF:-1 tvg-id="CroTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/crotv.gif" group-title="Hrvatska", CroTV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67281
 
-#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 1x2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj6HHZunsQ4xGaELBLEbUWs/ts
+#EXTINF:-1 tvg-id="Trend Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/trend-tv.gif" group-title="Hrvatska", Trend Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69886
 
-#EXTINF:-1 tvg-id="Arena Sport 1 (BiH)" tvg-logo="http://mysolutionsbn.xyz:12974/images/Iflj5EoYVeI7fY65v1kwFT-7F6htIbr207k3gon1Fz3aO8JF2zlSZSy6R6tufTA0.png" group-title="SPORT EX-YU", Arena Sport 1 (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuok13MEI9wfvYmGDXyp8xJU/ts
+#EXTINF:-1 tvg-id="Tv Zapad" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/tvz.gif" group-title="Hrvatska", Tv Zapad
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69895
 
-#EXTINF:-1 tvg-id="A Sport Premium 1 (BiH)" tvg-logo="noimage.png" group-title="SPORT EX-YU", A Sport Premium 1 (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulfZlO0n3oe6lJ-Zs5mZzgE/ts
+#EXTINF:-1 tvg-id="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="Hrvatska", Prigorska Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69903
 
-#EXTINF:-1 tvg-id="arena-premium-1" tvg-logo="noimage.png" group-title="SPORT EX-YU", A Sport Premium 1 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuslHVOFKAnY3ByCt7-nh8oE/ts
+#EXTINF:-1 tvg-id="Tv Sibenik" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/tv-sibenik.gif" group-title="Hrvatska", Tv Sibenik
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71763
 
-#EXTINF:-1 tvg-id="arena-premium-1" tvg-logo="noimage.png" group-title="SPORT EX-YU", A Sport Premium 1 (RS) L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuusjyrfIqSl2G_dz5CS5UaQ/ts
+#EXTINF:-1 tvg-id="aurora-tv" tvg-logo="noimage.png" group-title="Hrvatska", Aurora TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/78934
 
-#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", A Sport Premium 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugvcjrrRde4rBk7z_CLXRK0/ts
+#EXTINF:-1 tvg-id="Nova Cinema 4K" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/hrvatska/novacinema4k.gif" group-title="Hrvatska", Nova Cinema 4K
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69176
 
-#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", A Sport Premium 2 (RS) L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuu5VKtVLnW_7yjs2E_3mJ0I/ts
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif" group-title="Sport", Eurosport 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66
 
-#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", A Sport Premium 3 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoDc-kh-NVgWtros4dwzKcw/ts
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif" group-title="Sport", Eurosport 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67
 
-#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", A Sport Premium 3 (RS) L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup47_TCGPP4eFf2TkENLnTQ/ts
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif" group-title="Sport", Sport Klub
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/34330
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 1 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqVHxer__op_9bP_GNjFYc4/ts
+#EXTINF:-1 tvg-id="sport-klub" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif" group-title="Sport", Sport Klub 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39321
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 2 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuq1hTHEZFNMSEAVAe-2ZrSA/ts
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif" group-title="Sport", Sport Klub 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 3 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumHzF0RxdwdBmesidryhnZU/ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif" group-title="Sport", Sport Klub 3
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/64
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 4 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh3kei6sRItpqCxpv7RGv9A/ts
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdhr.gif" group-title="Sport", Sport Klub 1 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39318
 
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 5 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqRNtzGivZ0HteeJ4HpZYeg/ts
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdhr.gif" group-title="Sport", Sport Klub 2 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/33
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 6 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugTJrsbzFbOp30kLXRsGBOE/ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hdhr.gif" group-title="Sport", Sport Klub 3 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/34
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 7 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunyfivndSdsCghf5idGDI8c/ts
+#EXTINF:-1 tvg-id="sport-klub-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdslo.gif" group-title="Sport", Sport Klub 1 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29776
 
-#EXTINF:-1 tvg-id="Arena Sport 8 HD" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 8 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusDfni4LxMKEDQpE55JVDu0/ts
+#EXTINF:-1 tvg-id="sport-klub-plus-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdslo.gif" group-title="Sport", Sport Klub 2 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29777
 
-#EXTINF:-1 tvg-id="arenasport9.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena sport 9 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhjIjDql4YhN1vXueEf9PGY/ts
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3slohd.gif" group-title="Sport", Sport Klub 3 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29779
 
-#EXTINF:-1 tvg-id="arenasport10.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena sport 10 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuLliEy87yqpwsbd2-_GtzI/ts
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif" group-title="Sport", Sport Klub 4
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/205
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 1 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiKEM6ePVAxl0bX1y_z4IA8/ts
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif" group-title="Sport", Sport Klub 5
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1202
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukhZXCZgtmG18uxrp0m5_u4/ts
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif" group-title="Sport", Sport Klub 6
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1626
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 3 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqdTrvL5jLmTaQOI0JqwCgk/ts
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif" group-title="Sport", Sport Klub 7
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69870
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 4 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuhGoc3U_IA0cS8HnrSKdVI/ts
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif" group-title="Sport", Sport Klub 8
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69871
 
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 5 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupSrbx0jK3OxHB26O189tjo/ts
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif" group-title="Sport", Sport Klub 9
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69872
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 1 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusnLHxXXqsJv6bKxDhCsrUg/ts
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif" group-title="Sport", Sport Klub 10
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69873
 
-#EXTINF:-1 tvg-id="ArenaSport2hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 2 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumIvdErx5YWfSO1SzLdYaLU/ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 BiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67283
 
-#EXTINF:-1 tvg-id="4565" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 3 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuprRDpmhovpXff9cix-zDS0/ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 BiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67284
 
-#EXTINF:-1 tvg-id="4566" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 4 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupXJ4rZVTVZIASuvwIunNsU/ts
+#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 BiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67285
 
-#EXTINF:-1 tvg-id="4567" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 5 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutH4sx_BVlT4YnFjdMWS_y4/ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39440
 
-#EXTINF:-1 tvg-id="4568" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 6 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutFX-YrHElqFtwSeRuTELUk/ts
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39441
 
-#EXTINF:-1 tvg-id="arenasport7.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 7 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvIwo9RNNpraiyv6Vl1fzFk/ts
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39439
 
-#EXTINF:-1 tvg-id="arenasport8.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 8 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumTxp-qXjwMqX0w4BHBWK2s/ts
+#EXTINF:-1 tvg-id="arena-sport-1-premium-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62594
 
-#EXTINF:-1 tvg-id="arenasport9.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 9 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuv65VylkJvueVUAzTOdDENM/ts
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="Sport", Arena Sport 1 BiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/128
 
-#EXTINF:-1 tvg-id="arenasport10.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Sport 10 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj2m_uvN1ff5Psai9lfEwH4/ts
+#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="Sport", Arena Sport 2 BiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29
 
-#EXTINF:-1 tvg-id="arenafight.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena Fight (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun2z4RCYFQpu5ksivGzT0Ao/ts
+#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="Sport", Arena Sport 3 BiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30
 
-#EXTINF:-1 tvg-id="arenaesport.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Arena ESport (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwulos58CL3P4GPkxSAvvm4eg/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="Sport", Arena Sport 4 BiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/31
 
-#EXTINF:-1 tvg-id="SK Fight HD (SR)" tvg-logo="noimage.png" group-title="SPORT EX-YU", SK FIGHT (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwutw9xSr6swzhW7rCx9vCPkc/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif" group-title="Sport", Arena Sport 1 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/27
 
-#EXTINF:-1 tvg-id="sportgolf.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub Golf HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukzoKbAu2ypTsEygx5lbsZw/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif" group-title="Sport", Arena Sport 2 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/192
 
-#EXTINF:-1 tvg-id="skesports.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub eSports
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuojNzjyTNsOkuyXals4Vogg/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif" group-title="Sport", Arena Sport 3 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/193
 
-#EXTINF:-1 tvg-id="sportklubhd.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqlww1wJPGa9JTSQKIIjHlg/ts
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif" group-title="Sport", Arena Sport 4 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/194
 
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 1 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugH08ckDnRzY0KKyS4xap7w/ts
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/645
 
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport klub 1 (RS) L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuknRHQWRqDXQx4_6pAhMEOw/ts
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37928
 
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 2 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh0FtUUbON4eSGtqRaPTKMQ/ts
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="Sport", Arena Sport 7 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35185
 
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 2 HD (RS) L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugGd7UZHnN39kpkFgYBpyZA/ts
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="Sport", Arena Sport 8 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35186
 
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 3 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh-ovDuWJpc0RcAeM_xp2r4/ts
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif" group-title="Sport", Arena Sport 9 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35187
 
-#EXTINF:-1 tvg-id="sportklub4.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 4 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujN9udJjO2I2U1pADT71odM/ts
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="Sport", Arena Sport 10 HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35188
 
-#EXTINF:-1 tvg-id="sportklub5.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 5 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup1-QPQg2aqX3wXegBD7Yqs/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/28
 
-#EXTINF:-1 tvg-id="sportklub6.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 6 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwulntwp2wvjDMw7EG_SV0JnU/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1043
 
-#EXTINF:-1 tvg-id="sportklub7.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 7 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo0KvcyS-pZXBq7IkvSUCJo/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1044
 
-#EXTINF:-1 tvg-id="sportklub8.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 8 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugfgesXSfRL3kUXHPJ_JmpA/ts
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1045
 
-#EXTINF:-1 tvg-id="sportklub1.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 1 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulewZKWnuDIuelxHLZ3Uamk/ts
+#EXTINF:-1 tvg-id="Arena Sport 5 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66258
 
-#EXTINF:-1 tvg-id="sportklub2.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 2 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulR9KXsmJtVLbksNorLjaBM/ts
+#EXTINF:-1 tvg-id="Arena Sport 6 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66259
 
-#EXTINF:-1 tvg-id="sportklub3.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 3 HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujUsKvzSShT2qiKIsu3P9p4/ts
+#EXTINF:-1 tvg-id="Arena Sport 7 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT7.gif" group-title="Sport", Arena Sport 7 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70657
 
-#EXTINF:-1 tvg-id="sportklub4.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 4 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwusu3HKavXXtsttDXQo34XZQ/ts
+#EXTINF:-1 tvg-id="Arena Sport 8 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT8.gif" group-title="Sport", Arena Sport 8 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70658
 
-#EXTINF:-1 tvg-id="sportklub5.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 5 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiRHd2D5rgu6QDh2GQtjZfA/ts
+#EXTINF:-1 tvg-id="arena-sport-9-rs" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT9.gif" group-title="Sport", Arena Sport 9 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70659
 
-#EXTINF:-1 tvg-id="sportklub6.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sport Klub 6 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugAlQIAxIvVkshZiDhbtgI4/ts
+#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-logo="https://repo.ottshow.net/pikoni/sport/srbarena%2010.gif" group-title="Sport", Arena Sport 10 SR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70660
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="SPORT EX-YU", Eurosport 1 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupxElaBM1INxGse83oKhAN0/ts
+#EXTINF:-1 tvg-id="arena-sport-1-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62590
 
-#EXTINF:-1 tvg-id="HTV1" tvg-logo="noimage.png" group-title="SPORT EX-YU", Eurosport 2 HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutV4dxBDMH5HkieodaOkEQ4/ts
+#EXTINF:-1 tvg-id="arena-sport-2-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62591
 
-#EXTINF:-1 tvg-id="SPORTSKA TV" tvg-logo="noimage.png" group-title="SPORT EX-YU", Sportska TV - SPTV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup9njCw2oTXb6icSRJc-ago/ts
+#EXTINF:-1 tvg-id="arena-sport-3-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62592
 
-#EXTINF:-1 tvg-id="kreatortv.hr" tvg-logo="noimage.png" group-title="SPORT EX-YU", Kreator TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwur2Ae-JXQN-DaIm0sJy1ksY/ts
+#EXTINF:-1 tvg-id="arena-sport-4-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62593
 
-#EXTINF:-1 tvg-id="HNTV" tvg-logo="noimage.png" group-title="SPORT EX-YU", HNTV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk9i3JrhSmxHSUB4x8b6ueU/ts
+#EXTINF:-1 tvg-id="arena-esport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif" group-title="Sport", Arena ESport
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/36410
 
-#EXTINF:-1 tvg-id="SOS Kanal" tvg-logo="noimage.png" group-title="SPORT EX-YU", SOS (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvCqT7fU9qCh12ucwVJD_sw/ts
+#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Sport", Arena Sport 1x2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66260
 
-#EXTINF:-1 tvg-id="Zvezda TV HD" tvg-logo="noimage.png" group-title="SPORT EX-YU", Zvezda TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug_ACo9-M3mn8zRWQjDKm7M/ts
+#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="noimage.png" group-title="Sport", Nova Sport HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/79936
 
-#EXTINF:-1 tvg-id="TV Partizan" tvg-logo="noimage.png" group-title="SPORT EX-YU", Partizan TV HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupBu_GzKu0RV-UNiz0GtaAg/ts
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif" group-title="Sport", Sport SLO 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/206
 
-#EXTINF:-1 tvg-id="fightchannel.rs" tvg-logo="noimage.png" group-title="SPORT EX-YU", Fight Channel
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujB62TMdjZKkTuhZvDspba8/ts
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif" group-title="Sport", Sport SLO 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/207
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", =======  SPORT INTERNATIONAL  =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurHNiGRO3m2uBb-Y_z6_rr8/ts
+#EXTINF:-1 tvg-id="stv3" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif" group-title="Sport", Sport SLO 3
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/208
 
-#EXTINF:-1 tvg-id="EUROHD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Eurosport 1 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuq6MGlqvd30iRR3Bx_0G4sA/ts
+#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1 SD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71739
 
-#EXTINF:-1 tvg-id="EURS2HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Eurosport 2 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwutsqzj1g3OVZbKvjANfezTU/ts
+#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2496
 
-#EXTINF:-1 tvg-id="ESPXTRA" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Eurosport 2 Xtra HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun1feej7MZvrBElPzi8bP74/ts
+#EXTINF:-1 tvg-id="maxsport-2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Sport", MAXSport 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/61224
 
-#EXTINF:-1 tvg-id="ORFSPPL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", ORF Sport + HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuLgXtbzSsqUnglAv5gA5Ig/ts
+#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="noimage.png" group-title="Sport", Hajduk TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/83182
 
-#EXTINF:-1 tvg-id="SP1GERH" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport1 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwulru_66FQyCDGfGfI-_0sgY/ts
+#EXTINF:-1 tvg-id="city-tv" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif" group-title="Sport", City TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29606
 
-#EXTINF:-1 tvg-id="Sport1Plus DE" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport1+ (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwui22dqNaw8i8F1ZQvDeMHpI/ts
+#EXTINF:-1 tvg-id="sportska-televizija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif" group-title="Sport", SPTV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/12622
 
-#EXTINF:-1 tvg-id="SPODTV" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sportdigital (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutARfKIJ2q0KE3n1kHdgkyk/ts
+#EXTINF:-1 tvg-id="sos" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif" group-title="Sport", SOS Kanal
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/204
 
-#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", D A z n  1 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumgwpnGceTieS5T6PpUDq-w/ts
+#EXTINF:-1 tvg-id="Zvezda Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif" group-title="Sport", Zvezda Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69875
 
-#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", D A z n  2 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukejbbaRdbnAFVPtVZVVzSo/ts
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif" group-title="Sport", Tv Partizan
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69874
 
-#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", D A z n  1 (DE) (2K-H265)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupiSZU6GXEuIN3dP3OXHA4o/ts
+#EXTINF:-1 tvg-id="fight-klub-hd" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif" group-title="Sport", Sport Klub Golf
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68481
 
-#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="http://mysolutionsbn.xyz:12974/images/hUzne15UNWW_FIM-NJ9mbbI4YxWkJKTSPiHsO-7s_QnD-vCd0WUTk2om7P8kZ0oBrL-CVI4XmH8eaQ5AEZ3qvQ.png" group-title="SPORT INTERNATIONAL", DAZN 2 HD (2K-H265)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugFnAeNTKPbbIB0n6mHX2nA/ts
+#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif" group-title="Sport", Sport Klub Fight
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68480
 
-#EXTINF:-1 tvg-id="DAZN 1 FHD VIP (ES)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", DAZN 1 FHD VIP (ES)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqYbmTe9xnnZdk6xRbVSexg/ts
+#EXTINF:-1 tvg-id="arena-fight" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif" group-title="Sport", Arena Fight
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30491
 
-#EXTINF:-1 tvg-id="D A Z N F 1 (ES)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", D A Z N F 1 (ES)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh2o7xGUWGv-is63bsOmH6g/ts
+#EXTINF:-1 tvg-id="fight-network" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif" group-title="Sport", Fight Network
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/61
 
-#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport F1 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug2YVR82vcDvyY6JyjWitHs/ts
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://picons.ottshow.net/pikoni/doku/nationalgeographic.gif" group-title="Doku", National Geographic
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25978
 
-#EXTINF:-1 tvg-id="SKYSNG" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport News (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwur55Ll8JFhZffDmj-mSt2Bw/ts
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://picons.ottshow.net/pikoni/doku/natgeowild.gif" group-title="Doku", NatGeo Wild
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25977
 
-#EXTINF:-1 tvg-id="SKYSPA" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport Austria 1 (AT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug9CvHwofKOdc8HHftz82tU/ts
+#EXTINF:-1 tvg-id="discovery-europe" tvg-logo="https://picons.ottshow.net/pikoni/doku/discovery.gif" group-title="Doku", Discovery Channel
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68
 
-#EXTINF:-1 tvg-id="SSport Austria 2 (Match Time)  (AT)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport Austria 2 (Match Time)  (AT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwugs9pT88m4OPju1sSiKx3E4/ts
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoveryid.gif" group-title="Doku", Discovery ID
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25980
 
-#EXTINF:-1 tvg-id="SSport Austria 3 (Match Time)  (AT)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport Austria 3 (Match Time)  (AT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo2qV5Vmtk8wfNqR4iqMLrY/ts
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoverysince.gif" group-title="Doku", Discovery Science
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25984
 
-#EXTINF:-1 tvg-id="SSport Austria 4 (Match Time) (AT)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport Austria 4 (Match Time) (AT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug8XCmDj_Ji3lCc1sZ2Vw6Y/ts
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="https://picons.ottshow.net/pikoni/doku/tlc.gif" group-title="Doku", TLC
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/74
 
-#EXTINF:-1 tvg-id="SSport Tenis HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport Tenis HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuvmibu6Kz_aId7tpAsVkuUA/ts
+#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://picons.ottshow.net/pikoni/doku/AnimalPlanet.gif" group-title="Doku", Animal Planet
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25983
 
-#EXTINF:-1 tvg-id="SSport Premier League HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport Premier League HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuscFmW0-DEb3sPPnXC3_oyk/ts
+#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://picons.ottshow.net/pikoni/doku/invs+.gif" group-title="Doku", Crime & Invvestigation
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25982
 
-#EXTINF:-1 tvg-id="SSport  TOP EVENT HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport  TOP EVENT HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwut95a32eYs5dMlt7j3zE5RQ/ts
+#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/history.gif" group-title="Doku", History
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2574
 
-#EXTINF:-1 tvg-id="SKYSP1G" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 1 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhSwTR4Yh-j6xURJjjOnJeI/ts
+#EXTINF:-1 tvg-id="history-channel-2" tvg-logo="https://picons.ottshow.net/pikoni/doku/h2history%202.gif" group-title="Doku", History 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25981
 
-#EXTINF:-1 tvg-id="SKYSP2G" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 2 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvWwf_NKDcWrHpHAyA4u4os/ts
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://picons.ottshow.net/pikoni/doku/Vaistnature.gif" group-title="Doku", Viasat Nature
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4126
 
-#EXTINF:-1 tvg-id="SKYS3HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 3 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwul__BCr-1Ih5Ub76h19kcJ4/ts
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://picons.ottshow.net/pikoni/doku/viasthistory.gif" group-title="Doku", Viasat History
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2797
 
-#EXTINF:-1 tvg-id="SSport 4 HD (DE) (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 4 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukhGcqGCeTBtTgEreNZzNjw/ts
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-logo="https://picons.ottshow.net/pikoni/doku/vaisetexpliore.gif" group-title="Doku", Viasat Explorer
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1204
 
-#EXTINF:-1 tvg-id="SSport 5 HD (DE) (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 5 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutcaG5NBMGgUBqbi8aTxCuU/ts
+#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://repo.ottshow.net/pikoni/srbija/balkantriptv.gif" group-title="Doku", Balkan Trip
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4485
 
-#EXTINF:-1 tvg-id="SSport 6 HD (DE) (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 6 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukdSI2erd8r7r7yeQhrbunc/ts
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="Doku", Lov i Ribolov
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/65
 
-#EXTINF:-1 tvg-id="SSport 7 HD (DE) (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 7 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwumbs7O72w7KfHAvgjaJPInQ/ts
+#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/travel.gif" group-title="Doku", Travel Channel
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/181
 
-#EXTINF:-1 tvg-id="SSport 8 HD (DE) (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 8 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujfkSV4ie30R3BT3ZY1AIWI/ts
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/bbcearth.gif" group-title="Doku", BBC Earth
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24373
 
-#EXTINF:-1 tvg-id="SSport 9 HD (DE) (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport 9 HD (DE) (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuveLpjNTYfNBnhsSg43hQFs/ts
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://picons.ottshow.net/pikoni/doku/fooodnewttork.gif" group-title="Doku", Food Network
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/33261
 
-#EXTINF:-1 tvg-id="BUNDESLIGA (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", BUNDESLIGA (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukAXH5PYuoVnLYYmWyzFxOE/ts
+#EXTINF:-1 tvg-id="24kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku", 24 Kitchen
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25985
 
-#EXTINF:-1 tvg-id="B.Liga HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuimW8jx3fkMGWtD4ToW3cBU/ts
+#EXTINF:-1 tvg-id="entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku", E! Entertainment
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2572
 
-#EXTINF:-1 tvg-id="B.Liga 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 1 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwur15mJOWUexFr1w1As3VvBA/ts
+#EXTINF:-1 tvg-id="doku-tv" tvg-logo="http://repo.ottshow.net/pikoni/doku/dokutv.gif" group-title="Doku", Doku TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/31853
 
-#EXTINF:-1 tvg-id="SSS Sport Bundesliga 1 DE" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 1 HD (DE) L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurOW6OKVbu1zN_3fJcVfoWo/ts
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://web.izipizi1.info/pi/jyw.png" group-title="Doku", HGTV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39108
 
-#EXTINF:-1 tvg-id="FXSP6NL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.LIGA 1 (2K-H265) (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunRKVWosQ7HZGjUKsirQiKo/ts
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/natucialchannel.gif" group-title="Doku", Nautical Channel
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71247
 
-#EXTINF:-1 tvg-id="B.Liga 2 HD (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 2 HD (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwut6y2ndfNu9l-NjLG3YXzog/ts
+#EXTINF:-1 tvg-id="pink-fashion" tvg-logo="https://picons.ottshow.net/pikoni/doku/FashonTV.gif" group-title="Doku", Fashion TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9108
 
-#EXTINF:-1 tvg-id="B.Liga 3 HD (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 3 HD (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulnhHXM4DbaVbleuF3oTdgg/ts
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/doku/love4knaturer.gif" group-title="Doku", Love Nature 4K
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68948
 
-#EXTINF:-1 tvg-id="B.Liga 4 HD (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 4 HD (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwurz-Atn-KlI4fkl-33Cw8BE/ts
+#EXTINF:-1 tvg-id="hbo" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/44
 
-#EXTINF:-1 tvg-id="B.Liga 5 HD (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 5 HD (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujGsZY79X-SHwCIIiQaEO5Y/ts
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo2.gif" group-title="Film", HBO 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72
 
-#EXTINF:-1 tvg-id="B.Liga 6 (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 6 (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurA6ShFLNynUfhj7ieMQ-CE/ts
+#EXTINF:-1 tvg-id="hbo3" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo3.gif" group-title="Film", HBO 3
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1555
 
-#EXTINF:-1 tvg-id="B.Liga 7 (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 7 (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiemMNVT8x9GOzT2WMo_9ks/ts
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax.gif" group-title="Film", Cinemax
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70
 
-#EXTINF:-1 tvg-id="B.Liga 8 (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 8 (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumjFc9GF5zGdQXLd-n9bw3I/ts
+#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax2.gif" group-title="Film", Cinemax  2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/126
 
-#EXTINF:-1 tvg-id="B.Liga 9 (Match Time)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", B.Liga 9 (Match Time)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqxorVNjvuelX7D7jUM4bow/ts
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier1.gif" group-title="Film", CineStar Premiere 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/36
 
-#EXTINF:-1 tvg-id="MAGENTA SPORT 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", MAGENTA SPORT 1 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwupcte6_Z2Iecq7g_OKueqVI/ts
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier2.gif" group-title="Film", CineStar Premiere 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37
 
-#EXTINF:-1 tvg-id="MAGENTA SPORT 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", MAGENTA SPORT 2 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupvkTb-mTG8v0l7cZYK0CAQ/ts
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestartv.gif" group-title="Film", CineStar TV 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3851
 
-#EXTINF:-1 tvg-id="MAGENTA SPORT 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", MAGENTA SPORT 3 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurfcUDNwmMNkjJLCDniuZew/ts
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-logo="http://web.izipizi1.info/pi/cinestartv2.png" group-title="Film", CineStar TV 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37920
 
-#EXTINF:-1 tvg-id="MAGENTA SPORT 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", MAGENTA SPORT 4 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuXcxUStofcBs-DCwyFbxKk/ts
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestaraction.gif" group-title="Film", CineStar Action
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2685
 
-#EXTINF:-1 tvg-id="MAGENTA SPORT 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", MAGENTA SPORT 5 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun3r_egoGD87sPC6cOAQLCs/ts
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarfantasy.gif" group-title="Film", CineStar Fantasy
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/10444
 
-#EXTINF:-1 tvg-id="MAGENTA SPORT 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", MAGENTA SPORT 6 HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugjD5wA9SzFgSRi5SJU9xj8/ts
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarcomedy.gif" group-title="Film", CineStar Comedy
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30492
 
-#EXTINF:-1 tvg-id="FC Bayern TV DE" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", MAGENTA sport 7 (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutHZCIvxuLmlmdYPR1CduVU/ts
+#EXTINF:-1 tvg-id="fox" tvg-logo="http://repo.ottshow.net/pikoni/film/fox.gif" group-title="Film", STAR Channel
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/178
 
-#EXTINF:-1 tvg-id="PRLITV" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSports PREMIER LEAGUE (UK)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugtcT22JmLSD7RkkRCvDbt4/ts
+#EXTINF:-1 tvg-id="fox-movies" tvg-logo="http://repo.ottshow.net/pikoni/film/foxmovies.gif" group-title="Film", STAR Movies
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25990
 
-#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSports F1 HD (UK)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurEvSYRlIdzOG5EmlytZvAA/ts
+#EXTINF:-1 tvg-id="fox-life" tvg-logo="http://repo.ottshow.net/pikoni/film/foxlife.gif" group-title="Film", STAR Life
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1378
 
-#EXTINF:-1 tvg-id="MFOR1HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Movistar Formula 1 HD (ES)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuum0lUaLjiurApRu1gWhDXY/ts
+#EXTINF:-1 tvg-id="fox-crime" tvg-logo="http://repo.ottshow.net/pikoni/film/foxcrime.gif" group-title="Film", STAR Crime
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1553
 
-#EXTINF:-1 tvg-id="BTSP1HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", BT Sport 1 HD (UK)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk8TD5JdjeJqFdBlrt1ynWw/ts
+#EXTINF:-1 tvg-id="m1-gold" tvg-logo="http://repo.ottshow.net/pikoni/film/m1goldfilm.gif" group-title="Film", M1 Gold
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1351
 
-#EXTINF:-1 tvg-id="BTSP2HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", BT Sport 2 HD (UK)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo57xibg3E-w3OupIbF73aw/ts
+#EXTINF:-1 tvg-id="m1-film" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Film
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2494
 
-#EXTINF:-1 tvg-id="BTSP3HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", BT Sport 3 HD (UK) TNT SPORT 3
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulCVrUIH0cStqKP0bquUZC8/ts
+#EXTINF:-1 tvg-id="m1-family" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Family
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24936
 
-#EXTINF:-1 tvg-id="6539" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SS Tennis (UK)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunYgrDEUmca7vLlOZTnAsoA/ts
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-logo="http://repo.ottshow.net/pikoni/film/tv1000.gif" group-title="Film", TV 1000
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/705
 
-#EXTINF:-1 tvg-id="bein-sports-1-en" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 1 HD (AR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk7Tk9dQxmFB6CdDqX7QgLE/ts
+#EXTINF:-1 tvg-id="axn" tvg-logo="http://repo.ottshow.net/pikoni/film/axn.gif" group-title="Film", AXN
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1181
 
-#EXTINF:-1 tvg-id="bein-sports-2-en" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 2 HD (AR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoHCj77jlNhwuhFruvTfhm0/ts
+#EXTINF:-1 tvg-id="axn-spin" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/axnspin.gif" group-title="Film", AXN Spin
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69009
 
-#EXTINF:-1 tvg-id="bein-sports-3-en" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 3 HD (AR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuswXL2xkGTx73_w_y_J4qPY/ts
+#EXTINF:-1 tvg-id="scifi" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Film", SciFi
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/8859
 
-#EXTINF:-1 tvg-id="beIN Sport 4 HD (AR)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 4 HD (AR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuompoKqK-M5afds4Gd9cdfo/ts
+#EXTINF:-1 tvg-id="cinemania" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemania.gif" group-title="Film", Cinemania
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/357
 
-#EXTINF:-1 tvg-id="beIN Sport 5 HD (AR)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 5 HD (AR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhDigzZZjFBKIg9Iau18_iA/ts
+#EXTINF:-1 tvg-id="cinema-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinematvbh.gif" group-title="Film", RTL Play Premium
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/174
 
-#EXTINF:-1 tvg-id="beIN Sport 6 HD (AR)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 6 HD (AR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup60PFicuG91tOGP2IvAKYs/ts
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/pickboxtv.gif" group-title="Film", PickboxTV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1630
 
-#EXTINF:-1 tvg-id="beIN Sport 7 HD (AR)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 7 HD (AR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuszHd0bKUy4V-QdufZShltc/ts
+#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://repo.ottshow.net/pikoni/film/kinotv.gif" group-title="Film", Kino TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4223
 
-#EXTINF:-1 tvg-id="BEINSHD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sports 1 HD (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupzCUbF4XPW0SpAHHqlKxP0/ts
+#EXTINF:-1 tvg-id="universal-channel" tvg-logo="http://repo.ottshow.net/pikoni/film/divatv.gif" group-title="Film", DIVA
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4224
 
-#EXTINF:-1 tvg-id="BEIS2HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sports 2 HD (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh0-b5GVV1lau_ttja6qGNc/ts
+#EXTINF:-1 tvg-id="amc" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film", AMC
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9109
 
-#EXTINF:-1 tvg-id="bein-sport-3-fr" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 3 HD (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup8OKDduditQAqoWcmZBx8E/ts
+#EXTINF:-1 tvg-id="epic-drama" tvg-logo="http://repo.ottshow.net/pikoni/film/epicdrama.gif" group-title="Film", EPIC Drama
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24362
 
-#EXTINF:-1 tvg-id="BEINMX4" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sports Max  4 (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwultbCSUy8SVCVQ6DhV9RckU/ts
+#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://repo.ottshow.net/pikoni/film/tvsehara.gif" group-title="Film", Sehara TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29202
 
-#EXTINF:-1 tvg-id="BEIN5" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sports Max 5 (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurSeTJifT38THp8spKKSGlo/ts
+#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="http://repo.ottshow.net/pikoni/film/klasiktv.gif" group-title="Film", Klasik TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/38
 
-#EXTINF:-1 tvg-id="BEIN6" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sports Max 6 (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo9Xx8vkYU_XGJoWNMVuvjo/ts
+#EXTINF:-1 tvg-id="Film Klub" tvg-logo="http://repo.ottshow.net/pikoni/film/filmklub.gif" group-title="Film", Film Klub
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1073
 
-#EXTINF:-1 tvg-id="BEIN7" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sports Max 7 (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusSUmy5_s3kxHmo5CT9zwFE/ts
+#EXTINF:-1 tvg-id="Dizi" tvg-logo="noimage.png" group-title="Film", Dizi
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/77667
 
-#EXTINF:-1 tvg-id="BEIN9" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sports MAX 9 HD (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutrvhfhxLWc0cucIk-63zqY/ts
+#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/eurocinema.gif" group-title="Film", Euro Cinema 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68477
 
-#EXTINF:-1 tvg-id="beIN Sport 1 HD (TR)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 1 HD (TR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutlJ5fMqQi7tMHyRcR4q8xU/ts
+#EXTINF:-1 tvg-id="Euro Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/eurocinema2.gif" group-title="Film", Euro Cinema 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68478
 
-#EXTINF:-1 tvg-id="beIN Sport 2 HD (TR)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", beIN Sport 2 HD (TR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuonKeOAvuNJSvWsIVvlWcCk/ts
+#EXTINF:-1 tvg-id="HBO MAX" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO MAX
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45107
 
-#EXTINF:-1 tvg-id="Bein Sport 3 (TR)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Bein Sport 3 (TR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupHjxszPdc08vn9OZ9g5IbU/ts
+#EXTINF:-1 tvg-id="Cine+Select 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 1 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45268
 
-#EXTINF:-1 tvg-id="MOVDEPH" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Movistar Deportes 1 HD (ES)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupA4gGslc3E08Yi51GwqcLY/ts
+#EXTINF:-1 tvg-id="Cine+Select 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 2 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45269
 
-#EXTINF:-1 tvg-id="Movistar+ Deportes 2 HD (ES)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Movistar+ Deportes 2 HD (ES)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumqxxphgU3U_T5XEeRj6_Zw/ts
+#EXTINF:-1 tvg-id="Cine+Select 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 3 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45270
 
-#EXTINF:-1 tvg-id="FS1" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Fox Sports 1 (US)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutOkWgVwC32u3pZMdZezrgs/ts
+#EXTINF:-1 tvg-id="Cine+Select 4 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 4 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45271
 
-#EXTINF:-1 tvg-id="FIGHTBX" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Fight Box HD (US)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiJQNJvLLNqrttXSzg5cLh0/ts
+#EXTINF:-1 tvg-id="Cine+Select 5 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 5 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45272
 
-#EXTINF:-1 tvg-id="NFLCET" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", NFL Network (US)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumQd5Cg3Xxx3oC0_YMpnXoY/ts
+#EXTINF:-1 tvg-id="Cine+Select 6 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 6 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45273
 
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Diema Sport 1 (BG)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuicq-a4oKF-OTb8lhdC2SF8/ts
+#EXTINF:-1 tvg-id="Cine+Select 7 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 7 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45274
 
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Diema Sport 2 (BG)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun6DfO3NjAaOOUMthdprfKc/ts
+#EXTINF:-1 tvg-id="Cine+Select 8 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 8 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45275
 
-#EXTINF:-1 tvg-id="FXSP1NL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Fox Sports 1 (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupjUZCpsmARyuded5zWEF9s/ts
+#EXTINF:-1 tvg-id="Cine+Select 9 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 9 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45276
 
-#EXTINF:-1 tvg-id="FXSP2NL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Fox Sports 2 International (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurB-0Kqn7h4Wv8upwmC1Nyg/ts
+#EXTINF:-1 tvg-id="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 10 HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45277
 
-#EXTINF:-1 tvg-id="FXSP3NL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Fox Sports 3 Eredivisie (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoQNz3K1MDVYTqd9qvc9pBo/ts
+#EXTINF:-1 tvg-id="Lud Zbunjen Normalan" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/lzn.gif" group-title="Film", Lud Zbunjen Normalan
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68944
 
-#EXTINF:-1 tvg-id="FXSP4NL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Fox Sports 4 (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuic3M-qBRbnDGLxaaX-J2tU/ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Kids", Baby TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/40217
 
-#EXTINF:-1 tvg-id="ZIGSPEX" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Ziggo Sport Extra 1 (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqK8NXUZXcYkhJQSc9mP8Mo/ts
+#EXTINF:-1 tvg-id="minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Kids", Minimax
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/93
 
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Ziggo Sport Extra 2 (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujfJ8Z2fWeYb1pOXY_XTt2E/ts
+#EXTINF:-1 tvg-id="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Kids", Mini Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/265
 
-#EXTINF:-1 tvg-id="ZIGSPGO" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Ziggo Sport Golf (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoKp18z_OPJwclTAHxmrI_U/ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Kids", Nick Jr Hr.
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25986
 
-#EXTINF:-1 tvg-id="ZIGSPRA" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Ziggo Sport Racing (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupgYFdvXbc5Ec4BdcjwH7Z4/ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Kids", Nick Jr
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68475
 
-#EXTINF:-1 tvg-id="ZIGSPSE" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Ziggo Sport Select (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup7H0QcZSFRI44slSnvBv_Y/ts
+#EXTINF:-1 tvg-id="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons Hr.
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71269
 
-#EXTINF:-1 tvg-id="ZIGSPVO" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Ziggo Sport Voetbal (NL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiezHyXmrcekYwB_U2n_5Io/ts
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/40979
 
-#EXTINF:-1 tvg-id="SportTV Plus PT" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV+ HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuvqb-0PC6Ki-oHiVYHatzC4/ts
+#EXTINF:-1 tvg-id="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Kids", Nickelodeon Hr.
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25987
 
-#EXTINF:-1 tvg-id="Sport TV 1 HD (PT)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 1 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugC2SIeoYTSqAy_1pfYp0NQ/ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Kids", Nickelodeon
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68476
 
-#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 2 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk9GVjmE3Z23iv9Qj94j5VI/ts
+#EXTINF:-1 tvg-id="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network Hr.
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71267
 
-#EXTINF:-1 tvg-id="Sport TV 3 HD (PT)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 3 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuq94nJT9L4Yhwm3OV733lO8/ts
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71113
 
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 4 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo7IhKyyfgttumsJsSKgR-w/ts
+#EXTINF:-1 tvg-id="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Tnt Kids
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66257
 
-#EXTINF:-1 tvg-id="Sport TV 5 HD (PT)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 5 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqACLeEmW6ipXJaSLl8NxCg/ts
+#EXTINF:-1 tvg-id="pink-kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Kids", Pink Kids
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/266
 
-#EXTINF:-1 tvg-id="Eleven Sports 2 PL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Eleven Sports 1 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwus3Ssy8g-pI2M5LqsLq6aOU/ts
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Kids", Pink Super Kids
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71270
 
-#EXTINF:-1 tvg-id="Eleven Sports 2 PL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Eleven Sport 2 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwul4m2SjrI0cGg6k-P_6bVds/ts
+#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Kids", Kazbuka
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71116
 
-#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Eleven Sport 3 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurMNsCPFWXj_FdMdbsV2kUc/ts
+#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Pikaboo
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3854
 
-#EXTINF:-1 tvg-id="Eleven Sports 4 PT" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Eleven Sport 4 HD (PT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumTDngLK3-uNu3wHQ0BEnDY/ts
+#EXTINF:-1 tvg-id="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Kids", Toon Kids
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/8858
 
-#EXTINF:-1 tvg-id="Barca TV ES" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Barca TV (ES)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuu_GU0HPmBUJgkZSbpP8zBs/ts
+#EXTINF:-1 tvg-id="hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Kids", Hayatovci
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25970
 
-#EXTINF:-1 tvg-id="Sport TV 1 SI" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 1 HD (SLO)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwutz37XK3ByCWv8NCl5jp_Sc/ts
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Kids", Cartoonito
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71114
 
-#EXTINF:-1 tvg-id="Sport TV 2 SI" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 2 HD (SLO)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuq8aRffpnJZ02HC9KSpKhjk/ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Kids", Rtl Kockica
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25997
 
-#EXTINF:-1 tvg-id="Sport TV 3 SI" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Sport TV 3 HD (SLO)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqejh5iY8Ot0xMY-Y2x_1OI/ts
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Kids", Disney Chanel
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71109
 
-#EXTINF:-1 tvg-id="digisport1" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Digi Sport 1 (ROM)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulxKT8kW5uStAVXT7mRRK20/ts
+#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Kids", Disney Junior
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71268
 
-#EXTINF:-1 tvg-id="Digi Sport 2 (ROM)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Digi Sport 2 (ROM)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupT03rPjA-o64_aow2ByQjY/ts
+#EXTINF:-1 tvg-id="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Kids", Dexy Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67745
 
-#EXTINF:-1 tvg-id="Digi Sport 3 (ROM)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Digi Sport 3 (ROM)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwur4fbDiedRb1uce5unYWdXU/ts
+#EXTINF:-1 tvg-id="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Kids", Nova  Kids
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67744
 
-#EXTINF:-1 tvg-id="prima-sport-1" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", ORANGE SPORT 1 Prima Sport 1 (ROM)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunG78P9ByfytTIDIfkbNB88/ts
+#EXTINF:-1 tvg-id="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Kids", CoComelon
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69637
 
-#EXTINF:-1 tvg-id="prima-sport-2" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", ORANGE SPORT 2 Prima Sport 2 (ROM)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqMmLzXtpUK42MaA3tjta9o/ts
+#EXTINF:-1 tvg-id="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Kids", IDJ Kids
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68943
 
-#EXTINF:-1 tvg-id="prima-sport-3" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", ORANGE SPORT 3 Prima Sport 3 (ROM)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwumuta8kw9kLoMXm2gDyYz5A/ts
+#EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Kids", Looney Tunes
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45122
 
-#EXTINF:-1 tvg-id="Super Sport Kosova 1 AL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Kujtesa Sport 1 - Super Sport Kosova 1 (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupcLQaRn_uWlSAnRfleMGmQ/ts
+#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Kids", Tom and Jerry
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67747
 
-#EXTINF:-1 tvg-id="Super Sport Kosova 2 AL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Kujtesa Sport 2 -  Super Sport Kosova 2 (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhKZu-KiDKNi1enP-x3qrgM/ts
+#EXTINF:-1 tvg-id="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Kids", Psici u Ophodnji
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69630
 
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Super Sport 1 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoEBnoBf6AlJLJnLT7H2QFI/ts
+#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/mickymouse.gif" group-title="Kids", Mickey Mouse
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/74173
 
-#EXTINF:-1 tvg-id="Super Sport 2 AL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Super Sport 2 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugX74bdx-Hh767ZQlNENEbE/ts
+#EXTINF:-1 tvg-id="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Kids", Masa i Medo
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67743
 
-#EXTINF:-1 tvg-id="Super Sport 3 AL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Super Sport 3 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhNXwyrjsNX4T2v7Y_leHBI/ts
+#EXTINF:-1 tvg-id="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Kids", Pepa Prašcic
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67746
 
-#EXTINF:-1 tvg-id="Super Sport 4 AL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Super Sport 4 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqdjoe4yowXa7WsSb5osHOQ/ts
+#EXTINF:-1 tvg-id="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Kids", Tri Mace
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69635
 
-#EXTINF:-1 tvg-id="Super Sport 5 AL" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Super Sport 5 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumCS8i-fHW0gvTaFs5tlDGc/ts
+#EXTINF:-1 tvg-id="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Kids", A Je To
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69632
 
-#EXTINF:-1 tvg-id="Super Sport 6 HD (AL)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Super Sport 6 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuskPSgTNgsf3eCVyHmeQgbY/ts
+#EXTINF:-1 tvg-id="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Kids", Strumpfovi
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69633
 
-#EXTINF:-1 tvg-id="Tring Sport 1 HD (AL)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Tring Sport 1 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugKwQJOr-jyPYwrOxDzPmkk/ts
+#EXTINF:-1 tvg-id="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Kids", Pingvini
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69634
 
-#EXTINF:-1 tvg-id="Tring Sport 2 HD (AL)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Tring Sport 2 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuof3hcY1ZUnviDFsNtbbwgI/ts
+#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mickymouse.gif" group-title="Kids", Mickey Mouse
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72012
 
-#EXTINF:-1 tvg-id="Tring Sport 4 HD (AL)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Tring Sport 4 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumWPHFjXgfJjVJk5l4GLHUg/ts
+#EXTINF:-1 tvg-id="Mr Magoo" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrmago.gif" group-title="Kids", Mr Magoo
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72013
 
-#EXTINF:-1 tvg-id="Tring Sport 3 HD (AL)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Tring Sport 3 HD (AL)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutimYrjwFdQILVgFLExLIVs/ts
+#EXTINF:-1 tvg-id="Larva" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/larva.gif" group-title="Kids", Larva
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72014
 
-#EXTINF:-1 tvg-id="Tivibu Spor 1 TR" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", TIVIBU SPOR 1 HD (TR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujysOnMfJtx3ENskabUyR0A/ts
+#EXTINF:-1 tvg-id="Blippi" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bliipi.gif" group-title="Kids", Blippi
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72015
 
-#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport F1 (UK)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumSDpr6kWTZFgqUtP91EnJc/ts
+#EXTINF:-1 tvg-id="Lucky Luke" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/luckyluck.gif" group-title="Kids", Lucky Luke
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72016
 
-#EXTINF:-1 tvg-id="CANPSPO" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", C+ Sport HD (FR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvFTkpcpU3QRIAHmpWV4rR0/ts
+#EXTINF:-1 tvg-id="Alice i Lewis" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/aliceilewis.gif" group-title="Kids", Alice i Lewis
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72017
 
-#EXTINF:-1 tvg-id="SKMTGP" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport MotoGP HD (IT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwui_rU1mj3bPMyblowe-FYpo/ts
+#EXTINF:-1 tvg-id="SpongeBob" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/spongebob.gif" group-title="Kids", SpongeBob
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72018
 
-#EXTINF:-1 tvg-id="NBATV" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", Nba TV HD (US)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhJEm-KWXtNKc34R-6uXz4I/ts
+#EXTINF:-1 tvg-id="Pink Panther" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/thepinkpanter.gif" group-title="Kids", Pink Panther
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72019
 
-#EXTINF:-1 tvg-id="SSport Nba HD (IT)" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", SSport Nba HD (IT)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun_OKT832zt89IR_RKp2Ris/ts
+#EXTINF:-1 tvg-id="Profesor Baltazar" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/profesorbaltezar.gif" group-title="Kids", Profesor Baltazar
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72020
 
-#EXTINF:-1 tvg-id="NBA TV HD" tvg-logo="noimage.png" group-title="SPORT INTERNATIONAL", NBA TV (Ex YU)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuscaEmW7J4McffUttNLkzzY/ts
+#EXTINF:-1 tvg-id="Gormiti" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/gormiti.gif" group-title="Kids", Gormiti
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72021
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FILM PREVOD", =======  MOVIE  =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhyihmLcrNvdgzeojwJ4zfE/ts
+#EXTINF:-1 tvg-id="MetaJets" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/metajets.gif" group-title="Kids", MetaJets
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72022
 
-#EXTINF:-1 tvg-id="LUD ZBUNJEN NORMALAN 24/7" tvg-logo="noimage.png" group-title="FILM PREVOD", LUD ZBUNJEN NORMALAN 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukWZfsmqcz7Fd7olXFa8NgI/ts
+#EXTINF:-1 tvg-id="Agent Binky" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/agnetbinky.gif" group-title="Kids", Agent Binky
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72023
 
-#EXTINF:-1 tvg-id="KRIZA SREDNJIH GODINA 24/7" tvg-logo="noimage.png" group-title="FILM PREVOD", KRIZA SREDNJIH GODINA 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk8jfx4cKrtDLEw-ffenTPQ/ts
+#EXTINF:-1 tvg-id="Bolek i Lolek" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bolekilolek.gif" group-title="Kids", Bolek i Lolek
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72024
 
-#EXTINF:-1 tvg-id="axn.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Axn Adria (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvlmGeeu_MGoGID8P2-aq3I/ts
+#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrbean.gif" group-title="Kids", Mr Bean
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72029
 
-#EXTINF:-1 tvg-id="AXN Spin" tvg-logo="noimage.png" group-title="FILM PREVOD", Axn Spin (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunmzTyWT1IAxq67QnDuKThA/ts
+#EXTINF:-1 tvg-id="La Linea" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/la-liane.gif" group-title="Kids", La Linea
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/73980
 
-#EXTINF:-1 tvg-id="fox.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Star HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwujjo9pRxfwp_61EjGIOd8rI/ts
+#EXTINF:-1 tvg-id="imperiatv" tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Music", Imperija
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24800
 
-#EXTINF:-1 tvg-id="HTV1" tvg-logo="noimage.png" group-title="FILM PREVOD", Star Life HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuruoR_AV-59yObsaCMZFUyM/ts
+#EXTINF:-1 tvg-id="toxic-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Music", Toxic TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3823
 
-#EXTINF:-1 tvg-id="foxlife.hr" tvg-logo="noimage.png" group-title="FILM PREVOD", Star Life HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukFuekkK3h-BZjxif_ABNgc/ts
+#EXTINF:-1 tvg-id="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Music", IDJ TV HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1112
 
-#EXTINF:-1 tvg-id="foxcrime.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Star Crime HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuupsLOvb_-Kk61g0ANjTpDE/ts
+#EXTINF:-1 tvg-id="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Music", UZIVOTEKA
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45114
 
-#EXTINF:-1 tvg-id="foxmovies.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Star Movies HD (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusQ_W91cSw_RPg9QlGTU754/ts
+#EXTINF:-1 tvg-id="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Music", Kafansko Vece
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70263
 
-#EXTINF:-1 tvg-id="cinemax.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemax HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj_NTBKqG5iUvQsaPHb3rGY/ts
+#EXTINF:-1 tvg-id="extratv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Music", Extra Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68474
 
-#EXTINF:-1 tvg-id="cinemax2.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemax 2 HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhitTxU6Ag68CCG0cryt9Xc/ts
+#EXTINF:-1 tvg-id="hayat-music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Music", Hayat Music
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/51
 
-#EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar Premiere 1 HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutSEhnMo7-QXWzYM3uUnHsw/ts
+#EXTINF:-1 tvg-id="hayat-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Music", Hayat Folk
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/131
 
-#EXTINF:-1 tvg-id="cinestarpremiere2.hr" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar Premiere 2 HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupdnhkFlViwmvtctdWTFFc4/ts
+#EXTINF:-1 tvg-id="bn-music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Music", BN Music
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/46
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="FILM PREVOD", Hbo HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuv22OoCSC1b1UD39c7sUC4A/ts
+#EXTINF:-1 tvg-id="dmsat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Music", DM Sat
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/26004
 
-#EXTINF:-1 tvg-id="hbo2hd.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Hbo 2 HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoZ-mfkNpue-TjvJ7v6CUPY/ts
+#EXTINF:-1 tvg-id="bravo-mjuzik" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Music", Bravo Music
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35952
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="FILM PREVOD", Hbo 3 HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuxBDhtgcSFaMo69ERurotg/ts
+#EXTINF:-1 tvg-id="pink-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Music", Pink Folk 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/97
 
-#EXTINF:-1 tvg-id="Star TV" tvg-logo="noimage.png" group-title="FILM PREVOD", HBO MAX (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuRfH5KisIRUAh3_PIZfrgI/ts
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Music", Pink Folk 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/504
 
-#EXTINF:-1 tvg-id="CineStar TV 1 HD (SR)" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk2-rBKEoXO7W3vSL-Jkm2Y/ts
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Music", Grand
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21
 
-#EXTINF:-1 tvg-id="CineStar TV 2 HD" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar TV2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuuc7hb6k3IQdSaNwhAgmev4/ts
+#EXTINF:-1 tvg-id="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Music", Grand 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1071
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar Fantasy (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuncpsif-9cbsv4Ord-XzyRI/ts
+#EXTINF:-1 tvg-id="sevdah-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Music", TV Sevdah
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/730
 
-#EXTINF:-1 tvg-id="CINESTAR ACTION/THRILLER" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar Action SR (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvLrfhievTn6bI8awpjW9xc/ts
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Music", Izvorna TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/231
 
-#EXTINF:-1 tvg-id="cinestaractionandthriller.hr" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar Action HR (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvUMXzxFPIxXoz3sMOEF9W4/ts
+#EXTINF:-1 tvg-id="otv-valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Music", OTV Valentino
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/152
 
-#EXTINF:-1 tvg-id="cinestarcomedy.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinestar Comedy (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuozbjKOpFVRdb8NH9mPAO_c/ts
+#EXTINF:-1 tvg-id="valentino-music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Music", Valentino Music
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/32083
 
-#EXTINF:-1 tvg-id="scifi.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", SciFi (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuheHB4tuD8bPaXs-IM6gKOQ/ts
+#EXTINF:-1 tvg-id="valentino-etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Music", Valentino Etno
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/32082
 
-#EXTINF:-1 tvg-id="Epic Drama_max" tvg-logo="noimage.png" group-title="FILM PREVOD", Epic Drama (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwunf3FShl1onzWc8_P0-oC6M/ts
+#EXTINF:-1 tvg-id="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Music", CityPlay
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69400
 
-#EXTINF:-1 tvg-id="SUPERSTAR" tvg-logo="noimage.png" group-title="FILM PREVOD", SuperStar TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutQNxOtNFDbAjlo5DERuyaw/ts
+#EXTINF:-1 tvg-id="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Music", Toxic Folk
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66261
 
-#EXTINF:-1 tvg-id="SUPERSTAR 2" tvg-logo="noimage.png" group-title="FILM PREVOD", SuperStar TV 2 (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuvJkdDpTT7Iuiyc58d5AY0/ts
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Music", Duga TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/549
 
-#EXTINF:-1 tvg-id="Superstar 3 (SN)" tvg-logo="noimage.png" group-title="FILM PREVOD", SuperStar TV 3 (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusKSVtZ17VZ2HyK_8Y9k0gY/ts
+#EXTINF:-1 tvg-id="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Music", KCN 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/630
 
-#EXTINF:-1 tvg-id="tv1000.rs" tvg-logo="noimage.png" group-title="FILM PREVOD", TV 1000 (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujW6OIbetDJN6DHb0URkK9A/ts
+#EXTINF:-1 tvg-id="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Music", KCN 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/641
 
-#EXTINF:-1 tvg-id="diva.hr" tvg-logo="noimage.png" group-title="FILM PREVOD", Diva (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvdEscR9L5_1JNKCKgwj2o0/ts
+#EXTINF:-1 tvg-id="bravo!" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/music/bravo.gif" group-title="Music", bravo!
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/74027
 
-#EXTINF:-1 tvg-id="Cinemania HD" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemania (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurZxSE05WmrBuWSbtzx2JdQ/ts
+#EXTINF:-1 tvg-id="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Music", DMC Tv
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69133
 
-#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="noimage.png" group-title="FILM PREVOD", AMC HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuq_ktHuvrN6YlpcYmHyi-JI/ts
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Music", Jugoton TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/251
 
-#EXTINF:-1 tvg-id="kinotv.hr" tvg-logo="noimage.png" group-title="FILM PREVOD", Kino TV HD (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuncS5hjFl1LhxPxB6ImaFVQ/ts
+#EXTINF:-1 tvg-id="cmc" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Music", CMC
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/113
 
-#EXTINF:-1 tvg-id="Klasik" tvg-logo="noimage.png" group-title="FILM PREVOD", Klasik TV (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujdqhdZjBu0E6kOvl0YFvjA/ts
+#EXTINF:-1 tvg-id="Banovina" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Music", Banovina
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1552
 
-#EXTINF:-1 tvg-id="m1film.hr" tvg-logo="noimage.png" group-title="FILM PREVOD", M1 Film (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukSBTX6AUsSXIZTIvtYIgBk/ts
+#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Music", Klape i Tambure
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69348
 
-#EXTINF:-1 tvg-id="M1 Gold_max" tvg-logo="noimage.png" group-title="FILM PREVOD", M1 Gold (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunERqIpO2x0qW7CUMPw1lxc/ts
+#EXTINF:-1 tvg-id="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Music", Croatia Records
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69902
 
-#EXTINF:-1 tvg-id="MAXCro Select 1 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 1 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj6SlDMjswrMVJv5pw7EoZI/ts
+#EXTINF:-1 tvg-id="pink-hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Music", Pink Hits
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4140
 
-#EXTINF:-1 tvg-id="MAXCro Select 2 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 2 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuoqh2YoLRu_TebL-7sfrZpE/ts
+#EXTINF:-1 tvg-id="pink-n-roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Music", Pink n Roll
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69401
 
-#EXTINF:-1 tvg-id="MAXCro Select 3 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 3 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwurziepff1Wkr7es0XeyJUK8/ts
+#EXTINF:-1 tvg-id="balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Music", Balkanika
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/239
 
-#EXTINF:-1 tvg-id="MAXCro Select 4 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 4 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujXABSDGkhP4NxLfqKb5Odg/ts
+#EXTINF:-1 tvg-id="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Music", Krone Hit
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69786
 
-#EXTINF:-1 tvg-id="MAXCro Select 5 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 5 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusU4HjvAnfiN46mjJIg2RNY/ts
+#EXTINF:-1 tvg-id="mtv-hits-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Music", MTV Hits
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/16758
 
-#EXTINF:-1 tvg-id="MAXCro Select 6 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 6 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwumjnvc5C55EOYFJ2w88Z6y4/ts
+#EXTINF:-1 tvg-id="mtv00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Music", MTV 00s
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/50
 
-#EXTINF:-1 tvg-id="MAXCro Select 7 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 7 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuheWshbCJCqeEZ64yVp-3YE/ts
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Music", MTV 80s
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69350
 
-#EXTINF:-1 tvg-id="MAXCro Select 8 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 8 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujO-YEgdE1oExdQjO0S8JU0/ts
+#EXTINF:-1 tvg-id="mtv-dance-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Music", MTV Club
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/16759
 
-#EXTINF:-1 tvg-id="MAXCro Select 9 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 9 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukNrTknC_Pr37odM9XBxBjM/ts
+#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhd.gif" group-title="Pink", PINK HD
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5
 
-#EXTINF:-1 tvg-id="MAXCro Select 10 (HR)" tvg-logo="noimage.png" group-title="FILM PREVOD", MAXCro Select 10 (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukRe49yHIjqSHwubZcp3abg/ts
+#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink.gif" group-title="Pink", Pink
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30275
 
-#EXTINF:-1 tvg-id="Nova Premium HD" tvg-logo="noimage.png" group-title="FILM PREVOD", Nova Premium HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuplCD0FI7IRf68sIgrXbtYA/ts
+#EXTINF:-1 tvg-id="pink-bih" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkbh.gif" group-title="Pink", Pink BH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/12616
 
-#EXTINF:-1 tvg-id="NOVA CINEMA" tvg-logo="noimage.png" group-title="FILM PREVOD", Nova Cinema HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuigSZPf6GEzIPf7TEbHV8kE/ts
+#EXTINF:-1 tvg-id="Pink Vesti" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkvesti.gif" group-title="Pink", Pink Vesti
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67719
 
-#EXTINF:-1 tvg-id="NOVA FAMILY" tvg-logo="noimage.png" group-title="FILM PREVOD", Nova Family HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuhDLUnBmqSu9vuqJgPHM9M/ts
+#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="Pink", Narodna TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/81555
 
-#EXTINF:-1 tvg-id="Sky GO ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Sky GO ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiHNlUNOLnFTaVulIXGKtGk/ts
+#EXTINF:-1 tvg-id="pink-film" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfilm.gif" group-title="Pink", Pink Film
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/6
 
-#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="FILM PREVOD", Sky GO 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiWPtnaI0OJid7nvlFiqID8/ts
+#EXTINF:-1 tvg-id="pink-action" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkaction.gif" group-title="Pink", Pink Action
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/150
 
-#EXTINF:-1 tvg-id="Sky GO 3" tvg-logo="noimage.png" group-title="FILM PREVOD", Sky GO 3
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurdYloDERsUrGrLhbLXa4yg/ts
+#EXTINF:-1 tvg-id="pink-classic" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkclasic.gif" group-title="Pink", Pink Classic
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1182
 
-#EXTINF:-1 tvg-id="SKY GO 4" tvg-logo="noimage.png" group-title="FILM PREVOD", SKY GO 4
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk0KSeyXvATIKajttJ3uXX4/ts
+#EXTINF:-1 tvg-id="pink-comedy" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcomedy.gif" group-title="Pink", Pink Comedy
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/42
 
-#EXTINF:-1 tvg-id="Dizi Tv" tvg-logo="noimage.png" group-title="FILM PREVOD", Dizi Tv
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuopu4BuvHKYKv8jOgmDZswo/ts
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="noimage.png" group-title="Pink", Pink Premium
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/77668
 
-#EXTINF:-1 tvg-id="Pickbox 1 (Ex-Yu)" tvg-logo="noimage.png" group-title="FILM PREVOD", Pickbox 1 (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurOQZrqARWV6jb2IYx6EFus/ts
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcrime&mystery.gif" group-title="Pink", Pink Crime & Mystery
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/110
 
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="FILM PREVOD", FilmBox Stars (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj1eKbTYMxtZlPuSXYVYiqE/ts
+#EXTINF:-1 tvg-id="pink-family" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfamily.gif" group-title="Pink", Pink Family
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/614
 
-#EXTINF:-1 tvg-id="Euro Cinema 1 HD (SN)" tvg-logo="noimage.png" group-title="FILM PREVOD", Euro Cinema 1 HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwujz3z8-LRv9BCmpzgFz7fgU/ts
+#EXTINF:-1 tvg-id="pink-horror" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhoror.gif" group-title="Pink", Pink Horror
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/108
 
-#EXTINF:-1 tvg-id="Euro Cinema 2 HD (SN)" tvg-logo="noimage.png" group-title="FILM PREVOD", Euro Cinema 2 HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurcR6_CKv_Mi5qiriuuuXVk/ts
+#EXTINF:-1 tvg-id="pink-movies" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkmovies.gif" group-title="Pink", Pink Movies
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1143
 
-#EXTINF:-1 tvg-id="Euro Cinema 3 HD (SN)" tvg-logo="noimage.png" group-title="FILM PREVOD", Euro Cinema 3 HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvKrIMAsILPnZmk5Z9iFeXY/ts
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkromance.gif" group-title="Pink", Pink Romance
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2796
 
-#EXTINF:-1 tvg-id="Euro Cinema 4 HD (SN)" tvg-logo="noimage.png" group-title="FILM PREVOD", Euro Cinema 4 HD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum8mqD1_0w5bzQ2-faBE0s0/ts
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkscifi&fantasy.gif" group-title="Pink", Pink Sci-Fi & Fantasy
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1412
 
-#EXTINF:-1 tvg-id="Box Office 1 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Box Office 1 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvI9SdDg8_pTuZBozzqScDA/ts
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkthriler.gif" group-title="Pink", Pink Thriller
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/111
 
-#EXTINF:-1 tvg-id="Box Office 2 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Box Office 2 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunTwrb_uNn_zu7-A1_bQkk8/ts
+#EXTINF:-1 tvg-id="pink-western" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkwestern.gif" group-title="Pink", Pink Western
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/49
 
-#EXTINF:-1 tvg-id="Box Office 3 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Box Office 3 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukBmxlp6LnKl5ML7kylsS6E/ts
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworldcinema.gif" group-title="Pink", Pink World Cinema
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/153
 
-#EXTINF:-1 tvg-id="Cinemacius 1 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 1 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoX3bft_E7WyboHceM8_s0w/ts
+#EXTINF:-1 tvg-id="pink-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/redtv.gif" group-title="Pink", Red TV
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37937
 
-#EXTINF:-1 tvg-id="Cinemacius 2 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 2 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujXpkzFWAutTscOjEkAiTrk/ts
+#EXTINF:-1 tvg-id="pink-plus" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink_plus.gif" group-title="Pink", Pink Plus
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35958
 
-#EXTINF:-1 tvg-id="Cinemacius 3 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 3 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum4vqEBC8NfpblHu9MrnWnc/ts
+#EXTINF:-1 tvg-id="pink-extra" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkextra.gif" group-title="Pink", Pink Extra
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1211
 
-#EXTINF:-1 tvg-id="Cinemacius 4 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 4 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup8bRtPLE6wQM_8L_mdQTuI/ts
+#EXTINF:-1 tvg-id="pink-reality" tvg-logo="http://web.izipizi1.info/pi/pink-reality.png" group-title="Pink", Pink Reality
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35
 
-#EXTINF:-1 tvg-id="Cinemacius 5 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 5 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvTi_ikxuE57LBk5_MHJtsw/ts
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkkuvar.gif" group-title="Pink", Pink Kuvar
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/43
 
-#EXTINF:-1 tvg-id="Cinemacius 6 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 6 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurY8WjM7kzNR2VZI5t9q5V0/ts
+#EXTINF:-1 tvg-id="pink-pedia" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkpedia.gif" group-title="Pink", Pink Pedia
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1140
 
-#EXTINF:-1 tvg-id="Cinemacius 7 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 7 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwui9x5TFj57FXPnEx5Qn7QVY/ts
+#EXTINF:-1 tvg-id="pink-style" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkstyle.gif" group-title="Pink", Pink Style
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1144
 
-#EXTINF:-1 tvg-id="Cinemacius 8 ᴴᴰ" tvg-logo="noimage.png" group-title="FILM PREVOD", Cinemacius 8 ᴴᴰ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupQC49dXNVpr2TGyMLNfIpQ/ts
+#EXTINF:-1 tvg-id="pink-soap" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinksoap.gif" group-title="Pink", Pink Soap
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1214
 
-#EXTINF:-1 tvg-id="TV Gora Select 1" tvg-logo="noimage.png" group-title="FILM PREVOD", TV Gora Select 1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqrpl4XCFY2Nj6u-px2Mw9U/ts
+#EXTINF:-1 tvg-id="pink-show" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkshow.gif" group-title="Pink", Pink Show
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/211
 
-#EXTINF:-1 tvg-id="TV Gora Select 2" tvg-logo="noimage.png" group-title="FILM PREVOD", TV Gora Select 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiFFGuqyehs_MomBbO2FoFg/ts
+#EXTINF:-1 tvg-id="pink-zabava" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkzabava.gif" group-title="Pink", Pink Zabava
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2795
 
-#EXTINF:-1 tvg-id="TV Gora Select 3" tvg-logo="noimage.png" group-title="FILM PREVOD", TV Gora Select 3
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqjs6j7j8bpA_FXfgJ8Ud-U/ts
+#EXTINF:-1 tvg-id="pink-world" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworld.gif" group-title="Pink", Pink World
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1142
 
-#EXTINF:-1 tvg-id="TV Gora Select 4" tvg-logo="noimage.png" group-title="FILM PREVOD", TV Gora Select 4
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutwfM4PaI974vHLUz8bWt_o/ts
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhaha.gif" group-title="Pink", Pink HA HA
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1161
 
-#EXTINF:-1 tvg-id="TV Gora Select 5" tvg-logo="noimage.png" group-title="FILM PREVOD", TV Gora Select 5
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug8RkHWo-gGNYvecK7pMakM/ts
+#EXTINF:-1 tvg-id="pink-lol" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinklol.gif" group-title="Pink", Pink LOL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2612
 
-#EXTINF:-1 tvg-id="TV Gora Select Premiere 1" tvg-logo="noimage.png" group-title="FILM PREVOD", TV Gora Select Premiere 1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqpa6UK93lDdG-NX5XUbbAY/ts
+#EXTINF:-1 tvg-id="pink-serije" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkserije.gif" group-title="Pink", Pink Serije
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/79614
 
-#EXTINF:-1 tvg-id="TV Gora Select Premiere 2" tvg-logo="noimage.png" group-title="FILM PREVOD", TV Gora Select Premiere 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoXdSq8fd-CL8pgoiAwv_nk/ts
+#EXTINF:-1 tvg-id="Bravo! Rock" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Rock
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72615
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", ======= DJECIJI Kanali =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujpK-oDd1im7CTkW6RBxIWs/ts
+#EXTINF:-1 tvg-id="Bravo! Balade" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Balade
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72616
 
-#EXTINF:-1 tvg-id="ExYu: HeyKids Av Mjau" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", ExYu: HeyKids Av Mjau
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujwaBaJz9Qs9ziH0XztRQUs/ts
+#EXTINF:-1 tvg-id="Bravo! Pop" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Pop
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72617
 
-#EXTINF:-1 tvg-id="ExYu: HeyKids Bajke" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", ExYu: HeyKids Bajke
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuv6cJBIRQHdAzMmrgVIQ9-E/ts
+#EXTINF:-1 tvg-id="Extra Fm" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Extra Fm
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71271
 
-#EXTINF:-1 tvg-id="ExYu: HeyKids Songs" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", ExYu: HeyKids Songs
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuptlkfT2o2-xDjnZIjWGQi4/ts
+#EXTINF:-1 tvg-id="Extra Fresh" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Extra Fresh
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71273
 
-#EXTINF:-1 tvg-id="Pink Panther 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Pink Panther 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhfSfY2zTRQ493s5tnA-MSs/ts
+#EXTINF:-1 tvg-id="Big Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Big Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68892
 
-#EXTINF:-1 tvg-id="BOB GRADITELJ 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", BOB GRADITELJ 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunYyAPlTVRWSYlhHTd9uZdI/ts
+#EXTINF:-1 tvg-id="Naxi  Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi  Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68905
 
-#EXTINF:-1 tvg-id="BUDIMIR 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", BUDIMIR 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuimBIgW7k9WCqug5ybpz_IE/ts
+#EXTINF:-1 tvg-id="Naxi Slager Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Slager Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69337
 
-#EXTINF:-1 tvg-id="OBITELJ KREMENKO 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", OBITELJ KREMENKO 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuT_40Ve1sceYdaXBaiDKsM/ts
+#EXTINF:-1 tvg-id="Naxi Boem Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Boem Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69338
 
-#EXTINF:-1 tvg-id="PROFESOR BALTAZAR 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", PROFESOR BALTAZAR 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuk_A5i-UYugvEfzC1iZIQbY/ts
+#EXTINF:-1 tvg-id="Naxi Ex-Yu Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Ex-Yu Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69340
 
-#EXTINF:-1 tvg-id="MALI LETECI MEDVEDICI 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", MALI LETECI MEDVEDICI 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo5BEQd_fpo6hC9JWw4UbAU/ts
+#EXTINF:-1 tvg-id="Radio Valentino" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Valentino
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/63461
 
-#EXTINF:-1 tvg-id="TOM & JERRY 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", TOM & JERRY 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhR2hBFqOYjbN1bdeGfAyMY/ts
+#EXTINF:-1 tvg-id="RSG-radio stari grad" tvg-logo="http://repo.ottshow.net/slika/xr2kory8DLaw.gif" group-title="Radio", RSG-radio stari grad
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21880
 
-#EXTINF:-1 tvg-id="PCELICA MAJA 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", PCELICA MAJA 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwukg2-QiEgaut98TqYEej6SA/ts
+#EXTINF:-1 tvg-id="BH Radio" tvg-logo="http://repo.ottshow.net/slika/344iFox4Snfa.gif" group-title="Radio", BH Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21881
 
-#EXTINF:-1 tvg-id="MIKI MOUSE 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", MIKI MOUSE 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo4pLmcTq0BgeSieQ9Bg8Dw/ts
+#EXTINF:-1 tvg-id="Radio FBiH" tvg-logo="http://repo.ottshow.net/slika/syN6UTktNwV9.gif" group-title="Radio", Radio FBiH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21882
 
-#EXTINF:-1 tvg-id="PEPA PRASE 24/7" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", PEPA PRASE 24/7
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvzbFGCyx8nqhT8imEVlc3U/ts
+#EXTINF:-1 tvg-id="Kalman radio-Narodni radio" tvg-logo="http://repo.ottshow.net/slika/L9GmsH3x8IIk.gif" group-title="Radio", Kalman radio-Narodni radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20704
 
-#EXTINF:-1 tvg-id="BabyTV" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Baby TV (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugVRJvjebME2uo2-mzDIG78/ts
+#EXTINF:-1 tvg-id="Antena radio jelah" tvg-logo="http://repo.ottshow.net/slika/2sW2kPtCFDCP.gif" group-title="Radio", Antena radio jelah
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21879
 
-#EXTINF:-1 tvg-id="rtlkockica.hr" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", RTL Kockica (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwupn-2__LZE44Fcu2onNcdYY/ts
+#EXTINF:-1 tvg-id="Radio Avaz" tvg-logo="http://repo.ottshow.net/slika/L9oEm6S1XdIU.gif" group-title="Radio", Radio Avaz
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2534
 
-#EXTINF:-1 tvg-id="HAYATOVCI" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Hayatovci (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhqLcg3aHax6k9ZCgjo5F2U/ts
+#EXTINF:-1 tvg-id="BN Radio" tvg-logo="http://repo.ottshow.net/slika/hvvpOXEWqR4I.gif" group-title="Radio", BN Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2527
 
-#EXTINF:-1 tvg-id="disneychannel.rs" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Disney Channel (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwut4RC8_5imoJB4CN0vVrOEg/ts
+#EXTINF:-1 tvg-id="Radio Nostalgija" tvg-logo="http://repo.ottshow.net/slika/UYWPzygiJvXB.gif" group-title="Radio", Radio Nostalgija
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2528
 
-#EXTINF:-1 tvg-id="Pikaboo HD" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Pikaboo (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwui7ArTPHa4IsQnHRLJ-on3I/ts
+#EXTINF:-1 tvg-id="Radio-VAL" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio-VAL
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/59382
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Cartoon Network (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum3Gx4J12JHzhlYPrzO4g5E/ts
+#EXTINF:-1 tvg-id="Radio Blato" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Blato
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/49322
 
-#EXTINF:-1 tvg-id="Masa I Medvjed (HR)" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Masa I Medvjed (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj6dbWoPhQEnq4Qo4oMR0SI/ts
+#EXTINF:-1 tvg-id="Radio Korcula" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Korcula
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/59383
 
-#EXTINF:-1 tvg-id="MINI TV" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Mini TV (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup3x_SI36AQ0lhUI2lbFT5U/ts
+#EXTINF:-1 tvg-id="Narodni radio HR" tvg-logo="http://repo.ottshow.net/slika/8TvPbr1KwFmB.gif" group-title="Radio", Narodni radio HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20719
 
-#EXTINF:-1 tvg-id="Jim Jam" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Jim Jam (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuulAn4flbQFcDF1DBUNW7LY/ts
+#EXTINF:-1 tvg-id="Radio Split" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Split
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/59384
 
-#EXTINF:-1 tvg-id="Minimax" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Minimax (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqO84CsuWUK9khVgjkzX4p8/ts
+#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="http://repo.ottshow.net/slika/WINMwlYCZGu0.gif" group-title="Radio", HRT HR 1
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15282
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Nickelodeon (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutSTNwp1Q2_2rhJbNHptjls/ts
+#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="http://repo.ottshow.net/slika/5ToHhYxpSB0Y.gif" group-title="Radio", HRT HR 2
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15281
 
-#EXTINF:-1 tvg-id="Nickelodeon hrvatski_max" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Nickelodeon (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupQPISVcKQx0nx2XhjZT1xE/ts
+#EXTINF:-1 tvg-id="Radio Dalmacija" tvg-logo="http://repo.ottshow.net/slika/KSLq9kB583VU.gif" group-title="Radio", Radio Dalmacija
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20720
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Nick Jr (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutXBdbkQjSf2v-6ybtXpEjM/ts
+#EXTINF:-1 tvg-id="Hit Radio" tvg-logo="http://repo.ottshow.net/slika/oBNGskggCQs7.gif" group-title="Radio", Hit Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2530
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Nick Jr (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunYtAcPHuJgOhpJR-Z-h9lI/ts
+#EXTINF:-1 tvg-id="Radio Sevdah" tvg-logo="http://repo.ottshow.net/slika/YjUTXp68M01M.gif" group-title="Radio", Radio Sevdah
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2535
 
-#EXTINF:-1 tvg-id="Nicktoons (SR)" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Nicktoons (SR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurOgSbg_0tBg1dOA76wI79E/ts
+#EXTINF:-1 tvg-id="Radio Gold" tvg-logo="http://repo.ottshow.net/slika/3BYdixSDJVRT.gif" group-title="Radio", Radio Gold
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2633
 
-#EXTINF:-1 tvg-id="Pink super kids" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Pink Super Kids (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugMH31xfy0w9KNoHtSRL70w/ts
+#EXTINF:-1 tvg-id="Radio Marija BH" tvg-logo="http://repo.ottshow.net/slika/TSUYBFsL2ZDu.gif" group-title="Radio", Radio Marija BH
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3735
 
-#EXTINF:-1 tvg-id="24kitchen.si" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", TNT Kids (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutyaashBccuzm45Po4rZUTQ/ts
+#EXTINF:-1 tvg-id="OK Radio" tvg-logo="http://repo.ottshow.net/slika/0pLmNukBKWB7.gif" group-title="Radio", OK Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9141
 
-#EXTINF:-1 tvg-id="BOOMSKY" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Boomerang (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwup5xyu5hSvJjFy3iZ9xwjMY/ts
+#EXTINF:-1 tvg-id="Rovinj FM" tvg-logo="http://repo.ottshow.net/slika/YnAvsnhHtJRW.gif" group-title="Radio", Rovinj FM
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15211
 
-#EXTINF:-1 tvg-id="CNGRM" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Cartoon Network (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujBRMc5zUYdf-YkxmIoZxE0/ts
+#EXTINF:-1 tvg-id="Radio Vrbovec 94.5" tvg-logo="http://repo.ottshow.net/slika/yBECbKVjNaGe.gif" group-title="Radio", Radio Vrbovec 94.5
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15215
 
-#EXTINF:-1 tvg-id="NICKDEU" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Nickelodeon (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhEDVkx7MlDT_LxkYvHr8bY/ts
+#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="http://repo.ottshow.net/slika/PQ3QVitJf8wq.gif" group-title="Radio", Radio Sunce
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15219
 
-#EXTINF:-1 tvg-id="DISNG" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Disney Channel HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutabPauRODHFKxrUOGiFtiM/ts
+#EXTINF:-1 tvg-id="Radio Quirinus 91.7" tvg-logo="http://repo.ottshow.net/slika/FW0MtZSR8Cbh.gif" group-title="Radio", Radio Quirinus 91.7
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15226
 
-#EXTINF:-1 tvg-id="Dexy TV" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", DEXY TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuheQeI9A5Wg9CCefkNsr5Hc/ts
+#EXTINF:-1 tvg-id="Radio Ogulin" tvg-logo="http://repo.ottshow.net/slika/PQzbNzPYBFMS.gif" group-title="Radio", Radio Ogulin
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15228
 
-#EXTINF:-1 tvg-id="TOGPLUS" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Toggo Plus HD (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqsz1RwTNk4vwFoA0QK9Tlg/ts
+#EXTINF:-1 tvg-id="Radio Moslavina" tvg-logo="http://repo.ottshow.net/slika/Sdad8zh5bC5i.gif" group-title="Radio", Radio Moslavina
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15231
 
-#EXTINF:-1 tvg-id="DISNG" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Disney Channel (DE)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuvj5ynyk72l8HXk4fPocyPg/ts
+#EXTINF:-1 tvg-id="Radio Martin" tvg-logo="http://repo.ottshow.net/slika/5PT18pUvG71J.gif" group-title="Radio", Radio Martin
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15233
 
-#EXTINF:-1 tvg-id="KIKAGH" tvg-logo="noimage.png" group-title="DJECIJI PROGRAMI", Decija Zona
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwutdb1JQsuOiEbbWSiysCqtI/ts
+#EXTINF:-1 tvg-id="Radio Mir Medugorje" tvg-logo="http://repo.ottshow.net/slika/PqPntQtstCPA.gif" group-title="Radio", Radio Mir Medugorje
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15234
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", =======  DOKUMENTARNI  =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuu4HXhEKzbKQCpMK9wI5btM/ts
+#EXTINF:-1 tvg-id="Radio Kaj" tvg-logo="http://repo.ottshow.net/slika/uxZRrFc6GzP5.gif" group-title="Radio", Radio Kaj
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15239
 
-#EXTINF:-1 tvg-id="animalplanet.hr" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Animal Planet HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuln0uNCSpfcaiMBmw4rjiDU/ts
+#EXTINF:-1 tvg-id="Radio Deejay HR" tvg-logo="http://repo.ottshow.net/slika/IwoP7d9hPO4I.gif" group-title="Radio", Radio Deejay HR
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15242
 
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", 24 Kitchen (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwurq4gPUHPMDnTo_6Lz93gtA/ts
+#EXTINF:-1 tvg-id="Radio Banovina" tvg-logo="http://repo.ottshow.net/slika/W3geWzgS5QsG.gif" group-title="Radio", Radio Banovina
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15245
 
-#EXTINF:-1 tvg-id="tlc.hr" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", TLC Balkans (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugQG6wM7J-d4InPy0jn8HfE/ts
+#EXTINF:-1 tvg-id="Radio 101 FM" tvg-logo="http://repo.ottshow.net/slika/P0V4s7bwNJIn.gif" group-title="Radio", Radio 101 FM
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15249
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Discovery Channel (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuobyyNzPA9zZ0oaQAfzsK1w/ts
+#EXTINF:-1 tvg-id="Radio 057" tvg-logo="http://repo.ottshow.net/slika/5DBStAk3GUEK.gif" group-title="Radio", Radio 057
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15251
 
-#EXTINF:-1 tvg-id="ID" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", ID Discovery - Investigation Discovery HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj08dtQpjuvp45Qbhi1WEoA/ts
+#EXTINF:-1 tvg-id="Obiteljski Radio Ivanic" tvg-logo="http://repo.ottshow.net/slika/EwrTaJV4ran7.gif" group-title="Radio", Obiteljski Radio Ivanic
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15255
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Discovery Science (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvwHbILtBpcqRF8-3BrMYW8/ts
+#EXTINF:-1 tvg-id="Novi Radio Zadar" tvg-logo="http://repo.ottshow.net/slika/mRBcFbczjJUs.gif" group-title="Radio", Novi Radio Zadar
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15256
 
-#EXTINF:-1 tvg-id="DOX TV" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", DOX TV (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupPYdDQJ4Gh2oM2EYH7bWWY/ts
+#EXTINF:-1 tvg-id="KLFM.ORG" tvg-logo="http://repo.ottshow.net/slika/6KNTFvnmmMbt.gif" group-title="Radio", KLFM.ORG
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15265
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", National Geographic Channel HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum5pv4zuLgIKYhKpu9aWLkc/ts
+#EXTINF:-1 tvg-id="KLFM" tvg-logo="http://repo.ottshow.net/slika/NrntXJeKkXsh.gif" group-title="Radio", KLFM
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15266
 
-#EXTINF:-1 tvg-id="natgeowild.rs" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", National Geographic Wild HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwunojud1w2Q7RTs3x9qaQqpo/ts
+#EXTINF:-1 tvg-id="Hit Rado Sinj" tvg-logo="http://repo.ottshow.net/slika/liHKpP7MTOFz.gif" group-title="Radio", Hit Rado Sinj
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15285
 
-#EXTINF:-1 tvg-id="HTV1" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Crime Investigation (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusGfhTmHJla3bsPhZOoOrhw/ts
+#EXTINF:-1 tvg-id="Gold FM Uzivo" tvg-logo="http://repo.ottshow.net/slika/Iy1UQ2JbDpvL.gif" group-title="Radio", Gold FM Uzivo
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15286
 
-#EXTINF:-1 tvg-id="historychannelhd.hr" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", History HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujEPnnfwZywxOqHNN_dN4F0/ts
+#EXTINF:-1 tvg-id="Gold FM" tvg-logo="http://repo.ottshow.net/slika/pzk3I8jsWA2f.gif" group-title="Radio", Gold FM
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15287
 
-#EXTINF:-1 tvg-id="HISTORY" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", History Channel HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhTXs4liT9PcmAgEMs5WDzw/ts
+#EXTINF:-1 tvg-id="ENTER Zagreb" tvg-logo="http://repo.ottshow.net/slika/4Dps4411d8gs.gif" group-title="Radio", ENTER Zagreb
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15289
 
-#EXTINF:-1 tvg-id="History 2 HD" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", History Channel 2 HD (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusNvl_JfZO9HdABDXdDPStE/ts
+#EXTINF:-1 tvg-id="City-radio 88.6" tvg-logo="http://repo.ottshow.net/slika/eZtvYAjDvk2U.gif" group-title="Radio", City-radio 88.6
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15310
 
-#EXTINF:-1 tvg-id="Lov i Ribolov" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Lov I Ribolov (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoFlqBPqKs8KrKtUT1Tv61Y/ts
+#EXTINF:-1 tvg-id="Antena Zagreb Uživo" tvg-logo="http://repo.ottshow.net/slika/vIJ5tfiybx1d.gif" group-title="Radio", Antena Zagreb Uživo
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15313
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", HGTV
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuoh45XRhE0tyuf64TFF_LFA/ts
+#EXTINF:-1 tvg-id="Cool Radio" tvg-logo="http://repo.ottshow.net/slika/63U52lklxUZG.gif" group-title="Radio", Cool Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20702
 
-#EXTINF:-1 tvg-id="Viasat Explore" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Viasat Explorer (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugdtKrw7ueNGDCen5dKNRWU/ts
+#EXTINF:-1 tvg-id="Kitt Radio Wien 23" tvg-logo="http://repo.ottshow.net/slika/fJj96IhKCfCu.gif" group-title="Radio", Kitt Radio Wien 23
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20705
 
-#EXTINF:-1 tvg-id="Viasat History" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Viasat History (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun3ryDSIUxNKqpwHP61bC2U/ts
+#EXTINF:-1 tvg-id="Radio DJ Sultan M" tvg-logo="http://repo.ottshow.net/slika/dsCE2b8cB1mW.gif" group-title="Radio", Radio DJ Sultan M
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20706
 
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Viasat Nature (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukOvX9d4JNmIz47CmHR8rrg/ts
+#EXTINF:-1 tvg-id="RADIO HIT Merak" tvg-logo="http://repo.ottshow.net/slika/QZjs7c9rDxQY.gif" group-title="Radio", RADIO HIT Merak
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20707
 
-#EXTINF:-1 tvg-id="EANZ" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", E! / Entertainment (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvzVxJPLBjejVShuif3CAfk/ts
+#EXTINF:-1 tvg-id="Radio BIR Bosna" tvg-logo="http://repo.ottshow.net/slika/OjlLXGjCbsHH.gif" group-title="Radio", Radio BIR Bosna
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20708
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", BBC Earth (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuuw85Rv91xK_ADu5w4whfKA/ts
+#EXTINF:-1 tvg-id="Vip zvuci rodnog kraja" tvg-logo="http://repo.ottshow.net/slika/DvBIds2N8GyY.gif" group-title="Radio", Vip zvuci rodnog kraja
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20710
 
-#EXTINF:-1 tvg-id="DA VINCI" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Da Vinci Learning (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhDnYdlJw8XURgy64FsS6Ag/ts
+#EXTINF:-1 tvg-id="Antena Radio Krusevac" tvg-logo="http://repo.ottshow.net/slika/C1ENeA4PZgom.gif" group-title="Radio", Antena Radio Krusevac
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20711
 
-#EXTINF:-1 tvg-id="foodnetwork.hr" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Food Network (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumGY5KeUMjs_gtknltZmDJk/ts
+#EXTINF:-1 tvg-id="Civijas Radio Sabac" tvg-logo="http://repo.ottshow.net/slika/MtsVx6JWSk0L.gif" group-title="Radio", Civijas Radio Sabac
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20712
 
-#EXTINF:-1 tvg-id="Fashion" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Fashion TV 4k (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwus7hMsjaTpG6-Cc1GMHsxHM/ts
+#EXTINF:-1 tvg-id="Otvorena Mreza Sarajavo" tvg-logo="http://repo.ottshow.net/slika/VOhv4YkoT5g8.gif" group-title="Radio", Otvorena Mreza Sarajavo
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20718
 
-#EXTINF:-1 tvg-id="travelchannel.rs" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Travel Channel (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuus4YU19kvIgZshB3xquAFw/ts
+#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="http://repo.ottshow.net/slika/aLVYroXYfbKI.gif" group-title="Radio", Radio Posavina
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/36344
 
-#EXTINF:-1 tvg-id="DTX" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", DTX Discovery Turbo Extra (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuRbedqe1ZGmgv3KyR2QZD8/ts
+#EXTINF:-1 tvg-id="CER (SABAC)" tvg-logo="http://repo.ottshow.net/slika/429gF5wZPOdH" group-title="Radio", CER (SABAC)
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/38433
 
-#EXTINF:-1 tvg-id="Balkan Trip" tvg-logo="noimage.png" group-title="DOKUMENTARNI PREVOD", Balkan Trip (Ex-Yu)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoqjN52a8BaKUEo9fWpkhXk/ts
+#EXTINF:-1 tvg-id="Radio S Juzni" tvg-logo="http://repo.ottshow.net/slika/bh0Z0PYgSFAl" group-title="Radio", Radio S Juzni
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/38538
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUZIKA", =======  MUZIKA  =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukPYjLO5suMbnyUhuaWWm4E/ts
+#EXTINF:-1 tvg-id="Naxi Latino" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Latino
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69328
 
-#EXTINF:-1 tvg-id="IDJTV" tvg-logo="noimage.png" group-title="MUZIKA", IDJ TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvEtmFMSii58ogWt1j88NYQ/ts
+#EXTINF:-1 tvg-id="Naxi Cafe Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Cafe Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69329
 
-#EXTINF:-1 tvg-id="Hype TV" tvg-logo="noimage.png" group-title="MUZIKA", HYPE TV
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuknlcwpWeMzmfIx4mJSTk5c/ts
+#EXTINF:-1 tvg-id="Naxi 80E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 80E Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69330
 
-#EXTINF:-1 tvg-id="IMPERIA TV" tvg-logo="noimage.png" group-title="MUZIKA", IMPERIA TV
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuj3tZLBkZu0eBJuR4g1PRmA/ts
+#EXTINF:-1 tvg-id="Naxi Dance Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Dance Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69331
 
-#EXTINF:-1 tvg-id="Toxic TV" tvg-logo="noimage.png" group-title="MUZIKA", X Toxic TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutsjnJTg4uNlgZMLdZfekak/ts
+#EXTINF:-1 tvg-id="Naxi 90E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 90E Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69332
 
-#EXTINF:-1 tvg-id="Toxic Rap" tvg-logo="noimage.png" group-title="MUZIKA", X Toxic Rap (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutQuDWuaatjbzK4_s6h5VnY/ts
+#EXTINF:-1 tvg-id="Naxi Love Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Love Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69333
 
-#EXTINF:-1 tvg-id="Toxic Folk" tvg-logo="noimage.png" group-title="MUZIKA", X Toxic FOLK (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuXFu0Te0KokW0Wn8cfLSmM/ts
+#EXTINF:-1 tvg-id="Naxi Jaaz radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Jaaz radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69334
 
-#EXTINF:-1 tvg-id="Uzivoteka (RS)" tvg-logo="noimage.png" group-title="MUZIKA", Uzivoteka (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuizvdIdygrd0moe-VkMYtHg/ts
+#EXTINF:-1 tvg-id="Naxi 70E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 70E Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69335
 
-#EXTINF:-1 tvg-id="UZIVOTEKA 2 (RS)" tvg-logo="noimage.png" group-title="MUZIKA", UZIVOTEKA 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumN1RqIeGowbgZYCLHA6RQI/ts
+#EXTINF:-1 tvg-id="Naxi Classic Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Classic Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69336
 
-#EXTINF:-1 tvg-id="Kafansko Vece OTV Valentino (BIH)" tvg-logo="noimage.png" group-title="MUZIKA", Kafansko Vece OTV Valentino (BIH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurlNpdS1VIGzEj3PJaq3xGk/ts
+#EXTINF:-1 tvg-id="Naxi Rock Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Rock Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69341
 
-#EXTINF:-1 tvg-id="grand.rs" tvg-logo="noimage.png" group-title="MUZIKA", Grand TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujlmUgbuPWJLfPfzGcY3jMI/ts
+#EXTINF:-1 tvg-id="Radio Feral" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Feral
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/76741
 
-#EXTINF:-1 tvg-id="grand2.rs" tvg-logo="noimage.png" group-title="MUZIKA", Grand TV 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiIqQyhdS7FMnEvnqh0H9vk/ts
+#EXTINF:-1 tvg-id="Radio Glas Drine" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Glas Drine
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/76742
 
-#EXTINF:-1 tvg-id="DM Sat (RS)" tvg-logo="noimage.png" group-title="MUZIKA", DM Sat (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuvl7TpbMvWXPLhVsDGedDYE/ts
+#EXTINF:-1 tvg-id="Buban Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Buban Radio
+http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/82901
 
-#EXTINF:-1 tvg-id="mtvadria.hr" tvg-logo="noimage.png" group-title="MUZIKA", MTV Adria
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun_karCx5UUuSpVlOEuwNSs/ts
 
-#EXTINF:-1 tvg-id="MTV Dance International" tvg-logo="noimage.png" group-title="MUZIKA", MTV Club
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujOQRbbjaWQOvlpiS8WA064/ts
 
-#EXTINF:-1 tvg-id="HTV1" tvg-logo="noimage.png" group-title="MUZIKA", MTV Hits
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunrKkn916If3LjwaG4hzHEo/ts
 
-#EXTINF:-1 tvg-id="Hayat Folk (BiH)" tvg-logo="noimage.png" group-title="MUZIKA", Hayat Folk (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukTwF0kLd91kd9l-WN2jdRU/ts
-
-#EXTINF:-1 tvg-id="HAYAT MUSIC" tvg-logo="noimage.png" group-title="MUZIKA", Hayat Music (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusOSXrs_kdhiA0Fpn_pqB3k/ts
-
-#EXTINF:-1 tvg-id="MTV 90s (MTV Rocks) (SR)" tvg-logo="noimage.png" group-title="MUZIKA", MTV 90s
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuq3f-5-JF1AaNfopBBiK4Rk/ts
-
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="noimage.png" group-title="MUZIKA", MTV 00s
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurLwcd_wSCl7gKLlNiWhzio/ts
-
-#EXTINF:-1 tvg-id="MTV Live HD (SR)" tvg-logo="noimage.png" group-title="MUZIKA", MTV Live
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo_DY4KjO4ldxAPpxi5F1-w/ts
-
-#EXTINF:-1 tvg-id="24kitchen.si" tvg-logo="noimage.png" group-title="MUZIKA", M6 Music
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwus3C1cIGy5GM4VZ2Y4O6DB0/ts
-
-#EXTINF:-1 tvg-id="Pink Music 1 (RS)" tvg-logo="noimage.png" group-title="MUZIKA", Pink Music 1 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuu2zrMj7b_a59pFknbXzF7s/ts
-
-#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="noimage.png" group-title="MUZIKA", Pink Music 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoTT-dKvNp3nYkommwExpIg/ts
-
-#EXTINF:-1 tvg-id="Pink Folk 1 (RS)" tvg-logo="noimage.png" group-title="MUZIKA", Pink Folk 1 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunYmi0Qt6QzdQwMUxCP3pmw/ts
-
-#EXTINF:-1 tvg-id="Pink Folk 2 (RS)" tvg-logo="noimage.png" group-title="MUZIKA", Pink Folk 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwul5qBNY8KpwE66x11zFWWug/ts
-
-#EXTINF:-1 tvg-id="PINK&ROLL (SN)" tvg-logo="noimage.png" group-title="MUZIKA", Pink&Roll (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusCgMIQN2y9idhdUMWhKWRE/ts
-
-#EXTINF:-1 tvg-id="Pink Hits (SR)" tvg-logo="noimage.png" group-title="MUZIKA", Pink Hits (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutH74y41v4p4RTfzyaNSeAk/ts
-
-#EXTINF:-1 tvg-id="Pink Hits 2" tvg-logo="noimage.png" group-title="MUZIKA", Pink Hits 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunJR3XtEYVyuvYariibLGDs/ts
-
-#EXTINF:-1 tvg-id="Bravo Music" tvg-logo="noimage.png" group-title="MUZIKA", BRAVO Music (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqlcHdKkvaZeVVyHJttG3pg/ts
-
-#EXTINF:-1 tvg-id="YU Planet (RS)" tvg-logo="noimage.png" group-title="MUZIKA", YU Planet (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuqn5z9yGpu6Lu6309zs9Aqg/ts
-
-#EXTINF:-1 tvg-id="BN Music (BiH)" tvg-logo="noimage.png" group-title="MUZIKA", BN Music (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwutcqd9onuyhU9dPkPQsasHE/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="MUZIKA", CMC - Croatian Music Channel (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwurU3BavNiOrVyJ4ehm5N9Uw/ts
-
-#EXTINF:-1 tvg-id="kcn1.rs" tvg-logo="noimage.png" group-title="MUZIKA", KCN (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwun3TNTOfNv9MRVmup2uHUSs/ts
-
-#EXTINF:-1 tvg-id="kcn2music.rs" tvg-logo="noimage.png" group-title="MUZIKA", KCN 2 / KCN Music (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumfzChvqQiBZflNmh1a3bWk/ts
-
-#EXTINF:-1 tvg-id="kcn3svetplus.rs" tvg-logo="noimage.png" group-title="MUZIKA", KCN 3 / KCN Music 2 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulW4889Zll5r8tX-L7tqixc/ts
-
-#EXTINF:-1 tvg-id="rtsmuzika.rs" tvg-logo="noimage.png" group-title="MUZIKA", RTS Muzika (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum2-FcKFv4PJUNVG-0oC8Bs/ts
-
-#EXTINF:-1 tvg-id="sevdahtv" tvg-logo="noimage.png" group-title="MUZIKA", Sevdah TV (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwul6zOLYjsT2jfT9_kH7lMec/ts
-
-#EXTINF:-1 tvg-id="otvvalentino.ba" tvg-logo="noimage.png" group-title="MUZIKA", OTV Valentino (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuZcGzOrapGIG1cO4dgZDiI/ts
-
-#EXTINF:-1 tvg-id="valentinoetno.ba" tvg-logo="noimage.png" group-title="MUZIKA", OTV Valentino Etno (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupisE-poSs69VOTqsUoc70Y/ts
-
-#EXTINF:-1 tvg-id="HAYAT FOLK" tvg-logo="noimage.png" group-title="MUZIKA", O Kanal Music (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwugq85-P3d1mY3xvWpAt7F1Q/ts
-
-#EXTINF:-1 tvg-id="JUGOTON" tvg-logo="noimage.png" group-title="MUZIKA", Jugoton TV (HR)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukjhPcIiaFBPRkSabRT7xrQ/ts
-
-#EXTINF:-1 tvg-id="dugatv" tvg-logo="noimage.png" group-title="MUZIKA", TV Duga + (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvRoqRhB4RY3WgtWqMlwvZo/ts
-
-#EXTINF:-1 tvg-id="Balkanika TV (RS)" tvg-logo="noimage.png" group-title="MUZIKA", Balkanika TV (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusXxgKZM22lG4J5v2ZHw5KQ/ts
-
-#EXTINF:-1 tvg-id="TV Sehara (BiH)" tvg-logo="noimage.png" group-title="MUZIKA", TV Sehara (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvwDm3XZPoiE_AT2yDBchjM/ts
-
-#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="noimage.png" group-title="MUZIKA", Izvorna TV (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulWENpC_0VHJ2KH_UsrTbnQ/ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PINK MEDIA", =======  PINKOVI  =======
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuRcu0qSaCJKoCQLNI8IGRg/ts
-
-#EXTINF:-1 tvg-id="Pink HD" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink 1 (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum3Oq96Kn6yNLZrgGfc6kq8/ts
-
-#EXTINF:-1 tvg-id="Pink HD" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink 1 (RS) L2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvpI7o0DdziJNOrX_Kyw7tw/ts
-
-#EXTINF:-1 tvg-id="RED TV (Pink 2 HD)" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink 2 (RED TV) (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiazJ1RlT9lvuGYtr9YDs8o/ts
-
-#EXTINF:-1 tvg-id="Vesti HD (Pink 3 info)" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink 3 Info - VESTI (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo3hXJopnQgnsrj8zw3lEl8/ts
-
-#EXTINF:-1 tvg-id="Pink Action" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Action (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukIRmKf-tVlKpVb7Hj0GAMc/ts
-
-#EXTINF:-1 tvg-id="pinkbh.rs" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink BH (BiH)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukhH7Y7VwsNNaM-C-egPD3o/ts
-
-#EXTINF:-1 tvg-id="Narodna TV (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", Narodna TV
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuneZmHXX8YCD3CoVADFuoCY/ts
-
-#EXTINF:-1 tvg-id="HTV1" tvg-logo="noimage.png" group-title="PINK MEDIA", Zadruga Live (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiUxdxE7c0VvMurTNXNoYJE/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", ZADRUGA 1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumPbY-S3z1xCvKZnyDbxHOs/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", ZADRUGA 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvgEv0jTxlKCX3fDkZSxtRY/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", ZADRUGA 3
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwum33f11FskQ9QMcRXW63wGs/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", ZADRUGA 4
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwumfd2PIP-hybnF14xuFVCLg/ts
-
-#EXTINF:-1 tvg-id="Pink Sci-Fi/Fantasy" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink SciFi Fantasy (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuv9jCnz4gURx1SRmehlYg7U/ts
-
-#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Romance (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqsHafS6_WDZugJkixkvlC4/ts
-
-#EXTINF:-1 tvg-id="PINKRLY" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Reality (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulKtRWCFBrLmt9TdQu9Pg70/ts
-
-#EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Premium (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuknQZ-m9TRREQu9TbNEAKTQ/ts
-
-#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Kuvar (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh5k5OyHlftblLfENNBtOTs/ts
-
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Pedia (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhXZm8nZqxiP1-cwG5OIv-A/ts
-
-#EXTINF:-1 tvg-id="Pink Crime & Mystery" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Crime&Mystery (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujBcKT1SV4tseaRqXx1nh8c/ts
-
-#EXTINF:-1 tvg-id="PINKXRA" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Extra (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulJL5L_zA4l1376WVeDVnaI/ts
-
-#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Horror (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvsqD3PlkYLFMG-K6HpXZ6w/ts
-
-#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Thriller (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwul3zmV7jqaqlue3FA-s_4go/ts
-
-#EXTINF:-1 tvg-id="Pink Style" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Style (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuhUaDjJUcVh5Ah7kfcIvfw/ts
-
-#EXTINF:-1 tvg-id="PINKFLM" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Film (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoKipSq6635mkFEGOVU9ghA/ts
-
-#EXTINF:-1 tvg-id="Pink Family" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Family (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwujohpesuL96Ku_Z7l1-wF6Y/ts
-
-#EXTINF:-1 tvg-id="PINKSER" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Serije (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhxCbVS8UnjRU8f9xD4XR74/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Show (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqexKUFSGWZqGdMuVxbqbGU/ts
-
-#EXTINF:-1 tvg-id="Pink Soap" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Soap (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwunBTflhlF1M5FUHbP1fO9po/ts
-
-#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Zabava (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuiaz-LTFD0grv5sX_vozu3U/ts
-
-#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Classic (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiGj6parpIDhw8I4XzZ-1dM/ts
-
-#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Comedy (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuuw_ISOQiDnnkXPdO-BQPSo/ts
-
-#EXTINF:-1 tvg-id="pinkhaha.rs" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink HaHa (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhW7TXRvYXVAC-tLfLwDidM/ts
-
-#EXTINF:-1 tvg-id="Lol" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink LoL (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuv_JkkjubA6NgGvu66FgvTM/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Plus (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuwCg43tCBC9GOm0Zbf20K4/ts
-
-#EXTINF:-1 tvg-id="Pink Fashion" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Fashion (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumOaxashnWTMlsuhe3cAM4U/ts
-
-#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Movies (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwur1KzuAAMVSgszQtdLIC9bc/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink World (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwupXOQZ4DYHcXPZgiHh26B1Q/ts
-
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink World Cinema (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiXDgItrEULRwCeLLxxSAEM/ts
-
-#EXTINF:-1 tvg-id="Pink Western" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Western (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuot6TNEyjbJWJf5J5fcxPnA/ts
-
-#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Kids (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuMoVobv4xI8beqiQSmZZsQ/ts
-
-#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="noimage.png" group-title="PINK MEDIA", Pink Koncert (RS)
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwus8EPgOwc8frzvqgDgL9tCk/ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="RADIO STANICE", === RADIO STANICE ===
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuisO9wnaEOpLxyyRKfnUojs/ts
-
-#EXTINF:-1 tvg-id="OK RADIO BEOGRAD" tvg-logo="noimage.png" group-title="RADIO STANICE", OK RADIO BEOGRAD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuiUBQY8ku8vp8j2tz-K4_8/ts
-
-#EXTINF:-1 tvg-id="RADIO ZADAR" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO ZADAR
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuskSGvE2VPIJrohVQF0l9Qg/ts
-
-#EXTINF:-1 tvg-id="RADIO VALENTINO BIJELA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO VALENTINO BIJELA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwumRvA6gAk1ZNnQl6M1EMLYE/ts
-
-#EXTINF:-1 tvg-id="RADIO USORA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO USORA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusLUA5PotATkMloEf0fRUxI/ts
-
-#EXTINF:-1 tvg-id="RADIO TDI" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO TDI
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukB_lH3xt6bio_ynfdA8R-g/ts
-
-#EXTINF:-1 tvg-id="RADIO STUDIO M" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO STUDIO M
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutmHzYENfc40LlBXB813_JY/ts
-
-#EXTINF:-1 tvg-id="RADIO SPLIT" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO SPLIT
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoSFYmMoJeeccl-iOWJaA5U/ts
-
-#EXTINF:-1 tvg-id="RADIO SLOBOMIR" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO SLOBOMIR
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoYOVT6OujSmm8X_o-wYOaU/ts
-
-#EXTINF:-1 tvg-id="COOL Radio" tvg-logo="noimage.png" group-title="RADIO STANICE", COOL Radio
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoVJFop2c8FZD-UvFkriRyk/ts
-
-#EXTINF:-1 tvg-id="RADIO SKALA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO SKALA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugJOlfjRZkvRVup8FyfC70M/ts
-
-#EXTINF:-1 tvg-id="RADIO SEHARA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO SEHARA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuocltXXmvw8dJVUTst082HQ/ts
-
-#EXTINF:-1 tvg-id="RADIO S4 BEOGRAD" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO S4 BEOGRAD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiyJnfCaqsNmnyXU2angbfg/ts
-
-#EXTINF:-1 tvg-id="RADIO S3 BEOGRAD" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO S3 BEOGRAD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwugFq6ccogTaW07FoprHe4O0/ts
-
-#EXTINF:-1 tvg-id="RADIO S1" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO S1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulR9cAh06sEYimh0QsCvv-k/ts
-
-#EXTINF:-1 tvg-id="RADIO REFREF" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO REFREF
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuqfW1jC8Y29VTus9DjLQ2jg/ts
-
-#EXTINF:-1 tvg-id="RADIO PINK INTERNATIONAL" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO PINK INTERNATIONAL
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuslSq_XJYxmqxFu2ztY8IC0/ts
-
-#EXTINF:-1 tvg-id="RADIO QURAN" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO QURAN
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuntlIIDSFAaFIU_n5K4vrKA/ts
-
-#EXTINF:-1 tvg-id="RADIO ORASJE" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO ORASJE
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutZud1iXbxe4mPxrPhawBDA/ts
-
-#EXTINF:-1 tvg-id="RADIO NOSTALGIJA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO NOSTALGIJA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoJ1WJTyp7hEpepAjAWbnCY/ts
-
-#EXTINF:-1 tvg-id="RADIO NAXI" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO NAXI
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwupx_C3EO295hax1ahwvD5k4/ts
-
-#EXTINF:-1 tvg-id="RADIO MIR MEDJUGORJE" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO MIR MEDJUGORJE
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuu3kEbftykyW52D08jBvG1o/ts
-
-#EXTINF:-1 tvg-id="RADIO LUCKY" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO LUCKY
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhZDIbMac6wCqzlRzecR6Qo/ts
-
-#EXTINF:-1 tvg-id="RADIO KALMAN SARAJEVO" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO KALMAN SARAJEVO
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuntV8e0T2eq6y62Lx97ZrJg/ts
-
-#EXTINF:-1 tvg-id="RADIO JUZNI VETAR" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO JUZNI VETAR
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuv9ckWHtV0LroNCnf7AZ4Zs/ts
-
-#EXTINF:-1 tvg-id="RADIO JELAH" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO JELAH
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug2RURyCW3zKf5wrmRCB100/ts
-
-#EXTINF:-1 tvg-id="RADIO ISLAM" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO ISLAM
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusNUsiJG1BYZ9_az6Szeri4/ts
-
-#EXTINF:-1 tvg-id="RADIO HRT 2" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO HRT 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwujq5HUuEQYNp-Fu4BjGJvMg/ts
-
-#EXTINF:-1 tvg-id="RADIO HRT 1" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO HRT 1
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuurThGKBMp18rFWN-Z2LlnQ/ts
-
-#EXTINF:-1 tvg-id="RADIO GRACANICA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO GRACANICA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug3pgaHw4jUFGm_XTN_9Crk/ts
-
-#EXTINF:-1 tvg-id="RADIO GLAS DRINE" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO GLAS DRINE
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwug2BkNSWw2akeBfWw_mAXJo/ts
-
-#EXTINF:-1 tvg-id="RADIO FERAL" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO FERAL
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuiH-u4W3LxHikjrSvNqyJtI/ts
-
-#EXTINF:-1 tvg-id="RADIO EXTRA FM" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO EXTRA FM
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuv8v1vGz3mTzgoC6d2zVSRk/ts
-
-#EXTINF:-1 tvg-id="RADIO DZUNGLA DOBOJ" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO DZUNGLA DOBOJ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwugp3f1ByjMhm_ETTG_tXsjE/ts
-
-#EXTINF:-1 tvg-id="RADIO DELTA METKOVIC" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO DELTA METKOVIC
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhTqD3D5CH_gaS8TJNBorgw/ts
-
-#EXTINF:-1 tvg-id="RADIO DALMACIJA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO DALMACIJA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulkqaGgVJfOSqL963FVkCak/ts
-
-#EXTINF:-1 tvg-id="RADIO CLUB" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO CLUB
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwujpp0cpLpFCYozmGbNo7vtI/ts
-
-#EXTINF:-1 tvg-id="RADIO BN BIJELJINA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO BN BIJELJINA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwusQVu2vg3DNuGOs0rvzvUuI/ts
-
-#EXTINF:-1 tvg-id="RADIO BIR" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO BIR
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwul8skBLLldHa3WmkGWJHG7s/ts
-
-#EXTINF:-1 tvg-id="RADIO BIG 2" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO BIG 2
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuoCbfhp8tHvUd7VAuLaKJ1I/ts
-
-#EXTINF:-1 tvg-id="RADIO BANOVINA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO BANOVINA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhHvFB4g0NiZEFEgZoqyFe4/ts
-
-#EXTINF:-1 tvg-id="RADIO AVAZ" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO AVAZ
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuuhEpMMvh9jd1QUTKykdIp0/ts
-
-#EXTINF:-1 tvg-id="RADIO ANTENA N.SAD" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO ANTENA N.SAD
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwupk3VSHbN3bTpDLBYYuQJ0E/ts
-
-#EXTINF:-1 tvg-id="RADIO 101 FM" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO 101 FM
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwukLWy-6iZUxvwO4pisC3aYg/ts
-
-#EXTINF:-1 tvg-id="RADIO HIT FM" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO HIT FM
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuo3OZ2H2xwU3GE6zwOoE_To/ts
-
-#EXTINF:-1 tvg-id="RADIO BUM BUM" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO BUM BUM
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh3S6bKuAQQntHMInztdGyE/ts
-
-#EXTINF:-1 tvg-id="RADIO MILVOKI USA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO MILVOKI USA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwutdNZ89YRd6JaL1U55ZGbBc/ts
-
-#EXTINF:-1 tvg-id="RADIO CARSIJA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO CARSIJA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuvZALRROUEQ_psaCiE90Vdg/ts
-
-#EXTINF:-1 tvg-id="RADIO POSAVINA" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO POSAVINA
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuodHR3goSpKnIvkGiaHfMIs/ts
-
-#EXTINF:-1 tvg-id="RADIO PLAY" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO PLAY
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwulzzaBd6cJKu4Vots3DWtpg/ts
-
-#EXTINF:-1 tvg-id="RADIO DAS NARODNI" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO DAS NARODNI
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1HwuhZBV9pyxAbq8yGuLsC7dlI/ts
-
-#EXTINF:-1 tvg-id="RADIO DRVAR" tvg-logo="noimage.png" group-title="RADIO STANICE", RADIO DRVAR
-http://mysolutionsbn.xyz:12974/play/SZCI0Tm6u4Fwo0BVr1Hwuh0HymHkMrm3SoMdLtf2wtI/ts
 
 
 
