@@ -1,1215 +1,1246 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska", HRT  1 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30473
+#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/560
 
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="Hrvatska", HRT  2 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30474
+#EXTINF:-1 tvg-id="hrt2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6049
 
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3hd.gif" group-title="Hrvatska", HRT 3 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30475
+#EXTINF:-1 tvg-id="hrt3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/558
 
-#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/78320
+#EXTINF:-1 tvg-id="hrt4 hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/557
 
-#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatskahd.gif" group-title="Hrvatska", RTL HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30476
+#EXTINF:-1 tvg-id="hrt1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6858
 
-#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45
+#EXTINF:-1 tvg-id="hrt2" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/559
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/112
+#EXTINF:-1 tvg-id="hrt3" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6859
 
-#EXTINF:-1 tvg-id="n1-hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/n1hr.gif" group-title="Hrvatska", N1 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3774
+#EXTINF:-1 tvg-id="hrt4" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6860
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1.gif" group-title="Hrvatska", HRT 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/40
+#EXTINF:-1 tvg-id="hrtint" tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA", HRT int.
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/556
 
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2.gif" group-title="Hrvatska", HRT 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/41
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12097
 
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3.gif" group-title="Hrvatska", HRT 3
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/353
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12100
 
-#EXTINF:-1 tvg-id="htv4" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt4.gif" group-title="Hrvatska", HRT 4
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/354
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12098
 
-#EXTINF:-1 tvg-id="htv5" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt5.gif" group-title="Hrvatska", HRT int.
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9049
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12099
 
-#EXTINF:-1 tvg-id="HRT Doku" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/hrtdoku.gif" group-title="Hrvatska", HRT Doku
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/73694
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HRVATSKA", Rtl Croatia World
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10165
 
-#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/22
+#EXTINF:-1 tvg-id="RTL Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Adria_2020.png" group-title="HRVATSKA", RTL Adria
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8629
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68556
+#EXTINF:-1 tvg-id="rtl" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7516
 
-#EXTINF:-1 tvg-id="nova-world" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novaworld.gif" group-title="Hrvatska", Nova World
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45126
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8220
 
-#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/novafamily.gif" group-title="Hrvatska", Nova Family
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39435
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12092
 
-#EXTINF:-1 tvg-id="Nova Series" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/novaseries.gif" group-title="Hrvatska", Nova Series
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72613
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7519
 
-#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/novacinema.gif" group-title="Hrvatska", Nova Cinema
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39476
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8298
 
-#EXTINF:-1 tvg-id="Nova Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novacinema2.gif" group-title="Hrvatska", Nova Cinema 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45121
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12093
 
-#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatska.gif" group-title="Hrvatska", RTL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/23
+#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7518
 
-#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68558
+#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion FHD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8281
 
-#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlworld.gif" group-title="Hrvatska", RTL World
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45127
+#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7517
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlpassion.gif" group-title="Hrvatska", RTL Passion
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1198
+#EXTINF:-1 tvg-id="RTL Crime FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime FHD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8299
 
-#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlkrime.gif" group-title="Hrvatska", RTL Crime
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1199
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8001
 
-#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlliving.gif" group-title="Hrvatska", RTL Living
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2502
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living FHD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8301
 
-#EXTINF:-1 tvg-id="rtl-adria" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtladria.gif" group-title="Hrvatska", RTL Adria
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/26431
+#EXTINF:-1 tvg-id="N1 HR" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="HRVATSKA", N1 HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9272
 
-#EXTINF:-1 tvg-id="RTL+" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlplus.gif" group-title="Hrvatska", RTL+
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45113
+#EXTINF:-1 tvg-id="Nova HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9270
 
-#EXTINF:-1 tvg-id="RTL Play" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/RTL%20Pley.gif" group-title="Hrvatska", RTL Play
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45120
+#EXTINF:-1 tvg-id="Nova HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9278
 
-#EXTINF:-1 tvg-id="z1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/z1.gif" group-title="Hrvatska", Z1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1550
+#EXTINF:-1 tvg-id="Nova HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12090
 
-#EXTINF:-1 tvg-id="Laudato" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/laudatotv.gif" group-title="Hrvatska", Laudato
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24581
+#EXTINF:-1 tvg-id="Nova World" tvg-logo="http://nova-iptv.com/logo/Nova_World_2011.png" group-title="HRVATSKA", Nova World
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12617
 
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vinkovacka.gif" group-title="Hrvatska", Vinkovacka
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/551
+#EXTINF:-1 tvg-id="Nova Cinema" tvg-logo="http://nova-iptv.com/logo/Nova_Cinema_logo.png" group-title="HRVATSKA", Nova Cinema
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12618
 
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/slavonskatv.gif" group-title="Hrvatska", Slavonska
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1176
+#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://nova-iptv.com/logo/Nova_Family_logo.png" group-title="HRVATSKA", Nova Family
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12619
 
-#EXTINF:-1 tvg-id="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="Hrvatska", OTV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4537
+#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9286
 
-#EXTINF:-1 tvg-id="cakovec" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/srcetv.gif" group-title="Hrvatska", Zdrava Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4632
+#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9287
 
-#EXTINF:-1 tvg-id="varazdinska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vtvvarazdintv.gif" group-title="Hrvatska", VTV Varaždin
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5015
+#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD (Hevc)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12091
 
-#EXTINF:-1 tvg-id="rtv-hb" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hercegbosnatv.gif" group-title="Hrvatska", Herceg Bosna
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5017
+#EXTINF:-1 tvg-id="z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="HRVATSKA", Z1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/499
 
-#EXTINF:-1 tvg-id="tv-jadran" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jadrantv.gif" group-title="Hrvatska", Jadran tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5018
+#EXTINF:-1 tvg-id="Laudato TV" tvg-logo="http://116.203.156.75/logo/laudato.png" group-title="HRVATSKA", Laudato TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/553
 
-#EXTINF:-1 tvg-id="tv-dalmacija" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/televizija-dalmacija.gif" group-title="Hrvatska", Televizija Dalmacija
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69879
+#EXTINF:-1 tvg-id="Mreza Zagreb" tvg-logo="noimage.png" group-title="HRVATSKA", Mreza Zagreb
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8041
 
-#EXTINF:-1 tvg-id="sbtv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/sbtv.gif" group-title="Hrvatska", SBTV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9125
+#EXTINF:-1 tvg-id="RTV Banovina" tvg-logo="http://116.203.156.75/logo/banovina.png" group-title="HRVATSKA", Banovina TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/593
 
-#EXTINF:-1 tvg-id="libertas-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/libertastv.gif" group-title="Hrvatska", Libertas
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24582
+#EXTINF:-1 tvg-id="Osjecka TV" tvg-logo="http://116.203.156.75/logo/osjecka.jpeg" group-title="HRVATSKA", Osjecka TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/554
 
-#EXTINF:-1 tvg-id="Osjecka" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/osijeckatv.gif" group-title="Hrvatska", Osjecka
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1207
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="http://116.203.156.75/logo/plava_vinkovacka.jpg" group-title="HRVATSKA", Vinkovacka TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5845
 
-#EXTINF:-1 tvg-id="Marry TV Medugorje" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/marrytvmedugorije.gif" group-title="Hrvatska", Marry TV Medugorje
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29258
+#EXTINF:-1 tvg-id="TV KARLOVAC" tvg-logo="noimage.png" group-title="HRVATSKA", TV KARLOVAC
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8856
 
-#EXTINF:-1 tvg-id="kanal-ri" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/kanal-ir.gif" group-title="Hrvatska", kanalR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66467
+#EXTINF:-1 tvg-id="posavinatv" tvg-logo="http://116.203.156.75/logo/posavina.jpg" group-title="HRVATSKA", Posavina TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/397
 
-#EXTINF:-1 tvg-id="Mreža tv Zagreb" tvg-logo="http://web.izipizi1.info/pi/mreza-zg-tv.png" group-title="Hrvatska", Mreža tv Zagreb
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39477
+#EXTINF:-1 tvg-id="Slavonska Televizija" tvg-logo="http://116.203.156.75/logo/slavnonska.jpg" group-title="HRVATSKA", Slavonska Televizija
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/555
 
-#EXTINF:-1 tvg-id="CroTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/crotv.gif" group-title="Hrvatska", CroTV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67281
+#EXTINF:-1 tvg-id="Jabuka TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Jabukatvlogo.png" group-title="HRVATSKA", Jabuka TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6331
 
-#EXTINF:-1 tvg-id="Trend Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/trend-tv.gif" group-title="Hrvatska", Trend Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69886
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/kanalr-logo.png" group-title="HRVATSKA", KanalR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6330
 
-#EXTINF:-1 tvg-id="Tv Zapad" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/tvz.gif" group-title="Hrvatska", Tv Zapad
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69895
+#EXTINF:-1 tvg-id="Libertas TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LibertasTV.png" group-title="HRVATSKA", Libertas TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6329
 
-#EXTINF:-1 tvg-id="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="Hrvatska", Prigorska Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69903
+#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA", Poljoprivredna TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6328
 
-#EXTINF:-1 tvg-id="Tv Sibenik" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/tv-sibenik.gif" group-title="Hrvatska", Tv Sibenik
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71763
+#EXTINF:-1 tvg-id="Srce TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/srcetv-logo.png" group-title="HRVATSKA", Srce TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6324
 
-#EXTINF:-1 tvg-id="aurora-tv" tvg-logo="noimage.png" group-title="Hrvatska", Aurora TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/78934
+#EXTINF:-1 tvg-id="Dubrovacka Televizija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/dutv-logo.png" group-title="HRVATSKA", Dubrovacka Televizija
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6322
 
-#EXTINF:-1 tvg-id="Nova Cinema 4K" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/hrvatska/novacinema4k.gif" group-title="Hrvatska", Nova Cinema 4K
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69176
+#EXTINF:-1 tvg-id="TV Istra" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TV-Istra_logo.png" group-title="HRVATSKA", TV Istra
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6321
 
-#EXTINF:-1 tvg-id="eurosport" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif" group-title="Sport", Eurosport 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66
+#EXTINF:-1 tvg-id="TV Jadran" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-jadran-logo.png" group-title="HRVATSKA", TV Jadran
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6320
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif" group-title="Sport", Eurosport 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67
+#EXTINF:-1 tvg-id="Capital TV" tvg-logo="noimage.png" group-title="HRVATSKA", Capital TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6502
 
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif" group-title="Sport", Sport Klub
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/34330
+#EXTINF:-1 tvg-id="ZDRAVA TV-7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdrava-televizija-logo.jpg" group-title="HRVATSKA", Zdrava TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8886
 
-#EXTINF:-1 tvg-id="sport-klub" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif" group-title="Sport", Sport Klub 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39321
+#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="noimage.png" group-title="HRVATSKA", Klape i Tambure
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10237
 
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif" group-title="Sport", Sport Klub 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62
+#EXTINF:-1 tvg-id="b2305127f3e5eceffb591f82cf93c07d" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA", TV TREND KARLOVAC
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10246
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif" group-title="Sport", Sport Klub 3
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/64
+#EXTINF:-1 tvg-id="MARY TV MEDJUGORJE" tvg-logo="noimage.png" group-title="HRVATSKA", MARY TV MEDJUGORJE
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10247
 
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdhr.gif" group-title="Sport", Sport Klub 1 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39318
+#EXTINF:-1 tvg-id="MARS TV" tvg-logo="noimage.png" group-title="HRVATSKA", MARS TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10248
 
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdhr.gif" group-title="Sport", Sport Klub 2 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/33
+#EXTINF:-1 tvg-id="cf00a93b9e783577a4926ad239a60a43" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA", OTV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10249
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hdhr.gif" group-title="Sport", Sport Klub 3 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/34
+#EXTINF:-1 tvg-id="MAX SPORT 1 HD" tvg-logo="http://nova-iptv.com/logo/max-sport-1-bg.png" group-title="SPORTSKI", MAX SPORT 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12540
 
-#EXTINF:-1 tvg-id="sport-klub-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdslo.gif" group-title="Sport", Sport Klub 1 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29776
+#EXTINF:-1 tvg-id="MAX SPORT 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", MAX SPORT 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12986
 
-#EXTINF:-1 tvg-id="sport-klub-plus-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdslo.gif" group-title="Sport", Sport Klub 2 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29777
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12342
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3slohd.gif" group-title="Sport", Sport Klub 3 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29779
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12343
 
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif" group-title="Sport", Sport Klub 4
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/205
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12344
 
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif" group-title="Sport", Sport Klub 5
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1202
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12362
 
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif" group-title="Sport", Sport Klub 6
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1626
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12363
 
-#EXTINF:-1 tvg-id="sport-klub-7" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif" group-title="Sport", Sport Klub 7
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69870
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12392
 
-#EXTINF:-1 tvg-id="sport-klub-8" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif" group-title="Sport", Sport Klub 8
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69871
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13011
 
-#EXTINF:-1 tvg-id="sport-klub-9" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif" group-title="Sport", Sport Klub 9
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69872
+#EXTINF:-1 tvg-id="Arena Sport 2 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13012
 
-#EXTINF:-1 tvg-id="sport-klub-10" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif" group-title="Sport", Sport Klub 10
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69873
+#EXTINF:-1 tvg-id="Arena Sport 3 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13013
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 BiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67283
+#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12166
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 BiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67284
+#EXTINF:-1 tvg-id="Arena Sport 2 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13002
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 BiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67285
+#EXTINF:-1 tvg-id="Arena Sport 3 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13003
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39440
+#EXTINF:-1 tvg-id="Arena Sport 4 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13004
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39441
+#EXTINF:-1 tvg-id="Arena Sport 5 BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13005
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39439
+#EXTINF:-1 tvg-id="Arena Sport 6 BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="SPORTSKI", Arena Sport 6 BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13006
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62594
+#EXTINF:-1 tvg-id="BN TV" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD BIH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6776
 
-#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="Sport", Arena Sport 1 BiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/128
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/490
 
-#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="Sport", Arena Sport 2 BiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12051
 
-#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="Sport", Arena Sport 3 BiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12050
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="Sport", Arena Sport 4 BiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/31
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12049
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif" group-title="Sport", Arena Sport 1 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/27
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/491
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif" group-title="Sport", Arena Sport 2 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/192
+#EXTINF:-1 tvg-id="Arena Sport 6 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13068
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif" group-title="Sport", Arena Sport 3 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/193
+#EXTINF:-1 tvg-id="Arena Sport 7 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13069
 
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif" group-title="Sport", Arena Sport 4 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/194
+#EXTINF:-1 tvg-id="Arena Sport 8 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13070
 
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/645
+#EXTINF:-1 tvg-id="Arena Sport 9 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13071
 
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37928
+#EXTINF:-1 tvg-id="Arena Sport 10 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13072
 
-#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="Sport", Arena Sport 7 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35185
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/486
 
-#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="Sport", Arena Sport 8 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35186
+#EXTINF:-1 tvg-id="Arena Sport 2 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/485
 
-#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif" group-title="Sport", Arena Sport 9 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35187
+#EXTINF:-1 tvg-id="Arena Sport 3 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12052
 
-#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="Sport", Arena Sport 10 HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35188
+#EXTINF:-1 tvg-id="Arena Sport 4 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12053
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/28
+#EXTINF:-1 tvg-id="Arena Sport 5 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/482
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1043
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/481
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1044
+#EXTINF:-1 tvg-id="Arena Sport 7 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12106
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1045
+#EXTINF:-1 tvg-id="Arena Sport 8 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12107
 
-#EXTINF:-1 tvg-id="Arena Sport 5 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66258
+#EXTINF:-1 tvg-id="Arena Sport 9 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12108
 
-#EXTINF:-1 tvg-id="Arena Sport 6 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66259
+#EXTINF:-1 tvg-id="Arena Sport 10 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12109
 
-#EXTINF:-1 tvg-id="Arena Sport 7 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT7.gif" group-title="Sport", Arena Sport 7 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70657
+#EXTINF:-1 tvg-id="Arena Sport 1x2" tvg-logo="http://nova-iptv.com/logo/Arena_1x2_RS_logo.png" group-title="SPORTSKI", Arena Sport 1x2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12533
 
-#EXTINF:-1 tvg-id="Arena Sport 8 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT8.gif" group-title="Sport", Arena Sport 8 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70658
+#EXTINF:-1 tvg-id="Arena Esport" tvg-logo="http://nova-iptv.com/logo/arena_esport_logo.png" group-title="SPORTSKI", Arena Esport
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12555
 
-#EXTINF:-1 tvg-id="arena-sport-9-rs" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT9.gif" group-title="Sport", Arena Sport 9 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70659
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/495
 
-#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-logo="https://repo.ottshow.net/pikoni/sport/srbarena%2010.gif" group-title="Sport", Arena Sport 10 SR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70660
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12045
 
-#EXTINF:-1 tvg-id="arena-sport-1-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62590
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12046
 
-#EXTINF:-1 tvg-id="arena-sport-2-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62591
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12047
 
-#EXTINF:-1 tvg-id="arena-sport-3-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62592
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://nova-iptv.com/logo/SK_HD_RS_logo.png" group-title="SPORTSKI", Sport Klub HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9301
 
-#EXTINF:-1 tvg-id="arena-sport-4-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/62593
+#EXTINF:-1 tvg-id="sport-klub.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12037
 
-#EXTINF:-1 tvg-id="arena-esport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif" group-title="Sport", Arena ESport
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/36410
+#EXTINF:-1 tvg-id="SK 2 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12038
 
-#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Sport", Arena Sport 1x2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66260
+#EXTINF:-1 tvg-id="SK 3 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12039
 
-#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="noimage.png" group-title="Sport", Nova Sport HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/79936
+#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12040
 
-#EXTINF:-1 tvg-id="sport-tv-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif" group-title="Sport", Sport SLO 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/206
+#EXTINF:-1 tvg-id="Sport Klub 5 SRB" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9293
 
-#EXTINF:-1 tvg-id="sport-tv-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif" group-title="Sport", Sport SLO 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/207
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 SRB
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12001
 
-#EXTINF:-1 tvg-id="stv3" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif" group-title="Sport", Sport SLO 3
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/208
+#EXTINF:-1 tvg-id="sportklub-hr.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12041
 
-#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1 SD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71739
+#EXTINF:-1 tvg-id="Sport Klub 2 HD HR" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12042
 
-#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2496
+#EXTINF:-1 tvg-id="Sport Klub 3 HD HR" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12043
 
-#EXTINF:-1 tvg-id="maxsport-2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Sport", MAXSport 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/61224
+#EXTINF:-1 tvg-id="Sport Klub 4 HR" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12044
 
-#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="noimage.png" group-title="Sport", Hajduk TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/83182
+#EXTINF:-1 tvg-id="sk5" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9299
 
-#EXTINF:-1 tvg-id="city-tv" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif" group-title="Sport", City TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29606
+#EXTINF:-1 tvg-id="Sport Klub 6 HR" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 HR
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9300
 
-#EXTINF:-1 tvg-id="sportska-televizija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif" group-title="Sport", SPTV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/12622
+#EXTINF:-1 tvg-id="SK 7 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 7
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12239
 
-#EXTINF:-1 tvg-id="sos" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif" group-title="Sport", SOS Kanal
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/204
+#EXTINF:-1 tvg-id="SK 8 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 8
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12236
 
-#EXTINF:-1 tvg-id="Zvezda Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif" group-title="Sport", Zvezda Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69875
+#EXTINF:-1 tvg-id="SK 9 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 9
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12237
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif" group-title="Sport", Tv Partizan
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69874
+#EXTINF:-1 tvg-id="SK 10 (SR)" tvg-logo="http://nova-iptv.com/logo/SK10_RS_logo.png" group-title="SPORTSKI", Sport Klub 10
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12238
 
-#EXTINF:-1 tvg-id="fight-klub-hd" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif" group-title="Sport", Sport Klub Golf
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68481
+#EXTINF:-1 tvg-id="Sport Klub 4K" tvg-logo="http://nova-iptv.com/logo/sk-4k.png" group-title="SPORTSKI", Sport Klub 4K
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12569
 
-#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif" group-title="Sport", Sport Klub Fight
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68480
+#EXTINF:-1 tvg-id="SK Golf" tvg-logo="http://nova-iptv.com/logo/SK_Golf_HR_logo.png" group-title="SPORTSKI", Sport Klub Golf
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9303
 
-#EXTINF:-1 tvg-id="arena-fight" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif" group-title="Sport", Arena Fight
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30491
+#EXTINF:-1 tvg-id="SK Esports" tvg-logo="http://nova-iptv.com/logo/SK_esports_RS_logo.png" group-title="SPORTSKI", Sport Klub Esport
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9302
 
-#EXTINF:-1 tvg-id="fight-network" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif" group-title="Sport", Fight Network
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/61
+#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Klub Fight
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12770
 
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://picons.ottshow.net/pikoni/doku/nationalgeographic.gif" group-title="Doku", National Geographic
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25978
+#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="http://nova-iptv.com/logo/nova_sport.png" group-title="SPORTSKI", Nova Sport HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9288
 
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://picons.ottshow.net/pikoni/doku/natgeowild.gif" group-title="Doku", NatGeo Wild
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25977
+#EXTINF:-1 tvg-id="Kuvo TV HD" tvg-logo="http://nova-iptv.com/kuvo.png" group-title="SPORTSKI", Kuvo TV HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12514
 
-#EXTINF:-1 tvg-id="discovery-europe" tvg-logo="https://picons.ottshow.net/pikoni/doku/discovery.gif" group-title="Doku", Discovery Channel
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="http://nova-iptv.com/logo/eurosport.png" group-title="SPORTSKI", EUROSPORT 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6540
 
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoveryid.gif" group-title="Doku", Discovery ID
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25980
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="http://nova-iptv.com/logo/eurosport-2.png" group-title="SPORTSKI", EUROSPORT 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/467
 
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoverysince.gif" group-title="Doku", Discovery Science
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25984
+#EXTINF:-1 tvg-id="GP 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/GP1-logo.png" group-title="SPORTSKI", GP 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12589
 
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="https://picons.ottshow.net/pikoni/doku/tlc.gif" group-title="Doku", TLC
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/74
+#EXTINF:-1 tvg-id="Fight Box HD" tvg-logo="noimage.png" group-title="SPORTSKI", Fight Box HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5509
 
-#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://picons.ottshow.net/pikoni/doku/AnimalPlanet.gif" group-title="Doku", Animal Planet
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25983
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="noimage.png" group-title="SPORTSKI", Extreme Sports
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10478
 
-#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://picons.ottshow.net/pikoni/doku/invs+.gif" group-title="Doku", Crime & Invvestigation
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25982
+#EXTINF:-1 tvg-id="SOS" tvg-logo="noimage.png" group-title="SPORTSKI", SOS
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/438
 
-#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/history.gif" group-title="Doku", History
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2574
+#EXTINF:-1 tvg-id="Partizan TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Partizan TV HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5508
 
-#EXTINF:-1 tvg-id="history-channel-2" tvg-logo="https://picons.ottshow.net/pikoni/doku/h2history%202.gif" group-title="Doku", History 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25981
+#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="SPORTSKI", Zvezda TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8302
 
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://picons.ottshow.net/pikoni/doku/Vaistnature.gif" group-title="Doku", Viasat Nature
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4126
+#EXTINF:-1 tvg-id="Sportska TV" tvg-logo="noimage.png" group-title="SPORTSKI", Sportska TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/439
 
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://picons.ottshow.net/pikoni/doku/viasthistory.gif" group-title="Doku", Viasat History
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2797
+#EXTINF:-1 tvg-id="Moja TV Premier Liga BiH" tvg-logo="noimage.png" group-title="SPORTSKI", Moja TV Premier Liga BiH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/480
 
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-logo="https://picons.ottshow.net/pikoni/doku/vaisetexpliore.gif" group-title="Doku", Viasat Explorer
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1204
+#EXTINF:-1 tvg-id="HNTV" tvg-logo="noimage.png" group-title="SPORTSKI", HNTV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/464
 
-#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://repo.ottshow.net/pikoni/srbija/balkantriptv.gif" group-title="Doku", Balkan Trip
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4485
+#EXTINF:-1 tvg-id="Kreator TV" tvg-logo="noimage.png" group-title="SPORTSKI", Kreator TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/463
 
-#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="Doku", Lov i Ribolov
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/65
+#EXTINF:-1 tvg-id="loviribolov" tvg-logo="noimage.png" group-title="SPORTSKI", Lov i Ribolov
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9304
 
-#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/travel.gif" group-title="Doku", Travel Channel
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/181
+#EXTINF:-1 tvg-id="Sky Sport 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 1 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12055
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/bbcearth.gif" group-title="Doku", BBC Earth
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24373
+#EXTINF:-1 tvg-id="Sky Sport 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 2 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12056
 
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://picons.ottshow.net/pikoni/doku/fooodnewttork.gif" group-title="Doku", Food Network
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/33261
+#EXTINF:-1 tvg-id="Sky Sport 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 3 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12057
 
-#EXTINF:-1 tvg-id="24kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku", 24 Kitchen
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25985
+#EXTINF:-1 tvg-id="Sky Sport 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 4 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12058
 
-#EXTINF:-1 tvg-id="entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku", E! Entertainment
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2572
+#EXTINF:-1 tvg-id="Sky Sport 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 5 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12059
 
-#EXTINF:-1 tvg-id="doku-tv" tvg-logo="http://repo.ottshow.net/pikoni/doku/dokutv.gif" group-title="Doku", Doku TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/31853
+#EXTINF:-1 tvg-id="Sky Sport 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 6 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12060
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://web.izipizi1.info/pi/jyw.png" group-title="Doku", HGTV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/39108
+#EXTINF:-1 tvg-id="Sky Sport 7 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 7 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12061
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/natucialchannel.gif" group-title="Doku", Nautical Channel
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71247
+#EXTINF:-1 tvg-id="Sky Sport 8 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 8 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12062
 
-#EXTINF:-1 tvg-id="pink-fashion" tvg-logo="https://picons.ottshow.net/pikoni/doku/FashonTV.gif" group-title="Doku", Fashion TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9108
+#EXTINF:-1 tvg-id="Sky Sport 9 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 9 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12063
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/doku/love4knaturer.gif" group-title="Doku", Love Nature 4K
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68948
+#EXTINF:-1 tvg-id="Sky Sport 10 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 10 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12064
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/44
+#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 1 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12065
 
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo2.gif" group-title="Film", HBO 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72
+#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 2 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12066
 
-#EXTINF:-1 tvg-id="hbo3" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo3.gif" group-title="Film", HBO 3
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1555
+#EXTINF:-1 tvg-id="Sky Bundesliga 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 3 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12067
 
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax.gif" group-title="Film", Cinemax
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70
+#EXTINF:-1 tvg-id="Sky Bundesliga 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 4 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12068
 
-#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax2.gif" group-title="Film", Cinemax  2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/126
+#EXTINF:-1 tvg-id="Sky Bundesliga 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 5 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12069
 
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier1.gif" group-title="Film", CineStar Premiere 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/36
+#EXTINF:-1 tvg-id="Sky Bundesliga 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 6 HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12070
 
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier2.gif" group-title="Film", CineStar Premiere 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37
+#EXTINF:-1 tvg-id="SKY Sport News HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", SKY Sport News HD (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12054
 
-#EXTINF:-1 tvg-id="cinestar-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestartv.gif" group-title="Film", CineStar TV 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3851
+#EXTINF:-1 tvg-id="Sky Sport Premier DE" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Premier DE
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13027
 
-#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-logo="http://web.izipizi1.info/pi/cinestartv2.png" group-title="Film", CineStar TV 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37920
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austria 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12075
 
-#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestaraction.gif" group-title="Film", CineStar Action
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2685
+#EXTINF:-1 tvg-id="Sky Sport Austira 6" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austira 6
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13032
 
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarfantasy.gif" group-title="Film", CineStar Fantasy
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/10444
+#EXTINF:-1 tvg-id="Sky Sport F1 (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (DE)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12078
 
-#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarcomedy.gif" group-title="Film", CineStar Comedy
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30492
+#EXTINF:-1 tvg-id="Sky Sport F1 (ENG)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (ENG)
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12251
 
-#EXTINF:-1 tvg-id="fox" tvg-logo="http://repo.ottshow.net/pikoni/film/fox.gif" group-title="Film", STAR Channel
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/178
+#EXTINF:-1 tvg-id="Sky Sport Tenis" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Tenis
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13052
 
-#EXTINF:-1 tvg-id="fox-movies" tvg-logo="http://repo.ottshow.net/pikoni/film/foxmovies.gif" group-title="Film", STAR Movies
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25990
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Golf
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13053
 
-#EXTINF:-1 tvg-id="fox-life" tvg-logo="http://repo.ottshow.net/pikoni/film/foxlife.gif" group-title="Film", STAR Life
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1378
+#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12071
 
-#EXTINF:-1 tvg-id="fox-crime" tvg-logo="http://repo.ottshow.net/pikoni/film/foxcrime.gif" group-title="Film", STAR Crime
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1553
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12072
 
-#EXTINF:-1 tvg-id="m1-gold" tvg-logo="http://repo.ottshow.net/pikoni/film/m1goldfilm.gif" group-title="Film", M1 Gold
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1351
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 3 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12073
 
-#EXTINF:-1 tvg-id="m1-film" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Film
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2494
+#EXTINF:-1 tvg-id="SPORT TV 1 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 1 HD SLO
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12074
 
-#EXTINF:-1 tvg-id="m1-family" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Family
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24936
+#EXTINF:-1 tvg-id="SPORT TV 2 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 2 HD SLO
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/214
 
-#EXTINF:-1 tvg-id="tv1000-balkan" tvg-logo="http://repo.ottshow.net/pikoni/film/tv1000.gif" group-title="Film", TV 1000
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/705
+#EXTINF:-1 tvg-id="SPORT TV 3 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 3 HD SLO
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/213
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="http://repo.ottshow.net/pikoni/film/axn.gif" group-title="Film", AXN
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1181
+#EXTINF:-1 tvg-id="ELEVEN SP 1 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 1 FHD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5764
 
-#EXTINF:-1 tvg-id="axn-spin" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/axnspin.gif" group-title="Film", AXN Spin
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69009
+#EXTINF:-1 tvg-id="ELEVEN SP 2 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 2 FHD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5765
 
-#EXTINF:-1 tvg-id="scifi" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Film", SciFi
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/8859
+#EXTINF:-1 tvg-id="ELEVEN SP 3 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 3 FHD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5766
 
-#EXTINF:-1 tvg-id="cinemania" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemania.gif" group-title="Film", Cinemania
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/357
+#EXTINF:-1 tvg-id="EUROSPORT 1 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 1 DE
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6296
 
-#EXTINF:-1 tvg-id="cinema-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinematvbh.gif" group-title="Film", RTL Play Premium
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/174
+#EXTINF:-1 tvg-id="EUROSPORT 2 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 2 DE
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6297
 
-#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/pickboxtv.gif" group-title="Film", PickboxTV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1630
+#EXTINF:-1 tvg-id="Bayern TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Bayern TV HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6103
 
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://repo.ottshow.net/pikoni/film/kinotv.gif" group-title="Film", Kino TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4223
+#EXTINF:-1 tvg-id="Sport Digital HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Digital HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/461
 
-#EXTINF:-1 tvg-id="universal-channel" tvg-logo="http://repo.ottshow.net/pikoni/film/divatv.gif" group-title="Film", DIVA
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4224
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-logo="noimage.png" group-title="SPORTSKI", Motorvision HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/327
 
-#EXTINF:-1 tvg-id="amc" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film", AMC
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9109
+#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-logo="noimage.png" group-title="SPORTSKI", Auto Motor Sport
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/340
 
-#EXTINF:-1 tvg-id="epic-drama" tvg-logo="http://repo.ottshow.net/pikoni/film/epicdrama.gif" group-title="Film", EPIC Drama
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24362
+#EXTINF:-1 tvg-id="Sport1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/440
 
-#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://repo.ottshow.net/pikoni/film/tvsehara.gif" group-title="Film", Sehara TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/29202
+#EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/471
 
-#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="http://repo.ottshow.net/pikoni/film/klasiktv.gif" group-title="Film", Klasik TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/38
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/470
 
-#EXTINF:-1 tvg-id="Film Klub" tvg-logo="http://repo.ottshow.net/pikoni/film/filmklub.gif" group-title="Film", Film Klub
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1073
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9255
 
-#EXTINF:-1 tvg-id="Dizi" tvg-logo="noimage.png" group-title="Film", Dizi
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/77667
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9256
 
-#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/eurocinema.gif" group-title="Film", Euro Cinema 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68477
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 3
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9257
 
-#EXTINF:-1 tvg-id="Euro Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/eurocinema2.gif" group-title="Film", Euro Cinema 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68478
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 4
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9258
 
-#EXTINF:-1 tvg-id="HBO MAX" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO MAX
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45107
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 5
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9259
 
-#EXTINF:-1 tvg-id="Cine+Select 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 1 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45268
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 6
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9260
 
-#EXTINF:-1 tvg-id="Cine+Select 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 2 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45269
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 7
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9261
 
-#EXTINF:-1 tvg-id="Cine+Select 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 3 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45270
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 8
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9262
 
-#EXTINF:-1 tvg-id="Cine+Select 4 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 4 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45271
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 9
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9263
 
-#EXTINF:-1 tvg-id="Cine+Select 5 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 5 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45272
+#EXTINF:-1 tvg-id="Bein Sports 10" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 10
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9264
 
-#EXTINF:-1 tvg-id="Cine+Select 6 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 6 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45273
+#EXTINF:-1 tvg-id="Arena Fight HD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Fight HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13402
 
-#EXTINF:-1 tvg-id="Cine+Select 7 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 7 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45274
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="http://116.203.156.75/logo/minimax.png" group-title="DJECIJI", MINIMAX
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/384
 
-#EXTINF:-1 tvg-id="Cine+Select 8 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 8 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45275
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/382
 
-#EXTINF:-1 tvg-id="Cine+Select 9 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 9 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45276
+#EXTINF:-1 tvg-id="Nickelodeon." tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon.
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6864
 
-#EXTINF:-1 tvg-id="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 10 HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45277
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://116.203.156.75/logo/nickjr.png" group-title="DJECIJI", Nick Jr.
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/383
 
-#EXTINF:-1 tvg-id="Lud Zbunjen Normalan" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/lzn.gif" group-title="Film", Lud Zbunjen Normalan
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68944
+#EXTINF:-1 tvg-id="Nicktoons (HR)" tvg-logo="http://nova-iptv.com/logo/nicktoons.png" group-title="DJECIJI", Nicktoons
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8861
 
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Kids", Baby TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/40217
+#EXTINF:-1 tvg-id="Disney" tvg-logo="http://nova-iptv.com/logo/disney_channel_2019.png" group-title="DJECIJI", Disney
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12559
 
-#EXTINF:-1 tvg-id="minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Kids", Minimax
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/93
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://nova-iptv.com/logo/disney-junior-logo.png" group-title="DJECIJI", Disney Junior
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12560
 
-#EXTINF:-1 tvg-id="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Kids", Mini Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/265
+#EXTINF:-1 tvg-id="Jim Jam" tvg-logo="http://nova-iptv.com/logo/JimJam-_logo_new3.png" group-title="DJECIJI", Jim Jam
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12561
 
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Kids", Nick Jr Hr.
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25986
+#EXTINF:-1 tvg-id="minitv" tvg-logo="http://nova-iptv.com/logo/minitv.png" group-title="DJECIJI", Mini TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9282
 
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Kids", Nick Jr
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68475
+#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="http://nova-iptv.com/logo/tnt-kids_logo.png" group-title="DJECIJI", TNT Kids
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12389
 
-#EXTINF:-1 tvg-id="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons Hr.
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71269
+#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://nova-iptv.com/logo/pikaboo_logo.png" group-title="DJECIJI", Pikaboo
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9285
 
-#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/40979
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://nova-iptv.com/logo/rtl-kockica-logo.png" group-title="DJECIJI", RTL KOCKICA
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7520
 
-#EXTINF:-1 tvg-id="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Kids", Nickelodeon Hr.
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25987
+#EXTINF:-1 tvg-id="Hayatovci" tvg-logo="http://116.203.156.75/logo/hayatovci-logo.png" group-title="DJECIJI", Hayatovci
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/562
 
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Kids", Nickelodeon
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68476
+#EXTINF:-1 tvg-id="Pink super kids" tvg-logo="http://nova-iptv.com/logo/PinkSuperKids_logo.png" group-title="DJECIJI", Pink Super Kids
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8048
 
-#EXTINF:-1 tvg-id="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network Hr.
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71267
+#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="http://nova-iptv.com/logo/kazbuka.png" group-title="DJECIJI", Kazbuka
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12550
 
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71113
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://116.203.156.75/logo/Babytv.png" group-title="DJECIJI", Baby TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/388
 
-#EXTINF:-1 tvg-id="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Tnt Kids
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66257
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://116.203.156.75/logo/Cartoon_Network_Logo.jpg" group-title="DJECIJI", Cartoon Network
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/389
 
-#EXTINF:-1 tvg-id="pink-kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Kids", Pink Kids
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/266
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://116.203.156.75/logo/Boomerang_Logo_2014.png" group-title="DJECIJI", Cartoonito
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/387
 
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Kids", Pink Super Kids
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71270
+#EXTINF:-1 tvg-id="VAVOOM" tvg-logo="http://nova-iptv.com/logo/vavoom.png" group-title="DJECIJI", VAVOOM
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10255
 
-#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Kids", Kazbuka
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71116
+#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Duck_TV_Plus_PL_logo.png" group-title="DJECIJI", DUCK TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10256
 
-#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Pikaboo
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3854
+#EXTINF:-1 tvg-id="Nova Kids" tvg-logo="noimage.png" group-title="DJECIJI", Nova Kids
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12085
 
-#EXTINF:-1 tvg-id="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Kids", Toon Kids
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/8858
+#EXTINF:-1 tvg-id="GORA KIDS HD" tvg-logo="noimage.png" group-title="DJECIJI", GORA KIDS HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10259
 
-#EXTINF:-1 tvg-id="hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Kids", Hayatovci
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25970
+#EXTINF:-1 tvg-id="Ginx TV" tvg-logo="noimage.png" group-title="DJECIJI", Ginx TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10268
 
-#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Kids", Cartoonito
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71114
+#EXTINF:-1 tvg-id="Pink Panter TV" tvg-logo="noimage.png" group-title="DJECIJI", Pink Panter TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8232
 
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Kids", Rtl Kockica
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/25997
+#EXTINF:-1 tvg-id="Grizzy & the Lemmings" tvg-logo="noimage.png" group-title="DJECIJI", Grizzy & the Lemmings
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8233
 
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Kids", Disney Chanel
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71109
+#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="noimage.png" group-title="DJECIJI", Tom and Jerry
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8046
 
-#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Kids", Disney Junior
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71268
+#EXTINF:-1 tvg-id="PEPA PRASE" tvg-logo="noimage.png" group-title="DJECIJI", PEPA PRASE
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10029
 
-#EXTINF:-1 tvg-id="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Kids", Dexy Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67745
+#EXTINF:-1 tvg-id="MASA I MEDVJED" tvg-logo="noimage.png" group-title="DJECIJI", MASA I MEDVJED
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5671
 
-#EXTINF:-1 tvg-id="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Kids", Nova  Kids
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67744
+#EXTINF:-1 tvg-id="NOVA DOKU" tvg-logo="noimage.png" group-title="DOKUMENTARNI", NOVA DOKU
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10319
 
-#EXTINF:-1 tvg-id="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Kids", CoComelon
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69637
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/49.png" group-title="DOKUMENTARNI", National Geographic
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6303
 
-#EXTINF:-1 tvg-id="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Kids", IDJ Kids
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68943
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/national_geographic_logo.png" group-title="DOKUMENTARNI", National Geographic HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/546
 
-#EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Kids", Looney Tunes
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45122
+#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/598
 
-#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Kids", Tom and Jerry
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67747
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8848
 
-#EXTINF:-1 tvg-id="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Kids", Psici u Ophodnji
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69630
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/183.png" group-title="DOKUMENTARNI", Nat Geo Wild
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/547
 
-#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/mickymouse.gif" group-title="Kids", Mickey Mouse
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/74173
+#EXTINF:-1 tvg-id="discovery-europe.doc" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/47.png" group-title="DOKUMENTARNI", Discovery Channel
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/583
 
-#EXTINF:-1 tvg-id="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Kids", Masa i Medo
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67743
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation-discovery-logo.png" group-title="DOKUMENTARNI", Discovery ID
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7275
 
-#EXTINF:-1 tvg-id="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Kids", Pepa Prašcic
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67746
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/70.png" group-title="DOKUMENTARNI", Discovery TLC
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12942
 
-#EXTINF:-1 tvg-id="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Kids", Tri Mace
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69635
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://116.203.156.75/logo/Entertainment.jpg" group-title="DOKUMENTARNI", Entertaimment +
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3664
 
-#EXTINF:-1 tvg-id="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Kids", A Je To
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69632
+#EXTINF:-1 tvg-id="Crime & Investigation" tvg-logo="http://116.203.156.75/logo/crimeinvest.jpg" group-title="DOKUMENTARNI", Crime & Investigation
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/585
 
-#EXTINF:-1 tvg-id="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Kids", Strumpfovi
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69633
+#EXTINF:-1 tvg-id="davinci" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/90.png" group-title="DOKUMENTARNI", Da Vinci Learning
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/584
 
-#EXTINF:-1 tvg-id="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Kids", Pingvini
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69634
+#EXTINF:-1 tvg-id="Viasat Explore HD" tvg-logo="http://116.203.156.75/logo/9.png" group-title="DOKUMENTARNI", Viasat Explore HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/503
 
-#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mickymouse.gif" group-title="Kids", Mickey Mouse
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72012
+#EXTINF:-1 tvg-id="Viasat History HD" tvg-logo="http://116.203.156.75/logo/6.png" group-title="DOKUMENTARNI", Viasat History HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/502
 
-#EXTINF:-1 tvg-id="Mr Magoo" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrmago.gif" group-title="Kids", Mr Magoo
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72013
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="http://116.203.156.75/logo/naturelogo.png" group-title="DOKUMENTARNI", Viasat Nature
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/501
 
-#EXTINF:-1 tvg-id="Larva" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/larva.gif" group-title="Kids", Larva
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72014
+#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://nova-iptv.com/logo/balkan-trip_logo.png" group-title="DOKUMENTARNI", Balkan Trip
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10270
 
-#EXTINF:-1 tvg-id="Blippi" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bliipi.gif" group-title="Kids", Blippi
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72015
+#EXTINF:-1 tvg-id="DR FIT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dr_Fit_logo.png" group-title="DOKUMENTARNI", DR FIT
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/524
 
-#EXTINF:-1 tvg-id="Lucky Luke" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/luckyluck.gif" group-title="Kids", Lucky Luke
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72016
+#EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/woman_logo.png" group-title="DOKUMENTARNI", Woman TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8866
 
-#EXTINF:-1 tvg-id="Alice i Lewis" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/aliceilewis.gif" group-title="Kids", Alice i Lewis
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72017
+#EXTINF:-1 tvg-id="Turizam +" tvg-logo="http://nova-iptv.com/logo/turizam_plus.jpg" group-title="DOKUMENTARNI", Turizam +
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8867
 
-#EXTINF:-1 tvg-id="SpongeBob" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/spongebob.gif" group-title="Kids", SpongeBob
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72018
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hgtv_logo.png" group-title="DOKUMENTARNI", HGTV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6298
 
-#EXTINF:-1 tvg-id="Pink Panther" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/thepinkpanter.gif" group-title="Kids", Pink Panther
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72019
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="http://116.203.156.75/logo/travel.png" group-title="DOKUMENTARNI", Travel Channel HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3651
 
-#EXTINF:-1 tvg-id="Profesor Baltazar" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/profesorbaltezar.gif" group-title="Kids", Profesor Baltazar
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72020
+#EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fashiontv-logo.png" group-title="DOKUMENTARNI", Travel XP
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/587
 
-#EXTINF:-1 tvg-id="Gormiti" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/gormiti.gif" group-title="Kids", Gormiti
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72021
+#EXTINF:-1 tvg-id="planet-earth" tvg-logo="http://116.203.156.75/logo/PlanetEarth.png" group-title="DOKUMENTARNI", Planet Earth
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5389
 
-#EXTINF:-1 tvg-id="MetaJets" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/metajets.gif" group-title="Kids", MetaJets
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72022
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12803
 
-#EXTINF:-1 tvg-id="Agent Binky" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/agnetbinky.gif" group-title="Kids", Agent Binky
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72023
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5677
 
-#EXTINF:-1 tvg-id="Bolek i Lolek" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bolekilolek.gif" group-title="Kids", Bolek i Lolek
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72024
+#EXTINF:-1 tvg-id="DOKU TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/DOKUTV_logo.png" group-title="DOKUMENTARNI", DOKU TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5673
 
-#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrbean.gif" group-title="Kids", Mr Bean
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72029
+#EXTINF:-1 tvg-id="DOX TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DoxTV_logo.png" group-title="DOKUMENTARNI", DOX TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12588
 
-#EXTINF:-1 tvg-id="La Linea" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/la-liane.gif" group-title="Kids", La Linea
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/73980
+#EXTINF:-1 tvg-id="docubox-hd" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/158.png" group-title="DOKUMENTARNI", Docu Box HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/577
 
-#EXTINF:-1 tvg-id="imperiatv" tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Music", Imperija
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/24800
+#EXTINF:-1 tvg-id="History HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/66.png" group-title="DOKUMENTARNI", History Channel
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/561
 
-#EXTINF:-1 tvg-id="toxic-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Music", Toxic TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3823
+#EXTINF:-1 tvg-id="History 2 HD" tvg-logo="http://116.203.156.75/logo/h2-logo.png" group-title="DOKUMENTARNI", History Channel 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/569
 
-#EXTINF:-1 tvg-id="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Music", IDJ TV HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1112
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOKUMENTARNI", Food Network
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6314
 
-#EXTINF:-1 tvg-id="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Music", UZIVOTEKA
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/45114
+#EXTINF:-1 tvg-id="24Kitchen HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/71.png" group-title="DOKUMENTARNI", 24 Kitchen
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/601
 
-#EXTINF:-1 tvg-id="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Music", Kafansko Vece
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/70263
+#EXTINF:-1 tvg-id="English Club" tvg-logo="http://nova-iptv.com/logo/english_club.png" group-title="DOKUMENTARNI", English Club
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12804
 
-#EXTINF:-1 tvg-id="extratv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Music", Extra Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68474
+#EXTINF:-1 tvg-id="NOVA PREMIUM HD" tvg-logo="noimage.png" group-title="FILMSKI", NOVA PREMIUM HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8219
 
-#EXTINF:-1 tvg-id="hayat-music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Music", Hayat Music
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/51
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/419
 
-#EXTINF:-1 tvg-id="hayat-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Music", Hayat Folk
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/131
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD.
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12809
 
-#EXTINF:-1 tvg-id="bn-music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Music", BN Music
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/46
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/418
 
-#EXTINF:-1 tvg-id="dmsat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Music", DM Sat
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/26004
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD.
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12810
 
-#EXTINF:-1 tvg-id="bravo-mjuzik" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Music", Bravo Music
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35952
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/417
 
-#EXTINF:-1 tvg-id="pink-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Music", Pink Folk 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/97
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD.
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12811
 
-#EXTINF:-1 tvg-id="pink-folk-2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Music", Pink Folk 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/504
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://116.203.156.75/logo/176.png" group-title="FILMSKI", Cinemax 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/435
 
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Music", Grand
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-logo="http://116.203.156.75/logo/177.png" group-title="FILMSKI", Cinemax 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/434
 
-#EXTINF:-1 tvg-id="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Music", Grand 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1071
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6543
 
-#EXTINF:-1 tvg-id="sevdah-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Music", TV Sevdah
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/730
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6542
 
-#EXTINF:-1 tvg-id="izvorna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Music", Izvorna TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/231
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/431
 
-#EXTINF:-1 tvg-id="otv-valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Music", OTV Valentino
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/152
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/430
 
-#EXTINF:-1 tvg-id="valentino-music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Music", Valentino Music
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/32083
+#EXTINF:-1 tvg-id="CineStar TV (HR)" tvg-logo="http://116.203.156.75/logo/cine.png" group-title="FILMSKI", CineStar TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/429
 
-#EXTINF:-1 tvg-id="valentino-etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Music", Valentino Etno
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/32082
+#EXTINF:-1 tvg-id="CineStar TV 2 HD" tvg-logo="http://nova-iptv.com/logo/Cinestar_tv2_logo.png" group-title="FILMSKI", CineStar TV 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8304
 
-#EXTINF:-1 tvg-id="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Music", CityPlay
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69400
+#EXTINF:-1 tvg-id="CineStar TV Fantasy HD" tvg-logo="http://116.203.156.75/logo/cinestartv_fantasy_logo.png" group-title="FILMSKI", CineStar Fantasy
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/432
 
-#EXTINF:-1 tvg-id="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Music", Toxic Folk
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/66261
+#EXTINF:-1 tvg-id="CineStar TV Action (HR)" tvg-logo="http://116.203.156.75/logo/cineaction.png" group-title="FILMSKI", Cinestar Action
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/433
 
-#EXTINF:-1 tvg-id="tv-duga-sat" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Music", Duga TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/549
+#EXTINF:-1 tvg-id="CineStar TV Comedy & Family HD" tvg-logo="http://nova-iptv.com/logo/cinestartv_comedy_logo.png" group-title="FILMSKI", Cinestar Comedy
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10320
 
-#EXTINF:-1 tvg-id="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Music", KCN 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/630
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-logo="http://nova-iptv.com/logo/cinemania-logo.png" group-title="FILMSKI", Cinemania HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9284
 
-#EXTINF:-1 tvg-id="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Music", KCN 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/641
+#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/423
 
-#EXTINF:-1 tvg-id="bravo!" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/music/bravo.gif" group-title="Music", bravo!
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/74027
+#EXTINF:-1 tvg-id="FOX Crime HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/422
 
-#EXTINF:-1 tvg-id="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Music", DMC Tv
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69133
+#EXTINF:-1 tvg-id="FOX Life HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/421
 
-#EXTINF:-1 tvg-id="jugoton-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Music", Jugoton TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/251
+#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/420
 
-#EXTINF:-1 tvg-id="cmc" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Music", CMC
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/113
+#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6305
 
-#EXTINF:-1 tvg-id="Banovina" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Music", Banovina
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1552
+#EXTINF:-1 tvg-id="FOX Life HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6307
 
-#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Music", Klape i Tambure
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69348
+#EXTINF:-1 tvg-id="FOX Crime HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6306
 
-#EXTINF:-1 tvg-id="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Music", Croatia Records
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69902
+#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6308
 
-#EXTINF:-1 tvg-id="pink-hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Music", Pink Hits
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/4140
+#EXTINF:-1 tvg-id="Superstar TV HD" tvg-logo="http://nova-iptv.com/logo/SuperstarTV_logo.png" group-title="FILMSKI", SUPER STAR TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6270
 
-#EXTINF:-1 tvg-id="pink-n-roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Music", Pink n Roll
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69401
+#EXTINF:-1 tvg-id="SUPERSTAR 2" tvg-logo="http://nova-iptv.com/logo/Superstar_2_RS_logo.png" group-title="FILMSKI", SUPER STAR 2 TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6748
 
-#EXTINF:-1 tvg-id="balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Music", Balkanika
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/239
+#EXTINF:-1 tvg-id="SUPER STAR 3 TV" tvg-logo="http://116.203.156.75/logo/superstar_3.png" group-title="FILMSKI", SUPER STAR 3 TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13281
 
-#EXTINF:-1 tvg-id="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Music", Krone Hit
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69786
+#EXTINF:-1 tvg-id="Film Box Premium HD" tvg-logo="http://nova-iptv.com/logo/FilmBox_Premium_logo.png" group-title="FILMSKI", Film Box Premium HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12802
 
-#EXTINF:-1 tvg-id="mtv-hits-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Music", MTV Hits
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/16758
+#EXTINF:-1 tvg-id="Film Box Extra HD" tvg-logo="http://nova-iptv.com/logo/filmboxextrahd_logo.png" group-title="FILMSKI", Film Box Extra HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/424
 
-#EXTINF:-1 tvg-id="mtv00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Music", MTV 00s
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/50
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://nova-iptv.com/logo/FilmboxStars_Black.png" group-title="FILMSKI", Film Box Stars
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5510
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Music", MTV 80s
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69350
+#EXTINF:-1 tvg-id="TV1000" tvg-logo="http://116.203.156.75/logo/tv1000.png" group-title="FILMSKI", TV 1000
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/408
 
-#EXTINF:-1 tvg-id="mtv-dance-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Music", MTV Club
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/16759
+#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/99.png" group-title="FILMSKI", AMC
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/599
 
-#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhd.gif" group-title="Pink", PINK HD
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/5
+#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="http://nova-iptv.com/logo/Epic_Drama_BG_logo.png" group-title="FILMSKI", Epic Drama
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6656
 
-#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink.gif" group-title="Pink", Pink
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/30275
+#EXTINF:-1 tvg-id="Diva" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/50.png" group-title="FILMSKI", Diva
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/576
 
-#EXTINF:-1 tvg-id="pink-bih" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkbh.gif" group-title="Pink", Pink BH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/12616
+#EXTINF:-1 tvg-id="Dizi" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DIZI_PL_logo.png" group-title="FILMSKI", Dizi
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9342
 
-#EXTINF:-1 tvg-id="Pink Vesti" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkvesti.gif" group-title="Pink", Pink Vesti
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/67719
+#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="http://116.203.156.75/logo/sci_fi.png" group-title="FILMSKI", SciFi
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/409
 
-#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="Pink", Narodna TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/81555
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/axn.png" group-title="FILMSKI", AXN
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/596
 
-#EXTINF:-1 tvg-id="pink-film" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfilm.gif" group-title="Pink", Pink Film
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/6
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/axn_spin_logo.png" group-title="FILMSKI", AXN Spin
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/595
 
-#EXTINF:-1 tvg-id="pink-action" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkaction.gif" group-title="Pink", Pink Action
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/150
+#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="http://nova-iptv.com/logo/comedy_central_ro.png" group-title="FILMSKI", Comedy Central Extra
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/586
 
-#EXTINF:-1 tvg-id="pink-classic" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkclasic.gif" group-title="Pink", Pink Classic
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1182
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/klasik.png" group-title="FILMSKI", Klasik Tv
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/415
 
-#EXTINF:-1 tvg-id="pink-comedy" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcomedy.gif" group-title="Pink", Pink Comedy
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/42
+#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://nova-iptv.com/logo/kinotv_logo.png" group-title="FILMSKI", Kino TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/416
 
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="noimage.png" group-title="Pink", Pink Premium
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/77668
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/m1film-logo.png" group-title="FILMSKI", M1 Film
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/414
 
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcrime&mystery.gif" group-title="Pink", Pink Crime & Mystery
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/110
+#EXTINF:-1 tvg-id="M1 Gold" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Gold
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8900
 
-#EXTINF:-1 tvg-id="pink-family" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfamily.gif" group-title="Pink", Pink Family
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/614
+#EXTINF:-1 tvg-id="M1 Family" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Family
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12861
 
-#EXTINF:-1 tvg-id="pink-horror" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhoror.gif" group-title="Pink", Pink Horror
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/108
+#EXTINF:-1 tvg-id="N1 HD (SR)" tvg-logo="http://nova-iptv.com/logo/pickbox_logo_new.png" group-title="FILMSKI", PickBox TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8563
 
-#EXTINF:-1 tvg-id="pink-movies" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkmovies.gif" group-title="Pink", Pink Movies
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1143
+#EXTINF:-1 tvg-id="Euro Cinema 1 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_1_RS_logo.png" group-title="FILMSKI", Euro Cinema 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12842
 
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkromance.gif" group-title="Pink", Pink Romance
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2796
+#EXTINF:-1 tvg-id="Euro Cinema 2 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_2_RS_logo.png" group-title="FILMSKI", Euro Cinema 2 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12843
 
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkscifi&fantasy.gif" group-title="Pink", Pink Sci-Fi & Fantasy
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1412
+#EXTINF:-1 tvg-id="Euro Cinema 3 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_3_RS_logo.png" group-title="FILMSKI", Euro Cinema 3 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12844
 
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkthriler.gif" group-title="Pink", Pink Thriller
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/111
+#EXTINF:-1 tvg-id="Euro Cinema 4 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_4_RS_logo.png" group-title="FILMSKI", Euro Cinema 4 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12845
 
-#EXTINF:-1 tvg-id="pink-western" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkwestern.gif" group-title="Pink", Pink Western
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/49
+#EXTINF:-1 tvg-id="Prijatelji 24/7" tvg-logo="http://airlink.club:8080/images/d63fed889a25761dbce570906b51a44e.png" group-title="FILMSKI", Prijatelji 24/7
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12337
 
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworldcinema.gif" group-title="Pink", Pink World Cinema
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/153
+#EXTINF:-1 tvg-id="Mucke 24/7" tvg-logo="http://airlink.club:8080/images/c249201905aae2f76d255257f41ee1d1.png" group-title="FILMSKI", Mucke 24/7
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12339
 
-#EXTINF:-1 tvg-id="pink-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/redtv.gif" group-title="Pink", Red TV
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/37937
+#EXTINF:-1 tvg-id="Dva i po muskarca 24/7" tvg-logo="http://airlink.club:8080/images/2de61cc6752576441802cd008295c009.png" group-title="FILMSKI", Dva i po muskarca 24/7
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12870
 
-#EXTINF:-1 tvg-id="pink-plus" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink_plus.gif" group-title="Pink", Pink Plus
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35958
+#EXTINF:-1 tvg-id="Nova Family." tvg-logo="noimage.png" group-title="FILMSKI", Nova Family.
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12084
 
-#EXTINF:-1 tvg-id="pink-extra" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkextra.gif" group-title="Pink", Pink Extra
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1211
+#EXTINF:-1 tvg-id="HBO MAX HD" tvg-logo="noimage.png" group-title="FILMSKI", HBO MAX HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6273
 
-#EXTINF:-1 tvg-id="pink-reality" tvg-logo="http://web.izipizi1.info/pi/pink-reality.png" group-title="Pink", Pink Reality
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/35
+#EXTINF:-1 tvg-id="Gora Premiere HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Premiere HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3799
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkkuvar.gif" group-title="Pink", Pink Kuvar
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/43
+#EXTINF:-1 tvg-id="Gora Select 1 HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Select 1 HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5467
 
-#EXTINF:-1 tvg-id="pink-pedia" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkpedia.gif" group-title="Pink", Pink Pedia
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1140
+#EXTINF:-1 tvg-id="Toxic HD" tvg-logo="noimage.png" group-title="MUZICKI", Toxic HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9064
 
-#EXTINF:-1 tvg-id="pink-style" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkstyle.gif" group-title="Pink", Pink Style
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1144
+#EXTINF:-1 tvg-id="Toxic Folk HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Folk_RS_logo.png" group-title="MUZICKI", Toxic Folk HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12846
 
-#EXTINF:-1 tvg-id="pink-soap" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinksoap.gif" group-title="Pink", Pink Soap
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1214
+#EXTINF:-1 tvg-id="Toxic Rap HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Rap_RS_logo.png" group-title="MUZICKI", Toxic Rap HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12847
 
-#EXTINF:-1 tvg-id="pink-show" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkshow.gif" group-title="Pink", Pink Show
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/211
+#EXTINF:-1 tvg-id="Balkanika TV" tvg-logo="noimage.png" group-title="MUZICKI", Balkanika TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/391
 
-#EXTINF:-1 tvg-id="pink-zabava" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkzabava.gif" group-title="Pink", Pink Zabava
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2795
+#EXTINF:-1 tvg-id="MTV Adria" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/46.png" group-title="MUZICKI", MTV Adria
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/551
 
-#EXTINF:-1 tvg-id="pink-world" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworld.gif" group-title="Pink", Pink World
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1142
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 80s
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/394
 
-#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhaha.gif" group-title="Pink", Pink HA HA
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/1161
+#EXTINF:-1 tvg-id="MTV Music" tvg-logo="noimage.png" group-title="MUZICKI", MTV Music
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/392
 
-#EXTINF:-1 tvg-id="pink-lol" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinklol.gif" group-title="Pink", Pink LOL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2612
+#EXTINF:-1 tvg-id="MTV Live" tvg-logo="noimage.png" group-title="MUZICKI", MTV Live
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10260
 
-#EXTINF:-1 tvg-id="pink-serije" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkserije.gif" group-title="Pink", Pink Serije
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/79614
+#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 90s
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10261
 
-#EXTINF:-1 tvg-id="Bravo! Rock" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Rock
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72615
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 00s
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/504
 
-#EXTINF:-1 tvg-id="Bravo! Balade" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Balade
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72616
+#EXTINF:-1 tvg-id="Muzzik HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12526
 
-#EXTINF:-1 tvg-id="Bravo! Pop" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Pop
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/72617
+#EXTINF:-1 tvg-id="Muzzik Rock HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Rock HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12527
 
-#EXTINF:-1 tvg-id="Extra Fm" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Extra Fm
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71271
+#EXTINF:-1 tvg-id="Muzzik World HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik World HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12528
 
-#EXTINF:-1 tvg-id="Extra Fresh" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Extra Fresh
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/71273
+#EXTINF:-1 tvg-id="Muzzik Jeka HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Jeka HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12529
 
-#EXTINF:-1 tvg-id="Big Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Big Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68892
+#EXTINF:-1 tvg-id="Muzzik Riviera HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Riviera HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12530
 
-#EXTINF:-1 tvg-id="Naxi  Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi  Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/68905
+#EXTINF:-1 tvg-id="Muzzik HipHop HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HipHop HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12531
 
-#EXTINF:-1 tvg-id="Naxi Slager Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Slager Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69337
+#EXTINF:-1 tvg-id="Muzzik OKK HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik OKK HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12532
 
-#EXTINF:-1 tvg-id="Naxi Boem Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Boem Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69338
+#EXTINF:-1 tvg-id="CMC" tvg-logo="noimage.png" group-title="MUZICKI", CMC
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/588
 
-#EXTINF:-1 tvg-id="Naxi Ex-Yu Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Ex-Yu Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69340
+#EXTINF:-1 tvg-id="BN Music HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/34.png" group-title="MUZICKI", BN Music HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/591
 
-#EXTINF:-1 tvg-id="Radio Valentino" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Valentino
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/63461
+#EXTINF:-1 tvg-id="IDJ TV" tvg-logo="noimage.png" group-title="MUZICKI", IDJ TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9283
 
-#EXTINF:-1 tvg-id="RSG-radio stari grad" tvg-logo="http://repo.ottshow.net/slika/xr2kory8DLaw.gif" group-title="Radio", RSG-radio stari grad
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21880
+#EXTINF:-1 tvg-id="Grand" tvg-logo="noimage.png" group-title="MUZICKI", Grand
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9275
 
-#EXTINF:-1 tvg-id="BH Radio" tvg-logo="http://repo.ottshow.net/slika/344iFox4Snfa.gif" group-title="Radio", BH Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21881
+#EXTINF:-1 tvg-id="Grand 2" tvg-logo="noimage.png" group-title="MUZICKI", Grand 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9276
 
-#EXTINF:-1 tvg-id="Radio FBiH" tvg-logo="http://repo.ottshow.net/slika/syN6UTktNwV9.gif" group-title="Radio", Radio FBiH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21882
+#EXTINF:-1 tvg-id="DM Sat" tvg-logo="noimage.png" group-title="MUZICKI", DM Sat
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/406
 
-#EXTINF:-1 tvg-id="Kalman radio-Narodni radio" tvg-logo="http://repo.ottshow.net/slika/L9GmsH3x8IIk.gif" group-title="Radio", Kalman radio-Narodni radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20704
+#EXTINF:-1 tvg-id="ExYu Melody" tvg-logo="noimage.png" group-title="MUZICKI", ExYu Melody
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9038
 
-#EXTINF:-1 tvg-id="Antena radio jelah" tvg-logo="http://repo.ottshow.net/slika/2sW2kPtCFDCP.gif" group-title="Radio", Antena radio jelah
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/21879
+#EXTINF:-1 tvg-id="Top Sound" tvg-logo="noimage.png" group-title="MUZICKI", Top Sound
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8864
 
-#EXTINF:-1 tvg-id="Radio Avaz" tvg-logo="http://repo.ottshow.net/slika/L9oEm6S1XdIU.gif" group-title="Radio", Radio Avaz
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2534
+#EXTINF:-1 tvg-id="Duga TV" tvg-logo="noimage.png" group-title="MUZICKI", Duga TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5416
 
-#EXTINF:-1 tvg-id="BN Radio" tvg-logo="http://repo.ottshow.net/slika/hvvpOXEWqR4I.gif" group-title="Radio", BN Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2527
+#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="http://116.203.156.75/logo/izvorna.png" group-title="MUZICKI", Izvorna TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/402
 
-#EXTINF:-1 tvg-id="Radio Nostalgija" tvg-logo="http://repo.ottshow.net/slika/UYWPzygiJvXB.gif" group-title="Radio", Radio Nostalgija
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2528
+#EXTINF:-1 tvg-id="Amari" tvg-logo="noimage.png" group-title="MUZICKI", Amari
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12390
 
-#EXTINF:-1 tvg-id="Radio-VAL" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio-VAL
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/59382
+#EXTINF:-1 tvg-id="Jugoton TV" tvg-logo="noimage.png" group-title="MUZICKI", Jugoton TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/401
 
-#EXTINF:-1 tvg-id="Radio Blato" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Blato
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/49322
+#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="MUZICKI", Narodna TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/393
 
-#EXTINF:-1 tvg-id="Radio Korcula" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Korcula
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/59383
+#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/62.png" group-title="MUZICKI", OTV Valentino
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/540
 
-#EXTINF:-1 tvg-id="Narodni radio HR" tvg-logo="http://repo.ottshow.net/slika/8TvPbr1KwFmB.gif" group-title="Radio", Narodni radio HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20719
+#EXTINF:-1 tvg-id="Hayat Music Box" tvg-logo="http://116.203.156.75/logo/hayat-music-box.png" group-title="MUZICKI", Hayat Music Box
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/564
 
-#EXTINF:-1 tvg-id="Radio Split" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Split
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/59384
+#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="noimage.png" group-title="MUZICKI", Sevdah TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/396
 
-#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="http://repo.ottshow.net/slika/WINMwlYCZGu0.gif" group-title="Radio", HRT HR 1
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15282
+#EXTINF:-1 tvg-id="Hayat Folk Box" tvg-logo="http://116.203.156.75/logo/hayat-folk-box.png" group-title="MUZICKI", Hayat Folk Box
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/565
 
-#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="http://repo.ottshow.net/slika/5ToHhYxpSB0Y.gif" group-title="Radio", HRT HR 2
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15281
+#EXTINF:-1 tvg-id="Pink BH" tvg-logo="http://116.203.156.75/logo/pink_bh.png" group-title="PINK", Pink BH
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3647
 
-#EXTINF:-1 tvg-id="Radio Dalmacija" tvg-logo="http://repo.ottshow.net/slika/KSLq9kB583VU.gif" group-title="Radio", Radio Dalmacija
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20720
+#EXTINF:-1 tvg-id="Pink" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK", PINK
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/376
 
-#EXTINF:-1 tvg-id="Hit Radio" tvg-logo="http://repo.ottshow.net/slika/oBNGskggCQs7.gif" group-title="Radio", Hit Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2530
+#EXTINF:-1 tvg-id="pink.sr" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK", PINK HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7466
 
-#EXTINF:-1 tvg-id="Radio Sevdah" tvg-logo="http://repo.ottshow.net/slika/YjUTXp68M01M.gif" group-title="Radio", Radio Sevdah
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2535
+#EXTINF:-1 tvg-id="pink-2" tvg-logo="http://116.203.156.75/logo/Red-TV-Pink-Logo.png" group-title="PINK", Red TV
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/375
 
-#EXTINF:-1 tvg-id="Radio Gold" tvg-logo="http://repo.ottshow.net/slika/3BYdixSDJVRT.gif" group-title="Radio", Radio Gold
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/2633
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/Vesti_RS_logo.png" group-title="PINK", Pink Vesti
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/374
 
-#EXTINF:-1 tvg-id="Radio Marija BH" tvg-logo="http://repo.ottshow.net/slika/TSUYBFsL2ZDu.gif" group-title="Radio", Radio Marija BH
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/3735
+#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://116.203.156.75/logo/pink_action.png" group-title="PINK", Pink Action HD
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/373
 
-#EXTINF:-1 tvg-id="OK Radio" tvg-logo="http://repo.ottshow.net/slika/0pLmNukBKWB7.gif" group-title="Radio", OK Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/9141
+#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="http://116.203.156.75/logo/pink_comedy.png" group-title="PINK", Pink Comedy
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/371
 
-#EXTINF:-1 tvg-id="Rovinj FM" tvg-logo="http://repo.ottshow.net/slika/YnAvsnhHtJRW.gif" group-title="Radio", Rovinj FM
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15211
+#EXTINF:-1 tvg-id="Pink Crime & Mystery" tvg-logo="http://116.203.156.75/logo/pink_crime_mistery.png" group-title="PINK", Pink Crime & Mystery
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/370
 
-#EXTINF:-1 tvg-id="Radio Vrbovec 94.5" tvg-logo="http://repo.ottshow.net/slika/yBECbKVjNaGe.gif" group-title="Radio", Radio Vrbovec 94.5
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15215
+#EXTINF:-1 tvg-id="Pink Film" tvg-logo="http://116.203.156.75/logo/pink_film.png" group-title="PINK", Pink Film
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/369
 
-#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="http://repo.ottshow.net/slika/PQ3QVitJf8wq.gif" group-title="Radio", Radio Sunce
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15219
+#EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="http://116.203.156.75/logo/pink_folk1.png" group-title="PINK", Pink Folk 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/368
 
-#EXTINF:-1 tvg-id="Radio Quirinus 91.7" tvg-logo="http://repo.ottshow.net/slika/FW0MtZSR8Cbh.gif" group-title="Radio", Radio Quirinus 91.7
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15226
+#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://116.203.156.75/logo/pink_folk2.png" group-title="PINK", Pink Folk 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/367
 
-#EXTINF:-1 tvg-id="Radio Ogulin" tvg-logo="http://repo.ottshow.net/slika/PQzbNzPYBFMS.gif" group-title="Radio", Radio Ogulin
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15228
+#EXTINF:-1 tvg-id="PINK HA HA" tvg-logo="http://116.203.156.75/logo/pink_haha.jpg" group-title="PINK", PINK HA HA
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/366
 
-#EXTINF:-1 tvg-id="Radio Moslavina" tvg-logo="http://repo.ottshow.net/slika/Sdad8zh5bC5i.gif" group-title="Radio", Radio Moslavina
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15231
+#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="http://116.203.156.75/logo/pink_horor.png" group-title="PINK", Pink Horror
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/356
 
-#EXTINF:-1 tvg-id="Radio Martin" tvg-logo="http://repo.ottshow.net/slika/5PT18pUvG71J.gif" group-title="Radio", Radio Martin
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15233
+#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="http://116.203.156.75/logo/pink_kids.png" group-title="PINK", Pink Kids
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/365
 
-#EXTINF:-1 tvg-id="Radio Mir Medugorje" tvg-logo="http://repo.ottshow.net/slika/PqPntQtstCPA.gif" group-title="Radio", Radio Mir Medugorje
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15234
+#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="http://116.203.156.75/logo/pink_movies.png" group-title="PINK", Pink Movies
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/363
 
-#EXTINF:-1 tvg-id="Radio Kaj" tvg-logo="http://repo.ottshow.net/slika/uxZRrFc6GzP5.gif" group-title="Radio", Radio Kaj
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15239
+#EXTINF:-1 tvg-id="Pink Music 1" tvg-logo="http://116.203.156.75/logo/pink_music.png" group-title="PINK", Pink Music 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/362
 
-#EXTINF:-1 tvg-id="Radio Deejay HR" tvg-logo="http://repo.ottshow.net/slika/IwoP7d9hPO4I.gif" group-title="Radio", Radio Deejay HR
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15242
+#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://116.203.156.75/logo/pink_music2.png" group-title="PINK", Pink Music 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/361
 
-#EXTINF:-1 tvg-id="Radio Banovina" tvg-logo="http://repo.ottshow.net/slika/W3geWzgS5QsG.gif" group-title="Radio", Radio Banovina
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15245
+#EXTINF:-1 tvg-id="Pink & Roll" tvg-logo="http://116.203.156.75/logo/PinkNRoll_logo.png" group-title="PINK", Pink & Roll
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6640
 
-#EXTINF:-1 tvg-id="Radio 101 FM" tvg-logo="http://repo.ottshow.net/slika/P0V4s7bwNJIn.gif" group-title="Radio", Radio 101 FM
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15249
+#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="http://116.203.156.75/logo/pink_plus.png" group-title="PINK", Pink Plus
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/360
 
-#EXTINF:-1 tvg-id="Radio 057" tvg-logo="http://repo.ottshow.net/slika/5DBStAk3GUEK.gif" group-title="Radio", Radio 057
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15251
+#EXTINF:-1 tvg-id="pink-premium" tvg-logo="http://116.203.156.75/logo/pink_premium.png" group-title="PINK", Pink Premium
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/359
 
-#EXTINF:-1 tvg-id="Obiteljski Radio Ivanic" tvg-logo="http://repo.ottshow.net/slika/EwrTaJV4ran7.gif" group-title="Radio", Obiteljski Radio Ivanic
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15255
+#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="http://116.203.156.75/logo/pinkReality.png" group-title="PINK", Pink Reality
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/358
 
-#EXTINF:-1 tvg-id="Novi Radio Zadar" tvg-logo="http://repo.ottshow.net/slika/mRBcFbczjJUs.gif" group-title="Radio", Novi Radio Zadar
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15256
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/Pink_Romance_logo.png" group-title="PINK", Pink Romance
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/357
 
-#EXTINF:-1 tvg-id="KLFM.ORG" tvg-logo="http://repo.ottshow.net/slika/6KNTFvnmmMbt.gif" group-title="Radio", KLFM.ORG
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15265
+#EXTINF:-1 tvg-id="Pink Sci-Fi & Fantasy" tvg-logo="http://116.203.156.75/logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK", Pink Sci Fi & Fantasy
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/355
 
-#EXTINF:-1 tvg-id="KLFM" tvg-logo="http://repo.ottshow.net/slika/NrntXJeKkXsh.gif" group-title="Radio", KLFM
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15266
+#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="http://116.203.156.75/logo/pink_serije.png" group-title="PINK", Pink Serije
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/353
 
-#EXTINF:-1 tvg-id="Hit Rado Sinj" tvg-logo="http://repo.ottshow.net/slika/liHKpP7MTOFz.gif" group-title="Radio", Hit Rado Sinj
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15285
+#EXTINF:-1 tvg-id="Pink Show" tvg-logo="http://116.203.156.75/logo/PinkShow.png" group-title="PINK", Pink Show
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/352
 
-#EXTINF:-1 tvg-id="Gold FM Uzivo" tvg-logo="http://repo.ottshow.net/slika/Iy1UQ2JbDpvL.gif" group-title="Radio", Gold FM Uzivo
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15286
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/pinksoap.png" group-title="PINK", PINK SOAP
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/351
 
-#EXTINF:-1 tvg-id="Gold FM" tvg-logo="http://repo.ottshow.net/slika/pzk3I8jsWA2f.gif" group-title="Radio", Gold FM
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15287
+#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="http://116.203.156.75/logo/Pink_Thriller_logo.png" group-title="PINK", Pink Thriler
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/354
 
-#EXTINF:-1 tvg-id="ENTER Zagreb" tvg-logo="http://repo.ottshow.net/slika/4Dps4411d8gs.gif" group-title="Radio", ENTER Zagreb
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15289
+#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="http://116.203.156.75/logo/pink_classic.png" group-title="PINK", Pink Classic
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5665
 
-#EXTINF:-1 tvg-id="City-radio 88.6" tvg-logo="http://repo.ottshow.net/slika/eZtvYAjDvk2U.gif" group-title="Radio", City-radio 88.6
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15310
+#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://116.203.156.75/logo/pink_family.png" group-title="PINK", Pink Family
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5666
 
-#EXTINF:-1 tvg-id="Antena Zagreb Uživo" tvg-logo="http://repo.ottshow.net/slika/vIJ5tfiybx1d.gif" group-title="Radio", Antena Zagreb Uživo
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/15313
+#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="http://116.203.156.75/logo/pink_kuvar.png" group-title="PINK", Pink Kuvar
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5664
 
-#EXTINF:-1 tvg-id="Cool Radio" tvg-logo="http://repo.ottshow.net/slika/63U52lklxUZG.gif" group-title="Radio", Cool Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20702
+#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://nova-iptv.com/logo/pink-extra.png" group-title="PINK", Pink Extra
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12557
 
-#EXTINF:-1 tvg-id="Kitt Radio Wien 23" tvg-logo="http://repo.ottshow.net/slika/fJj96IhKCfCu.gif" group-title="Radio", Kitt Radio Wien 23
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20705
+#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="http://nova-iptv.com/logo/PinkKoncert_logo.png" group-title="PINK", Pink Koncert
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12558
 
-#EXTINF:-1 tvg-id="Radio DJ Sultan M" tvg-logo="http://repo.ottshow.net/slika/dsCE2b8cB1mW.gif" group-title="Radio", Radio DJ Sultan M
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20706
+#EXTINF:-1 tvg-id="Pink LOL" tvg-logo="http://116.203.156.75/logo/pink_lol.png" group-title="PINK", Pink LOL
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5663
 
-#EXTINF:-1 tvg-id="RADIO HIT Merak" tvg-logo="http://repo.ottshow.net/slika/QZjs7c9rDxQY.gif" group-title="Radio", RADIO HIT Merak
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20707
+#EXTINF:-1 tvg-id="Pink World" tvg-logo="http://116.203.156.75/logo/pink_world.png" group-title="PINK", Pink World
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5667
 
-#EXTINF:-1 tvg-id="Radio BIR Bosna" tvg-logo="http://repo.ottshow.net/slika/OjlLXGjCbsHH.gif" group-title="Radio", Radio BIR Bosna
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20708
+#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="http://116.203.156.75/logo/pink_pedia.png" group-title="PINK", Pink Pedia
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/350
 
-#EXTINF:-1 tvg-id="Vip zvuci rodnog kraja" tvg-logo="http://repo.ottshow.net/slika/DvBIds2N8GyY.gif" group-title="Radio", Vip zvuci rodnog kraja
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20710
+#EXTINF:-1 tvg-id="Pink Western" tvg-logo="http://116.203.156.75/logo/pink-western-logo.png" group-title="PINK", Pink Western
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/349
 
-#EXTINF:-1 tvg-id="Antena Radio Krusevac" tvg-logo="http://repo.ottshow.net/slika/C1ENeA4PZgom.gif" group-title="Radio", Antena Radio Krusevac
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20711
+#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="http://116.203.156.75/logo/pink_world_cinema.png" group-title="PINK", Pink World Cinema
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/348
 
-#EXTINF:-1 tvg-id="Civijas Radio Sabac" tvg-logo="http://repo.ottshow.net/slika/MtsVx6JWSk0L.gif" group-title="Radio", Civijas Radio Sabac
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20712
+#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="http://116.203.156.75/logo/pink_zabava.png" group-title="PINK", Pink Zabava
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/347
 
-#EXTINF:-1 tvg-id="Otvorena Mreza Sarajavo" tvg-logo="http://repo.ottshow.net/slika/VOhv4YkoT5g8.gif" group-title="Radio", Otvorena Mreza Sarajavo
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/20718
+#EXTINF:-1 tvg-id="VIP Radio" tvg-logo="noimage.png" group-title="RADIO", VIP Radio
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8681
 
-#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="http://repo.ottshow.net/slika/aLVYroXYfbKI.gif" group-title="Radio", Radio Posavina
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/36344
+#EXTINF:-1 tvg-id="Radio KRAJINA Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio KRAJINA Cazin
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3782
 
-#EXTINF:-1 tvg-id="CER (SABAC)" tvg-logo="http://repo.ottshow.net/slika/429gF5wZPOdH" group-title="Radio", CER (SABAC)
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/38433
+#EXTINF:-1 tvg-id="BN Radio" tvg-logo="noimage.png" group-title="RADIO", BN Radio
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3
 
-#EXTINF:-1 tvg-id="Radio S Juzni" tvg-logo="http://repo.ottshow.net/slika/bh0Z0PYgSFAl" group-title="Radio", Radio S Juzni
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/38538
+#EXTINF:-1 tvg-id="Rock Radio" tvg-logo="noimage.png" group-title="RADIO", Rock Radio
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6
 
-#EXTINF:-1 tvg-id="Naxi Latino" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Latino
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69328
+#EXTINF:-1 tvg-id="Play Radio" tvg-logo="noimage.png" group-title="RADIO", Play Radio
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10
 
-#EXTINF:-1 tvg-id="Naxi Cafe Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Cafe Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69329
+#EXTINF:-1 tvg-id="Pink Radio" tvg-logo="noimage.png" group-title="RADIO", Pink Radio
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/4
 
-#EXTINF:-1 tvg-id="Naxi 80E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 80E Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69330
+#EXTINF:-1 tvg-id="Radio Livno" tvg-logo="noimage.png" group-title="RADIO", Radio Livno
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9
 
-#EXTINF:-1 tvg-id="Naxi Dance Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Dance Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69331
+#EXTINF:-1 tvg-id="BIG Radio" tvg-logo="noimage.png" group-title="RADIO", BIG Radio
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5
 
-#EXTINF:-1 tvg-id="Naxi 90E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 90E Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69332
+#EXTINF:-1 tvg-id="Radio Stari Grad Sarajevo" tvg-logo="noimage.png" group-title="RADIO", Radio Stari Grad Sarajevo
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8
 
-#EXTINF:-1 tvg-id="Naxi Love Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Love Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69333
+#EXTINF:-1 tvg-id="Radio Tomislavgrad" tvg-logo="noimage.png" group-title="RADIO", Radio Tomislavgrad
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7
 
-#EXTINF:-1 tvg-id="Naxi Jaaz radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Jaaz radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69334
+#EXTINF:-1 tvg-id="Radio Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio Cazin
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6636
 
-#EXTINF:-1 tvg-id="Naxi 70E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 70E Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69335
+#EXTINF:-1 tvg-id="Radio USK" tvg-logo="noimage.png" group-title="RADIO", Radio USK
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6637
 
-#EXTINF:-1 tvg-id="Naxi Classic Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Classic Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69336
+#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="noimage.png" group-title="RADIO", HRT HR 1
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6709
 
-#EXTINF:-1 tvg-id="Naxi Rock Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Rock Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/69341
+#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="noimage.png" group-title="RADIO", HRT HR 2
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6710
 
-#EXTINF:-1 tvg-id="Radio Feral" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Feral
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/76741
+#EXTINF:-1 tvg-id="Hrvatski radio Zupanja" tvg-logo="noimage.png" group-title="RADIO", Hrvatski radio Zupanja
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6703
 
-#EXTINF:-1 tvg-id="Radio Glas Drine" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Glas Drine
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/76742
+#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="noimage.png" group-title="RADIO", Radio Posavina
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6707
 
-#EXTINF:-1 tvg-id="Buban Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Buban Radio
-http://ottshow.net:80/Sasa.maljkovic9/Re@ctor102030/82901
+#EXTINF:-1 tvg-id="Radio Sibenik" tvg-logo="noimage.png" group-title="RADIO", Radio Sibenik
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6705
 
+#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="noimage.png" group-title="RADIO", Radio Sunce
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6702
 
+#EXTINF:-1 tvg-id="Radio Zapresic" tvg-logo="noimage.png" group-title="RADIO", Radio Zapresic
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6708
+
+#EXTINF:-1 tvg-id="Enter Zagreb" tvg-logo="noimage.png" group-title="RADIO", Enter Zagreb
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6706
+
+#EXTINF:-1 tvg-id="Antena Zagreb" tvg-logo="noimage.png" group-title="RADIO", Antena Zagreb
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6704
+
+#EXTINF:-1 tvg-id="RTG Music" tvg-logo="noimage.png" group-title="RADIO", RTG Music
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10240
+
+#EXTINF:-1 tvg-id="RTG Bastina" tvg-logo="noimage.png" group-title="RADIO", RTG Bastina
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12562
+
+#EXTINF:-1 tvg-id="RTG Frama" tvg-logo="noimage.png" group-title="RADIO", RTG Frama
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12563
+
+#EXTINF:-1 tvg-id="RTG Djeciji" tvg-logo="noimage.png" group-title="RADIO", RTG Djeciji
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12564
+
+#EXTINF:-1 tvg-id="RTG Domovina" tvg-logo="noimage.png" group-title="RADIO", RTG Domovina
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12565
+
+#EXTINF:-1 tvg-id="Radiopostaja Mir Medjugorje" tvg-logo="noimage.png" group-title="RADIO", Radiopostaja Mir Medjugorje
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10241
+
+#EXTINF:-1 tvg-id="Kupreski Radio" tvg-logo="noimage.png" group-title="RADIO", Kupreski Radio
+http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10242
 
 
 
