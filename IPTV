@@ -1,42 +1,42 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1 HD
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1 HD
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/560
 
-#EXTINF:-1 tvg-id="hrt2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2 HD
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2 HD
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6049
 
-#EXTINF:-1 tvg-id="hrt3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3 HD
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3 HD
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/558
 
-#EXTINF:-1 tvg-id="hrt4 hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4 HD
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4 HD
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/557
 
-#EXTINF:-1 tvg-id="hrt1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6858
 
-#EXTINF:-1 tvg-id="hrt2" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/559
 
-#EXTINF:-1 tvg-id="hrt3" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6859
 
-#EXTINF:-1 tvg-id="hrt4" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4
+#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6860
 
-#EXTINF:-1 tvg-id="hrtint" tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA", HRT int.
+#EXTINF:-1 tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA", HRT int.
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/556
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 HD (Hevc)
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 HD (Hevc)
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12097
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 HD (Hevc)
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 HD (Hevc)
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12100
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 HD (Hevc)
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 HD (Hevc)
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12098
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 HD (Hevc)
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 HD (Hevc)
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12099
 
 #EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HRVATSKA", Rtl Croatia World
@@ -45,22 +45,22 @@ http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10165
 #EXTINF:-1 tvg-id="RTL Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Adria_2020.png" group-title="HRVATSKA", RTL Adria
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8629
 
-#EXTINF:-1 tvg-id="rtl" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7516
 
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8220
 
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD (Hevc)
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD (Hevc)
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12092
 
-#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7519
 
-#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8298
 
-#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD (Hevc)
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD (Hevc)
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12093
 
 #EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion
@@ -84,13 +84,13 @@ http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8301
 #EXTINF:-1 tvg-id="N1 HR" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="HRVATSKA", N1 HR
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9272
 
-#EXTINF:-1 tvg-id="Nova HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9270
 
-#EXTINF:-1 tvg-id="Nova HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9278
 
-#EXTINF:-1 tvg-id="Nova HR" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD (Hevc)
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD (Hevc)
 http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12090
 
 #EXTINF:-1 tvg-id="Nova World" tvg-logo="http://nova-iptv.com/logo/Nova_World_2011.png" group-title="HRVATSKA", Nova World
