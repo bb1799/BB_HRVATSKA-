@@ -1,1248 +1,1493 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/560
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6049
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-1-hr.png" group-title="★ HRVATSKI", HRT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1189
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/558
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-2-hr.png" group-title="★ HRVATSKI", HRT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1190
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/557
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-3-hr.png" group-title="★ HRVATSKI", HRT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1191
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6858
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-4-hr.png" group-title="★ HRVATSKI", HRT 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1192
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/559
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-international-hr.png" group-title="★ HRVATSKI", HRT int.
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1193
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6859
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl-hrvatska-de-hr.svg" group-title="★ HRVATSKI", RTL
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1194
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6860
+#EXTINF:-1 tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1195
 
-#EXTINF:-1 tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA", HRT int.
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/556
+#EXTINF:-1 tvg-id="RTL Crime.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Crime
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1196
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12097
+#EXTINF:-1 tvg-id="RTL Living.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Living
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1197
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12100
+#EXTINF:-1 tvg-id="RTL Passion.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Passion
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1198
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12098
+#EXTINF:-1 tvg-id="RTL Adria HD.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Adria
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/37022
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12099
+#EXTINF:-1 tvg-id="Nova Family" tvg-logo="noimage.png" group-title="★ HRVATSKI", Nova Family
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/47792
 
-#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HRVATSKA", Rtl Croatia World
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10165
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="★ HRVATSKI", Nova TV HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1199
 
-#EXTINF:-1 tvg-id="RTL Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Adria_2020.png" group-title="HRVATSKA", RTL Adria
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8629
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="★ HRVATSKI", NOVA TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1200
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7516
+#EXTINF:-1 tvg-id="Star Channel (FOX)" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="★ HRVATSKI", Star Channel (FOX)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1201
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8220
+#EXTINF:-1 tvg-id="Star Life" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="★ HRVATSKI", Star Life
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1202
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12092
+#EXTINF:-1 tvg-id="FOX Crime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_hr.jpg" group-title="★ HRVATSKI", FOX Crime
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1203
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7519
+#EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://w7.pngwing.com/pngs/704/511/png-transparent-fox-movies-television-channel-star-movies-logo-fox-miscellaneous-television-text-thumbnail.png" group-title="★ HRVATSKI", Star Movies
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1204
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8298
+#EXTINF:-1 tvg-id="Doma TV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/doma_tv_hr.png" group-title="★ HRVATSKI", Doma TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1205
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12093
+#EXTINF:-1 tvg-id="Z1.hr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/z1_hr.jpg" group-title="★ HRVATSKI", Z1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1206
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7518
+#EXTINF:-1 tvg-id="Narodni TV" tvg-logo="noimage.png" group-title="★ HRVATSKI", Narodni TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21671
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion FHD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8281
+#EXTINF:-1 tvg-id="Pink HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Pink_TV_logo.png" group-title="★ PINK", Pink Media
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1289
 
-#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7517
+#EXTINF:-1 tvg-id="RED TV (Pink 2 HD)" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-tv-rs.svg" group-title="★ PINK", Pink 2 (Red TV)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1290
 
-#EXTINF:-1 tvg-id="RTL Crime FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime FHD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8299
+#EXTINF:-1 tvg-id="Vesti HD (Pink 3 info)" tvg-logo="noimage.png" group-title="★ PINK", Pink Vesti
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1291
 
-#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8001
+#EXTINF:-1 tvg-id="Pink Film" tvg-logo="https://mts.rs/oec/images/tv_channels/b4030ab97770d19f5daa0e180adff3f6.png" group-title="★ PINK", Pink Film
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1292
 
-#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living FHD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8301
+#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/4e7eb9cc3b3280f2421614978de360de.png" group-title="★ PINK", Pink Serije
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1293
 
-#EXTINF:-1 tvg-id="N1 HR" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="HRVATSKA", N1 HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9272
+#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="https://mtsantenatv.rs/pinkmovies.png" group-title="★ PINK", Pink Movies
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1294
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9270
+#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_action.jpg" group-title="★ PINK", Pink Action
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1295
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9278
+#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="noimage.png" group-title="★ PINK", Pink Comedy
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1296
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12090
+#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="noimage.png" group-title="★ PINK", Pink Horror
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1297
 
-#EXTINF:-1 tvg-id="Nova World" tvg-logo="http://nova-iptv.com/logo/Nova_World_2011.png" group-title="HRVATSKA", Nova World
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12617
+#EXTINF:-1 tvg-id="pinkm.rs" tvg-logo="noimage.png" group-title="★ PINK", Pink M
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/19630
 
-#EXTINF:-1 tvg-id="Nova Cinema" tvg-logo="http://nova-iptv.com/logo/Nova_Cinema_logo.png" group-title="HRVATSKA", Nova Cinema
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12618
+#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="noimage.png" group-title="★ PINK", Pink Classic
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1298
 
-#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://nova-iptv.com/logo/Nova_Family_logo.png" group-title="HRVATSKA", Nova Family
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12619
+#EXTINF:-1 tvg-id="Pink Crime and Mystery" tvg-logo="https://mts.rs/oec/images/tv_channels/5a0669323860927259d003494c470ebb.png" group-title="★ PINK", Pink Crime & Mystery
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1299
 
-#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9286
+#EXTINF:-1 tvg-id="Pink Sci-Fi and Fantasy" tvg-logo="https://mts.rs/oec/images/tv_channels/b0f76c45a3bfaf7b93fbf8cad85ccf5a.png" group-title="★ PINK", Pink Sci-Fi&Fantasy
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1300
 
-#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9287
+#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="https://mts.rs/oec/images/tv_channels/ba363e0ab4c5f6647c94823d437373d0.png" group-title="★ PINK",  Pink Thriller
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1301
 
-#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD (Hevc)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12091
+#EXTINF:-1 tvg-id="Pink Western" tvg-logo="noimage.png" group-title="★ PINK", Pink Western
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1302
 
-#EXTINF:-1 tvg-id="z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="HRVATSKA", Z1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/499
+#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="noimage.png" group-title="★ PINK", Pink Kuvar
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1303
 
-#EXTINF:-1 tvg-id="Laudato TV" tvg-logo="http://116.203.156.75/logo/laudato.png" group-title="HRVATSKA", Laudato TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/553
+#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="noimage.png" group-title="★ PINK", Pink Pedia
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1304
 
-#EXTINF:-1 tvg-id="Mreza Zagreb" tvg-logo="noimage.png" group-title="HRVATSKA", Mreza Zagreb
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8041
+#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="noimage.png" group-title="★ PINK", Pink Reality
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1305
 
-#EXTINF:-1 tvg-id="RTV Banovina" tvg-logo="http://116.203.156.75/logo/banovina.png" group-title="HRVATSKA", Banovina TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/593
+#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="https://mts.rs/oec/images/tv_channels/fcc019b84bd5bba48bd1e74dc36188ec.png" group-title="★ PINK", Pink Romance
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1306
 
-#EXTINF:-1 tvg-id="Osjecka TV" tvg-logo="http://116.203.156.75/logo/osjecka.jpeg" group-title="HRVATSKA", Osjecka TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/554
+#EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="noimage.png" group-title="★ PINK", Pink Premium
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1307
 
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="http://116.203.156.75/logo/plava_vinkovacka.jpg" group-title="HRVATSKA", Vinkovacka TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5845
+#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="noimage.png" group-title="★ PINK", Pink World Cinema
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1308
 
-#EXTINF:-1 tvg-id="TV KARLOVAC" tvg-logo="noimage.png" group-title="HRVATSKA", TV KARLOVAC
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8856
+#EXTINF:-1 tvg-id="Pink World" tvg-logo="noimage.png" group-title="★ PINK", Pink World
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1309
 
-#EXTINF:-1 tvg-id="posavinatv" tvg-logo="http://116.203.156.75/logo/posavina.jpg" group-title="HRVATSKA", Posavina TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/397
+#EXTINF:-1 tvg-id="Pink Show" tvg-logo="noimage.png" group-title="★ PINK", Pink Show
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1310
 
-#EXTINF:-1 tvg-id="Slavonska Televizija" tvg-logo="http://116.203.156.75/logo/slavnonska.jpg" group-title="HRVATSKA", Slavonska Televizija
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/555
+#EXTINF:-1 tvg-id="pinkbh.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_bh.jpg" group-title="★ PINK", Pink BH
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1311
 
-#EXTINF:-1 tvg-id="Jabuka TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Jabukatvlogo.png" group-title="HRVATSKA", Jabuka TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6331
+#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_extra.jpg" group-title="★ PINK", Pink Extra
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1312
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/kanalr-logo.png" group-title="HRVATSKA", KanalR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6330
+#EXTINF:-1 tvg-id="Pink Style" tvg-logo="noimage.png" group-title="★ PINK", Pink Style
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1313
 
-#EXTINF:-1 tvg-id="Libertas TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LibertasTV.png" group-title="HRVATSKA", Libertas TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6329
+#EXTINF:-1 tvg-id="Pink Soap" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_soap_rs.jpg" group-title="★ PINK", Pink Soap
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1314
 
-#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA", Poljoprivredna TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6328
+#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://www.ion.tv/canada/img/logoch/pnk2.jpg" group-title="★ PINK", Pink Plus
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1315
 
-#EXTINF:-1 tvg-id="Srce TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/srcetv-logo.png" group-title="HRVATSKA", Srce TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6324
+#EXTINF:-1 tvg-id="Pink Fashion" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="★ PINK", Pink Fashion
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1316
 
-#EXTINF:-1 tvg-id="Dubrovacka Televizija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/dutv-logo.png" group-title="HRVATSKA", Dubrovacka Televizija
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6322
+#EXTINF:-1 tvg-id="Ha ha" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pink-haha-rs.png" group-title="★ PINK", Pink HaHa
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1317
 
-#EXTINF:-1 tvg-id="TV Istra" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TV-Istra_logo.png" group-title="HRVATSKA", TV Istra
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6321
+#EXTINF:-1 tvg-id="Lol" tvg-logo="noimage.png" group-title="★ PINK", Pink LoL
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1318
 
-#EXTINF:-1 tvg-id="TV Jadran" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-jadran-logo.png" group-title="HRVATSKA", TV Jadran
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6320
+#EXTINF:-1 tvg-id="Pink n roll" tvg-logo="https://logo.iptveditor.com/pinkandrollrs.png" group-title="★ PINK", Pink & Roll
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/20941
 
-#EXTINF:-1 tvg-id="Capital TV" tvg-logo="noimage.png" group-title="HRVATSKA", Capital TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6502
+#EXTINF:-1 tvg-id="Pink Folk" tvg-logo="noimage.png" group-title="★ PINK", Pink Folk 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1319
 
-#EXTINF:-1 tvg-id="ZDRAVA TV-7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdrava-televizija-logo.jpg" group-title="HRVATSKA", Zdrava TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8886
+#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_folk2.jpg" group-title="★ PINK", Pink Folk 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1320
 
-#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="noimage.png" group-title="HRVATSKA", Klape i Tambure
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10237
+#EXTINF:-1 tvg-id="Pink Music" tvg-logo="noimage.png" group-title="★ PINK", Pink Music
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1321
 
-#EXTINF:-1 tvg-id="b2305127f3e5eceffb591f82cf93c07d" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA", TV TREND KARLOVAC
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10246
+#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_music2.jpg" group-title="★ PINK", Pink Music 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1322
 
-#EXTINF:-1 tvg-id="MARY TV MEDJUGORJE" tvg-logo="noimage.png" group-title="HRVATSKA", MARY TV MEDJUGORJE
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10247
+#EXTINF:-1 tvg-id="Pink Hits" tvg-logo="noimage.png" group-title="★ PINK", Pink Hits
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1323
 
-#EXTINF:-1 tvg-id="MARS TV" tvg-logo="noimage.png" group-title="HRVATSKA", MARS TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10248
+#EXTINF:-1 tvg-id="Pink Hits 2" tvg-logo="noimage.png" group-title="★ PINK", Pink Hits 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1324
 
-#EXTINF:-1 tvg-id="cf00a93b9e783577a4926ad239a60a43" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA", OTV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10249
+#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="noimage.png" group-title="★ PINK", Pink Zabava
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1325
 
-#EXTINF:-1 tvg-id="MAX SPORT 1 HD" tvg-logo="http://nova-iptv.com/logo/max-sport-1-bg.png" group-title="SPORTSKI", MAX SPORT 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12540
+#EXTINF:-1 tvg-id=" ARENA PREMIUM 1 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORT ",  ARENA PREMIUM 1 (HD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/40635
 
-#EXTINF:-1 tvg-id="MAX SPORT 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", MAX SPORT 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12986
+#EXTINF:-1 tvg-id=" Arena Premium 1 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORT ",  Arena Premium 1 (SD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46623
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12342
+#EXTINF:-1 tvg-id=" ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORT ",  ARENA PREMIUM 2 (HD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/40636
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12343
+#EXTINF:-1 tvg-id=" Arena Premium 2 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORT ",  Arena Premium 2 (SD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46624
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12344
+#EXTINF:-1 tvg-id=" ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORT ",  ARENA PREMIUM 3 (HD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/40637
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12362
+#EXTINF:-1 tvg-id=" Arena Premium 3 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORT ",  Arena Premium 3 (SD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46625
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12363
+#EXTINF:-1 tvg-id="Arena1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/699
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12392
+#EXTINF:-1 tvg-id="Arena1 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29070
 
-#EXTINF:-1 tvg-id="Arena Sport 1 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13011
+#EXTINF:-1 tvg-id="Arena2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/700
 
-#EXTINF:-1 tvg-id="Arena Sport 2 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13012
+#EXTINF:-1 tvg-id="Arena2 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29071
 
-#EXTINF:-1 tvg-id="Arena Sport 3 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13013
+#EXTINF:-1 tvg-id="Arena3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/701
 
-#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12166
+#EXTINF:-1 tvg-id="Arena3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29072
 
-#EXTINF:-1 tvg-id="Arena Sport 2 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13002
+#EXTINF:-1 tvg-id="Arena4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/702
 
-#EXTINF:-1 tvg-id="Arena Sport 3 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13003
+#EXTINF:-1 tvg-id="Arena3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29073
 
-#EXTINF:-1 tvg-id="Arena Sport 4 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13004
+#EXTINF:-1 tvg-id="Arena5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORT ",  Arena5 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/703
 
-#EXTINF:-1 tvg-id="Arena Sport 5 BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13005
+#EXTINF:-1 tvg-id="Arena5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORT ",  Arena5 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29074
 
-#EXTINF:-1 tvg-id="Arena Sport 6 BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="SPORTSKI", Arena Sport 6 BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13006
+#EXTINF:-1 tvg-id=" ArenaBH" tvg-logo="noimage.png" group-title="★ SPORT ",  ArenaBH
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/704
 
-#EXTINF:-1 tvg-id="BN TV" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD BIH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6776
+#EXTINF:-1 tvg-id="Arena 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/705
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/490
+#EXTINF:-1 tvg-id="Arena 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 SR (HD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29066
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12051
+#EXTINF:-1 tvg-id="Arena 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/706
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12050
+#EXTINF:-1 tvg-id="Arena 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 SR (HD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29067
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12049
+#EXTINF:-1 tvg-id="Arena 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/707
 
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/491
+#EXTINF:-1 tvg-id="Arena 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 SR (HD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29068
 
-#EXTINF:-1 tvg-id="Arena Sport 6 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13068
+#EXTINF:-1 tvg-id="Arena 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/708
 
-#EXTINF:-1 tvg-id="Arena Sport 7 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13069
+#EXTINF:-1 tvg-id="Arena 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 SR (HD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29069
 
-#EXTINF:-1 tvg-id="Arena Sport 8 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13070
+#EXTINF:-1 tvg-id="Arena 5.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORT ",  Arena5 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/709
 
-#EXTINF:-1 tvg-id="Arena Sport 9 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13071
+#EXTINF:-1 tvg-id="Arena 6.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="★ SPORT ",  Arena6 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/710
 
-#EXTINF:-1 tvg-id="Arena Sport 10 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13072
+#EXTINF:-1 tvg-id=" Arena Premium 1 (BIH)" tvg-logo="noimage.png" group-title="★ SPORT ",  Arena Premium 1 (BIH)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49158
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/486
+#EXTINF:-1 tvg-id=" Arena Premium 3 (BIH)" tvg-logo="noimage.png" group-title="★ SPORT ",  Arena Premium 3 (BIH)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49160
 
-#EXTINF:-1 tvg-id="Arena Sport 2 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/485
+#EXTINF:-1 tvg-id="ARENA FIGHT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="★ SPORT ", ARENA FIGHT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39561
 
-#EXTINF:-1 tvg-id="Arena Sport 3 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12052
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ",  Klub 1 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/711
 
-#EXTINF:-1 tvg-id="Arena Sport 4 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12053
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ", Klub 1 SR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36527
 
-#EXTINF:-1 tvg-id="Arena Sport 5 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/482
+#EXTINF:-1 tvg-id=" Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ",  Klub 2 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/712
 
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/481
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ", Klub 2 SR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36528
 
-#EXTINF:-1 tvg-id="Arena Sport 7 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12106
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORT ",  Klub 3 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/713
 
-#EXTINF:-1 tvg-id="Arena Sport 8 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12107
+#EXTINF:-1 tvg-id="sportklub4.rs" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub 4 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/714
 
-#EXTINF:-1 tvg-id="Arena Sport 9 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12108
+#EXTINF:-1 tvg-id="sportklub5.rs" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub 5 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/715
 
-#EXTINF:-1 tvg-id="Arena Sport 10 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12109
+#EXTINF:-1 tvg-id="sportklub6.rs" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub 6 SR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/716
 
-#EXTINF:-1 tvg-id="Arena Sport 1x2" tvg-logo="http://nova-iptv.com/logo/Arena_1x2_RS_logo.png" group-title="SPORTSKI", Arena Sport 1x2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12533
+#EXTINF:-1 tvg-id="sportgolf.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="★ SPORT ",  Klub Golf
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/717
 
-#EXTINF:-1 tvg-id="Arena Esport" tvg-logo="http://nova-iptv.com/logo/arena_esport_logo.png" group-title="SPORTSKI", Arena Esport
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12555
+#EXTINF:-1 tvg-id="  Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ",   Klub 1 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/718
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/495
+#EXTINF:-1 tvg-id="Klub 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ", Klub 1 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36530
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12045
+#EXTINF:-1 tvg-id=" Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ",  Klub 2 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/719
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12046
+#EXTINF:-1 tvg-id="Klub 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ", Klub 2 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36531
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12047
+#EXTINF:-1 tvg-id=" Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORT ",  Klub 3 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/720
 
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://nova-iptv.com/logo/SK_HD_RS_logo.png" group-title="SPORTSKI", Sport Klub HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9301
+#EXTINF:-1 tvg-id="Klub 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORT ", Klub 3 HR HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36532
 
-#EXTINF:-1 tvg-id="sport-klub.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12037
+#EXTINF:-1 tvg-id="  Klub 4 HR" tvg-logo="noimage.png" group-title="★ SPORT ",   Klub 4 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/721
 
-#EXTINF:-1 tvg-id="SK 2 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12038
+#EXTINF:-1 tvg-id="  Klub 5 HR" tvg-logo="noimage.png" group-title="★ SPORT ",   Klub 5 HR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/722
 
-#EXTINF:-1 tvg-id="SK 3 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12039
+#EXTINF:-1 tvg-id="fightchannel.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-klub-fight-hu-rs.png" group-title="★ SPORT ",  Klub Fight
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48037
 
-#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12040
+#EXTINF:-1 tvg-id=" Klub ESport" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub ESport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48038
 
-#EXTINF:-1 tvg-id="Sport Klub 5 SRB" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9293
+#EXTINF:-1 tvg-id=" Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/723
 
-#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 SRB
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12001
+#EXTINF:-1 tvg-id=" Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  Euro2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/724
 
-#EXTINF:-1 tvg-id="sportklub-hr.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12041
+#EXTINF:-1 tvg-id="Nova Sport" tvg-logo="noimage.png" group-title="★ SPORT ", Nova Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36529
 
-#EXTINF:-1 tvg-id="Sport Klub 2 HD HR" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12042
+#EXTINF:-1 tvg-id=" MAX 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="★ SPORT ",  MAX 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/41332
 
-#EXTINF:-1 tvg-id="Sport Klub 3 HD HR" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12043
+#EXTINF:-1 tvg-id=" MAX 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="★ SPORT ",  MAX 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/41333
 
-#EXTINF:-1 tvg-id="Sport Klub 4 HR" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12044
+#EXTINF:-1 tvg-id=" SPORTka TV" tvg-logo="noimage.png" group-title="★ SPORT ",  SPORTka TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/884
 
-#EXTINF:-1 tvg-id="sk5" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9299
+#EXTINF:-1 tvg-id=" Klub Fight" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub Fight
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/848
 
-#EXTINF:-1 tvg-id="Sport Klub 6 HR" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 HR
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9300
+#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="★ SPORT ", Zvezda TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36284
 
-#EXTINF:-1 tvg-id="SK 7 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 7
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12239
+#EXTINF:-1 tvg-id=" DE: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  DE: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/725
 
-#EXTINF:-1 tvg-id="SK 8 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 8
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12236
+#EXTINF:-1 tvg-id=" DE: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: Euro2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/726
 
-#EXTINF:-1 tvg-id="SK 9 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 9
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12237
+#EXTINF:-1 tvg-id=" DE: Euro2 Xtra" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: Euro2 Xtra
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/727
 
-#EXTINF:-1 tvg-id="SK 10 (SR)" tvg-logo="http://nova-iptv.com/logo/SK10_RS_logo.png" group-title="SPORTSKI", Sport Klub 10
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12238
+#EXTINF:-1 tvg-id=" DE: DAZN BAR 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="★ SPORT ",  DE: DAZN BAR 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/728
 
-#EXTINF:-1 tvg-id="Sport Klub 4K" tvg-logo="http://nova-iptv.com/logo/sk-4k.png" group-title="SPORTSKI", Sport Klub 4K
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12569
+#EXTINF:-1 tvg-id=" DE: DAZN BAR 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-2-uk.svg" group-title="★ SPORT ",  DE: DAZN BAR 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/729
 
-#EXTINF:-1 tvg-id="SK Golf" tvg-logo="http://nova-iptv.com/logo/SK_Golf_HR_logo.png" group-title="SPORTSKI", Sport Klub Golf
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9303
+#EXTINF:-1 tvg-id=" DE: S News" tvg-logo="https://w7.pngwing.com/pngs/514/778/png-transparent-logo-sky-news-live-television-brand-television-channel-design-television-text-rectangle-thumbnail.png" group-title="★ SPORT ",  DE: S News
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/730
 
-#EXTINF:-1 tvg-id="SK Esports" tvg-logo="http://nova-iptv.com/logo/SK_esports_RS_logo.png" group-title="SPORTSKI", Sport Klub Esport
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9302
+#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 1 (FHD)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/731
 
-#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Klub Fight
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12770
+#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/732
 
-#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="http://nova-iptv.com/logo/nova_sport.png" group-title="SPORTSKI", Nova Sport HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9288
+#EXTINF:-1 tvg-id="Sky Bundesliga 3 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 3 (Nur bei Live Spiele)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/733
 
-#EXTINF:-1 tvg-id="Kuvo TV HD" tvg-logo="http://nova-iptv.com/kuvo.png" group-title="SPORTSKI", Kuvo TV HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12514
+#EXTINF:-1 tvg-id="Sky Bundesliga 4 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 4  (Nur bei Live Spiele)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/734
 
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="http://nova-iptv.com/logo/eurosport.png" group-title="SPORTSKI", EUROSPORT 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6540
+#EXTINF:-1 tvg-id="Sky Bundesliga 5 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 5  (Nur bei Live Spiele)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/735
 
-#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="http://nova-iptv.com/logo/eurosport-2.png" group-title="SPORTSKI", EUROSPORT 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/467
+#EXTINF:-1 tvg-id="Sky Bundesliga 6 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga  6  (Nur bei Live Spiele)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/736
 
-#EXTINF:-1 tvg-id="GP 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/GP1-logo.png" group-title="SPORTSKI", GP 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12589
+#EXTINF:-1 tvg-id=" DE: S 1 HD+" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORT ",  DE: S 1 HD+
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/737
 
-#EXTINF:-1 tvg-id="Fight Box HD" tvg-logo="noimage.png" group-title="SPORTSKI", Fight Box HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5509
+#EXTINF:-1 tvg-id=" DE: S 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORT ",  DE: S 2 HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/738
 
-#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="noimage.png" group-title="SPORTSKI", Extreme Sports
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10478
+#EXTINF:-1 tvg-id="DE: s*y F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="★ SPORT ", DE: s*y F1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49817
 
-#EXTINF:-1 tvg-id="SOS" tvg-logo="noimage.png" group-title="SPORTSKI", SOS
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/438
+#EXTINF:-1 tvg-id="DE: s*y Mix" tvg-logo="noimage.png" group-title="★ SPORT ", DE: s*y Mix
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49818
 
-#EXTINF:-1 tvg-id="Partizan TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Partizan TV HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5508
+#EXTINF:-1 tvg-id="DE: s*y tennis" tvg-logo="noimage.png" group-title="★ SPORT ", DE: s*y tennis
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49819
 
-#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="SPORTSKI", Zvezda TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8302
+#EXTINF:-1 tvg-id=" DE: S 3 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport3.jpg" group-title="★ SPORT ",  DE: S 3 (Live Event)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/739
 
-#EXTINF:-1 tvg-id="Sportska TV" tvg-logo="noimage.png" group-title="SPORTSKI", Sportska TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/439
+#EXTINF:-1 tvg-id=" DE: S 4 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_04.jpg" group-title="★ SPORT ",  DE: S 4 (Live Event)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/740
 
-#EXTINF:-1 tvg-id="Moja TV Premier Liga BiH" tvg-logo="noimage.png" group-title="SPORTSKI", Moja TV Premier Liga BiH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/480
+#EXTINF:-1 tvg-id=" DE: S 5  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_05.jpg" group-title="★ SPORT ",  DE: S 5  (Live Event)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/741
 
-#EXTINF:-1 tvg-id="HNTV" tvg-logo="noimage.png" group-title="SPORTSKI", HNTV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/464
+#EXTINF:-1 tvg-id=" DE: S 6  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_06.jpg" group-title="★ SPORT ",  DE: S 6  (Live Event)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/742
 
-#EXTINF:-1 tvg-id="Kreator TV" tvg-logo="noimage.png" group-title="SPORTSKI", Kreator TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/463
+#EXTINF:-1 tvg-id=" DE: S 7 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_07.jpg" group-title="★ SPORT ",  DE: S 7 (Live Event)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/743
 
-#EXTINF:-1 tvg-id="loviribolov" tvg-logo="noimage.png" group-title="SPORTSKI", Lov i Ribolov
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9304
+#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S-ky Bundesliga 1 (matchdays only)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/745
 
-#EXTINF:-1 tvg-id="Sky Sport 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 1 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12055
+#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 2 HD (Live Event)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/744
 
-#EXTINF:-1 tvg-id="Sky Sport 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 2 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12056
+#EXTINF:-1 tvg-id=" DE: S 1 HD [SPIELTAG]" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORT ",  DE: S 1 HD [SPIELTAG]
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/747
 
-#EXTINF:-1 tvg-id="Sky Sport 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 3 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12057
+#EXTINF:-1 tvg-id=" DE: S 2 FHD [SPIELTAG]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORT ",  DE: S 2 FHD [SPIELTAG]
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/746
 
-#EXTINF:-1 tvg-id="Sky Sport 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 4 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12058
+#EXTINF:-1 tvg-id=" DE: 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_de_plus.jpg" group-title="★ SPORT ",  DE: 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/748
 
-#EXTINF:-1 tvg-id="Sky Sport 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 5 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12059
+#EXTINF:-1 tvg-id=" DE: Auto Motor Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: Auto Motor Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/749
 
-#EXTINF:-1 tvg-id="Sky Sport 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 6 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12060
+#EXTINF:-1 tvg-id=" DE: FC Bayern TV" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: FC Bayern TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/750
 
-#EXTINF:-1 tvg-id="Sky Sport 7 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 7 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12061
+#EXTINF:-1 tvg-id=" DE: S SPORT Austria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORT ",  DE: S SPORT Austria
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/751
 
-#EXTINF:-1 tvg-id="Sky Sport 8 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 8 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12062
+#EXTINF:-1 tvg-id="AT: S Austria 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORT ", AT: S Austria 1 HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29047
 
-#EXTINF:-1 tvg-id="Sky Sport 9 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 9 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12063
+#EXTINF:-1 tvg-id=" DE: Digital" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportdigital-fussball-de.png" group-title="★ SPORT ",  DE: Digital
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/924
 
-#EXTINF:-1 tvg-id="Sky Sport 10 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 10 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12064
+#EXTINF:-1 tvg-id=" AT: ORF Sport+" tvg-logo="noimage.png" group-title="★ SPORT ",  AT: ORF Sport+
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/752
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 1 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12065
+#EXTINF:-1 tvg-id="AR: beIN SPORT Premium 2" tvg-logo="noimage.png" group-title="★ SPORT ", AR: beIN SPORT Premium 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/47452
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 2 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12066
+#EXTINF:-1 tvg-id="AR: beIN SPORT Max 2" tvg-logo="noimage.png" group-title="★ SPORT ", AR: beIN SPORT Max 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/47455
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 3 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12067
+#EXTINF:-1 tvg-id=" AR: Bein SPORT News" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: Bein SPORT News
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/789
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 4 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12068
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/776
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 5 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12069
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/777
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 6 HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12070
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/778
 
-#EXTINF:-1 tvg-id="SKY Sport News HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", SKY Sport News HD (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12054
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/779
 
-#EXTINF:-1 tvg-id="Sky Sport Premier DE" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Premier DE
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13027
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 5" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 5
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/780
 
-#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austria 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12075
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 6" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 6
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/781
 
-#EXTINF:-1 tvg-id="Sky Sport Austira 6" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austira 6
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13032
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 7" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 7
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/782
 
-#EXTINF:-1 tvg-id="Sky Sport F1 (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (DE)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12078
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 9" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 9
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/784
 
-#EXTINF:-1 tvg-id="Sky Sport F1 (ENG)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (ENG)
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12251
+#EXTINF:-1 tvg-id=" AR: BEIN SPORT 10" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 10
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/785
 
-#EXTINF:-1 tvg-id="Sky Sport Tenis" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Tenis
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13052
+#EXTINF:-1 tvg-id="ZA: SuperPremier League" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperPremier League
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6278
 
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Golf
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13053
+#EXTINF:-1 tvg-id="ZA: SuperAction" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperAction
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6275
 
-#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12071
+#EXTINF:-1 tvg-id="ZA: SuperCricket" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperCricket
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6269
 
-#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12072
+#EXTINF:-1 tvg-id="ZA: SuperGrandstand" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperGrandstand
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6272
 
-#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 3 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12073
+#EXTINF:-1 tvg-id="ZA: SuperMaximo 1" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperMaximo 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6274
 
-#EXTINF:-1 tvg-id="SPORT TV 1 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 1 HD SLO
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12074
+#EXTINF:-1 tvg-id="ZA: SuperMotorSport" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperMotorSport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6276
 
-#EXTINF:-1 tvg-id="SPORT TV 2 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 2 HD SLO
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/214
+#EXTINF:-1 tvg-id="ZA: SuperVariety 1" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperVariety 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36176
 
-#EXTINF:-1 tvg-id="SPORT TV 3 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 3 HD SLO
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/213
+#EXTINF:-1 tvg-id="ZA: SuperVariety 2" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperVariety 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36177
 
-#EXTINF:-1 tvg-id="ELEVEN SP 1 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 1 FHD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5764
+#EXTINF:-1 tvg-id="ZA: SuperVariety 4" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperVariety 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36178
 
-#EXTINF:-1 tvg-id="ELEVEN SP 2 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 2 FHD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5765
+#EXTINF:-1 tvg-id="ZA: SuperBlitz" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperBlitz
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36179
 
-#EXTINF:-1 tvg-id="ELEVEN SP 3 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 3 FHD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5766
+#EXTINF:-1 tvg-id="Swiss: MySPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6701
 
-#EXTINF:-1 tvg-id="EUROSPORT 1 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 1 DE
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6296
+#EXTINF:-1 tvg-id="Swiss: MySPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6702
 
-#EXTINF:-1 tvg-id="EUROSPORT 2 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 2 DE
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6297
+#EXTINF:-1 tvg-id="Swiss: MySPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6703
 
-#EXTINF:-1 tvg-id="Bayern TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Bayern TV HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6103
+#EXTINF:-1 tvg-id="Swiss: MySPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6704
 
-#EXTINF:-1 tvg-id="Sport Digital HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Digital HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/461
+#EXTINF:-1 tvg-id="Swiss: MySPORT 5" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 5
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6705
 
-#EXTINF:-1 tvg-id="Motorvision HD" tvg-logo="noimage.png" group-title="SPORTSKI", Motorvision HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/327
+#EXTINF:-1 tvg-id="Swiss: MySPORT 6" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 6
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6706
 
-#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-logo="noimage.png" group-title="SPORTSKI", Auto Motor Sport
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/340
+#EXTINF:-1 tvg-id="Swiss: MySPORT 7" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 7
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6707
 
-#EXTINF:-1 tvg-id="Sport1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/440
+#EXTINF:-1 tvg-id="Swiss: MySPORT 8" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 8
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6708
 
-#EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/471
+#EXTINF:-1 tvg-id="Swiss: MySPORT" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6709
 
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/470
+#EXTINF:-1 tvg-id="CH: Teleclub 1" tvg-logo="noimage.png" group-title="★ SPORT ", CH: Teleclub 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/20989
 
-#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9255
+#EXTINF:-1 tvg-id="CH: Teleclub 2" tvg-logo="noimage.png" group-title="★ SPORT ", CH: Teleclub 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/20990
 
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9256
+#EXTINF:-1 tvg-id=" UK: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  UK: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/768
 
-#EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 3
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9257
+#EXTINF:-1 tvg-id=" UK: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Euro2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/769
 
-#EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 4
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9258
+#EXTINF:-1 tvg-id=" UK: Premier SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Premier SPORT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/772
 
-#EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 5
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9259
+#EXTINF:-1 tvg-id=" UK: FC Liverpool  TV" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: FC Liverpool  TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/774
 
-#EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 6
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9260
+#EXTINF:-1 tvg-id=" UK: FC Manchester United (MUTV)" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: FC Manchester United (MUTV)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/775
 
-#EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 7
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9261
+#EXTINF:-1 tvg-id=" Kombat Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  Kombat Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/788
 
-#EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 8
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9262
+#EXTINF:-1 tvg-id=" FR: BEIN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: BEIN SPORT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/790
 
-#EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 9
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9263
+#EXTINF:-1 tvg-id=" FR: BEIN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: BEIN SPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/791
 
-#EXTINF:-1 tvg-id="Bein Sports 10" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 10
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9264
+#EXTINF:-1 tvg-id=" FR: BEIN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: BEIN SPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/792
 
-#EXTINF:-1 tvg-id="Arena Fight HD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Fight HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13402
+#EXTINF:-1 tvg-id=" FR: Canal+  Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: Canal+  Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/793
 
-#EXTINF:-1 tvg-id="Minimax" tvg-logo="http://116.203.156.75/logo/minimax.png" group-title="DJECIJI", MINIMAX
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/384
+#EXTINF:-1 tvg-id=" FR: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  FR: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/794
 
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/382
+#EXTINF:-1 tvg-id=" FR: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: Euro2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/795
 
-#EXTINF:-1 tvg-id="Nickelodeon." tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon.
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6864
+#EXTINF:-1 tvg-id=" FR: GOLF" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: GOLF
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/796
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://116.203.156.75/logo/nickjr.png" group-title="DJECIJI", Nick Jr.
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/383
+#EXTINF:-1 tvg-id=" FR: InfoSport" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: InfoSport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/797
 
-#EXTINF:-1 tvg-id="Nicktoons (HR)" tvg-logo="http://nova-iptv.com/logo/nicktoons.png" group-title="DJECIJI", Nicktoons
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8861
+#EXTINF:-1 tvg-id=" FR: RMC 1" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/798
 
-#EXTINF:-1 tvg-id="Disney" tvg-logo="http://nova-iptv.com/logo/disney_channel_2019.png" group-title="DJECIJI", Disney
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12559
+#EXTINF:-1 tvg-id=" FR: RMC 2" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/799
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://nova-iptv.com/logo/disney-junior-logo.png" group-title="DJECIJI", Disney Junior
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12560
+#EXTINF:-1 tvg-id=" FR: RMC 3" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/800
 
-#EXTINF:-1 tvg-id="Jim Jam" tvg-logo="http://nova-iptv.com/logo/JimJam-_logo_new3.png" group-title="DJECIJI", Jim Jam
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12561
+#EXTINF:-1 tvg-id=" FR: RMC 4" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/801
 
-#EXTINF:-1 tvg-id="minitv" tvg-logo="http://nova-iptv.com/logo/minitv.png" group-title="DJECIJI", Mini TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9282
+#EXTINF:-1 tvg-id=" FR: RMC News" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC News
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/802
 
-#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="http://nova-iptv.com/logo/tnt-kids_logo.png" group-title="DJECIJI", TNT Kids
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12389
+#EXTINF:-1 tvg-id=" IT: S Uno" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: S Uno
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1486
 
-#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://nova-iptv.com/logo/pikaboo_logo.png" group-title="DJECIJI", Pikaboo
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9285
+#EXTINF:-1 tvg-id=" IT: S 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORT ",  IT: S 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1487
 
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://nova-iptv.com/logo/rtl-kockica-logo.png" group-title="DJECIJI", RTL KOCKICA
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7520
+#EXTINF:-1 tvg-id=" IT: Rai 1" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Rai 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1484
 
-#EXTINF:-1 tvg-id="Hayatovci" tvg-logo="http://116.203.156.75/logo/hayatovci-logo.png" group-title="DJECIJI", Hayatovci
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/562
+#EXTINF:-1 tvg-id="IT: RAI 2" tvg-logo="noimage.png" group-title="★ SPORT ", IT: RAI 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1485
 
-#EXTINF:-1 tvg-id="Pink super kids" tvg-logo="http://nova-iptv.com/logo/PinkSuperKids_logo.png" group-title="DJECIJI", Pink Super Kids
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8048
+#EXTINF:-1 tvg-id=" IT: S 24" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: S 24
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1475
 
-#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="http://nova-iptv.com/logo/kazbuka.png" group-title="DJECIJI", Kazbuka
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12550
+#EXTINF:-1 tvg-id=" IT: S F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="★ SPORT ",  IT: S F1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1477
 
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://116.203.156.75/logo/Babytv.png" group-title="DJECIJI", Baby TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/388
+#EXTINF:-1 tvg-id=" IT: PREMIUM HD" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: PREMIUM HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1480
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://116.203.156.75/logo/Cartoon_Network_Logo.jpg" group-title="DJECIJI", Cartoon Network
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/389
+#EXTINF:-1 tvg-id=" IT: Euro1" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1478
 
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://116.203.156.75/logo/Boomerang_Logo_2014.png" group-title="DJECIJI", Cartoonito
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/387
+#EXTINF:-1 tvg-id=" IT: EURO2 HD" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: EURO2 HD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1479
 
-#EXTINF:-1 tvg-id="VAVOOM" tvg-logo="http://nova-iptv.com/logo/vavoom.png" group-title="DJECIJI", VAVOOM
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10255
+#EXTINF:-1 tvg-id=" IT: Super Tennis" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Super Tennis
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1474
 
-#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Duck_TV_Plus_PL_logo.png" group-title="DJECIJI", DUCK TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10256
+#EXTINF:-1 tvg-id=" IT: Italia" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Italia
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1473
 
-#EXTINF:-1 tvg-id="Nova Kids" tvg-logo="noimage.png" group-title="DJECIJI", Nova Kids
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12085
+#EXTINF:-1 tvg-id=" IT: S Moto GP" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: S Moto GP
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1483
 
-#EXTINF:-1 tvg-id="GORA KIDS HD" tvg-logo="noimage.png" group-title="DJECIJI", GORA KIDS HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10259
+#EXTINF:-1 tvg-id=" IT:  AUTO MOTO TV" tvg-logo="noimage.png" group-title="★ SPORT ",  IT:  AUTO MOTO TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1489
 
-#EXTINF:-1 tvg-id="Ginx TV" tvg-logo="noimage.png" group-title="DJECIJI", Ginx TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10268
+#EXTINF:-1 tvg-id=" TR: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  TR: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/803
 
-#EXTINF:-1 tvg-id="Pink Panter TV" tvg-logo="noimage.png" group-title="DJECIJI", Pink Panter TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8232
+#EXTINF:-1 tvg-id=" TR: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Euro2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/804
 
-#EXTINF:-1 tvg-id="Grizzy & the Lemmings" tvg-logo="noimage.png" group-title="DJECIJI", Grizzy & the Lemmings
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8233
+#EXTINF:-1 tvg-id=" TR: Bein SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Bein SPORT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/805
 
-#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="noimage.png" group-title="DJECIJI", Tom and Jerry
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8046
+#EXTINF:-1 tvg-id=" TR: Bein SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Bein SPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/806
 
-#EXTINF:-1 tvg-id="PEPA PRASE" tvg-logo="noimage.png" group-title="DJECIJI", PEPA PRASE
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10029
+#EXTINF:-1 tvg-id=" TR: Bein SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Bein SPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/807
 
-#EXTINF:-1 tvg-id="MASA I MEDVJED" tvg-logo="noimage.png" group-title="DJECIJI", MASA I MEDVJED
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5671
+#EXTINF:-1 tvg-id=" TR: S-Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: S-Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/810
 
-#EXTINF:-1 tvg-id="NOVA DOKU" tvg-logo="noimage.png" group-title="DOKUMENTARNI", NOVA DOKU
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10319
+#EXTINF:-1 tvg-id=" TR: Tivibuspor 1" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Tivibuspor 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/811
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/49.png" group-title="DOKUMENTARNI", National Geographic
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6303
+#EXTINF:-1 tvg-id=" TR: TivibuSpor 2" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: TivibuSpor 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/812
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/national_geographic_logo.png" group-title="DOKUMENTARNI", National Geographic HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/546
+#EXTINF:-1 tvg-id=" TR: TivibuSpor 3" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: TivibuSpor 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/813
 
-#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/598
+#EXTINF:-1 tvg-id=" TR:  A Spor" tvg-logo="noimage.png" group-title="★ SPORT ",  TR:  A Spor
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/815
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8848
+#EXTINF:-1 tvg-id=" TR: TRT Spor" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: TRT Spor
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/816
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/183.png" group-title="DOKUMENTARNI", Nat Geo Wild
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/547
+#EXTINF:-1 tvg-id=" TR: Smart Spor" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/smart_spor.jpg" group-title="★ SPORT ",  TR: Smart Spor
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/809
 
-#EXTINF:-1 tvg-id="discovery-europe.doc" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/47.png" group-title="DOKUMENTARNI", Discovery Channel
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/583
+#EXTINF:-1 tvg-id="TR: SPORT TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/SPORT_tv_tr.jpg" group-title="★ SPORT ", TR: SPORT TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1641
 
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation-discovery-logo.png" group-title="DOKUMENTARNI", Discovery ID
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7275
+#EXTINF:-1 tvg-id=" TR: Fb Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fbtv_fenerbahce.jpg" group-title="★ SPORT ",  TR: Fb Tv
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/817
 
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/70.png" group-title="DOKUMENTARNI", Discovery TLC
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12942
+#EXTINF:-1 tvg-id="TR: beIN SPORT Max 1" tvg-logo="noimage.png" group-title="★ SPORT ", TR: beIN SPORT Max 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48034
 
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://116.203.156.75/logo/Entertainment.jpg" group-title="DOKUMENTARNI", Entertaimment +
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3664
+#EXTINF:-1 tvg-id="TR: beIN SPORT Max 2" tvg-logo="noimage.png" group-title="★ SPORT ", TR: beIN SPORT Max 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48035
 
-#EXTINF:-1 tvg-id="Crime & Investigation" tvg-logo="http://116.203.156.75/logo/crimeinvest.jpg" group-title="DOKUMENTARNI", Crime & Investigation
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/585
+#EXTINF:-1 tvg-id=" US: BEIN SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  US: BEIN SPORT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/818
 
-#EXTINF:-1 tvg-id="davinci" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/90.png" group-title="DOKUMENTARNI", Da Vinci Learning
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/584
+#EXTINF:-1 tvg-id=" US: AFN Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  US: AFN Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/819
 
-#EXTINF:-1 tvg-id="Viasat Explore HD" tvg-logo="http://116.203.156.75/logo/9.png" group-title="DOKUMENTARNI", Viasat Explore HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/503
+#EXTINF:-1 tvg-id=" US: Fox 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  US: Fox 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/820
 
-#EXTINF:-1 tvg-id="Viasat History HD" tvg-logo="http://116.203.156.75/logo/6.png" group-title="DOKUMENTARNI", Viasat History HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/502
+#EXTINF:-1 tvg-id=" US: Fox 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  US: Fox 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/821
 
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="http://116.203.156.75/logo/naturelogo.png" group-title="DOKUMENTARNI", Viasat Nature
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/501
+#EXTINF:-1 tvg-id=" US: Fox Soccer Plus" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Fox Soccer Plus
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/822
 
-#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://nova-iptv.com/logo/balkan-trip_logo.png" group-title="DOKUMENTARNI", Balkan Trip
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10270
+#EXTINF:-1 tvg-id="US: NHL Network" tvg-logo="noimage.png" group-title="★ SPORT ", US: NHL Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21002
 
-#EXTINF:-1 tvg-id="DR FIT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dr_Fit_logo.png" group-title="DOKUMENTARNI", DR FIT
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/524
+#EXTINF:-1 tvg-id=" US: ESPN News" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN News
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/823
 
-#EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/woman_logo.png" group-title="DOKUMENTARNI", Woman TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8866
+#EXTINF:-1 tvg-id=" US: ESPN 2" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/824
 
-#EXTINF:-1 tvg-id="Turizam +" tvg-logo="http://nova-iptv.com/logo/turizam_plus.jpg" group-title="DOKUMENTARNI", Turizam +
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8867
+#EXTINF:-1 tvg-id=" US: NBA" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBA
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/826
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hgtv_logo.png" group-title="DOKUMENTARNI", HGTV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6298
+#EXTINF:-1 tvg-id=" US: NFL" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NFL
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/827
 
-#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="http://116.203.156.75/logo/travel.png" group-title="DOKUMENTARNI", Travel Channel HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3651
+#EXTINF:-1 tvg-id=" US: NFL Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NFL Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/829
 
-#EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fashiontv-logo.png" group-title="DOKUMENTARNI", Travel XP
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/587
+#EXTINF:-1 tvg-id=" US: NFL Red Zone" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NFL Red Zone
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/830
 
-#EXTINF:-1 tvg-id="planet-earth" tvg-logo="http://116.203.156.75/logo/PlanetEarth.png" group-title="DOKUMENTARNI", Planet Earth
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5389
+#EXTINF:-1 tvg-id=" US: CBS SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  US: CBS SPORT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/831
 
-#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12803
+#EXTINF:-1 tvg-id=" US: TSN 1" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/832
 
-#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5677
+#EXTINF:-1 tvg-id=" US: TSN 2" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/833
 
-#EXTINF:-1 tvg-id="DOKU TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/DOKUTV_logo.png" group-title="DOKUMENTARNI", DOKU TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5673
+#EXTINF:-1 tvg-id=" US: TSN 3" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/834
 
-#EXTINF:-1 tvg-id="DOX TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DoxTV_logo.png" group-title="DOKUMENTARNI", DOX TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12588
+#EXTINF:-1 tvg-id=" US: TSN 4" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/835
 
-#EXTINF:-1 tvg-id="docubox-hd" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/158.png" group-title="DOKUMENTARNI", Docu Box HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/577
+#EXTINF:-1 tvg-id=" US: PAC-12 Bay Area" tvg-logo="noimage.png" group-title="★ SPORT ",  US: PAC-12 Bay Area
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/838
 
-#EXTINF:-1 tvg-id="History HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/66.png" group-title="DOKUMENTARNI", History Channel
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/561
+#EXTINF:-1 tvg-id=" US: PAC-12 Los Angeles" tvg-logo="noimage.png" group-title="★ SPORT ",  US: PAC-12 Los Angeles
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/839
 
-#EXTINF:-1 tvg-id="History 2 HD" tvg-logo="http://116.203.156.75/logo/h2-logo.png" group-title="DOKUMENTARNI", History Channel 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/569
+#EXTINF:-1 tvg-id=" US: NBC Golf" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBC Golf
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/842
 
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOKUMENTARNI", Food Network
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6314
+#EXTINF:-1 tvg-id=" US: MLB Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: MLB Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/847
 
-#EXTINF:-1 tvg-id="24Kitchen HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/71.png" group-title="DOKUMENTARNI", 24 Kitchen
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/601
+#EXTINF:-1 tvg-id=" US: SPORTnet One" tvg-logo="noimage.png" group-title="★ SPORT ",  US: SPORTnet One
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/849
 
-#EXTINF:-1 tvg-id="English Club" tvg-logo="http://nova-iptv.com/logo/english_club.png" group-title="DOKUMENTARNI", English Club
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12804
+#EXTINF:-1 tvg-id=" US: Willow Cricket" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Willow Cricket
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/851
 
-#EXTINF:-1 tvg-id="NOVA PREMIUM HD" tvg-logo="noimage.png" group-title="FILMSKI", NOVA PREMIUM HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8219
+#EXTINF:-1 tvg-id=" US: TyC SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TyC SPORT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/852
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/419
+#EXTINF:-1 tvg-id=" US: Tennis Channel" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Tennis Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/853
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD.
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12809
+#EXTINF:-1 tvg-id=" US: WWE Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: WWE Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/854
 
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/418
+#EXTINF:-1 tvg-id=" FightBox" tvg-logo="noimage.png" group-title="★ SPORT ",  FightBox
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/856
 
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD.
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12810
+#EXTINF:-1 tvg-id=" US: NBC SPORT Chicago" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBC SPORT Chicago
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/888
 
-#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/417
+#EXTINF:-1 tvg-id=" US: SPORTNet Ontario" tvg-logo="noimage.png" group-title="★ SPORT ",  US: SPORTNet Ontario
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/892
 
-#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD.
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12811
+#EXTINF:-1 tvg-id=" US: Sony Ten 3" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Sony Ten 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/894
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://116.203.156.75/logo/176.png" group-title="FILMSKI", Cinemax 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/435
+#EXTINF:-1 tvg-id=" UK: BoxNation" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: BoxNation
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/855
 
-#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-logo="http://116.203.156.75/logo/177.png" group-title="FILMSKI", Cinemax 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/434
+#EXTINF:-1 tvg-id=" Fight Network" tvg-logo="noimage.png" group-title="★ SPORT ",  Fight Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/859
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6543
+#EXTINF:-1 tvg-id=" De: Motorvision" tvg-logo="noimage.png" group-title="★ SPORT ",  De: Motorvision
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/857
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6542
+#EXTINF:-1 tvg-id=" UK: Fight Channel World" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Fight Channel World
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/858
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/431
+#EXTINF:-1 tvg-id=" UK: Fight Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Fight Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/860
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/430
+#EXTINF:-1 tvg-id=" PT: tv NBA" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: tv NBA
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/861
 
-#EXTINF:-1 tvg-id="CineStar TV (HR)" tvg-logo="http://116.203.156.75/logo/cine.png" group-title="FILMSKI", CineStar TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/429
+#EXTINF:-1 tvg-id=" UK:  At The Races" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/at_the_races_ie.jpg" group-title="★ SPORT ",  UK:  At The Races
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/862
 
-#EXTINF:-1 tvg-id="CineStar TV 2 HD" tvg-logo="http://nova-iptv.com/logo/Cinestar_tv2_logo.png" group-title="FILMSKI", CineStar TV 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8304
+#EXTINF:-1 tvg-id=" UK: Dubai Racing" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Dubai Racing
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/863
 
-#EXTINF:-1 tvg-id="CineStar TV Fantasy HD" tvg-logo="http://116.203.156.75/logo/cinestartv_fantasy_logo.png" group-title="FILMSKI", CineStar Fantasy
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/432
+#EXTINF:-1 tvg-id=" UK: Dubai SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Dubai SPORT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/864
 
-#EXTINF:-1 tvg-id="CineStar TV Action (HR)" tvg-logo="http://116.203.156.75/logo/cineaction.png" group-title="FILMSKI", Cinestar Action
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/433
+#EXTINF:-1 tvg-id=" UK: Dubai SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Dubai SPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/865
 
-#EXTINF:-1 tvg-id="CineStar TV Comedy & Family HD" tvg-logo="http://nova-iptv.com/logo/cinestartv_comedy_logo.png" group-title="FILMSKI", Cinestar Comedy
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10320
+#EXTINF:-1 tvg-id=" UK: Racing UK" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Racing UK
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/866
 
-#EXTINF:-1 tvg-id="Cinemania HD" tvg-logo="http://nova-iptv.com/logo/cinemania-logo.png" group-title="FILMSKI", Cinemania HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9284
+#EXTINF:-1 tvg-id=" US: NBC SPORT Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBC SPORT Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/867
 
-#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/423
+#EXTINF:-1 tvg-id=" UK: MotorTV" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: MotorTV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/868
 
-#EXTINF:-1 tvg-id="FOX Crime HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/422
+#EXTINF:-1 tvg-id="AU: beIN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ", AU: beIN SPORT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/13226
 
-#EXTINF:-1 tvg-id="FOX Life HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/421
+#EXTINF:-1 tvg-id="AU: beIN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ", AU: beIN SPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/13227
 
-#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/420
+#EXTINF:-1 tvg-id="AU: beIN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ", AU: beIN SPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/13228
 
-#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6305
+#EXTINF:-1 tvg-id=" AL: Tring News" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring News
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/873
 
-#EXTINF:-1 tvg-id="FOX Life HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6307
+#EXTINF:-1 tvg-id=" AL: Tring 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/870
 
-#EXTINF:-1 tvg-id="FOX Crime HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6306
+#EXTINF:-1 tvg-id=" AL: Tring 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/871
 
-#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6308
+#EXTINF:-1 tvg-id=" AL: Tring 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/872
 
-#EXTINF:-1 tvg-id="Superstar TV HD" tvg-logo="http://nova-iptv.com/logo/SuperstarTV_logo.png" group-title="FILMSKI", SUPER STAR TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6270
+#EXTINF:-1 tvg-id=" AL: Super 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/874
 
-#EXTINF:-1 tvg-id="SUPERSTAR 2" tvg-logo="http://nova-iptv.com/logo/Superstar_2_RS_logo.png" group-title="FILMSKI", SUPER STAR 2 TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6748
+#EXTINF:-1 tvg-id=" AL: Super 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/875
 
-#EXTINF:-1 tvg-id="SUPER STAR 3 TV" tvg-logo="http://116.203.156.75/logo/superstar_3.png" group-title="FILMSKI", SUPER STAR 3 TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/13281
+#EXTINF:-1 tvg-id=" AL: Super 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/876
 
-#EXTINF:-1 tvg-id="Film Box Premium HD" tvg-logo="http://nova-iptv.com/logo/FilmBox_Premium_logo.png" group-title="FILMSKI", Film Box Premium HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12802
+#EXTINF:-1 tvg-id=" AL: Super 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/877
 
-#EXTINF:-1 tvg-id="Film Box Extra HD" tvg-logo="http://nova-iptv.com/logo/filmboxextrahd_logo.png" group-title="FILMSKI", Film Box Extra HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/424
+#EXTINF:-1 tvg-id=" AL: K 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/878
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://nova-iptv.com/logo/FilmboxStars_Black.png" group-title="FILMSKI", Film Box Stars
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5510
+#EXTINF:-1 tvg-id=" AL: K 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/879
 
-#EXTINF:-1 tvg-id="TV1000" tvg-logo="http://116.203.156.75/logo/tv1000.png" group-title="FILMSKI", TV 1000
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/408
+#EXTINF:-1 tvg-id=" AL: K 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/880
 
-#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/99.png" group-title="FILMSKI", AMC
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/599
+#EXTINF:-1 tvg-id=" AL: K 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/881
 
-#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="http://nova-iptv.com/logo/Epic_Drama_BG_logo.png" group-title="FILMSKI", Epic Drama
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6656
+#EXTINF:-1 tvg-id=" AL: Super 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/882
 
-#EXTINF:-1 tvg-id="Diva" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/50.png" group-title="FILMSKI", Diva
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/576
+#EXTINF:-1 tvg-id=" AL: Super 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/883
 
-#EXTINF:-1 tvg-id="Dizi" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DIZI_PL_logo.png" group-title="FILMSKI", Dizi
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9342
+#EXTINF:-1 tvg-id=" NL: Fox SPORT 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/900
 
-#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="http://116.203.156.75/logo/sci_fi.png" group-title="FILMSKI", SciFi
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/409
+#EXTINF:-1 tvg-id=" NL: Fox SPORT 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/901
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/axn.png" group-title="FILMSKI", AXN
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/596
+#EXTINF:-1 tvg-id=" NL: Fox SPORT 3" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/902
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/axn_spin_logo.png" group-title="FILMSKI", AXN Spin
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/595
+#EXTINF:-1 tvg-id=" NL: Fox SPORT 4" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/903
 
-#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="http://nova-iptv.com/logo/comedy_central_ro.png" group-title="FILMSKI", Comedy Central Extra
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/586
+#EXTINF:-1 tvg-id=" NL: Euro1" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/911
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/klasik.png" group-title="FILMSKI", Klasik Tv
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/415
+#EXTINF:-1 tvg-id=" NL: Ziggo 2" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Ziggo 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/905
 
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://nova-iptv.com/logo/kinotv_logo.png" group-title="FILMSKI", Kino TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/416
+#EXTINF:-1 tvg-id=" NL:  Ziggo Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  NL:  Ziggo Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/906
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/m1film-logo.png" group-title="FILMSKI", M1 Film
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/414
+#EXTINF:-1 tvg-id=" NL:  Ziggo 4" tvg-logo="noimage.png" group-title="★ SPORT ",  NL:  Ziggo 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/907
 
-#EXTINF:-1 tvg-id="M1 Gold" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Gold
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8900
+#EXTINF:-1 tvg-id=" NL: Ziggo 3" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Ziggo 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/908
 
-#EXTINF:-1 tvg-id="M1 Family" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Family
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12861
+#EXTINF:-1 tvg-id=" NL:  Ziggo 6" tvg-logo="noimage.png" group-title="★ SPORT ",  NL:  Ziggo 6
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/909
 
-#EXTINF:-1 tvg-id="N1 HD (SR)" tvg-logo="http://nova-iptv.com/logo/pickbox_logo_new.png" group-title="FILMSKI", PickBox TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8563
+#EXTINF:-1 tvg-id=" NL: Ziggo 5" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Ziggo 5
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/910
 
-#EXTINF:-1 tvg-id="Euro Cinema 1 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_1_RS_logo.png" group-title="FILMSKI", Euro Cinema 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12842
+#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 1" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39149
 
-#EXTINF:-1 tvg-id="Euro Cinema 2 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_2_RS_logo.png" group-title="FILMSKI", Euro Cinema 2 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12843
+#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 2" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39150
 
-#EXTINF:-1 tvg-id="Euro Cinema 3 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_3_RS_logo.png" group-title="FILMSKI", Euro Cinema 3 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12844
+#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 3" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39151
 
-#EXTINF:-1 tvg-id="Euro Cinema 4 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_4_RS_logo.png" group-title="FILMSKI", Euro Cinema 4 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12845
+#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 4" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39152
 
-#EXTINF:-1 tvg-id="Prijatelji 24/7" tvg-logo="http://airlink.club:8080/images/d63fed889a25761dbce570906b51a44e.png" group-title="FILMSKI", Prijatelji 24/7
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12337
+#EXTINF:-1 tvg-id=" NL: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Euro2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39155
 
-#EXTINF:-1 tvg-id="Mucke 24/7" tvg-logo="http://airlink.club:8080/images/c249201905aae2f76d255257f41ee1d1.png" group-title="FILMSKI", Mucke 24/7
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12339
+#EXTINF:-1 tvg-id=" AR: OSN Ad 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/912
 
-#EXTINF:-1 tvg-id="Dva i po muskarca 24/7" tvg-logo="http://airlink.club:8080/images/2de61cc6752576441802cd008295c009.png" group-title="FILMSKI", Dva i po muskarca 24/7
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12870
+#EXTINF:-1 tvg-id=" AR: OSN Ad 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/913
 
-#EXTINF:-1 tvg-id="Nova Family." tvg-logo="noimage.png" group-title="FILMSKI", Nova Family.
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12084
+#EXTINF:-1 tvg-id=" AR: OSN Ad 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/914
 
-#EXTINF:-1 tvg-id="HBO MAX HD" tvg-logo="noimage.png" group-title="FILMSKI", HBO MAX HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6273
+#EXTINF:-1 tvg-id=" AR: OSN Ad 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/915
 
-#EXTINF:-1 tvg-id="Gora Premiere HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Premiere HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3799
+#EXTINF:-1 tvg-id=" PT: Sporting TV" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: Sporting TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/916
 
-#EXTINF:-1 tvg-id="Gora Select 1 HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Select 1 HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5467
+#EXTINF:-1 tvg-id=" PT: TV 1" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/917
 
-#EXTINF:-1 tvg-id="Toxic HD" tvg-logo="noimage.png" group-title="MUZICKI", Toxic HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9064
+#EXTINF:-1 tvg-id=" PT: TV 2" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/918
 
-#EXTINF:-1 tvg-id="Toxic Folk HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Folk_RS_logo.png" group-title="MUZICKI", Toxic Folk HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12846
+#EXTINF:-1 tvg-id=" PT: TV 3" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/919
 
-#EXTINF:-1 tvg-id="Toxic Rap HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Rap_RS_logo.png" group-title="MUZICKI", Toxic Rap HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12847
+#EXTINF:-1 tvg-id=" PT: TV 4" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/920
 
-#EXTINF:-1 tvg-id="Balkanika TV" tvg-logo="noimage.png" group-title="MUZICKI", Balkanika TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/391
+#EXTINF:-1 tvg-id=" PT: TV 5" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 5
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/921
 
-#EXTINF:-1 tvg-id="MTV Adria" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/46.png" group-title="MUZICKI", MTV Adria
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/551
+#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1468
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 80s
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/394
+#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1469
 
-#EXTINF:-1 tvg-id="MTV Music" tvg-logo="noimage.png" group-title="MUZICKI", MTV Music
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/392
+#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1470
 
-#EXTINF:-1 tvg-id="MTV Live" tvg-logo="noimage.png" group-title="MUZICKI", MTV Live
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10260
+#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1471
 
-#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 90s
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10261
+#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 5" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 5
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1472
 
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 00s
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/504
+#EXTINF:-1 tvg-id=" RO: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  RO: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/922
 
-#EXTINF:-1 tvg-id="Muzzik HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12526
+#EXTINF:-1 tvg-id=" PL: Polsat Extra" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Polsat Extra
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/926
 
-#EXTINF:-1 tvg-id="Muzzik Rock HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Rock HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12527
+#EXTINF:-1 tvg-id=" PL: Eleven SPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Eleven SPORT 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/927
 
-#EXTINF:-1 tvg-id="Muzzik World HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik World HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12528
+#EXTINF:-1 tvg-id=" PL: Canal 3" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Canal 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/928
 
-#EXTINF:-1 tvg-id="Muzzik Jeka HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Jeka HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12529
+#EXTINF:-1 tvg-id=" PL: Eleven SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Eleven SPORT 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/929
 
-#EXTINF:-1 tvg-id="Muzzik Riviera HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Riviera HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12530
+#EXTINF:-1 tvg-id=" Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORT ",  Fight Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/931
 
-#EXTINF:-1 tvg-id="Muzzik HipHop HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HipHop HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12531
+#EXTINF:-1 tvg-id=" PL: TVP Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: TVP Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/932
 
-#EXTINF:-1 tvg-id="Muzzik OKK HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik OKK HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12532
+#EXTINF:-1 tvg-id=" FightClub" tvg-logo="noimage.png" group-title="★ SPORT ",  FightClub
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/933
 
-#EXTINF:-1 tvg-id="CMC" tvg-logo="noimage.png" group-title="MUZICKI", CMC
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/588
+#EXTINF:-1 tvg-id=" BG: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  BG: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/934
 
-#EXTINF:-1 tvg-id="BN Music HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/34.png" group-title="MUZICKI", BN Music HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/591
+#EXTINF:-1 tvg-id=" BG: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Euro2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/935
 
-#EXTINF:-1 tvg-id="IDJ TV" tvg-logo="noimage.png" group-title="MUZICKI", IDJ TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9283
+#EXTINF:-1 tvg-id=" BG: Diema 1" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Diema 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/936
 
-#EXTINF:-1 tvg-id="Grand" tvg-logo="noimage.png" group-title="MUZICKI", Grand
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9275
+#EXTINF:-1 tvg-id=" BG: Diema 2" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Diema 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/937
 
-#EXTINF:-1 tvg-id="Grand 2" tvg-logo="noimage.png" group-title="MUZICKI", Grand 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9276
+#EXTINF:-1 tvg-id=" BG: Nova Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Nova Sport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/938
 
-#EXTINF:-1 tvg-id="DM Sat" tvg-logo="noimage.png" group-title="MUZICKI", DM Sat
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/406
+#EXTINF:-1 tvg-id=" BG: Ring TV" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Ring TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/940
 
-#EXTINF:-1 tvg-id="ExYu Melody" tvg-logo="noimage.png" group-title="MUZICKI", ExYu Melody
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9038
+#EXTINF:-1 tvg-id=" BG: Plus" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Plus
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/941
 
-#EXTINF:-1 tvg-id="Top Sound" tvg-logo="noimage.png" group-title="MUZICKI", Top Sound
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8864
+#EXTINF:-1 tvg-id="BG: Max 3" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21530
 
-#EXTINF:-1 tvg-id="Duga TV" tvg-logo="noimage.png" group-title="MUZICKI", Duga TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5416
+#EXTINF:-1 tvg-id="BG: Max 4" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21531
 
-#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="http://116.203.156.75/logo/izvorna.png" group-title="MUZICKI", Izvorna TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/402
+#EXTINF:-1 tvg-id=" ES: Euro1" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Euro1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/942
 
-#EXTINF:-1 tvg-id="Amari" tvg-logo="noimage.png" group-title="MUZICKI", Amari
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12390
+#EXTINF:-1 tvg-id=" ES: Barca TV" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Barca TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/943
 
-#EXTINF:-1 tvg-id="Jugoton TV" tvg-logo="noimage.png" group-title="MUZICKI", Jugoton TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/401
+#EXTINF:-1 tvg-id=" ES: Real Madrid TV" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Real Madrid TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/944
 
-#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="MUZICKI", Narodna TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/393
+#EXTINF:-1 tvg-id=" ES: Movistar LaLiga" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Movistar LaLiga
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/945
 
-#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/62.png" group-title="MUZICKI", OTV Valentino
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/540
+#EXTINF:-1 tvg-id=" ES: beINSport" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: beINSport
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/946
 
-#EXTINF:-1 tvg-id="Hayat Music Box" tvg-logo="http://116.203.156.75/logo/hayat-music-box.png" group-title="MUZICKI", Hayat Music Box
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/564
+#EXTINF:-1 tvg-id=" ES: M Golf" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: M Golf
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/949
 
-#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="noimage.png" group-title="MUZICKI", Sevdah TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/396
+#EXTINF:-1 tvg-id=" UK: Fox SPORT News" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  UK: Fox SPORT News
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/950
 
-#EXTINF:-1 tvg-id="Hayat Folk Box" tvg-logo="http://116.203.156.75/logo/hayat-folk-box.png" group-title="MUZICKI", Hayat Folk Box
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/565
+#EXTINF:-1 tvg-id=" ES: Gol TV" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Gol TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/952
 
-#EXTINF:-1 tvg-id="Pink BH" tvg-logo="http://116.203.156.75/logo/pink_bh.png" group-title="PINK", Pink BH
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3647
+#EXTINF:-1 tvg-id=" UK: Motor Trend" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Motor Trend
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/953
 
-#EXTINF:-1 tvg-id="Pink" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK", PINK
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/376
+#EXTINF:-1 tvg-id="RO: TELEKOM 1" tvg-logo="noimage.png" group-title="★ SPORT ", RO: TELEKOM 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1733
 
-#EXTINF:-1 tvg-id="pink.sr" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK", PINK HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7466
+#EXTINF:-1 tvg-id="RO: TELEKOM 2" tvg-logo="noimage.png" group-title="★ SPORT ", RO: TELEKOM 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1734
 
-#EXTINF:-1 tvg-id="pink-2" tvg-logo="http://116.203.156.75/logo/Red-TV-Pink-Logo.png" group-title="PINK", Red TV
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/375
+#EXTINF:-1 tvg-id="RO: TELEKOM 3" tvg-logo="noimage.png" group-title="★ SPORT ", RO: TELEKOM 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1735
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/Vesti_RS_logo.png" group-title="PINK", Pink Vesti
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/374
+#EXTINF:-1 tvg-id=" RO: Digi 1" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/955
 
-#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://116.203.156.75/logo/pink_action.png" group-title="PINK", Pink Action HD
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/373
+#EXTINF:-1 tvg-id=" RO: Digi 2" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/956
 
-#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="http://116.203.156.75/logo/pink_comedy.png" group-title="PINK", Pink Comedy
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/371
+#EXTINF:-1 tvg-id=" RO: Digi 3" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/957
 
-#EXTINF:-1 tvg-id="Pink Crime & Mystery" tvg-logo="http://116.203.156.75/logo/pink_crime_mistery.png" group-title="PINK", Pink Crime & Mystery
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/370
+#EXTINF:-1 tvg-id=" RO: Digi 4" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/958
 
-#EXTINF:-1 tvg-id="Pink Film" tvg-logo="http://116.203.156.75/logo/pink_film.png" group-title="PINK", Pink Film
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/369
+#EXTINF:-1 tvg-id=" US: OWN" tvg-logo="noimage.png" group-title="★ SPORT ",  US: OWN
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/959
 
-#EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="http://116.203.156.75/logo/pink_folk1.png" group-title="PINK", Pink Folk 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/368
+#EXTINF:-1 tvg-id=" US: ESPN U" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN U
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/961
 
-#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://116.203.156.75/logo/pink_folk2.png" group-title="PINK", Pink Folk 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/367
+#EXTINF:-1 tvg-id=" US: ESPN 1" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/960
 
-#EXTINF:-1 tvg-id="PINK HA HA" tvg-logo="http://116.203.156.75/logo/pink_haha.jpg" group-title="PINK", PINK HA HA
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/366
+#EXTINF:-1 tvg-id="BG: Max 1" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/4967
 
-#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="http://116.203.156.75/logo/pink_horor.png" group-title="PINK", Pink Horror
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/356
+#EXTINF:-1 tvg-id="BG: Max 2" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/4968
 
-#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="http://116.203.156.75/logo/pink_kids.png" group-title="PINK", Pink Kids
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/365
+#EXTINF:-1 tvg-id="SLO: TV 1" tvg-logo="noimage.png" group-title="★ SPORT ", SLO: TV 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36172
 
-#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="http://116.203.156.75/logo/pink_movies.png" group-title="PINK", Pink Movies
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/363
+#EXTINF:-1 tvg-id="SLO: TV 2" tvg-logo="noimage.png" group-title="★ SPORT ", SLO: TV 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36173
 
-#EXTINF:-1 tvg-id="Pink Music 1" tvg-logo="http://116.203.156.75/logo/pink_music.png" group-title="PINK", Pink Music 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/362
+#EXTINF:-1 tvg-id="SLO: TV 3" tvg-logo="noimage.png" group-title="★ SPORT ", SLO: TV 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36174
 
-#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://116.203.156.75/logo/pink_music2.png" group-title="PINK", Pink Music 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/361
+#EXTINF:-1 tvg-id="SLO: Klub 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ", SLO: Klub 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36521
 
-#EXTINF:-1 tvg-id="Pink & Roll" tvg-logo="http://116.203.156.75/logo/PinkNRoll_logo.png" group-title="PINK", Pink & Roll
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6640
+#EXTINF:-1 tvg-id="US: World Poker Tour" tvg-logo="noimage.png" group-title="★ SPORT ", US: World Poker Tour
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36526
 
-#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="http://116.203.156.75/logo/pink_plus.png" group-title="PINK", Pink Plus
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/360
+#EXTINF:-1 tvg-id=" Arena Premium 2 (BIH)" tvg-logo="noimage.png" group-title="★ SPORT ",  Arena Premium 2 (BIH)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49159
 
-#EXTINF:-1 tvg-id="pink-premium" tvg-logo="http://116.203.156.75/logo/pink_premium.png" group-title="PINK", Pink Premium
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/359
+#EXTINF:-1 tvg-id=" UK: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ DJECJI",  UK: Cartoon Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1056
 
-#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="http://116.203.156.75/logo/pinkReality.png" group-title="PINK", Pink Reality
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/358
+#EXTINF:-1 tvg-id=" US: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ DJECJI",  US: Cartoon Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1057
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/Pink_Romance_logo.png" group-title="PINK", Pink Romance
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/357
+#EXTINF:-1 tvg-id=" UK: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ DJECJI",  UK: Boomerang
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1058
 
-#EXTINF:-1 tvg-id="Pink Sci-Fi & Fantasy" tvg-logo="http://116.203.156.75/logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK", Pink Sci Fi & Fantasy
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/355
+#EXTINF:-1 tvg-id=" TR: Cartoonito" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_de.jpg" group-title="★ DJECJI",  TR: Cartoonito
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1059
 
-#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="http://116.203.156.75/logo/pink_serije.png" group-title="PINK", Pink Serije
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/353
+#EXTINF:-1 tvg-id=" UK: Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Disney Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1060
 
-#EXTINF:-1 tvg-id="Pink Show" tvg-logo="http://116.203.156.75/logo/PinkShow.png" group-title="PINK", Pink Show
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/352
+#EXTINF:-1 tvg-id=" UK: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ DJECJI",  UK: Disney Junior
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1061
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/pinksoap.png" group-title="PINK", PINK SOAP
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/351
+#EXTINF:-1 tvg-id=" UK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ DJECJI",  UK: Disney XD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1062
 
-#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="http://116.203.156.75/logo/Pink_Thriller_logo.png" group-title="PINK", Pink Thriler
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/354
+#EXTINF:-1 tvg-id=" UK: Nick Jr" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Nick Jr
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1063
 
-#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="http://116.203.156.75/logo/pink_classic.png" group-title="PINK", Pink Classic
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5665
+#EXTINF:-1 tvg-id=" UK: Nicktoons" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Nicktoons
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1064
 
-#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://116.203.156.75/logo/pink_family.png" group-title="PINK", Pink Family
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5666
+#EXTINF:-1 tvg-id=" UK: Baby First TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ DJECJI",  UK: Baby First TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1065
 
-#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="http://116.203.156.75/logo/pink_kuvar.png" group-title="PINK", Pink Kuvar
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5664
+#EXTINF:-1 tvg-id=" UK: Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Nickelodeon
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1066
 
-#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://nova-iptv.com/logo/pink-extra.png" group-title="PINK", Pink Extra
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12557
+#EXTINF:-1 tvg-id=" UK: CBeebies" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: CBeebies
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1068
 
-#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="http://nova-iptv.com/logo/PinkKoncert_logo.png" group-title="PINK", Pink Koncert
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12558
+#EXTINF:-1 tvg-id=" UK: Tiny Pop" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Tiny Pop
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1070
 
-#EXTINF:-1 tvg-id="Pink LOL" tvg-logo="http://116.203.156.75/logo/pink_lol.png" group-title="PINK", Pink LOL
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5663
+#EXTINF:-1 tvg-id=" DE: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ DJECJI",  DE: Boomerang
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1071
 
-#EXTINF:-1 tvg-id="Pink World" tvg-logo="http://116.203.156.75/logo/pink_world.png" group-title="PINK", Pink World
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5667
+#EXTINF:-1 tvg-id=" DE: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ DJECJI",  DE: Cartoon Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1072
 
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="http://116.203.156.75/logo/pink_pedia.png" group-title="PINK", Pink Pedia
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/350
+#EXTINF:-1 tvg-id=" DE: KIKA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kika-de.svg" group-title="★ DJECJI",  DE: KIKA
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1073
 
-#EXTINF:-1 tvg-id="Pink Western" tvg-logo="http://116.203.156.75/logo/pink-western-logo.png" group-title="PINK", Pink Western
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/349
+#EXTINF:-1 tvg-id=" DE: Disney Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.png" group-title="★ DJECJI",  DE: Disney Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1075
 
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="http://116.203.156.75/logo/pink_world_cinema.png" group-title="PINK", Pink World Cinema
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/348
+#EXTINF:-1 tvg-id=" DE: Disney Cinemagic" tvg-logo="noimage.png" group-title="★ DJECJI",  DE: Disney Cinemagic
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1076
 
-#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="http://116.203.156.75/logo/pink_zabava.png" group-title="PINK", Pink Zabava
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/347
+#EXTINF:-1 tvg-id=" DE: Nickelodeon AT" tvg-logo="noimage.png" group-title="★ DJECJI",  DE: Nickelodeon AT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1077
 
-#EXTINF:-1 tvg-id="VIP Radio" tvg-logo="noimage.png" group-title="RADIO", VIP Radio
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8681
+#EXTINF:-1 tvg-id=" DE: TOGGO plus" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toggo-de.png" group-title="★ DJECJI",  DE: TOGGO plus
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1078
 
-#EXTINF:-1 tvg-id="Radio KRAJINA Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio KRAJINA Cazin
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3782
+#EXTINF:-1 tvg-id=" DE: Super RTL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/super_rtl_de.jpg" group-title="★ DJECJI",  DE: Super RTL
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1079
 
-#EXTINF:-1 tvg-id="BN Radio" tvg-logo="noimage.png" group-title="RADIO", BN Radio
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/3
+#EXTINF:-1 tvg-id=" Pikaboo" tvg-logo="noimage.png" group-title="★ DJECJI",  Pikaboo
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1080
 
-#EXTINF:-1 tvg-id="Rock Radio" tvg-logo="noimage.png" group-title="RADIO", Rock Radio
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6
+#EXTINF:-1 tvg-id=" Rtl Kockica" tvg-logo="noimage.png" group-title="★ DJECJI",  Rtl Kockica
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1081
 
-#EXTINF:-1 tvg-id="Play Radio" tvg-logo="noimage.png" group-title="RADIO", Play Radio
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10
+#EXTINF:-1 tvg-id=" Nick JR" tvg-logo="noimage.png" group-title="★ DJECJI",  Nick JR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1082
 
-#EXTINF:-1 tvg-id="Pink Radio" tvg-logo="noimage.png" group-title="RADIO", Pink Radio
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/4
+#EXTINF:-1 tvg-id=" Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI",  Disney Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1083
 
-#EXTINF:-1 tvg-id="Radio Livno" tvg-logo="noimage.png" group-title="RADIO", Radio Livno
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/9
+#EXTINF:-1 tvg-id=" Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI",  Nickelodeon
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1084
 
-#EXTINF:-1 tvg-id="BIG Radio" tvg-logo="noimage.png" group-title="RADIO", BIG Radio
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/5
+#EXTINF:-1 tvg-id="  Baby Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ DJECJI",   Baby Tv
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1085
 
-#EXTINF:-1 tvg-id="Radio Stari Grad Sarajevo" tvg-logo="noimage.png" group-title="RADIO", Radio Stari Grad Sarajevo
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/8
+#EXTINF:-1 tvg-id=" Pink DJECJI" tvg-logo="noimage.png" group-title="★ DJECJI",  Pink DJECJI
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1086
 
-#EXTINF:-1 tvg-id="Radio Tomislavgrad" tvg-logo="noimage.png" group-title="RADIO", Radio Tomislavgrad
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/7
+#EXTINF:-1 tvg-id="Mini Ultra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mini_ultra_rs.jpg" group-title="★ DJECJI", Mini Ultra
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1087
 
-#EXTINF:-1 tvg-id="Radio Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio Cazin
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6636
+#EXTINF:-1 tvg-id=" UK: POP Max" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: POP Max
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1088
 
-#EXTINF:-1 tvg-id="Radio USK" tvg-logo="noimage.png" group-title="RADIO", Radio USK
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6637
+#EXTINF:-1 tvg-id=" PINK PANTHER" tvg-logo="noimage.png" group-title="★ DJECJI",  PINK PANTHER
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1089
 
-#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="noimage.png" group-title="RADIO", HRT HR 1
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6709
+#EXTINF:-1 tvg-id=" Tom & Jerry" tvg-logo="noimage.png" group-title="★ DJECJI",  Tom & Jerry
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1090
 
-#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="noimage.png" group-title="RADIO", HRT HR 2
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6710
+#EXTINF:-1 tvg-id=" Dexy TV" tvg-logo="noimage.png" group-title="★ DJECJI",  Dexy TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1718
 
-#EXTINF:-1 tvg-id="Hrvatski radio Zupanja" tvg-logo="noimage.png" group-title="RADIO", Hrvatski radio Zupanja
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6703
+#EXTINF:-1 tvg-id="SE: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ DJECJI", SE: Cartoon Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21573
 
-#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="noimage.png" group-title="RADIO", Radio Posavina
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6707
+#EXTINF:-1 tvg-id=" SE: Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Disney Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1092
 
-#EXTINF:-1 tvg-id="Radio Sibenik" tvg-logo="noimage.png" group-title="RADIO", Radio Sibenik
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6705
+#EXTINF:-1 tvg-id=" SE: Cartoonito" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Cartoonito
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1093
 
-#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="noimage.png" group-title="RADIO", Radio Sunce
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6702
+#EXTINF:-1 tvg-id=" SE: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ DJECJI",  SE: Disney Junior
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1094
 
-#EXTINF:-1 tvg-id="Radio Zapresic" tvg-logo="noimage.png" group-title="RADIO", Radio Zapresic
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6708
+#EXTINF:-1 tvg-id=" SE: Nick JR" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Nick JR
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1096
 
-#EXTINF:-1 tvg-id="Enter Zagreb" tvg-logo="noimage.png" group-title="RADIO", Enter Zagreb
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6706
+#EXTINF:-1 tvg-id=" SE: Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Nickelodeon
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1097
 
-#EXTINF:-1 tvg-id="Antena Zagreb" tvg-logo="noimage.png" group-title="RADIO", Antena Zagreb
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/6704
+#EXTINF:-1 tvg-id="DK: Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI", DK: Nickelodeon
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1432
 
-#EXTINF:-1 tvg-id="RTG Music" tvg-logo="noimage.png" group-title="RADIO", RTG Music
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10240
+#EXTINF:-1 tvg-id="DK: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ DJECJI", DK: Cartoon Network
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1436
 
-#EXTINF:-1 tvg-id="RTG Bastina" tvg-logo="noimage.png" group-title="RADIO", RTG Bastina
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12562
+#EXTINF:-1 tvg-id=" DK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ DJECJI",  DK: Disney XD
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1099
 
-#EXTINF:-1 tvg-id="RTG Frama" tvg-logo="noimage.png" group-title="RADIO", RTG Frama
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12563
+#EXTINF:-1 tvg-id=" AL: Bang Bang" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Bang Bang
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1102
 
-#EXTINF:-1 tvg-id="RTG Djeciji" tvg-logo="noimage.png" group-title="RADIO", RTG Djeciji
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12564
+#EXTINF:-1 tvg-id=" AL: TIP TV" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: TIP TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1103
 
-#EXTINF:-1 tvg-id="RTG Domovina" tvg-logo="noimage.png" group-title="RADIO", RTG Domovina
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12565
+#EXTINF:-1 tvg-id=" AL: Junior" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Junior
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1104
 
-#EXTINF:-1 tvg-id="Radiopostaja Mir Medjugorje" tvg-logo="noimage.png" group-title="RADIO", Radiopostaja Mir Medjugorje
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10241
+#EXTINF:-1 tvg-id=" AL: Tring Tring" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Tring Tring
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1105
 
-#EXTINF:-1 tvg-id="Kupreski Radio" tvg-logo="noimage.png" group-title="RADIO", Kupreski Radio
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/10242
+#EXTINF:-1 tvg-id=" AL: Cufo" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Cufo
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1106
 
+#EXTINF:-1 tvg-id="DK: Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI", DK: Disney Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/635
 
+#EXTINF:-1 tvg-id="nationalgeographic.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", National Geographic
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1136
+
+#EXTINF:-1 tvg-id="natgeowild.rs" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="★ DOKUMENTARNI", National Geographic Wild
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1137
+
+#EXTINF:-1 tvg-id="history.rs" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="★ DOKUMENTARNI", History Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1138
+
+#EXTINF:-1 tvg-id="discoveryidxtra.rs" tvg-logo="https://w7.pngwing.com/pngs/58/935/png-transparent-investigation-discovery-television-show-television-channel-logo-id-thumbnail.png" group-title="★ DOKUMENTARNI", ID Xtra
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1139
+
+#EXTINF:-1 tvg-id="crimeandinvestigation.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Crime & Investigation
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1140
+
+#EXTINF:-1 tvg-id="loviribolov.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Lov & Ribolov
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1141
+
+#EXTINF:-1 tvg-id="DokuTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/doku-tv-hr.png" group-title="★ DOKUMENTARNI", DokuTV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/38581
+
+#EXTINF:-1 tvg-id="DocuBox" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", DocuBox
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1144
+
+#EXTINF:-1 tvg-id="discoverychannel.rs" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="★ DOKUMENTARNI", Discovery Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1145
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="★ DOKUMENTARNI", Discovery Science
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1147
+
+#EXTINF:-1 tvg-id="animalplanet.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" group-title="★ DOKUMENTARNI", Animal Planet
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1148
+
+#EXTINF:-1 tvg-id="history2.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", History 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1149
+
+#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-kitchen.svg" group-title="★ DOKUMENTARNI", 24 Kitchen
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1150
+
+#EXTINF:-1 tvg-id="viasatexplore.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Viasat Explore
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1151
+
+#EXTINF:-1 tvg-id="viasathistory.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Viasat History
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1152
+
+#EXTINF:-1 tvg-id="viasatnature.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Viasat Nature
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1153
+
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/da_vinci_learning.jpg" group-title="★ DOKUMENTARNI", Da Vinci Learning
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1155
+
+#EXTINF:-1 tvg-id="travelchannel.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Travel Channel
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1159
+
+#EXTINF:-1 tvg-id="Discovery DTX" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Discovery DTX
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39139
+
+#EXTINF:-1 tvg-id="hbohd.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_adria.jpg" group-title="★ FILMSKI", HBO
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1161
+
+#EXTINF:-1 tvg-id="hbo2hd.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", HBO 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1162
+
+#EXTINF:-1 tvg-id="hbo3hd.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", HBO 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1163
+
+#EXTINF:-1 tvg-id="Kino TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kino_tv_hr.png" group-title="★ FILMSKI", Kino TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1164
+
+#EXTINF:-1 tvg-id="cinestartv.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-1-hr.png" group-title="★ FILMSKI", Cinestar TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1165
+
+#EXTINF:-1 tvg-id="cinemania.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemania-rs.png" group-title="★ FILMSKI", Cinemania
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/38580
+
+#EXTINF:-1 tvg-id="Cinestar TV 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-2-hr.png" group-title="★ FILMSKI", Cinestar TV 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36502
+
+#EXTINF:-1 tvg-id="cinestarcomedy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-comedy-hr.png" group-title="★ FILMSKI", CineStar TV Comedy
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39055
+
+#EXTINF:-1 tvg-id="Cinestar Premiere 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-1-hr.png" group-title="★ FILMSKI", Cinestar Premiere 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1166
+
+#EXTINF:-1 tvg-id="Cinestar Premiere 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-2-hr.png" group-title="★ FILMSKI", Cinestar Premiere 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1167
+
+#EXTINF:-1 tvg-id="cinestaraction.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-action-hr.png" group-title="★ FILMSKI", Cinestar Action
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1168
+
+#EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-fantasy-hr.png" group-title="★ FILMSKI", Cinestar Fantasy
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1169
+
+#EXTINF:-1 tvg-id=" M1 Film" tvg-logo="noimage.png" group-title="★ FILMSKI",  M1 Film
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1178
+
+#EXTINF:-1 tvg-id="FILM: M1 Film" tvg-logo="noimage.png" group-title="★ FILMSKI", FILM: M1 Film
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1177
+
+#EXTINF:-1 tvg-id="M1 Film Gold" tvg-logo="noimage.png" group-title="★ FILMSKI", M1 Film Gold
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36513
+
+#EXTINF:-1 tvg-id="M1 Family" tvg-logo="noimage.png" group-title="★ FILMSKI", M1 Family
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36515
+
+#EXTINF:-1 tvg-id="tv1000.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", TV 1000
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1170
+
+#EXTINF:-1 tvg-id="axn.rs" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle-thumbnail.png" group-title="★ FILMSKI", AXN
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1171
+
+#EXTINF:-1 tvg-id="axnspin.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", AXN Spin
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1172
+
+#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klasik-tv-hr.svg" group-title="★ FILMSKI", Klasik TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1173
+
+#EXTINF:-1 tvg-id="cinemaxhd.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", Cinemax 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1175
+
+#EXTINF:-1 tvg-id="cinemax2.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", Cinemax 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1176
+
+#EXTINF:-1 tvg-id="Filmbox Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/filmbox_extra.jpg" group-title="★ FILMSKI", Filmbox Extra
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1179
+
+#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-logo="noimage.png" group-title="★ FILMSKI", Filmbox Arthouse
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1180
+
+#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="noimage.png" group-title="★ FILMSKI", Euro Cinema 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46618
+
+#EXTINF:-1 tvg-id="Euro Cinema 3" tvg-logo="noimage.png" group-title="★ FILMSKI", Euro Cinema 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46616
+
+#EXTINF:-1 tvg-id="Euro Cinema 4" tvg-logo="noimage.png" group-title="★ FILMSKI", Euro Cinema 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46615
+
+#EXTINF:-1 tvg-id="MAXCRO Select 1" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1182
+
+#EXTINF:-1 tvg-id="MAXCRO Select 2" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1183
+
+#EXTINF:-1 tvg-id="MAXCRO Select 3" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1184
+
+#EXTINF:-1 tvg-id="MAXCRO Select 4" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 4
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1185
+
+#EXTINF:-1 tvg-id="MAXCRO Select 5" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 5
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1186
+
+#EXTINF:-1 tvg-id="Balkanika (MUSIC)" tvg-logo="noimage.png" group-title="★ MUZICKI", Balkanika (MUSIC)
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1107
+
+#EXTINF:-1 tvg-id="♫: Kafanska TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: Kafanska TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1714
+
+#EXTINF:-1 tvg-id="♫♫: Pink Koncert" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Pink Koncert
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1108
+
+#EXTINF:-1 tvg-id="♫♫: Grand Narodna" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-rs.png" group-title="★ MUZICKI", ♫♫: Grand Narodna
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1109
+
+#EXTINF:-1 tvg-id="♫: Grand 2" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: Grand 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1110
+
+#EXTINF:-1 tvg-id="♫♫: DM SAT" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dm_sat_rs.png" group-title="★ MUZICKI", ♫♫: DM SAT
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1111
+
+#EXTINF:-1 tvg-id="♫♫: CMC TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmc_tv_hr.png" group-title="★ MUZICKI", ♫♫: CMC TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1112
+
+#EXTINF:-1 tvg-id="♫♫: Jugoton" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jugoton_tv_hr.png" group-title="★ MUZICKI", ♫♫: Jugoton
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1113
+
+#EXTINF:-1 tvg-id="♫♫: IDJ TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idj-tv-rs.png" group-title="★ MUZICKI", ♫♫: IDJ TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1114
+
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="noimage.png" group-title="★ MUZICKI", PLAY TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48543
+
+#EXTINF:-1 tvg-id="♫♫: TOP TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: TOP TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1115
+
+#EXTINF:-1 tvg-id="♫♫: KCN 1" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: KCN 1
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1116
+
+#EXTINF:-1 tvg-id="♫♫: KCN 2" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: KCN 2
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1117
+
+#EXTINF:-1 tvg-id="♫♫: KCN 3" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: KCN 3
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1118
+
+#EXTINF:-1 tvg-id="♫: Bravo Music" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: Bravo Music
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1536
+
+#EXTINF:-1 tvg-id="♫♫: Sevdah TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Sevdah TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1119
+
+#EXTINF:-1 tvg-id="♫♫: BN Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" group-title="★ MUZICKI", ♫♫: BN Music
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1120
+
+#EXTINF:-1 tvg-id="♫♫: Hayat Folk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_folk.jpg" group-title="★ MUZICKI", ♫♫: Hayat Folk
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1121
+
+#EXTINF:-1 tvg-id="♫♫: Hayat Music" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Hayat Music
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1122
+
+#EXTINF:-1 tvg-id="♫♫: TV Sehara" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: TV Sehara
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1124
+
+#EXTINF:-1 tvg-id="♫♫: Taraf" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Taraf
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1125
+
+#EXTINF:-1 tvg-id="♫♫: YU Planet" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: YU Planet
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1126
+
+#EXTINF:-1 tvg-id="♫♫: S.K.Y Folk" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: S.K.Y Folk
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1128
+
+#EXTINF:-1 tvg-id="♫: IN TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: IN TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/23575
+
+#EXTINF:-1 tvg-id="♫ Muzzik World Wide" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫ Muzzik World Wide
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39064
+
+#EXTINF:-1 tvg-id="♫ Muzzik" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫ Muzzik
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39065
+
+#EXTINF:-1 tvg-id="♫♫: Roma TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Roma TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1130
+
+#EXTINF:-1 tvg-id="♫♫: FEN TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: FEN TV
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1131
+
+#EXTINF:-1 tvg-id="♫♫: Planeta" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Planeta
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1132
+
+#EXTINF:-1 tvg-id="♫♫: Planeta Folk" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Planeta Folk
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1133
+
+#EXTINF:-1 tvg-id="♫♫: Deluxe Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deluxe_music.jpg" group-title="★ MUZICKI", ♫♫: Deluxe Music
+http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1135
 
 
 
