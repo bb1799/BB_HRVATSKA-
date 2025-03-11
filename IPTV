@@ -1,1493 +1,974 @@
-
 #EXTM3U
+#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska", HRT  1 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30473
 
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-1-hr.png" group-title="★ HRVATSKI", HRT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1189
+#EXTINF:-1 tvg-id="hrt2.hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="Hrvatska", HRT  2 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30474
 
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-2-hr.png" group-title="★ HRVATSKI", HRT 2
-http://ottshow.net:80/Dariog8/Glibo45/30474
+#EXTINF:-1 tvg-id="hrt3.hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3hd.gif" group-title="Hrvatska", HRT 3 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30475
 
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-3-hr.png" group-title="★ HRVATSKI", HRT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1191
+#EXTINF:-1 tvg-id="novatv.hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/78320
 
-#EXTINF:-1 tvg-id="HRT4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-4-hr.png" group-title="★ HRVATSKI", HRT 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1192
+#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatskahd.gif" group-title="Hrvatska", RTL HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30476
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-international-hr.png" group-title="★ HRVATSKI", HRT int.
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1193
+#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl-hrvatska-de-hr.svg" group-title="★ HRVATSKI", RTL
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1194
+#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/112
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1195
+#EXTINF:-1 tvg-id="n1-hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/n1hr.gif" group-title="Hrvatska", N1 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3774
 
-#EXTINF:-1 tvg-id="RTL Crime.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Crime
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1196
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1.gif" group-title="Hrvatska", HRT 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/40
 
-#EXTINF:-1 tvg-id="RTL Living.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Living
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1197
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2.gif" group-title="Hrvatska", HRT 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/41
 
-#EXTINF:-1 tvg-id="RTL Passion.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Passion
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1198
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3.gif" group-title="Hrvatska", HRT 3
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/353
 
-#EXTINF:-1 tvg-id="RTL Adria HD.hr" tvg-logo="noimage.png" group-title="★ HRVATSKI", RTL Adria
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/37022
+#EXTINF:-1 tvg-id="htv4" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt4.gif" group-title="Hrvatska", HRT 4
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/354
 
-#EXTINF:-1 tvg-id="Nova Family" tvg-logo="noimage.png" group-title="★ HRVATSKI", Nova Family
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/47792
+#EXTINF:-1 tvg-id="htv5" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt5.gif" group-title="Hrvatska", HRT int.
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9049
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="★ HRVATSKI", Nova TV HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1199
+#EXTINF:-1 tvg-id="HRT Doku" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/hrtdoku.gif" group-title="Hrvatska", HRT Doku
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/73694
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="★ HRVATSKI", NOVA TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1200
+#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/22
 
-#EXTINF:-1 tvg-id="Star Channel (FOX)" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="★ HRVATSKI", Star Channel (FOX)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1201
+#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68556
 
-#EXTINF:-1 tvg-id="Star Life" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="★ HRVATSKI", Star Life
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1202
+#EXTINF:-1 tvg-id="nova-world" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novaworld.gif" group-title="Hrvatska", Nova World
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45126
 
-#EXTINF:-1 tvg-id="FOX Crime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_hr.jpg" group-title="★ HRVATSKI", FOX Crime
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1203
+#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/novafamily.gif" group-title="Hrvatska", Nova Family
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39435
 
-#EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://w7.pngwing.com/pngs/704/511/png-transparent-fox-movies-television-channel-star-movies-logo-fox-miscellaneous-television-text-thumbnail.png" group-title="★ HRVATSKI", Star Movies
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1204
+#EXTINF:-1 tvg-id="Nova Series" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/novaseries.gif" group-title="Hrvatska", Nova Series
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72613
 
-#EXTINF:-1 tvg-id="Doma TV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/doma_tv_hr.png" group-title="★ HRVATSKI", Doma TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1205
+#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/novacinema.gif" group-title="Hrvatska", Nova Cinema
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39476
 
-#EXTINF:-1 tvg-id="Z1.hr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/z1_hr.jpg" group-title="★ HRVATSKI", Z1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1206
+#EXTINF:-1 tvg-id="Nova Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novacinema2.gif" group-title="Hrvatska", Nova Cinema 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45121
 
-#EXTINF:-1 tvg-id="Narodni TV" tvg-logo="noimage.png" group-title="★ HRVATSKI", Narodni TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21671
+#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatska.gif" group-title="Hrvatska", RTL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/23
 
-#EXTINF:-1 tvg-id="Pink HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Pink_TV_logo.png" group-title="★ PINK", Pink Media
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1289
+#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68558
 
-#EXTINF:-1 tvg-id="RED TV (Pink 2 HD)" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-tv-rs.svg" group-title="★ PINK", Pink 2 (Red TV)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1290
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlworld.gif" group-title="Hrvatska", RTL World
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45127
 
-#EXTINF:-1 tvg-id="Vesti HD (Pink 3 info)" tvg-logo="noimage.png" group-title="★ PINK", Pink Vesti
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1291
+#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlpassion.gif" group-title="Hrvatska", RTL Passion
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1198
 
-#EXTINF:-1 tvg-id="Pink Film" tvg-logo="https://mts.rs/oec/images/tv_channels/b4030ab97770d19f5daa0e180adff3f6.png" group-title="★ PINK", Pink Film
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1292
+#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlkrime.gif" group-title="Hrvatska", RTL Crime
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1199
 
-#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/4e7eb9cc3b3280f2421614978de360de.png" group-title="★ PINK", Pink Serije
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1293
+#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlliving.gif" group-title="Hrvatska", RTL Living
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2502
 
-#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="https://mtsantenatv.rs/pinkmovies.png" group-title="★ PINK", Pink Movies
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1294
+#EXTINF:-1 tvg-id="rtl-adria" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtladria.gif" group-title="Hrvatska", RTL Adria
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/26431
 
-#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_action.jpg" group-title="★ PINK", Pink Action
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1295
+#EXTINF:-1 tvg-id="RTL+" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlplus.gif" group-title="Hrvatska", RTL+
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45113
 
-#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="noimage.png" group-title="★ PINK", Pink Comedy
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1296
+#EXTINF:-1 tvg-id="RTL Play" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/RTL%20Pley.gif" group-title="Hrvatska", RTL Play
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45120
 
-#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="noimage.png" group-title="★ PINK", Pink Horror
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1297
+#EXTINF:-1 tvg-id="z1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/z1.gif" group-title="Hrvatska", Z1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1550
 
-#EXTINF:-1 tvg-id="pinkm.rs" tvg-logo="noimage.png" group-title="★ PINK", Pink M
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/19630
+#EXTINF:-1 tvg-id="Laudato" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/laudatotv.gif" group-title="Hrvatska", Laudato
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24581
 
-#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="noimage.png" group-title="★ PINK", Pink Classic
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1298
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vinkovacka.gif" group-title="Hrvatska", Vinkovacka
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/551
 
-#EXTINF:-1 tvg-id="Pink Crime and Mystery" tvg-logo="https://mts.rs/oec/images/tv_channels/5a0669323860927259d003494c470ebb.png" group-title="★ PINK", Pink Crime & Mystery
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1299
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/slavonskatv.gif" group-title="Hrvatska", Slavonska
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1176
 
-#EXTINF:-1 tvg-id="Pink Sci-Fi and Fantasy" tvg-logo="https://mts.rs/oec/images/tv_channels/b0f76c45a3bfaf7b93fbf8cad85ccf5a.png" group-title="★ PINK", Pink Sci-Fi&Fantasy
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1300
+#EXTINF:-1 tvg-id="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="Hrvatska", OTV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4537
 
-#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="https://mts.rs/oec/images/tv_channels/ba363e0ab4c5f6647c94823d437373d0.png" group-title="★ PINK",  Pink Thriller
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1301
+#EXTINF:-1 tvg-id="cakovec" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/srcetv.gif" group-title="Hrvatska", Zdrava Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4632
 
-#EXTINF:-1 tvg-id="Pink Western" tvg-logo="noimage.png" group-title="★ PINK", Pink Western
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1302
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vtvvarazdintv.gif" group-title="Hrvatska", VTV Varaždin
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5015
 
-#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="noimage.png" group-title="★ PINK", Pink Kuvar
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1303
+#EXTINF:-1 tvg-id="rtv-hb" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hercegbosnatv.gif" group-title="Hrvatska", Herceg Bosna
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5017
 
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="noimage.png" group-title="★ PINK", Pink Pedia
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1304
+#EXTINF:-1 tvg-id="tv-jadran" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jadrantv.gif" group-title="Hrvatska", Jadran tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5018
 
-#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="noimage.png" group-title="★ PINK", Pink Reality
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1305
+#EXTINF:-1 tvg-id="tv-dalmacija" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/televizija-dalmacija.gif" group-title="Hrvatska", Televizija Dalmacija
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69879
 
-#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="https://mts.rs/oec/images/tv_channels/fcc019b84bd5bba48bd1e74dc36188ec.png" group-title="★ PINK", Pink Romance
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1306
+#EXTINF:-1 tvg-id="sbtv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/sbtv.gif" group-title="Hrvatska", SBTV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9125
 
-#EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="noimage.png" group-title="★ PINK", Pink Premium
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1307
+#EXTINF:-1 tvg-id="libertas-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/libertastv.gif" group-title="Hrvatska", Libertas
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24582
 
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="noimage.png" group-title="★ PINK", Pink World Cinema
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1308
+#EXTINF:-1 tvg-id="Osjecka" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/osijeckatv.gif" group-title="Hrvatska", Osjecka
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1207
 
-#EXTINF:-1 tvg-id="Pink World" tvg-logo="noimage.png" group-title="★ PINK", Pink World
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1309
+#EXTINF:-1 tvg-id="Marry TV Medugorje" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/marrytvmedugorije.gif" group-title="Hrvatska", Marry TV Medugorje
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29258
 
-#EXTINF:-1 tvg-id="Pink Show" tvg-logo="noimage.png" group-title="★ PINK", Pink Show
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1310
+#EXTINF:-1 tvg-id="kanal-ri" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/kanal-ir.gif" group-title="Hrvatska", kanalR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66467
 
-#EXTINF:-1 tvg-id="pinkbh.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_bh.jpg" group-title="★ PINK", Pink BH
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1311
+#EXTINF:-1 tvg-id="Mreža tv Zagreb" tvg-logo="http://web.izipizi1.info/pi/mreza-zg-tv.png" group-title="Hrvatska", Mreža tv Zagreb
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39477
 
-#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_extra.jpg" group-title="★ PINK", Pink Extra
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1312
+#EXTINF:-1 tvg-id="CroTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/crotv.gif" group-title="Hrvatska", CroTV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67281
 
-#EXTINF:-1 tvg-id="Pink Style" tvg-logo="noimage.png" group-title="★ PINK", Pink Style
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1313
+#EXTINF:-1 tvg-id="Trend Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/trend-tv.gif" group-title="Hrvatska", Trend Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69886
 
-#EXTINF:-1 tvg-id="Pink Soap" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_soap_rs.jpg" group-title="★ PINK", Pink Soap
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1314
+#EXTINF:-1 tvg-id="Tv Zapad" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/tvz.gif" group-title="Hrvatska", Tv Zapad
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69895
 
-#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://www.ion.tv/canada/img/logoch/pnk2.jpg" group-title="★ PINK", Pink Plus
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1315
+#EXTINF:-1 tvg-id="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="Hrvatska", Prigorska Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69903
 
-#EXTINF:-1 tvg-id="Pink Fashion" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="★ PINK", Pink Fashion
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1316
+#EXTINF:-1 tvg-id="Tv Sibenik" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/tv-sibenik.gif" group-title="Hrvatska", Tv Sibenik
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71763
 
-#EXTINF:-1 tvg-id="Ha ha" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pink-haha-rs.png" group-title="★ PINK", Pink HaHa
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1317
+#EXTINF:-1 tvg-id="aurora-tv" tvg-logo="noimage.png" group-title="Hrvatska", Aurora TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/78934
 
-#EXTINF:-1 tvg-id="Lol" tvg-logo="noimage.png" group-title="★ PINK", Pink LoL
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1318
+#EXTINF:-1 tvg-id="Nova Cinema 4K" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/hrvatska/novacinema4k.gif" group-title="Hrvatska", Nova Cinema 4K
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69176
 
-#EXTINF:-1 tvg-id="Pink n roll" tvg-logo="https://logo.iptveditor.com/pinkandrollrs.png" group-title="★ PINK", Pink & Roll
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/20941
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif" group-title="Sport", Eurosport 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66
 
-#EXTINF:-1 tvg-id="Pink Folk" tvg-logo="noimage.png" group-title="★ PINK", Pink Folk 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1319
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif" group-title="Sport", Eurosport 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67
 
-#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_folk2.jpg" group-title="★ PINK", Pink Folk 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1320
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif" group-title="Sport", Sport Klub
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/34330
 
-#EXTINF:-1 tvg-id="Pink Music" tvg-logo="noimage.png" group-title="★ PINK", Pink Music
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1321
+#EXTINF:-1 tvg-id="sport-klub" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif" group-title="Sport", Sport Klub 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39321
 
-#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_music2.jpg" group-title="★ PINK", Pink Music 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1322
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif" group-title="Sport", Sport Klub 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62
 
-#EXTINF:-1 tvg-id="Pink Hits" tvg-logo="noimage.png" group-title="★ PINK", Pink Hits
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1323
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif" group-title="Sport", Sport Klub 3
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/64
 
-#EXTINF:-1 tvg-id="Pink Hits 2" tvg-logo="noimage.png" group-title="★ PINK", Pink Hits 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1324
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdhr.gif" group-title="Sport", Sport Klub 1 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39318
 
-#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="noimage.png" group-title="★ PINK", Pink Zabava
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1325
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdhr.gif" group-title="Sport", Sport Klub 2 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/33
 
-#EXTINF:-1 tvg-id=" ARENA PREMIUM 1 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORT ",  ARENA PREMIUM 1 (HD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/40635
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hdhr.gif" group-title="Sport", Sport Klub 3 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/34
 
-#EXTINF:-1 tvg-id=" Arena Premium 1 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORT ",  Arena Premium 1 (SD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46623
+#EXTINF:-1 tvg-id="sport-klub-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdslo.gif" group-title="Sport", Sport Klub 1 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29776
 
-#EXTINF:-1 tvg-id=" ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORT ",  ARENA PREMIUM 2 (HD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/40636
+#EXTINF:-1 tvg-id="sport-klub-plus-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdslo.gif" group-title="Sport", Sport Klub 2 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29777
 
-#EXTINF:-1 tvg-id=" Arena Premium 2 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORT ",  Arena Premium 2 (SD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46624
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3slohd.gif" group-title="Sport", Sport Klub 3 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29779
 
-#EXTINF:-1 tvg-id=" ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORT ",  ARENA PREMIUM 3 (HD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/40637
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif" group-title="Sport", Sport Klub 4
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/205
 
-#EXTINF:-1 tvg-id=" Arena Premium 3 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORT ",  Arena Premium 3 (SD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46625
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif" group-title="Sport", Sport Klub 5
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1202
 
-#EXTINF:-1 tvg-id="Arena1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/699
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif" group-title="Sport", Sport Klub 6
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1626
 
-#EXTINF:-1 tvg-id="Arena1 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29070
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif" group-title="Sport", Sport Klub 7
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69870
 
-#EXTINF:-1 tvg-id="Arena2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/700
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif" group-title="Sport", Sport Klub 8
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69871
 
-#EXTINF:-1 tvg-id="Arena2 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29071
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif" group-title="Sport", Sport Klub 9
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69872
 
-#EXTINF:-1 tvg-id="Arena3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/701
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif" group-title="Sport", Sport Klub 10
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69873
 
-#EXTINF:-1 tvg-id="Arena3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29072
+#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 BiH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67283
 
-#EXTINF:-1 tvg-id="Arena4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/702
+#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 BiH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67284
 
-#EXTINF:-1 tvg-id="Arena3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29073
+#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 BiH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67285
 
-#EXTINF:-1 tvg-id="Arena5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORT ",  Arena5 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/703
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39440
 
-#EXTINF:-1 tvg-id="Arena5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORT ",  Arena5 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29074
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39441
 
-#EXTINF:-1 tvg-id=" ArenaBH" tvg-logo="noimage.png" group-title="★ SPORT ",  ArenaBH
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/704
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39439
 
-#EXTINF:-1 tvg-id="Arena 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/705
+#EXTINF:-1 tvg-id="arena-sport-1-premium-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62594
 
-#EXTINF:-1 tvg-id="Arena 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORT ",  Arena1 SR (HD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29066
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="Sport", Arena Sport 1 BiH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/128
 
-#EXTINF:-1 tvg-id="Arena 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/706
+#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="Sport", Arena Sport 2 BiH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29
 
-#EXTINF:-1 tvg-id="Arena 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORT ",  Arena2 SR (HD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29067
+#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="Sport", Arena Sport 3 BiH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30
 
-#EXTINF:-1 tvg-id="Arena 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/707
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="Sport", Arena Sport 4 BiH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/31
 
-#EXTINF:-1 tvg-id="Arena 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORT ",  Arena3 SR (HD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29068
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif" group-title="Sport", Arena Sport 1 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/27
 
-#EXTINF:-1 tvg-id="Arena 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/708
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif" group-title="Sport", Arena Sport 2 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/192
 
-#EXTINF:-1 tvg-id="Arena 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORT ",  Arena4 SR (HD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29069
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif" group-title="Sport", Arena Sport 3 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/193
 
-#EXTINF:-1 tvg-id="Arena 5.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORT ",  Arena5 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/709
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif" group-title="Sport", Arena Sport 4 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/194
 
-#EXTINF:-1 tvg-id="Arena 6.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="★ SPORT ",  Arena6 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/710
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/645
 
-#EXTINF:-1 tvg-id=" Arena Premium 1 (BIH)" tvg-logo="noimage.png" group-title="★ SPORT ",  Arena Premium 1 (BIH)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49158
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37928
 
-#EXTINF:-1 tvg-id=" Arena Premium 3 (BIH)" tvg-logo="noimage.png" group-title="★ SPORT ",  Arena Premium 3 (BIH)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49160
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="Sport", Arena Sport 7 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35185
 
-#EXTINF:-1 tvg-id="ARENA FIGHT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="★ SPORT ", ARENA FIGHT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39561
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="Sport", Arena Sport 8 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35186
 
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ",  Klub 1 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/711
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif" group-title="Sport", Arena Sport 9 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35187
 
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ", Klub 1 SR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36527
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="Sport", Arena Sport 10 HR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35188
 
-#EXTINF:-1 tvg-id=" Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ",  Klub 2 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/712
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/28
 
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ", Klub 2 SR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36528
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1043
 
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORT ",  Klub 3 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/713
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1044
 
-#EXTINF:-1 tvg-id="sportklub4.rs" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub 4 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/714
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1045
 
-#EXTINF:-1 tvg-id="sportklub5.rs" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub 5 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/715
+#EXTINF:-1 tvg-id="Arena Sport 5 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66258
 
-#EXTINF:-1 tvg-id="sportklub6.rs" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub 6 SR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/716
+#EXTINF:-1 tvg-id="Arena Sport 6 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66259
 
-#EXTINF:-1 tvg-id="sportgolf.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="★ SPORT ",  Klub Golf
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/717
+#EXTINF:-1 tvg-id="Arena Sport 7 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT7.gif" group-title="Sport", Arena Sport 7 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70657
 
-#EXTINF:-1 tvg-id="  Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ",   Klub 1 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/718
+#EXTINF:-1 tvg-id="Arena Sport 8 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT8.gif" group-title="Sport", Arena Sport 8 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70658
 
-#EXTINF:-1 tvg-id="Klub 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ", Klub 1 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36530
+#EXTINF:-1 tvg-id="arena-sport-9-rs" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT9.gif" group-title="Sport", Arena Sport 9 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70659
 
-#EXTINF:-1 tvg-id=" Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ",  Klub 2 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/719
+#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-logo="https://repo.ottshow.net/pikoni/sport/srbarena%2010.gif" group-title="Sport", Arena Sport 10 SR
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70660
 
-#EXTINF:-1 tvg-id="Klub 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORT ", Klub 2 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36531
+#EXTINF:-1 tvg-id="arena-sport-1-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62590
 
-#EXTINF:-1 tvg-id=" Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORT ",  Klub 3 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/720
+#EXTINF:-1 tvg-id="arena-sport-2-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62591
 
-#EXTINF:-1 tvg-id="Klub 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORT ", Klub 3 HR HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36532
+#EXTINF:-1 tvg-id="arena-sport-3-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62592
 
-#EXTINF:-1 tvg-id="  Klub 4 HR" tvg-logo="noimage.png" group-title="★ SPORT ",   Klub 4 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/721
+#EXTINF:-1 tvg-id="arena-sport-4-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62593
 
-#EXTINF:-1 tvg-id="  Klub 5 HR" tvg-logo="noimage.png" group-title="★ SPORT ",   Klub 5 HR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/722
+#EXTINF:-1 tvg-id="arena-esport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif" group-title="Sport", Arena ESport
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/36410
 
-#EXTINF:-1 tvg-id="fightchannel.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-klub-fight-hu-rs.png" group-title="★ SPORT ",  Klub Fight
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48037
+#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Sport", Arena Sport 1x2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66260
 
-#EXTINF:-1 tvg-id=" Klub ESport" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub ESport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48038
+#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="noimage.png" group-title="Sport", Nova Sport HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/79936
 
-#EXTINF:-1 tvg-id=" Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/723
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif" group-title="Sport", Sport SLO 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/206
 
-#EXTINF:-1 tvg-id=" Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  Euro2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/724
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif" group-title="Sport", Sport SLO 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/207
 
-#EXTINF:-1 tvg-id="Nova Sport" tvg-logo="noimage.png" group-title="★ SPORT ", Nova Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36529
+#EXTINF:-1 tvg-id="stv3" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif" group-title="Sport", Sport SLO 3
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/208
 
-#EXTINF:-1 tvg-id=" MAX 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="★ SPORT ",  MAX 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/41332
+#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1 SD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71739
 
-#EXTINF:-1 tvg-id=" MAX 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="★ SPORT ",  MAX 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/41333
+#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2496
 
-#EXTINF:-1 tvg-id=" SPORTka TV" tvg-logo="noimage.png" group-title="★ SPORT ",  SPORTka TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/884
+#EXTINF:-1 tvg-id="maxsport-2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Sport", MAXSport 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/61224
 
-#EXTINF:-1 tvg-id=" Klub Fight" tvg-logo="noimage.png" group-title="★ SPORT ",  Klub Fight
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/848
+#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="noimage.png" group-title="Sport", Hajduk TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/83182
 
-#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="★ SPORT ", Zvezda TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36284
+#EXTINF:-1 tvg-id="city-tv" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif" group-title="Sport", City TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29606
 
-#EXTINF:-1 tvg-id=" DE: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  DE: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/725
+#EXTINF:-1 tvg-id="sportska-televizija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif" group-title="Sport", SPTV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/12622
 
-#EXTINF:-1 tvg-id=" DE: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: Euro2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/726
+#EXTINF:-1 tvg-id="sos" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif" group-title="Sport", SOS Kanal
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/204
 
-#EXTINF:-1 tvg-id=" DE: Euro2 Xtra" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: Euro2 Xtra
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/727
+#EXTINF:-1 tvg-id="Zvezda Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif" group-title="Sport", Zvezda Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69875
 
-#EXTINF:-1 tvg-id=" DE: DAZN BAR 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="★ SPORT ",  DE: DAZN BAR 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/728
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif" group-title="Sport", Tv Partizan
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69874
 
-#EXTINF:-1 tvg-id=" DE: DAZN BAR 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-2-uk.svg" group-title="★ SPORT ",  DE: DAZN BAR 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/729
+#EXTINF:-1 tvg-id="fight-klub-hd" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif" group-title="Sport", Sport Klub Golf
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68481
 
-#EXTINF:-1 tvg-id=" DE: S News" tvg-logo="https://w7.pngwing.com/pngs/514/778/png-transparent-logo-sky-news-live-television-brand-television-channel-design-television-text-rectangle-thumbnail.png" group-title="★ SPORT ",  DE: S News
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/730
+#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif" group-title="Sport", Sport Klub Fight
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68480
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 1 (FHD)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/731
+#EXTINF:-1 tvg-id="arena-fight" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif" group-title="Sport", Arena Fight
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30491
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/732
+#EXTINF:-1 tvg-id="fight-network" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif" group-title="Sport", Fight Network
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/61
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 3 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 3 (Nur bei Live Spiele)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/733
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Kids", Baby TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/40217
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 4 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 4  (Nur bei Live Spiele)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/734
+#EXTINF:-1 tvg-id="minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Kids", Minimax
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/93
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 5 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 5  (Nur bei Live Spiele)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/735
+#EXTINF:-1 tvg-id="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Kids", Mini Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/265
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 6 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga  6  (Nur bei Live Spiele)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/736
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Kids", Nick Jr Hr.
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25986
 
-#EXTINF:-1 tvg-id=" DE: S 1 HD+" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORT ",  DE: S 1 HD+
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/737
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Kids", Nick Jr
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68475
 
-#EXTINF:-1 tvg-id=" DE: S 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORT ",  DE: S 2 HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/738
+#EXTINF:-1 tvg-id="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons Hr.
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71269
 
-#EXTINF:-1 tvg-id="DE: s*y F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="★ SPORT ", DE: s*y F1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49817
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/40979
 
-#EXTINF:-1 tvg-id="DE: s*y Mix" tvg-logo="noimage.png" group-title="★ SPORT ", DE: s*y Mix
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49818
+#EXTINF:-1 tvg-id="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Kids", Nickelodeon Hr.
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25987
 
-#EXTINF:-1 tvg-id="DE: s*y tennis" tvg-logo="noimage.png" group-title="★ SPORT ", DE: s*y tennis
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49819
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Kids", Nickelodeon
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68476
 
-#EXTINF:-1 tvg-id=" DE: S 3 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport3.jpg" group-title="★ SPORT ",  DE: S 3 (Live Event)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/739
+#EXTINF:-1 tvg-id="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network Hr.
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71267
 
-#EXTINF:-1 tvg-id=" DE: S 4 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_04.jpg" group-title="★ SPORT ",  DE: S 4 (Live Event)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/740
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71113
 
-#EXTINF:-1 tvg-id=" DE: S 5  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_05.jpg" group-title="★ SPORT ",  DE: S 5  (Live Event)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/741
+#EXTINF:-1 tvg-id="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Tnt Kids
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66257
 
-#EXTINF:-1 tvg-id=" DE: S 6  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_06.jpg" group-title="★ SPORT ",  DE: S 6  (Live Event)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/742
+#EXTINF:-1 tvg-id="pink-kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Kids", Pink Kids
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/266
 
-#EXTINF:-1 tvg-id=" DE: S 7 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_07.jpg" group-title="★ SPORT ",  DE: S 7 (Live Event)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/743
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Kids", Pink Super Kids
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71270
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S-ky Bundesliga 1 (matchdays only)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/745
+#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Kids", Kazbuka
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71116
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORT ",  DE: S Bundesliga 2 HD (Live Event)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/744
+#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Pikaboo
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3854
 
-#EXTINF:-1 tvg-id=" DE: S 1 HD [SPIELTAG]" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORT ",  DE: S 1 HD [SPIELTAG]
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/747
+#EXTINF:-1 tvg-id="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Kids", Toon Kids
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/8858
 
-#EXTINF:-1 tvg-id=" DE: S 2 FHD [SPIELTAG]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORT ",  DE: S 2 FHD [SPIELTAG]
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/746
+#EXTINF:-1 tvg-id="hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Kids", Hayatovci
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25970
 
-#EXTINF:-1 tvg-id=" DE: 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_de_plus.jpg" group-title="★ SPORT ",  DE: 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/748
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Kids", Cartoonito
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71114
 
-#EXTINF:-1 tvg-id=" DE: Auto Motor Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: Auto Motor Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/749
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Kids", Rtl Kockica
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25997
 
-#EXTINF:-1 tvg-id=" DE: FC Bayern TV" tvg-logo="noimage.png" group-title="★ SPORT ",  DE: FC Bayern TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/750
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Kids", Disney Chanel
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71109
 
-#EXTINF:-1 tvg-id=" DE: S SPORT Austria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORT ",  DE: S SPORT Austria
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/751
+#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Kids", Disney Junior
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71268
 
-#EXTINF:-1 tvg-id="AT: S Austria 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORT ", AT: S Austria 1 HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/29047
+#EXTINF:-1 tvg-id="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Kids", Dexy Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67745
 
-#EXTINF:-1 tvg-id=" DE: Digital" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportdigital-fussball-de.png" group-title="★ SPORT ",  DE: Digital
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/924
+#EXTINF:-1 tvg-id="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Kids", Nova  Kids
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67744
 
-#EXTINF:-1 tvg-id=" AT: ORF Sport+" tvg-logo="noimage.png" group-title="★ SPORT ",  AT: ORF Sport+
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/752
+#EXTINF:-1 tvg-id="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Kids", CoComelon
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69637
 
-#EXTINF:-1 tvg-id="AR: beIN SPORT Premium 2" tvg-logo="noimage.png" group-title="★ SPORT ", AR: beIN SPORT Premium 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/47452
+#EXTINF:-1 tvg-id="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Kids", IDJ Kids
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68943
 
-#EXTINF:-1 tvg-id="AR: beIN SPORT Max 2" tvg-logo="noimage.png" group-title="★ SPORT ", AR: beIN SPORT Max 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/47455
+#EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Kids", Looney Tunes
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45122
 
-#EXTINF:-1 tvg-id=" AR: Bein SPORT News" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: Bein SPORT News
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/789
+#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Kids", Tom and Jerry
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67747
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/776
+#EXTINF:-1 tvg-id="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Kids", Psici u Ophodnji
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69630
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/777
+#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/mickymouse.gif" group-title="Kids", Mickey Mouse
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/74173
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/778
+#EXTINF:-1 tvg-id="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Kids", Masa i Medo
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67743
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/779
+#EXTINF:-1 tvg-id="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Kids", Pepa Prašcic
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67746
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 5" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 5
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/780
+#EXTINF:-1 tvg-id="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Kids", Tri Mace
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69635
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 6" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 6
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/781
+#EXTINF:-1 tvg-id="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Kids", A Je To
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69632
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 7" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 7
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/782
+#EXTINF:-1 tvg-id="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Kids", Strumpfovi
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69633
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 9" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 9
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/784
+#EXTINF:-1 tvg-id="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Kids", Pingvini
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69634
 
-#EXTINF:-1 tvg-id=" AR: BEIN SPORT 10" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: BEIN SPORT 10
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/785
+#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mickymouse.gif" group-title="Kids", Mickey Mouse
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72012
 
-#EXTINF:-1 tvg-id="ZA: SuperPremier League" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperPremier League
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6278
+#EXTINF:-1 tvg-id="Mr Magoo" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrmago.gif" group-title="Kids", Mr Magoo
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72013
 
-#EXTINF:-1 tvg-id="ZA: SuperAction" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperAction
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6275
+#EXTINF:-1 tvg-id="Larva" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/larva.gif" group-title="Kids", Larva
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72014
 
-#EXTINF:-1 tvg-id="ZA: SuperCricket" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperCricket
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6269
+#EXTINF:-1 tvg-id="Blippi" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bliipi.gif" group-title="Kids", Blippi
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72015
 
-#EXTINF:-1 tvg-id="ZA: SuperGrandstand" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperGrandstand
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6272
+#EXTINF:-1 tvg-id="Lucky Luke" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/luckyluck.gif" group-title="Kids", Lucky Luke
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72016
 
-#EXTINF:-1 tvg-id="ZA: SuperMaximo 1" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperMaximo 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6274
+#EXTINF:-1 tvg-id="Alice i Lewis" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/aliceilewis.gif" group-title="Kids", Alice i Lewis
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72017
 
-#EXTINF:-1 tvg-id="ZA: SuperMotorSport" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperMotorSport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6276
+#EXTINF:-1 tvg-id="SpongeBob" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/spongebob.gif" group-title="Kids", SpongeBob
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72018
 
-#EXTINF:-1 tvg-id="ZA: SuperVariety 1" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperVariety 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36176
+#EXTINF:-1 tvg-id="Pink Panther" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/thepinkpanter.gif" group-title="Kids", Pink Panther
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72019
 
-#EXTINF:-1 tvg-id="ZA: SuperVariety 2" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperVariety 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36177
+#EXTINF:-1 tvg-id="Profesor Baltazar" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/profesorbaltezar.gif" group-title="Kids", Profesor Baltazar
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72020
 
-#EXTINF:-1 tvg-id="ZA: SuperVariety 4" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperVariety 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36178
+#EXTINF:-1 tvg-id="Gormiti" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/gormiti.gif" group-title="Kids", Gormiti
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72021
 
-#EXTINF:-1 tvg-id="ZA: SuperBlitz" tvg-logo="noimage.png" group-title="★ SPORT ", ZA: SuperBlitz
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36179
+#EXTINF:-1 tvg-id="MetaJets" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/metajets.gif" group-title="Kids", MetaJets
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72022
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6701
+#EXTINF:-1 tvg-id="Agent Binky" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/agnetbinky.gif" group-title="Kids", Agent Binky
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72023
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6702
+#EXTINF:-1 tvg-id="Bolek i Lolek" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bolekilolek.gif" group-title="Kids", Bolek i Lolek
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72024
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6703
+#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrbean.gif" group-title="Kids", Mr Bean
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72029
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6704
+#EXTINF:-1 tvg-id="La Linea" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/la-liane.gif" group-title="Kids", La Linea
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/73980
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 5" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 5
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6705
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://picons.ottshow.net/pikoni/doku/nationalgeographic.gif" group-title="Doku", National Geographic
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25978
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 6" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 6
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6706
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://picons.ottshow.net/pikoni/doku/natgeowild.gif" group-title="Doku", NatGeo Wild
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25977
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 7" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 7
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6707
+#EXTINF:-1 tvg-id="discovery-europe" tvg-logo="https://picons.ottshow.net/pikoni/doku/discovery.gif" group-title="Doku", Discovery Channel
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT 8" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT 8
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6708
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoveryid.gif" group-title="Doku", Discovery ID
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25980
 
-#EXTINF:-1 tvg-id="Swiss: MySPORT" tvg-logo="noimage.png" group-title="★ SPORT ", Swiss: MySPORT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/6709
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoverysince.gif" group-title="Doku", Discovery Science
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25984
 
-#EXTINF:-1 tvg-id="CH: Teleclub 1" tvg-logo="noimage.png" group-title="★ SPORT ", CH: Teleclub 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/20989
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="https://picons.ottshow.net/pikoni/doku/tlc.gif" group-title="Doku", TLC
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/74
 
-#EXTINF:-1 tvg-id="CH: Teleclub 2" tvg-logo="noimage.png" group-title="★ SPORT ", CH: Teleclub 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/20990
+#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://picons.ottshow.net/pikoni/doku/AnimalPlanet.gif" group-title="Doku", Animal Planet
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25983
 
-#EXTINF:-1 tvg-id=" UK: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  UK: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/768
+#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://picons.ottshow.net/pikoni/doku/invs+.gif" group-title="Doku", Crime & Invvestigation
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25982
 
-#EXTINF:-1 tvg-id=" UK: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Euro2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/769
+#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/history.gif" group-title="Doku", History
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2574
 
-#EXTINF:-1 tvg-id=" UK: Premier SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Premier SPORT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/772
+#EXTINF:-1 tvg-id="history-channel-2" tvg-logo="https://picons.ottshow.net/pikoni/doku/h2history%202.gif" group-title="Doku", History 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25981
 
-#EXTINF:-1 tvg-id=" UK: FC Liverpool  TV" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: FC Liverpool  TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/774
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://picons.ottshow.net/pikoni/doku/Vaistnature.gif" group-title="Doku", Viasat Nature
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4126
 
-#EXTINF:-1 tvg-id=" UK: FC Manchester United (MUTV)" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: FC Manchester United (MUTV)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/775
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://picons.ottshow.net/pikoni/doku/viasthistory.gif" group-title="Doku", Viasat History
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2797
 
-#EXTINF:-1 tvg-id=" Kombat Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  Kombat Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/788
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-logo="https://picons.ottshow.net/pikoni/doku/vaisetexpliore.gif" group-title="Doku", Viasat Explorer
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1204
 
-#EXTINF:-1 tvg-id=" FR: BEIN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: BEIN SPORT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/790
+#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://repo.ottshow.net/pikoni/srbija/balkantriptv.gif" group-title="Doku", Balkan Trip
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4485
 
-#EXTINF:-1 tvg-id=" FR: BEIN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: BEIN SPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/791
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="Doku", Lov i Ribolov
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/65
 
-#EXTINF:-1 tvg-id=" FR: BEIN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: BEIN SPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/792
+#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/travel.gif" group-title="Doku", Travel Channel
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/181
 
-#EXTINF:-1 tvg-id=" FR: Canal+  Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: Canal+  Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/793
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/bbcearth.gif" group-title="Doku", BBC Earth
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24373
 
-#EXTINF:-1 tvg-id=" FR: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  FR: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/794
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://picons.ottshow.net/pikoni/doku/fooodnewttork.gif" group-title="Doku", Food Network
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/33261
 
-#EXTINF:-1 tvg-id=" FR: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: Euro2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/795
+#EXTINF:-1 tvg-id="24kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku", 24 Kitchen
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25985
 
-#EXTINF:-1 tvg-id=" FR: GOLF" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: GOLF
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/796
+#EXTINF:-1 tvg-id="entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku", E! Entertainment
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2572
 
-#EXTINF:-1 tvg-id=" FR: InfoSport" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: InfoSport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/797
+#EXTINF:-1 tvg-id="doku-tv" tvg-logo="http://repo.ottshow.net/pikoni/doku/dokutv.gif" group-title="Doku", Doku TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/31853
 
-#EXTINF:-1 tvg-id=" FR: RMC 1" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/798
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://web.izipizi1.info/pi/jyw.png" group-title="Doku", HGTV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39108
 
-#EXTINF:-1 tvg-id=" FR: RMC 2" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/799
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/natucialchannel.gif" group-title="Doku", Nautical Channel
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71247
 
-#EXTINF:-1 tvg-id=" FR: RMC 3" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/800
+#EXTINF:-1 tvg-id="pink-fashion" tvg-logo="https://picons.ottshow.net/pikoni/doku/FashonTV.gif" group-title="Doku", Fashion TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9108
 
-#EXTINF:-1 tvg-id=" FR: RMC 4" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/801
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/doku/love4knaturer.gif" group-title="Doku", Love Nature 4K
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68948
 
-#EXTINF:-1 tvg-id=" FR: RMC News" tvg-logo="noimage.png" group-title="★ SPORT ",  FR: RMC News
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/802
+#EXTINF:-1 tvg-id="hbo" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/44
 
-#EXTINF:-1 tvg-id=" IT: S Uno" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: S Uno
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1486
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo2.gif" group-title="Film", HBO 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72
 
-#EXTINF:-1 tvg-id=" IT: S 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORT ",  IT: S 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1487
+#EXTINF:-1 tvg-id="hbo3" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo3.gif" group-title="Film", HBO 3
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1555
 
-#EXTINF:-1 tvg-id=" IT: Rai 1" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Rai 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1484
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax.gif" group-title="Film", Cinemax
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70
 
-#EXTINF:-1 tvg-id="IT: RAI 2" tvg-logo="noimage.png" group-title="★ SPORT ", IT: RAI 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1485
+#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax2.gif" group-title="Film", Cinemax  2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/126
 
-#EXTINF:-1 tvg-id=" IT: S 24" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: S 24
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1475
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier1.gif" group-title="Film", CineStar Premiere 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/36
 
-#EXTINF:-1 tvg-id=" IT: S F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="★ SPORT ",  IT: S F1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1477
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier2.gif" group-title="Film", CineStar Premiere 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37
 
-#EXTINF:-1 tvg-id=" IT: PREMIUM HD" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: PREMIUM HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1480
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestartv.gif" group-title="Film", CineStar TV 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3851
 
-#EXTINF:-1 tvg-id=" IT: Euro1" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1478
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-logo="http://web.izipizi1.info/pi/cinestartv2.png" group-title="Film", CineStar TV 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37920
 
-#EXTINF:-1 tvg-id=" IT: EURO2 HD" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: EURO2 HD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1479
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestaraction.gif" group-title="Film", CineStar Action
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2685
 
-#EXTINF:-1 tvg-id=" IT: Super Tennis" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Super Tennis
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1474
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarfantasy.gif" group-title="Film", CineStar Fantasy
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/10444
 
-#EXTINF:-1 tvg-id=" IT: Italia" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: Italia
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1473
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarcomedy.gif" group-title="Film", CineStar Comedy
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30492
 
-#EXTINF:-1 tvg-id=" IT: S Moto GP" tvg-logo="noimage.png" group-title="★ SPORT ",  IT: S Moto GP
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1483
+#EXTINF:-1 tvg-id="fox" tvg-logo="http://repo.ottshow.net/pikoni/film/fox.gif" group-title="Film", STAR Channel
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/178
 
-#EXTINF:-1 tvg-id=" IT:  AUTO MOTO TV" tvg-logo="noimage.png" group-title="★ SPORT ",  IT:  AUTO MOTO TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1489
+#EXTINF:-1 tvg-id="fox-movies" tvg-logo="http://repo.ottshow.net/pikoni/film/foxmovies.gif" group-title="Film", STAR Movies
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25990
 
-#EXTINF:-1 tvg-id=" TR: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  TR: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/803
+#EXTINF:-1 tvg-id="fox-life" tvg-logo="http://repo.ottshow.net/pikoni/film/foxlife.gif" group-title="Film", STAR Life
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1378
 
-#EXTINF:-1 tvg-id=" TR: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Euro2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/804
+#EXTINF:-1 tvg-id="fox-crime" tvg-logo="http://repo.ottshow.net/pikoni/film/foxcrime.gif" group-title="Film", STAR Crime
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1553
 
-#EXTINF:-1 tvg-id=" TR: Bein SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Bein SPORT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/805
+#EXTINF:-1 tvg-id="m1-gold" tvg-logo="http://repo.ottshow.net/pikoni/film/m1goldfilm.gif" group-title="Film", M1 Gold
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1351
 
-#EXTINF:-1 tvg-id=" TR: Bein SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Bein SPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/806
+#EXTINF:-1 tvg-id="m1-film" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Film
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2494
 
-#EXTINF:-1 tvg-id=" TR: Bein SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Bein SPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/807
+#EXTINF:-1 tvg-id="m1-family" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Family
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24936
 
-#EXTINF:-1 tvg-id=" TR: S-Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: S-Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/810
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-logo="http://repo.ottshow.net/pikoni/film/tv1000.gif" group-title="Film", TV 1000
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/705
 
-#EXTINF:-1 tvg-id=" TR: Tivibuspor 1" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: Tivibuspor 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/811
+#EXTINF:-1 tvg-id="axn" tvg-logo="http://repo.ottshow.net/pikoni/film/axn.gif" group-title="Film", AXN
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1181
 
-#EXTINF:-1 tvg-id=" TR: TivibuSpor 2" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: TivibuSpor 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/812
+#EXTINF:-1 tvg-id="axn-spin" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/axnspin.gif" group-title="Film", AXN Spin
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69009
 
-#EXTINF:-1 tvg-id=" TR: TivibuSpor 3" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: TivibuSpor 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/813
+#EXTINF:-1 tvg-id="scifi" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Film", SciFi
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/8859
 
-#EXTINF:-1 tvg-id=" TR:  A Spor" tvg-logo="noimage.png" group-title="★ SPORT ",  TR:  A Spor
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/815
+#EXTINF:-1 tvg-id="cinemania" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemania.gif" group-title="Film", Cinemania
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/357
 
-#EXTINF:-1 tvg-id=" TR: TRT Spor" tvg-logo="noimage.png" group-title="★ SPORT ",  TR: TRT Spor
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/816
+#EXTINF:-1 tvg-id="cinema-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinematvbh.gif" group-title="Film", RTL Play Premium
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/174
 
-#EXTINF:-1 tvg-id=" TR: Smart Spor" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/smart_spor.jpg" group-title="★ SPORT ",  TR: Smart Spor
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/809
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/pickboxtv.gif" group-title="Film", PickboxTV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1630
 
-#EXTINF:-1 tvg-id="TR: SPORT TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/SPORT_tv_tr.jpg" group-title="★ SPORT ", TR: SPORT TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1641
+#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://repo.ottshow.net/pikoni/film/kinotv.gif" group-title="Film", Kino TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4223
 
-#EXTINF:-1 tvg-id=" TR: Fb Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fbtv_fenerbahce.jpg" group-title="★ SPORT ",  TR: Fb Tv
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/817
+#EXTINF:-1 tvg-id="universal-channel" tvg-logo="http://repo.ottshow.net/pikoni/film/divatv.gif" group-title="Film", DIVA
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4224
 
-#EXTINF:-1 tvg-id="TR: beIN SPORT Max 1" tvg-logo="noimage.png" group-title="★ SPORT ", TR: beIN SPORT Max 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48034
+#EXTINF:-1 tvg-id="amc" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film", AMC
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9109
 
-#EXTINF:-1 tvg-id="TR: beIN SPORT Max 2" tvg-logo="noimage.png" group-title="★ SPORT ", TR: beIN SPORT Max 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48035
+#EXTINF:-1 tvg-id="epic-drama" tvg-logo="http://repo.ottshow.net/pikoni/film/epicdrama.gif" group-title="Film", EPIC Drama
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24362
 
-#EXTINF:-1 tvg-id=" US: BEIN SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  US: BEIN SPORT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/818
+#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://repo.ottshow.net/pikoni/film/tvsehara.gif" group-title="Film", Sehara TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29202
 
-#EXTINF:-1 tvg-id=" US: AFN Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  US: AFN Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/819
+#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="http://repo.ottshow.net/pikoni/film/klasiktv.gif" group-title="Film", Klasik TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/38
 
-#EXTINF:-1 tvg-id=" US: Fox 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  US: Fox 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/820
+#EXTINF:-1 tvg-id="Film Klub" tvg-logo="http://repo.ottshow.net/pikoni/film/filmklub.gif" group-title="Film", Film Klub
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1073
 
-#EXTINF:-1 tvg-id=" US: Fox 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  US: Fox 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/821
+#EXTINF:-1 tvg-id="Dizi" tvg-logo="noimage.png" group-title="Film", Dizi
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/77667
 
-#EXTINF:-1 tvg-id=" US: Fox Soccer Plus" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Fox Soccer Plus
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/822
+#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/eurocinema.gif" group-title="Film", Euro Cinema 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68477
 
-#EXTINF:-1 tvg-id="US: NHL Network" tvg-logo="noimage.png" group-title="★ SPORT ", US: NHL Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21002
+#EXTINF:-1 tvg-id="Euro Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/eurocinema2.gif" group-title="Film", Euro Cinema 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68478
 
-#EXTINF:-1 tvg-id=" US: ESPN News" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN News
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/823
+#EXTINF:-1 tvg-id="HBO MAX" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO MAX
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45107
 
-#EXTINF:-1 tvg-id=" US: ESPN 2" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/824
+#EXTINF:-1 tvg-id="Cine+Select 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 1 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45268
 
-#EXTINF:-1 tvg-id=" US: NBA" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBA
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/826
+#EXTINF:-1 tvg-id="Cine+Select 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 2 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45269
 
-#EXTINF:-1 tvg-id=" US: NFL" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NFL
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/827
+#EXTINF:-1 tvg-id="Cine+Select 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 3 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45270
 
-#EXTINF:-1 tvg-id=" US: NFL Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NFL Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/829
+#EXTINF:-1 tvg-id="Cine+Select 4 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 4 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45271
 
-#EXTINF:-1 tvg-id=" US: NFL Red Zone" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NFL Red Zone
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/830
+#EXTINF:-1 tvg-id="Cine+Select 5 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 5 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45272
 
-#EXTINF:-1 tvg-id=" US: CBS SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  US: CBS SPORT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/831
+#EXTINF:-1 tvg-id="Cine+Select 6 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 6 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45273
 
-#EXTINF:-1 tvg-id=" US: TSN 1" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/832
+#EXTINF:-1 tvg-id="Cine+Select 7 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 7 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45274
 
-#EXTINF:-1 tvg-id=" US: TSN 2" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/833
+#EXTINF:-1 tvg-id="Cine+Select 8 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 8 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45275
 
-#EXTINF:-1 tvg-id=" US: TSN 3" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/834
+#EXTINF:-1 tvg-id="Cine+Select 9 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 9 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45276
 
-#EXTINF:-1 tvg-id=" US: TSN 4" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TSN 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/835
+#EXTINF:-1 tvg-id="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 10 HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45277
 
-#EXTINF:-1 tvg-id=" US: PAC-12 Bay Area" tvg-logo="noimage.png" group-title="★ SPORT ",  US: PAC-12 Bay Area
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/838
+#EXTINF:-1 tvg-id="Lud Zbunjen Normalan" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/lzn.gif" group-title="Film", Lud Zbunjen Normalan
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68944
 
-#EXTINF:-1 tvg-id=" US: PAC-12 Los Angeles" tvg-logo="noimage.png" group-title="★ SPORT ",  US: PAC-12 Los Angeles
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/839
+#EXTINF:-1 tvg-id="imperiatv" tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Music", Imperija
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24800
 
-#EXTINF:-1 tvg-id=" US: NBC Golf" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBC Golf
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/842
+#EXTINF:-1 tvg-id="toxic-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Music", Toxic TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3823
 
-#EXTINF:-1 tvg-id=" US: MLB Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: MLB Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/847
+#EXTINF:-1 tvg-id="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Music", IDJ TV HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1112
 
-#EXTINF:-1 tvg-id=" US: SPORTnet One" tvg-logo="noimage.png" group-title="★ SPORT ",  US: SPORTnet One
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/849
+#EXTINF:-1 tvg-id="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Music", UZIVOTEKA
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45114
 
-#EXTINF:-1 tvg-id=" US: Willow Cricket" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Willow Cricket
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/851
+#EXTINF:-1 tvg-id="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Music", Kafansko Vece
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70263
 
-#EXTINF:-1 tvg-id=" US: TyC SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  US: TyC SPORT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/852
+#EXTINF:-1 tvg-id="extratv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Music", Extra Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68474
 
-#EXTINF:-1 tvg-id=" US: Tennis Channel" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Tennis Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/853
+#EXTINF:-1 tvg-id="hayat-music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Music", Hayat Music
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/51
 
-#EXTINF:-1 tvg-id=" US: WWE Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: WWE Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/854
+#EXTINF:-1 tvg-id="hayat-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Music", Hayat Folk
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/131
 
-#EXTINF:-1 tvg-id=" FightBox" tvg-logo="noimage.png" group-title="★ SPORT ",  FightBox
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/856
+#EXTINF:-1 tvg-id="bn-music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Music", BN Music
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/46
 
-#EXTINF:-1 tvg-id=" US: NBC SPORT Chicago" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBC SPORT Chicago
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/888
+#EXTINF:-1 tvg-id="dmsat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Music", DM Sat
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/26004
 
-#EXTINF:-1 tvg-id=" US: SPORTNet Ontario" tvg-logo="noimage.png" group-title="★ SPORT ",  US: SPORTNet Ontario
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/892
+#EXTINF:-1 tvg-id="bravo-mjuzik" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Music", Bravo Music
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35952
 
-#EXTINF:-1 tvg-id=" US: Sony Ten 3" tvg-logo="noimage.png" group-title="★ SPORT ",  US: Sony Ten 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/894
+#EXTINF:-1 tvg-id="pink-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Music", Pink Folk 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/97
 
-#EXTINF:-1 tvg-id=" UK: BoxNation" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: BoxNation
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/855
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Music", Pink Folk 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/504
 
-#EXTINF:-1 tvg-id=" Fight Network" tvg-logo="noimage.png" group-title="★ SPORT ",  Fight Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/859
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Music", Grand
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/21
 
-#EXTINF:-1 tvg-id=" De: Motorvision" tvg-logo="noimage.png" group-title="★ SPORT ",  De: Motorvision
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/857
+#EXTINF:-1 tvg-id="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Music", Grand 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1071
 
-#EXTINF:-1 tvg-id=" UK: Fight Channel World" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Fight Channel World
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/858
+#EXTINF:-1 tvg-id="sevdah-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Music", TV Sevdah
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/730
 
-#EXTINF:-1 tvg-id=" UK: Fight Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Fight Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/860
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Music", Izvorna TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/231
 
-#EXTINF:-1 tvg-id=" PT: tv NBA" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: tv NBA
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/861
+#EXTINF:-1 tvg-id="otv-valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Music", OTV Valentino
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/152
 
-#EXTINF:-1 tvg-id=" UK:  At The Races" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/at_the_races_ie.jpg" group-title="★ SPORT ",  UK:  At The Races
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/862
+#EXTINF:-1 tvg-id="valentino-music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Music", Valentino Music
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/32083
 
-#EXTINF:-1 tvg-id=" UK: Dubai Racing" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Dubai Racing
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/863
+#EXTINF:-1 tvg-id="valentino-etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Music", Valentino Etno
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/32082
 
-#EXTINF:-1 tvg-id=" UK: Dubai SPORT" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Dubai SPORT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/864
+#EXTINF:-1 tvg-id="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Music", CityPlay
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69400
 
-#EXTINF:-1 tvg-id=" UK: Dubai SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Dubai SPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/865
+#EXTINF:-1 tvg-id="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Music", Toxic Folk
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66261
 
-#EXTINF:-1 tvg-id=" UK: Racing UK" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Racing UK
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/866
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Music", Duga TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/549
 
-#EXTINF:-1 tvg-id=" US: NBC SPORT Network" tvg-logo="noimage.png" group-title="★ SPORT ",  US: NBC SPORT Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/867
+#EXTINF:-1 tvg-id="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Music", KCN 1
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/630
 
-#EXTINF:-1 tvg-id=" UK: MotorTV" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: MotorTV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/868
+#EXTINF:-1 tvg-id="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Music", KCN 2
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/641
 
-#EXTINF:-1 tvg-id="AU: beIN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ", AU: beIN SPORT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/13226
+#EXTINF:-1 tvg-id="bravo!" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/music/bravo.gif" group-title="Music", bravo!
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/74027
 
-#EXTINF:-1 tvg-id="AU: beIN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ", AU: beIN SPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/13227
+#EXTINF:-1 tvg-id="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Music", DMC Tv
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69133
 
-#EXTINF:-1 tvg-id="AU: beIN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ", AU: beIN SPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/13228
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Music", Jugoton TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/251
 
-#EXTINF:-1 tvg-id=" AL: Tring News" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring News
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/873
+#EXTINF:-1 tvg-id="cmc" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Music", CMC
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/113
 
-#EXTINF:-1 tvg-id=" AL: Tring 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/870
+#EXTINF:-1 tvg-id="Banovina" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Music", Banovina
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1552
 
-#EXTINF:-1 tvg-id=" AL: Tring 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/871
+#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Music", Klape i Tambure
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69348
 
-#EXTINF:-1 tvg-id=" AL: Tring 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Tring 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/872
+#EXTINF:-1 tvg-id="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Music", Croatia Records
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69902
 
-#EXTINF:-1 tvg-id=" AL: Super 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/874
+#EXTINF:-1 tvg-id="pink-hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Music", Pink Hits
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4140
 
-#EXTINF:-1 tvg-id=" AL: Super 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/875
+#EXTINF:-1 tvg-id="pink-n-roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Music", Pink n Roll
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69401
 
-#EXTINF:-1 tvg-id=" AL: Super 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/876
+#EXTINF:-1 tvg-id="balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Music", Balkanika
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/239
 
-#EXTINF:-1 tvg-id=" AL: Super 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/877
+#EXTINF:-1 tvg-id="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Music", Krone Hit
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69786
 
-#EXTINF:-1 tvg-id=" AL: K 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/878
+#EXTINF:-1 tvg-id="mtv-hits-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Music", MTV Hits
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/16758
 
-#EXTINF:-1 tvg-id=" AL: K 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/879
+#EXTINF:-1 tvg-id="mtv00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Music", MTV 00s
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/50
 
-#EXTINF:-1 tvg-id=" AL: K 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/880
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Music", MTV 80s
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69350
 
-#EXTINF:-1 tvg-id=" AL: K 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: K 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/881
+#EXTINF:-1 tvg-id="mtv-dance-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Music", MTV Club
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/16759
 
-#EXTINF:-1 tvg-id=" AL: Super 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/882
+#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhd.gif" group-title="Pink", PINK HD
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5
 
-#EXTINF:-1 tvg-id=" AL: Super 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AL: Super 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/883
+#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink.gif" group-title="Pink", Pink
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30275
 
-#EXTINF:-1 tvg-id=" NL: Fox SPORT 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/900
+#EXTINF:-1 tvg-id="pink-bih" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkbh.gif" group-title="Pink", Pink BH
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/12616
 
-#EXTINF:-1 tvg-id=" NL: Fox SPORT 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/901
+#EXTINF:-1 tvg-id="Pink Vesti" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkvesti.gif" group-title="Pink", Pink Vesti
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67719
 
-#EXTINF:-1 tvg-id=" NL: Fox SPORT 3" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/902
+#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="Pink", Narodna TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/81555
 
-#EXTINF:-1 tvg-id=" NL: Fox SPORT 4" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  NL: Fox SPORT 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/903
+#EXTINF:-1 tvg-id="pink-film" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfilm.gif" group-title="Pink", Pink Film
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/6
 
-#EXTINF:-1 tvg-id=" NL: Euro1" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/911
+#EXTINF:-1 tvg-id="pink-action" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkaction.gif" group-title="Pink", Pink Action
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/150
 
-#EXTINF:-1 tvg-id=" NL: Ziggo 2" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Ziggo 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/905
+#EXTINF:-1 tvg-id="pink-classic" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkclasic.gif" group-title="Pink", Pink Classic
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1182
 
-#EXTINF:-1 tvg-id=" NL:  Ziggo Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  NL:  Ziggo Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/906
+#EXTINF:-1 tvg-id="pink-comedy" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcomedy.gif" group-title="Pink", Pink Comedy
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/42
 
-#EXTINF:-1 tvg-id=" NL:  Ziggo 4" tvg-logo="noimage.png" group-title="★ SPORT ",  NL:  Ziggo 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/907
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="noimage.png" group-title="Pink", Pink Premium
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/77668
 
-#EXTINF:-1 tvg-id=" NL: Ziggo 3" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Ziggo 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/908
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcrime&mystery.gif" group-title="Pink", Pink Crime & Mystery
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/110
 
-#EXTINF:-1 tvg-id=" NL:  Ziggo 6" tvg-logo="noimage.png" group-title="★ SPORT ",  NL:  Ziggo 6
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/909
+#EXTINF:-1 tvg-id="pink-family" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfamily.gif" group-title="Pink", Pink Family
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/614
 
-#EXTINF:-1 tvg-id=" NL: Ziggo 5" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Ziggo 5
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/910
+#EXTINF:-1 tvg-id="pink-horror" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhoror.gif" group-title="Pink", Pink Horror
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/108
 
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 1" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39149
+#EXTINF:-1 tvg-id="pink-movies" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkmovies.gif" group-title="Pink", Pink Movies
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1143
 
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 2" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39150
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkromance.gif" group-title="Pink", Pink Romance
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2796
 
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 3" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39151
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkscifi&fantasy.gif" group-title="Pink", Pink Sci-Fi & Fantasy
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1412
 
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 4" tvg-logo="noimage.png" group-title="★ SPORT ", Sprt: NL: ESPN Nederland 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39152
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkthriler.gif" group-title="Pink", Pink Thriller
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/111
 
-#EXTINF:-1 tvg-id=" NL: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  NL: Euro2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39155
+#EXTINF:-1 tvg-id="pink-western" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkwestern.gif" group-title="Pink", Pink Western
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/49
 
-#EXTINF:-1 tvg-id=" AR: OSN Ad 1" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/912
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworldcinema.gif" group-title="Pink", Pink World Cinema
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/153
 
-#EXTINF:-1 tvg-id=" AR: OSN Ad 2" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/913
+#EXTINF:-1 tvg-id="pink-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/redtv.gif" group-title="Pink", Red TV
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37937
 
-#EXTINF:-1 tvg-id=" AR: OSN Ad 3" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/914
+#EXTINF:-1 tvg-id="pink-plus" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink_plus.gif" group-title="Pink", Pink Plus
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35958
 
-#EXTINF:-1 tvg-id=" AR: OSN Ad 4" tvg-logo="noimage.png" group-title="★ SPORT ",  AR: OSN Ad 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/915
+#EXTINF:-1 tvg-id="pink-extra" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkextra.gif" group-title="Pink", Pink Extra
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1211
 
-#EXTINF:-1 tvg-id=" PT: Sporting TV" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: Sporting TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/916
+#EXTINF:-1 tvg-id="pink-reality" tvg-logo="http://web.izipizi1.info/pi/pink-reality.png" group-title="Pink", Pink Reality
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35
 
-#EXTINF:-1 tvg-id=" PT: TV 1" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/917
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkkuvar.gif" group-title="Pink", Pink Kuvar
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/43
 
-#EXTINF:-1 tvg-id=" PT: TV 2" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/918
+#EXTINF:-1 tvg-id="pink-pedia" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkpedia.gif" group-title="Pink", Pink Pedia
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1140
 
-#EXTINF:-1 tvg-id=" PT: TV 3" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/919
+#EXTINF:-1 tvg-id="pink-style" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkstyle.gif" group-title="Pink", Pink Style
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1144
 
-#EXTINF:-1 tvg-id=" PT: TV 4" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/920
+#EXTINF:-1 tvg-id="pink-soap" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinksoap.gif" group-title="Pink", Pink Soap
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1214
 
-#EXTINF:-1 tvg-id=" PT: TV 5" tvg-logo="noimage.png" group-title="★ SPORT ",  PT: TV 5
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/921
+#EXTINF:-1 tvg-id="pink-show" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkshow.gif" group-title="Pink", Pink Show
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/211
 
-#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 1" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1468
+#EXTINF:-1 tvg-id="pink-zabava" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkzabava.gif" group-title="Pink", Pink Zabava
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2795
 
-#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1469
+#EXTINF:-1 tvg-id="pink-world" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworld.gif" group-title="Pink", Pink World
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1142
 
-#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 3" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1470
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhaha.gif" group-title="Pink", Pink HA HA
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1161
 
-#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1471
+#EXTINF:-1 tvg-id="pink-lol" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinklol.gif" group-title="Pink", Pink LOL
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2612
 
-#EXTINF:-1 tvg-id="PT: ELEVEN SPORT 5" tvg-logo="noimage.png" group-title="★ SPORT ", PT: ELEVEN SPORT 5
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1472
+#EXTINF:-1 tvg-id="pink-serije" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkserije.gif" group-title="Pink", Pink Serije
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/79614
 
-#EXTINF:-1 tvg-id=" RO: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  RO: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/922
 
-#EXTINF:-1 tvg-id=" PL: Polsat Extra" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Polsat Extra
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/926
-
-#EXTINF:-1 tvg-id=" PL: Eleven SPORT 4" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Eleven SPORT 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/927
-
-#EXTINF:-1 tvg-id=" PL: Canal 3" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Canal 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/928
-
-#EXTINF:-1 tvg-id=" PL: Eleven SPORT 2" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: Eleven SPORT 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/929
-
-#EXTINF:-1 tvg-id=" Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORT ",  Fight Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/931
-
-#EXTINF:-1 tvg-id=" PL: TVP Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  PL: TVP Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/932
-
-#EXTINF:-1 tvg-id=" FightClub" tvg-logo="noimage.png" group-title="★ SPORT ",  FightClub
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/933
-
-#EXTINF:-1 tvg-id=" BG: Euro1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORT ",  BG: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/934
-
-#EXTINF:-1 tvg-id=" BG: Euro2" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Euro2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/935
-
-#EXTINF:-1 tvg-id=" BG: Diema 1" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Diema 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/936
-
-#EXTINF:-1 tvg-id=" BG: Diema 2" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Diema 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/937
-
-#EXTINF:-1 tvg-id=" BG: Nova Sport" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Nova Sport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/938
-
-#EXTINF:-1 tvg-id=" BG: Ring TV" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Ring TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/940
-
-#EXTINF:-1 tvg-id=" BG: Plus" tvg-logo="noimage.png" group-title="★ SPORT ",  BG: Plus
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/941
-
-#EXTINF:-1 tvg-id="BG: Max 3" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21530
-
-#EXTINF:-1 tvg-id="BG: Max 4" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21531
-
-#EXTINF:-1 tvg-id=" ES: Euro1" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Euro1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/942
-
-#EXTINF:-1 tvg-id=" ES: Barca TV" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Barca TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/943
-
-#EXTINF:-1 tvg-id=" ES: Real Madrid TV" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Real Madrid TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/944
-
-#EXTINF:-1 tvg-id=" ES: Movistar LaLiga" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Movistar LaLiga
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/945
-
-#EXTINF:-1 tvg-id=" ES: beINSport" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: beINSport
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/946
-
-#EXTINF:-1 tvg-id=" ES: M Golf" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: M Golf
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/949
-
-#EXTINF:-1 tvg-id=" UK: Fox SPORT News" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-SPORT-networks-television-channel-fox-broadcasting-company-SPORT-logos-television-blue-text-thumbnail.png" group-title="★ SPORT ",  UK: Fox SPORT News
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/950
-
-#EXTINF:-1 tvg-id=" ES: Gol TV" tvg-logo="noimage.png" group-title="★ SPORT ",  ES: Gol TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/952
-
-#EXTINF:-1 tvg-id=" UK: Motor Trend" tvg-logo="noimage.png" group-title="★ SPORT ",  UK: Motor Trend
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/953
-
-#EXTINF:-1 tvg-id="RO: TELEKOM 1" tvg-logo="noimage.png" group-title="★ SPORT ", RO: TELEKOM 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1733
-
-#EXTINF:-1 tvg-id="RO: TELEKOM 2" tvg-logo="noimage.png" group-title="★ SPORT ", RO: TELEKOM 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1734
-
-#EXTINF:-1 tvg-id="RO: TELEKOM 3" tvg-logo="noimage.png" group-title="★ SPORT ", RO: TELEKOM 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1735
-
-#EXTINF:-1 tvg-id=" RO: Digi 1" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/955
-
-#EXTINF:-1 tvg-id=" RO: Digi 2" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/956
-
-#EXTINF:-1 tvg-id=" RO: Digi 3" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/957
-
-#EXTINF:-1 tvg-id=" RO: Digi 4" tvg-logo="noimage.png" group-title="★ SPORT ",  RO: Digi 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/958
-
-#EXTINF:-1 tvg-id=" US: OWN" tvg-logo="noimage.png" group-title="★ SPORT ",  US: OWN
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/959
-
-#EXTINF:-1 tvg-id=" US: ESPN U" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN U
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/961
-
-#EXTINF:-1 tvg-id=" US: ESPN 1" tvg-logo="noimage.png" group-title="★ SPORT ",  US: ESPN 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/960
-
-#EXTINF:-1 tvg-id="BG: Max 1" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/4967
-
-#EXTINF:-1 tvg-id="BG: Max 2" tvg-logo="noimage.png" group-title="★ SPORT ", BG: Max 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/4968
-
-#EXTINF:-1 tvg-id="SLO: TV 1" tvg-logo="noimage.png" group-title="★ SPORT ", SLO: TV 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36172
-
-#EXTINF:-1 tvg-id="SLO: TV 2" tvg-logo="noimage.png" group-title="★ SPORT ", SLO: TV 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36173
-
-#EXTINF:-1 tvg-id="SLO: TV 3" tvg-logo="noimage.png" group-title="★ SPORT ", SLO: TV 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36174
-
-#EXTINF:-1 tvg-id="SLO: Klub 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORT ", SLO: Klub 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36521
-
-#EXTINF:-1 tvg-id="US: World Poker Tour" tvg-logo="noimage.png" group-title="★ SPORT ", US: World Poker Tour
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36526
-
-#EXTINF:-1 tvg-id=" Arena Premium 2 (BIH)" tvg-logo="noimage.png" group-title="★ SPORT ",  Arena Premium 2 (BIH)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/49159
-
-#EXTINF:-1 tvg-id=" UK: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ DJECJI",  UK: Cartoon Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1056
-
-#EXTINF:-1 tvg-id=" US: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ DJECJI",  US: Cartoon Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1057
-
-#EXTINF:-1 tvg-id=" UK: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ DJECJI",  UK: Boomerang
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1058
-
-#EXTINF:-1 tvg-id=" TR: Cartoonito" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_de.jpg" group-title="★ DJECJI",  TR: Cartoonito
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1059
-
-#EXTINF:-1 tvg-id=" UK: Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Disney Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1060
-
-#EXTINF:-1 tvg-id=" UK: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ DJECJI",  UK: Disney Junior
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1061
-
-#EXTINF:-1 tvg-id=" UK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ DJECJI",  UK: Disney XD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1062
-
-#EXTINF:-1 tvg-id=" UK: Nick Jr" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Nick Jr
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1063
-
-#EXTINF:-1 tvg-id=" UK: Nicktoons" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Nicktoons
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1064
-
-#EXTINF:-1 tvg-id=" UK: Baby First TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ DJECJI",  UK: Baby First TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1065
-
-#EXTINF:-1 tvg-id=" UK: Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Nickelodeon
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1066
-
-#EXTINF:-1 tvg-id=" UK: CBeebies" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: CBeebies
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1068
-
-#EXTINF:-1 tvg-id=" UK: Tiny Pop" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: Tiny Pop
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1070
-
-#EXTINF:-1 tvg-id=" DE: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ DJECJI",  DE: Boomerang
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1071
-
-#EXTINF:-1 tvg-id=" DE: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ DJECJI",  DE: Cartoon Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1072
-
-#EXTINF:-1 tvg-id=" DE: KIKA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kika-de.svg" group-title="★ DJECJI",  DE: KIKA
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1073
-
-#EXTINF:-1 tvg-id=" DE: Disney Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.png" group-title="★ DJECJI",  DE: Disney Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1075
-
-#EXTINF:-1 tvg-id=" DE: Disney Cinemagic" tvg-logo="noimage.png" group-title="★ DJECJI",  DE: Disney Cinemagic
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1076
-
-#EXTINF:-1 tvg-id=" DE: Nickelodeon AT" tvg-logo="noimage.png" group-title="★ DJECJI",  DE: Nickelodeon AT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1077
-
-#EXTINF:-1 tvg-id=" DE: TOGGO plus" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toggo-de.png" group-title="★ DJECJI",  DE: TOGGO plus
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1078
-
-#EXTINF:-1 tvg-id=" DE: Super RTL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/super_rtl_de.jpg" group-title="★ DJECJI",  DE: Super RTL
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1079
-
-#EXTINF:-1 tvg-id=" Pikaboo" tvg-logo="noimage.png" group-title="★ DJECJI",  Pikaboo
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1080
-
-#EXTINF:-1 tvg-id=" Rtl Kockica" tvg-logo="noimage.png" group-title="★ DJECJI",  Rtl Kockica
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1081
-
-#EXTINF:-1 tvg-id=" Nick JR" tvg-logo="noimage.png" group-title="★ DJECJI",  Nick JR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1082
-
-#EXTINF:-1 tvg-id=" Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI",  Disney Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1083
-
-#EXTINF:-1 tvg-id=" Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI",  Nickelodeon
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1084
-
-#EXTINF:-1 tvg-id="  Baby Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ DJECJI",   Baby Tv
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1085
-
-#EXTINF:-1 tvg-id=" Pink DJECJI" tvg-logo="noimage.png" group-title="★ DJECJI",  Pink DJECJI
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1086
-
-#EXTINF:-1 tvg-id="Mini Ultra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mini_ultra_rs.jpg" group-title="★ DJECJI", Mini Ultra
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1087
-
-#EXTINF:-1 tvg-id=" UK: POP Max" tvg-logo="noimage.png" group-title="★ DJECJI",  UK: POP Max
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1088
-
-#EXTINF:-1 tvg-id=" PINK PANTHER" tvg-logo="noimage.png" group-title="★ DJECJI",  PINK PANTHER
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1089
-
-#EXTINF:-1 tvg-id=" Tom & Jerry" tvg-logo="noimage.png" group-title="★ DJECJI",  Tom & Jerry
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1090
-
-#EXTINF:-1 tvg-id=" Dexy TV" tvg-logo="noimage.png" group-title="★ DJECJI",  Dexy TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1718
-
-#EXTINF:-1 tvg-id="SE: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ DJECJI", SE: Cartoon Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/21573
-
-#EXTINF:-1 tvg-id=" SE: Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Disney Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1092
-
-#EXTINF:-1 tvg-id=" SE: Cartoonito" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Cartoonito
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1093
-
-#EXTINF:-1 tvg-id=" SE: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ DJECJI",  SE: Disney Junior
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1094
-
-#EXTINF:-1 tvg-id=" SE: Nick JR" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Nick JR
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1096
-
-#EXTINF:-1 tvg-id=" SE: Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI",  SE: Nickelodeon
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1097
-
-#EXTINF:-1 tvg-id="DK: Nickelodeon" tvg-logo="noimage.png" group-title="★ DJECJI", DK: Nickelodeon
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1432
-
-#EXTINF:-1 tvg-id="DK: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ DJECJI", DK: Cartoon Network
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1436
-
-#EXTINF:-1 tvg-id=" DK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ DJECJI",  DK: Disney XD
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1099
-
-#EXTINF:-1 tvg-id=" AL: Bang Bang" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Bang Bang
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1102
-
-#EXTINF:-1 tvg-id=" AL: TIP TV" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: TIP TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1103
-
-#EXTINF:-1 tvg-id=" AL: Junior" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Junior
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1104
-
-#EXTINF:-1 tvg-id=" AL: Tring Tring" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Tring Tring
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1105
-
-#EXTINF:-1 tvg-id=" AL: Cufo" tvg-logo="noimage.png" group-title="★ DJECJI",  AL: Cufo
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1106
-
-#EXTINF:-1 tvg-id="DK: Disney Channel" tvg-logo="noimage.png" group-title="★ DJECJI", DK: Disney Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/635
-
-#EXTINF:-1 tvg-id="nationalgeographic.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", National Geographic
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1136
-
-#EXTINF:-1 tvg-id="natgeowild.rs" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="★ DOKUMENTARNI", National Geographic Wild
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1137
-
-#EXTINF:-1 tvg-id="history.rs" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="★ DOKUMENTARNI", History Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1138
-
-#EXTINF:-1 tvg-id="discoveryidxtra.rs" tvg-logo="https://w7.pngwing.com/pngs/58/935/png-transparent-investigation-discovery-television-show-television-channel-logo-id-thumbnail.png" group-title="★ DOKUMENTARNI", ID Xtra
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1139
-
-#EXTINF:-1 tvg-id="crimeandinvestigation.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Crime & Investigation
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1140
-
-#EXTINF:-1 tvg-id="loviribolov.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Lov & Ribolov
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1141
-
-#EXTINF:-1 tvg-id="DokuTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/doku-tv-hr.png" group-title="★ DOKUMENTARNI", DokuTV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/38581
-
-#EXTINF:-1 tvg-id="DocuBox" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", DocuBox
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1144
-
-#EXTINF:-1 tvg-id="discoverychannel.rs" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="★ DOKUMENTARNI", Discovery Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1145
-
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="★ DOKUMENTARNI", Discovery Science
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1147
-
-#EXTINF:-1 tvg-id="animalplanet.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" group-title="★ DOKUMENTARNI", Animal Planet
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1148
-
-#EXTINF:-1 tvg-id="history2.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", History 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1149
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-kitchen.svg" group-title="★ DOKUMENTARNI", 24 Kitchen
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1150
-
-#EXTINF:-1 tvg-id="viasatexplore.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Viasat Explore
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1151
-
-#EXTINF:-1 tvg-id="viasathistory.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Viasat History
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1152
-
-#EXTINF:-1 tvg-id="viasatnature.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Viasat Nature
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1153
-
-#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/da_vinci_learning.jpg" group-title="★ DOKUMENTARNI", Da Vinci Learning
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1155
-
-#EXTINF:-1 tvg-id="travelchannel.rs" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Travel Channel
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1159
-
-#EXTINF:-1 tvg-id="Discovery DTX" tvg-logo="noimage.png" group-title="★ DOKUMENTARNI", Discovery DTX
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39139
-
-#EXTINF:-1 tvg-id="hbohd.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_adria.jpg" group-title="★ FILMSKI", HBO
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1161
-
-#EXTINF:-1 tvg-id="hbo2hd.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", HBO 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1162
-
-#EXTINF:-1 tvg-id="hbo3hd.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", HBO 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1163
-
-#EXTINF:-1 tvg-id="Kino TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kino_tv_hr.png" group-title="★ FILMSKI", Kino TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1164
-
-#EXTINF:-1 tvg-id="cinestartv.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-1-hr.png" group-title="★ FILMSKI", Cinestar TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1165
-
-#EXTINF:-1 tvg-id="cinemania.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemania-rs.png" group-title="★ FILMSKI", Cinemania
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/38580
-
-#EXTINF:-1 tvg-id="Cinestar TV 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-2-hr.png" group-title="★ FILMSKI", Cinestar TV 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36502
-
-#EXTINF:-1 tvg-id="cinestarcomedy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-comedy-hr.png" group-title="★ FILMSKI", CineStar TV Comedy
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39055
-
-#EXTINF:-1 tvg-id="Cinestar Premiere 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-1-hr.png" group-title="★ FILMSKI", Cinestar Premiere 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1166
-
-#EXTINF:-1 tvg-id="Cinestar Premiere 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-2-hr.png" group-title="★ FILMSKI", Cinestar Premiere 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1167
-
-#EXTINF:-1 tvg-id="cinestaraction.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-action-hr.png" group-title="★ FILMSKI", Cinestar Action
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1168
-
-#EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-fantasy-hr.png" group-title="★ FILMSKI", Cinestar Fantasy
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1169
-
-#EXTINF:-1 tvg-id=" M1 Film" tvg-logo="noimage.png" group-title="★ FILMSKI",  M1 Film
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1178
-
-#EXTINF:-1 tvg-id="FILM: M1 Film" tvg-logo="noimage.png" group-title="★ FILMSKI", FILM: M1 Film
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1177
-
-#EXTINF:-1 tvg-id="M1 Film Gold" tvg-logo="noimage.png" group-title="★ FILMSKI", M1 Film Gold
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36513
-
-#EXTINF:-1 tvg-id="M1 Family" tvg-logo="noimage.png" group-title="★ FILMSKI", M1 Family
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/36515
-
-#EXTINF:-1 tvg-id="tv1000.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", TV 1000
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1170
-
-#EXTINF:-1 tvg-id="axn.rs" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle-thumbnail.png" group-title="★ FILMSKI", AXN
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1171
-
-#EXTINF:-1 tvg-id="axnspin.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", AXN Spin
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1172
-
-#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klasik-tv-hr.svg" group-title="★ FILMSKI", Klasik TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1173
-
-#EXTINF:-1 tvg-id="cinemaxhd.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", Cinemax 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1175
-
-#EXTINF:-1 tvg-id="cinemax2.rs" tvg-logo="noimage.png" group-title="★ FILMSKI", Cinemax 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1176
-
-#EXTINF:-1 tvg-id="Filmbox Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/filmbox_extra.jpg" group-title="★ FILMSKI", Filmbox Extra
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1179
-
-#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-logo="noimage.png" group-title="★ FILMSKI", Filmbox Arthouse
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1180
-
-#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="noimage.png" group-title="★ FILMSKI", Euro Cinema 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46618
-
-#EXTINF:-1 tvg-id="Euro Cinema 3" tvg-logo="noimage.png" group-title="★ FILMSKI", Euro Cinema 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46616
-
-#EXTINF:-1 tvg-id="Euro Cinema 4" tvg-logo="noimage.png" group-title="★ FILMSKI", Euro Cinema 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/46615
-
-#EXTINF:-1 tvg-id="MAXCRO Select 1" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1182
-
-#EXTINF:-1 tvg-id="MAXCRO Select 2" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1183
-
-#EXTINF:-1 tvg-id="MAXCRO Select 3" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1184
-
-#EXTINF:-1 tvg-id="MAXCRO Select 4" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 4
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1185
-
-#EXTINF:-1 tvg-id="MAXCRO Select 5" tvg-logo="noimage.png" group-title="★ FILMSKI", MAXCRO Select 5
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1186
-
-#EXTINF:-1 tvg-id="Balkanika (MUSIC)" tvg-logo="noimage.png" group-title="★ MUZICKI", Balkanika (MUSIC)
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1107
-
-#EXTINF:-1 tvg-id="♫: Kafanska TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: Kafanska TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1714
-
-#EXTINF:-1 tvg-id="♫♫: Pink Koncert" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Pink Koncert
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1108
-
-#EXTINF:-1 tvg-id="♫♫: Grand Narodna" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-rs.png" group-title="★ MUZICKI", ♫♫: Grand Narodna
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1109
-
-#EXTINF:-1 tvg-id="♫: Grand 2" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: Grand 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1110
-
-#EXTINF:-1 tvg-id="♫♫: DM SAT" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dm_sat_rs.png" group-title="★ MUZICKI", ♫♫: DM SAT
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1111
-
-#EXTINF:-1 tvg-id="♫♫: CMC TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmc_tv_hr.png" group-title="★ MUZICKI", ♫♫: CMC TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1112
-
-#EXTINF:-1 tvg-id="♫♫: Jugoton" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jugoton_tv_hr.png" group-title="★ MUZICKI", ♫♫: Jugoton
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1113
-
-#EXTINF:-1 tvg-id="♫♫: IDJ TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idj-tv-rs.png" group-title="★ MUZICKI", ♫♫: IDJ TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1114
-
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="noimage.png" group-title="★ MUZICKI", PLAY TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/48543
-
-#EXTINF:-1 tvg-id="♫♫: TOP TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: TOP TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1115
-
-#EXTINF:-1 tvg-id="♫♫: KCN 1" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: KCN 1
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1116
-
-#EXTINF:-1 tvg-id="♫♫: KCN 2" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: KCN 2
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1117
-
-#EXTINF:-1 tvg-id="♫♫: KCN 3" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: KCN 3
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1118
-
-#EXTINF:-1 tvg-id="♫: Bravo Music" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: Bravo Music
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1536
-
-#EXTINF:-1 tvg-id="♫♫: Sevdah TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Sevdah TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1119
-
-#EXTINF:-1 tvg-id="♫♫: BN Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" group-title="★ MUZICKI", ♫♫: BN Music
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1120
-
-#EXTINF:-1 tvg-id="♫♫: Hayat Folk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_folk.jpg" group-title="★ MUZICKI", ♫♫: Hayat Folk
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1121
-
-#EXTINF:-1 tvg-id="♫♫: Hayat Music" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Hayat Music
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1122
-
-#EXTINF:-1 tvg-id="♫♫: TV Sehara" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: TV Sehara
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1124
-
-#EXTINF:-1 tvg-id="♫♫: Taraf" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Taraf
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1125
-
-#EXTINF:-1 tvg-id="♫♫: YU Planet" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: YU Planet
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1126
-
-#EXTINF:-1 tvg-id="♫♫: S.K.Y Folk" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: S.K.Y Folk
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1128
-
-#EXTINF:-1 tvg-id="♫: IN TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫: IN TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/23575
-
-#EXTINF:-1 tvg-id="♫ Muzzik World Wide" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫ Muzzik World Wide
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39064
-
-#EXTINF:-1 tvg-id="♫ Muzzik" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫ Muzzik
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/39065
-
-#EXTINF:-1 tvg-id="♫♫: Roma TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Roma TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1130
-
-#EXTINF:-1 tvg-id="♫♫: FEN TV" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: FEN TV
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1131
-
-#EXTINF:-1 tvg-id="♫♫: Planeta" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Planeta
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1132
-
-#EXTINF:-1 tvg-id="♫♫: Planeta Folk" tvg-logo="noimage.png" group-title="★ MUZICKI", ♫♫: Planeta Folk
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1133
-
-#EXTINF:-1 tvg-id="♫♫: Deluxe Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deluxe_music.jpg" group-title="★ MUZICKI", ♫♫: Deluxe Music
-http://localiptv.site:85/JocoLucicNew/Wjdjr848WoiwrfklstZSwwWxzZ/1135
 
 
 
