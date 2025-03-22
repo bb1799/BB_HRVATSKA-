@@ -1,959 +1,1174 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://iptvunited.org:8080/images/58871a467498ee4a6323e36c528f47b3.png" group-title="Hrvatska", HRT 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8499
+#EXTINF:-1 tvg-id="HRT 1" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp3FN0R4LYKJ-nGofLSd9HKohfD5ypdg2m6ikbzbe06Uv31nZ9QNEc2II8a_JQZHzps.png" group-title="HRVATSKA", HRT 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33669.ts
 
-#EXTINF:-1 tvg-id="htv2" tvg-logo="http://iptvunited.org:8080/images/d66f3ed717b48fe9573d77d086f93242.png" group-title="Hrvatska", HRT 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8500
+#EXTINF:-1 tvg-id="HRT 1 (B)" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x200/4/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 (B)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33669.ts
 
-#EXTINF:-1 tvg-id="htv3" tvg-logo="http://iptvunited.org:8080/images/bb22402b402d0944146db818c2d87da2.png" group-title="Hrvatska", HRT 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8501
+#EXTINF:-1 tvg-id="HRT 2" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp3FN0R4LYKJ-nGofLSd9HKoucnSfXkrA3gF8r0mnxsgg1G_xYBgnRqJatujI3d4jsw.png" group-title="HRVATSKA", HRT 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33667.ts
 
-#EXTINF:-1 tvg-id="htv4" tvg-logo="http://iptvunited.org:8080/images/7f8f97c669df5aeaf943a6e7d5ec897c.png" group-title="Hrvatska", HRT 4
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8502
+#EXTINF:-1 tvg-id="HRT 2 (B)" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x200/4/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 (B)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33666.ts
 
-#EXTINF:-1 tvg-id="htv5" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRTint_logo.png" group-title="Hrvatska", HRT 5
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8503
+#EXTINF:-1 tvg-id="HRT 3" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp3FN0R4LYKJ-nGofLSd9HKoBMBUhCddmQeGSiF-Tj1Z3ICU7NZ39aEn1Mmk84UVnkY.png" group-title="HRVATSKA", HRT 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33665.ts
 
-#EXTINF:-1 tvg-id="nova" tvg-logo="http://iptvunited.org:8080/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="Hrvatska", Nova TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8505
+#EXTINF:-1 tvg-id="HRT 3 (B)" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x200/4/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 (B)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33664.ts
 
-#EXTINF:-1 tvg-id="rtl" tvg-logo="http://iptvunited.org:8080/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="Hrvatska", RTL (H265)
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8506
+#EXTINF:-1 tvg-id="HRT 4" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp3FN0R4LYKJ-nGofLSd9HKoAd8IFzzpIL7aVMNP5F3PuVnkYaoVbsUa3m1PcXNyNFY.png" group-title="HRVATSKA", HRT 4
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33663.ts
 
-#EXTINF:-1 tvg-id="rtl" tvg-logo="http://iptvunited.org:8080/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="Hrvatska", RTL HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8507
+#EXTINF:-1 tvg-id="HRT 4 (B)" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x200/4/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 (B)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33662.ts
 
-#EXTINF:-1 tvg-id="rtl-adria" tvg-logo="http://iptvunited.org:8080/images/8dc98da90374651fb8c436dfcad78a94.png" group-title="Hrvatska", RTL Adria
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8508
+#EXTINF:-1 tvg-id="HRT Int" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp3FN0R4LYKJ-nGofLSd9HKoPt38RIfrm_8PYJbghCpWo5tgfKko7JAJ5dnFDnjOLx8.png" group-title="HRVATSKA", HRT Int
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33661.ts
 
-#EXTINF:-1 tvg-id="rtl2" tvg-logo="http://iptvunited.org:8080/images/b1a874b3e9aefba9968dcd412f06b4af.png" group-title="Hrvatska", RTL 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8509
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYZHG1jqNA8-5_ncTJW7fBsYjMXn72fbMbaEQ8bQ7keAKw.png" group-title="HRVATSKA", Nova TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33653.ts
 
-#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska", RTL Crime
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8510
+#EXTINF:-1 tvg-id="DOMA TV" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYYeDFgLEAwM50NMnOtdiQP9JO993WA-v2IreZFboYsh-g.png" group-title="HRVATSKA", DOMA TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33654.ts
 
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/rtl-kockica-logo.png" group-title="Hrvatska", RTL Kockica
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8511
+#EXTINF:-1 tvg-id="RTLCroatiaWorld.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onES4hEe7HIzdKwFXseWoCR.png" group-title="HRVATSKA", RTL
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33660.ts
 
-#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska", RTL Living
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8512
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYb-FDDLcjtNYdf4qjuVeRKV-goB5kX6QIs6i3QJ9qylpg.png" group-title="HRVATSKA", RTL 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33659.ts
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska", RTL Passion
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8513
+#EXTINF:-1 tvg-id="RTL Adria" tvg-logo="http://live.phenixiptv.com:8080/images/xm9cP79GrHrL_e9IpLBwsUeP_M63dGlWI--UTMCBBCmofUAUuID7NpY7HIB_F76DUleRGdYlWvIxYzg9tjYQyA.png" group-title="HRVATSKA", RTL Adria
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33657.ts
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/doma.png" group-title="Hrvatska", Doma TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8514
+#EXTINF:-1 tvg-id="RTL Crime" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYb3i-KHB2HBusEtgCbxl29Z50BpCPyf7bvo7N9c-fHecw.png" group-title="HRVATSKA", RTL Crime
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33658.ts
 
-#EXTINF:-1 tvg-id="universal-channel" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/10.%20DIVA.png" group-title="Hrvatska", Diva
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8515
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYblyeECIA9a_wkBJlDWzcD20IebumZNU-KreJWfU6X2Sg.png" group-title="HRVATSKA", RTL Living
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33656.ts
 
-#EXTINF:-1 tvg-id="n1-hr" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/27.%20N1%20HR.png" group-title="Hrvatska", N1 Hrvatska
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8516
+#EXTINF:-1 tvg-id="RTL Passion" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYZozFt-mNN9kthddnqJmv2sx2sVZXcLszX1Fx29vhnz6w.png" group-title="HRVATSKA", RTL Passion
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33655.ts
 
-#EXTINF:-1 tvg-id="cmc" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CMC_TV_logo.png" group-title="Hrvatska", CMC
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8517
+#EXTINF:-1 tvg-id="Kanal Ri" tvg-logo="noimage.png" group-title="HRVATSKA", Kanal Ri
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33649.ts
 
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/24.%20SLAVONSKA%20TV.jpg" group-title="Hrvatska", Slavonska televizija
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8518
+#EXTINF:-1 tvg-id="Laudato TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omp1YBpQOdCrP8lgEo_gBpM.png" group-title="HRVATSKA", Laudato TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33648.ts
 
-#EXTINF:-1 tvg-id="laudato-tv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/23.%20LAUDATO%20TV.png" group-title="Hrvatska", Laudato TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8519
+#EXTINF:-1 tvg-id="Libertas TV" tvg-logo="http://logo.smart-iptvpro.info/131.hr.png" group-title="HRVATSKA", Libertas TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33647.ts
 
-#EXTINF:-1 tvg-id="Jabuka TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/25.%20JABUKA%20TV.png" group-title="Hrvatska", Jabuka TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8520
+#EXTINF:-1 tvg-id="Mreza Split" tvg-logo="http://logo.smart-iptvpro.info/115.hr.png" group-title="HRVATSKA", Mreza Split
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33646.ts
 
-#EXTINF:-1 tvg-id="otv-valentino" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/5.%20OTV%20VALENTINO.png" group-title="Hrvatska", OTV Valentino
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8521
+#EXTINF:-1 tvg-id="N1" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onqjV1uLJGuypcTneAgHLHX.png" group-title="HRVATSKA", N1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33645.ts
 
-#EXTINF:-1 tvg-id="z1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/63.%20Z1.png" group-title="Hrvatska", Z1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8522
+#EXTINF:-1 tvg-id="Osjecka TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okSNH0yqxAnmRxKnl3JCARr.png" group-title="HRVATSKA", Osjecka TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33643.ts
 
-#EXTINF:-1 tvg-id="ostv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/64.%20OSJECKA%20TV.png" group-title="Hrvatska", Osjecka TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8523
+#EXTINF:-1 tvg-id="OTV (Jabuka TV)" tvg-logo="https://cdn-0.tvprofil.com/cdn/250x250/4/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA", OTV (Jabuka TV)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33650.ts
 
-#EXTINF:-1 tvg-id="Banovina TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/5.%20banovina.png" group-title="Hrvatska", Banovina TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8524
+#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okOghsAZylmf3bK19kt-Z3F.png" group-title="HRVATSKA", Poljoprivredna TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33642.ts
 
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/65.%20VINKOVACKA%20TV.png" group-title="Hrvatska", Vinkovacka TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8525
+#EXTINF:-1 tvg-id="Posavina TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olzJdnKo2uIcHuR7HDq14Ah.png" group-title="HRVATSKA", Posavina TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33641.ts
 
-#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/50.%20al%20jazeera.png" group-title="Bosna i Hercegovina", Al Jazeera Balkans
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8527
+#EXTINF:-1 tvg-id="Trend TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/250x250/4/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA", Trend TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33640.ts
 
-#EXTINF:-1 tvg-id="rtrs" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/48.%20RTRS.png" group-title="Bosna i Hercegovina", RTRS
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8528
+#EXTINF:-1 tvg-id="TV Zapad" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp0YAZ6yhvOWchLwHmYVZJGhoHW1a3cTAr2U2TcuuK8ekM95z1tT8eoWg7YFeVqbZ6c.png" group-title="HRVATSKA", TV Zapad
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33639.ts
 
-#EXTINF:-1 tvg-id="bht1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/6.%20BHT.png" group-title="Bosna i Hercegovina", BHT 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8529
+#EXTINF:-1 tvg-id="Banovina Tv" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYatdF9Bg_kE2mquBaPpxfm3ltW-rMGZofbKgGo0pTTtSA.png" group-title="HRVATSKA", Banovina Tv
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33652.ts
 
-#EXTINF:-1 tvg-id="ftv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/13.%20FTV.png" group-title="Bosna i Hercegovina", FTV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8530
+#EXTINF:-1 tvg-id="Vinkovacka TV" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYa1OPVwWR1dY90wCQI1rNqD5qF-RcMjSGEokvIIbwUR5Q.png" group-title="HRVATSKA", Vinkovacka TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33638.ts
 
-#EXTINF:-1 tvg-id="atv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/3.%20ATV.png" group-title="Bosna i Hercegovina", ATV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8531
+#EXTINF:-1 tvg-id="VTV Televizija" tvg-logo="http://logo.smart-iptvpro.info/120.hr.png" group-title="HRVATSKA", VTV Televizija
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33637.ts
 
-#EXTINF:-1 tvg-id="nova-bh" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/31.%20nova%20bih.png" group-title="Bosna i Hercegovina", Nova BiH
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8532
+#EXTINF:-1 tvg-id="Z1.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okF6B91ecsY8F2ySFR7iMY-.png" group-title="HRVATSKA", Z1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33636.ts
 
-#EXTINF:-1 tvg-id="pink-bih" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/75.%20PINK%20BIH.jpg" group-title="Bosna i Hercegovina", Pink BiH
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8533
+#EXTINF:-1 tvg-id="Zdrava TV" tvg-logo="http://logo.smart-iptvpro.info/123.hr.png" group-title="HRVATSKA", Zdrava TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33635.ts
 
-#EXTINF:-1 tvg-id="obn" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/34.%20OBN.png" group-title="Bosna i Hercegovina", OBN
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8534
+#EXTINF:-1 tvg-id="HNTV.hr" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRG8JB3FRkNvHmU-OyS0PrBRuwI1Wc0Akfj4Cf8d-n8UK1f55J3N88-QN-w4z-W1EBl-sQTggo3VflA2JYHdmBhw.png" group-title="HRVATSKA", HNTV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33651.ts
 
-#EXTINF:-1 tvg-id="face-tv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/12.%20FACE%20TV.png" group-title="Bosna i Hercegovina", Face Tv
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8535
+#EXTINF:-1 tvg-id="AL JAZZERA BALKANS HD" tvg-logo="http://logo.smart-iptvpro.info/114.ba.png" group-title="BOSNA I HERCEGOVINA", AL JAZZERA BALKANS HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33634.ts
 
-#EXTINF:-1 tvg-id="bn" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/8.%20BN%20TV.png" group-title="Bosna i Hercegovina", BN TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8536
+#EXTINF:-1 tvg-id="Alfa TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1on4aMgS_ixiNi9CriFALVdd.png" group-title="BOSNA I HERCEGOVINA", Alfa TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33618.ts
 
-#EXTINF:-1 tvg-id="bn-music" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/7.%20BN%20MUSIC.png" group-title="Bosna i Hercegovina", BN Music
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8537
+#EXTINF:-1 tvg-id="ATV BANJA LUKA" tvg-logo="http://logo.smart-iptvpro.info/116.ba.png" group-title="BOSNA I HERCEGOVINA", ATV BANJA LUKA
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33619.ts
 
-#EXTINF:-1 tvg-id="rtvtk" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTV_TK_Logo.jpg" group-title="Bosna i Hercegovina", RTV TK Tuzla
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8539
+#EXTINF:-1 tvg-id="BHT1.ba" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgRC1axFt2WzMeV8i0FGmAY2l-NwTmAiV6tFgNF_OqdmeA6p21ETFnNYGs2LRpl2SLvhC5evJoCMeLdduGmj2bas9G-wbYPWartpyA8JemipQ.png" group-title="BOSNA I HERCEGOVINA", BHT 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33633.ts
 
-#EXTINF:-1 tvg-id="hayat-tv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/17.%20HAYAT.png" group-title="Bosna i Hercegovina", Hayat BiH
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8540
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYZ4BCW3IKpL1CMfSeAOvm8mLZp3NgT9wD-y-yVazhSAow.png" group-title="BOSNA I HERCEGOVINA", BN HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33622.ts
 
-#EXTINF:-1 tvg-id="hayat-folk" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Hayat_Folk_Box_BA_logo_v2.png" group-title="Bosna i Hercegovina", Hayat Folk
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8541
+#EXTINF:-1 tvg-id="BOSANSKO POSAVSKA TV HD" tvg-logo="http://logo.smart-iptvpro.info/130.ba.png" group-title="BOSNA I HERCEGOVINA", BOSANSKO POSAVSKA TV HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33590.ts
 
-#EXTINF:-1 tvg-id="hayat-music" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Hayat_Music_Box_BA_logo_v2.png" group-title="Bosna i Hercegovina", Hayat Music
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8542
+#EXTINF:-1 tvg-id="TVCity.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYaFpqpAP0dIAnPc2Mbm9Mqbe5lGXhlDBFexy2uygsy9SA.png" group-title="BOSNA I HERCEGOVINA", CITY TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33599.ts
 
-#EXTINF:-1 tvg-id="hayat-plus" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/18.%20HAYAT%20PLUS.png" group-title="Bosna i Hercegovina", Hayat Plus
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8543
+#EXTINF:-1 tvg-id="ELTA TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olfo1iEpOloxkDCYSolJYMy.png" group-title="BOSNA I HERCEGOVINA", ELTA TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33617.ts
 
-#EXTINF:-1 tvg-id="hayatovci" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/hayatovci-logo.png" group-title="Bosna i Hercegovina", Hayatovci
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8544
+#EXTINF:-1 tvg-id="FaceTV.ba" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onmX3L7iPyNDKcgNXhJbn12.png" group-title="BOSNA I HERCEGOVINA", FACE TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33632.ts
 
-#EXTINF:-1 tvg-id="n1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/28.%20N1%20BIH.png" group-title="Bosna i Hercegovina", N1 BiH
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8545
+#EXTINF:-1 tvg-id="FTV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okqVm8_L5hjKbbZObFNO4U_.png" group-title="BOSNA I HERCEGOVINA", FTV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33631.ts
 
-#EXTINF:-1 tvg-id="kanal-6" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Kanal%206.png" group-title="Bosna i Hercegovina", Kanal 6
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8546
+#EXTINF:-1 tvg-id="GLAS DRINE" tvg-logo="http://faucontv.live:80/images/Y_EhZaxGwssDVtP5z8h-lUpYRTrYomieNpzp9i5w_6zbzKRZksVtbECaDQmfiMo5VCA1GqUY4ugwJTYSRqqPE3kkxdnF5aGl5xJTYboRyLo.png" group-title="BOSNA I HERCEGOVINA", GLAS DRINE
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33598.ts
 
-#EXTINF:-1 tvg-id="TV Sarajevo" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/58.%20TV%20SARAJEVO.png" group-title="Bosna i Hercegovina", TV Sarajevo
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8547
+#EXTINF:-1 tvg-id="HayatPlus.ba" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okLltSxJAEyszf3mHAktmfs.png" group-title="BOSNA I HERCEGOVINA", HAYAT PLUS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33628.ts
 
-#EXTINF:-1 tvg-id="rtv-slon" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/59.%20RTV%20SLON%20EXTRA.png" group-title="Bosna i Hercegovina", RTV Slon Extra
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8548
+#EXTINF:-1 tvg-id="Hayat.ba" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okeoa68Nw30kGo8grLoJAoJ.png" group-title="BOSNA I HERCEGOVINA", Hayat TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33629.ts
 
-#EXTINF:-1 tvg-id="kanal-3-prnjavor" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/60.%20K3.png" group-title="Bosna i Hercegovina", K3 Prnjavor
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8549
+#EXTINF:-1 tvg-id="HEMA TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olaCbhYM6EIitHKTceMnnhc.png" group-title="BOSNA I HERCEGOVINA", HEMA TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33597.ts
 
-#EXTINF:-1 tvg-id="O Kanal" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/O_Kanal_BA_logo.png" group-title="Bosna i Hercegovina", O Kanal
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8550
+#EXTINF:-1 tvg-id="HIT BRCKO TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omnIH2eKfWmwSkw7gmZdKps.png" group-title="BOSNA I HERCEGOVINA", HIT BRCKO TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33595.ts
 
-#EXTINF:-1 tvg-id="rtv-usk" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/62.%20USK.png" group-title="Bosna i Hercegovina", USK
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8551
+#EXTINF:-1 tvg-id="IZVORNA TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olAycuhVjgj_FE7kWrRBTDO.png" group-title="BOSNA I HERCEGOVINA", IZVORNA TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33594.ts
 
-#EXTINF:-1 tvg-id="rtv-ze" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTV_ZE_BA_logo.png" group-title="Bosna i Hercegovina", Zenica TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8552
+#EXTINF:-1 tvg-id="K3.ba" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ol4-mb92xMuFptkib_tflXU.png" group-title="BOSNA I HERCEGOVINA", K3 TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33615.ts
 
-#EXTINF:-1 tvg-id="Posavina TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/11.%20Posavina.jpg" group-title="Bosna i Hercegovina", Posavina TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8553
+#EXTINF:-1 tvg-id="MTV IGMAN HD" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ondvSCLibqg_Xld9_KqT9S7.png" group-title="BOSNA I HERCEGOVINA", MTV IGMAN HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33612.ts
 
-#EXTINF:-1 tvg-id="Herceg Bosna TV" tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/rtv-herceg-bosne.png" group-title="Bosna i Hercegovina", Herceg Bosna TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8554
+#EXTINF:-1 tvg-id="N1" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1om3UcQWZG0OfZq90-R2Ga3w.png" group-title="BOSNA I HERCEGOVINA", N1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33623.ts
 
-#EXTINF:-1 tvg-id="MY TV" tvg-logo="https://www.bhtelecom.ba/wp-content/uploads/2023/02/mytv-na-broju-12_-800x600-002.jpg" group-title="Bosna i Hercegovina", MY TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8607
+#EXTINF:-1 tvg-id="NOVA BH" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYYMk-DV4QHNnA1m6S_iZPleh93EeIl9ZwY29Z4CsSuNYA.png" group-title="BOSNA I HERCEGOVINA", NOVA BH
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33630.ts
 
-#EXTINF:-1 tvg-id="rtrs-plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTRS_PLUS_logo.png" group-title="Bosna i Hercegovina", RTRS Plus
-http://bntvs.com:2052/htechniker/zPSddcp7C4/16896
+#EXTINF:-1 tvg-id="NTV IC KAKANJ" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olysJgg7fmIL1DNP2s_Dhfi.png" group-title="BOSNA I HERCEGOVINA", NTV IC KAKANJ
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33611.ts
 
-#EXTINF:-1 tvg-id="UNA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/UNA_TV_HR_logo.png" group-title="Bosna i Hercegovina", UNA TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/24252
+#EXTINF:-1 tvg-id="O KANAL" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYbMnmjCuAivtIZ8ZHr0nkixJdP3ZQT6hZHTF_stQvpUKQ.png" group-title="BOSNA I HERCEGOVINA", O KANAL
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33592.ts
 
-#EXTINF:-1 tvg-id="tvcg-sat" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/39.%20RTCG%20SAT.png" group-title="Crna Gora", RTCG Sat
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8556
+#EXTINF:-1 tvg-id="OBN.ba" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okQZikB0vH8VCrWEKTQf_tW.png" group-title="BOSNA I HERCEGOVINA", OBN
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33627.ts
 
-#EXTINF:-1 tvg-id="tvcg1" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TVCG1_ME_logo_v3.jpg" group-title="Crna Gora", RTCG 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8557
+#EXTINF:-1 tvg-id="POSAVINA TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olzJdnKo2uIcHuR7HDq14Ah.png" group-title="BOSNA I HERCEGOVINA", POSAVINA TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33596.ts
 
-#EXTINF:-1 tvg-id="tvcg2" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TVCG2_ME_logo_v3.jpg" group-title="Crna Gora", RTCG 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8558
+#EXTINF:-1 tvg-id="QOURAN BOSNA TV" tvg-logo="http://logo.smart-iptvpro.info/137.ba.png" group-title="BOSNA I HERCEGOVINA", QOURAN BOSNA TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33589.ts
 
-#EXTINF:-1 tvg-id="prva-tv-cg" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_RS_logo_v2.png" group-title="Crna Gora", Prva TV CG
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8559
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ol9RpLp9hoK82mGgYZhAI7z.png" group-title="BOSNA I HERCEGOVINA", RTRS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33621.ts
 
-#EXTINF:-1 tvg-id="pink-m" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_M_ME_logo.png" group-title="Crna Gora", Pink M
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8560
+#EXTINF:-1 tvg-id="RTRS PLUS" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onckRNHvz8upX7KfDrpIRpD.png" group-title="BOSNA I HERCEGOVINA", RTRS PLUS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33620.ts
 
-#EXTINF:-1 tvg-id="nova-m" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Nova_M_ME_logo_v2.png" group-title="Crna Gora", Nova M
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8561
+#EXTINF:-1 tvg-id="RTV HERCEG BOSNE" tvg-logo="http://logo.smart-iptvpro.info/134.ba.png" group-title="BOSNA I HERCEGOVINA", RTV HERCEG BOSNE
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33626.ts
 
-#EXTINF:-1 tvg-id="tv-vijesti" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Vijesti_ME_logo.png" group-title="Crna Gora", TV Vijesti
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8562
+#EXTINF:-1 tvg-id="RTV VISOKO HD" tvg-logo="http://logo.smart-iptvpro.info/120.ba.png" group-title="BOSNA I HERCEGOVINA", RTV VISOKO HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33601.ts
 
-#EXTINF:-1 tvg-id="rts1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija", RTS 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/1
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okBJgPRn5Wf1c6w-2Xb0G2y.png" group-title="BOSNA I HERCEGOVINA", Sandzak TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33609.ts
 
-#EXTINF:-1 tvg-id="rts2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS2_logo.png" group-title="Srbija", RTS 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/2
+#EXTINF:-1 tvg-id="Sehara TV HD" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Sehara TV HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33608.ts
 
-#EXTINF:-1 tvg-id="rts-digital" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_3_logo.png" group-title="Srbija", RTS 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/3
+#EXTINF:-1 tvg-id="TK" tvg-logo="http://faucontv.live:80/images/fDlJV2WfdRYyRmseFbbinGX8IxPCeXdPgn_hgYF2Hj08HjPSJ9I-yLe9kZkcx7xxgvink0ffvy6ObKD_0VohQQxVxXgg1TBdiEOL2xBAAB38Y5T_zYOpLSx53KbMnPTu.png" group-title="BOSNA I HERCEGOVINA", TK
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33600.ts
 
-#EXTINF:-1 tvg-id="rts-drama" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/53.%20RTS%20Drama.png" group-title="Srbija", RTS Drama
-http://bntvs.com:2052/htechniker/zPSddcp7C4/4
+#EXTINF:-1 tvg-id="TV 1 (BIH)" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", TV 1 (BIH)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33625.ts
 
-#EXTINF:-1 tvg-id="rts-sat" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTS_svet_logo.png" group-title="Srbija", RTS Svet
-http://bntvs.com:2052/htechniker/zPSddcp7C4/5
+#EXTINF:-1 tvg-id="TV 5 Islam" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1om8HlcQheRdJVOkceCGWvtm.png" group-title="BOSNA I HERCEGOVINA", TV 5 Islam
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33607.ts
 
-#EXTINF:-1 tvg-id="b92" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/b92_logo_2020.png" group-title="Srbija", B92 - O2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/6
+#EXTINF:-1 tvg-id="TV B1 Gradacac" tvg-logo="http://logo.smart-iptvpro.info/144.ba.png" group-title="BOSNA I HERCEGOVINA", TV B1 Gradacac
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33606.ts
 
-#EXTINF:-1 tvg-id="happytv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Happy_new_logo.png" group-title="Srbija", Happy TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/7
+#EXTINF:-1 tvg-id="TVPodrinje.rs" tvg-logo="http://logo.smart-iptvpro.info/132.ba.jpg" group-title="BOSNA I HERCEGOVINA", TV Podrinje
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33605.ts
 
-#EXTINF:-1 tvg-id="happytv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Happy_new_logo.png" group-title="Srbija", Happy Parovi 24 sata
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8
+#EXTINF:-1 tvg-id="TV SARAJEVO" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olAn2fo_t0050IkmD069kuG.png" group-title="BOSNA I HERCEGOVINA", TV SARAJEVO
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33624.ts
 
-#EXTINF:-1 tvg-id="pink" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/72.%20PINK%201.png" group-title="Srbija", PINK 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/9
+#EXTINF:-1 tvg-id="TV SLON EXTRA" tvg-logo="http://logo.smart-iptvpro.info/124.ba.png" group-title="BOSNA I HERCEGOVINA", TV SLON EXTRA
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33603.ts
 
-#EXTINF:-1 tvg-id="pink-2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Red-TV-Pink-Logo.png" group-title="Srbija", Red TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/10
+#EXTINF:-1 tvg-id="TV ZENICA" tvg-logo="http://logo.smart-iptvpro.info/125.ba.png" group-title="BOSNA I HERCEGOVINA", TV ZENICA
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33604.ts
 
-#EXTINF:-1 tvg-id="pink" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/74.%20PINK%203.png" group-title="Srbija", Pink Vesti
-http://bntvs.com:2052/htechniker/zPSddcp7C4/11
+#EXTINF:-1 tvg-id="USK HD" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ok56hNuodCY-9eneFcc5ICn.png" group-title="BOSNA I HERCEGOVINA", USK HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33591.ts
 
-#EXTINF:-1 tvg-id="n1-rs" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/26.%20N1%20SRB.png" group-title="Srbija", N1 Srbija
-http://bntvs.com:2052/htechniker/zPSddcp7C4/12
+#EXTINF:-1 tvg-id="Vikom TV" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Vikom TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33593.ts
 
-#EXTINF:-1 tvg-id="nova-s" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Nova_S_RS_logo.png" group-title="Srbija", Nova S
-http://bntvs.com:2052/htechniker/zPSddcp7C4/13
+#EXTINF:-1 tvg-id="Nova M" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/aea6deda1be9cf9faf099254bcbaa944.png" group-title="CRNA GORA", Nova M
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/35403.ts
 
-#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/35.%20Prva.png" group-title="Srbija", Prva TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/14
+#EXTINF:-1 tvg-id="Telma" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d7198df3b8f9c6368726aabdec7359f8.png" group-title="CRNA GORA", Telma
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/35407.ts
 
-#EXTINF:-1 tvg-id="prva-max" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/36.%20PRVA%20MAX.png" group-title="Srbija", Prva Max
-http://bntvs.com:2052/htechniker/zPSddcp7C4/15
+#EXTINF:-1 tvg-id="TVCG 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fe3e27e5661cd6a35e5a304d3bf0fe97.png" group-title="CRNA GORA", TVCG 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/35408.ts
 
-#EXTINF:-1 tvg-id="prva-plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prva_rs_plus.png" group-title="Srbija", Prva Plus
-http://bntvs.com:2052/htechniker/zPSddcp7C4/16
+#EXTINF:-1 tvg-id="TVCG 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/411dd0d03dff07c80adb1d13f410689f.png" group-title="CRNA GORA", TVCG 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/35409.ts
 
-#EXTINF:-1 tvg-id="prva-kick" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/37.%20Prva%20Kick.png" group-title="Srbija", Prva Kick
-http://bntvs.com:2052/htechniker/zPSddcp7C4/17
+#EXTINF:-1 tvg-id="TVCG Sat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d20071bfab32dfea3e2dc4438f48b8ed.png" group-title="CRNA GORA", TVCG Sat
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/35410.ts
 
-#EXTINF:-1 tvg-id="prva-world" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/38.%20PRVA%20WORLD.png" group-title="Srbija", Prva World
-http://bntvs.com:2052/htechniker/zPSddcp7C4/18
+#EXTINF:-1 tvg-id="24 Vesti" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG2PxOBEbSlvFDLsFbzyINTjgR91oaxfnLztlz0aaxgM1.png" group-title="MAKEDONIJA", 24 Vesti
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33579.ts
 
-#EXTINF:-1 tvg-id="prva-files" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Prva_FILES_logo.png" group-title="Srbija", Prva Files
-http://bntvs.com:2052/htechniker/zPSddcp7C4/19
+#EXTINF:-1 tvg-id="Alfa TV" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG6dF5NbDd8JYCSaAMX-8b_Qz-VyioOGmEgs1pzBqnXOo.png" group-title="MAKEDONIJA", Alfa TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33573.ts
 
-#EXTINF:-1 tvg-id="kurir-tv" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Kurir_TV_RS_logo.png" group-title="Srbija", Kurir TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/20
+#EXTINF:-1 tvg-id="Alsat" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGwp_lDxWlF_VuY3pDFV4RFFFo3hvtE_XWVX-ZdmUVhDR.png" group-title="MAKEDONIJA", Alsat
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33572.ts
 
-#EXTINF:-1 tvg-id="agro-tv" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/agrotv_logo-1.png" group-title="Srbija", Agro TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/21
+#EXTINF:-1 tvg-id="24KitchenCroatia.hr" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG5bCajgvSqAJXSL-v-3dsFfwJSEg43Ry4lrfT9LOHmPL1j7vzsKsAvSdP1zX0vCjYg.png" group-title="MAKEDONIJA", Cinestar TV premiere 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33563.ts
 
-#EXTINF:-1 tvg-id="vojvodina-1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/56.%20RTV%20VOJVODINA.png" group-title="Srbija", RTV Vojvodina
-http://bntvs.com:2052/htechniker/zPSddcp7C4/22
+#EXTINF:-1 tvg-id="24KitchenCroatia.hr" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG2CYsMDiT6UoHTh3vc80ktVBd18lpO-tcv6YzGd9lhRver-VBxXvD1BqnpuKWqp_tA.png" group-title="MAKEDONIJA", Cinestar TV premiere 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33562.ts
 
-#EXTINF:-1 tvg-id="vojvodina-2" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/56.%20RTV%20VOJVODINA.png" group-title="Srbija", RTV Vojvodina 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGxiNxkAUcS19Uo_bZxEtXJhC5aZCwxIkH0RwJhRt1qug.png" group-title="MAKEDONIJA", Fox Life
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33571.ts
 
-#EXTINF:-1 tvg-id="novi-pazar" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/57.%20RTV%20NOVI%20PAZAR.png" group-title="Srbija", RTV Novi Pazar
-http://bntvs.com:2052/htechniker/zPSddcp7C4/24
+#EXTINF:-1 tvg-id="FoxSerbia.rs" tvg-logo="https://i.ibb.co/d4b6J85/fox.png" group-title="MAKEDONIJA", Fox TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33570.ts
 
-#EXTINF:-1 tvg-id="tv-hram" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/55.%20HRAM.png" group-title="Srbija", Hram
-http://bntvs.com:2052/htechniker/zPSddcp7C4/25
+#EXTINF:-1 tvg-id="Hugo 1 HD" tvg-logo="https://i.ibb.co/VpCS5TL/hugoo.png" group-title="MAKEDONIJA", Hugo 1 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33569.ts
 
-#EXTINF:-1 tvg-id="k1-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/K1_Studio_logo.png" group-title="Srbija", K1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/26
+#EXTINF:-1 tvg-id="Hugo 2 HD" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG_YDnLLJTHaI65niGO1_va9EC78VNhT1QazHOukYli-W.png" group-title="MAKEDONIJA", Hugo 2 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33568.ts
 
-#EXTINF:-1 tvg-id="Blic TV" tvg-logo="https://tvprofil.com/img/kanali-logo/BlicTV_RS_logo.png?1664998909" group-title="Srbija", Blic TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/31166
+#EXTINF:-1 tvg-id="Hugo 4 HD" tvg-logo="https://i.ibb.co/VpCS5TL/hugoo.png" group-title="MAKEDONIJA", Hugo 4 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33566.ts
 
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/da_vinci_learning.png" group-title="Djeciji", Da Vinci Learning
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8569
+#EXTINF:-1 tvg-id="Hugo 5 HD" tvg-logo="https://i.ibb.co/VpCS5TL/hugoo.png" group-title="MAKEDONIJA", Hugo 5 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33565.ts
 
-#EXTINF:-1 tvg-id="Tom and Jerry 24 h" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/4.%20tom%20and%20jerry.png" group-title="Djeciji", Tom and Jerry 24 h
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8718
+#EXTINF:-1 tvg-id="intv Avstralija" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGyaOmhfiahp1QtHVUZDUUFwRtBDTGqy9j1gZqaFMiArt.png" group-title="MAKEDONIJA", intv Avstralija
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33554.ts
 
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/cartoon_network_logo.png" group-title="Djeciji", Cartoon Network
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8719
+#EXTINF:-1 tvg-id="Kanal 5" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG-gDoE7yO3GDrAbI_rG6bRwPj5RYZQ3Sra1q4EKWBztY.png" group-title="MAKEDONIJA", Kanal 5
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33577.ts
 
-#EXTINF:-1 tvg-id="babytv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/babatv-logo.png" group-title="Djeciji", Baby TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8720
+#EXTINF:-1 tvg-id="Kanal 8" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiPNRhNR8XehlVJK8UCzEG8ACF_KovX8-Mum180gsoIGFnpcA-md8mJc8es-Pxjlx--lh3dZ6lIkRxIIlxCOuuXvd40SbzHTmnucbprpH4oZw.png" group-title="MAKEDONIJA", Kanal 8
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33576.ts
 
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/boomerang_it_logo.png" group-title="Djeciji", Boomerang
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8721
+#EXTINF:-1 tvg-id="M:NET" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG1rWrhqtT_CSYtPZXMweBONh8Wkek7c9Cj5aduO1MwHn.png" group-title="MAKEDONIJA", M:NET
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33553.ts
 
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/disney_channel_2019.png" group-title="Djeciji", Disney channel
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8722
+#EXTINF:-1 tvg-id="M:NET Info" tvg-logo="https://i.ibb.co/sRQ9psw/mnet.png" group-title="MAKEDONIJA", M:NET Info
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33552.ts
 
-#EXTINF:-1 tvg-id="Mini Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mini_ultra_logo.png" group-title="Djeciji", Mini Ultra TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8723
+#EXTINF:-1 tvg-id="M:NET Kids" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG1rWrhqtT_CSYtPZXMweBONh8Wkek7c9Cj5aduO1MwHn.png" group-title="MAKEDONIJA", M:NET Kids
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33551.ts
 
-#EXTINF:-1 tvg-id="minimax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/minimax-logo.png" group-title="Djeciji", Minimax
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8724
+#EXTINF:-1 tvg-id="M:NET Sport" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG1rWrhqtT_CSYtPZXMweBONh8Wkek7c9Cj5aduO1MwHn.png" group-title="MAKEDONIJA", M:NET Sport
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33550.ts
 
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nick_jr_logo.png" group-title="Djeciji", Nick Jr.
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8725
+#EXTINF:-1 tvg-id="MRT 1" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGygS9c2TxOMYOdn2E4cvzcWPbL_XbPEHNzeuQf4qqglz.png" group-title="MAKEDONIJA", MRT 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33582.ts
 
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nickelodeon-logo.png" group-title="Djeciji", Nickelodeon
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8726
+#EXTINF:-1 tvg-id="MRT 2" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGx-Oa75C97pk19NUvl4lO3Z1WhdWjPMzGLa_da3NEZkC.png" group-title="MAKEDONIJA", MRT 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33581.ts
 
-#EXTINF:-1 tvg-id="Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/ultra-tv-logo.png" group-title="Djeciji", Ultra TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8727
+#EXTINF:-1 tvg-id="MRT 3" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiPNRhNR8XehlVJK8UCzEG8CSZn3pONIQT8UrSQ6CpIukbNGBtU53Bh2FT5gAt9z6jGYygyFFkQG4TH6ZkKj_E6-3iDojZV0De17opM9yWG7Q.png" group-title="MAKEDONIJA", MRT 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33580.ts
 
-#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/tnt-kids_logo.png" group-title="Djeciji", TNT Kids
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8728
+#EXTINF:-1 tvg-id="Nasha Tv" tvg-logo="https://i.ibb.co/ChK4mrK/images.png" group-title="MAKEDONIJA", Nasha Tv
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33575.ts
 
-#EXTINF:-1 tvg-id="pikaboo" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pikaboo_logo.png" group-title="Djeciji", Pikaboo
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8729
+#EXTINF:-1 tvg-id="Roma TV" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGzBCmZQ9egOgNZ2KbCOI-PJ64AX4Q7WERlY90-5RjQTJ.png" group-title="MAKEDONIJA", Roma TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33574.ts
 
-#EXTINF:-1 tvg-id="toggo-plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/toggo-logoUntitled-1.png" group-title="Djeciji", Toggo Plus
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8730
+#EXTINF:-1 tvg-id="Sitel" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG1n31g9IDEkdwA7vgYhuBJco7uMZgIuFkzqcxOLDW9l_.png" group-title="MAKEDONIJA", Sitel
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33578.ts
 
-#EXTINF:-1 tvg-id="Masa i Medo" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/masa%20i%20medo.jpg" group-title="Djeciji", Masa i Medo
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8732
+#EXTINF:-1 tvg-id="Sky Folk" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG1V8uBhaYMDSxNicoFyBQzsXzf8X1RIiN5G_SDUyv-hq.png" group-title="MAKEDONIJA", Sky Folk
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33564.ts
 
-#EXTINF:-1 tvg-id="Sundjer Bob" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Sundjer%20Bob.png" group-title="Djeciji", Sundjer Bob
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8733
+#EXTINF:-1 tvg-id="Star Folk TV" tvg-logo="https://i.ibb.co/F4xKTQw/strumicaa.png" group-title="MAKEDONIJA", Star Folk TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33555.ts
 
-#EXTINF:-1 tvg-id="vavoom" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/vavoom.png" group-title="Djeciji", Vavoom TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8734
+#EXTINF:-1 tvg-id="Telma HD" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG-BCoSg9o1zBJmNYfUYsQAbRN7IJ302MVLi_mHBlJT1q.png" group-title="MAKEDONIJA", Telma HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33560.ts
 
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax.png" group-title="Film", Cinemax 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8649
+#EXTINF:-1 tvg-id="TV Sonce" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGzl1aRSmtV9q5Kj1GavYyQ1u1yGla9bECkpNFsEaCMQ6.png" group-title="MAKEDONIJA", TV Sonce
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33558.ts
 
-#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax-2.png" group-title="Film", Cinemax 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8650
+#EXTINF:-1 tvg-id="TV Sutel" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG5Nk5ws3mD6haIjY97JUt1vwSXTtAjO9IK0sGE5FWVtM.png" group-title="MAKEDONIJA", TV Sutel
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33557.ts
 
-#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_action_logo.png" group-title="Film", Cinestar Action
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8651
+#EXTINF:-1 tvg-id="TV+" tvg-logo="https://i.ibb.co/SfsdX6q/tvpluss.png" group-title="MAKEDONIJA", TV+
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33561.ts
 
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinestartv_fantasy_logo.png" group-title="Film", CineStar Fantasy
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8652
+#EXTINF:-1 tvg-id="FOX Crime" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omlYaqs0mcYjWX31TyZAiPL.png" group-title="SLOVENIJA", FOX Crime
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33547.ts
 
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Film", CineStar Premiere 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8653
+#EXTINF:-1 tvg-id="FoxLifeSerbia.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olaOiHa4_xQVuyEoMfFFdWX.png" group-title="SLOVENIJA", FOX Life
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33546.ts
 
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="Film", CineStar Premiere 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8654
+#EXTINF:-1 tvg-id="FoxMoviesSerbia.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1on-rEvdH-bueBIIYLxyChmN.png" group-title="SLOVENIJA", FOX Movies
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33545.ts
 
-#EXTINF:-1 tvg-id="cinestar-tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinestar_TV1_logo.png" group-title="Film", CineStar TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8655
+#EXTINF:-1 tvg-id="Golica" tvg-logo="https://golica.si/wp-content/uploads/2019/09/golica_logo_med.png" group-title="SLOVENIJA", Golica
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33543.ts
 
-#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Film", Cinestar TV 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8656
+#EXTINF:-1 tvg-id="History" tvg-logo="noimage.png" group-title="SLOVENIJA", History
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33542.ts
 
-#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/cinestartv_comedy_logo.png" group-title="Film", Cinestar Comedy
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8657
+#EXTINF:-1 tvg-id="Planet TV" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530NGI5EQ2u7b_8AjE1VG2hV2skgPqxf799AcMeATSJ_h-.png" group-title="SLOVENIJA", Planet TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33541.ts
 
-#EXTINF:-1 tvg-id="cinemania" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinemania-logo.png" group-title="Film", Cinemania
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8658
+#EXTINF:-1 tvg-id="POP Brio" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530LTzSgElNvDFT34GC2ApIwi7ZvaVVCjr7OUk7F2w2BXW.png" group-title="SLOVENIJA", POP Brio
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33540.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Film_Klub_RS_logo_v2.png" group-title="Film", Film Klub
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8659
+#EXTINF:-1 tvg-id="POP Kino" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530DgEdHN3efYtmJW9Yjzf97XObobvjD4XLk6vImBvLvOc.png" group-title="SLOVENIJA", POP Kino
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33539.ts
 
-#EXTINF:-1 tvg-id="filmbox-hd" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/filmbox_extra_pl_hd.png" group-title="Film", FilmBox Extra
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8660
+#EXTINF:-1 tvg-id="POP Oto" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgzxcbdR-tEVBczzxqt8lYOpwJwAJsminWP2PdN5vQe28-o2tne-V25dzYgH8yuEyV4rkiV7zviCukoKnls3puQ6kYJUajhGknAJR_pkxlVSdtE8hDDWaENmEqOEIff20qJXHZzS1d9VXCMt0MQluSR8CxF7WscK9umaVYWOKhJrL9srTKNETRk3ji3ioO6-78.png" group-title="SLOVENIJA", POP Oto
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33538.ts
 
-#EXTINF:-1 tvg-id="fox" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/star_channel_hd_logo_concept_2023_by_wbblackofficial_dfpxe56-fullview.png" group-title="Film", Star Channel
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8661
+#EXTINF:-1 tvg-id="POP TV" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530DEkgaJ6CTouZaAPQslwG1-ezomI3Pz7SPqiFUOk7RzO.png" group-title="SLOVENIJA", POP TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33537.ts
 
-#EXTINF:-1 tvg-id="fox-crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/STAR_Crime_RS_logo.png" group-title="Film", Star Crime
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8662
+#EXTINF:-1 tvg-id="SLO 1" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530EQtn1ZADIHiJPkgqQ3eDmq7qn64pSJAR5uUWDRcy69b.png" group-title="SLOVENIJA", SLO 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33536.ts
 
-#EXTINF:-1 tvg-id="fox-life" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/STAR_Life_RS_logo.png" group-title="Film", Star Life
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8663
+#EXTINF:-1 tvg-id="SLO 2" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530A4__EK_b8NjJh1EIlJ2QqihusdbZwevETq_AXbHyyvz.png" group-title="SLOVENIJA", SLO 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33535.ts
 
-#EXTINF:-1 tvg-id="fox-movies" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/star_movies_2021_logo_by_unitedworldmedia_defuv0d-fullview.png" group-title="Film", Star Movies
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8664
+#EXTINF:-1 tvg-id="SLO 3" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530KLy3WQzDP5FfUNFg-XEVWnBsLNJesGIbXp8Y7As35CW.png" group-title="SLOVENIJA", SLO 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33534.ts
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/HBO_logo.png" group-title="Film", HBO Adria
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8666
+#EXTINF:-1 tvg-id="B92.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjUUTEH1v11aNZ8ZbJxbLUbclKeqTnIqdCQ0UlXUkAgeYtfepjrAQo4PvTfp-PW63G6xwyBoQrduK2yKXnSEHz_QXo7_D7dV1y9KV4jHq4bHu_Vwn6pilxt7NhbNNlwySHFB7ONNs-QSjFcekpHS0Qi.png" group-title="SRBIJA", B92
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33745.ts
 
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/HBO2_RO_logo.png" group-title="Film", HBO 2 HD
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8667
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-logo="https://i.ibb.co/LkwfScv/euronews-sr-250x150.png" group-title="SRBIJA", Euronews
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33684.ts
 
-#EXTINF:-1 tvg-id="hbo3" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/HBO3_RO_logo.png" group-title="Film", HBO 3 HD
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8668
+#EXTINF:-1 tvg-id="Happy.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4P4cN0Dx2vjN7rUs845gTETvXe-BubKMiitOrlWTFzJ3w.png" group-title="SRBIJA", Happy TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33742.ts
 
-#EXTINF:-1 tvg-id="HBO GO" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/HBO_RO_logo.png" group-title="Film", HBO GO
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8669
+#EXTINF:-1 tvg-id="K1.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Nx6PjaL0NsQlkYDZBqqks6XRnEe2HpNWX8eQVDcYsVPA.png" group-title="SRBIJA", K1 TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33709.ts
 
-#EXTINF:-1 tvg-id="Nova Cinema 1" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film", Nova Cinema 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8670
+#EXTINF:-1 tvg-id="KCN 1" tvg-logo="http://faucontv.live:80/images/Y_EhZaxGwssDVtP5z8h-lUpYRTrYomieNpzp9i5w_6wC7S339fw7MwTePYlo_2ezi8ry0-wFRSTTuKlEAJuGNg.png" group-title="SRBIJA", KCN 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33705.ts
 
-#EXTINF:-1 tvg-id="Nova Cinema 2" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film", Nova Cinema 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8671
+#EXTINF:-1 tvg-id="KCN 2" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgRC1axFt2WzMeV8i0FGmAYNruZnhFFqefIpaE7QgFNPjUlFv4GtXLEEeOq3zm7Xuh4W2U21Qe2MM_Ct7hf53gCo3a01_uKx5zxXnI8VkS9fAVcesmJPpbx7GDBmNG0ZaKeVc82KjlijRE3GvbBm6Tf.png" group-title="SRBIJA", KCN 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33704.ts
 
-#EXTINF:-1 tvg-id="Nova Cinema 4" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film", Nova Cinema 4
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8672
+#EXTINF:-1 tvg-id="KCN 3" tvg-logo="http://faucontv.live:80/images/Y_EhZaxGwssDVtP5z8h-lUpYRTrYomieNpzp9i5w_6y-ZDyKC423XDwF-6seM9NP0b8XMtv2-UjtloFSOqh8pA.png" group-title="SRBIJA", KCN 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33703.ts
 
-#EXTINF:-1 tvg-id="superstar-tv" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Superstar_2_RS_logo_v2.png" group-title="Film", SuperStar TEST
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8673
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4NQQtE-qhK_tl1chDXFqyvCaCawK7KS7ugLiNS0T7zgDQ.png" group-title="SRBIJA", Kurir TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33708.ts
 
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/25.%20KINO%20TV.png" group-title="Film", Kino TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8674
+#EXTINF:-1 tvg-id="Mlava Tv" tvg-logo="http://logo.smart-iptvpro.info/241.sr.png" group-title="SRBIJA", Mlava Tv
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33682.ts
 
-#EXTINF:-1 tvg-id="klasiktv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/KlasikTV_logo.png" group-title="Film", Klasik Tv
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8675
+#EXTINF:-1 tvg-id="N1" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4OqT_cXj6CyvG_d736zDudNNr4PYK9BxgKXqX92tFDRqQ.png" group-title="SRBIJA", N1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33744.ts
 
-#EXTINF:-1 tvg-id="m1-film" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/M1_FILM_HR_logo.png" group-title="Film", M1 Film
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8676
+#EXTINF:-1 tvg-id="N1 (B)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/n1-logo.png" group-title="SRBIJA", N1 (B)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33743.ts
 
-#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pickbox_logo_new.png" group-title="Film", PickBox TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8677
+#EXTINF:-1 tvg-id="Nova S" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4OYRztGN1rbM99PAhS2lc6OlZBbHxIkQG0JWttbt4n6aw.png" group-title="SRBIJA", Nova S
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33702.ts
 
-#EXTINF:-1 tvg-id="scifi" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/scifi_adria_logo.jpg" group-title="Film", SciFi
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8678
+#EXTINF:-1 tvg-id="Pink 1" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okEN17OH3i1MOQHLJ2AmRH7.png" group-title="SRBIJA", Pink 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33740.ts
 
-#EXTINF:-1 tvg-id="amc" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/amc_logo_2016.png" group-title="Film", AMC
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8679
+#EXTINF:-1 tvg-id="Pink 2" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TG-6dNDbrYw8s3f14tTSq6q_WW5Z-6cT1aTPh6UvGc8J.png" group-title="SRBIJA", Pink 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33739.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/axn-logo.png" group-title="Film", AXN
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8680
+#EXTINF:-1 tvg-id="Pink 3" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omp_N-Np1FuG6BlHPd9Cn_S.png" group-title="SRBIJA", Pink 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33738.ts
 
-#EXTINF:-1 tvg-id="axn-spin" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/axn_spin_logo.png" group-title="Film", AXN Spin
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8681
+#EXTINF:-1 tvg-id="PinkAction.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omKE06Qb0Hu1ZgImmKlG6OP.png" group-title="SRBIJA", Pink Action
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33737.ts
 
-#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/comedy-centra-extra-logo.png" group-title="Film", Comedy Central Extra
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8683
+#EXTINF:-1 tvg-id="PinkClassic.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ok5r4c06ELAaEMAAfzrhPkM.png" group-title="SRBIJA", Pink Classic
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33736.ts
 
-#EXTINF:-1 tvg-id="tv1000-balkan" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/viasat-tv-1000.png" group-title="Film", TV 1000
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8684
+#EXTINF:-1 tvg-id="PinkComedy.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olXcIzEwOZlw9hEWQlJ-U6w.png" group-title="SRBIJA", Pink Comedy
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33735.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8685
+#EXTINF:-1 tvg-id="PinkCrimeMystery.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okKml6G4inOZ-FEx5wshKFQ.png" group-title="SRBIJA", Pink Crime & Mystery
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33734.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 2" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8686
+#EXTINF:-1 tvg-id="PinkExtra.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onndohateADkXu33Y3V6rEM.png" group-title="SRBIJA", Pink Extra
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33733.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 3" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8687
+#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olao9Hr6nk51Tk-fOYexxbk.png" group-title="SRBIJA", Pink Family
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33732.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 4" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 4
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8688
+#EXTINF:-1 tvg-id="PinkFashion.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omlW8PgYmE6k0HfW6UxN5xS.png" group-title="SRBIJA", Pink Fashion
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33731.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 5" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 5
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8689
+#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ok5evTsT5rBYlJTsXad9x5A.png" group-title="SRBIJA", Pink Film
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33730.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 6" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 6
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8690
+#EXTINF:-1 tvg-id="Pink HaHa" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olHrLXjxPEp8bCNHjovi2PT.png" group-title="SRBIJA", Pink HaHa
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33729.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 8" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 8
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8692
+#EXTINF:-1 tvg-id="PinkHorror.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omk-DwTMzHx5wXQDD_fQIF9.png" group-title="SRBIJA", Pink Horror
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33728.ts
 
-#EXTINF:-1 tvg-id="CroMax Select 9" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select 9
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8693
+#EXTINF:-1 tvg-id="PinkKoncert.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRiXZm8G2FlNbrzlofgsuIng.png" group-title="SRBIJA", Pink Koncert
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33727.ts
 
-#EXTINF:-1 tvg-id="CroMax Select Gold" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRO%20MAX%20SELECT.jpg" group-title="Film", CroMax Select Gold
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8697
+#EXTINF:-1 tvg-id="PinkKuvar.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onRupDgQWjTsl-JTOdIuAtv.png" group-title="SRBIJA", Pink Kuvar
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33726.ts
 
-#EXTINF:-1 tvg-id="Zadruga 1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/PINK%20ZADRUGA%20-%20Copy.png" group-title="Pink", Zadruga 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8736
+#EXTINF:-1 tvg-id="Pink LoL" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1oln111zl9d1XqUS2bG1j6qm.png" group-title="SRBIJA", Pink LoL
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33725.ts
 
-#EXTINF:-1 tvg-id="Zadruga 2" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/PINK%20ZADRUGA%20-%20Copy.png" group-title="Pink", Zadruga 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8737
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1oncDgYbDrfn1Fd_lnHI5YvZ.png" group-title="SRBIJA", Pink Movies
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33724.ts
 
-#EXTINF:-1 tvg-id="Zadruga 3" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/PINK%20ZADRUGA%20-%20Copy.png" group-title="Pink", Zadruga 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8738
+#EXTINF:-1 tvg-id="Pink N Roll" tvg-logo="http://logo.smart-iptvpro.info/193.sr.png" group-title="SRBIJA", Pink N Roll
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33723.ts
 
-#EXTINF:-1 tvg-id="Zadruga 4" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/PINK%20ZADRUGA%20-%20Copy.png" group-title="Pink", Zadruga 4
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8739
+#EXTINF:-1 tvg-id="PinkPedia.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onUkmMtcH1CBd3lYdTxmzQl.png" group-title="SRBIJA", Pink Pedia
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33722.ts
 
-#EXTINF:-1 tvg-id="pink-action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-action-logo.png" group-title="Pink", Pink Action
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8740
+#EXTINF:-1 tvg-id="PinkPlus.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ok1xTB5L0P5IG_qyX9dA52-.png" group-title="SRBIJA", Pink Plus
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33721.ts
 
-#EXTINF:-1 tvg-id="pink-comedy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkComedy.png" group-title="Pink", Pink Comedy
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8741
+#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYZYdLEvSGPcMDjAeHvT8sty7Ju_KFXrYE038MR6Uj4erA.png" group-title="SRBIJA", Pink Premium
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33720.ts
 
-#EXTINF:-1 tvg-id="pink-action-3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Crime_Mistery_logo.png" group-title="Pink", Pink Crime & Mystery
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8742
+#EXTINF:-1 tvg-id="PinkReality.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1on3p6h16-fcTNQQde3vjko7.png" group-title="SRBIJA", Pink Reality
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33719.ts
 
-#EXTINF:-1 tvg-id="pink-film" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-film-logo.png" group-title="Pink", Pink Film
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8743
+#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okhjqicYEepbUmhqaSBDd9W.png" group-title="SRBIJA", Pink Romance
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33718.ts
 
-#EXTINF:-1 tvg-id="pink-folk" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkFolk1_logo.png" group-title="Pink", Pink Folk 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8744
+#EXTINF:-1 tvg-id="PinkSciFiFantasy.rs" tvg-logo="http://logo.smart-iptvpro.info/163.sr.png" group-title="SRBIJA", Pink Sci Fi & Fantasy
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33717.ts
 
-#EXTINF:-1 tvg-id="pink-folk-2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkFolk2_logo.png" group-title="Pink", Pink Folk 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8745
+#EXTINF:-1 tvg-id="PinkSerije.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ondxgmh2xknVOSljybX0V5M.png" group-title="SRBIJA", Pink Serije
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33716.ts
 
-#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/35.%20PINK%20HAHA.png" group-title="Pink", PINK HA HA
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8746
+#EXTINF:-1 tvg-id="PinkSoap.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okNtaFjSRHhLddV8TWPDrNZ.png" group-title="SRBIJA", Pink Soap
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33715.ts
 
-#EXTINF:-1 tvg-id="pink-kids" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-kids-logo.png" group-title="Pink", Pink Kids
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8747
+#EXTINF:-1 tvg-id="PinkThriller.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olscQAAFL5z265tY1t2utka.png" group-title="SRBIJA", Pink Thriller
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33714.ts
 
-#EXTINF:-1 tvg-id="pink-movies" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-movies-logo.png" group-title="Pink", Pink Movies
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8748
+#EXTINF:-1 tvg-id="PinkWestern.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omhEUQuILL2zWxOHVax2lPw.png" group-title="SRBIJA", Pink Western
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33713.ts
 
-#EXTINF:-1 tvg-id="pink-music" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkMusic_logo.png" group-title="Pink", Pink Music 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8749
+#EXTINF:-1 tvg-id="PinkWorld.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WG2YXBkYJQ4uSphbAwmtf261VMB2FRtQihP410iPiWShQ.png" group-title="SRBIJA", Pink World
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33712.ts
 
-#EXTINF:-1 tvg-id="pink-music-2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkMusic2_logo.png" group-title="Pink", Pink Music 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8750
+#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omtPEWa3mXLhI4WOAyVmB3L.png" group-title="SRBIJA", Pink World Cinema
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33711.ts
 
-#EXTINF:-1 tvg-id="pink-plus" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkPlus.png" group-title="Pink", Pink Plus
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8751
+#EXTINF:-1 tvg-id="PinkZabava.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1oknzGvTxq5loaI7HXfTiLKG.png" group-title="SRBIJA", Pink Zabava
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33710.ts
 
-#EXTINF:-1 tvg-id="pink-premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkPremium.png" group-title="Pink", Pink Premium
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8752
+#EXTINF:-1 tvg-id="PrvaKick.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omZFChFErUivCIRPpr0tUUJ.png" group-title="SRBIJA", Prva Kick
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33701.ts
 
-#EXTINF:-1 tvg-id="pink-reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Pink", Pink Reality
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8753
+#EXTINF:-1 tvg-id="PrvaMax.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okr4omRtU2VmCL9mCS5CoKR.png" group-title="SRBIJA", Prva Max
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33700.ts
 
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Romance_logo.png" group-title="Pink", Pink Romance
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8754
+#EXTINF:-1 tvg-id="Prva Plus" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olbpWXKp83SJYWVDcxQsZl_.png" group-title="SRBIJA", Prva Plus
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33699.ts
 
-#EXTINF:-1 tvg-id="pink-horror" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkHorror.png" group-title="Pink", Pink Horror
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8755
+#EXTINF:-1 tvg-id="Prva TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onHQB7vI_SW1FUQy5jvG5n2.png" group-title="SRBIJA", Prva TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33746.ts
 
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_SciFi_Fantasy_logo.png" group-title="Pink", Pink Sci Fi & Fantasy
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8756
+#EXTINF:-1 tvg-id="Prva World" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omBY5OG2hn9E9WgYc2aBenO.png" group-title="SRBIJA", Prva World
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33698.ts
 
-#EXTINF:-1 tvg-id="pink-action-2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Thriller_logo.png" group-title="Pink", Pink Thriler
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8757
+#EXTINF:-1 tvg-id="Reality Parovi" tvg-logo="http://logo.smart-iptvpro.info/147.sr.png" group-title="SRBIJA", Reality Parovi
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33741.ts
 
-#EXTINF:-1 tvg-id="pink-serije" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Serije_logo.png" group-title="Pink", Pink Serije
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8758
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-logo="http://faucontv.live:80/images/VsbfhsmEnQ3OVcjOsrgrnG1BhiP8SOPTIpPn-RZ8sLU.png" group-title="SRBIJA", Red TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33697.ts
 
-#EXTINF:-1 tvg-id="pink-show" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkShow.png" group-title="Pink", Pink Show
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8759
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WG3_dnS2FxaKHR9vd8ADvGgcy1qBuF__WKqgtKAUjZCgg.png" group-title="SRBIJA", RTS 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33749.ts
 
-#EXTINF:-1 tvg-id="pink-soap" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkSoap_logo2.png" group-title="Pink", Pink Soap
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8760
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WG3_dnS2FxaKHR9vd8ADvGgyy-fRgIZlhcjOA6Q8_zucQ.png" group-title="SRBIJA", RTS 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33748.ts
 
-#EXTINF:-1 tvg-id="pink-western" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/41.%20PINK%20WESTERN.png" group-title="Pink", Pink Western
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8761
+#EXTINF:-1 tvg-id="RTS3.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ok_NY1nQglvQIDphTpzXmIp.png" group-title="SRBIJA", RTS 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33747.ts
 
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkWorldCinema_logo.png" group-title="Pink", Pink World Cinema
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8762
+#EXTINF:-1 tvg-id="RTSDrama.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1om4l-JeXzf_-9aE7_uxqEkc.png" group-title="SRBIJA", RTS Drama
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33696.ts
 
-#EXTINF:-1 tvg-id="pink-zabava" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkZabava_logo.png" group-title="Pink", Pink Zabava
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8763
+#EXTINF:-1 tvg-id="RTSKolo.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1om-c6Db9-PMNOF8-yj6RrLB.png" group-title="SRBIJA", RTS Kolo
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33695.ts
 
-#EXTINF:-1 tvg-id="PINK Bravo" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bravoMusic_logo.png" group-title="Pink", PINK Bravo
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8764
+#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WFO75bACLAMRB37GaS1fOiCcsVYuzanAa92ETvI56rzdg.png" group-title="SRBIJA", RTS Muzika
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33694.ts
 
-#EXTINF:-1 tvg-id="pink-hits" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkHits_logo.png" group-title="Pink", PINK Hits 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8765
+#EXTINF:-1 tvg-id="RTS Svet" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olfvGhZ07pEU6C6_x4mVpRk.png" group-title="SRBIJA", RTS Svet
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33693.ts
 
-#EXTINF:-1 tvg-id="pink-kuvar" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Kuvar_logo.png" group-title="Pink", Pink Kuvar
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8766
+#EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WEOPxLFgS-XtRMIqfdpYDfA50IG2o61Z_SxnCkE6KZbtQ.png" group-title="SRBIJA", RTS Trezor
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33692.ts
 
-#EXTINF:-1 tvg-id="pink-classic" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-classic-logo.png" group-title="Pink", Pink Classic
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8767
+#EXTINF:-1 tvg-id="RTSZivot.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olBRCst7FzQ4xyBcSTXIVfl.png" group-title="SRBIJA", RTS Zivot
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33691.ts
 
-#EXTINF:-1 tvg-id="pink-extra" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkExtra.png" group-title="Pink", Pink Extra
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8768
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onvM3DQWEMmXCgDZ6I5Zxn0.png" group-title="SRBIJA", RTV 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33690.ts
 
-#EXTINF:-1 tvg-id="pink-family" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-family-logo.png" group-title="Pink", Pink Family
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8769
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-logo="http://logo.smart-iptvpro.info/129.sr.png" group-title="SRBIJA", RTV 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33689.ts
 
-#EXTINF:-1 tvg-id="pink-koncert" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkKoncert_logo.png" group-title="Pink", Pink Koncert
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8770
+#EXTINF:-1 tvg-id="RTV Mir" tvg-logo="http://logo.smart-iptvpro.info/140.sr.png" group-title="SRBIJA", RTV Mir
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33688.ts
 
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkSuperKids_logo.png" group-title="Pink", Pink Super Kids
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8771
+#EXTINF:-1 tvg-id="RTV Novi Pazar" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1om9aOJRstcU7DpH-ARr4VIv.png" group-title="SRBIJA", RTV Novi Pazar
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33687.ts
 
-#EXTINF:-1 tvg-id="pink-lol" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LOL.png" group-title="Pink", Pink LOL
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8772
+#EXTINF:-1 tvg-id="SOS" tvg-logo="http://logo.smart-iptvpro.info/122.sr.png" group-title="SRBIJA", SOS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33686.ts
 
-#EXTINF:-1 tvg-id="nova-sport-rs" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Nova%20sport.jpg" group-title="Sport", Nova Sport (test)
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8591
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1on2qYpKiaU6ktdM8e3dwmeA.png" group-title="SRBIJA", Studio B
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33685.ts
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport", Arena Sport 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8592
+#EXTINF:-1 tvg-id="TanjugTV.rs" tvg-logo="https://www.cenzolovka.rs/wp-content/uploads/2014/08/tanjug-logo.png" group-title="SRBIJA", Tanjug
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33706.ts
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport", Arena Sport 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8593
+#EXTINF:-1 tvg-id="TVBelleAmie.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYY_DJB8LK1EfYmcNL4AEQPrRWo3R4yMKcFJMGZljh8nHg.png" group-title="SRBIJA", TV Belle Amie
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33681.ts
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport", Arena Sport 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8594
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ontE07st3yeHC51ha2v1WBm.png" group-title="SRBIJA", TV Hram
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33680.ts
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport", Arena Sport 4
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8595
+#EXTINF:-1 tvg-id="TV Jefimija" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ol03GCRqm0GuvYOSErUiADc.jpg" group-title="SRBIJA", TV Jefimija
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33679.ts
 
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport", Arena Sport 5
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8596
+#EXTINF:-1 tvg-id="TVKrusevac.rs" tvg-logo="http://logo.smart-iptvpro.info/247.sr.png" group-title="SRBIJA", TV Krusevac
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33678.ts
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport", Arena Sport 1 Premium
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8597
+#EXTINF:-1 tvg-id="101TV.rs" tvg-logo="https://i.ibb.co/SsV735q/tv-palma-plus-176x176.png" group-title="SRBIJA", TV Palma Plus Jagodina
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33676.ts
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport", Arena Sport 2 Premium
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8598
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRgFZ5aHqiMGe26EJ0SCyHQ1.png" group-title="SRBIJA", TV Pirot
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33675.ts
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport", Arena Sport 3 Premium
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8599
+#EXTINF:-1 tvg-id="Zadruga1.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onDRYEH2hz3Manhai6F0d07.png" group-title="SRBIJA", ZADRUGA 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33673.ts
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport", Arena Sport 1 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8601
+#EXTINF:-1 tvg-id="Zadruga2.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ol_mZiWRenfX5ejmq81jdtw.png" group-title="SRBIJA", ZADRUGA 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33672.ts
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport", Arena Sport 2 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8602
+#EXTINF:-1 tvg-id="Zadruga3.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okyvzWTvw62ayGV7zMvqvLN.png" group-title="SRBIJA", ZADRUGA 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33671.ts
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport", Arena Sport 3 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8603
-
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport", Arena Sport 4 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8604
-
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport", Arena Sport 5 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8605
-
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/arena6_logo.png" group-title="Sport", Arena Sport 6 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8606
-
-#EXTINF:-1 tvg-id="dazn-1-de" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/DAZN_1_DE_logo.png" group-title="Sport", Dazn 1 Bar
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8608
-
-#EXTINF:-1 tvg-id="dazn-2-de" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/DAZN_2_DE_logo.png" group-title="Sport", Dazn 2 Bar
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8609
-
-#EXTINF:-1 tvg-id="bt-sport-1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_GB_logo.png" group-title="Sport", BT Sport 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8610
-
-#EXTINF:-1 tvg-id="bt-sport-2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_GB_logo.png" group-title="Sport", BT Sport 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8611
-
-#EXTINF:-1 tvg-id="bt-sport-europe" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_3_GB_logo.png" group-title="Sport", BT Sport 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8612
-
-#EXTINF:-1 tvg-id="Fox Sports 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport", Fox Sports 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8613
-
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport", Fox Sports 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8614
-
-#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png" group-title="Sport", Fox Sports 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8615
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport", EuroSport 2 HD
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8617
-
-#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/NBA_TV.png" group-title="Sport", NBA TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8618
-
-#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Zvezda%20TV.png" group-title="Sport", Zvezda TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8619
-
-#EXTINF:-1 tvg-id="Partizan TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Partizan%20TV.png" group-title="Sport", Partizan TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8620
-
-#EXTINF:-1 tvg-id="fightchannel" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkFightNetwork_logo.png" group-title="Sport", Fight Network
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8621
-
-#EXTINF:-1 tvg-id="UFC/FightBox" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Fight_Channel_World_logo.png" group-title="Sport", UFC/FightBox
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8622
-
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hntv_logo.png" group-title="Sport", HNTV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8623
-
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/15.%20KREATOR%20TV.png" group-title="Sport", Kreator TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8624
-
-#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Lov_i_ribolov_logo.png" group-title="Sport", Lov i Ribolov
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8625
-
-#EXTINF:-1 tvg-id="Sport Digital HD" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Sport%20Digital.jpg" group-title="Sport", Sport Digital HD
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8626
-
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport", Sport Klub 1 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8627
-
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="Sport", Sport Klub 2 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8628
-
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport", Sport Klub 3 HR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8629
-
-#EXTINF:-1 tvg-id="sport-klub" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport", Sport Klub 1 SR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8630
-
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK2_RS_logo.png" group-title="Sport", Sport Klub 2 SR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8631
-
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK3_HR_logo.png" group-title="Sport", Sport Klub 3 SR
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8632
-
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK4_HR_logo.png" group-title="Sport", Sport Klub 4
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8633
-
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK5_HR_logo.png" group-title="Sport", Sport Klub 5
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8634
-
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK6_HR_logo.png" group-title="Sport", Sport Klub 6
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8635
-
-#EXTINF:-1 tvg-id="sport-klub-7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK7_RS_logo.png" group-title="Sport", Sport Klub 7
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8636
-
-#EXTINF:-1 tvg-id="sport-klub-8" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK8_RS_logo.png" group-title="Sport", Sport Klub 8
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8637
-
-#EXTINF:-1 tvg-id="sport-klub-9" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK9_RS_logo.png" group-title="Sport", Sport Klub 9
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8638
-
-#EXTINF:-1 tvg-id="sport-klub-10" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SK10_RS_logo.png" group-title="Sport", Sport Klub 10
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8639
-
-#EXTINF:-1 tvg-id="Sport Klub Start" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Sport%20klub%20start.jpg" group-title="Sport", Sport Klub Start
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8640
-
-#EXTINF:-1 tvg-id="real-madrid-tv" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/23.%20real%20madrid%20tv.png" group-title="Sport", Real Madrid TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8641
-
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/24.%20barca%20tv.png" group-title="Sport", Barca TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8642
-
-#EXTINF:-1 tvg-id="Bayern TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/25.%20bayern%20tv.png" group-title="Sport", Bayern TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8643
-
-#EXTINF:-1 tvg-id="Sport 1 HD" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/26.%20SPORT%201%20ok.png" group-title="Sport", Sport 1 HD
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8644
-
-#EXTINF:-1 tvg-id="Sportska TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/27.%20sportska%20tv.png" group-title="Sport", Sportska TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8645
-
-#EXTINF:-1 tvg-id="sos" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SOS_RS_logo.png" group-title="Sport", SOS
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8646
-
-#EXTINF:-1 tvg-id="supertennis-hd" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/29.%20SUPER%20TENNIS%20OK.png" group-title="Sport", Super Tennis
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8647
-
-#EXTINF:-1 tvg-id="Arena Sport 10" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Sport", Arena Sport 10
-http://bntvs.com:2052/htechniker/zPSddcp7C4/22957
-
-#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="Sport", Arena Sport 9
-http://bntvs.com:2052/htechniker/zPSddcp7C4/22956
-
-#EXTINF:-1 tvg-id="Arena Sport 8" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="Sport", Arena Sport 8
-http://bntvs.com:2052/htechniker/zPSddcp7C4/22955
-
-#EXTINF:-1 tvg-id="Arena Sport 7" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport", Arena Sport 7
-http://bntvs.com:2052/htechniker/zPSddcp7C4/22954
-
-#EXTINF:-1 tvg-id="Max Sport 2 HR (TEST)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/maxsport-1-BG-logo.png" group-title="Sport", Max Sport 2 HR (TEST)
+#EXTINF:-1 tvg-id="Max Sport 2 HR (TEST)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/maxsport-1-BG-logo.png" group-title="SPORT", Max Sport 2 HR (TEST)
 http://bntvs.com:2052/htechniker/zPSddcp7C4/24180
 
-#EXTINF:-1 tvg-id="MAX Sport 1 HR (TEST)" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/maxsport-1-BG-logo.png" group-title="Sport", MAX Sport 1 HR (TEST)
+#EXTINF:-1 tvg-id="MAX Sport 1 HR (TEST)" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/maxsport-1-BG-logo.png" group-title="SPORT", MAX Sport 1 HR (TEST)
 http://bntvs.com:2052/htechniker/zPSddcp7C4/23998
 
-#EXTINF:-1 tvg-id="VH1 Classic TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/vh1-classic-logo.png" group-title="Muzika", VH1 Classic TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8682
+#EXTINF:-1 tvg-id="ArenaEsport.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4MnzmVJdUmItQOH5PeCCvap7B_bvaFQa16vgxVke_DoV_jfE1vDv1n9-9Ytqv3Gw54.png" group-title="SPORT", Arena ESport (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33375.ts
 
-#EXTINF:-1 tvg-id="dmsat" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/dm-sat-logo.png" group-title="Muzika", DM Sat
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8699
+#EXTINF:-1 tvg-id="ArenaFight.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGyJGxO2yHOkwmjHPNLpE41_R6pvZDrwLcBr0hyGpKa5o.png" group-title="SPORT", Arena Fight (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33374.ts
 
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Grand_TV_logo.png" group-title="Muzika", Grand 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8700
+#EXTINF:-1 tvg-id="Arena Sport (BIH)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo.png" group-title="SPORT", Arena Sport (BIH)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33369.ts
 
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Grand_TV_logo.png" group-title="Muzika", Grand Narodna TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8701
+#EXTINF:-1 tvg-id="Arena Sport 1 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGC8BcyazGwKVhRXQ0WwaalNeKtor17HTq7qruPdT4T9M.png" group-title="SPORT", Arena Sport 1 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33360.ts
 
-#EXTINF:-1 tvg-id="izvorna-tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/IzvornaTV_logo.png" group-title="Muzika", Izvorna TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8702
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGbXkAnWve8M-mZH0c6EDNWhtvmYMsC0kHZHpIdCePJsU.png" group-title="SPORT", Arena Sport 1 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33368.ts
 
-#EXTINF:-1 tvg-id="jugoton-tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/jugoton-tv-logo.png" group-title="Muzika", Jugoton TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8703
+#EXTINF:-1 tvg-id="Arena Sport 10 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGRVJ2egEW1XhhbzYMwMA7yYV-AGC6bJOX4AnKirnSfV0.png" group-title="SPORT", Arena Sport 10 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33351.ts
 
-#EXTINF:-1 tvg-id="K::CN 1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Kopernikus.jfif" group-title="Muzika", K::CN 1
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8704
+#EXTINF:-1 tvg-id="ArenaSport1x2.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGbXKYm2yrrd7NSnUkJuI2y-x_-X5Dw0NMf9XBHiMrkM4.png" group-title="SPORT", Arena Sport 1x2 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33370.ts
 
-#EXTINF:-1 tvg-id="k-cn-music" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Kopernikus.jfif" group-title="Muzika", K::CN 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8705
+#EXTINF:-1 tvg-id="Arena Sport 2 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGIi3FzwXQ31TrlDSJ2AooGoZS23B2S7o2A5Y51YqxSdU.png" group-title="SPORT", Arena Sport 2 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33359.ts
 
-#EXTINF:-1 tvg-id="K::CN 3" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Kopernikus.jfif" group-title="Muzika", K::CN 3
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8706
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjUUTEH1v11aNZ8ZbJxbLUbclKeqTnIqdCQ0UlXUkAgeYtfepjrAQo4PvTfp-PW63HWIAZj2-D2ActxrTyUeZII1Fg-8bWDvK5AI7lvD23s6oYMzeHgCnmvKJ6kkYkUX2n2oBokObza9b3wfecJkO7rBzX6jo8IQ8SzEOEneX6Rgw.png" group-title="SPORT", Arena Sport 2 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33367.ts
 
-#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sevdahtv-250x187-logo.png" group-title="Muzika", Sevdah TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8707
+#EXTINF:-1 tvg-id="Arena Sport 3 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGFwqgghp3qHOm2wPxp06eHt-DC9ltlGji2B3EJ6i-BGI.png" group-title="SPORT", Arena Sport 3 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33358.ts
 
-#EXTINF:-1 tvg-id="Moj Kanal BiH" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/12.%20MOJ%20KANAL%20OK.png" group-title="Muzika", Moj Kanal BiH
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8708
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjUUTEH1v11aNZ8ZbJxbLUbclKeqTnIqdCQ0UlXUkAgeYtfepjrAQo4PvTfp-PW63HWIAZj2-D2ActxrTyUeZIIte1jsXNFuV-Rh2AFDmIZHVlGh3aTk9ex4OpiCtCOioZT51xDzXaviDJXMq0VmS7T4TUvLKg-vA95NBmynCXiCQ.png" group-title="SPORT", Arena Sport 3 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33366.ts
 
-#EXTINF:-1 tvg-id="MTV Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-logo.png" group-title="Muzika", MTV Adria
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8709
+#EXTINF:-1 tvg-id="Arena Sport 4 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGv4PYhz3vi9TZfl1xCX06XvVZJi7hDheeXccI0btH_E4.png" group-title="SPORT", Arena Sport 4 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33357.ts
 
-#EXTINF:-1 tvg-id="mtv-base" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-base-logo.png" group-title="Muzika", MTV Base
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8710
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG8SYrjMoL3JK6C4ts7PWdASv5c5CDM_j_CLKGq4oVmnA.png" group-title="SPORT", Arena Sport 4 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33365.ts
 
-#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Narodna_TV_RS_logo.png" group-title="Muzika", Narodna TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8711
+#EXTINF:-1 tvg-id="Arena Sport 5 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG9r0AsyUVNu3121MtFjYxxdhYpapX5vwUgnb9oNf9-t8.png" group-title="SPORT", Arena Sport 5 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33356.ts
 
-#EXTINF:-1 tvg-id="mtv-hits" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/MTV_Hits_FR_logo.png" group-title="Muzika", MTV Hits
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8712
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjUUTEH1v11aNZ8ZbJxbLUbclKeqTnIqdCQ0UlXUkAgeYtfepjrAQo4PvTfp-PW63HWIAZj2-D2ActxrTyUeZIIGkxvyWsYlePNvE5pefprJHxbezAX_iAkc2ZHGvEsQ0JvG7tqsrKmpfXf7BSextbqB_bAf8V-Ih9p2T6o1T9OhQ.png" group-title="SPORT", Arena Sport 5 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33364.ts
 
-#EXTINF:-1 tvg-id="balkanika" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/balkanika-logo.png" group-title="Muzika", Balkanika TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8713
+#EXTINF:-1 tvg-id="Arena Sport 6 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGWyZSoyevPA8uFO5rpoBl2D4mo32xZTS73WVZweXGhiQ.png" group-title="SPORT", Arena Sport 6 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33355.ts
 
-#EXTINF:-1 tvg-id="Planeta TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Planeta_TV_BG_logo.png" group-title="Muzika", Planeta TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8714
+#EXTINF:-1 tvg-id="ArenaSport6Croatia.hr" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGQRH-Gb29QLNkmG3hw1Y9z30Z5wsx-CTmtjpGpDjBAuc.png" group-title="SPORT", Arena Sport 6 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33363.ts
 
-#EXTINF:-1 tvg-id="idj-world-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/idj_tv_logo.png" group-title="Muzika", IDJ TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8715
+#EXTINF:-1 tvg-id="Arena Sport 7 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG60osn5t0u32V3NM3ftppjNI0IeQFtuPOgJFUy-_gaYA.png" group-title="SPORT", Arena Sport 7 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33354.ts
 
-#EXTINF:-1 tvg-id="tv-duga-sat" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png" group-title="Muzika", Duga TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8716
+#EXTINF:-1 tvg-id="ArenaSport7Croatia.hr" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGy1TGgfpBSptvCRlgP81A2A9Zt8g_BojveQEsJW6bR2k.png" group-title="SPORT", Arena Sport 7 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33362.ts
 
-#EXTINF:-1 tvg-id="Radio BIG" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Big.jpg" group-title="Radio Stanice", Radio BIG
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23483
+#EXTINF:-1 tvg-id="Arena Sport 8 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG02hlQsturFgx3ylI0L31bJ6w-uyiGzhfhYpxWoViIpY.png" group-title="SPORT", Arena Sport 8 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33353.ts
 
-#EXTINF:-1 tvg-id="Radio Bobar" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Bobar.jpg" group-title="Radio Stanice", Radio Bobar
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23484
+#EXTINF:-1 tvg-id="ArenaSport8Croatia.hr" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGGkGN5m9-CtanMf0YFiYfpM2A9T4UBkEjNIpi6QJXkes.png" group-title="SPORT", Arena Sport 8 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33361.ts
 
-#EXTINF:-1 tvg-id="Radio Crne Gore" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/CG.png" group-title="Radio Stanice", Radio Crne Gore
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23485
+#EXTINF:-1 tvg-id="Arena Sport 9 (CRO)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGGAz-Ka8jQ2KTO03U9Adl5JFos180sCCBIxIxCtTWtvc.png" group-title="SPORT", Arena Sport 9 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33352.ts
 
-#EXTINF:-1 tvg-id="Radio Carsija" tvg-logo="http://51.75.153.29:25461/images/16d25e0c50574647b38d469ad5e7d44b.jpg" group-title="Radio Stanice", Radio Carsija
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23486
+#EXTINF:-1 tvg-id="Arena Sport Premium 1 (SRB)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG1R2g3ZTEV4rQxGRaaIhUVyXLNTgGTr9a4jgV025L8xo.png" group-title="SPORT", Arena Sport Premium 1 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33373.ts
 
-#EXTINF:-1 tvg-id="Radio DAS" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Da%c5%a1.jpg" group-title="Radio Stanice", Radio DAS
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23487
+#EXTINF:-1 tvg-id="Arena Sport Premium 2 (SRB)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGawm9Fs_OpO59jDlt0dJjsexBCqM2BJvJJ2-QiQ2vma0.png" group-title="SPORT", Arena Sport Premium 2 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33372.ts
 
-#EXTINF:-1 tvg-id="Radio DZUNGLA" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Dzungla.jpg" group-title="Radio Stanice", Radio DZUNGLA
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23488
+#EXTINF:-1 tvg-id="Arena Sport Premium 3 (SRB)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGzL7y7blbQRfkgxe_aFLTVNZ7YUdEjWU7glqO_bJj0Vw.png" group-title="SPORT", Arena Sport Premium 3 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33371.ts
 
-#EXTINF:-1 tvg-id="Radio Fortuna" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Fortuna%20Skopje.png" group-title="Radio Stanice", Radio Fortuna
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23489
+#EXTINF:-1 tvg-id="EuroSport 1 (SRB)" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TJVridEGLfsX6q5BDQpMQDkyRXceMjCi6xLZAH2FQuyB37g2K4iBKpqoXo4ejBat5A.png" group-title="SPORT", EuroSport 1 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33350.ts
 
-#EXTINF:-1 tvg-id="Radio Zupanja" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Hrvatski%20radio%20Zupanja.png" group-title="Radio Stanice", Radio Zupanja
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23490
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhpYvgqkDO9TlzVRXq1UeYH2zo0wU95ypriGPFrUpypsXWaSGwUtn9mOcarEvSnV_uufbpicBbaLiKW3VMt2aciQNkxNsTnyHc2fcQHozAinrZODdHGWxUq9tSS03QZntFShdMCHcvaO4UXz-PAPiEX.png" group-title="SPORT", EuroSport 2 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33349.ts
 
-#EXTINF:-1 tvg-id="Radio Istra" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Istra.png" group-title="Radio Stanice", Radio Istra
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23491
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://cdn-0.tvprofil.com/cdn/250x250/4/img/kanali-logo/PinkFightNetwork_logo.png" group-title="SPORT", Fight Network
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33347.ts
 
-#EXTINF:-1 tvg-id="Radio Kalman" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Kalman.jpg" group-title="Radio Stanice", Radio Kalman
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23492
+#EXTINF:-1 tvg-id="Moja TV Premier Liga (BIH)" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TJVridEGLfsX6q5BDQpMQDlb4Yp56y5eIECm_Wj-veV6.png" group-title="SPORT", Moja TV Premier Liga (BIH)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33346.ts
 
-#EXTINF:-1 tvg-id="Radio Kameleon" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Kameleon.png" group-title="Radio Stanice", Radio Kameleon
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23493
+#EXTINF:-1 tvg-id="Nova Sport (BIH)" tvg-logo="http://rexshx.com:25461/picons/sport/novasport.png" group-title="SPORT", Nova Sport (BIH)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33345.ts
 
-#EXTINF:-1 tvg-id="Radio Kosava Folk" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Kosava%20Folk%202.png" group-title="Radio Stanice", Radio Kosava Folk
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23494
+#EXTINF:-1 tvg-id="Nova Sport (SRB)" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhpYvgqkDO9TlzVRXq1UeYH2zo0wU95ypriGPFrUpypsXWaSGwUtn9mOcarEvSnV_sVDR0XtW7X3Pgb5VRmb5S-zy632sYuYbYlF7LacxMu8lttIV15-Ux3cncjGt0PvaKC2fdzboTblbbJGfkee3uM.png" group-title="SPORT", Nova Sport (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33344.ts
 
-#EXTINF:-1 tvg-id="Radio Makarska" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Makarska.png" group-title="Radio Stanice", Radio Makarska
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23495
+#EXTINF:-1 tvg-id="Sport Klub 1 (CRO)" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRgBWmHHBrGbUKmW2NVLZcqq.png" group-title="SPORT", Sport Klub 1 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33332.ts
 
-#EXTINF:-1 tvg-id="Radio Naxi 80-e" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Naxi.png" group-title="Radio Stanice", Radio Naxi 80-e
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23496
+#EXTINF:-1 tvg-id="Sport Klub 1 (SRB)" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TJVridEGLfsX6q5BDQpMQDmlX9iAEmVeti6JpPPpa_xR.png" group-title="SPORT", Sport Klub 1 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33341.ts
 
-#EXTINF:-1 tvg-id="Pink Radio" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Pink.png" group-title="Radio Stanice", Pink Radio
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23510
+#EXTINF:-1 tvg-id="Sport Klub 2 (CRO)" tvg-logo="http://logo.smart-iptvpro.info/239.hr.png" group-title="SPORT", Sport Klub 2 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33331.ts
 
-#EXTINF:-1 tvg-id="Radio Planeta" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Planeta%20Novi%20Sad.jpg" group-title="Radio Stanice", Radio Planeta
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23511
+#EXTINF:-1 tvg-id="Sport Klub 2 (SRB)" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TJVridEGLfsX6q5BDQpMQDlxop9V72bituFs1ld41i8I.png" group-title="SPORT", Sport Klub 2 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33340.ts
 
-#EXTINF:-1 tvg-id="Radio RSG" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/RSG%20Radio.png" group-title="Radio Stanice", Radio RSG
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23512
+#EXTINF:-1 tvg-id="SportKlub3.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRhkN23SqpOkXYd0LXInxU21.png" group-title="SPORT", Sport Klub 3 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33330.ts
 
-#EXTINF:-1 tvg-id="Radio 101 Beograd" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Radio%20101%20Beograd.jpg" group-title="Radio Stanice", Radio 101 Beograd
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23513
+#EXTINF:-1 tvg-id="Sport Klub 3 (SRB)" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TJVridEGLfsX6q5BDQpMQDmmIqe-rTOuqPD5Or1Jnfug.png" group-title="SPORT", Sport Klub 3 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33339.ts
 
-#EXTINF:-1 tvg-id="Radio 101 Zagreb" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Radio%20101%20Zagreb.png" group-title="Radio Stanice", Radio 101 Zagreb
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23514
+#EXTINF:-1 tvg-id="SportKlub4.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRi7NbtBWJC0aryhaOcg4QG1.png" group-title="SPORT", Sport Klub 4 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33329.ts
 
-#EXTINF:-1 tvg-id="Radio City Maribor" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Radio%20City%20Maribor.jpg" group-title="Radio Stanice", Radio City Maribor
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23515
+#EXTINF:-1 tvg-id="Sport Klub 4 (SRB)" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TJVridEGLfsX6q5BDQpMQDk1XMRdU_P-1axVBoErSAO1.png" group-title="SPORT", Sport Klub 4 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33338.ts
 
-#EXTINF:-1 tvg-id="Radio Dalmacija" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Radio%20Dalmacija.png" group-title="Radio Stanice", Radio Dalmacija
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23516
+#EXTINF:-1 tvg-id="SportKlub5.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRiIE5Z60XhtOuwwLmQOQG82.png" group-title="SPORT", Sport Klub 5 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33328.ts
 
-#EXTINF:-1 tvg-id="Radio Slobomir" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Slobomir.png" group-title="Radio Stanice", Radio Slobomir
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23541
+#EXTINF:-1 tvg-id="Sport Klub 5 (SRB)" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TJVridEGLfsX6q5BDQpMQDkKvlWvGKfO8A2MUgyJpINE.png" group-title="SPORT", Sport Klub 5 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33337.ts
 
-#EXTINF:-1 tvg-id="Radio NAXI" tvg-logo="http://ikonice.zvjerka.com/ikonice/RADIO/Naxi.png" group-title="Radio Stanice", Radio NAXI
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23542
+#EXTINF:-1 tvg-id="SportKlub6.rs" tvg-logo="http://rexshx.com:25461/picons/sport/sk6.png" group-title="SPORT", Sport Klub 6 (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33327.ts
 
-#EXTINF:-1 tvg-id="Big Radio 2" tvg-logo="https://bigportal.ba/radio/images/big2_logo.png" group-title="Radio Stanice", Big Radio 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23544
+#EXTINF:-1 tvg-id="Sport Klub 6 (SRB)" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgebka6_kdnmf8DnvMyKMhHvAwtjZgZY-0ojmgwqZTErLOPOmHOJ9kLGN1pQXtpq3f4tofzImB__YXrJBZYNwHxfQJN1yo_wNqY_gnNLFG-SVFsmHk5jIYg3UcEC1yVy-p00GgPqg7gbcJDTkar04Pr.png" group-title="SPORT", Sport Klub 6 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33336.ts
 
-#EXTINF:-1 tvg-id="Avaz Radio" tvg-logo="noimage.png" group-title="Radio Stanice", Avaz Radio
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23545
+#EXTINF:-1 tvg-id="Sport Klub 7 (SRB)" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WFq1-HYJj9MuievrFvosO-hHLIiNuA-2Grk2CKYzpgA1w.png" group-title="SPORT", Sport Klub 7 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33335.ts
 
-#EXTINF:-1 tvg-id="Skala Radio" tvg-logo="data:image/jpeg;base64,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" group-title="Radio Stanice", Skala Radio
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23546
+#EXTINF:-1 tvg-id="Sport Klub 8 (SRB)" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WFq1-HYJj9MuievrFvosO-hHLIiNuA-2Grk2CKYzpgA1w.png" group-title="SPORT", Sport Klub 8 (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33334.ts
 
-#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="http://www.slusaj-radio.com/medias/thumbnail/95/200-radio-posavina.jpg" group-title="Radio Stanice", Radio Posavina
-http://bntvs.com:2052/htechniker/zPSddcp7C4/23565
+#EXTINF:-1 tvg-id="Sport Klub ESport (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_esports-logo.png" group-title="SPORT", Sport Klub ESport (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33343.ts
 
-#EXTINF:-1 tvg-id="Radio BN" tvg-logo="https://uk.radio.net/images/broadcasts/2b/a2/6854/c300.png" group-title="Radio Stanice", Radio BN
-http://bntvs.com:2052/htechniker/zPSddcp7C4/24253
+#EXTINF:-1 tvg-id="Sport Klub Fight (CRO)" tvg-logo="https://cdn-0.tvprofil.com/cdn/250x250/4/img/kanali-logo/SK_Fight_HR_logo.png" group-title="SPORT", Sport Klub Fight (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33348.ts
 
-#EXTINF:-1 tvg-id="24kitchen" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/24kitchen_bg.png" group-title="Edukativni", 24 Kitchen
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8564
+#EXTINF:-1 tvg-id="SportKlubGolf.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRhKGNPRsGO-MuB24yeQdehU.png" group-title="SPORT", Sport Klub Golf
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33326.ts
 
-#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Animal_Planet_PL_logo.png" group-title="Edukativni", Animal Planet
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8565
+#EXTINF:-1 tvg-id="Sport Klub HD (SRB)" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4NdytEhMI28vXslaYoo3Kf0Rkr-Hw9xt_kAaJhrEqe5RQ.png" group-title="SPORT", Sport Klub HD (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33342.ts
 
-#EXTINF:-1 tvg-id="cbs-reality" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/CBS_Reality_HR_logo.png" group-title="Edukativni", CBS Reality
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8566
+#EXTINF:-1 tvg-id="Sport TV 1 (SLO)" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530BWm8wOsitogBuIkA5S9IssaehedvKyHNKs96MRaCisT.png" group-title="SPORT", Sport TV 1 (SLO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33322.ts
 
-#EXTINF:-1 tvg-id="cnn" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CNN_logo_v2.png" group-title="Edukativni", CNN
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8567
+#EXTINF:-1 tvg-id="Sport TV 3 (SLO)" tvg-logo="http://faucontv.live:80/images/cZsUwq4WgmS13D1eN22hVd-fookNxgAtDUMYerTMBJWfjLUyoCEzhVZ_8HRG_VA0pfFvL5qFkoWR3fIYWo530BtcVrmed-4KBalwRWrC8tzfi9BHol_aUp1O80eDLEWB.png" group-title="SPORT", Sport TV 3 (SLO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33320.ts
 
-#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/CRIME%20INVESTIGATION.jpg" group-title="Edukativni", Crime & Investigation
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8568
+#EXTINF:-1 tvg-id="SportskaTV.hr" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp0YAZ6yhvOWchLwHmYVZJGh3qd0eU3EyB8Vx7lGbbxlxn6lm6zd6U9Zgdj-4XNmCnI.png" group-title="SPORT", Sportska TV (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33325.ts
 
-#EXTINF:-1 tvg-id="discovery-europe" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Edukativni", Discovery Channel
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8570
+#EXTINF:-1 tvg-id="TVPartizan.rs" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG649rv6AAX7ldQAWNi5Wyemp1eow_t7vDhUkc9MTShPmzsvHz35pWlPWx-jf-_onig.png" group-title="SPORT", TV Partizan (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33324.ts
 
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/investigation-discovery-logo.png" group-title="Edukativni", Discovery ID
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8571
+#EXTINF:-1 tvg-id="ZvezdaTV.rs" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaGwRZM34_xTF9IxOoFoX8qCfoc-e_3T0PkmqzIPeekWxI.png" group-title="SPORT", Zvezda TV (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33323.ts
 
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Discovery_Science_logo.png" group-title="Edukativni", Discovery Science HD
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8572
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="http://logo.smart-iptvpro.info/194.hr.png" group-title="DJECA", Baby TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33409.ts
 
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/tlc-logo.png" group-title="Edukativni", Discovery TLC
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8573
+#EXTINF:-1 tvg-id="Blejz i Cudovisne Masine (SRB)" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="DJECA", Blejz i Cudovisne Masine (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33391.ts
 
-#EXTINF:-1 tvg-id="BT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fine-living-logo.png" group-title="Edukativni", BT
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8574
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo-500x333.png" group-title="DJECA", Cartoon Network
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33408.ts
 
-#EXTINF:-1 tvg-id="docubox-hd" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/DocuBox_logo_v3.png" group-title="Edukativni", DocuBOX
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8575
+#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedy_Central_Extra.png/585px-Comedy_Central_Extra.png" group-title="DJECA", Comedy Central Extra
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33407.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/24.%20Food%20Network.PNG" group-title="Edukativni", Food Network
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8576
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.c.dk/tvicons/db19_disney_channel_large.png" group-title="DJECA", Disney Channel
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33406.ts
 
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/12.%20BBC%20EARTH.png" group-title="Edukativni", BBC Earth
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8577
+#EXTINF:-1 tvg-id="101TV.rs" tvg-logo="http://logo.smart-iptvpro.info/196.hr.png" group-title="DJECA", DUCK TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33404.ts
 
-#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/History_Channel_logo.png" group-title="Edukativni", History Channel
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8578
+#EXTINF:-1 tvg-id="Hayatovci.ba" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olZVyXhS1nMGyuo5vJh5pwo.png" group-title="DJECA", Hayatovci
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33403.ts
 
-#EXTINF:-1 tvg-id="history-channel-2" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/History_2_logo.png" group-title="Edukativni", History Channel 2
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8579
+#EXTINF:-1 tvg-id="LOONEY TUNES TV HD" tvg-logo="noimage.png" group-title="DJECA", LOONEY TUNES TV HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33402.ts
 
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Nat_Geo_Wild_logo.png" group-title="Edukativni", Nat Geo Wild
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8580
+#EXTINF:-1 tvg-id="Masa i Medo (BIH)" tvg-logo="noimage.png" group-title="DJECA", Masa i Medo (BIH)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33401.ts
 
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/National_Geographic_logo.png" group-title="Edukativni", National Geographic
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8581
+#EXTINF:-1 tvg-id="Masa i Medved (SRB)" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="DJECA", Masa i Medved (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33400.ts
 
-#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/travel-channel-logo.png" group-title="Edukativni", Travel Channel
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8583
+#EXTINF:-1 tvg-id="MiniTV.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olCOV74gIuZhGSeZDwQv2J_.png" group-title="DJECA", Mini TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33399.ts
 
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Viasat_Explore_logo.png" group-title="Edukativni", Viasat Explore
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8584
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onMy9DykCCUfEsj_bD3s43k.png" group-title="DJECA", Minimax
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33398.ts
 
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Viasat_History_logo.png" group-title="Edukativni", Viasat History
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8585
+#EXTINF:-1 tvg-id="NickJrSerbia.rs" tvg-logo="http://logo.smart-iptvpro.info/187.sr.png" group-title="DJECA", Nick Jr
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33394.ts
 
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Viasat_Nature_logo.png" group-title="Edukativni", Viasat Nature
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8586
+#EXTINF:-1 tvg-id="NickelodeonSerbia.rs" tvg-logo="http://logo.smart-iptvpro.info/188.sr.png" group-title="DJECA", Nickelodeon
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33393.ts
 
-#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="Edukativni", Poljoprivredna TV
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8587
+#EXTINF:-1 tvg-id="Patrolne Sape (SRB)" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="DJECA", Patrolne Sape (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33390.ts
 
-#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="noimage.png" group-title="Edukativni", Balkan Trip
-http://bntvs.com:2052/htechniker/zPSddcp7C4/8589
+#EXTINF:-1 tvg-id="Pepa Prase (SRB)" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="DJECA", Pepa Prase (SRB)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33392.ts
 
+#EXTINF:-1 tvg-id="Pikaboo.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okehXLBJKTTSMuHy9rIamC9.png" group-title="DJECA", Pikaboo
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33388.ts
 
+#EXTINF:-1 tvg-id="PinkKids.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okpr502lj_DOS9NS3AjfKmP.png" group-title="DJECA", Pink Kids
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33386.ts
 
+#EXTINF:-1 tvg-id="PINK PANTER TV" tvg-logo="noimage.png" group-title="DJECA", PINK PANTER TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33387.ts
 
+#EXTINF:-1 tvg-id="PinkSuperKids.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ol2waKZvLSka_kJwHEELjqC.png" group-title="DJECA", PINK SUPER KIDS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33385.ts
+
+#EXTINF:-1 tvg-id="Pocoyo (CRO)" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="DJECA", Pocoyo (CRO)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33389.ts
+
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omvxEquRf8A8nyDbqAjptky.png" group-title="DJECA", RTL Kockica
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33384.ts
+
+#EXTINF:-1 tvg-id="TeslaVision Kids" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="DJECA", TeslaVision Kids
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33381.ts
+
+#EXTINF:-1 tvg-id="TeslaVision Uspavanke 24/7" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="DJECA", TeslaVision Uspavanke 24/7
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33380.ts
+
+#EXTINF:-1 tvg-id="TNT KIDS" tvg-logo="http://logo.smart-iptvpro.info/198.hr.png" group-title="DJECA", TNT KIDS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33379.ts
+
+#EXTINF:-1 tvg-id="TOM & JERRY CHANNEL HD" tvg-logo="noimage.png" group-title="DJECA", TOM & JERRY CHANNEL HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33378.ts
+
+#EXTINF:-1 tvg-id="24KitchenSerbia.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WFdwN8xWxVB_2Spg2B7ekFBP9f0C6s5cNBxisfm50j25w.png" group-title="DOKU", 24 Kitchen
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33472.ts
+
+#EXTINF:-1 tvg-id="AgroTV.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x200/4/img/kanali-logo/agrotv_logo-1.png" group-title="DOKU", Agro TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33471.ts
+
+#EXTINF:-1 tvg-id="AnimalPlanetSerbia.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgebka6_kdnmf8DnvMyKMhHvAwtjZgZY-0ojmgwqZTErLOPOmHOJ9kLGN1pQXtpq3ctz81epy5x72TzZw4tElFZMcZxlZfwUq51R3rXORXHhigMNsICHr-Qst6DMxyHVvAIPjXHoqCknhxnCwuMyaGA.png" group-title="DOKU", Animal Planet
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33470.ts
+
+#EXTINF:-1 tvg-id="BBCEarthRomania.ro" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olhk_3JGw2EOj585nzAKML3.png" group-title="DOKU", BBC Earth
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33469.ts
+
+#EXTINF:-1 tvg-id="Capital" tvg-logo="noimage.png" group-title="DOKU", Capital
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33468.ts
+
+#EXTINF:-1 tvg-id="101TV.rs" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onPScQWdYaYV_gfZnbt52jP.png" group-title="DOKU", CBS Reality
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33467.ts
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationUK.uk" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WEYBhyHAHaJPzYnLSZuw0IYg0fYFqWnTa1-65Uk9pQQyg.png" group-title="DOKU", Crime & Investigation
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33466.ts
+
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TGvVemwXOZ3fT6xVulGU_QuwkaxTEqqAZhzsKevcrGCdKQYlUfX6a9bGxcVDsO7Rqw.png" group-title="DOKU", Da Vinci Learning
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33465.ts
+
+#EXTINF:-1 tvg-id="DiscoveryChannelSerbia.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WG0iWGhz9fEVYMtCag17yOB4PF-C3pLghW3X5m4pgc8hg.png" group-title="DOKU", Discovery Channel
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33464.ts
+
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WG3_dnS2FxaKHR9vd8ADvGgXRSsmppjcmTO8El0sNAYdA.png" group-title="DOKU", Discovery Science
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33463.ts
+
+#EXTINF:-1 tvg-id="DOKU TV" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TGvVemwXOZ3fT6xVulGU_QvYZ6VUh8TijGH08LJIwmCV.png" group-title="DOKU", DOKU TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33461.ts
+
+#EXTINF:-1 tvg-id="DoxTV.hr" tvg-logo="http://faucontv.live:80/images/6o8hUvtvg1LrtDEKnzdmNxt3u8PsaKUr-eWdyghEsp3FN0R4LYKJ-nGofLSd9HKoKA3JhjFF77LlG5Qhk-VYaKJVno6WawLgeNBMtlhbczk.png" group-title="DOKU", DOX Tv
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33462.ts
+
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://rexshx.com:25461/picons/docu/e%21.png" group-title="DOKU", E! Entertainment
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33460.ts
+
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TGvVemwXOZ3fT6xVulGU_QucZ1xumyTBtOsWSaVrVDAgfc9_I2evW87uRTKRm8y7xg.png" group-title="DOKU", Food Network
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33459.ts
+
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhpYvgqkDO9TlzVRXq1UeYHpUVylfJcolM0WfgFE8IqWXnE9sdswFtr8Gv29k-IMAY90ejwdGF6HTQdnpPoO_yjCWQTmOhVygy1idhN-jM9cZDxelAaXPx0Wn3hG4urRvdIMx0m6TJBv7XHfxVI4bzm.png" group-title="DOKU", History Channel
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33458.ts
+
+#EXTINF:-1 tvg-id="History Channel 2" tvg-logo="http://rexshx.com:25461/picons/docu/h2hd.png" group-title="DOKU", History Channel 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33457.ts
+
+#EXTINF:-1 tvg-id="ID Discovery / Investigation Discovery" tvg-logo="http://rexshx.com:25461/picons/docu/iddiscovery.png" group-title="DOKU", ID Discovery / Investigation Discovery
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33456.ts
+
+#EXTINF:-1 tvg-id="Kanal 6 HD" tvg-logo="http://logo.smart-iptvpro.info/141.ba.png" group-title="DOKU", Kanal 6 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33455.ts
+
+#EXTINF:-1 tvg-id="Loviribolov.rs" tvg-logo="http://faucontv.live:80/images/G1sGv-Zd29JE-qEl73KOvTqOdJNVeGET-3cwr_sa7WG0iWGhz9fEVYMtCag17yOBjArpuplmvt_1kKpQ9zRdDw.png" group-title="DOKU", Lov i Ribolov
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33454.ts
+
+#EXTINF:-1 tvg-id="NationalGeographicWildSerbia.rs" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TGvVemwXOZ3fT6xVulGU_Qul_9dfW75W-nXvnSfqAUhHhHD1Rqb01UMlSCWmIcDSTA.png" group-title="DOKU", Nat Geo Wild
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33453.ts
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgebka6_kdnmf8DnvMyKMhHvAwtjZgZY-0ojmgwqZTErLOPOmHOJ9kLGN1pQXtpq3dqyaHo29lgH7pvDFDvb1TISzharJKtza8nG4QZGAd8JKs1Gr-WpCPR__yqJcg3eUxeyYfiVQi1NMtoDJb0X76z.png" group-title="DOKU", TLC
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33451.ts
+
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiPNRhNR8XehlVJK8UCzEG8f2dVyVWeQAjCV-R9Scg42JE9E-pes2xkPfOINEyy2OQM4RdvAApp3LEQXxYlh4kM--nmlGH5cTJzcp1xzWxDZGFRQ0uG-LLmwtGMEj8_T_U3yvaxTQ87VC9X2YX5I6kH.png" group-title="DOKU", Travel Channel HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33450.ts
+
+#EXTINF:-1 tvg-id="ViasatExplore.se" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgebka6_kdnmf8DnvMyKMhHvAwtjZgZY-0ojmgwqZTErLOPOmHOJ9kLGN1pQXtpq3e-TVr0y-S1meld5e0cFyUGFQ5mFXjhSbwWhfTKyGS2epg5DYij1rR7l18g8n4wukA8v3qLWws_V3HJHbA5paAm.png" group-title="DOKU", Viasat Explorer
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33449.ts
+
+#EXTINF:-1 tvg-id="ViasatHistory.se" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TGvVemwXOZ3fT6xVulGU_QsNggCl77nITb2qWL41XxKPgm1PO4aD2mSS03GTEZr5QQ.png" group-title="DOKU", Viasat History
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33448.ts
+
+#EXTINF:-1 tvg-id="ViasatNature.se" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TGvVemwXOZ3fT6xVulGU_QvY3PlE0ylgs9VAjPtH1NsvoluR9kvELIk8LiQAvKwT7w.png" group-title="DOKU", Viasat Nature
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33447.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1onZ3LHQVAXI-MxvVcY2mxMV.png" group-title="FILM", AMC
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33533.ts
+
+#EXTINF:-1 tvg-id="AXNAdria.us" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ok4T7pQXDfHBEPUl3ruPTdj.png" group-title="FILM", AXN
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33532.ts
+
+#EXTINF:-1 tvg-id="AXNSpin.gr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omGuJY8GdFnblq8qS4RB2Gs.png" group-title="FILM", AXN Spin
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33531.ts
+
+#EXTINF:-1 tvg-id="Cinemax 1" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYabdXlSYhaixIgjHbRfty86M8Zh6rissFNpCnNdfb2aTQ.png" group-title="FILM", Cinemax 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33529.ts
+
+#EXTINF:-1 tvg-id="Cinemax2Croatia.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1om41ApvEOpg9D0ELUP2BqEd.png" group-title="FILM", Cinemax 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33528.ts
+
+#EXTINF:-1 tvg-id="Cinestar Action" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYYXblGe5paYr1_eYtFZYta99517pbbB9FCD4yQIrFJrkw.png" group-title="FILM", Cinestar Action
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33527.ts
+
+#EXTINF:-1 tvg-id="CineStar Comedy" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKg-sh7FI2bnk2GD0zTtSMz3jnXAydkLgofNlMojmfBMXyhqjLGc4loXlBUDUj4HX9SEkyYWQxMD-8iDdVv6Ve8CJ-P5TVSGkd__2oOBxOymR74oBFc9Uyg3M3-WQauPGt5--jXysrFI27mUo_GeY5If.png" group-title="FILM", CineStar Comedy
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33526.ts
+
+#EXTINF:-1 tvg-id="24KitchenCroatia.hr" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYYh6Ob_kZGGlYxsmhSKfHxK_VLL94dUzKEwvgd6017ogw.png" group-title="FILM", Cinestar Fantasy
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33525.ts
+
+#EXTINF:-1 tvg-id="24KitchenCroatia.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okCEctJSiXflgEVOxbBuXKR.png" group-title="FILM", Cinestar Premiere 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33524.ts
+
+#EXTINF:-1 tvg-id="24KitchenCroatia.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1olW0hGnBaaIXHwwNsq0zbAA.png" group-title="FILM", Cinestar Premiere 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33523.ts
+
+#EXTINF:-1 tvg-id="Cinestar TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omXi6SSaJAjve7PhA1BrzMC.png" group-title="FILM", Cinestar TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33522.ts
+
+#EXTINF:-1 tvg-id="CineStar Tv 2" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRgPTyjxHnHTajK6lce_zSaV.png" group-title="FILM", CineStar Tv 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33521.ts
+
+#EXTINF:-1 tvg-id="Comedy Central Extra Hr" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg" group-title="FILM", Comedy Central Extra Hr
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33520.ts
+
+#EXTINF:-1 tvg-id="Diva" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYYKo3uTVIFcOCoo4KE9FHCFpZbJ9wzoYP6doYgLh2LrsA.png" group-title="FILM", Diva
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33519.ts
+
+#EXTINF:-1 tvg-id="EpicDrama.se" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okwFgyK6R-eA8ei_YAagSs1.png" group-title="FILM", Epic Drama HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33518.ts
+
+#EXTINF:-1 tvg-id="Filmbox Extra" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYY71v33KV0L5FHzpBzetkHCa5zQXEUtsgpyNYP7isqE2w.png" group-title="FILM", Filmbox Extra
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33517.ts
+
+#EXTINF:-1 tvg-id="FilmBox Stars" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ol1rzuWW-wl11VQ-hYXWdpw.png" group-title="FILM", FilmBox Stars
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33516.ts
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYaRfCDHd1wJPSi2R-PUQ-CAJRbeIE97XgEWnRGGqAzrmQ.png" group-title="FILM", Fox
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33515.ts
+
+#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYb1rFTwCU2ZP_47e7ZKqgzEhhsfLiDsraTU42uT_8CkzQ.png" group-title="FILM", Fox Crime
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33514.ts
+
+#EXTINF:-1 tvg-id="FoxLifeSerbia.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYYw8XSXu6mqqZsOoYvX2kWY2tlY6KBm06kv5y6f3-Eyiw.png" group-title="FILM", Fox Life
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33513.ts
+
+#EXTINF:-1 tvg-id="FoxMoviesSerbia.rs" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYapbaREb2kbCRMU_gUyFDelAmDX79g-6OYbFwYOZyF_hQ.png" group-title="FILM", Fox Movies
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33512.ts
+
+#EXTINF:-1 tvg-id="Friends 24/7" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="FILM", Friends 24/7
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33511.ts
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYaQpiIyzFElvEQ2EB1HNn3IYwNY0OHE-pE_f__OXZLXSw.png" group-title="FILM", HBO
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33510.ts
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYYcoi6R3HLdr7julv8rVG5ADAXBGID5jh_HxIS3bsR5hw.png" group-title="FILM", HBO 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33509.ts
+
+#EXTINF:-1 tvg-id="HBO 3" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhH0qtCzQoXYvdCo1dkxPpRyttx3Tm7DcBt5rCA3tbJ69D6ME1fvbgK81Y8mBsFrYadu7Q01_JOznHXqqiryFCafL7vYFv6J6n6lT1GsULPWQ.png" group-title="FILM", HBO 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33508.ts
+
+#EXTINF:-1 tvg-id="HBO Max" tvg-logo="http://faucontv.live:80/images/2qlH6r2ibxRIMBAZHuDaG50HzR3kuqtyop2CWSJcTTZhPEWwq3OtG-UMpba1WJE2.png" group-title="FILM", HBO Max
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33507.ts
+
+#EXTINF:-1 tvg-id="KinoTV.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okkdLtym-nFACCPWOwZZfFC.png" group-title="FILM", Kino Tv
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33505.ts
+
+#EXTINF:-1 tvg-id="Lud zbunjen normalan 24/7" tvg-logo="https://teslavision.eu/img/TeslaVision400x400.png" group-title="FILM", Lud zbunjen normalan 24/7
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33503.ts
+
+#EXTINF:-1 tvg-id="M1Film.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1okGpsehP7Hzook5zvENdmUx.png" group-title="FILM", M1 Film
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33502.ts
+
+#EXTINF:-1 tvg-id="M1 Film Gold" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omIWzzKuQnOc8TJXfRK0_c8.png" group-title="FILM", M1 Film Gold
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33501.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 1 HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiKi_drQkghACufZ0a_kRkcf2RG5UaSPz7OruVUtlVqUtPw7kXZLzCFEm2VxJfveHGHgrQyOwLPgzQfJcwOcUhzd4ikBTLXkT8ZM_xpVEmaBA.png" group-title="FILM", MaxCro Select 1 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33500.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 2 HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiKi_drQkghACufZ0a_kRkcf2RG5UaSPz7OruVUtlVqUtPw7kXZLzCFEm2VxJfveHGHgrQyOwLPgzQfJcwOcUhzd4ikBTLXkT8ZM_xpVEmaBA.png" group-title="FILM", MaxCro Select 2 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33499.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 3 HD" tvg-logo="http://faucontv.live:80/images/jnHi6t7mGS4VtmzLYLJGg05IyrlJawBpSMdoMfD_MQhyHXLORJ9JBKvIC29eCcf2.png" group-title="FILM", MaxCro Select 3 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33498.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 4 HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiKi_drQkghACufZ0a_kRkcf2RG5UaSPz7OruVUtlVqUtPw7kXZLzCFEm2VxJfveHGHgrQyOwLPgzQfJcwOcUhzd4ikBTLXkT8ZM_xpVEmaBA.png" group-title="FILM", MaxCro Select 4 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33497.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 5 HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiKi_drQkghACufZ0a_kRkcf2RG5UaSPz7OruVUtlVqUtPw7kXZLzCFEm2VxJfveHGHgrQyOwLPgzQfJcwOcUhzd4ikBTLXkT8ZM_xpVEmaBA.png" group-title="FILM", MaxCro Select 5 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33496.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 6 HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiKi_drQkghACufZ0a_kRkcf2RG5UaSPz7OruVUtlVqUtPw7kXZLzCFEm2VxJfveHGHgrQyOwLPgzQfJcwOcUhzd4ikBTLXkT8ZM_xpVEmaBA.png" group-title="FILM", MaxCro Select 6 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33495.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 7 HD" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiKi_drQkghACufZ0a_kRkcf2RG5UaSPz7OruVUtlVqUtPw7kXZLzCFEm2VxJfveHGHgrQyOwLPgzQfJcwOcUhzd4ikBTLXkT8ZM_xpVEmaBA.png" group-title="FILM", MaxCro Select 7 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33494.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 8 HD" tvg-logo="http://faucontv.live:80/images/jnHi6t7mGS4VtmzLYLJGg05IyrlJawBpSMdoMfD_MQhyHXLORJ9JBKvIC29eCcf2.png" group-title="FILM", MaxCro Select 8 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33493.ts
+
+#EXTINF:-1 tvg-id="MaxCro Select 9 HD" tvg-logo="http://faucontv.live:80/images/jnHi6t7mGS4VtmzLYLJGg05IyrlJawBpSMdoMfD_MQhyHXLORJ9JBKvIC29eCcf2.png" group-title="FILM", MaxCro Select 9 HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33492.ts
+
+#EXTINF:-1 tvg-id="PickboxTV.hr" tvg-logo="http://faucontv.live:80/images/WlE54-jYrut34WDE-u4Xr6C4vu-65XABWXLq3yP04KXYDpurLA1aZBQsr5zpH7YTkNGiUheaueVdwr2CzYB7lg.png" group-title="FILM", Pickbox HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33489.ts
+
+#EXTINF:-1 tvg-id="SciFi Max" tvg-logo="noimage.png" group-title="FILM", SciFi Max
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33488.ts
+
+#EXTINF:-1 tvg-id="Superstar2.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x200/4/img/kanali-logo/Superstar_2_RS_logo.png" group-title="FILM", Superstar 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33486.ts
+
+#EXTINF:-1 tvg-id="SuperstarTV.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x200/4/img/kanali-logo/SuperstarTV_logo.png" group-title="FILM", Superstar TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33487.ts
+
+#EXTINF:-1 tvg-id="TV 1000" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1omoU0STyqvnlQpkiirEJ1Id.png" group-title="FILM", TV 1000
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33473.ts
+
+#EXTINF:-1 tvg-id="TV Gora Premiere 1" tvg-logo="http://faucontv.live:80/images/fGfsij-utLG4txTwSa8HuYbzHNZtH7kLZMSQgfrcG3xr-7DolYDY4DO1mZJYE54me0Z9DZrSV3AVLbqD69Ksqw.png" group-title="FILM", TV Gora Premiere 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33475.ts
+
+#EXTINF:-1 tvg-id="TV Gora Premiere 2" tvg-logo="http://faucontv.live:80/images/fGfsij-utLG4txTwSa8HuYbzHNZtH7kLZMSQgfrcG3xr-7DolYDY4DO1mZJYE54me0Z9DZrSV3AVLbqD69Ksqw.png" group-title="FILM", TV Gora Premiere 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33474.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 1" tvg-logo="http://faucontv.live:80/images/fGfsij-utLG4txTwSa8HuYbzHNZtH7kLZMSQgfrcG3xr-7DolYDY4DO1mZJYE54me0Z9DZrSV3AVLbqD69Ksqw.png" group-title="FILM", TV Gora Select 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33485.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 10" tvg-logo="http://medialogo.hopto.me/logo/Filmski/FilmZastava.png" group-title="FILM", TV Gora Select 10
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33476.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 2" tvg-logo="http://faucontv.live:80/images/fGfsij-utLG4txTwSa8HuYbzHNZtH7kLZMSQgfrcG3xr-7DolYDY4DO1mZJYE54me0Z9DZrSV3AVLbqD69Ksqw.png" group-title="FILM", TV Gora Select 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33484.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 3" tvg-logo="http://faucontv.live:80/images/fGfsij-utLG4txTwSa8HuYbzHNZtH7kLZMSQgfrcG3xr-7DolYDY4DO1mZJYE54me0Z9DZrSV3AVLbqD69Ksqw.png" group-title="FILM", TV Gora Select 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33483.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 4" tvg-logo="http://faucontv.live:80/images/fGfsij-utLG4txTwSa8HuYbzHNZtH7kLZMSQgfrcG3xr-7DolYDY4DO1mZJYE54me0Z9DZrSV3AVLbqD69Ksqw.png" group-title="FILM", TV Gora Select 4
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33482.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 5" tvg-logo="http://faucontv.live:80/images/fGfsij-utLG4txTwSa8HuYbzHNZtH7kLZMSQgfrcG3xr-7DolYDY4DO1mZJYE54me0Z9DZrSV3AVLbqD69Ksqw.png" group-title="FILM", TV Gora Select 5
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33481.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 8" tvg-logo="http://medialogo.hopto.me/logo/Filmski/FilmZastava.png" group-title="FILM", TV Gora Select 8
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33478.ts
+
+#EXTINF:-1 tvg-id="TV Gora Select 9" tvg-logo="http://medialogo.hopto.me/logo/Filmski/FilmZastava.png" group-title="FILM", TV Gora Select 9
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33477.ts
+
+#EXTINF:-1 tvg-id="CityPlay" tvg-logo="noimage.png" group-title="MUZIKA", CityPlay
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33444.ts
+
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-logo="http://faucontv.live:80/images/tNtVPFUCJQKE1Ou9DNzCsu-2oavBuSVv-5_l84JXwvF6a2tojm4ZcnF4glV0zyDUPxBpxarmXfJQcZY7ifq_Rg.png" group-title="MUZIKA", CMC
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33443.ts
+
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-logo="http://faucontv.live:80/images/tNtVPFUCJQKE1Ou9DNzCsu-2oavBuSVv-5_l84JXwvH3lFGjkJFoeqlS0os0mflcPVwwfWh76M0u1XQZX_Fazw.png" group-title="MUZIKA", DM SAT
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33442.ts
+
+#EXTINF:-1 tvg-id="DMC TV" tvg-logo="noimage.png" group-title="MUZIKA", DMC TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33441.ts
+
+#EXTINF:-1 tvg-id="Duga TV" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88t10fV57Pft3LEOYacaN1ombeg9Q4cXCCNFtYvJdNFq6.png" group-title="MUZIKA", Duga TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33440.ts
+
+#EXTINF:-1 tvg-id="Grand 2" tvg-logo="http://rexshx.com:25461/picons/muzika/grand2.png" group-title="MUZIKA", Grand 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33439.ts
+
+#EXTINF:-1 tvg-id="Grand Narodna TV" tvg-logo="http://rexshx.com:25461/picons/muzika/grandtv.png" group-title="MUZIKA", Grand Narodna TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33438.ts
+
+#EXTINF:-1 tvg-id="HayatFolk.ba" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TIpVI-HlICWxkf0eyJ2u0I_LbvEA35sDbfLNYYMycRTYUoJWheHSImLMFheo6Xc7-g.png" group-title="MUZIKA", Hayat Folk
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33437.ts
+
+#EXTINF:-1 tvg-id="HayatMusic.ba" tvg-logo="http://faucontv.live:80/images/tNtVPFUCJQKE1Ou9DNzCsu-2oavBuSVv-5_l84JXwvFweoO346j_tSBru1i8sM0tc2K-vh5TwRikH62aUzUGcA.png" group-title="MUZIKA", Hayat Music
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33436.ts
+
+#EXTINF:-1 tvg-id="IDJ TV" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTI64Ov_ZvYcqrX9oaZyPgJhj4acvpAVE_pXRajTNMUaCwWnfJIapqaC-fuNWMPQhA7RZBVvpDJuIy6XWVmV8EBQkYNf1K91lNB1Sf21FLNT_lIH9GEMBi3W-VfA4JqU3vpGAyjsYwVh9ZaNZgrpgs.png" group-title="MUZIKA", IDJ TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33435.ts
+
+#EXTINF:-1 tvg-id="Imperia TV" tvg-logo="http://nightfight.xyz:25461/picons/muzika/imperiatv.png" group-title="MUZIKA", Imperia TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33434.ts
+
+#EXTINF:-1 tvg-id="JugotonTV.hr" tvg-logo="http://faucontv.live:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRi584KfXZc0tjT-lLWctmFV.png" group-title="MUZIKA", Jugoton
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33433.ts
+
+#EXTINF:-1 tvg-id="Karolina" tvg-logo="https://karolina.rs/wp-content/uploads/2019/01/Karolina-logo-300px.png" group-title="MUZIKA", Karolina
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33432.ts
+
+#EXTINF:-1 tvg-id="MTV Classic" tvg-logo="http://logo.smart-iptvpro.info/205.hr.png" group-title="MUZIKA", MTV Classic
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33430.ts
+
+#EXTINF:-1 tvg-id="MTV Dance" tvg-logo="http://rexshx.com:25461/picons/muzika/mtvdance.png" group-title="MUZIKA", MTV Dance
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33431.ts
+
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="http://logo.smart-iptvpro.info/207.hr.png" group-title="MUZIKA", MTV Hits
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33429.ts
+
+#EXTINF:-1 tvg-id="MTV Music" tvg-logo="http://rexshx.com:25461/picons/muzika/mtvmusic.png" group-title="MUZIKA", MTV Music
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33428.ts
+
+#EXTINF:-1 tvg-id="MTV Rock" tvg-logo="http://logo.smart-iptvpro.info/210.hr.png" group-title="MUZIKA", MTV Rock
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33427.ts
+
+#EXTINF:-1 tvg-id="PinkFolk1.rs" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TIpVI-HlICWxkf0eyJ2u0I88Mtfkqv-TQ7Mp76AHVM4jeliAHMJ8QVLgmXQQLIKpaQ.png" group-title="MUZIKA", Pink Folk 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33424.ts
+
+#EXTINF:-1 tvg-id="PinkFolk2.rs" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TIpVI-HlICWxkf0eyJ2u0I8jOXVW9yCR_LpmV0F8vsCrAcEvAo0-Q-YsY7YuWFlzMw.png" group-title="MUZIKA", Pink Folk 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33423.ts
+
+#EXTINF:-1 tvg-id="PinkHits.rs" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TG-6dNDbrYw8s3f14tTSq6qGO54br6LImIPI5z7kPXqBgkoqKKBHLCvvoxMTkz18Vg.png" group-title="MUZIKA", Pink Hits
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33422.ts
+
+#EXTINF:-1 tvg-id="PinkHits2.rs" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TG-6dNDbrYw8s3f14tTSq6o_Zxt9IW2BUYnXwJ-Sl93bei6BZTemzEzCy_fiqcC1hg.png" group-title="MUZIKA", Pink Hits 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33421.ts
+
+#EXTINF:-1 tvg-id="Pink Music 1" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TIpVI-HlICWxkf0eyJ2u0I-_XXla2TZLZ1SR7Mw3CTH33kM2f-eBV1pi86ScD-aT-g.png" group-title="MUZIKA", Pink Music 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33420.ts
+
+#EXTINF:-1 tvg-id="PinkMusic2.rs" tvg-logo="http://faucontv.live:80/images/oFwlzK8BLupo9cLE4Eh8TIpVI-HlICWxkf0eyJ2u0I_HF-qb4x8fq29CODtp7n0TZniptOaF1aT7upU1sEMx9A.png" group-title="MUZIKA", Pink Music 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33419.ts
+
+#EXTINF:-1 tvg-id="Planeta tv" tvg-logo="noimage.png" group-title="MUZIKA", Planeta tv
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33418.ts
+
+#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="http://faucontv.live:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgrcWvwFukaINAgBMs2AjFIrzbQ0t2hqlggT47Ok0SITjv2AQSvKvQ9BMLNdbuh7wY79lS5_Sp3ycUS3qpZ6lP_Db9ov8RevE8ROX7y3sgJ_FvW8zPEs4omOd65O08f8ZsV7EcilInsSkPGQHXtvsMN.png" group-title="MUZIKA", Sevdah TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33416.ts
+
+#EXTINF:-1 tvg-id="TDI Radio TV" tvg-logo="https://i.ibb.co/Kjzkyym/TDI-250x250.png" group-title="MUZIKA", TDI Radio TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33415.ts
+
+#EXTINF:-1 tvg-id="TOP TV" tvg-logo="http://live.phenixiptv.com:8080/images/dsAt8cMDBjbP3mVNdeYR4UO93ASuNwybg4y7wQMq2ck5w8MABOC9Ud-oYgtvHipO.png" group-title="MUZIKA", TOP TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33414.ts
+
+#EXTINF:-1 tvg-id="ToxicTV.rs" tvg-logo="noimage.png" group-title="MUZIKA", Toxic
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33413.ts
+
+#EXTINF:-1 tvg-id="Valentino TV" tvg-logo="http://logo.smart-iptvpro.info/148.ba.png" group-title="MUZIKA", Valentino TV
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33412.ts
+
+#EXTINF:-1 tvg-id="Yu Planet" tvg-logo="noimage.png" group-title="MUZIKA", Yu Planet
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33410.ts
 
 
 
