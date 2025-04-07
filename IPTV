@@ -1,375 +1,166 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="HRT 1 HD (HR)" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="HRVATSKA", HRT 1 HD (HR)
+#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="HRVATSKA", HRT 1 HD 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1806.ts
 
-#EXTINF:-1 tvg-id="HRT 2 FHD (HR)" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="HRVATSKA", HRT 2 FHD (HR)
+#EXTINF:-1 tvg-id="hrt2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="HRVATSKA", HRT 2 HD 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1773.ts
 
-#EXTINF:-1 tvg-id="HRT 2 HD (HR)" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="HRVATSKA", HRT 2 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/159.ts
-
-#EXTINF:-1 tvg-id="HRT 3 HD (HR)" tvg-logo="https://i.imgur.com/JCBfZEk.png" group-title="HRVATSKA", HRT 3 HD (HR)
+#EXTINF:-1 tvg-id="hrt3.hr" tvg-logo="https://i.imgur.com/JCBfZEk.png" group-title="HRVATSKA", HRT 3 HD 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/160.ts
 
-#EXTINF:-1 tvg-id="HRT 4 HD (HR)" tvg-logo="https://i.imgur.com/etbn5hI.png" group-title="HRVATSKA", HRT 4 HD (HR)
+#EXTINF:-1 tvg-id="hrt4.hr" tvg-logo="https://i.imgur.com/etbn5hI.png" group-title="HRVATSKA", HRT 4 HD 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/161.ts
 
-#EXTINF:-1 tvg-id="HRT Int. (HR)" tvg-logo="https://i.imgur.com/YXqXwuo.png" group-title="HRVATSKA", HRT Int. (HR)
+#EXTINF:-1 tvg-id="hrtint.hr" tvg-logo="https://i.imgur.com/YXqXwuo.png" group-title="HRVATSKA", HRT Int. 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/162.ts
 
-#EXTINF:-1 tvg-id="NOVA TV (HR)" tvg-logo="https://i.imgur.com/Y9p7tTz.png" group-title="HRVATSKA", NOVA TV (HR)
+#EXTINF:-1 tvg-id="NOVA TV" tvg-logo="https://i.imgur.com/Y9p7tTz.png" group-title="HRVATSKA", NOVA TV 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/163.ts
 
-#EXTINF:-1 tvg-id="NOVA TV HD (HR)" tvg-logo="https://i.imgur.com/Y9p7tTz.png" group-title="HRVATSKA", NOVA TV HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1149.ts
-#EXTINF:-1 tvg-id="RTL (HR)" tvg-logo="https://i.imgur.com/m20tWV1.png" group-title="HRVATSKA", RTL (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/168.ts
-
-#EXTINF:-1 tvg-id="RTL 2 (HR)" tvg-logo="https://i.imgur.com/8BIxmXy.png" group-title="HRVATSKA", RTL 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/170.ts
-
-#EXTINF:-1 tvg-id="24 Kitchen (HR)" tvg-logo="https://i.imgur.com/tb82iBH.png" group-title="HRVATSKA", 24 Kitchen (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/183.ts
-
-#EXTINF:-1 tvg-id="Animal Planet (HR)" tvg-logo="https://i.imgur.com/RUdGydn.png" group-title="HRVATSKA", Animal Planet (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/351.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 1 (HR) / BACKUP" tvg-logo="https://i.imgur.com/SoAAEYt.png" group-title="HRVATSKA", Arena Sport 1 (HR) / BACKUP
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1290.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 1 (HR) / BACKUP #2" tvg-logo="https://i.imgur.com/SoAAEYt.png" group-title="HRVATSKA", Arena Sport 1 (HR) / BACKUP #2
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1573.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD (HR)" tvg-logo="https://i.imgur.com/SoAAEYt.png" group-title="HRVATSKA", Arena Sport 1 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/6.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 10 HD (HR)" tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="HRVATSKA", Arena Sport 10 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/147.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 2 HD (HR)" tvg-logo="https://i.imgur.com/jCNJFIp.png" group-title="HRVATSKA", Arena Sport 2 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/7.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 3 HD (HR)" tvg-logo="https://i.imgur.com/sDTzFm0.png" group-title="HRVATSKA", Arena Sport 3 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/8.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 4 HD (HR)" tvg-logo="https://i.imgur.com/aY6mBj8.png" group-title="HRVATSKA", Arena Sport 4 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/9.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 5 HD (HR)" tvg-logo="https://i.imgur.com/lBO5BAw.png" group-title="HRVATSKA", Arena Sport 5 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/10.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 6 HD (HR)" tvg-logo="https://i.imgur.com/dEafcXH.png" group-title="HRVATSKA", Arena Sport 6 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/11.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 7 HD (HR)" tvg-logo="https://i.imgur.com/SsbZBS9.png" group-title="HRVATSKA", Arena Sport 7 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/144.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 8 HD (HR)" tvg-logo="https://i.imgur.com/wedjvCy.png" group-title="HRVATSKA", Arena Sport 8 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/145.ts
-
-#EXTINF:-1 tvg-id="Arena Sport 9 HD (HR)" tvg-logo="https://i.imgur.com/lfUPHJT.png" group-title="HRVATSKA", Arena Sport 9 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/146.ts
-
-#EXTINF:-1 tvg-id="AXN Adria (HR)" tvg-logo="https://i.imgur.com/cybIq8k.png" group-title="HRVATSKA", AXN Adria (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/308.ts
-
-#EXTINF:-1 tvg-id="BabyTV (HR)" tvg-logo="https://i.imgur.com/R8DESFC.png" group-title="HRVATSKA", BabyTV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/327.ts
-
-#EXTINF:-1 tvg-id="BBC Earth (HR)" tvg-logo="https://i.imgur.com/FkJgo4R.png" group-title="HRVATSKA", BBC Earth (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/346.ts
-
-#EXTINF:-1 tvg-id="Cinemax 1 (HR)" tvg-logo="https://i.imgur.com/zidCXOS.png" group-title="HRVATSKA", Cinemax 1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/321.ts
-
-#EXTINF:-1 tvg-id="Cinemax 2 (HR)" tvg-logo="https://i.imgur.com/1Bzsjy2.png" group-title="HRVATSKA", Cinemax 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/322.ts
-
-#EXTINF:-1 tvg-id="CineStar Action (HR)" tvg-logo="https://i.imgur.com/xUC3by4.png" group-title="HRVATSKA", CineStar Action (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/318.ts
-
-#EXTINF:-1 tvg-id="CineStar Premiere 1 (HR)" tvg-logo="https://i.imgur.com/ludmqPh.png" group-title="HRVATSKA", CineStar Premiere 1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/319.ts
-
-#EXTINF:-1 tvg-id="CineStar Premiere 2 (HR)" tvg-logo="https://i.imgur.com/qIjNqP4.png" group-title="HRVATSKA", CineStar Premiere 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/320.ts
-
-#EXTINF:-1 tvg-id="CineStar TV (HR)" tvg-logo="https://i.imgur.com/7JaTuwN.png" group-title="HRVATSKA", CineStar TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/317.ts
-
-#EXTINF:-1 tvg-id="CMC - Croatian Music Channel (HR)" tvg-logo="https://i.imgur.com/WCUBybO.png" group-title="HRVATSKA", CMC - Croatian Music Channel (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/280.ts
-
-#EXTINF:-1 tvg-id="Comedy Central Extra (HR)" tvg-logo="http://ms.motv.club:12076/images/f6c25056b9a3b2c01b92eaba48916542.png" group-title="HRVATSKA", Comedy Central Extra (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1115.ts
-
-#EXTINF:-1 tvg-id="Crime & Investigation (HR)" tvg-logo="https://i.imgur.com/aWONJ2k.png" group-title="HRVATSKA", Crime & Investigation (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/356.ts
-
-#EXTINF:-1 tvg-id="Discovery HD (HR)" tvg-logo="https://i.imgur.com/rhWc6VB.png" group-title="HRVATSKA", Discovery HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/352.ts
-
-#EXTINF:-1 tvg-id="Discovery Science (HR)" tvg-logo="https://i.imgur.com/S0dgGTR.png" group-title="HRVATSKA", Discovery Science (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/353.ts
-
-#EXTINF:-1 tvg-id="DOMA TV (HR)" tvg-logo="https://i.imgur.com/Gyqg7M8.png" group-title="HRVATSKA", DOMA TV (HR)
+#EXTINF:-1 tvg-id="DOMA TV" tvg-logo="https://i.imgur.com/Gyqg7M8.png" group-title="HRVATSKA", DOMA TV 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/164.ts
 
-#EXTINF:-1 tvg-id="DOMA TV HD (HR)" tvg-logo="https://i.imgur.com/Gyqg7M8.png" group-title="HRVATSKA", DOMA TV HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1192.ts
-
-#EXTINF:-1 tvg-id="E! Entertainment (HR)" tvg-logo="http://ms.motv.club:12076/images/8b79cc5c48ee8ffe2d3773dc1b5a730e.png" group-title="HRVATSKA", E! Entertainment (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1117.ts
-
-#EXTINF:-1 tvg-id="Fight Channel (HR)" tvg-logo="https://i.imgur.com/lh6y1sw.jpg" group-title="HRVATSKA", Fight Channel (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/41.ts
-
-#EXTINF:-1 tvg-id="Food Network (HR)" tvg-logo="http://ms.motv.club:12076/images/9b92559081120f0efb6a94cf78e3f2bf.png" group-title="HRVATSKA", Food Network (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1123.ts
-
-#EXTINF:-1 tvg-id="HBO (HR)" tvg-logo="https://i.imgur.com/IbtnDuu.png" group-title="HRVATSKA", HBO (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/299.ts
-
-#EXTINF:-1 tvg-id="HBO 2 (HR)" tvg-logo="https://i.imgur.com/aXUKoeA.png" group-title="HRVATSKA", HBO 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/300.ts
-
-#EXTINF:-1 tvg-id="HBO 3 (HR)" tvg-logo="https://i.imgur.com/c5KqyCY.png" group-title="HRVATSKA", HBO 3 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/301.ts
-
-#EXTINF:-1 tvg-id="HISTJ" tvg-logo="https://i.imgur.com/Ssvm9sJ.png" group-title="HRVATSKA", History (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/343.ts
-
-#EXTINF:-1 tvg-id="History 2 (HR)" tvg-logo="https://i.imgur.com/MOaVyzp.png" group-title="HRVATSKA", History 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/344.ts
-
-#EXTINF:-1 tvg-id="HNTV (HR)" tvg-logo="https://i.imgur.com/ZYvuIbe.png" group-title="HRVATSKA", HNTV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1245.ts
-
-#EXTINF:-1 tvg-id="HRT 1 HD (HR)" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="HRVATSKA", HRT 1 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1806.ts
-
-#EXTINF:-1 tvg-id="HRT 2 FHD (HR)" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="HRVATSKA", HRT 2 FHD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1773.ts
-
-#EXTINF:-1 tvg-id="HRT 2 HD (HR)" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="HRVATSKA", HRT 2 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/159.ts
-
-#EXTINF:-1 tvg-id="HRT 3 HD (HR)" tvg-logo="https://i.imgur.com/JCBfZEk.png" group-title="HRVATSKA", HRT 3 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/160.ts
-
-#EXTINF:-1 tvg-id="HRT 4 HD (HR)" tvg-logo="https://i.imgur.com/etbn5hI.png" group-title="HRVATSKA", HRT 4 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/161.ts
-
-#EXTINF:-1 tvg-id="HRT Int. (HR)" tvg-logo="https://i.imgur.com/YXqXwuo.png" group-title="HRVATSKA", HRT Int. (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/162.ts
-
-#EXTINF:-1 tvg-id="Jugoton (HR)" tvg-logo="https://i.imgur.com/g1rmZCB.png" group-title="HRVATSKA", Jugoton (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/281.ts
-
-#EXTINF:-1 tvg-id="KINO TV (HR)" tvg-logo="https://i.imgur.com/qrZzhrt.png" group-title="HRVATSKA", KINO TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/323.ts
-
-#EXTINF:-1 tvg-id="Klasik TV (HR)" tvg-logo="https://i.imgur.com/KuYzxkj.png" group-title="HRVATSKA", Klasik TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/310.ts
-
-#EXTINF:-1 tvg-id="Laudato TV (HR)" tvg-logo="https://i.imgur.com/QGV9bIJ.png" group-title="HRVATSKA", Laudato TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/177.ts
-
-#EXTINF:-1 tvg-id="Maria Vision - Međugorje (HR)" tvg-logo="https://i.imgur.com/dznz8EM.png" group-title="HRVATSKA", Maria Vision - Međugorje (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/181.ts
-
-#EXTINF:-1 tvg-id="MAX Sport 1 (HR)" tvg-logo="https://i.imgur.com/3Vc7J5k.png" group-title="HRVATSKA", MAX Sport 1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1303.ts
-
-#EXTINF:-1 tvg-id="MAX Sport 2 (HR)" tvg-logo="https://i.imgur.com/YQvLKGZ.png" group-title="HRVATSKA", MAX Sport 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1304.ts
-
-#EXTINF:-1 tvg-id="Mini TV (HR)" tvg-logo="https://i.imgur.com/4GRGxXv.png" group-title="HRVATSKA", Mini TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/328.ts
-
-#EXTINF:-1 tvg-id="MOTV Movies 1 (HR)" tvg-logo="https://i.imgur.com/pTo2vAW.png" group-title="HRVATSKA", MOTV Movies 1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1808.ts
-
-#EXTINF:-1 tvg-id="MTV Adria (HR)" tvg-logo="http://ms.motv.club:12076/images/aa65286f4699e494634a044fa56a6e18.png" group-title="HRVATSKA", MTV Adria (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1146.ts
-
-#EXTINF:-1 tvg-id="MTV Base (HR)" tvg-logo="http://ms.motv.club:12076/images/9bae7dcca2ed4fcdf0db7805c9c0e958.png" group-title="HRVATSKA", MTV Base (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1140.ts
-
-#EXTINF:-1 tvg-id="MTV Classic (HR)" tvg-logo="http://ms.motv.club:12076/images/841dfef95b1e307bf5939b2c0aed969b.png" group-title="HRVATSKA", MTV Classic (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1143.ts
-
-#EXTINF:-1 tvg-id="MTV Dance (HR)" tvg-logo="http://ms.motv.club:12076/images/242e19b814b04edf56402176fb92db31.png" group-title="HRVATSKA", MTV Dance (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1141.ts
-
-#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="http://ms.motv.club:12076/images/1e2094db41e9b5baf493dfb69ad2b3b0.png" group-title="HRVATSKA", MTV Hits International (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1144.ts
-
-#EXTINF:-1 tvg-id="MTV Music (HR)" tvg-logo="http://ms.motv.club:12076/images/e8c12a1560d459d1d2928a716e758782.png" group-title="HRVATSKA", MTV Music (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1145.ts
-
-#EXTINF:-1 tvg-id="MTV Rocks (HR)" tvg-logo="http://ms.motv.club:12076/images/c3fe9ee21c704ec405b39177269a90c3.png" group-title="HRVATSKA", MTV Rocks (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1142.ts
-
-#EXTINF:-1 tvg-id="N1 TV (HR)" tvg-logo="https://i.imgur.com/eldyGtP.png" group-title="HRVATSKA", N1 TV (HR)
+#EXTINF:-1 tvg-id="N1 TV" tvg-logo="https://i.imgur.com/eldyGtP.png" group-title="HRVATSKA", N1 TV 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/176.ts
 
-#EXTINF:-1 tvg-id="National Geographic (HR)" tvg-logo="https://i.imgur.com/Jm6X6YU.png" group-title="HRVATSKA", National Geographic (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/355.ts
-
-#EXTINF:-1 tvg-id="National Geographic Wild (HR)" tvg-logo="https://i.imgur.com/EKKWYpp.png" group-title="HRVATSKA", National Geographic Wild (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/354.ts
-
-#EXTINF:-1 tvg-id="Nick Junior (HR)" tvg-logo="https://i.imgur.com/ep47FDg.png" group-title="HRVATSKA", Nick Junior (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/330.ts
-
-#EXTINF:-1 tvg-id="Nickelodeon (HR)" tvg-logo="https://i.imgur.com/icDYxgT.png" group-title="HRVATSKA", Nickelodeon (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/329.ts
-
-#EXTINF:-1 tvg-id="NOVA Cinema (HR)" tvg-logo="https://i.imgur.com/RxBnNCk.png" group-title="HRVATSKA", NOVA Cinema (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1548.ts
-
-#EXTINF:-1 tvg-id="NOVA Family (HR)" tvg-logo="https://i.imgur.com/CJKvfAn.png" group-title="HRVATSKA", NOVA Family (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1768.ts
-
-#EXTINF:-1 tvg-id="NOVA TV (HR)" tvg-logo="https://i.imgur.com/Y9p7tTz.png" group-title="HRVATSKA", NOVA TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/163.ts
-
-#EXTINF:-1 tvg-id="NOVA TV HD (HR)" tvg-logo="https://i.imgur.com/Y9p7tTz.png" group-title="HRVATSKA", NOVA TV HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1149.ts
-
-#EXTINF:-1 tvg-id="OSJEČKA TV (HR)" tvg-logo="https://i.imgur.com/MYJCx5G.png" group-title="HRVATSKA", OSJEČKA TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/180.ts
-
-#EXTINF:-1 tvg-id="Pickbox TV (HR)" tvg-logo="https://i.imgur.com/k5m6Zd9.png" group-title="HRVATSKA", Pickbox TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1534.ts
-
-#EXTINF:-1 tvg-id="Pikaboo (HR)" tvg-logo="https://i.imgur.com/0yKUe0K.png" group-title="HRVATSKA", Pikaboo (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/333.ts
-
-#EXTINF:-1 tvg-id="PLAVA VINKOVAČKA (HR)" tvg-logo="https://i.imgur.com/4ZIQe7x.png" group-title="HRVATSKA", PLAVA VINKOVAČKA (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/179.ts
-
-#EXTINF:-1 tvg-id="RTL (HR)" tvg-logo="https://i.imgur.com/m20tWV1.png" group-title="HRVATSKA", RTL (HR)
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://i.imgur.com/m20tWV1.png" group-title="HRVATSKA", RTL 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/168.ts
 
-#EXTINF:-1 tvg-id="RTL 2 (HR)" tvg-logo="https://i.imgur.com/8BIxmXy.png" group-title="HRVATSKA", RTL 2 (HR)
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://i.imgur.com/8BIxmXy.png" group-title="HRVATSKA", RTL 2 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/170.ts
 
-#EXTINF:-1 tvg-id="RTL Adria (HR)" tvg-logo="https://i.imgur.com/KDwjfc0.png" group-title="HRVATSKA", RTL Adria (HR)
+#EXTINF:-1 tvg-id="RTL Adria" tvg-logo="https://i.imgur.com/KDwjfc0.png" group-title="HRVATSKA", RTL Adria 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/173.ts
 
-#EXTINF:-1 tvg-id="RTL Crime (HR)" tvg-logo="https://i.imgur.com/dh7hN9i.png" group-title="HRVATSKA", RTL Crime (HR)
+#EXTINF:-1 tvg-id="RTL Crime" tvg-logo="https://i.imgur.com/dh7hN9i.png" group-title="HRVATSKA", RTL Crime 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/172.ts
 
-#EXTINF:-1 tvg-id="RTLKOCK" tvg-logo="https://i.imgur.com/o4Yx5DT.png" group-title="HRVATSKA", RTL Kockica (HR)
+#EXTINF:-1 tvg-id="RTLKOCK" tvg-logo="https://i.imgur.com/o4Yx5DT.png" group-title="HRVATSKA", RTL Kockica 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/326.ts
 
-#EXTINF:-1 tvg-id="RTL Living (HR)" tvg-logo="https://i.imgur.com/MocRxVd.png" group-title="HRVATSKA", RTL Living (HR)
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://i.imgur.com/MocRxVd.png" group-title="HRVATSKA", RTL Living 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/174.ts
 
-#EXTINF:-1 tvg-id="RTL Passion (HR)" tvg-logo="https://i.imgur.com/grG7vSp.png" group-title="HRVATSKA", RTL Passion (HR)
+#EXTINF:-1 tvg-id="RTL Passion" tvg-logo="https://i.imgur.com/grG7vSp.png" group-title="HRVATSKA", RTL Passion 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/171.ts
 
-#EXTINF:-1 tvg-id="RTV Banovina (HR)" tvg-logo="https://i.imgur.com/Yg1nZLE.png" group-title="HRVATSKA", RTV Banovina (HR)
+#EXTINF:-1 tvg-id="RTV Banovina" tvg-logo="https://i.imgur.com/Yg1nZLE.png" group-title="HRVATSKA", RTV Banovina 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/182.ts
 
-#EXTINF:-1 tvg-id="Sport Klub 1 HD (HR)" tvg-logo="https://i.imgur.com/9YoqHZl.png" group-title="HRVATSKA", Sport Klub 1 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1242.ts
-
-#EXTINF:-1 tvg-id="Sport Klub 2 HD (HR)" tvg-logo="https://i.imgur.com/XU2Eod3.png" group-title="HRVATSKA", Sport Klub 2 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1243.ts
-
-#EXTINF:-1 tvg-id="Sport Klub 3 HD (HR)" tvg-logo="https://i.imgur.com/ck0yQ4f.png" group-title="HRVATSKA", Sport Klub 3 HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1244.ts
-
-#EXTINF:-1 tvg-id="Sportska Televizija (HR)" tvg-logo="https://i.imgur.com/GS66SOk.png" group-title="HRVATSKA", Sportska Televizija (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1772.ts
-
-#EXTINF:-1 tvg-id="STAR Chanel (HR)" tvg-logo="https://sire-media-foxhr.fichub.com/fox_hr/custompage-main/676115.1024x576.jpg" group-title="HRVATSKA", STAR Chanel (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/302.ts
-
-#EXTINF:-1 tvg-id="STAR Crime HD (HR)" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/starcrime.png" group-title="HRVATSKA", STAR Crime HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/305.ts
-
-#EXTINF:-1 tvg-id="STAR Life (HR)" tvg-logo="noimage.png" group-title="HRVATSKA", STAR Life (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/304.ts
-
-#EXTINF:-1 tvg-id="STAR Movies (HR)" tvg-logo="noimage.png" group-title="HRVATSKA", STAR Movies (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/303.ts
-
-#EXTINF:-1 tvg-id="STV - Slavonska televizija (HR)" tvg-logo="https://i.imgur.com/HSgTrdB.png" group-title="HRVATSKA", STV - Slavonska televizija (HR)
+#EXTINF:-1 tvg-id="STV - Slavonska televizija" tvg-logo="https://i.imgur.com/HSgTrdB.png" group-title="HRVATSKA", STV - Slavonska televizija 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/178.ts
 
-#EXTINF:-1 tvg-id="Travel Channel (HR)" tvg-logo="http://ms.motv.club:12076/images/28ddfc274d22ef447aa649aa103ed5fb.png" group-title="HRVATSKA", Travel Channel (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1118.ts
-
-#EXTINF:-1 tvg-id="TV 1000 (HR)" tvg-logo="https://i.imgur.com/74CbmA2.png" group-title="HRVATSKA", TV 1000 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/309.ts
-
-#EXTINF:-1 tvg-id="TV Jadran (HR)" tvg-logo="https://i.imgur.com/Jwm05ib.png" group-title="HRVATSKA", TV Jadran (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/185.ts
-
-#EXTINF:-1 tvg-id="VH1 (HR)" tvg-logo="https://i.imgur.com/h7x4AHr.png" group-title="HRVATSKA", VH1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1138.ts
-
-#EXTINF:-1 tvg-id="Viasat Explore (HR)" tvg-logo="https://i.imgur.com/Rkit80x.png" group-title="HRVATSKA", Viasat Explore (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1119.ts
-
-#EXTINF:-1 tvg-id="Viasat History (HR)" tvg-logo="https://i.imgur.com/V27Bb5N.png" group-title="HRVATSKA", Viasat History (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/349.ts
-
-#EXTINF:-1 tvg-id="Viasat Nature (HR)" tvg-logo="https://i.imgur.com/2wxKcRd.png" group-title="HRVATSKA", Viasat Nature (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/350.ts
-
-#EXTINF:-1 tvg-id="Z1 Televizija (HR)" tvg-logo="https://i.imgur.com/KklWESt.png" group-title="HRVATSKA", Z1 Televizija (HR)
+#EXTINF:-1 tvg-id="Z1 Televizija" tvg-logo="https://i.imgur.com/KklWESt.png" group-title="HRVATSKA", Z1 Televizija 
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/175.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD (SR)" tvg-logo="https://i.imgur.com/ICcXUBq.png" group-title="SRBIJA", Arena Sport 1 HD (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/12.ts
+#EXTINF:-1 tvg-id="Jabuka TV" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/25.%20JABUKA%20TV.png" group-title="HRVATSKA", Jabuka TV
+http://bntvs.com:2052/SasaM/637572757/8520
 
-#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.imgur.com/2sc3pq8.png" group-title="SRBIJA", Arena Sport 1 Premium (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/149.ts
+#EXTINF:-1 tvg-id="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="HRVATSKA", OTV
+http://ottshow.net:80/Dariog8/Glibo45/4537
 
-#EXTINF:-1 tvg-id="Arena Sport 2 HD (SR)" tvg-logo="https://i.imgur.com/BiApHOB.png" group-title="SRBIJA", Arena Sport 2 HD (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/13.ts
+#EXTINF:-1 tvg-id="BHT 1 (BiH)" tvg-logo="https://i.imgur.com/3TkJzxn.png" group-title="BOSNA I HERCEGOVINA", BHT 1 (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/42.ts
 
-#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.imgur.com/isuFE1l.png" group-title="SRBIJA", Arena Sport 2 Premium (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/150.ts
+#EXTINF:-1 tvg-id="BHT 1 HD (BiH)" tvg-logo="https://i.imgur.com/3TkJzxn.png" group-title="BOSNA I HERCEGOVINA", BHT 1 HD (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1892.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 3 HD (SR)" tvg-logo="https://i.imgur.com/WS1HCr8.png" group-title="SRBIJA", Arena Sport 3 HD (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/14.ts
+#EXTINF:-1 tvg-id="BN 2 HD  (BiH)" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="BOSNA I HERCEGOVINA", BN 2 HD  (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/215.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 3 Premium (SR)" tvg-logo="https://i.imgur.com/LJVCYpY.png" group-title="SRBIJA", Arena Sport 3 Premium (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/151.ts
+#EXTINF:-1 tvg-id="BN HD (BiH)" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="BOSNA I HERCEGOVINA", BN HD (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/214.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 4 HD (SR)" tvg-logo="https://i.imgur.com/29wEQv9.png" group-title="SRBIJA", Arena Sport 4 HD (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/15.ts
+#EXTINF:-1 tvg-id="BN Music (BiH)" tvg-logo="https://i.imgur.com/2pwyiOS.png" group-title="BOSNA I HERCEGOVINA", BN Music (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/292.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 5 (SR)" tvg-logo="https://i.imgur.com/Kpc9gup.png" group-title="SRBIJA", Arena Sport 5 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/152.ts
+#EXTINF:-1 tvg-id="City TV (BiH)" tvg-logo="https://i.imgur.com/7X4YkdA.png" group-title="BOSNA I HERCEGOVINA", City TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/203.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 6 (SR)" tvg-logo="https://i.imgur.com/Wk4lu7r.png" group-title="SRBIJA", Arena Sport 6 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/153.ts
+#EXTINF:-1 tvg-id="FACE TV (BiH)" tvg-logo="https://i.imgur.com/OZLjaeT.png" group-title="BOSNA I HERCEGOVINA", FACE TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/192.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 7 (SR)" tvg-logo="https://i.imgur.com/xMXqlQv.png" group-title="SRBIJA", Arena Sport 7 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/154.ts
+#EXTINF:-1 tvg-id="FEDERALNA TV HD (BiH)" tvg-logo="https://www.federalna.ba/images/logo.png" group-title="BOSNA I HERCEGOVINA", FEDERALNA TV HD (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/189.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 8 (SR)" tvg-logo="https://i.imgur.com/tLY0EZ0.png" group-title="SRBIJA", Arena Sport 8 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/155.ts
+#EXTINF:-1 tvg-id="HAYAT 2 (BiH)" tvg-logo="https://i.imgur.com/BiGJDFI.png" group-title="BOSNA I HERCEGOVINA", HAYAT 2 (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/195.ts
+
+#EXTINF:-1 tvg-id="HAYAT FOLK (BiH)" tvg-logo="https://i.imgur.com/PuaG4rj.png" group-title="BOSNA I HERCEGOVINA", HAYAT FOLK (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/291.ts
+
+#EXTINF:-1 tvg-id="HAYAT HD (BiH)" tvg-logo="https://i.imgur.com/jPaSOf5.png" group-title="BOSNA I HERCEGOVINA", HAYAT HD (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/194.ts
+
+#EXTINF:-1 tvg-id="HAYAT Music (BiH)" tvg-logo="https://i.imgur.com/yKPWNhB.png" group-title="BOSNA I HERCEGOVINA", HAYAT Music (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/290.ts
+
+#EXTINF:-1 tvg-id="IZVORNA TV (BiH)" tvg-logo="https://i.imgur.com/6ELcGs4.png" group-title="BOSNA I HERCEGOVINA", IZVORNA TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/206.ts
+
+#EXTINF:-1 tvg-id="Makkah TV (BiH)" tvg-logo="https://i.imgur.com/63gp3lQ.png" group-title="BOSNA I HERCEGOVINA", Makkah TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1100.ts
+
+#EXTINF:-1 tvg-id="MOJA TV (BiH)" tvg-logo="https://i.imgur.com/6KOPSWn.png" group-title="BOSNA I HERCEGOVINA", MOJA TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1902.ts
+
+#EXTINF:-1 tvg-id="MTV Igman (BiH)" tvg-logo="https://i.imgur.com/pmMQZSf.png" group-title="BOSNA I HERCEGOVINA", MTV Igman (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/208.ts
+
+#EXTINF:-1 tvg-id="N1 TV (BiH)" tvg-logo="https://i.imgur.com/eldyGtP.png" group-title="BOSNA I HERCEGOVINA", N1 TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/199.ts
+
+#EXTINF:-1 tvg-id="NOVA BH (BiH)" tvg-logo="https://i.imgur.com/4wPlivL.png" group-title="BOSNA I HERCEGOVINA", NOVA BH (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/43.ts
+
+#EXTINF:-1 tvg-id="NOVA BH HD (BiH)" tvg-logo="https://i.imgur.com/4wPlivL.png" group-title="BOSNA I HERCEGOVINA", NOVA BH HD (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1147.ts
+
+#EXTINF:-1 tvg-id="NOVA Sport (BiH)" tvg-logo="https://i.imgur.com/4pGFrc9.png" group-title="BOSNA I HERCEGOVINA", NOVA Sport (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/44.ts
+
+#EXTINF:-1 tvg-id="O KANAL (BiH)" tvg-logo="https://i.imgur.com/yvjKk7G.png" group-title="BOSNA I HERCEGOVINA", O KANAL (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/576.ts
+
+#EXTINF:-1 tvg-id="OBN (BiH)" tvg-logo="https://i.imgur.com/DEgt4jh.png" group-title="BOSNA I HERCEGOVINA", OBN (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/191.ts
+
+#EXTINF:-1 tvg-id="OTV Valentino (BiH)" tvg-logo="https://i.imgur.com/jLBU3pL.png" group-title="BOSNA I HERCEGOVINA", OTV Valentino (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/211.ts
+
+#EXTINF:-1 tvg-id="Posavina TV (BiH)" tvg-logo="https://i.imgur.com/Sd6E2qQ.png" group-title="BOSNA I HERCEGOVINA", Posavina TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/216.ts
+
+#EXTINF:-1 tvg-id="RTRS Plus (BiH)" tvg-logo="https://i.imgur.com/VgvErjB.png" group-title="BOSNA I HERCEGOVINA", RTRS Plus (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/198.ts
+
+#EXTINF:-1 tvg-id="RTV HercegBosne (BiH)" tvg-logo="https://i.imgur.com/l8giSnG.png" group-title="BOSNA I HERCEGOVINA", RTV HercegBosne (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/202.ts
+
+#EXTINF:-1 tvg-id="RTV Tuzlanskog kantona (BiH)" tvg-logo="https://i.imgur.com/tSqaIiE.png" group-title="BOSNA I HERCEGOVINA", RTV Tuzlanskog kantona (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/204.ts
+
+#EXTINF:-1 tvg-id="RTV USK (BiH)" tvg-logo="https://i.imgur.com/j3G2RS3.png" group-title="BOSNA I HERCEGOVINA", RTV USK (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/212.ts
+
+#EXTINF:-1 tvg-id="Sevdah (BiH)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sevdahtv-250x187-logo.png" group-title="BOSNA I HERCEGOVINA", Sevdah (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/218.ts
+
+#EXTINF:-1 tvg-id="TV Sarajevo (BiH)" tvg-logo="https://i.imgur.com/9qIsg1l.png" group-title="BOSNA I HERCEGOVINA", TV Sarajevo (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/207.ts
+
+#EXTINF:-1 tvg-id="Al Jazeera Balkans (BiH)" tvg-logo="https://i.imgur.com/AS4yPKe.png" group-title="BOSNA I HERCEGOVINA", Al Jazeera Balkans (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/193.ts
+
+#EXTINF:-1 tvg-id="ALFA TV (BiH)" tvg-logo="https://i.imgur.com/va0SSFb.png" group-title="BOSNA I HERCEGOVINA", ALFA TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/219.ts
+
+#EXTINF:-1 tvg-id="ATV (BiH)" tvg-logo="https://i.imgur.com/f2a2j8f.png" group-title="BOSNA I HERCEGOVINA", ATV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/205.ts
 
 #EXTINF:-1 tvg-id="B92.rs" tvg-logo="http://ms.motv.club:12076/images/4de43bedf4459eee54afca9340a959f1.png" group-title="SRBIJA", B92 (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/232.ts
-
-#EXTINF:-1 tvg-id="Balkanika (SR)" tvg-logo="http://ms.motv.club:12076/images/f75ab509a5c97f1e2f017d25a11978d3.png" group-title="SRBIJA", Balkanika (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/289.ts
-
-#EXTINF:-1 tvg-id="Cinemania HD (SR)" tvg-logo="http://ms.motv.club:12076/images/f804a1bbe8a6c31bfb954bea673f9289.png" group-title="SRBIJA", Cinemania HD (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/324.ts
-
-#EXTINF:-1 tvg-id="DM SAT (SR)" tvg-logo="http://ms.motv.club:12076/images/69a8a136764ccdcf3ee147eee9d17820.png" group-title="SRBIJA", DM SAT (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/286.ts
 
 #EXTINF:-1 tvg-id="Elita 1 (SR)" tvg-logo="https://i.imgur.com/SlmokeQ.png" group-title="SRBIJA", Elita 1 (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/243.ts
@@ -383,161 +174,17 @@ http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/245.ts
 #EXTINF:-1 tvg-id="Elita 4 (SR)" tvg-logo="https://i.imgur.com/SlmokeQ.png" group-title="SRBIJA", Elita 4 (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/246.ts
 
-#EXTINF:-1 tvg-id="EUROSPORT 1 (SR)" tvg-logo="https://i.imgur.com/RUhnQfx.png" group-title="SRBIJA", EUROSPORT 1 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/32.ts
-
-#EXTINF:-1 tvg-id="EUROSPORT 2 (SR)" tvg-logo="https://i.imgur.com/091LMwS.png" group-title="SRBIJA", EUROSPORT 2 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/33.ts
-
-#EXTINF:-1 tvg-id="GRAND TV (SR)" tvg-logo="https://i.imgur.com/KMdecSq.png" group-title="SRBIJA", GRAND TV (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/282.ts
-
-#EXTINF:-1 tvg-id="GRAND TV (SR)" tvg-logo="https://i.imgur.com/KMdecSq.png" group-title="SRBIJA", GRAND TV (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/282.ts
-
-#EXTINF:-1 tvg-id="GRAND TV 2 (SR)" tvg-logo="https://i.imgur.com/4thqYlZ.png" group-title="SRBIJA", GRAND TV 2 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/283.ts
-
 #EXTINF:-1 tvg-id="Happy.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/happy-tv.png" group-title="SRBIJA", HAPPY (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/235.ts
 
 #EXTINF:-1 tvg-id="HAPPY Parovi - LIVE (SR)" tvg-logo="http://ms.motv.club:12076/images/5f788e21d28e28926b306d29424dc414.png" group-title="SRBIJA", HAPPY Parovi - LIVE (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1101.ts
 
-#EXTINF:-1 tvg-id="IDJ TV (SR)" tvg-logo="http://ms.motv.club:12076/images/bca34547bf257ea7189c2c124252b584.png" group-title="SRBIJA", IDJ TV (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/288.ts
-
-#EXTINF:-1 tvg-id="KCN 2 (SR)" tvg-logo="https://i.ibb.co/bdZkSbV/kcn-2.png" group-title="SRBIJA", KCN 2 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/297.ts
-
-#EXTINF:-1 tvg-id="KCN Kopernikus 1 (SR)" tvg-logo="https://i.ibb.co/597qNhK/kcn1-logo.png" group-title="SRBIJA", KCN Kopernikus 1 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/296.ts
-
-#EXTINF:-1 tvg-id="KCN SVET +3 (SR)" tvg-logo="https://i.ibb.co/jfSyt2q/kcn-3.png" group-title="SRBIJA", KCN SVET +3 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/298.ts
-
-#EXTINF:-1 tvg-id="Lov i Ribolov (SR)" tvg-logo="https://i.imgur.com/sLh8GRh.png" group-title="SRBIJA", Lov i Ribolov (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/357.ts
-
-#EXTINF:-1 tvg-id="Minimax (SR)" tvg-logo="https://i.ibb.co/ZWHBMZ8/Minimax-logo.png" group-title="SRBIJA", Minimax (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/331.ts
-
 #EXTINF:-1 tvg-id="N1 TV (SR)" tvg-logo="https://i.imgur.com/eldyGtP.png" group-title="SRBIJA", N1 TV (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/239.ts
 
 #EXTINF:-1 tvg-id="NovaTV.rs" tvg-logo="https://i.imgur.com/y45sttr.png" group-title="SRBIJA", NOVA S HD (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/233.ts
-
-#EXTINF:-1 tvg-id="Pink 1 (SR)" tvg-logo="https://i.imgur.com/HILfCTi.png" group-title="SRBIJA", Pink 1 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/240.ts
-
-#EXTINF:-1 tvg-id="Pink 2 (SR)" tvg-logo="https://i.imgur.com/QLY8ll2.jpeg" group-title="SRBIJA", Pink 2 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1771.ts
-
-#EXTINF:-1 tvg-id="Pink 3 | Info (SR)" tvg-logo="https://i.imgur.com/pnNNxgJ.png" group-title="SRBIJA", Pink 3 | Info (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/242.ts
-
-#EXTINF:-1 tvg-id="Pink Action (SR)" tvg-logo="https://i.imgur.com/CkOTmlD.png" group-title="SRBIJA", Pink Action (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/278.ts
-
-#EXTINF:-1 tvg-id="Pink BiH (SR)" tvg-logo="https://i.imgur.com/ntn2R7l.png" group-title="SRBIJA", Pink BiH (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/264.ts
-
-#EXTINF:-1 tvg-id="Pink Classic (SR)" tvg-logo="https://i.imgur.com/Lyq9L36.png" group-title="SRBIJA", Pink Classic (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/273.ts
-
-#EXTINF:-1 tvg-id="Pink Comedy (SR)" tvg-logo="https://i.imgur.com/77muUrb.png" group-title="SRBIJA", Pink Comedy (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/275.ts
-
-#EXTINF:-1 tvg-id="Pink Crime & Mystery (SR)" tvg-logo="https://i.imgur.com/pQcfphX.png" group-title="SRBIJA", Pink Crime & Mystery (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/259.ts
-
-#EXTINF:-1 tvg-id="Pink Extra (SR)" tvg-logo="https://i.imgur.com/EG787Rs.png" group-title="SRBIJA", Pink Extra (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/271.ts
-
-#EXTINF:-1 tvg-id="Pink Fashion (SR)" tvg-logo="https://i.imgur.com/kdEccLj.png" group-title="SRBIJA", Pink Fashion (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/277.ts
-
-#EXTINF:-1 tvg-id="Pink Film (SR)" tvg-logo="https://i.imgur.com/xb1BdZc.png" group-title="SRBIJA", Pink Film (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/274.ts
-
-#EXTINF:-1 tvg-id="Pink Folk 1 (SR)" tvg-logo="https://i.imgur.com/QUSZIO7.png" group-title="SRBIJA", Pink Folk 1 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/284.ts
-
-#EXTINF:-1 tvg-id="Pink Folk 2 (SR)" tvg-logo="https://i.imgur.com/sIBXCUL.png" group-title="SRBIJA", Pink Folk 2 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/285.ts
-
-#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="https://i.imgur.com/FSKwEkn.png" group-title="SRBIJA", Pink HA-HA (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/276.ts
-
-#EXTINF:-1 tvg-id="Pink Horror (SR)" tvg-logo="https://i.imgur.com/jwOPBW7.png" group-title="SRBIJA", Pink Horror (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/270.ts
-
-#EXTINF:-1 tvg-id="Pink Kuvar (SR)" tvg-logo="https://i.imgur.com/imfaZIn.png" group-title="SRBIJA", Pink Kuvar (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/262.ts
-
-#EXTINF:-1 tvg-id="Pink LOL (SR)" tvg-logo="https://i.imgur.com/aWvanBb.png" group-title="SRBIJA", Pink LOL (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/251.ts
-
-#EXTINF:-1 tvg-id="Pink M (SR)" tvg-logo="https://i.imgur.com/tw5s9XO.png" group-title="SRBIJA", Pink M (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/265.ts
-
-#EXTINF:-1 tvg-id="Pink Movies (SR)" tvg-logo="https://i.imgur.com/6I7rIqb.png" group-title="SRBIJA", Pink Movies (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/257.ts
-
-#EXTINF:-1 tvg-id="Pink Music (SR)" tvg-logo="https://i.imgur.com/j3GwhDY.png" group-title="SRBIJA", Pink Music (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/294.ts
-
-#EXTINF:-1 tvg-id="Pink Music 2 (SR)" tvg-logo="https://i.imgur.com/qN2gAGj.png" group-title="SRBIJA", Pink Music 2 (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/295.ts
-
-#EXTINF:-1 tvg-id="Pink Pedia (SR)" tvg-logo="https://i.imgur.com/S7YdcGM.png" group-title="SRBIJA", Pink Pedia (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/263.ts
-
-#EXTINF:-1 tvg-id="Pink Plus (SR)" tvg-logo="https://i.imgur.com/dStqYKL.png" group-title="SRBIJA", Pink Plus (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/261.ts
-
-#EXTINF:-1 tvg-id="Pink Premium (SR)" tvg-logo="https://i.imgur.com/oeAQgyn.png" group-title="SRBIJA", Pink Premium (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/247.ts
-
-#EXTINF:-1 tvg-id="Pink Reality (SR)" tvg-logo="https://i.imgur.com/2A1OQWn.png" group-title="SRBIJA", Pink Reality (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/256.ts
-
-#EXTINF:-1 tvg-id="Pink Romance (SR)" tvg-logo="https://i.imgur.com/WNUOKyt.png" group-title="SRBIJA", Pink Romance (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/269.ts
-
-#EXTINF:-1 tvg-id="Pink Sci-Fi & Fantasy (SR)" tvg-logo="https://i.imgur.com/CoDv9VN.png" group-title="SRBIJA", Pink Sci-Fi & Fantasy (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/268.ts
-
-#EXTINF:-1 tvg-id="Pink Serije (SR)" tvg-logo="https://i.imgur.com/mfXyEZH.png" group-title="SRBIJA", Pink Serije (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/250.ts
-
-#EXTINF:-1 tvg-id="Pink Soap (SR)" tvg-logo="https://i.imgur.com/o4jjvUn.png" group-title="SRBIJA", Pink Soap (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/267.ts
-
-#EXTINF:-1 tvg-id="Pink Style (SR)" tvg-logo="https://i.imgur.com/n6yFx8d.png" group-title="SRBIJA", Pink Style (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/266.ts
-
-#EXTINF:-1 tvg-id="Pink SuperKids (SR)" tvg-logo="https://i.imgur.com/K9tCazZ.png" group-title="SRBIJA", Pink SuperKids (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/332.ts
-
-#EXTINF:-1 tvg-id="Pink Thriller (SR)" tvg-logo="https://i.imgur.com/0myHZcQ.png" group-title="SRBIJA", Pink Thriller (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/272.ts
-
-#EXTINF:-1 tvg-id="Pink Western (SR)" tvg-logo="https://i.imgur.com/zabxAXq.png" group-title="SRBIJA", Pink Western (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/255.ts
-
-#EXTINF:-1 tvg-id="Pink World (SR)" tvg-logo="https://i.imgur.com/nICYNUM.png" group-title="SRBIJA", Pink World (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/260.ts
-
-#EXTINF:-1 tvg-id="Pink Zabava (SR)" tvg-logo="https://i.imgur.com/vhCJE6C.png" group-title="SRBIJA", Pink Zabava (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/258.ts
-
-#EXTINF:-1 tvg-id="PRVA KICK (SR)" tvg-logo="http://ms.motv.club:12076/images/05cbb1b8eccebd372a28cce9f7703b9b.png" group-title="SRBIJA", PRVA KICK (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/231.ts
-
-#EXTINF:-1 tvg-id="PRVA MAX (SR)" tvg-logo="http://ms.motv.club:12076/images/eb972cc462e312b7dc24a8498ea30886.png" group-title="SRBIJA", PRVA MAX (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/230.ts
 
 #EXTINF:-1 tvg-id="PRVA PLUS (SR)" tvg-logo="http://ms.motv.club:12076/images/128b1a0ac77f942c98205a22d06cdded.png" group-title="SRBIJA", PRVA PLUS (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/229.ts
@@ -584,325 +231,661 @@ http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/249.ts
 #EXTINF:-1 tvg-id="Studio B (SR)" tvg-logo="https://i.ibb.co/gS6NYM2/Studio-B-Productions-logo-svg.png" group-title="SRBIJA", Studio B (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/238.ts
 
-#EXTINF:-1 tvg-id="Televizija Hram (SR)" tvg-logo="http://ms.motv.club:12076/images/690806ba82293d0c7365a7a40c62c734.png" group-title="SRBIJA", Televizija Hram (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1104.ts
+#EXTINF:-1 tvg-id="MAX Sport 1 " tvg-logo="https://i.imgur.com/3Vc7J5k.png" group-title="SPORT", MAX Sport 1 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1303.ts
 
-#EXTINF:-1 tvg-id="TV DUGA+ (SR)" tvg-logo="http://ms.motv.club:12076/images/051ca4620cfd7627f7ee0e58058a6c6d.png" group-title="SRBIJA", TV DUGA+ (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/287.ts
+#EXTINF:-1 tvg-id="MAX Sport 2 " tvg-logo="https://i.imgur.com/YQvLKGZ.png" group-title="SPORT", MAX Sport 2 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1304.ts
 
-#EXTINF:-1 tvg-id="Al Jazeera Balkans (BiH)" tvg-logo="https://i.imgur.com/AS4yPKe.png" group-title="BIH", Al Jazeera Balkans (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/193.ts
+#EXTINF:-1 tvg-id="Arena Sport 1  / BACKUP" tvg-logo="https://i.imgur.com/SoAAEYt.png" group-title="SPORT", Arena Sport 1  / BACKUP
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1290.ts
 
-#EXTINF:-1 tvg-id="ALFA TV (BiH)" tvg-logo="https://i.imgur.com/va0SSFb.png" group-title="BIH", ALFA TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/219.ts
+#EXTINF:-1 tvg-id="Arena Sport 1  / BACKUP #2" tvg-logo="https://i.imgur.com/SoAAEYt.png" group-title="SPORT", Arena Sport 1  / BACKUP #2
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1573.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD (BiH)" tvg-logo="https://i.imgur.com/RHN4csU.png" group-title="BIH", Arena Sport 1 HD (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/16.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 HD " tvg-logo="https://i.imgur.com/SoAAEYt.png" group-title="SPORT", Arena Sport 1 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/6.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 1 Premium (BiH)" tvg-logo="https://i.imgur.com/BylfX7n.png" group-title="BIH", Arena Sport 1 Premium (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1608.ts
+#EXTINF:-1 tvg-id="Arena Sport 10 HD " tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="SPORT", Arena Sport 10 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/147.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 2 (BiH)" tvg-logo="https://i.imgur.com/AXP7uLn.png" group-title="BIH", Arena Sport 2 (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1897.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 HD " tvg-logo="https://i.imgur.com/jCNJFIp.png" group-title="SPORT", Arena Sport 2 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/7.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 2 Premium (BiH)" tvg-logo="https://i.imgur.com/W5ig3Yn.png" group-title="BIH", Arena Sport 2 Premium (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1609.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 HD " tvg-logo="https://i.imgur.com/sDTzFm0.png" group-title="SPORT", Arena Sport 3 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/8.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 3 (BiH)" tvg-logo="https://i.imgur.com/myHMqGT.png" group-title="BIH", Arena Sport 3 (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1898.ts
+#EXTINF:-1 tvg-id="Arena Sport 4 HD " tvg-logo="https://i.imgur.com/aY6mBj8.png" group-title="SPORT", Arena Sport 4 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/9.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 3 Premium (BiH)" tvg-logo="https://i.imgur.com/kCjg1wj.png" group-title="BIH", Arena Sport 3 Premium (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1610.ts
+#EXTINF:-1 tvg-id="Arena Sport 5 HD " tvg-logo="https://i.imgur.com/lBO5BAw.png" group-title="SPORT", Arena Sport 5 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/10.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 4 (BiH)" tvg-logo="https://i.imgur.com/HujJTnC.png" group-title="BIH", Arena Sport 4 (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1899.ts
+#EXTINF:-1 tvg-id="Arena Sport 6 HD " tvg-logo="https://i.imgur.com/dEafcXH.png" group-title="SPORT", Arena Sport 6 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/11.ts
 
-#EXTINF:-1 tvg-id="Arena Sport 5 (BiH)" tvg-logo="https://i.imgur.com/C145loY.png" group-title="BIH", Arena Sport 5 (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1900.ts
+#EXTINF:-1 tvg-id="Arena Sport 7 HD " tvg-logo="https://i.imgur.com/SsbZBS9.png" group-title="SPORT", Arena Sport 7 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/144.ts
 
-#EXTINF:-1 tvg-id="ATV (BiH)" tvg-logo="https://i.imgur.com/f2a2j8f.png" group-title="BIH", ATV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/205.ts
+#EXTINF:-1 tvg-id="Arena Sport 8 HD " tvg-logo="https://i.imgur.com/wedjvCy.png" group-title="SPORT", Arena Sport 8 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/145.ts
 
-#EXTINF:-1 tvg-id="BHT 1 (BiH)" tvg-logo="https://i.imgur.com/3TkJzxn.png" group-title="BIH", BHT 1 (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/42.ts
+#EXTINF:-1 tvg-id="Arena Sport 9 HD " tvg-logo="https://i.imgur.com/lfUPHJT.png" group-title="SPORT", Arena Sport 9 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/146.ts
 
-#EXTINF:-1 tvg-id="BHT 1 HD (BiH)" tvg-logo="https://i.imgur.com/3TkJzxn.png" group-title="BIH", BHT 1 HD (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1892.ts
+#EXTINF:-1 tvg-id="Sport Klub 1 HD " tvg-logo="https://i.imgur.com/9YoqHZl.png" group-title="SPORT", Sport Klub 1 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1242.ts
 
-#EXTINF:-1 tvg-id="BN 2 HD  (BiH)" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="BIH", BN 2 HD  (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/215.ts
+#EXTINF:-1 tvg-id="Sport Klub 2 HD " tvg-logo="https://i.imgur.com/XU2Eod3.png" group-title="SPORT", Sport Klub 2 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1243.ts
 
-#EXTINF:-1 tvg-id="BN HD (BiH)" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="BIH", BN HD (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/214.ts
+#EXTINF:-1 tvg-id="Sport Klub 3 HD " tvg-logo="https://i.imgur.com/ck0yQ4f.png" group-title="SPORT", Sport Klub 3 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1244.ts
 
-#EXTINF:-1 tvg-id="BN Music (BiH)" tvg-logo="https://i.imgur.com/2pwyiOS.png" group-title="BIH", BN Music (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/292.ts
+#EXTINF:-1 tvg-id="Sportska Televizija " tvg-logo="https://i.imgur.com/GS66SOk.png" group-title="SPORT", Sportska Televizija 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1772.ts
 
-#EXTINF:-1 tvg-id="City TV (BiH)" tvg-logo="https://i.imgur.com/7X4YkdA.png" group-title="BIH", City TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/203.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 HD (SR)" tvg-logo="https://i.imgur.com/ICcXUBq.png" group-title="SPORT", Arena Sport 1 HD (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/12.ts
 
-#EXTINF:-1 tvg-id="FACE TV (BiH)" tvg-logo="https://i.imgur.com/OZLjaeT.png" group-title="BIH", FACE TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/192.ts
+#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.imgur.com/2sc3pq8.png" group-title="SPORT", Arena Sport 1 Premium (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/149.ts
 
-#EXTINF:-1 tvg-id="FEDERALNA TV HD (BiH)" tvg-logo="https://www.federalna.ba/images/logo.png" group-title="BIH", FEDERALNA TV HD (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/189.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 HD (SR)" tvg-logo="https://i.imgur.com/BiApHOB.png" group-title="SPORT", Arena Sport 2 HD (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/13.ts
 
-#EXTINF:-1 tvg-id="HAYAT 2 (BiH)" tvg-logo="https://i.imgur.com/BiGJDFI.png" group-title="BIH", HAYAT 2 (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/195.ts
+#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.imgur.com/isuFE1l.png" group-title="SPORT", Arena Sport 2 Premium (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/150.ts
 
-#EXTINF:-1 tvg-id="HAYAT FOLK (BiH)" tvg-logo="https://i.imgur.com/PuaG4rj.png" group-title="BIH", HAYAT FOLK (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/291.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 HD (SR)" tvg-logo="https://i.imgur.com/WS1HCr8.png" group-title="SPORT", Arena Sport 3 HD (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/14.ts
 
-#EXTINF:-1 tvg-id="HAYAT HD (BiH)" tvg-logo="https://i.imgur.com/jPaSOf5.png" group-title="BIH", HAYAT HD (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/194.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 Premium (SR)" tvg-logo="https://i.imgur.com/LJVCYpY.png" group-title="SPORT", Arena Sport 3 Premium (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/151.ts
 
-#EXTINF:-1 tvg-id="HAYAT Music (BiH)" tvg-logo="https://i.imgur.com/yKPWNhB.png" group-title="BIH", HAYAT Music (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/290.ts
+#EXTINF:-1 tvg-id="Arena Sport 4 HD (SR)" tvg-logo="https://i.imgur.com/29wEQv9.png" group-title="SPORT", Arena Sport 4 HD (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/15.ts
 
-#EXTINF:-1 tvg-id="HAYATOVCI (BiH)" tvg-logo="https://i.imgur.com/FzgwBsg.png" group-title="BIH", HAYATOVCI (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/196.ts
+#EXTINF:-1 tvg-id="Arena Sport 5 (SR)" tvg-logo="https://i.imgur.com/Kpc9gup.png" group-title="SPORT", Arena Sport 5 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/152.ts
 
-#EXTINF:-1 tvg-id="IZVORNA TV (BiH)" tvg-logo="https://i.imgur.com/6ELcGs4.png" group-title="BIH", IZVORNA TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/206.ts
+#EXTINF:-1 tvg-id="Arena Sport 6 (SR)" tvg-logo="https://i.imgur.com/Wk4lu7r.png" group-title="SPORT", Arena Sport 6 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/153.ts
 
-#EXTINF:-1 tvg-id="Makkah TV (BiH)" tvg-logo="https://i.imgur.com/63gp3lQ.png" group-title="BIH", Makkah TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1100.ts
+#EXTINF:-1 tvg-id="Arena Sport 7 (SR)" tvg-logo="https://i.imgur.com/xMXqlQv.png" group-title="SPORT", Arena Sport 7 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/154.ts
 
-#EXTINF:-1 tvg-id="MOJA TV (BiH)" tvg-logo="https://i.imgur.com/6KOPSWn.png" group-title="BIH", MOJA TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1902.ts
+#EXTINF:-1 tvg-id="Arena Sport 8 (SR)" tvg-logo="https://i.imgur.com/tLY0EZ0.png" group-title="SPORT", Arena Sport 8 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/155.ts
 
-#EXTINF:-1 tvg-id="MOJA TV (BiH)" tvg-logo="https://i.imgur.com/6KOPSWn.png" group-title="BIH", MOJA TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1902.ts
-
-#EXTINF:-1 tvg-id="MTV Igman (BiH)" tvg-logo="https://i.imgur.com/pmMQZSf.png" group-title="BIH", MTV Igman (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/208.ts
-
-#EXTINF:-1 tvg-id="N1 TV (BiH)" tvg-logo="https://i.imgur.com/eldyGtP.png" group-title="BIH", N1 TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/199.ts
-
-#EXTINF:-1 tvg-id="NOVA BH (BiH)" tvg-logo="https://i.imgur.com/4wPlivL.png" group-title="BIH", NOVA BH (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/43.ts
-
-#EXTINF:-1 tvg-id="NOVA BH HD (BiH)" tvg-logo="https://i.imgur.com/4wPlivL.png" group-title="BIH", NOVA BH HD (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1147.ts
-
-#EXTINF:-1 tvg-id="NOVA Sport (BiH)" tvg-logo="https://i.imgur.com/4pGFrc9.png" group-title="BIH", NOVA Sport (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/44.ts
-
-#EXTINF:-1 tvg-id="O KANAL (BiH)" tvg-logo="https://i.imgur.com/yvjKk7G.png" group-title="BIH", O KANAL (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/576.ts
-
-#EXTINF:-1 tvg-id="OBN (BiH)" tvg-logo="https://i.imgur.com/DEgt4jh.png" group-title="BIH", OBN (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/191.ts
-
-#EXTINF:-1 tvg-id="OTV Valentino (BiH)" tvg-logo="https://i.imgur.com/jLBU3pL.png" group-title="BIH", OTV Valentino (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/211.ts
-
-#EXTINF:-1 tvg-id="Posavina TV (BiH)" tvg-logo="https://i.imgur.com/Sd6E2qQ.png" group-title="BIH", Posavina TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/216.ts
-
-#EXTINF:-1 tvg-id="RTRS (BiH)" tvg-logo="https://i.imgur.com/fb8m6jo.png" group-title="BIH", RTRS (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/197.ts
-
-#EXTINF:-1 tvg-id="RTRS Plus (BiH)" tvg-logo="https://i.imgur.com/VgvErjB.png" group-title="BIH", RTRS Plus (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/198.ts
-
-#EXTINF:-1 tvg-id="RTV HercegBosne (BiH)" tvg-logo="https://i.imgur.com/l8giSnG.png" group-title="BIH", RTV HercegBosne (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/202.ts
-
-#EXTINF:-1 tvg-id="RTV Tuzlanskog kantona (BiH)" tvg-logo="https://i.imgur.com/tSqaIiE.png" group-title="BIH", RTV Tuzlanskog kantona (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/204.ts
-
-#EXTINF:-1 tvg-id="RTV USK (BiH)" tvg-logo="https://i.imgur.com/j3G2RS3.png" group-title="BIH", RTV USK (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/212.ts
-
-#EXTINF:-1 tvg-id="Sevdah (BiH)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sevdahtv-250x187-logo.png" group-title="BIH", Sevdah (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/218.ts
-
-#EXTINF:-1 tvg-id="TV Sarajevo (BiH)" tvg-logo="https://i.imgur.com/9qIsg1l.png" group-title="BIH", TV Sarajevo (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/207.ts
-
-#EXTINF:-1 tvg-id="Maša i Medo (24/7)" tvg-logo="https://i.imgur.com/M3aqlmn.png" group-title="Dječiji", Maša i Medo (24/7)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1767.ts
-
-#EXTINF:-1 tvg-id="Peppa Pig (24/7)" tvg-logo="https://i.imgur.com/CmZwwSB.png" group-title="Dječiji", Peppa Pig (24/7)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1769.ts
-
-#EXTINF:-1 tvg-id="Mickey Mouse (24/7)" tvg-logo="https://i.imgur.com/3kfj3xl.png" group-title="Dječiji", Mickey Mouse (24/7)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1770.ts
-
-#EXTINF:-1 tvg-id="RTLKOCK" tvg-logo="https://i.imgur.com/o4Yx5DT.png" group-title="Dječiji", RTL Kockica (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/326.ts
-
-#EXTINF:-1 tvg-id="BabyTV (HR)" tvg-logo="https://i.imgur.com/R8DESFC.png" group-title="Dječiji", BabyTV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/327.ts
-
-#EXTINF:-1 tvg-id="Mini TV (HR)" tvg-logo="https://i.imgur.com/4GRGxXv.png" group-title="Dječiji", Mini TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/328.ts
-
-#EXTINF:-1 tvg-id="Nickelodeon (HR)" tvg-logo="https://i.imgur.com/icDYxgT.png" group-title="Dječiji", Nickelodeon (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/329.ts
-
-#EXTINF:-1 tvg-id="Nick Junior (HR)" tvg-logo="https://i.imgur.com/ep47FDg.png" group-title="Dječiji", Nick Junior (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/330.ts
-
-#EXTINF:-1 tvg-id="Pikaboo (HR)" tvg-logo="https://i.imgur.com/0yKUe0K.png" group-title="Dječiji", Pikaboo (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/333.ts
-
-#EXTINF:-1 tvg-id="HAYATOVCI (BiH)" tvg-logo="https://i.imgur.com/FzgwBsg.png" group-title="Dječiji", HAYATOVCI (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/196.ts
-
-#EXTINF:-1 tvg-id="Minimax (SR)" tvg-logo="https://i.ibb.co/ZWHBMZ8/Minimax-logo.png" group-title="Dječiji", Minimax (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/331.ts
-
-#EXTINF:-1 tvg-id="Pink SuperKids (SR)" tvg-logo="https://i.imgur.com/K9tCazZ.png" group-title="Dječiji", Pink SuperKids (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/332.ts
-
-#EXTINF:-1 tvg-id="HISTJ" tvg-logo="https://i.imgur.com/Ssvm9sJ.png" group-title="Dokumentarni", History (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/343.ts
-
-#EXTINF:-1 tvg-id="History 2 (HR)" tvg-logo="https://i.imgur.com/MOaVyzp.png" group-title="Dokumentarni", History 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/344.ts
-
-#EXTINF:-1 tvg-id="BBC Earth (HR)" tvg-logo="https://i.imgur.com/FkJgo4R.png" group-title="Dokumentarni", BBC Earth (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/346.ts
-
-#EXTINF:-1 tvg-id="Viasat History (HR)" tvg-logo="https://i.imgur.com/V27Bb5N.png" group-title="Dokumentarni", Viasat History (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/349.ts
-
-#EXTINF:-1 tvg-id="Viasat Nature (HR)" tvg-logo="https://i.imgur.com/2wxKcRd.png" group-title="Dokumentarni", Viasat Nature (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/350.ts
-
-#EXTINF:-1 tvg-id="Animal Planet (HR)" tvg-logo="https://i.imgur.com/RUdGydn.png" group-title="Dokumentarni", Animal Planet (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/351.ts
-
-#EXTINF:-1 tvg-id="Discovery HD (HR)" tvg-logo="https://i.imgur.com/rhWc6VB.png" group-title="Dokumentarni", Discovery HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/352.ts
-
-#EXTINF:-1 tvg-id="Discovery Science (HR)" tvg-logo="https://i.imgur.com/S0dgGTR.png" group-title="Dokumentarni", Discovery Science (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/353.ts
-
-#EXTINF:-1 tvg-id="National Geographic Wild (HR)" tvg-logo="https://i.imgur.com/EKKWYpp.png" group-title="Dokumentarni", National Geographic Wild (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/354.ts
-
-#EXTINF:-1 tvg-id="National Geographic (HR)" tvg-logo="https://i.imgur.com/Jm6X6YU.png" group-title="Dokumentarni", National Geographic (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/355.ts
-
-#EXTINF:-1 tvg-id="Crime & Investigation (HR)" tvg-logo="https://i.imgur.com/aWONJ2k.png" group-title="Dokumentarni", Crime & Investigation (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/356.ts
-
-#EXTINF:-1 tvg-id="Lov i Ribolov (SR)" tvg-logo="https://i.imgur.com/sLh8GRh.png" group-title="Dokumentarni", Lov i Ribolov (SR)
+#EXTINF:-1 tvg-id="Lov i Ribolov (SR)" tvg-logo="https://i.imgur.com/sLh8GRh.png" group-title="SPORT", Lov i Ribolov (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/357.ts
 
-#EXTINF:-1 tvg-id="MOTV Movies 1 (HR)" tvg-logo="https://i.imgur.com/pTo2vAW.png" group-title="Filmski", MOTV Movies 1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1808.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 HD (BiH)" tvg-logo="https://i.imgur.com/RHN4csU.png" group-title="SPORT", Arena Sport 1 HD (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/16.ts
 
-#EXTINF:-1 tvg-id="HBO (HR)" tvg-logo="https://i.imgur.com/IbtnDuu.png" group-title="Filmski", HBO (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/299.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium (BiH)" tvg-logo="https://i.imgur.com/BylfX7n.png" group-title="SPORT", Arena Sport 1 Premium (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1608.ts
 
-#EXTINF:-1 tvg-id="HBO 2 (HR)" tvg-logo="https://i.imgur.com/aXUKoeA.png" group-title="Filmski", HBO 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/300.ts
+#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.imgur.com/2sc3pq8.png" group-title="SPORT", Arena Sport 1 Premium (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/149.ts
 
-#EXTINF:-1 tvg-id="HBO 3 (HR)" tvg-logo="https://i.imgur.com/c5KqyCY.png" group-title="Filmski", HBO 3 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/301.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 (BiH)" tvg-logo="https://i.imgur.com/AXP7uLn.png" group-title="SPORT", Arena Sport 2 (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1897.ts
 
-#EXTINF:-1 tvg-id="CineStar TV (HR)" tvg-logo="https://i.imgur.com/7JaTuwN.png" group-title="Filmski", CineStar TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/317.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 Premium (BiH)" tvg-logo="https://i.imgur.com/W5ig3Yn.png" group-title="SPORT", Arena Sport 2 Premium (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1609.ts
 
-#EXTINF:-1 tvg-id="CineStar Action (HR)" tvg-logo="https://i.imgur.com/xUC3by4.png" group-title="Filmski", CineStar Action (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/318.ts
+#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.imgur.com/isuFE1l.png" group-title="SPORT", Arena Sport 2 Premium (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/150.ts
 
-#EXTINF:-1 tvg-id="CineStar Premiere 1 (HR)" tvg-logo="https://i.imgur.com/ludmqPh.png" group-title="Filmski", CineStar Premiere 1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/319.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 (BiH)" tvg-logo="https://i.imgur.com/myHMqGT.png" group-title="SPORT", Arena Sport 3 (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1898.ts
 
-#EXTINF:-1 tvg-id="CineStar Premiere 2 (HR)" tvg-logo="https://i.imgur.com/qIjNqP4.png" group-title="Filmski", CineStar Premiere 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/320.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 Premium (BiH)" tvg-logo="https://i.imgur.com/kCjg1wj.png" group-title="SPORT", Arena Sport 3 Premium (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1610.ts
 
-#EXTINF:-1 tvg-id="Cinemax 1 (HR)" tvg-logo="https://i.imgur.com/zidCXOS.png" group-title="Filmski", Cinemax 1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/321.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 Premium (SR)" tvg-logo="https://i.imgur.com/LJVCYpY.png" group-title="SPORT", Arena Sport 3 Premium (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/151.ts
 
-#EXTINF:-1 tvg-id="Cinemax 2 (HR)" tvg-logo="https://i.imgur.com/1Bzsjy2.png" group-title="Filmski", Cinemax 2 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/322.ts
+#EXTINF:-1 tvg-id="Arena Sport 4 (BiH)" tvg-logo="https://i.imgur.com/HujJTnC.png" group-title="SPORT", Arena Sport 4 (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1899.ts
 
-#EXTINF:-1 tvg-id="STAR Chanel (HR)" tvg-logo="https://sire-media-foxhr.fichub.com/fox_hr/custompage-main/676115.1024x576.jpg" group-title="Filmski", STAR Chanel (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/302.ts
+#EXTINF:-1 tvg-id="Arena Sport 5 (BiH)" tvg-logo="https://i.imgur.com/C145loY.png" group-title="SPORT", Arena Sport 5 (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1900.ts
 
-#EXTINF:-1 tvg-id="STAR Movies (HR)" tvg-logo="noimage.png" group-title="Filmski", STAR Movies (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/303.ts
+#EXTINF:-1 tvg-id="Barca TV FHD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62760217391.png" group-title="SPORT", Barca TV FHD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3343.ts
 
-#EXTINF:-1 tvg-id="STAR Life (HR)" tvg-logo="noimage.png" group-title="Filmski", STAR Life (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/304.ts
+#EXTINF:-1 tvg-id="BEIN Sport 3 English HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/83304562791.png" group-title="SPORT", BEIN Sport 3 English HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2887.ts
 
-#EXTINF:-1 tvg-id="STAR Crime HD (HR)" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/starcrime.png" group-title="Filmski", STAR Crime HD (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/305.ts
+#EXTINF:-1 tvg-id="beIN Sports 1 (TR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 1 (TR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/88.ts
 
-#EXTINF:-1 tvg-id="KINO TV (HR)" tvg-logo="https://i.imgur.com/qrZzhrt.png" group-title="Filmski", KINO TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/323.ts
+#EXTINF:-1 tvg-id="Bein Sports 1 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", Bein Sports 1 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/125.ts
 
-#EXTINF:-1 tvg-id="TV 1000 (HR)" tvg-logo="https://i.imgur.com/74CbmA2.png" group-title="Filmski", TV 1000 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/309.ts
+#EXTINF:-1 tvg-id="beIN Sports 1 HD (FR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 1 HD (FR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/684.ts
 
-#EXTINF:-1 tvg-id="Pickbox TV (HR)" tvg-logo="https://i.imgur.com/k5m6Zd9.png" group-title="Filmski", Pickbox TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1534.ts
+#EXTINF:-1 tvg-id="beIN Sports 10 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 10 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/697.ts
 
-#EXTINF:-1 tvg-id="Klasik TV (HR)" tvg-logo="https://i.imgur.com/KuYzxkj.png" group-title="Filmski", Klasik TV (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/310.ts
+#EXTINF:-1 tvg-id="beIN Sports 11" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16823931741.png" group-title="SPORT", beIN Sports 11
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2425.ts
 
-#EXTINF:-1 tvg-id="Cinemania HD (SR)" tvg-logo="http://ms.motv.club:12076/images/f804a1bbe8a6c31bfb954bea673f9289.png" group-title="Filmski", Cinemania HD (SR)
+#EXTINF:-1 tvg-id="beIN Sports 2 (TR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 2 (TR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/89.ts
+
+#EXTINF:-1 tvg-id="Bein Sports 2 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", Bein Sports 2 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/126.ts
+
+#EXTINF:-1 tvg-id="beIN Sports 2 HD (FR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 2 HD (FR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/685.ts
+
+#EXTINF:-1 tvg-id="beIN Sports 3 (TR)" tvg-logo="https://i.imgur.com/CrxQEZ5.png" group-title="SPORT", beIN Sports 3 (TR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/90.ts
+
+#EXTINF:-1 tvg-id="Bein Sports 3 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", Bein Sports 3 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/127.ts
+
+#EXTINF:-1 tvg-id="beIN Sports 3 HD (FR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 3 HD (FR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/686.ts
+
+#EXTINF:-1 tvg-id="Bein Sports 4 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", Bein Sports 4 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/128.ts
+
+#EXTINF:-1 tvg-id="Bein Sports 5 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", Bein Sports 5 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/129.ts
+
+#EXTINF:-1 tvg-id="Bein Sports 6 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", Bein Sports 6 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/130.ts
+
+#EXTINF:-1 tvg-id="BEIN Sports 7 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54945492311.png" group-title="SPORT", BEIN Sports 7 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2418.ts
+
+#EXTINF:-1 tvg-id="Bein Sports 7 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", Bein Sports 7 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/131.ts
+
+#EXTINF:-1 tvg-id="beIN Sports 8 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 8 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/695.ts
+
+#EXTINF:-1 tvg-id="beIN Sports 9 HD (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports 9 HD (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/696.ts
+
+#EXTINF:-1 tvg-id="BEIN Sports LaLiga HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/47761490171.png" group-title="SPORT", BEIN Sports LaLiga HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3274.ts
+
+#EXTINF:-1 tvg-id="beIN Sports Max 5" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/35188838571.png" group-title="SPORT", beIN Sports Max 5
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2477.ts
+
+#EXTINF:-1 tvg-id="beIN Sports Premium 2 (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports Premium 2 (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/701.ts
+
+#EXTINF:-1 tvg-id="BEIN Sports Premium 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16372716111.png" group-title="SPORT", BEIN Sports Premium 2 FHD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2440.ts
+
+#EXTINF:-1 tvg-id="beIN Sports Premium 3 (AR)" tvg-logo="http://ms.motv.club:12076/images/7adfcab8ddcdc0589aeed076c749a2f5.png" group-title="SPORT", beIN Sports Premium 3 (AR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/702.ts
+
+#EXTINF:-1 tvg-id="DAZN 1 Bar HD (DE)" tvg-logo="https://i.imgur.com/ZpP1g5l.png" group-title="SPORT", DAZN 1 Bar HD (DE)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/50.ts
+
+#EXTINF:-1 tvg-id="DAZN 1 FHD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/f3e59d55f6d6e377aeb8de68d25471e5.png" group-title="SPORT", DAZN 1 FHD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3263.ts
+
+#EXTINF:-1 tvg-id="DAZN 1 HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/72855798321.png" group-title="SPORT", DAZN 1 HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3264.ts
+
+#EXTINF:-1 tvg-id="DAZN 2 Bar HD (DE)" tvg-logo="https://i.imgur.com/hdf3HiA.png" group-title="SPORT", DAZN 2 Bar HD (DE)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/51.ts
+
+#EXTINF:-1 tvg-id="DAZN 2 HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/58952299261.png" group-title="SPORT", DAZN 2 HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3265.ts
+
+#EXTINF:-1 tvg-id="DAZN 3 HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/43143522011.png" group-title="SPORT", DAZN 3 HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3266.ts
+
+#EXTINF:-1 tvg-id="DAZN 4 HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79508257211.png" group-title="SPORT", DAZN 4 HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3267.ts
+
+#EXTINF:-1 tvg-id="DAZN Formula 1 HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/70021872881.png" group-title="SPORT", DAZN Formula 1 HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3259.ts
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/03ec5bfbd75fd0ecadc098546b4cf058.png" group-title="SPORT", DAZN LaLiga HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3260.ts
+
+#EXTINF:-1 tvg-id="RU: Sports,Extreme Sports HD" tvg-logo="https://i.ibb.co/P4HTRZV/images-3.png" group-title="SPORT", Extreme Sports HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2798.ts
+
+#EXTINF:-1 tvg-id="Fight Box HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a87d120f0125bbf3b240d1cd3afe1087.png" group-title="SPORT", Fight Box HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3346.ts
+
+#EXTINF:-1 tvg-id="Fight Channel " tvg-logo="https://i.imgur.com/lh6y1sw.jpg" group-title="SPORT", Fight Channel 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/41.ts
+
+#EXTINF:-1 tvg-id="HNTV " tvg-logo="https://i.imgur.com/ZYvuIbe.png" group-title="SPORT", HNTV 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1245.ts
+
+#EXTINF:-1 tvg-id="IT: SKY Sport F1 HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/3041578568.png" group-title="SPORT", IT: SKY Sport F1 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2768.ts
+
+#EXTINF:-1 tvg-id="IT: SKY Sport MOTO GP HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55457256061.png" group-title="SPORT", IT: SKY Sport MOTO GP HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2770.ts
+
+#EXTINF:-1 tvg-id="IT: SKY Sport NBA HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/50069772541.png" group-title="SPORT", IT: SKY Sport NBA HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2771.ts
+
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/8ff39db1f2e06d73c508345bf5009b53.png" group-title="SPORT", Premier Sports 1
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3011.ts
+
+#EXTINF:-1 tvg-id="Premier Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/bda58346f4d4c61d24568407eed6ce86.png" group-title="SPORT", Premier Sports 2
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3010.ts
+
+#EXTINF:-1 tvg-id="REAL Madrid TV HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55284272011.png" group-title="SPORT", REAL Madrid TV HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3356.ts
+
+#EXTINF:-1 tvg-id="Red bull TV HD (ES)" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/accc6a9af2323ee834d91b5c9bf678a7.png" group-title="SPORT", Red bull TV HD (ES)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3357.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 1 HD" tvg-logo="https://i.imgur.com/dSnp9rA.png" group-title="SPORT", Sport Klub 1 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/18.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 1 HD " tvg-logo="https://i.imgur.com/9YoqHZl.png" group-title="SPORT", Sport Klub 1 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1242.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 10" tvg-logo="https://i.imgur.com/D2eplGc.png" group-title="SPORT", Sport Klub 10
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/27.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 2 HD" tvg-logo="https://i.imgur.com/aBpIKO5.png" group-title="SPORT", Sport Klub 2 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/19.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 2 HD " tvg-logo="https://i.imgur.com/XU2Eod3.png" group-title="SPORT", Sport Klub 2 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1243.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 3 HD" tvg-logo="https://i.imgur.com/x4rhbVx.png" group-title="SPORT", Sport Klub 3 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/20.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 3 HD " tvg-logo="https://i.imgur.com/ck0yQ4f.png" group-title="SPORT", Sport Klub 3 HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1244.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-logo="https://i.imgur.com/s2Wxian.png" group-title="SPORT", Sport Klub 4
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/21.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-logo="https://i.imgur.com/vTVJvyZ.png" group-title="SPORT", Sport Klub 5
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/22.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="https://i.imgur.com/EOOHu9w.png" group-title="SPORT", Sport Klub 6
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/23.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 7" tvg-logo="https://i.imgur.com/oqT6tk9.png" group-title="SPORT", Sport Klub 7
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/24.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 8" tvg-logo="https://i.imgur.com/V1XKkaQ.png" group-title="SPORT", Sport Klub 8
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/25.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 9" tvg-logo="https://i.imgur.com/ATaOCof.png" group-title="SPORT", Sport Klub 9
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/26.ts
+
+#EXTINF:-1 tvg-id="Sport Klub HD" tvg-logo="https://i.imgur.com/sSXMc5X.png" group-title="SPORT", Sport Klub HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/17.ts
+
+#EXTINF:-1 tvg-id="Sportska Televizija " tvg-logo="https://i.imgur.com/GS66SOk.png" group-title="SPORT", Sportska Televizija 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1772.ts
+
+#EXTINF:-1 tvg-id="UK: LA LIGA TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/92914000841.png" group-title="SPORT", UK: LA LIGA TV HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2970.ts
+
+#EXTINF:-1 tvg-id="UK: Motors TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/56066444681.png" group-title="SPORT", UK: Motors TV HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2972.ts
+
+#EXTINF:-1 tvg-id="UK: Racing UK HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/95886479151.png" group-title="SPORT", UK: Racing UK HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2980.ts
+
+#EXTINF:-1 tvg-id="UK: SKY Sports F1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22028820191.png" group-title="SPORT", UK: SKY Sports F1 HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2989.ts
+
+#EXTINF:-1 tvg-id="UK: UFC Fight PASS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/35776508451.png" group-title="SPORT", UK: UFC Fight PASS HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2999.ts
+
+#EXTINF:-1 tvg-id="US: ESPN+" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/e887f7c4284d0ca8398e6ea6f53cfb93.png" group-title="SPORT", US: ESPN+
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3061.ts
+
+#EXTINF:-1 tvg-id="US: Fight BOX FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97877255851.png" group-title="SPORT", US: Fight BOX FHD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3062.ts
+
+#EXTINF:-1 tvg-id="US: FOX Soccer PLUS 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82048289781.png" group-title="SPORT", US: FOX Soccer PLUS 4K HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3064.ts
+
+#EXTINF:-1 tvg-id="US: GOLF Channel HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97798300971.png" group-title="SPORT", US: GOLF Channel HD
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/3070.ts
+
+#EXTINF:-1 tvg-id="BabyTV " tvg-logo="https://i.imgur.com/R8DESFC.png" group-title="DJECJI", BabyTV 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/327.ts
+
+#EXTINF:-1 tvg-id="HAYATOVCI (BiH)" tvg-logo="https://i.imgur.com/FzgwBsg.png" group-title="DJECJI", HAYATOVCI (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/196.ts
+
+#EXTINF:-1 tvg-id="Maša i Medo (24/7)" tvg-logo="https://i.imgur.com/M3aqlmn.png" group-title="DJECJI", Maša i Medo (24/7)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1767.ts
+
+#EXTINF:-1 tvg-id="Mickey Mouse (24/7)" tvg-logo="https://i.imgur.com/3kfj3xl.png" group-title="DJECJI", Mickey Mouse (24/7)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1770.ts
+
+#EXTINF:-1 tvg-id="Mini TV " tvg-logo="https://i.imgur.com/4GRGxXv.png" group-title="DJECJI", Mini TV 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/328.ts
+
+#EXTINF:-1 tvg-id="Minimax (SR)" tvg-logo="https://i.ibb.co/ZWHBMZ8/Minimax-logo.png" group-title="DJECJI", Minimax (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/331.ts
+
+#EXTINF:-1 tvg-id="Nick Junior " tvg-logo="https://i.imgur.com/ep47FDg.png" group-title="DJECJI", Nick Junior 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/330.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon " tvg-logo="https://i.imgur.com/icDYxgT.png" group-title="DJECJI", Nickelodeon 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/329.ts
+
+#EXTINF:-1 tvg-id="Peppa Pig (24/7)" tvg-logo="https://i.imgur.com/CmZwwSB.png" group-title="DJECJI", Peppa Pig (24/7)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1769.ts
+
+#EXTINF:-1 tvg-id="Pikaboo " tvg-logo="https://i.imgur.com/0yKUe0K.png" group-title="DJECJI", Pikaboo 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/333.ts
+
+#EXTINF:-1 tvg-id="Pink SuperKids (SR)" tvg-logo="https://i.imgur.com/K9tCazZ.png" group-title="DJECJI", Pink SuperKids (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/332.ts
+
+#EXTINF:-1 tvg-id="RTLKOCK" tvg-logo="https://i.imgur.com/o4Yx5DT.png" group-title="DJECJI", RTL Kockica 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/326.ts
+
+#EXTINF:-1 tvg-id="Cinemania HD (SR)" tvg-logo="http://ms.motv.club:12076/images/f804a1bbe8a6c31bfb954bea673f9289.png" group-title="FILMSKI", Cinemania HD (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/324.ts
 
-#EXTINF:-1 tvg-id="CMC - Croatian Music Channel (HR)" tvg-logo="https://i.imgur.com/WCUBybO.png" group-title="Muzički", CMC - Croatian Music Channel (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/280.ts
+#EXTINF:-1 tvg-id="Cinemax 1 " tvg-logo="https://i.imgur.com/zidCXOS.png" group-title="FILMSKI", Cinemax 1 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/321.ts
 
-#EXTINF:-1 tvg-id="Jugoton (HR)" tvg-logo="https://i.imgur.com/g1rmZCB.png" group-title="Muzički", Jugoton (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/281.ts
+#EXTINF:-1 tvg-id="Cinemax 2 " tvg-logo="https://i.imgur.com/1Bzsjy2.png" group-title="FILMSKI", Cinemax 2 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/322.ts
 
-#EXTINF:-1 tvg-id="MTV Music (HR)" tvg-logo="http://ms.motv.club:12076/images/e8c12a1560d459d1d2928a716e758782.png" group-title="Muzički", MTV Music (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1145.ts
+#EXTINF:-1 tvg-id="CineStar Action " tvg-logo="https://i.imgur.com/xUC3by4.png" group-title="FILMSKI", CineStar Action 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/318.ts
 
-#EXTINF:-1 tvg-id="MTV Classic (HR)" tvg-logo="http://ms.motv.club:12076/images/841dfef95b1e307bf5939b2c0aed969b.png" group-title="Muzički", MTV Classic (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1143.ts
+#EXTINF:-1 tvg-id="CineStar Premiere 1 " tvg-logo="https://i.imgur.com/ludmqPh.png" group-title="FILMSKI", CineStar Premiere 1 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/319.ts
 
-#EXTINF:-1 tvg-id="MTV Adria (HR)" tvg-logo="http://ms.motv.club:12076/images/aa65286f4699e494634a044fa56a6e18.png" group-title="Muzički", MTV Adria (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1146.ts
+#EXTINF:-1 tvg-id="CineStar Premiere 2 " tvg-logo="https://i.imgur.com/qIjNqP4.png" group-title="FILMSKI", CineStar Premiere 2 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/320.ts
 
-#EXTINF:-1 tvg-id="MTV Dance (HR)" tvg-logo="http://ms.motv.club:12076/images/242e19b814b04edf56402176fb92db31.png" group-title="Muzički", MTV Dance (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1141.ts
+#EXTINF:-1 tvg-id="CineStar TV " tvg-logo="https://i.imgur.com/7JaTuwN.png" group-title="FILMSKI", CineStar TV 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/317.ts
 
-#EXTINF:-1 tvg-id="MTV Rocks (HR)" tvg-logo="http://ms.motv.club:12076/images/c3fe9ee21c704ec405b39177269a90c3.png" group-title="Muzički", MTV Rocks (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1142.ts
+#EXTINF:-1 tvg-id="HBO " tvg-logo="https://i.imgur.com/IbtnDuu.png" group-title="FILMSKI", HBO 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/299.ts
 
-#EXTINF:-1 tvg-id="MTV Base (HR)" tvg-logo="http://ms.motv.club:12076/images/9bae7dcca2ed4fcdf0db7805c9c0e958.png" group-title="Muzički", MTV Base (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1140.ts
+#EXTINF:-1 tvg-id="HBO 2 " tvg-logo="https://i.imgur.com/aXUKoeA.png" group-title="FILMSKI", HBO 2 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/300.ts
 
-#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="http://ms.motv.club:12076/images/1e2094db41e9b5baf493dfb69ad2b3b0.png" group-title="Muzički", MTV Hits International (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1144.ts
+#EXTINF:-1 tvg-id="HBO 3 " tvg-logo="https://i.imgur.com/c5KqyCY.png" group-title="FILMSKI", HBO 3 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/301.ts
 
-#EXTINF:-1 tvg-id="VH1 (HR)" tvg-logo="https://i.imgur.com/h7x4AHr.png" group-title="Muzički", VH1 (HR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1138.ts
+#EXTINF:-1 tvg-id="KINO TV " tvg-logo="https://i.imgur.com/qrZzhrt.png" group-title="FILMSKI", KINO TV 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/323.ts
 
-#EXTINF:-1 tvg-id="HAYAT Music (BiH)" tvg-logo="https://i.imgur.com/yKPWNhB.png" group-title="Muzički", HAYAT Music (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/290.ts
+#EXTINF:-1 tvg-id="Klasik TV " tvg-logo="https://i.imgur.com/KuYzxkj.png" group-title="FILMSKI", Klasik TV 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/310.ts
 
-#EXTINF:-1 tvg-id="HAYAT FOLK (BiH)" tvg-logo="https://i.imgur.com/PuaG4rj.png" group-title="Muzički", HAYAT FOLK (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/291.ts
+#EXTINF:-1 tvg-id="MOTV Movies 1 " tvg-logo="https://i.imgur.com/pTo2vAW.png" group-title="FILMSKI", MOTV Movies 1 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1808.ts
 
-#EXTINF:-1 tvg-id="BN Music (BiH)" tvg-logo="https://i.imgur.com/2pwyiOS.png" group-title="Muzički", BN Music (BiH)
+#EXTINF:-1 tvg-id="Pickbox TV " tvg-logo="https://i.imgur.com/k5m6Zd9.png" group-title="FILMSKI", Pickbox TV 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1534.ts
+
+#EXTINF:-1 tvg-id="STAR Chanel " tvg-logo="https://sire-media-foxhr.fichub.com/fox_hr/custompage-main/676115.1024x576.jpg" group-title="FILMSKI", STAR Chanel 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/302.ts
+
+#EXTINF:-1 tvg-id="STAR Crime HD " tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/starcrime.png" group-title="FILMSKI", STAR Crime HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/305.ts
+
+#EXTINF:-1 tvg-id="STAR Life " tvg-logo="noimage.png" group-title="FILMSKI", STAR Life 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/304.ts
+
+#EXTINF:-1 tvg-id="STAR Movies " tvg-logo="noimage.png" group-title="FILMSKI", STAR Movies 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/303.ts
+
+#EXTINF:-1 tvg-id="TV 1000 " tvg-logo="https://i.imgur.com/74CbmA2.png" group-title="FILMSKI", TV 1000 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/309.ts
+
+#EXTINF:-1 tvg-id="Animal Planet " tvg-logo="https://i.imgur.com/RUdGydn.png" group-title="DOKUMENTARNI", Animal Planet 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/351.ts
+
+#EXTINF:-1 tvg-id="BBC Earth " tvg-logo="https://i.imgur.com/FkJgo4R.png" group-title="DOKUMENTARNI", BBC Earth 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/346.ts
+
+#EXTINF:-1 tvg-id="Crime & Investigation " tvg-logo="https://i.imgur.com/aWONJ2k.png" group-title="DOKUMENTARNI", Crime & Investigation 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/356.ts
+
+#EXTINF:-1 tvg-id="Discovery HD " tvg-logo="https://i.imgur.com/rhWc6VB.png" group-title="DOKUMENTARNI", Discovery HD 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/352.ts
+
+#EXTINF:-1 tvg-id="Discovery Science " tvg-logo="https://i.imgur.com/S0dgGTR.png" group-title="DOKUMENTARNI", Discovery Science 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/353.ts
+
+#EXTINF:-1 tvg-id="HISTJ" tvg-logo="https://i.imgur.com/Ssvm9sJ.png" group-title="DOKUMENTARNI", History 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/343.ts
+
+#EXTINF:-1 tvg-id="History 2 " tvg-logo="https://i.imgur.com/MOaVyzp.png" group-title="DOKUMENTARNI", History 2 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/344.ts
+
+#EXTINF:-1 tvg-id="Lov i Ribolov (SR)" tvg-logo="https://i.imgur.com/sLh8GRh.png" group-title="DOKUMENTARNI", Lov i Ribolov (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/357.ts
+
+#EXTINF:-1 tvg-id="National Geographic " tvg-logo="https://i.imgur.com/Jm6X6YU.png" group-title="DOKUMENTARNI", National Geographic 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/355.ts
+
+#EXTINF:-1 tvg-id="National Geographic Wild " tvg-logo="https://i.imgur.com/EKKWYpp.png" group-title="DOKUMENTARNI", National Geographic Wild 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/354.ts
+
+#EXTINF:-1 tvg-id="Viasat History " tvg-logo="https://i.imgur.com/V27Bb5N.png" group-title="DOKUMENTARNI", Viasat History 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/349.ts
+
+#EXTINF:-1 tvg-id="Viasat Nature " tvg-logo="https://i.imgur.com/2wxKcRd.png" group-title="DOKUMENTARNI", Viasat Nature 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/350.ts
+
+#EXTINF:-1 tvg-id="Balkanika (SR)" tvg-logo="http://ms.motv.club:12076/images/f75ab509a5c97f1e2f017d25a11978d3.png" group-title="MUZIČKI", Balkanika (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/289.ts
+
+#EXTINF:-1 tvg-id="BN Music (BiH)" tvg-logo="https://i.imgur.com/2pwyiOS.png" group-title="MUZIČKI", BN Music (BiH)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/292.ts
 
-#EXTINF:-1 tvg-id="IZVORNA TV (BiH)" tvg-logo="https://i.imgur.com/6ELcGs4.png" group-title="Muzički", IZVORNA TV (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/206.ts
+#EXTINF:-1 tvg-id="CMC - Croatian Music Channel " tvg-logo="https://i.imgur.com/WCUBybO.png" group-title="MUZIČKI", CMC - Croatian Music Channel 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/280.ts
 
-#EXTINF:-1 tvg-id="OTV Valentino (BiH)" tvg-logo="https://i.imgur.com/jLBU3pL.png" group-title="Muzički", OTV Valentino (BiH)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/211.ts
+#EXTINF:-1 tvg-id="DM SAT (SR)" tvg-logo="http://ms.motv.club:12076/images/69a8a136764ccdcf3ee147eee9d17820.png" group-title="MUZIČKI", DM SAT (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/286.ts
 
-#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-logo="http://ms.motv.club:12076/images/2c5e64a68fcb1617b3f621ecf38cdca7.png" group-title="Muzički", RTS Muzika (SR)
-http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/227.ts
-
-#EXTINF:-1 tvg-id="GRAND TV (SR)" tvg-logo="https://i.imgur.com/KMdecSq.png" group-title="Muzički", GRAND TV (SR)
+#EXTINF:-1 tvg-id="GRAND TV (SR)" tvg-logo="https://i.imgur.com/KMdecSq.png" group-title="MUZIČKI", GRAND TV (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/282.ts
 
-#EXTINF:-1 tvg-id="GRAND TV 2 (SR)" tvg-logo="https://i.imgur.com/4thqYlZ.png" group-title="Muzički", GRAND TV 2 (SR)
+#EXTINF:-1 tvg-id="GRAND TV 2 (SR)" tvg-logo="https://i.imgur.com/4thqYlZ.png" group-title="MUZIČKI", GRAND TV 2 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/283.ts
+
+#EXTINF:-1 tvg-id="HAYAT FOLK (BiH)" tvg-logo="https://i.imgur.com/PuaG4rj.png" group-title="MUZIČKI", HAYAT FOLK (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/291.ts
+
+#EXTINF:-1 tvg-id="HAYAT Music (BiH)" tvg-logo="https://i.imgur.com/yKPWNhB.png" group-title="MUZIČKI", HAYAT Music (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/290.ts
+
+#EXTINF:-1 tvg-id="IDJ TV (SR)" tvg-logo="http://ms.motv.club:12076/images/bca34547bf257ea7189c2c124252b584.png" group-title="MUZIČKI", IDJ TV (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/288.ts
+
+#EXTINF:-1 tvg-id="IZVORNA TV (BiH)" tvg-logo="https://i.imgur.com/6ELcGs4.png" group-title="MUZIČKI", IZVORNA TV (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/206.ts
+
+#EXTINF:-1 tvg-id="Jugoton " tvg-logo="https://i.imgur.com/g1rmZCB.png" group-title="MUZIČKI", Jugoton 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/281.ts
+
+#EXTINF:-1 tvg-id="MTV (DK)" tvg-logo="http://ms.motv.club:12076/images/e8c12a1560d459d1d2928a716e758782.png" group-title="MUZIČKI", MTV (DK)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/874.ts
+
+#EXTINF:-1 tvg-id="MTV (SWE)" tvg-logo="http://ms.motv.club:12076/images/e8c12a1560d459d1d2928a716e758782.png" group-title="MUZIČKI", MTV (SWE)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/789.ts
+
+#EXTINF:-1 tvg-id="MTV Adria " tvg-logo="http://ms.motv.club:12076/images/aa65286f4699e494634a044fa56a6e18.png" group-title="MUZIČKI", MTV Adria 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1146.ts
+
+#EXTINF:-1 tvg-id="MTV Base " tvg-logo="http://ms.motv.club:12076/images/9bae7dcca2ed4fcdf0db7805c9c0e958.png" group-title="MUZIČKI", MTV Base 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1140.ts
+
+#EXTINF:-1 tvg-id="MTV Base (NO)" tvg-logo="http://ms.motv.club:12076/images/9bae7dcca2ed4fcdf0db7805c9c0e958.png" group-title="MUZIČKI", MTV Base (NO)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/976.ts
+
+#EXTINF:-1 tvg-id="MTV Classic " tvg-logo="http://ms.motv.club:12076/images/841dfef95b1e307bf5939b2c0aed969b.png" group-title="MUZIČKI", MTV Classic 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1143.ts
+
+#EXTINF:-1 tvg-id="MTV Dance (DK)" tvg-logo="http://ms.motv.club:12076/images/242e19b814b04edf56402176fb92db31.png" group-title="MUZIČKI", MTV Dance (DK)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/873.ts
+
+#EXTINF:-1 tvg-id="MTV Dance " tvg-logo="http://ms.motv.club:12076/images/242e19b814b04edf56402176fb92db31.png" group-title="MUZIČKI", MTV Dance 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1141.ts
+
+#EXTINF:-1 tvg-id="MTV Dance (NO)" tvg-logo="http://ms.motv.club:12076/images/242e19b814b04edf56402176fb92db31.png" group-title="MUZIČKI", MTV Dance (NO)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/977.ts
+
+#EXTINF:-1 tvg-id="MTV Hits (DK)" tvg-logo="http://ms.motv.club:12076/images/1e2094db41e9b5baf493dfb69ad2b3b0.png" group-title="MUZIČKI", MTV Hits (DK)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/875.ts
+
+#EXTINF:-1 tvg-id="MTV Hits (NO)" tvg-logo="http://ms.motv.club:12076/images/1e2094db41e9b5baf493dfb69ad2b3b0.png" group-title="MUZIČKI", MTV Hits (NO)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/978.ts
+
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="http://ms.motv.club:12076/images/1e2094db41e9b5baf493dfb69ad2b3b0.png" group-title="MUZIČKI", MTV Hits International 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1144.ts
+
+#EXTINF:-1 tvg-id="MTV Music " tvg-logo="http://ms.motv.club:12076/images/e8c12a1560d459d1d2928a716e758782.png" group-title="MUZIČKI", MTV Music 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1145.ts
+
+#EXTINF:-1 tvg-id="MTV Rocks (DK)" tvg-logo="http://ms.motv.club:12076/images/c3fe9ee21c704ec405b39177269a90c3.png" group-title="MUZIČKI", MTV Rocks (DK)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/877.ts
+
+#EXTINF:-1 tvg-id="MTV Rocks " tvg-logo="http://ms.motv.club:12076/images/c3fe9ee21c704ec405b39177269a90c3.png" group-title="MUZIČKI", MTV Rocks 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1142.ts
+
+#EXTINF:-1 tvg-id="MTV Rocks (NO)" tvg-logo="http://ms.motv.club:12076/images/c3fe9ee21c704ec405b39177269a90c3.png" group-title="MUZIČKI", MTV Rocks (NO)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/979.ts
+
+#EXTINF:-1 tvg-id="OTV Valentino (BiH)" tvg-logo="https://i.imgur.com/jLBU3pL.png" group-title="MUZIČKI", OTV Valentino (BiH)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/211.ts
+
+#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-logo="http://ms.motv.club:12076/images/2c5e64a68fcb1617b3f621ecf38cdca7.png" group-title="MUZIČKI", RTS Muzika (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/227.ts
+
+#EXTINF:-1 tvg-id="TV DUGA+ (SR)" tvg-logo="http://ms.motv.club:12076/images/051ca4620cfd7627f7ee0e58058a6c6d.png" group-title="MUZIČKI", TV DUGA+ (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/287.ts
+
+#EXTINF:-1 tvg-id="VH1 " tvg-logo="https://i.imgur.com/h7x4AHr.png" group-title="MUZIČKI", VH1 
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1138.ts
+
+#EXTINF:-1 tvg-id="Pink 1 (SR)" tvg-logo="https://i.imgur.com/HILfCTi.png" group-title="PINK", Pink 1 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/240.ts
+
+#EXTINF:-1 tvg-id="Pink 2 (SR)" tvg-logo="https://i.imgur.com/QLY8ll2.jpeg" group-title="PINK", Pink 2 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/1771.ts
+
+#EXTINF:-1 tvg-id="Pink Action (SR)" tvg-logo="https://i.imgur.com/CkOTmlD.png" group-title="PINK", Pink Action (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/278.ts
+
+#EXTINF:-1 tvg-id="Pink BiH (SR)" tvg-logo="https://i.imgur.com/ntn2R7l.png" group-title="PINK", Pink BiH (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/264.ts
+
+#EXTINF:-1 tvg-id="Pink Classic (SR)" tvg-logo="https://i.imgur.com/Lyq9L36.png" group-title="PINK", Pink Classic (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/273.ts
+
+#EXTINF:-1 tvg-id="Pink Comedy (SR)" tvg-logo="https://i.imgur.com/77muUrb.png" group-title="PINK", Pink Comedy (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/275.ts
+
+#EXTINF:-1 tvg-id="Pink Crime & Mystery (SR)" tvg-logo="https://i.imgur.com/pQcfphX.png" group-title="PINK", Pink Crime & Mystery (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/259.ts
+
+#EXTINF:-1 tvg-id="Pink Extra (SR)" tvg-logo="https://i.imgur.com/EG787Rs.png" group-title="PINK", Pink Extra (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/271.ts
+
+#EXTINF:-1 tvg-id="Pink Fashion (SR)" tvg-logo="https://i.imgur.com/kdEccLj.png" group-title="PINK", Pink Fashion (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/277.ts
+
+#EXTINF:-1 tvg-id="Pink Film (SR)" tvg-logo="https://i.imgur.com/xb1BdZc.png" group-title="PINK", Pink Film (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/274.ts
+
+#EXTINF:-1 tvg-id="Pink Folk 1 (SR)" tvg-logo="https://i.imgur.com/QUSZIO7.png" group-title="PINK", Pink Folk 1 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/284.ts
+
+#EXTINF:-1 tvg-id="Pink Folk 2 (SR)" tvg-logo="https://i.imgur.com/sIBXCUL.png" group-title="PINK", Pink Folk 2 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/285.ts
+
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="https://i.imgur.com/FSKwEkn.png" group-title="PINK", Pink HA-HA (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/276.ts
+
+#EXTINF:-1 tvg-id="Pink Horror (SR)" tvg-logo="https://i.imgur.com/jwOPBW7.png" group-title="PINK", Pink Horror (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/270.ts
+
+#EXTINF:-1 tvg-id="Pink Kuvar (SR)" tvg-logo="https://i.imgur.com/imfaZIn.png" group-title="PINK", Pink Kuvar (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/262.ts
+
+#EXTINF:-1 tvg-id="Pink LOL (SR)" tvg-logo="https://i.imgur.com/aWvanBb.png" group-title="PINK", Pink LOL (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/251.ts
+
+#EXTINF:-1 tvg-id="Pink M (SR)" tvg-logo="https://i.imgur.com/tw5s9XO.png" group-title="PINK", Pink M (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/265.ts
+
+#EXTINF:-1 tvg-id="Pink Movies (SR)" tvg-logo="https://i.imgur.com/6I7rIqb.png" group-title="PINK", Pink Movies (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/257.ts
+
+#EXTINF:-1 tvg-id="Pink Music (SR)" tvg-logo="https://i.imgur.com/j3GwhDY.png" group-title="PINK", Pink Music (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/294.ts
+
+#EXTINF:-1 tvg-id="Pink Music 2 (SR)" tvg-logo="https://i.imgur.com/qN2gAGj.png" group-title="PINK", Pink Music 2 (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/295.ts
+
+#EXTINF:-1 tvg-id="Pink Pedia (SR)" tvg-logo="https://i.imgur.com/S7YdcGM.png" group-title="PINK", Pink Pedia (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/263.ts
+
+#EXTINF:-1 tvg-id="Pink Plus (SR)" tvg-logo="https://i.imgur.com/dStqYKL.png" group-title="PINK", Pink Plus (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/261.ts
+
+#EXTINF:-1 tvg-id="Pink Premium (SR)" tvg-logo="https://i.imgur.com/oeAQgyn.png" group-title="PINK", Pink Premium (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/247.ts
+
+#EXTINF:-1 tvg-id="Pink Reality (SR)" tvg-logo="https://i.imgur.com/2A1OQWn.png" group-title="PINK", Pink Reality (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/256.ts
+
+#EXTINF:-1 tvg-id="Pink Romance (SR)" tvg-logo="https://i.imgur.com/WNUOKyt.png" group-title="PINK", Pink Romance (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/269.ts
+
+#EXTINF:-1 tvg-id="Pink Sci-Fi & Fantasy (SR)" tvg-logo="https://i.imgur.com/CoDv9VN.png" group-title="PINK", Pink Sci-Fi & Fantasy (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/268.ts
+
+#EXTINF:-1 tvg-id="Pink Serije (SR)" tvg-logo="https://i.imgur.com/mfXyEZH.png" group-title="PINK", Pink Serije (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/250.ts
+
+#EXTINF:-1 tvg-id="Pink Soap (SR)" tvg-logo="https://i.imgur.com/o4jjvUn.png" group-title="PINK", Pink Soap (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/267.ts
+
+#EXTINF:-1 tvg-id="Pink Style (SR)" tvg-logo="https://i.imgur.com/n6yFx8d.png" group-title="PINK", Pink Style (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/266.ts
+
+#EXTINF:-1 tvg-id="Pink SuperKids (SR)" tvg-logo="https://i.imgur.com/K9tCazZ.png" group-title="PINK", Pink SuperKids (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/332.ts
+
+#EXTINF:-1 tvg-id="Pink Thriller (SR)" tvg-logo="https://i.imgur.com/0myHZcQ.png" group-title="PINK", Pink Thriller (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/272.ts
+
+#EXTINF:-1 tvg-id="Pink Western (SR)" tvg-logo="https://i.imgur.com/zabxAXq.png" group-title="PINK", Pink Western (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/255.ts
+
+#EXTINF:-1 tvg-id="Pink World (SR)" tvg-logo="https://i.imgur.com/nICYNUM.png" group-title="PINK", Pink World (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/260.ts
+
+#EXTINF:-1 tvg-id="Pink Zabava (SR)" tvg-logo="https://i.imgur.com/vhCJE6C.png" group-title="PINK", Pink Zabava (SR)
+http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/258.ts
+
+lZ.png" group-title="Muzički", GRAND TV 2 (SR)
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/283.ts
 
 #EXTINF:-1 tvg-id="DM SAT (SR)" tvg-logo="http://ms.motv.club:12076/images/69a8a136764ccdcf3ee147eee9d17820.png" group-title="Muzički", DM SAT (SR)
@@ -4063,19 +4046,6 @@ http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2745.ts
 
 #EXTINF:-1 tvg-id="BS: BEIN Sports 5 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66425173441.png" group-title="Sport", BS: BEIN Sports 5 4K HD
 http://tv.motv.club:80/EdinDurakovic2/DurakovicEdin2/2458.ts
-
-#EXTINF:-1 tvg-id="Megdan: Izmedju vode i vatre (2024)" tvg-logo="https://i.imgur.com/F8drFhs.jpeg" group-title="Sport", Megdan: Izmedju vode i vatre (2024)
-http://tv.motv.club:80/movie/EdinDurakovic2/DurakovicEdin2/3418.mkv
-
-#EXTINF:-1 tvg-id="The Fire Inside (2024)" tvg-logo="https://i.imgur.com/F8drFhs.jpeg" group-title="Sport", The Fire Inside (2024)
-http://tv.motv.club:80/movie/EdinDurakovic2/DurakovicEdin2/3445.mkv
-
-
-
-
-
-
-
 
 
 
