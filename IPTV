@@ -1,973 +1,1317 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska", HRT  1 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30473
+#EXTINF:-1 tvg-id="Aurora TV" tvg-logo="http://xplatinmedia.com:8080/images/71b3746a309ff1c9d91092ea89cc6395.png" group-title="Hrvatska", Aurora OFFLINE
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99106
 
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="Hrvatska", HRT  2 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30474
+#EXTINF:-1 tvg-id="HRT.1.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/7e0e35e68954d0c7378e9b5ad9b97a04.png" group-title="Hrvatska", Cro TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99098
 
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3hd.gif" group-title="Hrvatska", HRT 3 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30475
+#EXTINF:-1 tvg-id="Diadora TV_max" tvg-logo="http://xplatinmedia.com:8080/images/35ebe4173da8bca005411bbcd09d8c22.png" group-title="Hrvatska", Diadora TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/122880
 
-#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/78320
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/9dddbd9db8412509007779db3a3b52da.png" group-title="Hrvatska", Doma TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52126
 
-#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatskahd.gif" group-title="Hrvatska", RTL HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30476
+#EXTINF:-1 tvg-id="Osječka TV_max" tvg-logo="http://xplatinmedia.com:8080/images/2285308a7a8978b6fae985cc10924c0e.png" group-title="Hrvatska", Dubrovacka TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74916
 
-#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45
+#EXTINF:-1 tvg-id="GameHub" tvg-logo="http://xplatinmedia.com:8080/images/80714317c85f199af476c17d2c55d150.png" group-title="Hrvatska", GameHub OFFLINE
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99099
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/112
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/ed33b617976621d5761e90a4c3b3d54a.png" group-title="Hrvatska", HRT 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52115
 
-#EXTINF:-1 tvg-id="n1-hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/n1hr.gif" group-title="Hrvatska", N1 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3774
+#EXTINF:-1 tvg-id="HRT 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/03b3e22649bf34d07385048eb2589abd.png" group-title="Hrvatska", HRT 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52116
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1.gif" group-title="Hrvatska", HRT 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/40
+#EXTINF:-1 tvg-id="HRT 3 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/8d2da51272882389644c63bd3fc25257.png" group-title="Hrvatska", HRT 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52117
 
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2.gif" group-title="Hrvatska", HRT 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/41
+#EXTINF:-1 tvg-id="HRT 4 HD" tvg-logo="http://xplatinmedia.com:8080/images/db3fa652e5dff23549446ba26ac21535.png" group-title="Hrvatska", HRT 4
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52118
 
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3.gif" group-title="Hrvatska", HRT 3
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/353
+#EXTINF:-1 tvg-id="HRT.1.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/248b4fb84cce2daf1841f68ac906f5f8.png" group-title="Hrvatska", HRT Int
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52119
 
-#EXTINF:-1 tvg-id="htv4" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt4.gif" group-title="Hrvatska", HRT 4
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/354
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/37231a9646421b7d3e544dbb9ddd4f28.png" group-title="Hrvatska", Kanal Ri
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74911
 
-#EXTINF:-1 tvg-id="htv5" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt5.gif" group-title="Hrvatska", HRT int.
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9049
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/1a61cebf6dbdf4d7c185aed4074a0719.png" group-title="Hrvatska", Laudato TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52128
 
-#EXTINF:-1 tvg-id="HRT Doku" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/hrtdoku.gif" group-title="Hrvatska", HRT Doku
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/73694
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/a7030971d7cba3caf656fed416d8a293.png" group-title="Hrvatska", Libertas TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74912
 
-#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/22
+#EXTINF:-1 tvg-id="Radio Split_max" tvg-logo="http://xplatinmedia.com:8080/images/497347217d6ec81aaa95a643c295a897.png" group-title="Hrvatska", Mreza Split
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74913
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68556
+#EXTINF:-1 tvg-id="Mreža TV Zagreb_max" tvg-logo="http://xplatinmedia.com:8080/images/497347217d6ec81aaa95a643c295a897.png" group-title="Hrvatska", Mreza Zagreb
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55457
 
-#EXTINF:-1 tvg-id="nova-world" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novaworld.gif" group-title="Hrvatska", Nova World
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45126
+#EXTINF:-1 tvg-id="N1 HD (HR)/(SR)" tvg-logo="http://xplatinmedia.com:8080/images/53d0bd59e2690118b7a9706659662251.png" group-title="Hrvatska", N1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52127
 
-#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/novafamily.gif" group-title="Hrvatska", Nova Family
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39435
+#EXTINF:-1 tvg-id="Cinema.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/5a5fd26ec4fdb783250ab04443b8c04f.png" group-title="Hrvatska", Nova Cinema 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74910
 
-#EXTINF:-1 tvg-id="Nova Series" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/novaseries.gif" group-title="Hrvatska", Nova Series
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72613
+#EXTINF:-1 tvg-id="Cinemax HD (SN)" tvg-logo="http://xplatinmedia.com:8080/images/dafa2f4414c36a96801e37b74ecc4b9c.png" group-title="Hrvatska", Nova Cinema
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99095
 
-#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/novacinema.gif" group-title="Hrvatska", Nova Cinema
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39476
+#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://xplatinmedia.com:8080/images/f1f136e2dc579a1494c2eade93e3249f.png" group-title="Hrvatska", Nova Family
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99096
 
-#EXTINF:-1 tvg-id="Nova Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novacinema2.gif" group-title="Hrvatska", Nova Cinema 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45121
+#EXTINF:-1 tvg-id="Pink.Premium.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/48df2e92bbf1fa4d3f8cac16e28d6dce.png" group-title="Hrvatska", Nova Premium
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99092
 
-#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatska.gif" group-title="Hrvatska", RTL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/23
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/42634b4061bc97b3b4f7f69db1f6ec6d.png" group-title="Hrvatska", Nova Pula TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74903
 
-#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68558
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/129bcec00904c02a90e41432ee16c80d.png" group-title="Hrvatska", Nova TV HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52125
 
-#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlworld.gif" group-title="Hrvatska", RTL World
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45127
+#EXTINF:-1 tvg-id="Osječka TV_max" tvg-logo="http://xplatinmedia.com:8080/images/92a6171821672c19aa01dbdcd9b968b2.png" group-title="Hrvatska", Osjecka TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74914
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlpassion.gif" group-title="Hrvatska", RTL Passion
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1198
+#EXTINF:-1 tvg-id="Pickbox.HD.(HR).ba" tvg-logo="http://xplatinmedia.com:8080/images/a43ac5727d73cc10830ae1dff97aad2f.png" group-title="Hrvatska", PickBox TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55424
 
-#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlkrime.gif" group-title="Hrvatska", RTL Crime
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1199
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/718b3cdb381f58e6d465666171f3fe7e.png" group-title="Hrvatska", Poljoprivredna TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74915
 
-#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlliving.gif" group-title="Hrvatska", RTL Living
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2502
+#EXTINF:-1 tvg-id="Private.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/d3c35034bedc1dcd1b818236ebecc90c.png" group-title="Hrvatska", Prigorska TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92269
 
-#EXTINF:-1 tvg-id="rtl-adria" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtladria.gif" group-title="Hrvatska", RTL Adria
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/26431
+#EXTINF:-1 tvg-id="RTL 2  HD" tvg-logo="http://xplatinmedia.com:8080/images/913759c8ef62c7cb42dac03c30cd2018.png" group-title="Hrvatska", RTL 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52121
 
-#EXTINF:-1 tvg-id="RTL+" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlplus.gif" group-title="Hrvatska", RTL+
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45113
+#EXTINF:-1 tvg-id="RTL HR HD" tvg-logo="http://xplatinmedia.com:8080/images/a854e957eddd3b0db4b2b1c848f35fb3.png" group-title="Hrvatska", RTL
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52120
 
-#EXTINF:-1 tvg-id="RTL Play" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/RTL%20Pley.gif" group-title="Hrvatska", RTL Play
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45120
+#EXTINF:-1 tvg-id="TV Trstenik" tvg-logo="http://xplatinmedia.com:8080/images/9bdc629dc857bf22e0e7d7d1877d6145.png" group-title="Hrvatska", Sibenik TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55454
 
-#EXTINF:-1 tvg-id="z1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/z1.gif" group-title="Hrvatska", Z1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1550
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/b81b868332033e53dff46f2b3a762264.png" group-title="Hrvatska", Slavonska Televizija
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55452
 
-#EXTINF:-1 tvg-id="Laudato" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/laudatotv.gif" group-title="Hrvatska", Laudato
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24581
+#EXTINF:-1 tvg-id="Trend TV_max" tvg-logo="http://xplatinmedia.com:8080/images/75e09515058ed247fb4548ca52d0b9e8.png" group-title="Hrvatska", Trend TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55451
 
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vinkovacka.gif" group-title="Hrvatska", Vinkovacka
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/551
+#EXTINF:-1 tvg-id="RTV.Jablanica.ba" tvg-logo="http://xplatinmedia.com:8080/images/8c144eff476065389f7ac65d4484e081.png" group-title="Hrvatska", TV Dalmacija
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99097
 
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/slavonskatv.gif" group-title="Hrvatska", Slavonska
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1176
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/8b716088bcd4dc60e1ab18ad8841f41b.png" group-title="Hrvatska", TV Jadran
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74917
 
-#EXTINF:-1 tvg-id="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="Hrvatska", OTV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4537
+#EXTINF:-1 tvg-id="24Kitchen.HD.(INT).ba" tvg-logo="http://xplatinmedia.com:8080/images/7a0f24809c234ea78d972b1f336ac1b9.png" group-title="Hrvatska", Varazdinska TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74919
 
-#EXTINF:-1 tvg-id="cakovec" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/srcetv.gif" group-title="Hrvatska", Zdrava Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4632
+#EXTINF:-1 tvg-id="Posavina.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/09d34b90f4b4d124b6a5bc81b53a6753.png" group-title="Hrvatska", Vinkovacka TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74918
 
-#EXTINF:-1 tvg-id="varazdinska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vtvvarazdintv.gif" group-title="Hrvatska", VTV Varaždin
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5015
+#EXTINF:-1 tvg-id="Z1.ba" tvg-logo="http://xplatinmedia.com:8080/images/548dd3a26f0a14deefa015ba98d2277e.png" group-title="Hrvatska", Z1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52130
 
-#EXTINF:-1 tvg-id="rtv-hb" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hercegbosnatv.gif" group-title="Hrvatska", Herceg Bosna
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5017
+#EXTINF:-1 tvg-id="Zdrava TV_max" tvg-logo="http://xplatinmedia.com:8080/images/2f0058a24754a0e00696ed5d9df1c509.png" group-title="Hrvatska", Zdrava TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74920
 
-#EXTINF:-1 tvg-id="tv-jadran" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jadrantv.gif" group-title="Hrvatska", Jadran tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5018
+#EXTINF:-1 tvg-id="Arena Esport" tvg-logo="http://xplatinmedia.com:8080/images/2088bda6d3d964965f1e7b754aa18f0f.png" group-title="Sport", Arena eSport SR HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/93884
 
-#EXTINF:-1 tvg-id="tv-dalmacija" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/televizija-dalmacija.gif" group-title="Hrvatska", Televizija Dalmacija
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69879
+#EXTINF:-1 tvg-id="Arena Fight HD" tvg-logo="http://xplatinmedia.com:8080/images/81b4346464546a27eef74220366c4011.png" group-title="Sport", Arena Fight SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92205
 
-#EXTINF:-1 tvg-id="sbtv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/sbtv.gif" group-title="Hrvatska", SBTV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9125
+#EXTINF:-1 tvg-id="Arena sport 1x2" tvg-logo="http://xplatinmedia.com:8080/images/5c104d3d206ef2a7d053345f3561d68f.png" group-title="Sport", Arena Sport 1x2 SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/53449
 
-#EXTINF:-1 tvg-id="libertas-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/libertastv.gif" group-title="Hrvatska", Libertas
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24582
+#EXTINF:-1 tvg-id="Arena Sport 1 HD BiH" tvg-logo="http://xplatinmedia.com:8080/images/f979a4e000fcafaaaea0113c2e013a56.png" group-title="Sport", Arena Sport 1 BIH HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/93283
 
-#EXTINF:-1 tvg-id="Osjecka" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/osijeckatv.gif" group-title="Hrvatska", Osjecka
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1207
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/8e0bb9408e961932faec42142226a026.png" group-title="Sport", Arena Sport 1 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52215
 
-#EXTINF:-1 tvg-id="Marry TV Medugorje" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/marrytvmedugorije.gif" group-title="Hrvatska", Marry TV Medugorje
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29258
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/84bbebb01c3be16307ede7f46f996854.png" group-title="Sport", Arena Sport 1 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/53444
 
-#EXTINF:-1 tvg-id="kanal-ri" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/kanal-ir.gif" group-title="Hrvatska", kanalR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66467
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/4d9ce3755366f3f53922a6d5204a2118.png" group-title="Sport", Arena Sport 2 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52216
 
-#EXTINF:-1 tvg-id="Mreža tv Zagreb" tvg-logo="http://web.izipizi1.info/pi/mreza-zg-tv.png" group-title="Hrvatska", Mreža tv Zagreb
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39477
+#EXTINF:-1 tvg-id="Arenasport 2 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/d9c57083e1e7184b5768a255aa7a1e05.png" group-title="Sport", Arena Sport 2 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/53445
 
-#EXTINF:-1 tvg-id="CroTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/crotv.gif" group-title="Hrvatska", CroTV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67281
+#EXTINF:-1 tvg-id="Arenasport 3 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/0fb2ea8f5d4994db5f66fb0e3fcbe04a.png" group-title="Sport", Arena Sport 3 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52217
 
-#EXTINF:-1 tvg-id="Trend Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/trend-tv.gif" group-title="Hrvatska", Trend Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69886
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/a2e89a901c772889edafb87dbd508621.png" group-title="Sport", Arena Sport 3 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52212
 
-#EXTINF:-1 tvg-id="Tv Zapad" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/tvz.gif" group-title="Hrvatska", Tv Zapad
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69895
+#EXTINF:-1 tvg-id="Arenasport 4 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/bfee2a88dd8d4d73fcad4e22c23d0c1a.png" group-title="Sport", Arena Sport 4 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52218
 
-#EXTINF:-1 tvg-id="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="Hrvatska", Prigorska Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69903
+#EXTINF:-1 tvg-id="Arenasport 4 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/241a1be35971cdee57e34928bb0ea39e.png" group-title="Sport", Arena Sport 4 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/53447
 
-#EXTINF:-1 tvg-id="Tv Sibenik" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/tv-sibenik.gif" group-title="Hrvatska", Tv Sibenik
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71763
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-logo="http://xplatinmedia.com:8080/images/64064682ff1164d9d4fcf0010456eae3.png" group-title="Sport", Arena Sport 5 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/93282
 
-#EXTINF:-1 tvg-id="aurora-tv" tvg-logo="noimage.png" group-title="Hrvatska", Aurora TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/78934
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-logo="http://xplatinmedia.com:8080/images/3e25a19bb0e0653728445d0bca08532a.png" group-title="Sport", Arena Sport 5 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/53448
 
-#EXTINF:-1 tvg-id="Nova Cinema 4K" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/hrvatska/novacinema4k.gif" group-title="Hrvatska", Nova Cinema 4K
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69176
+#EXTINF:-1 tvg-id="Arenasport 6 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/8f627512e6e60b1c94b5f602bceab392.png" group-title="Sport", Arena Sport 6 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52220
 
-#EXTINF:-1 tvg-id="eurosport" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif" group-title="Sport", Eurosport 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66
+#EXTINF:-1 tvg-id="Arenasport 7 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/a1936785b8c274c2ab759a3904264bab.png" group-title="Sport", Arena Sport 7 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/93278
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif" group-title="Sport", Eurosport 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67
+#EXTINF:-1 tvg-id="Arenasport 7_max" tvg-logo="http://xplatinmedia.com:8080/images/e3f96b93b851050e900b1557b2802ce3.png" group-title="Sport", Arena Sport 7 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92200
 
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif" group-title="Sport", Sport Klub
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/34330
+#EXTINF:-1 tvg-id="Arenasport 8 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/d998ba0b3712f1214520a09361349641.png" group-title="Sport", Arena Sport 8 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/93279
 
-#EXTINF:-1 tvg-id="sport-klub" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif" group-title="Sport", Sport Klub 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39321
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/9539006c3b5c602f945f46b6b03cf74e.png" group-title="Sport", Arena Sport 8 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92199
 
-#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif" group-title="Sport", Sport Klub 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62
+#EXTINF:-1 tvg-id="Arenasport 9 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/49d73a95c79a0063a8093f8f6082e65a.png" group-title="Sport", Arena Sport 9 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/93280
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif" group-title="Sport", Sport Klub 3
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/64
+#EXTINF:-1 tvg-id="Arenasport 10 HD_max" tvg-logo="http://xplatinmedia.com:8080/images/10080732b06363cae739cdec7ad539e1.png" group-title="Sport", Arena Sport 10 HR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/93281
 
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdhr.gif" group-title="Sport", Sport Klub 1 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39318
+#EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-logo="http://xplatinmedia.com:8080/images/35cb24ac55b127d25ac9d3942d78fdd3.png" group-title="Sport", Arena Sport Premium 1 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/116540
 
-#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdhr.gif" group-title="Sport", Sport Klub 2 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/33
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="http://xplatinmedia.com:8080/images/8515efee9ee90a855835be3bcc764170.png" group-title="Sport", Arena Sport Premium 2 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/116541
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hdhr.gif" group-title="Sport", Sport Klub 3 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/34
+#EXTINF:-1 tvg-id="Arena Premium 3 (SN)" tvg-logo="http://xplatinmedia.com:8080/images/e1b795ee9b9eaf394b41c30db5564588.png" group-title="Sport", Arena Sport Premium 3 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/116542
 
-#EXTINF:-1 tvg-id="sport-klub-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdslo.gif" group-title="Sport", Sport Klub 1 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29776
+#EXTINF:-1 tvg-id="City.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/8e567caef8032de530e9b04ae0d5395b.png" group-title="Sport", City TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52237
 
-#EXTINF:-1 tvg-id="sport-klub-plus-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdslo.gif" group-title="Sport", Sport Klub 2 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29777
+#EXTINF:-1 tvg-id="Eurosport 1 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/b5214b9741f9233b6037c992fc494922.png" group-title="Sport", Eurosport 1 SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52208
 
-#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3slohd.gif" group-title="Sport", Sport Klub 3 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29779
+#EXTINF:-1 tvg-id="Eurosport 2 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/589b0e65f4552faff219b48a074cb925.png" group-title="Sport", Eurosport 2 SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52209
 
-#EXTINF:-1 tvg-id="sport-klub-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif" group-title="Sport", Sport Klub 4
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/205
+#EXTINF:-1 tvg-id="FightBox" tvg-logo="http://xplatinmedia.com:8080/images/5ff8b39ef6e8eb91bfffcdfc9bc2b514.png" group-title="Sport", Fight Box
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92247
 
-#EXTINF:-1 tvg-id="sport-klub-5" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif" group-title="Sport", Sport Klub 5
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1202
+#EXTINF:-1 tvg-id="SK Fight HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/dc5d4dc4809b2e2565e47dcbe36e510f.png" group-title="Sport", Sport Klub Fight
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52234
 
-#EXTINF:-1 tvg-id="sport-klub-6" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif" group-title="Sport", Sport Klub 6
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1626
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="http://xplatinmedia.com:8080/images/74357bf5fe5002f7103b7beaec31321f.png" group-title="Sport", HNTV OFFLINE
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52238
 
-#EXTINF:-1 tvg-id="sport-klub-7" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif" group-title="Sport", Sport Klub 7
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69870
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="http://xplatinmedia.com:8080/images/c25cc8d67e2d5bc13bd768f84043d00e.png" group-title="Sport", Kreator TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52263
 
-#EXTINF:-1 tvg-id="sport-klub-8" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif" group-title="Sport", Sport Klub 8
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69871
+#EXTINF:-1 tvg-id="MNE Sport 1" tvg-logo="http://xplatinmedia.com:8080/images/b5ca2de5ba17b38a0e5538566fdf9de4.png" group-title="Sport", MNE Sport 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52155
 
-#EXTINF:-1 tvg-id="sport-klub-9" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif" group-title="Sport", Sport Klub 9
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69872
+#EXTINF:-1 tvg-id="MNE Sport 2" tvg-logo="http://xplatinmedia.com:8080/images/34063d395ddf0c1e0ab2bcb360302eb9.png" group-title="Sport", MNE Sport 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92225
 
-#EXTINF:-1 tvg-id="sport-klub-10" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif" group-title="Sport", Sport Klub 10
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69873
+#EXTINF:-1 tvg-id="MNE Sport 3" tvg-logo="http://xplatinmedia.com:8080/images/b5ca2de5ba17b38a0e5538566fdf9de4.png" group-title="Sport", MNE Sport 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92226
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 BiH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67283
+#EXTINF:-1 tvg-id="Moja TV" tvg-logo="https://mymedia.ba/wp-content/uploads/2023/05/MYTV-web--uai-1107x623.png" group-title="Sport", MY TV Sport
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55416
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 BiH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67284
+#EXTINF:-1 tvg-id="Nova Sport HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/b0082170b361bbc00eba67d61ea0a033.png" group-title="Sport", Nova Sport
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52235
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 BiH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67285
+#EXTINF:-1 tvg-id="TV Partizan" tvg-logo="http://xplatinmedia.com:8080/images/c6f7520122a22d81c5453103139596be.png" group-title="Sport", Partizan TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52145
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39440
+#EXTINF:-1 tvg-id="SOS Kanal" tvg-logo="http://xplatinmedia.com:8080/images/2e0d07cca523e1517d85b559a5c599ee.png" group-title="Sport", SOS Kanal
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52110
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39441
+#EXTINF:-1 tvg-id="SK HD" tvg-logo="http://xplatinmedia.com:8080/images/fc9d9e11488ee9812e723a9826fb302c.png" group-title="Sport", Sport Klub HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52227
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39439
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-logo="http://xplatinmedia.com:8080/images/dbeafdab14b73d4ac3705992e98b2af5.png" group-title="Sport", Sport Klub 1 HR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74945
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62594
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-logo="http://xplatinmedia.com:8080/images/bcf629e38a8630b6d8e9ca71f5c89acf.png" group-title="Sport", Sport Klub 1 SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13558
 
-#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="Sport", Arena Sport 1 BiH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/128
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-logo="http://xplatinmedia.com:8080/images/2044aa94aab69b8258785f93f532c720.png" group-title="Sport", Sport Klub 1 SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52221
 
-#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="Sport", Arena Sport 2 BiH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-logo="http://xplatinmedia.com:8080/images/bb7d9f36e931fdf6ea4f10be2908e060.png" group-title="Sport", Sport Klub 2 HR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74946
 
-#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="Sport", Arena Sport 3 BiH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30
+#EXTINF:-1 tvg-id="SK.2.HD.(SR).ba" tvg-logo="http://xplatinmedia.com:8080/images/132cfd5a42574b88d5efd29d2a9910c8.png" group-title="Sport", Sport Klub 2 SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13559
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="Sport", Arena Sport 4 BiH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/31
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-logo="http://xplatinmedia.com:8080/images/234a381b86d102f509579d8d42712e2b.png" group-title="Sport", Sport Klub 2 SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52222
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif" group-title="Sport", Arena Sport 1 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/27
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-logo="http://xplatinmedia.com:8080/images/6aebf280e89d41ae5df10ddabc86c7af.png" group-title="Sport", Sport Klub 3 HR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74947
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif" group-title="Sport", Arena Sport 2 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/192
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-logo="http://xplatinmedia.com:8080/images/11c3d24a7eb59eb543ca61c7056c370f.png" group-title="Sport", Sport Klub 3 SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52223
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif" group-title="Sport", Arena Sport 3 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/193
+#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/267f9589559dac26e23d584d0fc9f3d4.png" group-title="Sport", Sport Klub 4 HR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52224
 
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif" group-title="Sport", Arena Sport 4 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/194
+#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/9c765e60c4b4d847de2abd7672b0a1a5.png" group-title="Sport", Sport Klub 4 SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13560
 
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/645
+#EXTINF:-1 tvg-id="SK 5 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/d9e687be27e9faec65b380401300ae7b.png" group-title="Sport", Sport Klub 5
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52225
 
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37928
+#EXTINF:-1 tvg-id="SK 6 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/e403a15e8671f73177802eb491efe76b.png" group-title="Sport", Sport Klub 6
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52226
 
-#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="Sport", Arena Sport 7 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35185
+#EXTINF:-1 tvg-id="SK 7 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/62f6acfe054dda346ce67f822720e477.png" group-title="Sport", Sport Klub 7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/79434
 
-#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="Sport", Arena Sport 8 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35186
+#EXTINF:-1 tvg-id="SK 8 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/9d9946ef88d7e6690d0a7fe5febbaf41.png" group-title="Sport", Sport Klub 8
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/79435
 
-#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif" group-title="Sport", Arena Sport 9 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35187
+#EXTINF:-1 tvg-id="SK 9 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/4c07cb56323509aa921dce86c6e8dfc3.png" group-title="Sport", Sport Klub 9
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/61670
 
-#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="Sport", Arena Sport 10 HR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35188
+#EXTINF:-1 tvg-id="SK 10 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/b94e24e5f9bc4c96bea7be738f4297a7.png" group-title="Sport", Sport Klub 10
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/61669
 
-#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/28
+#EXTINF:-1 tvg-id="SK Esports (SR)" tvg-logo="http://xplatinmedia.com:8080/images/dc5d4dc4809b2e2565e47dcbe36e510f.png" group-title="Sport", Sport Klub eSports SR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/53446
 
-#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1043
+#EXTINF:-1 tvg-id="SK Golf HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/facc37f3be2588c596b3534fdbfaedfe.png" group-title="Sport", Sport Klub Golf
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52229
 
-#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1044
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/d51933f3e4bf1f0c5f7c92f920397e9a.png" group-title="Sport", Sportska TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52233
 
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1045
+#EXTINF:-1 tvg-id="Zvezda TV HD" tvg-logo="http://xplatinmedia.com:8080/images/75e1ccf5404cbbfa16c17be89d7c0e68.png" group-title="Sport", Zvezda TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99111
 
-#EXTINF:-1 tvg-id="Arena Sport 5 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66258
+#EXTINF:-1 tvg-id="Šport TV 1 SLO" tvg-logo="http://xplatinmedia.com:8080/images/2e12d92d99cee96806d2564a8a646f59.png" group-title="Sport", Šport TV 1 SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13566
 
-#EXTINF:-1 tvg-id="Arena Sport 6 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66259
+#EXTINF:-1 tvg-id="Šport TV 2 SLO" tvg-logo="http://xplatinmedia.com:8080/images/859dfea89a024eb01d5a042d5ab34ca9.png" group-title="Sport", Šport TV 2 SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13567
 
-#EXTINF:-1 tvg-id="Arena Sport 7 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT7.gif" group-title="Sport", Arena Sport 7 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70657
+#EXTINF:-1 tvg-id="Šport TV 3 SLO" tvg-logo="http://xplatinmedia.com:8080/images/5d3743ba7f98961d59105f92c503f857.png" group-title="Sport", Šport TV 3 SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13568
 
-#EXTINF:-1 tvg-id="Arena Sport 8 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT8.gif" group-title="Sport", Arena Sport 8 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70658
+#EXTINF:-1 tvg-id="MAXSport 1_max" tvg-logo="http://xplatinmedia.com:8080/images/85512f11e91f4d1a1b4095e6c07cc047.png" group-title="Sport", Max Sport 1 HR HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/135707
 
-#EXTINF:-1 tvg-id="arena-sport-9-rs" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT9.gif" group-title="Sport", Arena Sport 9 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70659
+#EXTINF:-1 tvg-id="MAXSport 2_max" tvg-logo="http://xplatinmedia.com:8080/images/7fde9612c4ec7815b2e9eb9f65df11ae.png" group-title="Sport", Max Sport 2 HR HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/135708
 
-#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-logo="https://repo.ottshow.net/pikoni/sport/srbarena%2010.gif" group-title="Sport", Arena Sport 10 SR
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70660
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/49d73a95c79a0063a8093f8f6082e65a.png" group-title="Sport", Arena Sport 9 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/169994
 
-#EXTINF:-1 tvg-id="arena-sport-1-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62590
+#EXTINF:-1 tvg-id="Arenasport 10_max" tvg-logo="http://xplatinmedia.com:8080/images/10080732b06363cae739cdec7ad539e1.png" group-title="Sport", Arena Sport 10 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/169995
 
-#EXTINF:-1 tvg-id="arena-sport-2-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62591
+#EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-logo="http://xplatinmedia.com:8080/images/35cb24ac55b127d25ac9d3942d78fdd3.png" group-title="Sport", Arena Sport Premium 1 BIH FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/170026
 
-#EXTINF:-1 tvg-id="arena-sport-3-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62592
+#EXTINF:-1 tvg-id="Arena Sport 6 SR FHD" tvg-logo="http://xplatinmedia.com:8080/images/8f627512e6e60b1c94b5f602bceab392.png" group-title="Sport", Arena Sport 6 SR FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/172548
 
-#EXTINF:-1 tvg-id="arena-sport-4-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/62593
+#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="http://109.104.153.221/tv-logos/countries/croatia/hajduk_tv.png" group-title="Sport", Hajduk TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/172826
 
-#EXTINF:-1 tvg-id="arena-esport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif" group-title="Sport", Arena ESport
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/36410
+#EXTINF:-1 tvg-id="AL Jazeera Balkans HD" tvg-logo="http://xplatinmedia.com:8080/images/37b6fa1c3c65d636e100a183566d0249.png" group-title="Bosna i Hercegovina", Al Jazeera Balkans
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52095
 
-#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Sport", Arena Sport 1x2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66260
+#EXTINF:-1 tvg-id="ALFA TV" tvg-logo="http://xplatinmedia.com:8080/images/1e6960055f3c429ef7271bab37f1d695.png" group-title="Bosna i Hercegovina", Alfa TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52154
 
-#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="noimage.png" group-title="Sport", Nova Sport HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/79936
+#EXTINF:-1 tvg-id="Alternativna.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/185227abb2ded8fb46fab2f37f9d7db5.png" group-title="Bosna i Hercegovina", Alternativna TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52134
 
-#EXTINF:-1 tvg-id="sport-tv-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif" group-title="Sport", Sport SLO 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/206
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/d44ea6beecad13044815538d50a85ff6.png" group-title="Bosna i Hercegovina", B1 Gradačac
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74902
 
-#EXTINF:-1 tvg-id="sport-tv-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif" group-title="Sport", Sport SLO 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/207
+#EXTINF:-1 tvg-id="BHT" tvg-logo="http://xplatinmedia.com:8080/images/66421d70725eb44e00ff76d0850d37be.png" group-title="Bosna i Hercegovina", BHT1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52132
 
-#EXTINF:-1 tvg-id="stv3" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif" group-title="Sport", Sport SLO 3
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/208
+#EXTINF:-1 tvg-id="RTV.BIR.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/933859a2b77ac055c69c187c98e56d39.png" group-title="Bosna i Hercegovina", BIR TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92268
 
-#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1 SD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71739
+#EXTINF:-1 tvg-id="BN TV" tvg-logo="http://xplatinmedia.com:8080/images/c85caece01d65b1a058d5539d51b4896.png" group-title="Bosna i Hercegovina", BN TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52148
 
-#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2496
+#EXTINF:-1 tvg-id="BN 2" tvg-logo="http://xplatinmedia.com:8080/images/72a617c7ae4fb10cedb938e63cf37d9d.png" group-title="Bosna i Hercegovina", BN2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99101
 
-#EXTINF:-1 tvg-id="maxsport-2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Sport", MAXSport 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/61224
+#EXTINF:-1 tvg-id="Posavina.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/a8069b1abefd8d4b41b9a4fcf200cdd4.jpg" group-title="Bosna i Hercegovina", Bosansko Posavska TV HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74909
 
-#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="noimage.png" group-title="Sport", Hajduk TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/83182
+#EXTINF:-1 tvg-id="Balkanika.ba" tvg-logo="http://xplatinmedia.com:8080/images/16ac4299d793e8a5a7c8317b6439aa81.png" group-title="Bosna i Hercegovina", Dobra Balkanska
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92208
 
-#EXTINF:-1 tvg-id="city-tv" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif" group-title="Sport", City TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29606
+#EXTINF:-1 tvg-id="Dobra Exclusive" tvg-logo="http://xplatinmedia.com:8080/images/3de447658e80965a6bf8e71462b5941b.png" group-title="Bosna i Hercegovina", Dobra Exclusive
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92216
 
-#EXTINF:-1 tvg-id="sportska-televizija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif" group-title="Sport", SPTV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/12622
+#EXTINF:-1 tvg-id="Dobra Islamska" tvg-logo="http://xplatinmedia.com:8080/images/3de447658e80965a6bf8e71462b5941b.png" group-title="Bosna i Hercegovina", Dobra Islamska
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92219
 
-#EXTINF:-1 tvg-id="sos" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif" group-title="Sport", SOS Kanal
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/204
+#EXTINF:-1 tvg-id="ELTA 1" tvg-logo="http://xplatinmedia.com:8080/images/6eac42841d770bcdd52fb65774e2c382.png" group-title="Bosna i Hercegovina", Elta TV1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99102
 
-#EXTINF:-1 tvg-id="Zvezda Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif" group-title="Sport", Zvezda Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69875
+#EXTINF:-1 tvg-id="ELTA 1" tvg-logo="http://xplatinmedia.com:8080/images/b92c671bf8104e481a0f4915adb54a0b.png" group-title="Bosna i Hercegovina", Elta TV2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99103
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif" group-title="Sport", Tv Partizan
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69874
+#EXTINF:-1 tvg-id="FACE TV" tvg-logo="http://xplatinmedia.com:8080/images/0470c5033acd4ed116f2aff2e181805e.png" group-title="Bosna i Hercegovina", Face TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52147
 
-#EXTINF:-1 tvg-id="fight-klub-hd" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif" group-title="Sport", Sport Klub Golf
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68481
+#EXTINF:-1 tvg-id="FTV HD" tvg-logo="http://xplatinmedia.com:8080/images/69958efd8bed2cb00a0a204c95c95480.png" group-title="Bosna i Hercegovina", Federalna TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52133
 
-#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif" group-title="Sport", Sport Klub Fight
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68480
+#EXTINF:-1 tvg-id="Posavina.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/d0e6a706b74826465f1b29256e278d9e.png" group-title="Bosna i Hercegovina", Glas Drine
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55447
 
-#EXTINF:-1 tvg-id="arena-fight" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif" group-title="Sport", Arena Fight
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30491
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/2d3a9be39195a83b47a44d407d833a0b.png" group-title="Bosna i Hercegovina", Hayat Plus
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52157
 
-#EXTINF:-1 tvg-id="fight-network" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif" group-title="Sport", Fight Network
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/61
+#EXTINF:-1 tvg-id="HAYAT TV" tvg-logo="http://xplatinmedia.com:8080/images/3e115c9804f32acda661b7ff1895952c.png" group-title="Bosna i Hercegovina", Hayat TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52156
 
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Kids", Baby TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/40217
+#EXTINF:-1 tvg-id="Hema TV" tvg-logo="http://xplatinmedia.com:8080/images/73917cad46ac23ea2daa883e61a1e194.png" group-title="Bosna i Hercegovina", HEMA TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52143
 
-#EXTINF:-1 tvg-id="minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Kids", Minimax
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/93
+#EXTINF:-1 tvg-id="TV K3 HD" tvg-logo="http://xplatinmedia.com:8080/images/e51574f4761d98080088c8fb4ff2572b.png" group-title="Bosna i Hercegovina", K3 Prnjavor
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52160
 
-#EXTINF:-1 tvg-id="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Kids", Mini Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/265
+#EXTINF:-1 tvg-id="Kanal.6.ba" tvg-logo="http://xplatinmedia.com:8080/images/1e24a736334a800884fa56df3870f5e2.png" group-title="Bosna i Hercegovina", Kanal 6
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52162
 
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Kids", Nick Jr Hr.
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25986
+#EXTINF:-1 tvg-id="Lud Zbunjen Normalan 24/7" tvg-logo="http://xplatinmedia.com:8080/images/d506509530e7f0e88a6d2c3f64798ba2.jpg" group-title="Bosna i Hercegovina", Lud Zbunjen Normalan 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74953
 
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Kids", Nick Jr
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68475
+#EXTINF:-1 tvg-id="MTV.Igman.ba" tvg-logo="http://xplatinmedia.com:8080/images/e7d74968f25a063e9ddc6c555d62fe31.png" group-title="Bosna i Hercegovina", MTV Igman
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52146
 
-#EXTINF:-1 tvg-id="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons Hr.
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71269
+#EXTINF:-1 tvg-id="N1 HD (BH)/(SR)" tvg-logo="http://xplatinmedia.com:8080/images/86f11dce49dca005abcad6c92ff432c2.png" group-title="Bosna i Hercegovina", N1 HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52153
 
-#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Kids", Nicktoons
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/40979
+#EXTINF:-1 tvg-id="Nova BH HD" tvg-logo="http://xplatinmedia.com:8080/images/17f3cefd68698780ffdebfd57741832d.png" group-title="Bosna i Hercegovina", Nova BH
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52149
 
-#EXTINF:-1 tvg-id="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Kids", Nickelodeon Hr.
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25987
+#EXTINF:-1 tvg-id="NTV.IC.Kakanj.ba" tvg-logo="http://xplatinmedia.com:8080/images/713d63312588b8cf4a376c50545c8bea.png" group-title="Bosna i Hercegovina", NTV 101
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99104
 
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Kids", Nickelodeon
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68476
+#EXTINF:-1 tvg-id="NTV.IC.Kakanj.ba" tvg-logo="http://xplatinmedia.com:8080/images/87e792d2e917435ab7b8b6cd9ef09385.png" group-title="Bosna i Hercegovina", NTV IC Kakanj
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74904
 
-#EXTINF:-1 tvg-id="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network Hr.
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71267
+#EXTINF:-1 tvg-id="O Kanal" tvg-logo="http://xplatinmedia.com:8080/images/d8d2d1da47cb7820cd56ecc4eb1204bc.png" group-title="Bosna i Hercegovina", O Kanal
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52141
 
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Kids", Cartoon Network
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71113
+#EXTINF:-1 tvg-id="OBN.ba" tvg-logo="http://xplatinmedia.com:8080/images/9a069097fa914c0b685a176a5571f43c.png" group-title="Bosna i Hercegovina", OBN
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52135
 
-#EXTINF:-1 tvg-id="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Tnt Kids
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66257
+#EXTINF:-1 tvg-id="Pink BH" tvg-logo="http://xplatinmedia.com:8080/images/eca0d6a2f94d38c562164f0183dde881.png" group-title="Bosna i Hercegovina", Pink BH
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52159
 
-#EXTINF:-1 tvg-id="pink-kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Kids", Pink Kids
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/266
+#EXTINF:-1 tvg-id="Posavina.TV.ba" tvg-logo="http://xplatinmedia.com:8080/images/e7cb80b3ce3378e07a987067d3f58b4d.png" group-title="Bosna i Hercegovina", Posavina TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55445
 
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Kids", Pink Super Kids
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71270
+#EXTINF:-1 tvg-id="Quran TV" tvg-logo="http://xplatinmedia.com:8080/images/7670606f88adfa586daf095e3ec1c640.png" group-title="Bosna i Hercegovina", Quran TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/79462
 
-#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Kids", Kazbuka
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71116
+#EXTINF:-1 tvg-id="RTRS Plus" tvg-logo="http://xplatinmedia.com:8080/images/526c594b974b682e4cefd94da9e95623.png" group-title="Bosna i Hercegovina", RTRS Plus
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52151
 
-#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Kids", Pikaboo
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3854
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-logo="http://xplatinmedia.com:8080/images/41511c28abafe76ea87d1c3a901c9333.png" group-title="Bosna i Hercegovina", RTRS
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52150
 
-#EXTINF:-1 tvg-id="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Kids", Toon Kids
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/8858
+#EXTINF:-1 tvg-id="TV.Bugojno.ba" tvg-logo="http://xplatinmedia.com:8080/images/5ab6f1cf31d819f1fded812f1f1cd3e5.png" group-title="Bosna i Hercegovina", RTV Bugojno
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52140
 
-#EXTINF:-1 tvg-id="hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Kids", Hayatovci
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25970
+#EXTINF:-1 tvg-id="RTV.Sana.ba" tvg-logo="http://xplatinmedia.com:8080/images/4cdfd902ca24b74fc4419f21ded6b664.png" group-title="Bosna i Hercegovina", RTV Cazin
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99105
 
-#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Kids", Cartoonito
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71114
+#EXTINF:-1 tvg-id="RTV HB HD" tvg-logo="http://xplatinmedia.com:8080/images/c2bfc1651f5cd23a4b7f0128441b52b7.png" group-title="Bosna i Hercegovina", RTV HB
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52144
 
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Kids", Rtl Kockica
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25997
+#EXTINF:-1 tvg-id="RTV HIT" tvg-logo="http://xplatinmedia.com:8080/images/b773a06e889f279a4cecc6ba234927fa.png" group-title="Bosna i Hercegovina", RTV HIT Brčko
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52142
 
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Kids", Disney Chanel
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71109
+#EXTINF:-1 tvg-id="RTV.Jablanica.ba" tvg-logo="http://xplatinmedia.com:8080/images/afd6d6953d2deb10c13b01f3120ae0c1.png" group-title="Bosna i Hercegovina", RTV Podrinje
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92267
 
-#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Kids", Disney Junior
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71268
+#EXTINF:-1 tvg-id="RTV.Sana.ba" tvg-logo="http://xplatinmedia.com:8080/images/dd7d52766a7be53cbeaf04465331dc1e.png" group-title="Bosna i Hercegovina", RTV Sana
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74908
 
-#EXTINF:-1 tvg-id="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Kids", Dexy Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67745
+#EXTINF:-1 tvg-id="RTV.TK.ba" tvg-logo="http://xplatinmedia.com:8080/images/33571e6c5fc211c0a38e83081c2fc84b.png" group-title="Bosna i Hercegovina", RTV TK
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52137
 
-#EXTINF:-1 tvg-id="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Kids", Nova  Kids
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67744
+#EXTINF:-1 tvg-id="RTV.Visoko.ba" tvg-logo="http://xplatinmedia.com:8080/images/95908806ed5541685fe52c8ba17dbbef.png" group-title="Bosna i Hercegovina", RTV Visoko
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52139
 
-#EXTINF:-1 tvg-id="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Kids", CoComelon
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69637
+#EXTINF:-1 tvg-id="RTV.Zenica.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/2e58050f8cbc7c225a8854098fd19351.png" group-title="Bosna i Hercegovina", RTV Zenica
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52163
 
-#EXTINF:-1 tvg-id="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Kids", IDJ Kids
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68943
+#EXTINF:-1 tvg-id="RTV.Zenica.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/fadbc44b6aec95852862d93aaa7f3df3.png" group-title="Bosna i Hercegovina", RTV Živinice
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99090
 
-#EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Kids", Looney Tunes
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45122
+#EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="http://xplatinmedia.com:8080/images/f842e75b3fb7e639c9c4a03934c04a12.png" group-title="Bosna i Hercegovina", Sandžak TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74905
 
-#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Kids", Tom and Jerry
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67747
+#EXTINF:-1 tvg-id="Super Sat TV" tvg-logo="https://www.supertelevizija.com/wp-content/uploads/2020/01/SUPER-MEDIA-TV-9-e1606746444475.png" group-title="Bosna i Hercegovina", Super TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99089
 
-#EXTINF:-1 tvg-id="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Kids", Psici u Ophodnji
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69630
+#EXTINF:-1 tvg-id="Alfa.(Sarajevo).ba" tvg-logo="http://xplatinmedia.com:8080/images/fd0abff6c2351b14b5bf3508527f2b1c.png" group-title="Bosna i Hercegovina", Tatabrada TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99091
 
-#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/mickymouse.gif" group-title="Kids", Mickey Mouse
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/74173
+#EXTINF:-1 tvg-id="Televizija V5" tvg-logo="http://xplatinmedia.com:8080/images/663f5e16232bd76bb72a57c270554f11.png" group-title="Bosna i Hercegovina", Televizija 5
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52164
 
-#EXTINF:-1 tvg-id="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Kids", Masa i Medo
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67743
+#EXTINF:-1 tvg-id="TV.Lukavac.ba" tvg-logo="http://https://rtvlukavac.ba/podaci/2021/08/logo-footer-retina-1.png.xyz:8080/images/bb3a3a30c768e02d7796c47b3ff7c871.png" group-title="Bosna i Hercegovina", TV Lukavac
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99100
 
-#EXTINF:-1 tvg-id="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Kids", Pepa Prašcic
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67746
+#EXTINF:-1 tvg-id="RTV Sarajevo" tvg-logo="http://xplatinmedia.com:8080/images/850ea3233ba106cd97fa2d965060fd7a.png" group-title="Bosna i Hercegovina", TV Sarajevo
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52136
 
-#EXTINF:-1 tvg-id="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Kids", Tri Mace
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69635
+#EXTINF:-1 tvg-id="TV SLOBOMIR" tvg-logo="http://xplatinmedia.com:8080/images/f19ffc22ad9ddb09f810484106ead22f.png" group-title="Bosna i Hercegovina", TV Slon Extra
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74907
 
-#EXTINF:-1 tvg-id="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Kids", A Je To
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69632
+#EXTINF:-1 tvg-id="O Kanal" tvg-logo="http://xplatinmedia.com:8080/images/d8d2d1da47cb7820cd56ecc4eb1204bc.png" group-title="Bosna i Hercegovina", TV1 ( O Kanal)
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52152
 
-#EXTINF:-1 tvg-id="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Kids", Strumpfovi
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69633
+#EXTINF:-1 tvg-id="RTV USK HD" tvg-logo="http://xplatinmedia.com:8080/images/fe0670962c34a22de4e232e435ed3eb7.png" group-title="Bosna i Hercegovina", USK
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55443
 
-#EXTINF:-1 tvg-id="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Kids", Pingvini
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69634
+#EXTINF:-1 tvg-id="24vesti" tvg-logo="http://xplatinmedia.com:8080/images/80827edba5cef4661fdf835e6014ca94.png" group-title="Sjeverna Makedonija", 24 Vesti
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55429
 
-#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mickymouse.gif" group-title="Kids", Mickey Mouse
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72012
+#EXTINF:-1 tvg-id="ALFATV" tvg-logo="http://xplatinmedia.com:8080/images/e8019303aa62a266077373fe859bf177.png" group-title="Sjeverna Makedonija", ALFA
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55420
 
-#EXTINF:-1 tvg-id="Mr Magoo" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrmago.gif" group-title="Kids", Mr Magoo
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72013
+#EXTINF:-1 tvg-id="ALSAT-M" tvg-logo="http://xplatinmedia.com:8080/images/0f019b282cedc0aad12d92a6b147b62e.png" group-title="Sjeverna Makedonija", Alsat M
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55437
 
-#EXTINF:-1 tvg-id="Larva" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/larva.gif" group-title="Kids", Larva
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72014
+#EXTINF:-1 tvg-id="EDO" tvg-logo="http://xplatinmedia.com:8080/images/f070dac23aa70ed9def9e927a7ae1147.png" group-title="Sjeverna Makedonija", EDO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55438
 
-#EXTINF:-1 tvg-id="Blippi" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bliipi.gif" group-title="Kids", Blippi
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72015
+#EXTINF:-1 tvg-id="Hugo 1" tvg-logo="http://xplatinmedia.com:8080/images/55c80b1d202c3c1bf5cc5b60f7d898cb.png" group-title="Sjeverna Makedonija", Hugo 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55441
 
-#EXTINF:-1 tvg-id="Lucky Luke" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/luckyluck.gif" group-title="Kids", Lucky Luke
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72016
+#EXTINF:-1 tvg-id="Kanal 5" tvg-logo="http://xplatinmedia.com:8080/images/49db73cd4f52bda2974f51311635f712.png" group-title="Sjeverna Makedonija", Kanal 5
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55419
 
-#EXTINF:-1 tvg-id="Alice i Lewis" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/aliceilewis.gif" group-title="Kids", Alice i Lewis
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72017
+#EXTINF:-1 tvg-id="Kanal 8 Kocani" tvg-logo="http://xplatinmedia.com:8080/images/a1be42d930f8cf0955fbdc6dbff6d01e.png" group-title="Sjeverna Makedonija", Kanal 8 Kocani
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55430
 
-#EXTINF:-1 tvg-id="SpongeBob" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/spongebob.gif" group-title="Kids", SpongeBob
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72018
+#EXTINF:-1 tvg-id="491" tvg-logo="http://xplatinmedia.com:8080/images/6c8b65e758a91a07a8ca0b28e4b261f3.png" group-title="Sjeverna Makedonija", MRT 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55436
 
-#EXTINF:-1 tvg-id="Pink Panther" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/thepinkpanter.gif" group-title="Kids", Pink Panther
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72019
+#EXTINF:-1 tvg-id="MRT2" tvg-logo="http://xplatinmedia.com:8080/images/ca8ccebc43eff4c533f5deecfac05e3d.png" group-title="Sjeverna Makedonija", MRT 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92249
 
-#EXTINF:-1 tvg-id="Profesor Baltazar" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/profesorbaltezar.gif" group-title="Kids", Profesor Baltazar
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72020
+#EXTINF:-1 tvg-id="MRT3" tvg-logo="http://xplatinmedia.com:8080/images/90d8af40cc240b167a808e61dd44a501.png" group-title="Sjeverna Makedonija", MRT 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92250
 
-#EXTINF:-1 tvg-id="Gormiti" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/gormiti.gif" group-title="Kids", Gormiti
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72021
+#EXTINF:-1 tvg-id="MRT 4" tvg-logo="http://xplatinmedia.com:8080/images/36aef607eda5d37d59bc1731b92d90ab.png" group-title="Sjeverna Makedonija", MRT 4
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92260
 
-#EXTINF:-1 tvg-id="MetaJets" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/metajets.gif" group-title="Kids", MetaJets
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72022
+#EXTINF:-1 tvg-id="MRT 5" tvg-logo="http://xplatinmedia.com:8080/images/aa0564cd46f6dbfb00c1bd5067625a6a.png" group-title="Sjeverna Makedonija", MRT 5
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92261
 
-#EXTINF:-1 tvg-id="Agent Binky" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/agnetbinky.gif" group-title="Kids", Agent Binky
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72023
+#EXTINF:-1 tvg-id="MTM Skopska" tvg-logo="http://xplatinmedia.com:8080/images/94031b75381c2293a9e90cfb9d6899c2.png" group-title="Sjeverna Makedonija", MTM Skopska
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55440
 
-#EXTINF:-1 tvg-id="Bolek i Lolek" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bolekilolek.gif" group-title="Kids", Bolek i Lolek
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72024
+#EXTINF:-1 tvg-id="Nasa TV" tvg-logo="http://xplatinmedia.com:8080/images/36adc3b9245a6748fed3fd25659e20c2.png" group-title="Sjeverna Makedonija", Nasa TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55431
 
-#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrbean.gif" group-title="Kids", Mr Bean
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72029
+#EXTINF:-1 tvg-id="Roma TV" tvg-logo="http://xplatinmedia.com:8080/images/2200a547a1c3203231fcee257af8eb62.png" group-title="Sjeverna Makedonija", Roma TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92257
 
-#EXTINF:-1 tvg-id="La Linea" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/la-liane.gif" group-title="Kids", La Linea
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/73980
+#EXTINF:-1 tvg-id="RTV Sonce" tvg-logo="http://xplatinmedia.com:8080/images/0928fc0854ca11880e082dfbb1892c4b.png" group-title="Sjeverna Makedonija", RTV Sonce
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55432
 
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://picons.ottshow.net/pikoni/doku/nationalgeographic.gif" group-title="Doku", National Geographic
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25978
+#EXTINF:-1 tvg-id="491" tvg-logo="http://xplatinmedia.com:8080/images/745632d79a8e9f602291a574bebda38d.png" group-title="Sjeverna Makedonija", Sitel 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55418
 
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://picons.ottshow.net/pikoni/doku/natgeowild.gif" group-title="Doku", NatGeo Wild
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25977
+#EXTINF:-1 tvg-id="491" tvg-logo="http://xplatinmedia.com:8080/images/81aa02344547ea3b6630b9b0c216ed83.png" group-title="Sjeverna Makedonija", Sitel
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55417
 
-#EXTINF:-1 tvg-id="discovery-europe" tvg-logo="https://picons.ottshow.net/pikoni/doku/discovery.gif" group-title="Doku", Discovery Channel
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68
+#EXTINF:-1 tvg-id="StarTVTR" tvg-logo="http://xplatinmedia.com:8080/images/0fdb4244320d1114914aae83a6f307d1.png" group-title="Sjeverna Makedonija", Star TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92262
 
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoveryid.gif" group-title="Doku", Discovery ID
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25980
+#EXTINF:-1 tvg-id="491" tvg-logo="http://xplatinmedia.com:8080/images/86cb67986258930f90894bf33c9f0eb7.jpg" group-title="Sjeverna Makedonija", Sutel TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55421
 
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoverysince.gif" group-title="Doku", Discovery Science
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25984
+#EXTINF:-1 tvg-id="Telma" tvg-logo="http://xplatinmedia.com:8080/images/58f21b1d8e33ccde5190c620b90eb83d.png" group-title="Sjeverna Makedonija", Telma
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92248
 
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="https://picons.ottshow.net/pikoni/doku/tlc.gif" group-title="Doku", TLC
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/74
+#EXTINF:-1 tvg-id="TERA" tvg-logo="http://xplatinmedia.com:8080/images/c548f8cab88a2cebd732e9d4be9c87e0.png" group-title="Sjeverna Makedonija", TERA
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55439
 
-#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://picons.ottshow.net/pikoni/doku/AnimalPlanet.gif" group-title="Doku", Animal Planet
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25983
+#EXTINF:-1 tvg-id="TV Plus Kumanovo" tvg-logo="http://xplatinmedia.com:8080/images/51769a23484b6f615c6d4aaf3b26f73a.png" group-title="Sjeverna Makedonija", TV Plus Kumanovo
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55435
 
-#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://picons.ottshow.net/pikoni/doku/invs+.gif" group-title="Doku", Crime & Invvestigation
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25982
+#EXTINF:-1 tvg-id="Uskana TV" tvg-logo="http://xplatinmedia.com:8080/images/f4745595dfd0244a53308823b60f27fd.png" group-title="Sjeverna Makedonija", Uskana TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92258
 
-#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/history.gif" group-title="Doku", History
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2574
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://xplatinmedia.com:8080/images/0cb6acd191d3b76307d8426aa6f6765d.png" group-title="Slovenija", 24 Kitchen
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92237
 
-#EXTINF:-1 tvg-id="history-channel-2" tvg-logo="https://picons.ottshow.net/pikoni/doku/h2history%202.gif" group-title="Doku", History 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25981
+#EXTINF:-1 tvg-id="AXN Spin (SN)" tvg-logo="http://xplatinmedia.com:8080/images/32b790ab3a9342e15cc57e1834cc1264.png" group-title="Slovenija", AXN Spin
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92239
 
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://picons.ottshow.net/pikoni/doku/Vaistnature.gif" group-title="Doku", Viasat Nature
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4126
+#EXTINF:-1 tvg-id="AXN (SN)" tvg-logo="http://xplatinmedia.com:8080/images/33a33e49af1762d3d5b1815c0b55315a.png" group-title="Slovenija", AXN
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92236
 
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://picons.ottshow.net/pikoni/doku/viasthistory.gif" group-title="Doku", Viasat History
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2797
+#EXTINF:-1 tvg-id="Gold" tvg-logo="http://xplatinmedia.com:8080/images/86b17bad29c75a275faee78b1985becf.png" group-title="Slovenija", Gold TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13545
 
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-logo="https://picons.ottshow.net/pikoni/doku/vaisetexpliore.gif" group-title="Doku", Viasat Explorer
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1204
+#EXTINF:-1 tvg-id="Kanal A" tvg-logo="http://xplatinmedia.com:8080/images/3567fdcbb8d6d8ab72d1ad7712330c94.png" group-title="Slovenija", Kanal A
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13549
 
-#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://repo.ottshow.net/pikoni/srbija/balkantriptv.gif" group-title="Doku", Balkan Trip
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4485
+#EXTINF:-1 tvg-id="Nova24 TV" tvg-logo="http://xplatinmedia.com:8080/images/83b146194b1d7845326cb782cd79efea.png" group-title="Slovenija", Nova24 TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13552
 
-#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="Doku", Lov i Ribolov
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/65
+#EXTINF:-1 tvg-id="Planet Plus" tvg-logo="http://xplatinmedia.com:8080/images/15a94a0d4ebca21320991da15c66e71c.png" group-title="Slovenija", Planet Plus
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13544
 
-#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/travel.gif" group-title="Doku", Travel Channel
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/181
+#EXTINF:-1 tvg-id="Planet TV" tvg-logo="http://xplatinmedia.com:8080/images/9c1da5846bffd73cec6d67eca13185d0.png" group-title="Slovenija", Planet TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13554
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/bbcearth.gif" group-title="Doku", BBC Earth
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24373
+#EXTINF:-1 tvg-id="Pop Brio" tvg-logo="http://xplatinmedia.com:8080/images/c67fb16b1e2e0f5b9252af284c7489ae.png" group-title="Slovenija", Pop Brio
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13543
 
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://picons.ottshow.net/pikoni/doku/fooodnewttork.gif" group-title="Doku", Food Network
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/33261
+#EXTINF:-1 tvg-id="Pop TV" tvg-logo="http://xplatinmedia.com:8080/images/73aafa4b7ed78f7d12fca0eaba3fae26.png" group-title="Slovenija", Pop TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13553
 
-#EXTINF:-1 tvg-id="24kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku", 24 Kitchen
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25985
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/9fd1fc8a41c195f5aeaee2ce3b0569b6.png" group-title="Slovenija", SLO 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13555
 
-#EXTINF:-1 tvg-id="entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku", E! Entertainment
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2572
+#EXTINF:-1 tvg-id="SLO 2" tvg-logo="http://xplatinmedia.com:8080/images/2d31672daa32955f4d46fb67a9c08aed.png" group-title="Slovenija", SLO 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13556
 
-#EXTINF:-1 tvg-id="doku-tv" tvg-logo="http://repo.ottshow.net/pikoni/doku/dokutv.gif" group-title="Doku", Doku TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/31853
+#EXTINF:-1 tvg-id="SLO 3" tvg-logo="http://xplatinmedia.com:8080/images/e6930950dc0fe4cf80de9fcfa8c95582.png" group-title="Slovenija", SLO 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13557
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://web.izipizi1.info/pi/jyw.png" group-title="Doku", HGTV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/39108
+#EXTINF:-1 tvg-id="TRŽIČ TV" tvg-logo="http://xplatinmedia.com:8080/images/46a4d5ce6e50d52fdcab59e3fabfefeb.png" group-title="Slovenija", TRŽIČ TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92235
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/natucialchannel.gif" group-title="Doku", Nautical Channel
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/71247
+#EXTINF:-1 tvg-id="TV Koper" tvg-logo="http://xplatinmedia.com:8080/images/ef12829b8090bec84117b461a928d518.png" group-title="Slovenija", TV Koper
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13563
 
-#EXTINF:-1 tvg-id="pink-fashion" tvg-logo="https://picons.ottshow.net/pikoni/doku/FashonTV.gif" group-title="Doku", Fashion TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9108
+#EXTINF:-1 tvg-id="TV Maribor" tvg-logo="http://xplatinmedia.com:8080/images/ab731c2995842f5f63d67e09e4bd2117.png" group-title="Slovenija", TV Maribor
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13569
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/doku/love4knaturer.gif" group-title="Doku", Love Nature 4K
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68948
+#EXTINF:-1 tvg-id="Veseljak TV" tvg-logo="http://xplatinmedia.com:8080/images/0fda507381db1ef017f6e61b55dea868.png" group-title="Slovenija", Veseljak TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92234
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/44
+#EXTINF:-1 tvg-id="VOYO" tvg-logo="http://xplatinmedia.com:8080/images/fd7ba0dd7ca8b7d82ea578df25a2a677.png" group-title="Slovenija", VOYO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13564
 
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo2.gif" group-title="Film", HBO 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/72
+#EXTINF:-1 tvg-id="VTV" tvg-logo="http://xplatinmedia.com:8080/images/7a0f24809c234ea78d972b1f336ac1b9.png" group-title="Slovenija", VTV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13565
 
-#EXTINF:-1 tvg-id="hbo3" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo3.gif" group-title="Film", HBO 3
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1555
+#EXTINF:-1 tvg-id="Woman HD" tvg-logo="http://xplatinmedia.com:8080/images/cb867b460d5917775ed4b3c9bcfb5f18.png" group-title="Srbija", ART Vizija
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52261
 
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax.gif" group-title="Film", Cinemax
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70
+#EXTINF:-1 tvg-id="B92.ba" tvg-logo="http://xplatinmedia.com:8080/images/96dcf3506e634f1d3c779e10fa652844.png" group-title="Srbija", B92
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52088
 
-#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax2.gif" group-title="Film", Cinemax  2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/126
+#EXTINF:-1 tvg-id="BelleAmie" tvg-logo="http://xplatinmedia.com:8080/images/51435b64b769efdea96d505a41c16517.png" group-title="Srbija", Belle Amie
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92270
 
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier1.gif" group-title="Film", CineStar Premiere 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/36
+#EXTINF:-1 tvg-id="Happy.TV.sv" tvg-logo="http://xplatinmedia.com:8080/images/47eb5057c0f907371cdb189d1b87544a.png" group-title="Srbija", Happy TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52089
 
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier2.gif" group-title="Film", CineStar Premiere 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/8e2e8358821701062f3850aaeb4c7810.png" group-title="Srbija", Hram TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92252
 
-#EXTINF:-1 tvg-id="cinestar-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestartv.gif" group-title="Film", CineStar TV 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3851
+#EXTINF:-1 tvg-id="TV Jefimija" tvg-logo="http://xplatinmedia.com:8080/images/1a30804f0ba63955ccefb2d6470b33f4.png" group-title="Srbija", Jefimije TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92272
 
-#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-logo="http://web.izipizi1.info/pi/cinestartv2.png" group-title="Film", CineStar TV 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37920
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/9cb249219415dd68fd95abcc2261663c.png" group-title="Srbija", K1 TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92242
 
-#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestaraction.gif" group-title="Film", CineStar Action
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2685
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/5b68ca96b109b726557c4d57ea377c44.png" group-title="Srbija", Kurir TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99107
 
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarfantasy.gif" group-title="Film", CineStar Fantasy
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/10444
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/2a9e5c4ac6ce36cff0722ac070f7093f.png" group-title="Srbija", Leskovac TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92259
 
-#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarcomedy.gif" group-title="Film", CineStar Comedy
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30492
+#EXTINF:-1 tvg-id="N1.HD.(SR).ba" tvg-logo="http://xplatinmedia.com:8080/images/bab4ac2b347b57a62fc3c08fe502b1d5.png" group-title="Srbija", N1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52091
 
-#EXTINF:-1 tvg-id="fox" tvg-logo="http://repo.ottshow.net/pikoni/film/fox.gif" group-title="Film", STAR Channel
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/178
+#EXTINF:-1 tvg-id="NOVA.S.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/911ba94c24d1d033ca4e4ec8938f1b65.png" group-title="Srbija", Nova S  FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52090
 
-#EXTINF:-1 tvg-id="fox-movies" tvg-logo="http://repo.ottshow.net/pikoni/film/foxmovies.gif" group-title="Film", STAR Movies
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/25990
+#EXTINF:-1 tvg-id="Palma plus" tvg-logo="http://xplatinmedia.com:8080/images/7169d1a129ecd5f993ef758b19d93216.png" group-title="Srbija", Palma Plus Jagodina
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92251
 
-#EXTINF:-1 tvg-id="fox-life" tvg-logo="http://repo.ottshow.net/pikoni/film/foxlife.gif" group-title="Film", STAR Life
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1378
+#EXTINF:-1 tvg-id="Pink.BH.ba" tvg-logo="http://xplatinmedia.com:8080/images/4a0b0dcedd48f780778d1cd1bb8f9877.png" group-title="Srbija", Pink 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13562
 
-#EXTINF:-1 tvg-id="fox-crime" tvg-logo="http://repo.ottshow.net/pikoni/film/foxcrime.gif" group-title="Film", STAR Crime
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1553
+#EXTINF:-1 tvg-id="Pink 2" tvg-logo="http://xplatinmedia.com:8080/images/bda9643ac6601722a28f238714274da4.png" group-title="Srbija", Pink 2 (Red TV)
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74931
 
-#EXTINF:-1 tvg-id="m1-gold" tvg-logo="http://repo.ottshow.net/pikoni/film/m1goldfilm.gif" group-title="Film", M1 Gold
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1351
+#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://xplatinmedia.com:8080/images/6f360d96d2ba4b184bdee72210422938.png" group-title="Srbija", Pink Extra
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52194
 
-#EXTINF:-1 tvg-id="m1-film" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Film
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2494
+#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://xplatinmedia.com:8080/images/87918f1b189e414ee264a3b59f7341b1.png" group-title="Srbija", Pink Family
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52195
 
-#EXTINF:-1 tvg-id="m1-family" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Family
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24936
+#EXTINF:-1 tvg-id="Pink Fashion" tvg-logo="http://xplatinmedia.com:8080/images/668ef2a6003e063c51ecf99f57a3a67f.png" group-title="Srbija", Pink Fashion
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55422
 
-#EXTINF:-1 tvg-id="tv1000-balkan" tvg-logo="http://repo.ottshow.net/pikoni/film/tv1000.gif" group-title="Film", TV 1000
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/705
+#EXTINF:-1 tvg-id="Pink HaHa" tvg-logo="http://xplatinmedia.com:8080/images/ae522b432723a7e5d7fda68f3324069d.png" group-title="Srbija", Pink HaHa
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52201
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="http://repo.ottshow.net/pikoni/film/axn.gif" group-title="Film", AXN
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1181
+#EXTINF:-1 tvg-id="PinkKuvar" tvg-logo="http://xplatinmedia.com:8080/images/86cd06ccaf5ac8ab136d1ea86f932897.png" group-title="Srbija", Pink Kuvar
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52196
 
-#EXTINF:-1 tvg-id="axn-spin" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/axnspin.gif" group-title="Film", AXN Spin
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69009
+#EXTINF:-1 tvg-id="Pink LOL" tvg-logo="http://xplatinmedia.com:8080/images/9cd5041f1b160f13b2c450f141562541.png" group-title="Srbija", Pink LOL
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52202
 
-#EXTINF:-1 tvg-id="scifi" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Film", SciFi
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/8859
+#EXTINF:-1 tvg-id="491" tvg-logo="http://xplatinmedia.com:8080/images/1c257073c87eb5ca80ea0566a864e1ee.png" group-title="Srbija", Pink Plus
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52177
 
-#EXTINF:-1 tvg-id="cinemania" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemania.gif" group-title="Film", Cinemania
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/357
+#EXTINF:-1 tvg-id="PinkReality" tvg-logo="http://xplatinmedia.com:8080/images/37e081f8b6fd9b42abb4f18b9885df67.png" group-title="Srbija", Pink Reality
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52203
 
-#EXTINF:-1 tvg-id="cinema-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinematvbh.gif" group-title="Film", RTL Play Premium
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/174
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/67c80ad3359707702d70fc00319e43cc.png" group-title="Srbija", Pink Serije
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52190
 
-#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/pickboxtv.gif" group-title="Film", PickboxTV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1630
+#EXTINF:-1 tvg-id="ShowTVTR" tvg-logo="http://xplatinmedia.com:8080/images/dd85c102fc7101cad46c3a9cb4068d7d.png" group-title="Srbija", Pink Show
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52197
 
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://repo.ottshow.net/pikoni/film/kinotv.gif" group-title="Film", Kino TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4223
+#EXTINF:-1 tvg-id="Pink Soap" tvg-logo="http://xplatinmedia.com:8080/images/d2b18932189dc363dae5e148641dc8c1.png" group-title="Srbija", Pink Soap
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52191
 
-#EXTINF:-1 tvg-id="universal-channel" tvg-logo="http://repo.ottshow.net/pikoni/film/divatv.gif" group-title="Film", DIVA
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4224
+#EXTINF:-1 tvg-id="Pink Style" tvg-logo="http://xplatinmedia.com:8080/images/d4b86e04ce89eaea99a5eecc23f6cef1.png" group-title="Srbija", Pink Style
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52198
 
-#EXTINF:-1 tvg-id="amc" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film", AMC
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/9109
+#EXTINF:-1 tvg-id="Pink World" tvg-logo="http://xplatinmedia.com:8080/images/38cf9af861c5724898c3858ae268f795.png" group-title="Srbija", Pink World
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52183
 
-#EXTINF:-1 tvg-id="epic-drama" tvg-logo="http://repo.ottshow.net/pikoni/film/epicdrama.gif" group-title="Film", EPIC Drama
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24362
+#EXTINF:-1 tvg-id="PinkZabava" tvg-logo="http://xplatinmedia.com:8080/images/e5a27d1fbd7b5afc7b62f1f816c87df6.png" group-title="Srbija", Pink Zabava
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52200
 
-#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://repo.ottshow.net/pikoni/film/tvsehara.gif" group-title="Film", Sehara TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/29202
+#EXTINF:-1 tvg-id="Pink Zadruga 1" tvg-logo="http://xplatinmedia.com:8080/images/c754e321daa4ad885d089225dad2c40f.png" group-title="Srbija", Pink Zadruga 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52204
 
-#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="http://repo.ottshow.net/pikoni/film/klasiktv.gif" group-title="Film", Klasik TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/38
+#EXTINF:-1 tvg-id="Pink Zadruga 2" tvg-logo="http://xplatinmedia.com:8080/images/0eb38c76a7cf0bd0554e7b161526f166.png" group-title="Srbija", Pink Zadruga 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52205
 
-#EXTINF:-1 tvg-id="Film Klub" tvg-logo="http://repo.ottshow.net/pikoni/film/filmklub.gif" group-title="Film", Film Klub
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1073
+#EXTINF:-1 tvg-id="Pink Zadruga 3" tvg-logo="http://xplatinmedia.com:8080/images/2b5423e8e14f5e466848e665e0d977b0.png" group-title="Srbija", Pink Zadruga 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52206
 
-#EXTINF:-1 tvg-id="Dizi" tvg-logo="noimage.png" group-title="Film", Dizi
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/77667
+#EXTINF:-1 tvg-id="Pink Zadruga 4" tvg-logo="http://xplatinmedia.com:8080/images/bf91a02be18f4d542ef43a688578ce16.png" group-title="Srbija", Pink Zadruga 4
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92204
 
-#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/eurocinema.gif" group-title="Film", Euro Cinema 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68477
+#EXTINF:-1 tvg-id="Pruga TV" tvg-logo="noimage.png" group-title="Srbija", Pruga TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92273
 
-#EXTINF:-1 tvg-id="Euro Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/eurocinema2.gif" group-title="Film", Euro Cinema 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68478
+#EXTINF:-1 tvg-id="Prva Files" tvg-logo="http://xplatinmedia.com:8080/images/69dd72fe3cc5b6d968b81e1447aae94b.png" group-title="Srbija", Prva Files
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52087
 
-#EXTINF:-1 tvg-id="HBO MAX" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO MAX
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45107
+#EXTINF:-1 tvg-id="Prva.Kick.ba" tvg-logo="http://xplatinmedia.com:8080/images/72d4ba50a463053910f30864ca131959.png" group-title="Srbija", Prva Kick
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52086
 
-#EXTINF:-1 tvg-id="Cine+Select 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 1 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45268
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/c7a6321c5432abd40fa5a9ffcd599186.png" group-title="Srbija", Prva Max
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52084
 
-#EXTINF:-1 tvg-id="Cine+Select 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 2 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45269
+#EXTINF:-1 tvg-id="Prva.plus.ba" tvg-logo="http://xplatinmedia.com:8080/images/af4602c8f18e7fa139815d9d9820b80b.png" group-title="Srbija", Prva Plus
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52083
 
-#EXTINF:-1 tvg-id="Cine+Select 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 3 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45270
+#EXTINF:-1 tvg-id="Prva.(SR).ba" tvg-logo="http://xplatinmedia.com:8080/images/18f835d06c228aca3517936a12a00388.png" group-title="Srbija", Prva TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52082
 
-#EXTINF:-1 tvg-id="Cine+Select 4 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 4 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45271
+#EXTINF:-1 tvg-id="Prva.World.ba" tvg-logo="http://xplatinmedia.com:8080/images/c605aeb39164e3057f02bc1ff1c63796.png" group-title="Srbija", Prva World
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52085
 
-#EXTINF:-1 tvg-id="Cine+Select 5 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 5 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45272
+#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/433bab7575e3af38b62552265d0e8ddb.png" group-title="Srbija", RTS 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55423
 
-#EXTINF:-1 tvg-id="Cine+Select 6 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 6 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45273
+#EXTINF:-1 tvg-id="RTS 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/094a2133a8b3d385df3160847e430ad8.PNG" group-title="Srbija", RTS 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74921
 
-#EXTINF:-1 tvg-id="Cine+Select 7 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 7 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45274
+#EXTINF:-1 tvg-id="RTS 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/fdc69b8ca6a6f0ad9b654632c4e4d46b.png" group-title="Srbija", RTS 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74922
 
-#EXTINF:-1 tvg-id="Cine+Select 8 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 8 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45275
+#EXTINF:-1 tvg-id="RTS Drama" tvg-logo="http://xplatinmedia.com:8080/images/fefd7a0fa6d5f9d38f361de3dc4815f2.png" group-title="Srbija", RTS Drama
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74923
 
-#EXTINF:-1 tvg-id="Cine+Select 9 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 9 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45276
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/02f6eed54457166c950918f2a2132fde.png" group-title="Srbija", RTS Svet
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74925
 
-#EXTINF:-1 tvg-id="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 10 HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45277
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/07c5e0bb5bc22c6773dad2d240048b47.png" group-title="Srbija", RTS Trezor
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74926
 
-#EXTINF:-1 tvg-id="Lud Zbunjen Normalan" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/lzn.gif" group-title="Film", Lud Zbunjen Normalan
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68944
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/f580ae036b4426f9c7ae340fef3857be.png" group-title="Srbija", RTS Zivot
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74927
 
-#EXTINF:-1 tvg-id="imperiatv" tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Music", Imperija
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/24800
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/30351e18cf1d5de3415bbc2dc4594d7c.png" group-title="Srbija", RTV 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52093
 
-#EXTINF:-1 tvg-id="toxic-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Music", Toxic TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/3823
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/665f644e43731ff9db3d341da5c827e1.png" group-title="Srbija", RTV 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52094
 
-#EXTINF:-1 tvg-id="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Music", IDJ TV HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1112
+#EXTINF:-1 tvg-id="TV BOR (SN)" tvg-logo="http://xplatinmedia.com:8080/images/5b2c07ade9400547a2b34da69cc1a477.png" group-title="Srbija", RTV Bor
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52103
 
-#EXTINF:-1 tvg-id="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Music", UZIVOTEKA
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/45114
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/569a85a7f12a57dea8bad8853fe62fa6.png" group-title="Srbija", RTV Mir
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74929
 
-#EXTINF:-1 tvg-id="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Music", Kafansko Vece
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/70263
+#EXTINF:-1 tvg-id="RTV Mlava" tvg-logo="http://xplatinmedia.com:8080/images/f78ff1a58381f02634cc7dda84493572.png" group-title="Srbija", RTV Mlava
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52097
 
-#EXTINF:-1 tvg-id="extratv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Music", Extra Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/68474
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/f1a7d2ba2641432511e5d683c97eccbf.png" group-title="Srbija", RTV Novi Pazar
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52100
 
-#EXTINF:-1 tvg-id="hayat-music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Music", Hayat Music
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/51
+#EXTINF:-1 tvg-id="Studio B" tvg-logo="http://xplatinmedia.com:8080/images/e67048106b34ed0953ec0f26e7a2c942.png" group-title="Srbija", Studio B
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52092
 
-#EXTINF:-1 tvg-id="hayat-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Music", Hayat Folk
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/131
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="http://xplatinmedia.com:8080/images/83e0295b804df5a68e72b7a7304a9732.png" group-title="Srbija", Superstar TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92241
 
-#EXTINF:-1 tvg-id="bn-music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Music", BN Music
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/46
+#EXTINF:-1 tvg-id="TSD" tvg-logo="http://xplatinmedia.com:8080/images/ba9627d88484accea567852d14a0f42d.png" group-title="Srbija", TSD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99109
 
-#EXTINF:-1 tvg-id="dmsat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Music", DM Sat
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/26004
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/dbecfd4790c489ccecf5a65862b56ad0.png" group-title="Srbija", TV Istok
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52105
 
-#EXTINF:-1 tvg-id="bravo-mjuzik" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Music", Bravo Music
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35952
+#EXTINF:-1 tvg-id="TV Kladovo" tvg-logo="http://xplatinmedia.com:8080/images/f78748a1203c1423e69039e94a1f004c.png" group-title="Srbija", TV Kladovo
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52106
 
-#EXTINF:-1 tvg-id="pink-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Music", Pink Folk 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/97
+#EXTINF:-1 tvg-id="TV KRUŠEVAC (SN)" tvg-logo="http://xplatinmedia.com:8080/images/e3041bb38aa5590c8134015cd36b4b09.png" group-title="Srbija", TV Krusevac
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99110
 
-#EXTINF:-1 tvg-id="pink-folk-2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Music", Pink Folk 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/504
+#EXTINF:-1 tvg-id="TV Krusevac" tvg-logo="http://xplatinmedia.com:8080/images/61ff00bd0df3665365fb71883502052e.png" group-title="Srbija", TV Mars OFFLINE
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92271
 
-#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Music", Grand
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/21
+#EXTINF:-1 tvg-id="TV Parovi 2 24/7" tvg-logo="http://xplatinmedia.com:8080/images/47eb5057c0f907371cdb189d1b87544a.png" group-title="Srbija", TV Parovi 2 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55427
 
-#EXTINF:-1 tvg-id="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Music", Grand 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1071
+#EXTINF:-1 tvg-id="TV Parovi 24/7" tvg-logo="http://xplatinmedia.com:8080/images/47eb5057c0f907371cdb189d1b87544a.png" group-title="Srbija", TV Parovi 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55428
 
-#EXTINF:-1 tvg-id="sevdah-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Music", TV Sevdah
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/730
+#EXTINF:-1 tvg-id="TV PIROT (SN)" tvg-logo="http://xplatinmedia.com:8080/images/09a9b5e173031522dacdb81d1d9c264f.png" group-title="Srbija", TV Pirot
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/99108
 
-#EXTINF:-1 tvg-id="izvorna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Music", Izvorna TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/231
+#EXTINF:-1 tvg-id="Vesti" tvg-logo="http://xplatinmedia.com:8080/images/3634b9ee251bb6f4a2f66b80651dabb5.png" group-title="Srbija", Vesti
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52176
 
-#EXTINF:-1 tvg-id="otv-valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Music", OTV Valentino
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/152
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="http://xplatinmedia.com:8080/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="Djeciji", Baby TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52345
 
-#EXTINF:-1 tvg-id="valentino-music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Music", Valentino Music
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/32083
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://xplatinmedia.com:8080/images/d69978412866de7bd5e9d272ea3beabb.png" group-title="Djeciji", Disney Channel
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52353
 
-#EXTINF:-1 tvg-id="valentino-etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Music", Valentino Etno
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/32082
+#EXTINF:-1 tvg-id="Duck TV" tvg-logo="http://xplatinmedia.com:8080/images/808e1f7084a6896e6cb67387fd91b022.png" group-title="Djeciji", Duck TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74935
 
-#EXTINF:-1 tvg-id="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Music", CityPlay
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69400
+#EXTINF:-1 tvg-id="ginxesportstv.uk" tvg-logo="http://xplatinmedia.com:8080/images/02d65f67807107614548db7407456ac7.png" group-title="Djeciji", Ginx
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92232
 
-#EXTINF:-1 tvg-id="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Music", Toxic Folk
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/66261
+#EXTINF:-1 tvg-id="HAYATOVCI" tvg-logo="http://xplatinmedia.com:8080/images/aed9f01b5c88fc90015f3a7e5f444258.png" group-title="Djeciji", Hayatovci
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52347
 
-#EXTINF:-1 tvg-id="tv-duga-sat" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Music", Duga TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/549
+#EXTINF:-1 tvg-id="Looney Toones 24/7" tvg-logo="http://xplatinmedia.com:8080/images/1150f623f90a87852edcd1c87ea95c8e.png" group-title="Djeciji", Looney Toones 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74937
 
-#EXTINF:-1 tvg-id="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Music", KCN 1
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/630
+#EXTINF:-1 tvg-id="Masa i Medo 24/7" tvg-logo="http://xplatinmedia.com:8080/images/b9fa2a337b10ebd8c598203afd1e2240.png" group-title="Djeciji", Masa i Medo 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52349
 
-#EXTINF:-1 tvg-id="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Music", KCN 2
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/641
+#EXTINF:-1 tvg-id="Mini TV.hr" tvg-logo="http://xplatinmedia.com:8080/images/a5ac95f9a6b355f0bc1ecfbb9a6e0831.png" group-title="Djeciji", Mini TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52346
 
-#EXTINF:-1 tvg-id="bravo!" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/music/bravo.gif" group-title="Music", bravo!
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/74027
+#EXTINF:-1 tvg-id="Mini TV_max" tvg-logo="http://xplatinmedia.com:8080/images/573d14ea47cc422cbfebada3d650fc51.png" group-title="Djeciji", MiniMax SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92238
 
-#EXTINF:-1 tvg-id="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Music", DMC Tv
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69133
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="http://xplatinmedia.com:8080/images/573d14ea47cc422cbfebada3d650fc51.png" group-title="Djeciji", MiniMax
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52344
 
-#EXTINF:-1 tvg-id="jugoton-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Music", Jugoton TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/251
+#EXTINF:-1 tvg-id="Nick Jr. (SR)" tvg-logo="http://xplatinmedia.com:8080/images/0ddf13c6486fc8acc280d65107734d06.png" group-title="Djeciji", Nick JR
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52350
 
-#EXTINF:-1 tvg-id="cmc" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Music", CMC
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/113
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://xplatinmedia.com:8080/images/9057bf8406fe3828a77fbe4088c46d54.png" group-title="Djeciji", Nickelodeon
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52339
 
-#EXTINF:-1 tvg-id="Banovina" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Music", Banovina
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1552
+#EXTINF:-1 tvg-id="Nicktoons (SR)" tvg-logo="http://xplatinmedia.com:8080/images/b0db22ed724cd56dc00eb11474f24499.png" group-title="Djeciji", Nicktoons
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52298
 
-#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Music", Klape i Tambure
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69348
+#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="http://xplatinmedia.com:8080/images/12d1e585cd1b82a3f842e7ce0ddc57f1.png" group-title="Djeciji", Nova Kids 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/122613
 
-#EXTINF:-1 tvg-id="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Music", Croatia Records
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69902
+#EXTINF:-1 tvg-id="Naxi Kids Radio" tvg-logo="http://xplatinmedia.com:8080/images/12d1e585cd1b82a3f842e7ce0ddc57f1.png" group-title="Djeciji", Nova Kids
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/122619
 
-#EXTINF:-1 tvg-id="pink-hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Music", Pink Hits
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4140
+#EXTINF:-1 tvg-id="Peppa Pig 24/7" tvg-logo="http://xplatinmedia.com:8080/images/1546c02c8185e9b88120bf9e47f2d0ea.png" group-title="Djeciji", Peppa Pig 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92233
 
-#EXTINF:-1 tvg-id="pink-n-roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Music", Pink n Roll
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69401
+#EXTINF:-1 tvg-id="Pikaboo HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/56f94a62c22fe148432640352a386475.png" group-title="Djeciji", Pikaboo
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52351
 
-#EXTINF:-1 tvg-id="balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Music", Balkanika
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/239
+#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="http://xplatinmedia.com:8080/images/b0d9aac9c30fd5278cdbfaa8a0a70b8e.png" group-title="Djeciji", Pink Kids
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52343
 
-#EXTINF:-1 tvg-id="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Music", Krone Hit
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69786
+#EXTINF:-1 tvg-id="Pink Panther 24/7" tvg-logo="http://xplatinmedia.com:8080/images/c2fefae00be5bb483ab128b6c21d3bae.png" group-title="Djeciji", Pink Panther 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74941
 
-#EXTINF:-1 tvg-id="mtv-hits-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Music", MTV Hits
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/16758
+#EXTINF:-1 tvg-id="Pink super kids" tvg-logo="http://xplatinmedia.com:8080/images/1743db960b74d6234301336f0b3cebfb.png" group-title="Djeciji", Pink Super Kids
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52348
 
-#EXTINF:-1 tvg-id="mtv00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Music", MTV 00s
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/50
+#EXTINF:-1 tvg-id="Pop Oto SLO" tvg-logo="http://xplatinmedia.com:8080/images/1398c775526187431d825a9ba570a2ab.png" group-title="Djeciji", Pop Oto SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13547
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Music", MTV 80s
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/69350
+#EXTINF:-1 tvg-id="RTL Kockica_max" tvg-logo="http://xplatinmedia.com:8080/images/f20441d4b4363a8f60ac3649c587b94b.png" group-title="Djeciji", RTL Kockica
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74934
 
-#EXTINF:-1 tvg-id="mtv-dance-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Music", MTV Club
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/16759
+#EXTINF:-1 tvg-id="Spuzva Bob 24/7" tvg-logo="http://xplatinmedia.com:8080/images/b4751e96124a64326703a1d7ad8dade3.png" group-title="Djeciji", Spuzva Bob 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74933
 
-#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhd.gif" group-title="Pink", PINK HD
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/5
+#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="http://xplatinmedia.com:8080/images/763206df9ded26ea436557f68706a106.png" group-title="Djeciji", TNT Kids
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74943
 
-#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink.gif" group-title="Pink", Pink
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/30275
+#EXTINF:-1 tvg-id="Tom and Jerry 1 24/7" tvg-logo="http://xplatinmedia.com:8080/images/f4e3c658251f8ca3542a5887c8f548b9.png" group-title="Djeciji", Tom and Jerry 1 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52340
 
-#EXTINF:-1 tvg-id="pink-bih" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkbh.gif" group-title="Pink", Pink BH
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/12616
+#EXTINF:-1 tvg-id="Tom and Jerry 2 24/7" tvg-logo="http://xplatinmedia.com:8080/images/f4e3c658251f8ca3542a5887c8f548b9.png" group-title="Djeciji", Tom and Jerry 2 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52341
 
-#EXTINF:-1 tvg-id="Pink Vesti" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkvesti.gif" group-title="Pink", Pink Vesti
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/67719
+#EXTINF:-1 tvg-id="Tom and Jerry 3 24/7" tvg-logo="http://xplatinmedia.com:8080/images/f4e3c658251f8ca3542a5887c8f548b9.png" group-title="Djeciji", Tom and Jerry 3 24/7
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52342
 
-#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="Pink", Narodna TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/81555
+#EXTINF:-1 tvg-id="Da.Vinci.Learning.tr" tvg-logo="http://xplatinmedia.com:8080/images/326c3c710b961e7cc5136fcada7719d3.png" group-title="Dokumentarni", Da Vinci Learning
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52267
 
-#EXTINF:-1 tvg-id="pink-film" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfilm.gif" group-title="Pink", Pink Film
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/6
+#EXTINF:-1 tvg-id="Animal.Planet.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/b73b36a238c8cf4de7a681241773d20c.png" group-title="Dokumentarni", Animal Planet
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52240
 
-#EXTINF:-1 tvg-id="pink-action" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkaction.gif" group-title="Pink", Pink Action
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/150
+#EXTINF:-1 tvg-id="BBC.Earth.HD.ca" tvg-logo="http://xplatinmedia.com:8080/images/4f415ce51deb28a207712145503a55fe.png" group-title="Dokumentarni", BBC Earth HD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52242
 
-#EXTINF:-1 tvg-id="pink-classic" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkclasic.gif" group-title="Pink", Pink Classic
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1182
+#EXTINF:-1 tvg-id="Crime.&.Investigation.ba" tvg-logo="http://xplatinmedia.com:8080/images/909b8a5132faf105826316f1b6c7258d.png" group-title="Dokumentarni", Crime & Investigation
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52256
 
-#EXTINF:-1 tvg-id="pink-comedy" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcomedy.gif" group-title="Pink", Pink Comedy
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/42
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="Dokumentarni", Discovery Channel
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52245
 
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="noimage.png" group-title="Pink", Pink Premium
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/77668
+#EXTINF:-1 tvg-id="Discovery.ID.ke" tvg-logo="http://xplatinmedia.com:8080/images/c252334e2e045ea52295de41cbefa2b7.png" group-title="Dokumentarni", Discovery ID
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52247
 
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcrime&mystery.gif" group-title="Pink", Pink Crime & Mystery
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/110
+#EXTINF:-1 tvg-id="Disc.Science.uk" tvg-logo="http://xplatinmedia.com:8080/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="Dokumentarni", Discovery Science
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52246
 
-#EXTINF:-1 tvg-id="pink-family" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfamily.gif" group-title="Pink", Pink Family
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/614
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/d7372f0ea1a7f6d9f88cc41fea5fbdad.png" group-title="Dokumentarni", Discovery Turbo XTRA
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55455
 
-#EXTINF:-1 tvg-id="pink-horror" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhoror.gif" group-title="Pink", Pink Horror
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/108
+#EXTINF:-1 tvg-id="DocuBox.sv" tvg-logo="http://xplatinmedia.com:8080/images/ee2c9e5e69b83d9337ca5e83a15e926d.png" group-title="Dokumentarni", DocuBox
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55456
 
-#EXTINF:-1 tvg-id="pink-movies" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkmovies.gif" group-title="Pink", Pink Movies
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1143
+#EXTINF:-1 tvg-id="Doku.TV.HD.sv" tvg-logo="http://xplatinmedia.com:8080/images/ed916fd74654ca7decd5ff9df21e9881.png" group-title="Dokumentarni", Doku TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52265
 
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkromance.gif" group-title="Pink", Pink Romance
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2796
+#EXTINF:-1 tvg-id="History.2.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/318d05965cecdb03ea201560fb36cf8b.png" group-title="Dokumentarni", History 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52249
 
-#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkscifi&fantasy.gif" group-title="Pink", Pink Sci-Fi & Fantasy
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1412
+#EXTINF:-1 tvg-id="History.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/c286d02753d64d55f22c9d5454f2ee36.png" group-title="Dokumentarni", History
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52248
 
-#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkthriler.gif" group-title="Pink", Pink Thriller
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/111
+#EXTINF:-1 tvg-id="Lov.i.Ribolov.ba" tvg-logo="http://xplatinmedia.com:8080/images/5000be0a6c7b6bac73225a43ed6a6787.png" group-title="Dokumentarni", Lov i Ribolov
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52260
 
-#EXTINF:-1 tvg-id="pink-western" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkwestern.gif" group-title="Pink", Pink Western
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/49
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="Dokumentarni", Nat Geo Wild
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52244
 
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworldcinema.gif" group-title="Pink", Pink World Cinema
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/153
+#EXTINF:-1 tvg-id="National.Geographic.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="Dokumentarni", National Geographic
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52243
 
-#EXTINF:-1 tvg-id="pink-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/redtv.gif" group-title="Pink", Red TV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/37937
+#EXTINF:-1 tvg-id="Pink.Pedia.ba" tvg-logo="http://xplatinmedia.com:8080/images/95b3416fcaaeb47f02a4bf12196f2ffd.png" group-title="Dokumentarni", Pink Pedia
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52189
 
-#EXTINF:-1 tvg-id="pink-plus" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink_plus.gif" group-title="Pink", Pink Plus
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35958
+#EXTINF:-1 tvg-id="Planet.Earth.HD.(HR).ba" tvg-logo="http://xplatinmedia.com:8080/images/e8bf297776ad7efa81ab1e25e83e587a.png" group-title="Dokumentarni", Planet Earth
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52241
 
-#EXTINF:-1 tvg-id="pink-extra" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkextra.gif" group-title="Pink", Pink Extra
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1211
+#EXTINF:-1 tvg-id="Viasat.Explore.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/6945416b1c6d370d34304a260ca429a0.png" group-title="Dokumentarni", Viasat Explore
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52251
 
-#EXTINF:-1 tvg-id="pink-reality" tvg-logo="http://web.izipizi1.info/pi/pink-reality.png" group-title="Pink", Pink Reality
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/35
+#EXTINF:-1 tvg-id="Viasat.History.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/032290c550f7b0d28fa0ecd9dc550431.png" group-title="Dokumentarni", Viasat History
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52252
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkkuvar.gif" group-title="Pink", Pink Kuvar
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/43
+#EXTINF:-1 tvg-id="History.2.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/870aa7be5851989282aa84bc08179cb6.png" group-title="Dokumentarni", H2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92240
 
-#EXTINF:-1 tvg-id="pink-pedia" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkpedia.gif" group-title="Pink", Pink Pedia
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1140
+#EXTINF:-1 tvg-id="Viasat.Nature.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/dde0941a12691b171ff6325902a5aca1.png" group-title="Dokumentarni", Viasat Nature
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52250
 
-#EXTINF:-1 tvg-id="pink-style" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkstyle.gif" group-title="Pink", Pink Style
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1144
+#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="http://xplatinmedia.com:8080/images/c68a469fe29b032d9924e6627814448f.png" group-title="Filmski", AMC
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52292
 
-#EXTINF:-1 tvg-id="pink-soap" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinksoap.gif" group-title="Pink", Pink Soap
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1214
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-logo="http://xplatinmedia.com:8080/images/54d253f493131703a52695ff155bcd40.png" group-title="Filmski", Cinemania
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52293
 
-#EXTINF:-1 tvg-id="pink-show" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkshow.gif" group-title="Pink", Pink Show
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/211
+#EXTINF:-1 tvg-id="Cinemax.2.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/ef9a1649e939582e993a2efcfdee5eb1.png" group-title="Filmski", Cinemax 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52273
 
-#EXTINF:-1 tvg-id="pink-zabava" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkzabava.gif" group-title="Pink", Pink Zabava
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2795
+#EXTINF:-1 tvg-id="Cinemax.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Filmski", Cinemax
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52272
 
-#EXTINF:-1 tvg-id="pink-world" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworld.gif" group-title="Pink", Pink World
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1142
+#EXTINF:-1 tvg-id="CineStar TV Comedy & Family HD" tvg-logo="http://xplatinmedia.com:8080/images/5ad7f644d4578b8d141b91923963186c.png" group-title="Filmski", Cinestar Comedy
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52277
 
-#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhaha.gif" group-title="Pink", Pink HA HA
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/1161
+#EXTINF:-1 tvg-id="CineStar TV 1 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/6082ea5e551e1b2d2fc1dd81ab742aef.png" group-title="Filmski", CineStar TV 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52274
 
-#EXTINF:-1 tvg-id="pink-lol" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinklol.gif" group-title="Pink", Pink LOL
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/2612
+#EXTINF:-1 tvg-id="CineStar TV 2 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/d65f9cb13fc6b66c58c2befb155e6be9.png" group-title="Filmski", CineStar TV 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52275
 
-#EXTINF:-1 tvg-id="pink-serije" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkserije.gif" group-title="Pink", Pink Serije
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/79614
+#EXTINF:-1 tvg-id="CineStar TV Action HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/d9aa3d6526d68a240de73dea4a79beab.png" group-title="Filmski", CineStar TV Action
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52278
+
+#EXTINF:-1 tvg-id="CineStar TV Fantasy HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/1973c2f0c5dc2e0b7915eec45fbd2381.png" group-title="Filmski", CineStar TV Fantasy
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52276
+
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/572d2adfbdcf89dec8f29e0916f50e85.png" group-title="Filmski", CineStar TV Premiere 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52279
+
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/6f22ad0d23c589c3784fe180913c88c9.png" group-title="Filmski", CineStar TV Premiere 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52280
+
+#EXTINF:-1 tvg-id="Diva" tvg-logo="http://xplatinmedia.com:8080/images/cee55217dc7c0ea18bb4c06f98364343.png" group-title="Filmski", Diva
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52296
+
+#EXTINF:-1 tvg-id="Epic Drama HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/2b22816452c63b5872fdad55b24fc298.png" group-title="Filmski", Epic Drama
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52295
+
+#EXTINF:-1 tvg-id="Film Klub Extra" tvg-logo="http://xplatinmedia.com:8080/images/0689a376d8967ebca6e4ca289e9f7b73.png" group-title="Filmski", Film Klub
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52291
+
+#EXTINF:-1 tvg-id="FilmBox Extra" tvg-logo="http://xplatinmedia.com:8080/images/d533aa2c9eab3820fbadeefadf3891e1.png" group-title="Filmski", Filmbox Extra
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55453
+
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/87a4e38db90ccae6c993fdc44bd96eaa.png" group-title="Filmski", Filmbox Stars
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52289
+
+#EXTINF:-1 tvg-id="STAR Movies_max" tvg-logo="http://xplatinmedia.com:8080/images/be1705f55a759eb50d2ed6847b895fbe.png" group-title="Filmski", STAR Movies
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52283
+
+#EXTINF:-1 tvg-id="HBO 2 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/12713c6ff264a3ac58c707c7b2a4bbcf.png" group-title="Filmski", HBO 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52270
+
+#EXTINF:-1 tvg-id="HBO 3 HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/cee71028915464dbf234547f65c22c0e.png" group-title="Filmski", HBO 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52271
+
+#EXTINF:-1 tvg-id="HBO.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/360cdded166321bb8f6fcb7a9c48b050.png" group-title="Filmski", HBO GO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13548
+
+#EXTINF:-1 tvg-id="HBO.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/360cdded166321bb8f6fcb7a9c48b050.png" group-title="Filmski", HBO SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13546
+
+#EXTINF:-1 tvg-id="HBO HD (SR)" tvg-logo="http://xplatinmedia.com:8080/images/40a93a64ad61bb9f7050acbc209943c4.png" group-title="Filmski", HBO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52269
+
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-logo="http://xplatinmedia.com:8080/images/5fec7b9962ffe8da9de94f445a5d2683.png" group-title="Filmski", Kino TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52294
+
+#EXTINF:-1 tvg-id="Klasik TV_max" tvg-logo="http://xplatinmedia.com:8080/images/9374e2525fd519980520cca16ffb43ad.png" group-title="Filmski", Klasik TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52301
+
+#EXTINF:-1 tvg-id="M1 Gold_max" tvg-logo="http://xplatinmedia.com:8080/images/26a9dcf50b01f874cb556d3e67e36fc2.png" group-title="Filmski", M1 Film Gold MK
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52288
+
+#EXTINF:-1 tvg-id="M1 Film_max" tvg-logo="http://xplatinmedia.com:8080/images/16af1f47bd058638dcd0ed56ff344e16.png" group-title="Filmski", M1 Film MK
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52287
+
+#EXTINF:-1 tvg-id="24Kitchen.HD.(INT).ba" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 1 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52302
+
+#EXTINF:-1 tvg-id="MaxCro Select 2 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 2 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52303
+
+#EXTINF:-1 tvg-id="MaxCro Select 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 3 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52304
+
+#EXTINF:-1 tvg-id="MaxCro Select 4 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 4 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52305
+
+#EXTINF:-1 tvg-id="MaxCro Select 5 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 5 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52306
+
+#EXTINF:-1 tvg-id="MaxCro Select 6 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 6 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52307
+
+#EXTINF:-1 tvg-id="MaxCro Select 7 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 7 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52308
+
+#EXTINF:-1 tvg-id="MaxCro Select 8 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 8 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52309
+
+#EXTINF:-1 tvg-id="MaxCro Select 9 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 9 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52310
+
+#EXTINF:-1 tvg-id="MaxCro Select 10 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 10 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52311
+
+#EXTINF:-1 tvg-id="MaxCro Select 11 FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select 11 FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74950
+
+#EXTINF:-1 tvg-id="MaxCro Select Premium FHD" tvg-logo="http://xplatinmedia.com:8080/images/b4662e9cd1b1af8e73f19fd4b6226265.png" group-title="Filmski", MaxCro Select Premium FHD
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74948
+
+#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://xplatinmedia.com:8080/images/a3ecabbc92c7e647e9574b2dec5a990c.png" group-title="Filmski", Pink Action
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52181
+
+#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="http://xplatinmedia.com:8080/images/24888829ef3889ebd7ec07e5bac75701.png" group-title="Filmski", Pink Classic
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52192
+
+#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="http://xplatinmedia.com:8080/images/b28a299040423a3789156f29890885ac.png" group-title="Filmski", Pink Comedy
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52180
+
+#EXTINF:-1 tvg-id="Pink.Crime.&.Mystery.ba" tvg-logo="http://xplatinmedia.com:8080/images/69e6928911461c2fdfbb751976f96d0d.png" group-title="Filmski", Pink Crime & Mystery
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52179
+
+#EXTINF:-1 tvg-id="Pink.Film.ba" tvg-logo="http://xplatinmedia.com:8080/images/0266c6b90deb6fcf82e8f0f70bbbc518.png" group-title="Filmski", Pink Film
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52178
+
+#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="http://xplatinmedia.com:8080/images/4410c8f3ddf6a4ec2bbe5acd83f44420.png" group-title="Filmski", Pink Horror
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52188
+
+#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="http://xplatinmedia.com:8080/images/5d01499ebba85198e8f7f2d36f2b4cf6.png" group-title="Filmski", Pink Movies
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52187
+
+#EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="http://xplatinmedia.com:8080/images/f477b9813c51e15a7c9eaf19e5219c78.png" group-title="Filmski", Pink Premium
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52193
+
+#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="http://xplatinmedia.com:8080/images/8939160a4b504b1efacc9fe129b31d89.png" group-title="Filmski", Pink Romance
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52199
+
+#EXTINF:-1 tvg-id="Pink Sci-Fi/Fantasy" tvg-logo="http://xplatinmedia.com:8080/images/945ce1bcdad5884898cda9a138651e9a.png" group-title="Filmski", Pink Sci-Fi/Fantasy
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52186
+
+#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="http://xplatinmedia.com:8080/images/772d8d8045702a4391b10b6dc0771abf.png" group-title="Filmski", Pink Thriller
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52185
+
+#EXTINF:-1 tvg-id="Pink Western" tvg-logo="http://xplatinmedia.com:8080/images/b5f2cdcd866e172500b713034a6181d5.png" group-title="Filmski", Pink Western
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52184
+
+#EXTINF:-1 tvg-id="Pink.World.Cinema.ba" tvg-logo="http://xplatinmedia.com:8080/images/35f59de73370f9321587851d9ef0b566.png" group-title="Filmski", Pink World Cinema
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52182
+
+#EXTINF:-1 tvg-id="Kino TV_max" tvg-logo="http://xplatinmedia.com:8080/images/92d770e14c21848939b2d0fa0df30ce4.png" group-title="Filmski", Pop Kino SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/13550
+
+#EXTINF:-1 tvg-id="Sci Fi" tvg-logo="http://xplatinmedia.com:8080/images/cfa31f301a1b8a445eab6f1d2a0bafe8.png" group-title="Filmski", Sci-Fi
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52290
+
+#EXTINF:-1 tvg-id="TV 1000_max" tvg-logo="http://xplatinmedia.com:8080/images/282bb2d6c84503ab605f3585ffe95c01.png" group-title="Filmski", TV 1000
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52297
+
+#EXTINF:-1 tvg-id="HBO.HD.ba" tvg-logo="http://xplatinmedia.com:8080/images/cc4bc3cda77806c51ddd20fbd556edee.png" group-title="Filmski", HBO MAX
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/169993
+
+#EXTINF:-1 tvg-id="Balkan Music MK" tvg-logo="http://xplatinmedia.com:8080/images/2cfed75e78048437bb41a552fb772912.jpg" group-title="Muzicki", Balkan Music MK
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92255
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/ccb03065b699a4b918d3f038bdd558c5.png" group-title="Muzicki", Balkanika
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52330
+
+#EXTINF:-1 tvg-id="RTV Banovina" tvg-logo="http://xplatinmedia.com:8080/images/3a79933da275478a1c94a3b5338a95bd.png" group-title="Muzicki", Banovina TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52129
+
+#EXTINF:-1 tvg-id="BMC" tvg-logo="noimage.png" group-title="Muzicki", BMC
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74962
+
+#EXTINF:-1 tvg-id="BN Music" tvg-logo="http://xplatinmedia.com:8080/images/11dc3cf935fbcf22a05fd67f957b89af.png" group-title="Muzicki", BN Music
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52328
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/025fd5d9027e58de4b4839721efb3237.png" group-title="Muzicki", Bravo Music
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92228
+
+#EXTINF:-1 tvg-id="City Play" tvg-logo="http://xplatinmedia.com:8080/images/10509a46f0d42d43ff3a2f1254a11db7.png" group-title="Muzicki", City Play
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92224
+
+#EXTINF:-1 tvg-id="CMC HD" tvg-logo="http://xplatinmedia.com:8080/images/7936ae44a6d40825ab908a2fa9e3d990.png" group-title="Muzicki", CMC TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52325
+
+#EXTINF:-1 tvg-id="DM SAT" tvg-logo="http://xplatinmedia.com:8080/images/f0180e335df9cae209bb6850ee380ab0.png" group-title="Muzicki", DM Sat
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52324
+
+#EXTINF:-1 tvg-id="DMC" tvg-logo="http://xplatinmedia.com:8080/images/17d05b9a8b7a4943d624ba7b90e88726.png" group-title="Muzicki", DMC
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92227
+
+#EXTINF:-1 tvg-id="GOLICA TV" tvg-logo="http://xplatinmedia.com:8080/images/f207826b23f23e1dfa83d3d0f87912be.png" group-title="Muzicki", Golica SLO
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92229
+
+#EXTINF:-1 tvg-id="Grand narodna televizija 2" tvg-logo="http://xplatinmedia.com:8080/images/a9d24b6b4a9522e200907acaebce29a0.png" group-title="Muzicki", Grand TV 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52332
+
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/3b9a9aea5fb90457fea5969f16e39b61.png" group-title="Muzicki", Grand TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52331
+
+#EXTINF:-1 tvg-id="HAYAT FOLK" tvg-logo="http://xplatinmedia.com:8080/images/57faf721558d1d5098c9afb64a644a95.png" group-title="Muzicki", Hayat Folk
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52333
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/a56a019efea41195f37e16762695c67a.png" group-title="Muzicki", Hayat Music
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52326
+
+#EXTINF:-1 tvg-id="Hugo 2 MK" tvg-logo="http://xplatinmedia.com:8080/images/2f3a3f47dca69e0a5e7f3cc07e128d13.png" group-title="Muzicki", Hugo 2 MK
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55442
+
+#EXTINF:-1 tvg-id="Hugo 3 MK" tvg-logo="http://xplatinmedia.com:8080/images/639015d27e440d9c66444b14c7e3a3da.png" group-title="Muzicki", Hugo 3 MK
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92263
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/7fade508e0c30e14e75067fd6eb28355.png" group-title="Muzicki", IDJ TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52327
+
+#EXTINF:-1 tvg-id="Imperia TV" tvg-logo="http://xplatinmedia.com:8080/images/787fdf83ef82a76e09665d84bec24a99.png" group-title="Muzicki", Imperia TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92264
+
+#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="http://xplatinmedia.com:8080/images/2ce247820879989956a80334d92f4bba.png" group-title="Muzicki", Izvorna TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52161
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/e8caeea267b9f96b6727a740bcde3b50.png" group-title="Muzicki", Jugoton
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52329
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/1f5ef25b22caa93421870c2e4765ddc1.png" group-title="Muzicki", KCN 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52109
+
+#EXTINF:-1 tvg-id="KCN1" tvg-logo="http://xplatinmedia.com:8080/images/8505717d7fe7e6b5733c3bf57e85a324.png" group-title="Muzicki", KCN 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52336
+
+#EXTINF:-1 tvg-id="KCN 3" tvg-logo="http://xplatinmedia.com:8080/images/edaf59255698b6f4d69631c30885329c.png" group-title="Muzicki", KCN 3
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52337
+
+#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="http://xplatinmedia.com:8080/images/e751d421d3c5c104e46e239d54a3f5ab.png" group-title="Muzicki", Klape i Tambure
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74959
+
+#EXTINF:-1 tvg-id="Mezzo Live" tvg-logo="http://xplatinmedia.com:8080/images/1e041e1743ccba76760efbed86b7424a.png" group-title="Muzicki", Mezzo Live
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92230
+
+#EXTINF:-1 tvg-id="MTV 80s (VH1 Classic)" tvg-logo="http://xplatinmedia.com:8080/images/3594834e17b53ffcde272ee038aaf670.png" group-title="Muzicki", MTV 80s
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92222
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/8362ee1843d303919779d44649f5314f.png" group-title="Muzicki", MTV 90s
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74957
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://xplatinmedia.com:8080/images/5ed0e728d67992947164b351c95ea6c3.png" group-title="Muzicki", MTV Adria
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74956
+
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-logo="http://xplatinmedia.com:8080/images/c356666ca57ca942f18fc4cb2c560f15.png" group-title="Muzicki", MTV Base
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92223
+
+#EXTINF:-1 tvg-id="MTV.80s.(VH1.Classic).ba" tvg-logo="http://xplatinmedia.com:8080/images/732aabe9748eb1556c5cf173fb84c24b.png" group-title="Muzicki", MTV Classic
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74954
+
+#EXTINF:-1 tvg-id="Club MTV.hr" tvg-logo="http://xplatinmedia.com:8080/images/27d98fdb4a22398e3778bafef9cd1827.png" group-title="Muzicki", MTV Club
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52334
+
+#EXTINF:-1 tvg-id="MTVHitsUK.uk" tvg-logo="http://xplatinmedia.com:8080/images/4c3e2a274c2c2a7a0b30b52d5199d335.png" group-title="Muzicki", MTV Hits
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74955
+
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="http://xplatinmedia.com:8080/images/cfe0ee01a2252d99fcf3622db8a1320c.png" group-title="Muzicki", Narodni TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92231
+
+#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="http://xplatinmedia.com:8080/images/319b6ad56bdddf3652fc4fa39a364ed5.png" group-title="Muzicki", OTV Valentino
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52158
+
+#EXTINF:-1 tvg-id="Pink Folk" tvg-logo="http://xplatinmedia.com:8080/images/f9fd023bcf75265a4d8a33dbd9291809.png" group-title="Muzicki", Pink Folk 1
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52321
+
+#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://xplatinmedia.com:8080/images/338634898ca4f99e406eb8b215de6dd3.png" group-title="Muzicki", Pink Folk 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52322
+
+#EXTINF:-1 tvg-id="Pink.Hits.2.ba" tvg-logo="http://xplatinmedia.com:8080/images/ba7235e305eb0362127bfefbffcf3963.png" group-title="Muzicki", Pink Hits 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52320
+
+#EXTINF:-1 tvg-id="Pink Hits (SR)" tvg-logo="http://xplatinmedia.com:8080/images/6f21ac1a225450d317c9ce190cba1e45.png" group-title="Muzicki", Pink Hits
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52319
+
+#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="http://xplatinmedia.com:8080/images/55d08ed295cbdf1cc26782db4b105ade.png" group-title="Muzicki", Pink Koncert
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52323
+
+#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://xplatinmedia.com:8080/images/663f965495b87921473796795e234664.png" group-title="Muzicki", Pink Music 2
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52318
+
+#EXTINF:-1 tvg-id="Pink Music" tvg-logo="http://xplatinmedia.com:8080/images/672e2e16c689e05dcd22288c778bbb3f.png" group-title="Muzicki", Pink Music
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52317
+
+#EXTINF:-1 tvg-id="PinkandRoll.ba" tvg-logo="http://xplatinmedia.com:8080/images/5689139cdde5e69f055861966bdbe62e.png" group-title="Muzicki", Pink N Roll
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74932
+
+#EXTINF:-1 tvg-id="RTS Kolo.ba" tvg-logo="http://xplatinmedia.com:8080/images/e0afd9df6c8c725f9cf1fe7e693715e1.png" group-title="Muzicki", RTS Kolo
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/55425
+
+#EXTINF:-1 tvg-id="RTS Muzika.ba" tvg-logo="http://xplatinmedia.com:8080/images/63c21ba29d2adb461a51fd47769340d9.png" group-title="Muzicki", RTS Muzika
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74924
+
+#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://xplatinmedia.com:8080/images/210a3f54d27d2aaab9dbdccf4daf6777.png" group-title="Muzicki", Sehara TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74906
+
+#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="http://xplatinmedia.com:8080/images/f4c08575e970d5994aa7fdc422e2d503.png" group-title="Muzicki", Sevdah TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74958
+
+#EXTINF:-1 tvg-id="491" tvg-logo="http://xplatinmedia.com:8080/images/e3192163dd82b66c31ae196b05bb6cac.png" group-title="Muzicki", Top TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74960
+
+#EXTINF:-1 tvg-id="Toxic TV" tvg-logo="http://xplatinmedia.com:8080/images/9e1261b61ca14d46fafa2cc464bbe42f.png" group-title="Muzicki", Toxic TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92256
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/76fcdd2c55441d3f6977254feec4ad11.png" group-title="Muzicki", TV Duga
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52335
+
+#EXTINF:-1 tvg-id="UpperA TV" tvg-logo="http://xplatinmedia.com:8080/images/343d4381131a6d8ba22e073f921091b3.png" group-title="Muzicki", UpperA TV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92265
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/0cb6acd191d3b76307d8426aa6f6765d.png" group-title="Zabavni", 24 Kitchen
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52262
+
+#EXTINF:-1 tvg-id="AXN Spin" tvg-logo="http://xplatinmedia.com:8080/images/2386ce17fc945a366092d3a447fe85fd.png" group-title="Zabavni", AXN Spin
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52286
+
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="http://xplatinmedia.com:8080/images/33a33e49af1762d3d5b1815c0b55315a.png" group-title="Zabavni", AXN
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52285
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/ea8559716b6d7c40bc320adb48fe269e.png" group-title="Zabavni", Balkan Trip
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52254
+
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://xplatinmedia.com:8080/images/2d4fb3cf3cbc552fabc51972cf152c7c.png" group-title="Zabavni", E! Entertainment
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52259
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/c7085c7573a50d680ee864ebb6595632.png" group-title="Zabavni", Food Network
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/74963
+
+#EXTINF:-1 tvg-id="FoxCrime" tvg-logo="http://xplatinmedia.com:8080/images/ea0dc1d34897832495548e61756d36d6.png" group-title="Zabavni", STAR Crime
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52282
+
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="http://xplatinmedia.com:8080/images/bd2031d5d3261404fabb310d3f57e1e8.png" group-title="Zabavni", STAR Life
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52284
+
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/b278f3532b88448a89e6c81535a23f6e.png" group-title="Zabavni", STAR Channel
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52281
+
+#EXTINF:-1 tvg-id="8335" tvg-logo="http://xplatinmedia.com:8080/images/44823db44d4f41caed757b4cb6e11510.png" group-title="Zabavni", HGTV
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52266
+
+#EXTINF:-1 tvg-id="rtl.hr" tvg-logo="http://xplatinmedia.com:8080/images/bb8651a1401921189928f9ddebc88798.png" group-title="Zabavni", RTL Adria
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/92202
+
+#EXTINF:-1 tvg-id="RTL CRIME" tvg-logo="http://xplatinmedia.com:8080/images/739d76402486175146e66e74cc96f78b.png" group-title="Zabavni", RTL Crime
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52122
+
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="http://xplatinmedia.com:8080/images/7361e40f54ecdb85772779303a2ab999.png" group-title="Zabavni", RTL Living
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52123
+
+#EXTINF:-1 tvg-id="RTL PASSION" tvg-logo="http://xplatinmedia.com:8080/images/93f7951a6a963cbf7a7beca25ea8bb50.png" group-title="Zabavni", RTL Passion
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52124
+
+#EXTINF:-1 tvg-id="WNBA EVENT 01" tvg-logo="http://xplatinmedia.com:8080/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Zabavni", TLC
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52258
+
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="http://xplatinmedia.com:8080/images/8a7619cb23a91c454809a930cd46bb68.png" group-title="Zabavni", Travel Channel
+http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52253
+
+
 
 
 
