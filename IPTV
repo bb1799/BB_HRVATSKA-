@@ -1323,10 +1323,6 @@ http://porritos.giize.com:8080/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/52253
 
 
 
-
-
-
-
 # martino
 
 #EXTINF:-1 group-title="MARTINO",MEDO BERE JAGODE MIX
@@ -1377,9 +1373,45 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
 
+
+
+
+
+# MAX SPORT
+
+
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport1 
+http://porritos.giize.com:8080/live/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/135707.ts
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport2 
+http://porritos.giize.com:8080/live/Restreamdark/AebGYPgNGPu43M2z6hJcp2HwHBoEV7/135708.ts
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport1 
+http://95.214.232.47/live/zuIj6Xrvl6/XCohZL9K5J/250710.ts
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport2 
+http://95.214.232.47/live/zuIj6Xrvl6/XCohZL9K5J/250711.ts
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport1 
+http://bntvs.com:2052/slobodanmomic/354455825/23998
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport2 
+http://bntvs.com:2052/slobodanmomic/354455825/23999
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport1
+http://ottshow.net:80/Dariog8/Glibo45/71739
+
+#EXTINF:0 group-title="MAXSPORT",MaxSport2
+http://ottshow.net:80/Dariog8/Glibo45/71740
+
+
+
+
+
+
+
 # otv-zelina tv
-
-
 
 
 
