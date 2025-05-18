@@ -1383,20 +1383,21 @@ https://www.youtube.com/embed/FXQ8N_HemDQ
 
 
 
+
 #EXTINF:-1 tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
 http://ottshow.net:80/Dariog8/Glibo45/4537
 
 #EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://faucontv.live:80/live/live:.cid.651406f830eed3072/df3cHkaUue/33650.ts
+http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4537
 
 #EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://cms.radiokafic.com/live/80damirprim50/Uq82N9FLoV/1236.ts
+http://petica.info:80/GECI-Darko4/wfX0P4e5/4537
 
 #EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://client.nodomain.vip:80/live/80damirprim50/Uq82N9FLoV/1236.ts
+http://95.214.232.47/live/zuIj6Xrvl6/XCohZL9K5J/260812.ts
 
 #EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://petica.info/live/GECI-Darko4/wfX0P4e5/4537.ts
+http://g-med.xyz:25461/live/m-arko@s_pajic!@/pvS@-_!2jqcgzr9r/15546.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
 http://ottshow.net/live/Dariog8/Glibo45/69903.ts
@@ -1410,30 +1411,9 @@ http://cms.radiokafic.com/live/80damirprim50/Uq82N9FLoV/1958.ts
 #EXTINF:-1 tvg-id="14" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
 http://petica.info/live/GECI-Darko4/wfX0P4e5/69903.ts
 
+#EXTINF:-1 tvg-id="14" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
+http://petica.info:80/live/VEDRANVECO-Subotic-Roditelji3/fjhgz764RTV/69903.ts
 
-
-
-
-
-
-
-# maxsport1
-
-
-
-
-
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://tv.nova-iptv.com:80/Ivana_Zec2/LrNoe2Jvkc/12540
-
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://bntvs.com:2052/live/NenadG/457454566343/23998.ts
-
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1 
-http://bntvs.com:2052/slobodanmomic/354455825/23998
-
-#EXTINF:0 group-title="MAXSPORT 1",MaxSport1
-http://ottshow.net:80/Dariog8/Glibo45/71739
 
 
 
