@@ -1,1947 +1,1199 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HRT 1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-1-hr.png" group-title="HRVATSKA", HRT 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1189
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1189
 
 #EXTINF:-1 tvg-id="HRT 2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-2-hr.png" group-title="HRVATSKA", HRT 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1190
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1190
 
 #EXTINF:-1 tvg-id="HRT 3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-3-hr.png" group-title="HRVATSKA", HRT 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1191
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1191
 
 #EXTINF:-1 tvg-id="HRT 4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-4-hr.png" group-title="HRVATSKA", HRT 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1192
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1192
 
 #EXTINF:-1 tvg-id="HRT international" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-international-hr.png" group-title="HRVATSKA", HRT international
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1193
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1193
 
-#EXTINF:-1 tvg-id="TV Nova.hr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="HRVATSKA", Nova TV (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1199
-
-#EXTINF:-1 tvg-id="Nova World" tvg-logo="noimage.png" group-title="HRVATSKA", Nova World
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/47791
-
-#EXTINF:-1 tvg-id="RTL HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl-hrvatska-de-hr.svg" group-title="HRVATSKA", RTL
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1194
-
-#EXTINF:-1 tvg-id="RTL 2.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1195
-
-#EXTINF:-1 tvg-id="Doma TV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/doma_tv_hr.png" group-title="HRVATSKA", Doma TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1205
-
-#EXTINF:-1 tvg-id="FOX Crime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_hr.jpg" group-title="HRVATSKA", FOX Crime
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1203
-
-#EXTINF:-1 tvg-id="Nova TV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="HRVATSKA", NOVA TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1200
+#EXTINF:-1 tvg-id="Nova TV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="HRVATSKA", NOVA
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1200
 
 #EXTINF:-1 tvg-id="Nova Family" tvg-logo="noimage.png" group-title="HRVATSKA", Nova Family
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/47792
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47792
+
+#EXTINF:-1 tvg-id="TV Nova.hr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="HRVATSKA", Nova TV (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1199
+
+#EXTINF:-1 tvg-id="Nova World" tvg-logo="noimage.png" group-title="HRVATSKA", Nova World
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47791
+
+#EXTINF:-1 tvg-id="RTL HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl-hrvatska-de-hr.svg" group-title="HRVATSKA", RTL
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1194
+
+#EXTINF:-1 tvg-id="RTL 2.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1195
 
 #EXTINF:-1 tvg-id="RTL Adria HD.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Adria
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/37022
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/37022
 
 #EXTINF:-1 tvg-id="RTL Crime.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Crime
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1196
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1196
 
 #EXTINF:-1 tvg-id="RTL Living.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Living
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1197
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1197
 
 #EXTINF:-1 tvg-id="RTL Passion.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Passion
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1198
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1198
 
 #EXTINF:-1 tvg-id="Star Channel (FOX)" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="HRVATSKA", Star Channel (FOX)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1201
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1201
 
 #EXTINF:-1 tvg-id="Star Life" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="HRVATSKA", Star Life
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1202
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1202
 
 #EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://w7.pngwing.com/pngs/704/511/png-transparent-fox-movies-television-channel-star-movies-logo-fox-miscellaneous-television-text-thumbnail.png" group-title="HRVATSKA", Star Movies
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1204
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1204
 
 #EXTINF:-1 tvg-id="Z1.hr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/z1_hr.jpg" group-title="HRVATSKA", Z1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1206
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1206
+
+#EXTINF:-1 tvg-id="B92" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b92-rs.svg" group-title="SRBIJA",  B92
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1271
+
+#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-rs.png" group-title="SRBIJA", Agro RTV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39237
+
+#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo-thumbnail.png" group-title="SRBIJA", AMC
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1278
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", Balkan Trip
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40467
+
+#EXTINF:-1 tvg-id="Balkan TV" tvg-logo="noimage.png" group-title="SRBIJA", Balkan TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5057
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blic-tv-rs.png" group-title="SRBIJA", Blic TV ᴴᴰ
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47744
+
+#EXTINF:-1 tvg-id="Domaci Ratni Filmovi 24/7" tvg-logo="noimage.png" group-title="SRBIJA", Domaci Ratni Filmovi 24/7
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40469
+
+#EXTINF:-1 tvg-id="Dox Tv" tvg-logo="noimage.png" group-title="SRBIJA", Dox Tv
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39056
+
+#EXTINF:-1 tvg-id="TV Duga plus.rs" tvg-logo="noimage.png" group-title="SRBIJA", Duga TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1274
+
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_de_hd.jpg" group-title="SRBIJA", E!  Entertaiment
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1275
+
+#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="noimage.png" group-title="SRBIJA", Epic Drama
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39858
+
+#EXTINF:-1 tvg-id="Euronews HD" tvg-logo="https://w7.pngwing.com/pngs/1019/693/png-transparent-euronews-television-channel-logo-streaming-media-euronews-television-blue-text-thumbnail.png" group-title="SRBIJA", EuroNews Srbija
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39242
+
+#EXTINF:-1 tvg-id="Moja Happy Muzika.rs" tvg-logo="noimage.png" group-title="SRBIJA", Happy Muzika
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/51491
+
+#EXTINF:-1 tvg-id="Happy Reality 2.rs" tvg-logo="noimage.png" group-title="SRBIJA", Happy Reality
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1287
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/hh/happy-rs.png" group-title="SRBIJA", Happy TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1283
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hype-tv-rs.png" group-title="SRBIJA", Hype TV ᴴᴰ
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48994
+
+#EXTINF:-1 tvg-id="Informer TV" tvg-logo="noimage.png" group-title="SRBIJA", Informer TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/54738
+
+#EXTINF:-1 tvg-id="Insajder TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insajder-rs.svg" group-title="SRBIJA", INSAJDER TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50410
+
+#EXTINF:-1 tvg-id="K1 TV" tvg-logo="noimage.png" group-title="SRBIJA", K1 TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39063
+
+#EXTINF:-1 tvg-id="Kanal 6" tvg-logo="noimage.png" group-title="SRBIJA", Kanal 6
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19640
+
+#EXTINF:-1 tvg-id="Kurir TV.rs" tvg-logo="noimage.png" group-title="SRBIJA", Kurir TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29054
+
+#EXTINF:-1 tvg-id="n1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1-rs.svg" group-title="SRBIJA", N1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1146
+
+#EXTINF:-1 tvg-id="Narodna Televizija" tvg-logo="noimage.png" group-title="SRBIJA", Narodna Televizija
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19639
+
+#EXTINF:-1 tvg-id="Nova M HD" tvg-logo="noimage.png" group-title="SRBIJA", Nova M
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1268
+
+#EXTINF:-1 tvg-id="NOVA S HD" tvg-logo="noimage.png" group-title="SRBIJA", Nova S
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1272
+
+#EXTINF:-1 tvg-id="Nova Series" tvg-logo="noimage.png" group-title="SRBIJA", Nova Series
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47790
+
+#EXTINF:-1 tvg-id="Parovi Uzivo" tvg-logo="noimage.png" group-title="SRBIJA", Parovi Uzivo
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1286
+
+#EXTINF:-1 tvg-id="Pickbox HD (RS)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pickbox-tv-hr.png" group-title="SRBIJA", PickBox TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5045
+
+#EXTINF:-1 tvg-id="Prva Kick" tvg-logo="noimage.png" group-title="SRBIJA", Prva Kick
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1265
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", Prva Life
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36147
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", Prva Max
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1266
+
+#EXTINF:-1 tvg-id="Prva plus" tvg-logo="noimage.png" group-title="SRBIJA", Prva Plus
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1264
+
+#EXTINF:-1 tvg-id="Prva HD (SR)" tvg-logo="noimage.png" group-title="SRBIJA", Prva TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1263
+
+#EXTINF:-1 tvg-id="Prva World" tvg-logo="noimage.png" group-title="SRBIJA", Prva World
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1267
+
+#EXTINF:-1 tvg-id="RTRS" tvg-logo="noimage.png" group-title="SRBIJA", RTRS
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1258
+
+#EXTINF:-1 tvg-id="RTRS Plus" tvg-logo="noimage.png" group-title="SRBIJA", RTRS Plus
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1259
+
+#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_1.png" group-title="SRBIJA", RTS 1 (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1255
+
+#EXTINF:-1 tvg-id="RTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_2.png" group-title="SRBIJA", RTS 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1256
+
+#EXTINF:-1 tvg-id="RTS 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_3.png" group-title="SRBIJA", RTS 3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1257
+
+#EXTINF:-1 tvg-id="RTS Drama.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-drama-rs.png" group-title="SRBIJA", RTS Drama
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1262
+
+#EXTINF:-1 tvg-id="RTS Kolo.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-kolo-rs.png" group-title="SRBIJA", RTS Kolo
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1276
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-muzika-rs.png" group-title="SRBIJA", RTS Muzika
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19638
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-nauka-rs.png" group-title="SRBIJA", RTS Nauka
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40466
+
+#EXTINF:-1 tvg-id="RTS Poletarac.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-poletarac-rs.png" group-title="SRBIJA", RTS Poletarac
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/17957
+
+#EXTINF:-1 tvg-id="RTS Svet" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-svet-rs.png" group-title="SRBIJA", RTS Svet
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19637
+
+#EXTINF:-1 tvg-id="RTS Trezor.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-trezor-rs.png" group-title="SRBIJA", RTS Trezor
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1260
+
+#EXTINF:-1 tvg-id="RTS Život.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-zivot-rs.png" group-title="SRBIJA", RTS Zivot
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1261
+
+#EXTINF:-1 tvg-id="RTV 1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_rs_1.png" group-title="SRBIJA", RTV 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1280
+
+#EXTINF:-1 tvg-id="RTV 2" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_rs_2.png" group-title="SRBIJA", RTV 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1281
+
+#EXTINF:-1 tvg-id="tvbor.rs" tvg-logo="noimage.png" group-title="SRBIJA", RTV Bor
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39057
+
+#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-srbija-us-rs.png" group-title="SRBIJA", SciFi
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1273
+
+#EXTINF:-1 tvg-id="Sezam TV" tvg-logo="noimage.png" group-title="SRBIJA", Sezam TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39241
+
+#EXTINF:-1 tvg-id="SOS Kanal Plus.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sos-kanal-plus-rs.png" group-title="SRBIJA", SOS Kanal +
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1269
+
+#EXTINF:-1 tvg-id="Studio B" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studio-b-rs.png" group-title="SRBIJA", Studio B
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1284
+
+#EXTINF:-1 tvg-id="SUPERSTAR TV.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superstar-rs.png" group-title="SRBIJA", SuperStar  TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36514
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", SuperStar 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5043
+
+#EXTINF:-1 tvg-id="TLC HD (RS)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_de.png" group-title="SRBIJA", TLC
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1279
+
+#EXTINF:-1 tvg-id="TV Istok.rs" tvg-logo="noimage.png" group-title="SRBIJA", TV Istok
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/13164
+
+#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", TV Kazbuka
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40468
+
+#EXTINF:-1 tvg-id="TV Leskovac" tvg-logo="noimage.png" group-title="SRBIJA", TV Leskovac
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39058
+
+#EXTINF:-1 tvg-id="TV Palma Plus Jagodina" tvg-logo="noimage.png" group-title="SRBIJA", TV Palma Plus Jagodina
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1537
+
+#EXTINF:-1 tvg-id="UNA" tvg-logo="noimage.png" group-title="SRBIJA", UNA
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29064
+
+#EXTINF:-1 tvg-id="Zadruga Live 1" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga 1 Live
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1285
+
+#EXTINF:-1 tvg-id="Zadruga Live 2" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga 2 Live
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19632
+
+#EXTINF:-1 tvg-id="Zadruga Live 3" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga Live 3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19633
+
+#EXTINF:-1 tvg-id="Zadruga Live 4" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga Live 4
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19634
 
 #EXTINF:-1 tvg-id="BiH: RTV Cazin" tvg-logo="noimage.png" group-title="BIH", BiH: RTV Cazin
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/49809
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49809
+
+#EXTINF:-1 tvg-id="Alfa TV Sarajevo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alfa_televizija.jpg" group-title="BIH", Alfa TV Sarajevo
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19641
 
 #EXTINF:-1 tvg-id="Aljazeera Balkans" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg" group-title="BIH", Aljazeera Balkans
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1207
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1207
 
 #EXTINF:-1 tvg-id="Alternativna TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_tv_ba.jpg" group-title="BIH", Alternativna TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1226
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1226
 
 #EXTINF:-1 tvg-id="BHT 1" tvg-logo="noimage.png" group-title="BIH", BHT 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1215
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1215
 
 #EXTINF:-1 tvg-id="BN Televizija" tvg-logo="noimage.png" group-title="BIH", BN Televizija
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1210
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1210
 
 #EXTINF:-1 tvg-id="Diva" tvg-logo="noimage.png" group-title="BIH", Diva
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1227
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1227
 
 #EXTINF:-1 tvg-id="Face" tvg-logo="noimage.png" group-title="BIH", Face
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1216
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1216
 
 #EXTINF:-1 tvg-id="Federalna TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ftv_ba.jpg" group-title="BIH", Federalna TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1217
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1217
 
 #EXTINF:-1 tvg-id="Glas Drine" tvg-logo="noimage.png" group-title="BIH", Glas Drine
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1218
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1218
 
 #EXTINF:-1 tvg-id="Hayat" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_ba.jpg" group-title="BIH", Hayat
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1211
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1211
 
 #EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_plus.jpg" group-title="BIH", Hayat Plus
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1212
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1212
 
 #EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="noimage.png" group-title="BIH", Izvorna TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1228
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1228
 
 #EXTINF:-1 tvg-id="MTV Igman" tvg-logo="noimage.png" group-title="BIH", MTV Igman
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1230
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1230
 
 #EXTINF:-1 tvg-id="N1" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1-rs.svg" group-title="BIH", N1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1220
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1220
 
 #EXTINF:-1 tvg-id="Nova (BiH)" tvg-logo="noimage.png" group-title="BIH", Nova (BiH)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1213
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1213
 
 #EXTINF:-1 tvg-id="Novi Pazar" tvg-logo="noimage.png" group-title="BIH", Novi Pazar
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1219
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1219
 
 #EXTINF:-1 tvg-id="O Kanal" tvg-logo="https://totaltv.tv/oec/images/tv_channels/c94c5a006f1e411521742c4d90828d53.png" group-title="BIH", O Kanal
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1221
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1221
 
 #EXTINF:-1 tvg-id="OBN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/obn.jpg" group-title="BIH", OBN
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1208
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1208
+
+#EXTINF:-1 tvg-id="OBN reserve" tvg-logo="noimage.png" group-title="BIH", OBN reserve
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36283
 
 #EXTINF:-1 tvg-id="Posavina TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/posavina_tv_ba.jpg" group-title="BIH", Posavina TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1229
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1229
 
 #EXTINF:-1 tvg-id="RTV Herceg Bosne" tvg-logo="noimage.png" group-title="BIH", RTV Herceg Bosne
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1127
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1127
 
 #EXTINF:-1 tvg-id="RTV USK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_usk.jpg" group-title="BIH", RTV USK
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1222
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1222
 
 #EXTINF:-1 tvg-id="RTV Zenica" tvg-logo="noimage.png" group-title="BIH", RTV Zenica
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1223
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1223
 
 #EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="noimage.png" group-title="BIH", Sandzak TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39240
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39240
+
+#EXTINF:-1 tvg-id="Slon TV" tvg-logo="noimage.png" group-title="BIH", Slon TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29056
 
 #EXTINF:-1 tvg-id="TV Sarajevo" tvg-logo="noimage.png" group-title="BIH", TV Sarajevo
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1214
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1214
 
 #EXTINF:-1 tvg-id="TV TK" tvg-logo="noimage.png" group-title="BIH", TV TK
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1209
-
-#EXTINF:-1 tvg-id="CG: RTCG 1" tvg-logo="noimage.png" group-title="SRBIJA I CG", CG: RTCG 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1234
-
-#EXTINF:-1 tvg-id="CG: RTCG 2" tvg-logo="noimage.png" group-title="SRBIJA I CG", CG: RTCG 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1233
-
-#EXTINF:-1 tvg-id="RTCG Sat" tvg-logo="noimage.png" group-title="SRBIJA I CG", CG: RTCG Sat
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1232
-
-#EXTINF:-1 tvg-id="TV Vijesti" tvg-logo="noimage.png" group-title="SRBIJA I CG", CG: TV Vijesti
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/13159
-
-#EXTINF:-1 tvg-id="B92" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b92-rs.svg" group-title="SRBIJA I CG",  B92
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1271
-
-#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_1.png" group-title="SRBIJA I CG",  RTS 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1850
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-rs.png" group-title="SRBIJA I CG", Agro RTV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39237
-
-#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo-thumbnail.png" group-title="SRBIJA I CG", AMC
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1278
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Balkan Trip
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40467
-
-#EXTINF:-1 tvg-id="Banovina TV" tvg-logo="noimage.png" group-title="SRBIJA I CG", Banovina TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1288
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blic-tv-rs.png" group-title="SRBIJA I CG", Blic TV ᴴᴰ
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/47744
-
-#EXTINF:-1 tvg-id="TV Duga plus.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Duga TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1274
-
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_de_hd.jpg" group-title="SRBIJA I CG", E!  Entertaiment
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1275
-
-#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="noimage.png" group-title="SRBIJA I CG", Epic Drama
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39858
-
-#EXTINF:-1 tvg-id="Euronews HD" tvg-logo="https://w7.pngwing.com/pngs/1019/693/png-transparent-euronews-television-channel-logo-streaming-media-euronews-television-blue-text-thumbnail.png" group-title="SRBIJA I CG", EuroNews Srbija
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39242
-
-#EXTINF:-1 tvg-id="Moje Happy Društvo.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Happy Drustvo
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40921
-
-#EXTINF:-1 tvg-id="Moja Happy Muzika.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Happy Muzika
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/51491
-
-#EXTINF:-1 tvg-id="Happy Reality 2.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Happy Reality
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1287
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/hh/happy-rs.png" group-title="SRBIJA I CG", Happy TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1283
-
-#EXTINF:-1 tvg-id="Moja Happy Zemlja.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Happy Zemlja
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40923
-
-#EXTINF:-1 tvg-id="Moj Happy Život.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Happy Zivot
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40924
-
-#EXTINF:-1 tvg-id="Informer TV" tvg-logo="noimage.png" group-title="SRBIJA I CG", Informer TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/54738
-
-#EXTINF:-1 tvg-id="Insajder TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insajder-rs.svg" group-title="SRBIJA I CG", INSAJDER TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/50410
-
-#EXTINF:-1 tvg-id="K1 TV" tvg-logo="noimage.png" group-title="SRBIJA I CG", K1 TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39063
-
-#EXTINF:-1 tvg-id="Lud Zbunjen Normalan 24/7" tvg-logo="noimage.png" group-title="SRBIJA I CG", Lud Zbunjen Normalan 24/7
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/41301
-
-#EXTINF:-1 tvg-id="n1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1-rs.svg" group-title="SRBIJA I CG", N1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1146
-
-#EXTINF:-1 tvg-id="Narodna Televizija" tvg-logo="noimage.png" group-title="SRBIJA I CG", Narodna Televizija
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/19639
-
-#EXTINF:-1 tvg-id="Nova M HD" tvg-logo="noimage.png" group-title="SRBIJA I CG", Nova M
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1268
-
-#EXTINF:-1 tvg-id="NOVA S HD" tvg-logo="noimage.png" group-title="SRBIJA I CG", Nova S
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1272
-
-#EXTINF:-1 tvg-id="Nova Series" tvg-logo="noimage.png" group-title="SRBIJA I CG", Nova Series
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/47790
-
-#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_valentino.jpg" group-title="SRBIJA I CG", OTV Valentino
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1282
-
-#EXTINF:-1 tvg-id="Parovi Uzivo" tvg-logo="noimage.png" group-title="SRBIJA I CG", Parovi Uzivo
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1286
-
-#EXTINF:-1 tvg-id="Pickbox HD (RS)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pickbox-tv-hr.png" group-title="SRBIJA I CG", PickBox TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/5045
-
-#EXTINF:-1 tvg-id="Prva Files.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva Files
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1539
-
-#EXTINF:-1 tvg-id="Prva Kick" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva Kick
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1265
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva Life
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36147
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva Max
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1266
-
-#EXTINF:-1 tvg-id="Prva plus" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva Plus
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1264
-
-#EXTINF:-1 tvg-id="Prva HD (SR)" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1263
-
-#EXTINF:-1 tvg-id="Prva HD (SR)" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva TV (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1851
-
-#EXTINF:-1 tvg-id="Prva World" tvg-logo="noimage.png" group-title="SRBIJA I CG", Prva World
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1267
-
-#EXTINF:-1 tvg-id="RTRS" tvg-logo="noimage.png" group-title="SRBIJA I CG", RTRS
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1258
-
-#EXTINF:-1 tvg-id="RTRS Plus" tvg-logo="noimage.png" group-title="SRBIJA I CG", RTRS Plus
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1259
-
-#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_1.png" group-title="SRBIJA I CG", RTS 1 (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1255
-
-#EXTINF:-1 tvg-id="RTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_2.png" group-title="SRBIJA I CG", RTS 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1256
-
-#EXTINF:-1 tvg-id="RTS 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_3.png" group-title="SRBIJA I CG", RTS 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1257
-
-#EXTINF:-1 tvg-id="RTS Drama.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-drama-rs.png" group-title="SRBIJA I CG", RTS Drama
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1262
-
-#EXTINF:-1 tvg-id="RTS Kolo.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-kolo-rs.png" group-title="SRBIJA I CG", RTS Kolo
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1276
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-muzika-rs.png" group-title="SRBIJA I CG", RTS Muzika
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/19638
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-nauka-rs.png" group-title="SRBIJA I CG", RTS Nauka
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40466
-
-#EXTINF:-1 tvg-id="RTS Poletarac.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-poletarac-rs.png" group-title="SRBIJA I CG", RTS Poletarac
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/17957
-
-#EXTINF:-1 tvg-id="RTS Svet" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-svet-rs.png" group-title="SRBIJA I CG", RTS Svet
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/19637
-
-#EXTINF:-1 tvg-id="RTS Trezor.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-trezor-rs.png" group-title="SRBIJA I CG", RTS Trezor
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1260
-
-#EXTINF:-1 tvg-id="RTS Život.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-zivot-rs.png" group-title="SRBIJA I CG", RTS Zivot
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1261
-
-#EXTINF:-1 tvg-id="RTV 1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_rs_1.png" group-title="SRBIJA I CG", RTV 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1280
-
-#EXTINF:-1 tvg-id="RTV 2" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_rs_2.png" group-title="SRBIJA I CG", RTV 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1281
-
-#EXTINF:-1 tvg-id="tvbor.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", RTV Bor
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39057
-
-#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-srbija-us-rs.png" group-title="SRBIJA I CG", SciFi
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1273
-
-#EXTINF:-1 tvg-id="Sezam TV" tvg-logo="noimage.png" group-title="SRBIJA I CG", Sezam TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39241
-
-#EXTINF:-1 tvg-id="SOS Kanal Plus.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sos-kanal-plus-rs.png" group-title="SRBIJA I CG", SOS Kanal +
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1269
-
-#EXTINF:-1 tvg-id="Studio B" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studio-b-rs.png" group-title="SRBIJA I CG", Studio B
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1284
-
-#EXTINF:-1 tvg-id="SUPERSTAR TV.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superstar-rs.png" group-title="SRBIJA I CG", SuperStar  TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36514
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", SuperStar 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/5043
-
-#EXTINF:-1 tvg-id="TLC HD (RS)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_de.png" group-title="SRBIJA I CG", TLC
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1279
-
-#EXTINF:-1 tvg-id="TV Istok.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", TV Istok
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/13164
-
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA I CG", TV Kazbuka
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40468
-
-#EXTINF:-1 tvg-id="TV Palma Plus Jagodina" tvg-logo="noimage.png" group-title="SRBIJA I CG", TV Palma Plus Jagodina
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1537
-
-#EXTINF:-1 tvg-id="Zadruga Live 1" tvg-logo="noimage.png" group-title="SRBIJA I CG", Zadruga 1 Live
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1285
-
-#EXTINF:-1 tvg-id="Zadruga Live 2" tvg-logo="noimage.png" group-title="SRBIJA I CG", Zadruga 2 Live
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/19632
-
-#EXTINF:-1 tvg-id="Zadruga Live 3" tvg-logo="noimage.png" group-title="SRBIJA I CG", Zadruga Live 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/19633
-
-#EXTINF:-1 tvg-id="Zadruga Live 4" tvg-logo="noimage.png" group-title="SRBIJA I CG", Zadruga Live 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/19634
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1209
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv24-mk.png" group-title="MAKEDONIJA", 24 Vesti
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1243
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1243
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alfa-tv-mk.png" group-title="MAKEDONIJA", Alfa
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1241
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1241
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alsat-m-al-mk.png" group-title="MAKEDONIJA", ALSAT M
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1249
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1249
 
 #EXTINF:-1 tvg-id="B1 (Sutel TV)" tvg-logo="noimage.png" group-title="MAKEDONIJA", B1 (Sutel TV)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1244
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1244
 
 #EXTINF:-1 tvg-id="Hugo 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", Hugo 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1253
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1253
 
 #EXTINF:-1 tvg-id="Hugo 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", Hugo 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1254
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1254
 
 #EXTINF:-1 tvg-id="24 Вести.mk" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal5_mk.png" group-title="MAKEDONIJA", Kanal 5 (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1251
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1251
+
+#EXTINF:-1 tvg-id="M Net" tvg-logo="noimage.png" group-title="MAKEDONIJA", M Net
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/23569
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt_mk_tv_1.png" group-title="MAKEDONIJA", MRT 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1235
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1235
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt_mk_tv_2_sat.png" group-title="MAKEDONIJA", MRT 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1236
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1236
 
 #EXTINF:-1 tvg-id="24 Вести.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-3-mk.png" group-title="MAKEDONIJA", MRT 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1715
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1715
+
+#EXTINF:-1 tvg-id="MRT4.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-4-mk.png" group-title="MAKEDONIJA", MRT 4
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29061
 
 #EXTINF:-1 tvg-id="MRT5.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-5-mk.png" group-title="MAKEDONIJA", MRT 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1248
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1248
 
 #EXTINF:-1 tvg-id="MTM Skopska" tvg-logo="noimage.png" group-title="MAKEDONIJA", MTM Skopska
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1252
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1252
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_mk.png" group-title="MAKEDONIJA", Nasha TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1245
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1245
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sitel-tv-mk.svg" group-title="MAKEDONIJA", SITEL
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1238
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1238
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sitel-tv-mk.svg" group-title="MAKEDONIJA", SITEL (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1237
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1237
 
 #EXTINF:-1 tvg-id="MRTSobraniskikanal.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-sobraniski-kanal-mk.png" group-title="MAKEDONIJA", Sobraniski Kanal
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1717
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1717
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telma_mk.png" group-title="MAKEDONIJA", Telma
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1242
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1242
+
+#EXTINF:-1 tvg-id="TeraTV.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", Tera Bitola
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/23577
 
 #EXTINF:-1 tvg-id="TVSonce.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/makedonsko-soncega.png" group-title="MAKEDONIJA", TV Sonce
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1246
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1246
 
 #EXTINF:-1 tvg-id="TV+ Kumanovo" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV+ Kumanovo
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1247
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1247
 
-#EXTINF:-1 tvg-id=" Cinemax 2" tvg-logo="noimage.png" group-title="MAKEDONIJA",  Cinemax 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48561
+#EXTINF:-1 tvg-id="MK: Cinemax 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: Cinemax 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48561
 
-#EXTINF:-1 tvg-id=" Film Box Stars" tvg-logo="noimage.png" group-title="MAKEDONIJA",  Film Box Stars
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48558
+#EXTINF:-1 tvg-id="MK: Film Box Stars" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: Film Box Stars
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48558
 
-#EXTINF:-1 tvg-id=" MNet Gourmet" tvg-logo="noimage.png" group-title="MAKEDONIJA",  MNet Gourmet
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48545
+#EXTINF:-1 tvg-id="MK: MNet Gourmet" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: MNet Gourmet
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48545
 
-#EXTINF:-1 tvg-id=" MNet INFO" tvg-logo="noimage.png" group-title="MAKEDONIJA",  MNet INFO
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48549
+#EXTINF:-1 tvg-id="MK: MNet INFO" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: MNet INFO
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48549
 
-#EXTINF:-1 tvg-id=" MNet KIDS" tvg-logo="noimage.png" group-title="MAKEDONIJA",  MNet KIDS
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48550
+#EXTINF:-1 tvg-id="MK: MNet KIDS" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: MNet KIDS
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48550
 
-#EXTINF:-1 tvg-id=" MNet SPORT" tvg-logo="noimage.png" group-title="MAKEDONIJA",  MNet SPORT
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48548
+#EXTINF:-1 tvg-id="MK: MNet SPORT" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: MNet SPORT
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48548
 
-#EXTINF:-1 tvg-id="TV 1000 HD.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA",  TV 1000
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48553
+#EXTINF:-1 tvg-id="MK: TravelXp" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: TravelXp
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48539
 
-#EXTINF:-1 tvg-id="Viasat Explorer.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA",  Viasat Explorer
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48554
+#EXTINF:-1 tvg-id="TV 1000 HD.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: TV 1000
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48553
 
-#EXTINF:-1 tvg-id="Viasat History.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA",  Viasat History
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48555
+#EXTINF:-1 tvg-id="Viasat Explorer.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: Viasat Explorer
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48554
+
+#EXTINF:-1 tvg-id="Viasat History.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: Viasat History
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48555
+
+#EXTINF:-1 tvg-id="MK: Македонски Документарен" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: Македонски Документарен
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48540
+
+#EXTINF:-1 tvg-id="MK: Фолк Македонија" tvg-logo="noimage.png" group-title="MAKEDONIJA", MK: Фолк Македонија
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48541
 
 #EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal5_mk.png" group-title="MAKEDONIJA", МК: КАНАЛ 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1240
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1240
 
-#EXTINF:-1 tvg-id=" Cinestar Premiere" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-1-hr.png" group-title="SLOVENIJA",  Cinestar Premiere
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36158
+#EXTINF:-1 tvg-id="SLO: Cinestar Premiere" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-1-hr.png" group-title="SLOVENIA", SLO: Cinestar Premiere
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36158
 
-#EXTINF:-1 tvg-id=" Diva" tvg-logo="noimage.png" group-title="SLOVENIJA",  Diva
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36171
+#EXTINF:-1 tvg-id="SLO: Diva" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Diva
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36171
 
-#EXTINF:-1 tvg-id=" Epic Drama" tvg-logo="noimage.png" group-title="SLOVENIJA",  Epic Drama
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36155
+#EXTINF:-1 tvg-id="SLO: Epic Drama" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Epic Drama
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36155
 
-#EXTINF:-1 tvg-id=" Fox HD" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="SLOVENIJA",  Fox HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36170
+#EXTINF:-1 tvg-id="SLO: Fox HD" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="SLOVENIA", SLO: Fox HD
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36170
 
-#EXTINF:-1 tvg-id=" Fox Life" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="SLOVENIJA",  Fox Life
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36169
+#EXTINF:-1 tvg-id="SLO: Fox Life" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="SLOVENIA", SLO: Fox Life
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36169
 
-#EXTINF:-1 tvg-id=" Golica TV" tvg-logo="noimage.png" group-title="SLOVENIJA",  Golica TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36157
+#EXTINF:-1 tvg-id="SLO: Golica TV" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Golica TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36157
 
-#EXTINF:-1 tvg-id=" HBO" tvg-logo="noimage.png" group-title="SLOVENIJA",  HBO
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36168
+#EXTINF:-1 tvg-id="SLO: HBO" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: HBO
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36168
 
-#EXTINF:-1 tvg-id=" History" tvg-logo="noimage.png" group-title="SLOVENIJA",  History
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36153
+#EXTINF:-1 tvg-id="SLO: History" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: History
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36153
 
-#EXTINF:-1 tvg-id=" Kanal A" tvg-logo="noimage.png" group-title="SLOVENIJA",  Kanal A
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36162
+#EXTINF:-1 tvg-id="SLO: Kanal A" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Kanal A
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36162
 
-#EXTINF:-1 tvg-id=" Net TV" tvg-logo="noimage.png" group-title="SLOVENIJA",  Net TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36156
+#EXTINF:-1 tvg-id="SLO: Net TV" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Net TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36156
 
-#EXTINF:-1 tvg-id=" Nova 24 TV" tvg-logo="noimage.png" group-title="SLOVENIJA",  Nova 24 TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36167
+#EXTINF:-1 tvg-id="SLO: Nova 24 TV" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Nova 24 TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36167
 
-#EXTINF:-1 tvg-id=" Planet TV" tvg-logo="noimage.png" group-title="SLOVENIJA",  Planet TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36159
+#EXTINF:-1 tvg-id="SLO: Planet TV" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Planet TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36159
 
-#EXTINF:-1 tvg-id=" Pop Brio HD" tvg-logo="noimage.png" group-title="SLOVENIJA",  Pop Brio HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36166
+#EXTINF:-1 tvg-id="SLO: Pop Brio HD" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Pop Brio HD
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36166
 
-#EXTINF:-1 tvg-id=" Pop Kino" tvg-logo="noimage.png" group-title="SLOVENIJA",  Pop Kino
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36165
+#EXTINF:-1 tvg-id="SLO: Pop Kino" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Pop Kino
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36165
 
-#EXTINF:-1 tvg-id=" Pop Oto" tvg-logo="noimage.png" group-title="SLOVENIJA",  Pop Oto
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36164
+#EXTINF:-1 tvg-id="SLO: Pop Oto" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Pop Oto
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36164
 
-#EXTINF:-1 tvg-id=" Pop TV" tvg-logo="noimage.png" group-title="SLOVENIJA",  Pop TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36163
+#EXTINF:-1 tvg-id="SLO: Pop TV" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Pop TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36163
 
-#EXTINF:-1 tvg-id=" Slo 1" tvg-logo="noimage.png" group-title="SLOVENIJA",  Slo 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36148
+#EXTINF:-1 tvg-id="SLO: Slo 1" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Slo 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36148
 
-#EXTINF:-1 tvg-id=" Slo 2" tvg-logo="noimage.png" group-title="SLOVENIJA",  Slo 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36149
+#EXTINF:-1 tvg-id="SLO: Slo 2" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Slo 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36149
 
-#EXTINF:-1 tvg-id=" Slo 3" tvg-logo="noimage.png" group-title="SLOVENIJA",  Slo 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36150
+#EXTINF:-1 tvg-id="SLO: Slo 3" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Slo 3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36150
 
-#EXTINF:-1 tvg-id=" Sport TV 1" tvg-logo="noimage.png" group-title="SLOVENIJA",  Sport TV 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36525
+#EXTINF:-1 tvg-id="SLO: Sport TV 1" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Sport TV 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36525
 
-#EXTINF:-1 tvg-id=" Sport TV 2" tvg-logo="noimage.png" group-title="SLOVENIJA",  Sport TV 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36160
+#EXTINF:-1 tvg-id="SLO: Sport TV 2" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Sport TV 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36160
 
-#EXTINF:-1 tvg-id=" Sport TV 3" tvg-logo="noimage.png" group-title="SLOVENIJA",  Sport TV 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36154
+#EXTINF:-1 tvg-id="SLO: Sport TV 3" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Sport TV 3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36154
 
-#EXTINF:-1 tvg-id=" Tele Maribor" tvg-logo="noimage.png" group-title="SLOVENIJA",  Tele Maribor
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36152
+#EXTINF:-1 tvg-id="SLO: Tele Maribor" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: Tele Maribor
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36152
 
-#EXTINF:-1 tvg-id=" TV 1000" tvg-logo="noimage.png" group-title="SLOVENIJA",  TV 1000
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36161
+#EXTINF:-1 tvg-id="SLO: TV 1000" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: TV 1000
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36161
 
-#EXTINF:-1 tvg-id=" VTV" tvg-logo="noimage.png" group-title="SLOVENIJA",  VTV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36151
+#EXTINF:-1 tvg-id="SLO: VTV" tvg-logo="noimage.png" group-title="SLOVENIA", SLO: VTV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36151
+
+#EXTINF:-1 tvg-id="CG: RTCG 1" tvg-logo="noimage.png" group-title="CRNA GORA", CG: RTCG 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1234
+
+#EXTINF:-1 tvg-id="CG: RTCG 2" tvg-logo="noimage.png" group-title="CRNA GORA", CG: RTCG 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1233
+
+#EXTINF:-1 tvg-id="RTCG Sat" tvg-logo="noimage.png" group-title="CRNA GORA", CG: RTCG Sat
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1232
+
+#EXTINF:-1 tvg-id="TV Vijesti" tvg-logo="noimage.png" group-title="CRNA GORA", CG: TV Vijesti
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/13159
 
 #EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="https://mts.rs/oec/images/tv_channels/ba363e0ab4c5f6647c94823d437373d0.png" group-title="PINK",  Pink Thriller
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1301
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1301
 
 #EXTINF:-1 tvg-id="Pink n roll" tvg-logo="https://logo.iptveditor.com/pinkandrollrs.png" group-title="PINK", Pink & Roll
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/20941
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/20941
 
 #EXTINF:-1 tvg-id="RED TV (Pink 2 HD)" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-tv-rs.svg" group-title="PINK", Pink 2 (Red TV)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1290
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1290
 
 #EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_action.jpg" group-title="PINK", Pink Action
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1295
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1295
 
 #EXTINF:-1 tvg-id="pinkbh.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_bh.jpg" group-title="PINK", Pink BH
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1311
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1311
 
 #EXTINF:-1 tvg-id="Pink Classic" tvg-logo="noimage.png" group-title="PINK", Pink Classic
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1298
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1298
 
 #EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="noimage.png" group-title="PINK", Pink Comedy
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1296
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1296
 
 #EXTINF:-1 tvg-id="Pink Crime and Mystery" tvg-logo="https://mts.rs/oec/images/tv_channels/5a0669323860927259d003494c470ebb.png" group-title="PINK", Pink Crime & Mystery
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1299
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1299
 
 #EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_extra.jpg" group-title="PINK", Pink Extra
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1312
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1312
+
+#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_family.jpg" group-title="PINK", Pink Family
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5058
 
 #EXTINF:-1 tvg-id="Pink Fashion" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="PINK", Pink Fashion
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1316
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1316
 
 #EXTINF:-1 tvg-id="Pink Film" tvg-logo="https://mts.rs/oec/images/tv_channels/b4030ab97770d19f5daa0e180adff3f6.png" group-title="PINK", Pink Film
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1292
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1292
 
 #EXTINF:-1 tvg-id="Pink Folk" tvg-logo="noimage.png" group-title="PINK", Pink Folk 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1319
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1319
 
 #EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_folk2.jpg" group-title="PINK", Pink Folk 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1320
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1320
 
 #EXTINF:-1 tvg-id="Ha ha" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pink-haha-rs.png" group-title="PINK", Pink HaHa
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1317
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1317
 
 #EXTINF:-1 tvg-id="Pink Hits" tvg-logo="noimage.png" group-title="PINK", Pink Hits
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1323
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1323
 
 #EXTINF:-1 tvg-id="Pink Hits 2" tvg-logo="noimage.png" group-title="PINK", Pink Hits 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1324
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1324
 
 #EXTINF:-1 tvg-id="Pink Horror" tvg-logo="noimage.png" group-title="PINK", Pink Horror
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1297
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1297
 
 #EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="noimage.png" group-title="PINK", Pink Kuvar
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1303
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1303
 
 #EXTINF:-1 tvg-id="Lol" tvg-logo="noimage.png" group-title="PINK", Pink LoL
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1318
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1318
 
 #EXTINF:-1 tvg-id="pinkm.rs" tvg-logo="noimage.png" group-title="PINK", Pink M
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/19630
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19630
 
 #EXTINF:-1 tvg-id="Pink HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Pink_TV_logo.png" group-title="PINK", Pink Media
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1289
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1289
 
 #EXTINF:-1 tvg-id="Pink Movies" tvg-logo="https://mtsantenatv.rs/pinkmovies.png" group-title="PINK", Pink Movies
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1294
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1294
 
 #EXTINF:-1 tvg-id="Pink Music" tvg-logo="noimage.png" group-title="PINK", Pink Music
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1321
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1321
 
 #EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_music2.jpg" group-title="PINK", Pink Music 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1322
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1322
 
 #EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="noimage.png" group-title="PINK", Pink Pedia
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1304
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1304
 
 #EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://www.ion.tv/canada/img/logoch/pnk2.jpg" group-title="PINK", Pink Plus
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1315
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1315
 
 #EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="noimage.png" group-title="PINK", Pink Premium
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1307
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1307
 
 #EXTINF:-1 tvg-id="Pink Reality" tvg-logo="noimage.png" group-title="PINK", Pink Reality
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1305
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1305
 
 #EXTINF:-1 tvg-id="Pink Romance" tvg-logo="https://mts.rs/oec/images/tv_channels/fcc019b84bd5bba48bd1e74dc36188ec.png" group-title="PINK", Pink Romance
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1306
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1306
 
 #EXTINF:-1 tvg-id="Pink Sci-Fi and Fantasy" tvg-logo="https://mts.rs/oec/images/tv_channels/b0f76c45a3bfaf7b93fbf8cad85ccf5a.png" group-title="PINK", Pink Sci-Fi&Fantasy
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1300
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1300
 
 #EXTINF:-1 tvg-id="Pink Serije" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/4e7eb9cc3b3280f2421614978de360de.png" group-title="PINK", Pink Serije
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1293
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1293
 
 #EXTINF:-1 tvg-id="Pink Show" tvg-logo="noimage.png" group-title="PINK", Pink Show
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1310
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1310
 
 #EXTINF:-1 tvg-id="Pink Soap" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_soap_rs.jpg" group-title="PINK", Pink Soap
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1314
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1314
 
 #EXTINF:-1 tvg-id="Pink Style" tvg-logo="noimage.png" group-title="PINK", Pink Style
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1313
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1313
 
 #EXTINF:-1 tvg-id="Vesti HD (Pink 3 info)" tvg-logo="noimage.png" group-title="PINK", Pink Vesti
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1291
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1291
 
 #EXTINF:-1 tvg-id="Pink Western" tvg-logo="noimage.png" group-title="PINK", Pink Western
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1302
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1302
 
 #EXTINF:-1 tvg-id="Pink World" tvg-logo="noimage.png" group-title="PINK", Pink World
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1309
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1309
 
 #EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="noimage.png" group-title="PINK", Pink World Cinema
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1308
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1308
 
 #EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="noimage.png" group-title="PINK", Pink Zabava
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1325
-
-#EXTINF:-1 tvg-id="MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="SPORT", MAX SPORT 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/41332
-
-#EXTINF:-1 tvg-id="MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="SPORT", MAX SPORT 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/41333
-
-#EXTINF:-1 tvg-id="AR: beIN sports Max 2" tvg-logo="noimage.png" group-title="SPORT", AR: beIN sports Max 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/47455
-
-#EXTINF:-1 tvg-id="AR: beIN SPORTS Premium 2" tvg-logo="noimage.png" group-title="SPORT", AR: beIN SPORTS Premium 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/47452
-
-#EXTINF:-1 tvg-id="AT: S Sport Austria 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="SPORT", AT: S Sport Austria 1 HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29047
-
-#EXTINF:-1 tvg-id="AU: beIN Sports 1" tvg-logo="noimage.png" group-title="SPORT", AU: beIN Sports 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/13226
-
-#EXTINF:-1 tvg-id="AU: beIN Sports 2" tvg-logo="noimage.png" group-title="SPORT", AU: beIN Sports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/13227
-
-#EXTINF:-1 tvg-id="AU: beIN Sports 3" tvg-logo="noimage.png" group-title="SPORT", AU: beIN Sports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/13228
-
-#EXTINF:-1 tvg-id="BG: Max Sport 1" tvg-logo="noimage.png" group-title="SPORT", BG: Max Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/4967
-
-#EXTINF:-1 tvg-id="BG: Max Sport 2" tvg-logo="noimage.png" group-title="SPORT", BG: Max Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/4968
-
-#EXTINF:-1 tvg-id="BG: Max Sport 3" tvg-logo="noimage.png" group-title="SPORT", BG: Max Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/21530
-
-#EXTINF:-1 tvg-id="BG: Max Sport 4" tvg-logo="noimage.png" group-title="SPORT", BG: Max Sport 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/21531
-
-#EXTINF:-1 tvg-id="CH: Teleclub Sport 1" tvg-logo="noimage.png" group-title="SPORT", CH: Teleclub Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/20989
-
-#EXTINF:-1 tvg-id="CH: Teleclub Sport 2" tvg-logo="noimage.png" group-title="SPORT", CH: Teleclub Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/20990
-
-#EXTINF:-1 tvg-id="DE: s*y Sport F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="SPORT", DE: s*y Sport F1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/49817
-
-#EXTINF:-1 tvg-id="DE: s*y Sport Mix" tvg-logo="noimage.png" group-title="SPORT", DE: s*y Sport Mix
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/49818
-
-#EXTINF:-1 tvg-id="DE: s*y Sport tennis" tvg-logo="noimage.png" group-title="SPORT", DE: s*y Sport tennis
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/49819
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1325
 
 #EXTINF:-1 tvg-id="ARENA FIGHT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="SPORT", ARENA FIGHT
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39561
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39561
+
+#EXTINF:-1 tvg-id="FC Partizan TV" tvg-logo="noimage.png" group-title="SPORT", FC Partizan TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29063
 
 #EXTINF:-1 tvg-id="Nova Sport" tvg-logo="noimage.png" group-title="SPORT", Nova Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36529
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36529
 
 #EXTINF:-1 tvg-id="Sport Klub 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", Sport Klub 1 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36530
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36530
 
 #EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", Sport Klub 1 SR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36527
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36527
 
 #EXTINF:-1 tvg-id="Sport Klub 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36531
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36531
 
 #EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 SR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36528
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36528
 
 #EXTINF:-1 tvg-id="Sport Klub 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", Sport Klub 3 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36532
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36532
 
 #EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="SPORT", Zvezda TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36284
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36284
 
-#EXTINF:-1 tvg-id="IT: RAI SPORT 2" tvg-logo="noimage.png" group-title="SPORT", IT: RAI SPORT 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1485
+#EXTINF:-1 tvg-id="SLO: Sport Klub 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", SLO: Sport Klub 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36521
 
-#EXTINF:-1 tvg-id="PT: ELEVEN Sports 1" tvg-logo="noimage.png" group-title="SPORT", PT: ELEVEN Sports 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1468
+#EXTINF:-1 tvg-id="SLO: Sport TV 1" tvg-logo="noimage.png" group-title="SPORT", SLO: Sport TV 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36172
 
-#EXTINF:-1 tvg-id="PT: ELEVEN Sports 2" tvg-logo="noimage.png" group-title="SPORT", PT: ELEVEN Sports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1469
+#EXTINF:-1 tvg-id="SLO: Sport TV 2" tvg-logo="noimage.png" group-title="SPORT", SLO: Sport TV 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36173
 
-#EXTINF:-1 tvg-id="PT: ELEVEN Sports 3" tvg-logo="noimage.png" group-title="SPORT", PT: ELEVEN Sports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1470
+#EXTINF:-1 tvg-id="SLO: Sport TV 3" tvg-logo="noimage.png" group-title="SPORT", SLO: Sport TV 3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36174
 
-#EXTINF:-1 tvg-id="PT: ELEVEN Sports 4" tvg-logo="noimage.png" group-title="SPORT", PT: ELEVEN Sports 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1471
+#EXTINF:-1 tvg-id="SPORT:  Sport Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", SPORT:  Sport Klub 1 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/718
 
-#EXTINF:-1 tvg-id="PT: ELEVEN Sports 5" tvg-logo="noimage.png" group-title="SPORT", PT: ELEVEN Sports 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1472
+#EXTINF:-1 tvg-id="SPORT:  Sport Klub 4 HR" tvg-logo="noimage.png" group-title="SPORT", SPORT:  Sport Klub 4 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/721
 
-#EXTINF:-1 tvg-id="RO: TELEKOM SPORT 1" tvg-logo="noimage.png" group-title="SPORT", RO: TELEKOM SPORT 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1733
+#EXTINF:-1 tvg-id="SPORT:  Sport Klub 5 HR" tvg-logo="noimage.png" group-title="SPORT", SPORT:  Sport Klub 5 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/722
 
-#EXTINF:-1 tvg-id="RO: TELEKOM SPORT 2" tvg-logo="noimage.png" group-title="SPORT", RO: TELEKOM SPORT 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1734
+#EXTINF:-1 tvg-id="SPORT: Arena Sport Premium 1 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT: Arena Sport Premium 1 (BIH)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49158
 
-#EXTINF:-1 tvg-id="RO: TELEKOM SPORT 3" tvg-logo="noimage.png" group-title="SPORT", RO: TELEKOM SPORT 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1735
+#EXTINF:-1 tvg-id="SPORT: Arena Sport Premium 2 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT: Arena Sport Premium 2 (BIH)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49159
 
-#EXTINF:-1 tvg-id=" Sport Klub 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT",  Sport Klub 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36521
+#EXTINF:-1 tvg-id="SPORT: Arena Sport Premium 3 (BIH)" tvg-logo="noimage.png" group-title="SPORT", SPORT: Arena Sport Premium 3 (BIH)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49160
 
-#EXTINF:-1 tvg-id=" Sport TV 1" tvg-logo="noimage.png" group-title="SPORT",  Sport TV 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36172
+#EXTINF:-1 tvg-id="Arenasport 1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", SPORT: ArenaSport 1 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/699
 
-#EXTINF:-1 tvg-id=" Sport TV 2" tvg-logo="noimage.png" group-title="SPORT",  Sport TV 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36173
+#EXTINF:-1 tvg-id="Arenasport 1 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", SPORT: ArenaSport 1 HR HD
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29070
 
-#EXTINF:-1 tvg-id=" Sport TV 3" tvg-logo="noimage.png" group-title="SPORT",  Sport TV 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36174
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", SPORT: ArenaSport 1 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/705
 
-#EXTINF:-1 tvg-id="Sport TR: beIN SPORTS Max 1" tvg-logo="noimage.png" group-title="SPORT", Sport TR: beIN SPORTS Max 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48034
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", SPORT: ArenaSport 1 SR (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29066
 
-#EXTINF:-1 tvg-id="Sport TR: beIN SPORTS Max 2" tvg-logo="noimage.png" group-title="SPORT", Sport TR: beIN SPORTS Max 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48035
+#EXTINF:-1 tvg-id="Arenasport 2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", SPORT: ArenaSport 2 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/700
 
-#EXTINF:-1 tvg-id=" Sport Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT",  Sport Klub 1 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/718
+#EXTINF:-1 tvg-id="Arenasport 2 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", SPORT: ArenaSport 2 HR HD
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29071
 
-#EXTINF:-1 tvg-id=" Sport Klub 4 HR" tvg-logo="noimage.png" group-title="SPORT",  Sport Klub 4 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/721
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", SPORT: ArenaSport 2 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/706
 
-#EXTINF:-1 tvg-id=" Sport Klub 5 HR" tvg-logo="noimage.png" group-title="SPORT",  Sport Klub 5 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/722
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", SPORT: ArenaSport 2 SR (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29067
 
-#EXTINF:-1 tvg-id="AL: K Sport 1" tvg-logo="noimage.png" group-title="SPORT", AL: K Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/878
+#EXTINF:-1 tvg-id="Arenasport 3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", SPORT: ArenaSport 3 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/701
 
-#EXTINF:-1 tvg-id="AL: K Sport 2" tvg-logo="noimage.png" group-title="SPORT", AL: K Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/879
+#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", SPORT: ArenaSport 3 HR HD
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29072
 
-#EXTINF:-1 tvg-id="AL: K Sport 3" tvg-logo="noimage.png" group-title="SPORT", AL: K Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/880
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", SPORT: ArenaSport 3 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/707
 
-#EXTINF:-1 tvg-id="AL: K Sport 4" tvg-logo="noimage.png" group-title="SPORT", AL: K Sport 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/881
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", SPORT: ArenaSport 3 SR (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29068
 
-#EXTINF:-1 tvg-id="AL: Super Sport 1" tvg-logo="noimage.png" group-title="SPORT", AL: Super Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/874
+#EXTINF:-1 tvg-id="Arenasport 4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", SPORT: ArenaSport 4 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/702
 
-#EXTINF:-1 tvg-id="AL: Super Sport 1" tvg-logo="noimage.png" group-title="SPORT", AL: Super Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/882
+#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", SPORT: ArenaSport 4 HR HD
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29073
 
-#EXTINF:-1 tvg-id="AL: Super Sport 2" tvg-logo="noimage.png" group-title="SPORT", AL: Super Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/875
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", SPORT: ArenaSport 4 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/708
 
-#EXTINF:-1 tvg-id="AL: Super Sport 2" tvg-logo="noimage.png" group-title="SPORT", AL: Super Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/883
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", SPORT: ArenaSport 4 SR (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29069
 
-#EXTINF:-1 tvg-id="AL: Super Sport 3" tvg-logo="noimage.png" group-title="SPORT", AL: Super Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/876
+#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", SPORT: ArenaSport 5 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/703
 
-#EXTINF:-1 tvg-id="AL: Super Sport 4" tvg-logo="noimage.png" group-title="SPORT", AL: Super Sport 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/877
+#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", SPORT: ArenaSport 5 HR HD
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29074
 
-#EXTINF:-1 tvg-id="AL: Tring Sport 1" tvg-logo="noimage.png" group-title="SPORT", AL: Tring Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/870
+#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", SPORT: ArenaSport 5 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/709
 
-#EXTINF:-1 tvg-id="AL: Tring Sport 2" tvg-logo="noimage.png" group-title="SPORT", AL: Tring Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/871
+#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="SPORT", SPORT: ArenaSport 6 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/710
 
-#EXTINF:-1 tvg-id="AL: Tring Sport 3" tvg-logo="noimage.png" group-title="SPORT", AL: Tring Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/872
+#EXTINF:-1 tvg-id="SPORT: ArenaSport BH" tvg-logo="noimage.png" group-title="SPORT", SPORT: ArenaSport BH
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/704
 
-#EXTINF:-1 tvg-id="AL: Tring Sport News" tvg-logo="noimage.png" group-title="SPORT", AL: Tring Sport News
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/873
+#EXTINF:-1 tvg-id="SPORT: ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="SPORT", SPORT: ARENA PREMIUM 2 (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40636
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 1" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/776
+#EXTINF:-1 tvg-id="SPORT: ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="SPORT", SPORT: ARENA PREMIUM 3 (HD)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40637
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 10" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 10
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/785
+#EXTINF:-1 tvg-id="SPORT: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", SPORT: Eurosport 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/723
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 2" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/777
+#EXTINF:-1 tvg-id="SPORT: Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", SPORT: Eurosport 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/724
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 3" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/778
+#EXTINF:-1 tvg-id="SPORT: FightClub" tvg-logo="noimage.png" group-title="SPORT", SPORT: FightClub
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/933
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 4" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/779
+#EXTINF:-1 tvg-id="SPORT: MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="SPORT", SPORT: MAX SPORT 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/41332
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 5" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/780
+#EXTINF:-1 tvg-id="SPORT: MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="SPORT", SPORT: MAX SPORT 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/41333
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 6" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 6
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/781
+#EXTINF:-1 tvg-id="SPORT: Sport Klub ESport" tvg-logo="noimage.png" group-title="SPORT", SPORT: Sport Klub ESport
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48038
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 7" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 7
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/782
+#EXTINF:-1 tvg-id="SPORT: Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORT", SPORT: Sport Klub Fight
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/848
 
-#EXTINF:-1 tvg-id="AR: BEIN Sports 9" tvg-logo="noimage.png" group-title="SPORT", AR: BEIN Sports 9
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/784
+#EXTINF:-1 tvg-id="fightchannel.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-klub-fight-hu-rs.png" group-title="SPORT", SPORT: Sport Klub Fight
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48037
 
-#EXTINF:-1 tvg-id="AR: Bein Sports News" tvg-logo="noimage.png" group-title="SPORT", AR: Bein Sports News
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/789
+#EXTINF:-1 tvg-id="SPORT: Sportska TV" tvg-logo="noimage.png" group-title="SPORT", SPORT: Sportska TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/884
 
-#EXTINF:-1 tvg-id="AR: OSN Ad Sport 1" tvg-logo="noimage.png" group-title="SPORT", AR: OSN Ad Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/912
+#EXTINF:-1 tvg-id="SPORT: Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="SPORT", SPORT: Fight Channel
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/931
 
-#EXTINF:-1 tvg-id="AR: OSN Ad Sport 2" tvg-logo="noimage.png" group-title="SPORT", AR: OSN Ad Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/913
+#EXTINF:-1 tvg-id="SPORT: Fight Network" tvg-logo="noimage.png" group-title="SPORT", SPORT: Fight Network
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/859
 
-#EXTINF:-1 tvg-id="AR: OSN Ad Sport 3" tvg-logo="noimage.png" group-title="SPORT", AR: OSN Ad Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/914
+#EXTINF:-1 tvg-id="SPORT: FightBox" tvg-logo="noimage.png" group-title="SPORT", SPORT: FightBox
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/856
 
-#EXTINF:-1 tvg-id="AR: OSN Ad Sport 4" tvg-logo="noimage.png" group-title="SPORT", AR: OSN Ad Sport 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/915
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", SPORT: Sport Klub 1 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/711
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 1 (BIH)" tvg-logo="noimage.png" group-title="SPORT", Arena Sport Premium 1 (BIH)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/49158
+#EXTINF:-1 tvg-id="SPORT: Sport Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", SPORT: Sport Klub 2 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/719
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 2 (BIH)" tvg-logo="noimage.png" group-title="SPORT", Arena Sport Premium 2 (BIH)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/49159
+#EXTINF:-1 tvg-id="SPORT: Sport Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", SPORT: Sport Klub 2 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/712
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 3 (BIH)" tvg-logo="noimage.png" group-title="SPORT", Arena Sport Premium 3 (BIH)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/49160
+#EXTINF:-1 tvg-id="SPORT: Sport Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", SPORT: Sport Klub 3 HR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/720
 
-#EXTINF:-1 tvg-id="Arenasport 1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/699
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", SPORT: Sport Klub 3 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/713
 
-#EXTINF:-1 tvg-id="Arenasport 1 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29070
+#EXTINF:-1 tvg-id="sportklub4.rs" tvg-logo="noimage.png" group-title="SPORT", SPORT: Sport Klub 4 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/714
 
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/705
+#EXTINF:-1 tvg-id="sportklub6.rs" tvg-logo="noimage.png" group-title="SPORT", SPORT: Sport Klub 6 SR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/716
 
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 SR (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29066
-
-#EXTINF:-1 tvg-id="Arenasport 2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/700
-
-#EXTINF:-1 tvg-id="Arenasport 2 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29071
-
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/706
-
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 SR (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29067
-
-#EXTINF:-1 tvg-id="Arenasport 3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/701
-
-#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29072
-
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/707
-
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 SR (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29068
-
-#EXTINF:-1 tvg-id="Arenasport 4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/702
-
-#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29073
-
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/708
-
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 SR (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29069
-
-#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", ArenaSport 5 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/703
-
-#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", ArenaSport 5 HR HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/29074
-
-#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", ArenaSport 5 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/709
-
-#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="SPORT", ArenaSport 6 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/710
-
-#EXTINF:-1 tvg-id="ArenaSport BH" tvg-logo="noimage.png" group-title="SPORT", ArenaSport BH
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/704
-
-#EXTINF:-1 tvg-id="AT: ORF Sport+" tvg-logo="noimage.png" group-title="SPORT", AT: ORF Sport+
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/752
-
-#EXTINF:-1 tvg-id="BG: Diema Sport 1" tvg-logo="noimage.png" group-title="SPORT", BG: Diema Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/936
-
-#EXTINF:-1 tvg-id="BG: Diema Sport 2" tvg-logo="noimage.png" group-title="SPORT", BG: Diema Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/937
-
-#EXTINF:-1 tvg-id="BG: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", BG: Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/934
-
-#EXTINF:-1 tvg-id="BG: Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", BG: Eurosport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/935
-
-#EXTINF:-1 tvg-id="BG: Nova Sport" tvg-logo="noimage.png" group-title="SPORT", BG: Nova Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/938
-
-#EXTINF:-1 tvg-id="BG: Ring TV" tvg-logo="noimage.png" group-title="SPORT", BG: Ring TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/940
-
-#EXTINF:-1 tvg-id="BG: Sport Plus" tvg-logo="noimage.png" group-title="SPORT", BG: Sport Plus
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/941
-
-#EXTINF:-1 tvg-id="DE: Auto Motor Sport" tvg-logo="noimage.png" group-title="SPORT", DE: Auto Motor Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/749
-
-#EXTINF:-1 tvg-id="DE: DAZN BAR 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="SPORT", DE: DAZN BAR 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/728
-
-#EXTINF:-1 tvg-id="DE: DAZN BAR 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-2-uk.svg" group-title="SPORT", DE: DAZN BAR 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/729
-
-#EXTINF:-1 tvg-id="DE: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", DE: Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/725
-
-#EXTINF:-1 tvg-id="DE: Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", DE: Eurosport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/726
-
-#EXTINF:-1 tvg-id="DE: Eurosport 2 Xtra" tvg-logo="noimage.png" group-title="SPORT", DE: Eurosport 2 Xtra
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/727
-
-#EXTINF:-1 tvg-id="DE: FC Bayern TV" tvg-logo="noimage.png" group-title="SPORT", DE: FC Bayern TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/750
-
-#EXTINF:-1 tvg-id="De: Motorvision" tvg-logo="noimage.png" group-title="SPORT", De: Motorvision
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/857
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S Bundesliga  6  (Nur bei Live Spiele)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/736
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S Bundesliga 1 (FHD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/731
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/732
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S Bundesliga 2 HD (Live Event)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/744
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S Bundesliga 3 (Nur bei Live Spiele)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/733
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S Bundesliga 4  (Nur bei Live Spiele)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/734
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S Bundesliga 5  (Nur bei Live Spiele)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/735
-
-#EXTINF:-1 tvg-id="DE: S Sport 1 HD [SPIELTAG]" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="SPORT", DE: S Sport 1 HD [SPIELTAG]
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/747
-
-#EXTINF:-1 tvg-id="DE: S Sport 1 HD+" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="SPORT", DE: S Sport 1 HD+
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/737
-
-#EXTINF:-1 tvg-id="DE: S Sport 2 FHD [SPIELTAG]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="SPORT", DE: S Sport 2 FHD [SPIELTAG]
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/746
-
-#EXTINF:-1 tvg-id="DE: S Sport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="SPORT", DE: S Sport 2 HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/738
-
-#EXTINF:-1 tvg-id="DE: S Sport 3 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport3.jpg" group-title="SPORT", DE: S Sport 3 (Live Event)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/739
-
-#EXTINF:-1 tvg-id="DE: S Sport 4 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_04.jpg" group-title="SPORT", DE: S Sport 4 (Live Event)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/740
-
-#EXTINF:-1 tvg-id="DE: S Sport 5  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_05.jpg" group-title="SPORT", DE: S Sport 5  (Live Event)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/741
-
-#EXTINF:-1 tvg-id="DE: S Sport 6  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_06.jpg" group-title="SPORT", DE: S Sport 6  (Live Event)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/742
-
-#EXTINF:-1 tvg-id="DE: S Sport 7 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_07.jpg" group-title="SPORT", DE: S Sport 7 (Live Event)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/743
-
-#EXTINF:-1 tvg-id="DE: S Sport News" tvg-logo="https://w7.pngwing.com/pngs/514/778/png-transparent-logo-sky-news-live-television-brand-television-channel-design-television-text-rectangle-thumbnail.png" group-title="SPORT", DE: S Sport News
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/730
-
-#EXTINF:-1 tvg-id="DE: S Sports Austria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="SPORT", DE: S Sports Austria
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/751
-
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="SPORT", DE: S-ky Sport Bundesliga 1 (matchdays only)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/745
-
-#EXTINF:-1 tvg-id="DE: Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_de_plus.jpg" group-title="SPORT", DE: Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/748
-
-#EXTINF:-1 tvg-id="DE: Sport Digital" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportdigital-fussball-de.png" group-title="SPORT", DE: Sport Digital
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/924
-
-#EXTINF:-1 tvg-id="ES: Barca TV" tvg-logo="noimage.png" group-title="SPORT", ES: Barca TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/943
-
-#EXTINF:-1 tvg-id="ES: beINSport" tvg-logo="noimage.png" group-title="SPORT", ES: beINSport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/946
-
-#EXTINF:-1 tvg-id="ES: EuroSport 1" tvg-logo="noimage.png" group-title="SPORT", ES: EuroSport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/942
-
-#EXTINF:-1 tvg-id="ES: Gol TV" tvg-logo="noimage.png" group-title="SPORT", ES: Gol TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/952
-
-#EXTINF:-1 tvg-id="ES: M Golf" tvg-logo="noimage.png" group-title="SPORT", ES: M Golf
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/949
-
-#EXTINF:-1 tvg-id="ES: Movistar LaLiga" tvg-logo="noimage.png" group-title="SPORT", ES: Movistar LaLiga
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/945
-
-#EXTINF:-1 tvg-id="ES: Real Madrid TV" tvg-logo="noimage.png" group-title="SPORT", ES: Real Madrid TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/944
-
-#EXTINF:-1 tvg-id="ARENA PREMIUM 1 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="SPORT", ARENA PREMIUM 1 (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40635
-
-#EXTINF:-1 tvg-id="Arena Premium 1 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="SPORT", Arena Premium 1 (SD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/46623
-
-#EXTINF:-1 tvg-id="ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="SPORT", ARENA PREMIUM 2 (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40636
-
-#EXTINF:-1 tvg-id="Arena Premium 2 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="SPORT", Arena Premium 2 (SD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/46624
-
-#EXTINF:-1 tvg-id="ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="SPORT", ARENA PREMIUM 3 (HD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/40637
-
-#EXTINF:-1 tvg-id="Arena Premium 3 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="SPORT", Arena Premium 3 (SD)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/46625
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/723
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", Eurosport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/724
-
-#EXTINF:-1 tvg-id="FightClub" tvg-logo="noimage.png" group-title="SPORT", FightClub
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/933
-
-#EXTINF:-1 tvg-id="MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="SPORT", MAX SPORT 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/41332
-
-#EXTINF:-1 tvg-id="MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="SPORT", MAX SPORT 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/41333
-
-#EXTINF:-1 tvg-id="Sport Klub ESport" tvg-logo="noimage.png" group-title="SPORT", Sport Klub ESport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48038
-
-#EXTINF:-1 tvg-id="fightchannel.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-klub-fight-hu-rs.png" group-title="SPORT", Sport Klub Fight
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48037
-
-#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORT", Sport Klub Fight
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/848
-
-#EXTINF:-1 tvg-id="Sportska TV" tvg-logo="noimage.png" group-title="SPORT", Sportska TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/884
-
-#EXTINF:-1 tvg-id="Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="SPORT", Fight Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/931
-
-#EXTINF:-1 tvg-id="Fight Network" tvg-logo="noimage.png" group-title="SPORT", Fight Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/859
-
-#EXTINF:-1 tvg-id="FightBox" tvg-logo="noimage.png" group-title="SPORT", FightBox
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/856
-
-#EXTINF:-1 tvg-id="FR: BEIN Sports 1" tvg-logo="noimage.png" group-title="SPORT", FR: BEIN Sports 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/790
-
-#EXTINF:-1 tvg-id="FR: BEIN Sports 2" tvg-logo="noimage.png" group-title="SPORT", FR: BEIN Sports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/791
-
-#EXTINF:-1 tvg-id="FR: BEIN Sports 3" tvg-logo="noimage.png" group-title="SPORT", FR: BEIN Sports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/792
-
-#EXTINF:-1 tvg-id="FR: Canal+  Sport" tvg-logo="noimage.png" group-title="SPORT", FR: Canal+  Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/793
-
-#EXTINF:-1 tvg-id="FR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", FR: Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/794
-
-#EXTINF:-1 tvg-id="FR: Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", FR: Eurosport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/795
-
-#EXTINF:-1 tvg-id="FR: GOLF" tvg-logo="noimage.png" group-title="SPORT", FR: GOLF
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/796
-
-#EXTINF:-1 tvg-id="FR: InfoSport" tvg-logo="noimage.png" group-title="SPORT", FR: InfoSport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/797
-
-#EXTINF:-1 tvg-id="FR: RMC Sport 1" tvg-logo="noimage.png" group-title="SPORT", FR: RMC Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/798
-
-#EXTINF:-1 tvg-id="FR: RMC Sport 2" tvg-logo="noimage.png" group-title="SPORT", FR: RMC Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/799
-
-#EXTINF:-1 tvg-id="FR: RMC Sport 3" tvg-logo="noimage.png" group-title="SPORT", FR: RMC Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/800
-
-#EXTINF:-1 tvg-id="FR: RMC Sport 4" tvg-logo="noimage.png" group-title="SPORT", FR: RMC Sport 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/801
-
-#EXTINF:-1 tvg-id="FR: RMC Sport News" tvg-logo="noimage.png" group-title="SPORT", FR: RMC Sport News
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/802
-
-#EXTINF:-1 tvg-id="IT:  AUTO MOTO TV" tvg-logo="noimage.png" group-title="SPORT", IT:  AUTO MOTO TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1489
-
-#EXTINF:-1 tvg-id="IT: Eurosport 1" tvg-logo="noimage.png" group-title="SPORT", IT: Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1478
-
-#EXTINF:-1 tvg-id="IT: EUROSPORT 2 HD" tvg-logo="noimage.png" group-title="SPORT", IT: EUROSPORT 2 HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1479
-
-#EXTINF:-1 tvg-id="IT: PREMIUM SPORT HD" tvg-logo="noimage.png" group-title="SPORT", IT: PREMIUM SPORT HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1480
-
-#EXTINF:-1 tvg-id="IT: Rai Sport 1" tvg-logo="noimage.png" group-title="SPORT", IT: Rai Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1484
-
-#EXTINF:-1 tvg-id="IT: S SPORT 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="SPORT", IT: S SPORT 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1487
-
-#EXTINF:-1 tvg-id="IT: S Sport 24" tvg-logo="noimage.png" group-title="SPORT", IT: S Sport 24
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1475
-
-#EXTINF:-1 tvg-id="IT: S SPORT F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="SPORT", IT: S SPORT F1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1477
-
-#EXTINF:-1 tvg-id="IT: S Sport Moto GP" tvg-logo="noimage.png" group-title="SPORT", IT: S Sport Moto GP
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1483
-
-#EXTINF:-1 tvg-id="IT: S Sport Uno" tvg-logo="noimage.png" group-title="SPORT", IT: S Sport Uno
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1486
-
-#EXTINF:-1 tvg-id="IT: Sport Italia" tvg-logo="noimage.png" group-title="SPORT", IT: Sport Italia
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1473
-
-#EXTINF:-1 tvg-id="IT: Super Tennis" tvg-logo="noimage.png" group-title="SPORT", IT: Super Tennis
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1474
-
-#EXTINF:-1 tvg-id="Kombat Sport" tvg-logo="noimage.png" group-title="SPORT", Kombat Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/788
-
-#EXTINF:-1 tvg-id="NL:  Ziggo Sport" tvg-logo="noimage.png" group-title="SPORT", NL:  Ziggo Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/906
-
-#EXTINF:-1 tvg-id="NL:  Ziggo Sport 4" tvg-logo="noimage.png" group-title="SPORT", NL:  Ziggo Sport 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/907
-
-#EXTINF:-1 tvg-id="NL:  Ziggo Sport 6" tvg-logo="noimage.png" group-title="SPORT", NL:  Ziggo Sport 6
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/909
-
-#EXTINF:-1 tvg-id="NL: Eurosport 1" tvg-logo="noimage.png" group-title="SPORT", NL: Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/911
-
-#EXTINF:-1 tvg-id="NL: Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", NL: Eurosport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39155
-
-#EXTINF:-1 tvg-id="NL: Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="SPORT", NL: Fox Sports 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/900
-
-#EXTINF:-1 tvg-id="NL: Fox Sports 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="SPORT", NL: Fox Sports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/901
-
-#EXTINF:-1 tvg-id="NL: Fox Sports 3" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="SPORT", NL: Fox Sports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/902
-
-#EXTINF:-1 tvg-id="NL: Fox Sports 4" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="SPORT", NL: Fox Sports 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/903
-
-#EXTINF:-1 tvg-id="NL: Ziggo Sport 2" tvg-logo="noimage.png" group-title="SPORT", NL: Ziggo Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/905
-
-#EXTINF:-1 tvg-id="NL: Ziggo Sport 3" tvg-logo="noimage.png" group-title="SPORT", NL: Ziggo Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/908
-
-#EXTINF:-1 tvg-id="NL: Ziggo Sport 5" tvg-logo="noimage.png" group-title="SPORT", NL: Ziggo Sport 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/910
-
-#EXTINF:-1 tvg-id="PL: Canal Sport 3" tvg-logo="noimage.png" group-title="SPORT", PL: Canal Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/928
-
-#EXTINF:-1 tvg-id="PL: Eleven Sports 2" tvg-logo="noimage.png" group-title="SPORT", PL: Eleven Sports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/929
-
-#EXTINF:-1 tvg-id="PL: Eleven Sports 4" tvg-logo="noimage.png" group-title="SPORT", PL: Eleven Sports 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/927
-
-#EXTINF:-1 tvg-id="PL: Polsat Sport Extra" tvg-logo="noimage.png" group-title="SPORT", PL: Polsat Sport Extra
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/926
-
-#EXTINF:-1 tvg-id="PL: TVP Sport" tvg-logo="noimage.png" group-title="SPORT", PL: TVP Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/932
-
-#EXTINF:-1 tvg-id="PT: Sport TV 1" tvg-logo="noimage.png" group-title="SPORT", PT: Sport TV 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/917
-
-#EXTINF:-1 tvg-id="PT: Sport TV 2" tvg-logo="noimage.png" group-title="SPORT", PT: Sport TV 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/918
-
-#EXTINF:-1 tvg-id="PT: Sport TV 3" tvg-logo="noimage.png" group-title="SPORT", PT: Sport TV 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/919
-
-#EXTINF:-1 tvg-id="PT: Sport TV 4" tvg-logo="noimage.png" group-title="SPORT", PT: Sport TV 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/920
-
-#EXTINF:-1 tvg-id="PT: Sport TV 5" tvg-logo="noimage.png" group-title="SPORT", PT: Sport TV 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/921
-
-#EXTINF:-1 tvg-id="PT: Sport tv NBA" tvg-logo="noimage.png" group-title="SPORT", PT: Sport tv NBA
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/861
-
-#EXTINF:-1 tvg-id="PT: Sporting TV" tvg-logo="noimage.png" group-title="SPORT", PT: Sporting TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/916
-
-#EXTINF:-1 tvg-id="RO: Digi Sport 1" tvg-logo="noimage.png" group-title="SPORT", RO: Digi Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/955
-
-#EXTINF:-1 tvg-id="RO: Digi Sport 2" tvg-logo="noimage.png" group-title="SPORT", RO: Digi Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/956
-
-#EXTINF:-1 tvg-id="RO: Digi Sport 3" tvg-logo="noimage.png" group-title="SPORT", RO: Digi Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/957
-
-#EXTINF:-1 tvg-id="RO: Digi Sport 4" tvg-logo="noimage.png" group-title="SPORT", RO: Digi Sport 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/958
-
-#EXTINF:-1 tvg-id="RO: EuroSport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", RO: EuroSport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/922
-
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", Sport Klub 1 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/711
-
-#EXTINF:-1 tvg-id="Sport Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/719
-
-#EXTINF:-1 tvg-id="Sport Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/712
-
-#EXTINF:-1 tvg-id="Sport Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", Sport Klub 3 HR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/720
-
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", Sport Klub 3 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/713
-
-#EXTINF:-1 tvg-id="sportklub4.rs" tvg-logo="noimage.png" group-title="SPORT", Sport Klub 4 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/714
-
-#EXTINF:-1 tvg-id="sportklub5.rs" tvg-logo="noimage.png" group-title="SPORT", Sport Klub 5 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/715
-
-#EXTINF:-1 tvg-id="sportklub6.rs" tvg-logo="noimage.png" group-title="SPORT", Sport Klub 6 SR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/716
-
-#EXTINF:-1 tvg-id="sportgolf.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="SPORT", Sport Klub Golf
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/717
-
-#EXTINF:-1 tvg-id="TR:  A Spor" tvg-logo="noimage.png" group-title="SPORT", TR:  A Spor
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/815
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 1" tvg-logo="noimage.png" group-title="SPORT", TR: Bein Sports 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/805
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 2" tvg-logo="noimage.png" group-title="SPORT", TR: Bein Sports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/806
-
-#EXTINF:-1 tvg-id="TR: Bein Sports 3" tvg-logo="noimage.png" group-title="SPORT", TR: Bein Sports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/807
-
-#EXTINF:-1 tvg-id="TR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", TR: Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/803
-
-#EXTINF:-1 tvg-id="TR: Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", TR: Eurosport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/804
-
-#EXTINF:-1 tvg-id="TR: Fb Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fbtv_fenerbahce.jpg" group-title="SPORT", TR: Fb Tv
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/817
-
-#EXTINF:-1 tvg-id="TR: S-Sport" tvg-logo="noimage.png" group-title="SPORT", TR: S-Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/810
-
-#EXTINF:-1 tvg-id="TR: Smart Spor" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/smart_spor.jpg" group-title="SPORT", TR: Smart Spor
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/809
-
-#EXTINF:-1 tvg-id="TR: Tivibuspor 1" tvg-logo="noimage.png" group-title="SPORT", TR: Tivibuspor 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/811
-
-#EXTINF:-1 tvg-id="TR: TivibuSpor 2" tvg-logo="noimage.png" group-title="SPORT", TR: TivibuSpor 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/812
-
-#EXTINF:-1 tvg-id="TR: TivibuSpor 3" tvg-logo="noimage.png" group-title="SPORT", TR: TivibuSpor 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/813
-
-#EXTINF:-1 tvg-id="TR: TRT Spor" tvg-logo="noimage.png" group-title="SPORT", TR: TRT Spor
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/816
-
-#EXTINF:-1 tvg-id="UK:  At The Races" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/at_the_races_ie.jpg" group-title="SPORT", UK:  At The Races
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/862
-
-#EXTINF:-1 tvg-id="UK: BoxNation" tvg-logo="noimage.png" group-title="SPORT", UK: BoxNation
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/855
-
-#EXTINF:-1 tvg-id="UK: Dubai Racing" tvg-logo="noimage.png" group-title="SPORT", UK: Dubai Racing
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/863
-
-#EXTINF:-1 tvg-id="UK: Dubai Sports" tvg-logo="noimage.png" group-title="SPORT", UK: Dubai Sports
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/864
-
-#EXTINF:-1 tvg-id="UK: Dubai Sports 3" tvg-logo="noimage.png" group-title="SPORT", UK: Dubai Sports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/865
-
-#EXTINF:-1 tvg-id="UK: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", UK: Eurosport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/768
-
-#EXTINF:-1 tvg-id="UK: Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", UK: Eurosport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/769
-
-#EXTINF:-1 tvg-id="UK: FC Liverpool  TV" tvg-logo="noimage.png" group-title="SPORT", UK: FC Liverpool  TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/774
-
-#EXTINF:-1 tvg-id="UK: FC Manchester United (MUTV)" tvg-logo="noimage.png" group-title="SPORT", UK: FC Manchester United (MUTV)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/775
-
-#EXTINF:-1 tvg-id="UK: Fight Channel World" tvg-logo="noimage.png" group-title="SPORT", UK: Fight Channel World
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/858
-
-#EXTINF:-1 tvg-id="UK: Fight Sport" tvg-logo="noimage.png" group-title="SPORT", UK: Fight Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/860
-
-#EXTINF:-1 tvg-id="UK: Fox Sports News" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="SPORT", UK: Fox Sports News
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/950
-
-#EXTINF:-1 tvg-id="UK: Motor Trend" tvg-logo="noimage.png" group-title="SPORT", UK: Motor Trend
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/953
-
-#EXTINF:-1 tvg-id="UK: MotorSport TV" tvg-logo="noimage.png" group-title="SPORT", UK: MotorSport TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/868
-
-#EXTINF:-1 tvg-id="UK: Premier Sports" tvg-logo="noimage.png" group-title="SPORT", UK: Premier Sports
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/772
-
-#EXTINF:-1 tvg-id="UK: Racing UK" tvg-logo="noimage.png" group-title="SPORT", UK: Racing UK
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/866
-
-#EXTINF:-1 tvg-id="US: AFN Sport" tvg-logo="noimage.png" group-title="SPORT", US: AFN Sport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/819
-
-#EXTINF:-1 tvg-id="US: BEIN Sports" tvg-logo="noimage.png" group-title="SPORT", US: BEIN Sports
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/818
-
-#EXTINF:-1 tvg-id="US: CBS Sports" tvg-logo="noimage.png" group-title="SPORT", US: CBS Sports
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/831
-
-#EXTINF:-1 tvg-id="US: ESPN 1" tvg-logo="noimage.png" group-title="SPORT", US: ESPN 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/960
-
-#EXTINF:-1 tvg-id="US: ESPN 2" tvg-logo="noimage.png" group-title="SPORT", US: ESPN 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/824
-
-#EXTINF:-1 tvg-id="US: ESPN News" tvg-logo="noimage.png" group-title="SPORT", US: ESPN News
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/823
-
-#EXTINF:-1 tvg-id="US: ESPN U" tvg-logo="noimage.png" group-title="SPORT", US: ESPN U
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/961
-
-#EXTINF:-1 tvg-id="US: Fox Soccer Plus" tvg-logo="noimage.png" group-title="SPORT", US: Fox Soccer Plus
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/822
-
-#EXTINF:-1 tvg-id="US: Fox Sport 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="SPORT", US: Fox Sport 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/820
-
-#EXTINF:-1 tvg-id="US: Fox Sport 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="SPORT", US: Fox Sport 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/821
-
-#EXTINF:-1 tvg-id="US: MLB Network" tvg-logo="noimage.png" group-title="SPORT", US: MLB Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/847
-
-#EXTINF:-1 tvg-id="US: NBA" tvg-logo="noimage.png" group-title="SPORT", US: NBA
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/826
-
-#EXTINF:-1 tvg-id="US: NBC Golf" tvg-logo="noimage.png" group-title="SPORT", US: NBC Golf
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/842
-
-#EXTINF:-1 tvg-id="US: NBC Sports Chicago" tvg-logo="noimage.png" group-title="SPORT", US: NBC Sports Chicago
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/888
-
-#EXTINF:-1 tvg-id="US: NBC Sports Network" tvg-logo="noimage.png" group-title="SPORT", US: NBC Sports Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/867
-
-#EXTINF:-1 tvg-id="US: NFL" tvg-logo="noimage.png" group-title="SPORT", US: NFL
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/827
-
-#EXTINF:-1 tvg-id="US: NFL Network" tvg-logo="noimage.png" group-title="SPORT", US: NFL Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/829
-
-#EXTINF:-1 tvg-id="US: NFL Red Zone" tvg-logo="noimage.png" group-title="SPORT", US: NFL Red Zone
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/830
-
-#EXTINF:-1 tvg-id="US: OWN" tvg-logo="noimage.png" group-title="SPORT", US: OWN
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/959
-
-#EXTINF:-1 tvg-id="US: PAC-12 Bay Area" tvg-logo="noimage.png" group-title="SPORT", US: PAC-12 Bay Area
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/838
-
-#EXTINF:-1 tvg-id="US: PAC-12 Los Angeles" tvg-logo="noimage.png" group-title="SPORT", US: PAC-12 Los Angeles
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/839
-
-#EXTINF:-1 tvg-id="US: Sony Ten Sport 3" tvg-logo="noimage.png" group-title="SPORT", US: Sony Ten Sport 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/894
-
-#EXTINF:-1 tvg-id="US: Sportsnet One" tvg-logo="noimage.png" group-title="SPORT", US: Sportsnet One
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/849
-
-#EXTINF:-1 tvg-id="US: SportsNet Ontario" tvg-logo="noimage.png" group-title="SPORT", US: SportsNet Ontario
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/892
-
-#EXTINF:-1 tvg-id="US: Tennis Channel" tvg-logo="noimage.png" group-title="SPORT", US: Tennis Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/853
-
-#EXTINF:-1 tvg-id="US: TSN 1" tvg-logo="noimage.png" group-title="SPORT", US: TSN 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/832
-
-#EXTINF:-1 tvg-id="US: TSN 2" tvg-logo="noimage.png" group-title="SPORT", US: TSN 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/833
-
-#EXTINF:-1 tvg-id="US: TSN 3" tvg-logo="noimage.png" group-title="SPORT", US: TSN 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/834
-
-#EXTINF:-1 tvg-id="US: TSN 4" tvg-logo="noimage.png" group-title="SPORT", US: TSN 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/835
-
-#EXTINF:-1 tvg-id="US: TyC Sports" tvg-logo="noimage.png" group-title="SPORT", US: TyC Sports
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/852
-
-#EXTINF:-1 tvg-id="US: Willow Cricket" tvg-logo="noimage.png" group-title="SPORT", US: Willow Cricket
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/851
-
-#EXTINF:-1 tvg-id="US: WWE Network" tvg-logo="noimage.png" group-title="SPORT", US: WWE Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/854
-
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 1" tvg-logo="noimage.png" group-title="SPORT", Sprt: NL: ESPN Nederland 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39149
-
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 2" tvg-logo="noimage.png" group-title="SPORT", Sprt: NL: ESPN Nederland 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39150
-
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 3" tvg-logo="noimage.png" group-title="SPORT", Sprt: NL: ESPN Nederland 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39151
-
-#EXTINF:-1 tvg-id="Sprt: NL: ESPN Nederland 4" tvg-logo="noimage.png" group-title="SPORT", Sprt: NL: ESPN Nederland 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39152
-
-#EXTINF:-1 tvg-id="Swiss: MySports" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6709
-
-#EXTINF:-1 tvg-id="Swiss: MySports 1" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6701
-
-#EXTINF:-1 tvg-id="Swiss: MySports 2" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6702
-
-#EXTINF:-1 tvg-id="Swiss: MySports 3" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6703
-
-#EXTINF:-1 tvg-id="Swiss: MySports 4" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6704
-
-#EXTINF:-1 tvg-id="Swiss: MySports 5" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6705
-
-#EXTINF:-1 tvg-id="Swiss: MySports 6" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 6
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6706
-
-#EXTINF:-1 tvg-id="Swiss: MySports 7" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 7
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6707
-
-#EXTINF:-1 tvg-id="Swiss: MySports 8" tvg-logo="noimage.png" group-title="SPORT", Swiss: MySports 8
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6708
-
-#EXTINF:-1 tvg-id="TR: Sports TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sports_tv_tr.jpg" group-title="SPORT", TR: Sports TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1641
-
-#EXTINF:-1 tvg-id="US: NHL Network" tvg-logo="noimage.png" group-title="SPORT", US: NHL Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/21002
-
-#EXTINF:-1 tvg-id="US: World Poker Tour" tvg-logo="noimage.png" group-title="SPORT", US: World Poker Tour
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36526
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Action" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Action
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6275
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Blitz" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Blitz
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36179
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Cricket" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Cricket
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6269
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Grandstand" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Grandstand
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6272
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Maximo 1" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Maximo 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6274
-
-#EXTINF:-1 tvg-id="ZA: SuperSport MotorSport" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport MotorSport
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6276
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Premier League" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Premier League
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/6278
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Variety 1" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Variety 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36176
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Variety 2" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Variety 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36177
-
-#EXTINF:-1 tvg-id="ZA: SuperSport Variety 4" tvg-logo="noimage.png" group-title="SPORT", ZA: SuperSport Variety 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36178
-
-#EXTINF:-1 tvg-id="  Baby Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="DJEČJI",   Baby Tv
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1085
-
-#EXTINF:-1 tvg-id=" AL: Bang Bang" tvg-logo="noimage.png" group-title="DJEČJI",  AL: Bang Bang
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1102
-
-#EXTINF:-1 tvg-id=" AL: Cufo" tvg-logo="noimage.png" group-title="DJEČJI",  AL: Cufo
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1106
-
-#EXTINF:-1 tvg-id=" AL: Junior" tvg-logo="noimage.png" group-title="DJEČJI",  AL: Junior
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1104
-
-#EXTINF:-1 tvg-id=" AL: TIP TV" tvg-logo="noimage.png" group-title="DJEČJI",  AL: TIP TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1103
-
-#EXTINF:-1 tvg-id=" AL: Tring Tring" tvg-logo="noimage.png" group-title="DJEČJI",  AL: Tring Tring
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1105
-
-#EXTINF:-1 tvg-id=" DE: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="DJEČJI",  DE: Boomerang
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1071
-
-#EXTINF:-1 tvg-id=" DE: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="DJEČJI",  DE: Cartoon Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1072
-
-#EXTINF:-1 tvg-id=" DE: Disney Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.png" group-title="DJEČJI",  DE: Disney Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1075
-
-#EXTINF:-1 tvg-id=" DE: Disney Cinemagic" tvg-logo="noimage.png" group-title="DJEČJI",  DE: Disney Cinemagic
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1076
-
-#EXTINF:-1 tvg-id=" DE: KIKA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kika-de.svg" group-title="DJEČJI",  DE: KIKA
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1073
-
-#EXTINF:-1 tvg-id=" DE: Nickelodeon AT" tvg-logo="noimage.png" group-title="DJEČJI",  DE: Nickelodeon AT
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1077
-
-#EXTINF:-1 tvg-id=" DE: Super RTL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/super_rtl_de.jpg" group-title="DJEČJI",  DE: Super RTL
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1079
-
-#EXTINF:-1 tvg-id=" DE: TOGGO plus" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toggo-de.png" group-title="DJEČJI",  DE: TOGGO plus
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1078
-
-#EXTINF:-1 tvg-id=" Dexy TV" tvg-logo="noimage.png" group-title="DJEČJI",  Dexy TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1718
-
-#EXTINF:-1 tvg-id=" DK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="DJEČJI",  DK: Disney XD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1099
-
-#EXTINF:-1 tvg-id=" Disney Channel" tvg-logo="noimage.png" group-title="DJEČJI",  Disney Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1083
-
-#EXTINF:-1 tvg-id=" Nick JR" tvg-logo="noimage.png" group-title="DJEČJI",  Nick JR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1082
-
-#EXTINF:-1 tvg-id=" Nickelodeon" tvg-logo="noimage.png" group-title="DJEČJI",  Nickelodeon
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1084
-
-#EXTINF:-1 tvg-id=" Pikaboo" tvg-logo="noimage.png" group-title="DJEČJI",  Pikaboo
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1080
-
-#EXTINF:-1 tvg-id=" Pink Kids" tvg-logo="noimage.png" group-title="DJEČJI",  Pink Kids
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1086
-
-#EXTINF:-1 tvg-id=" Rtl Kockica" tvg-logo="noimage.png" group-title="DJEČJI",  Rtl Kockica
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1081
-
-#EXTINF:-1 tvg-id=" PINK PANTHER" tvg-logo="noimage.png" group-title="DJEČJI",  PINK PANTHER
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1089
-
-#EXTINF:-1 tvg-id=" SE: Cartoonito" tvg-logo="noimage.png" group-title="DJEČJI",  SE: Cartoonito
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1093
-
-#EXTINF:-1 tvg-id=" SE: Disney Channel" tvg-logo="noimage.png" group-title="DJEČJI",  SE: Disney Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1092
-
-#EXTINF:-1 tvg-id=" SE: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="DJEČJI",  SE: Disney Junior
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1094
-
-#EXTINF:-1 tvg-id=" SE: Nick JR" tvg-logo="noimage.png" group-title="DJEČJI",  SE: Nick JR
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1096
-
-#EXTINF:-1 tvg-id=" SE: Nickelodeon" tvg-logo="noimage.png" group-title="DJEČJI",  SE: Nickelodeon
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1097
-
-#EXTINF:-1 tvg-id=" Tom & Jerry" tvg-logo="noimage.png" group-title="DJEČJI",  Tom & Jerry
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1090
-
-#EXTINF:-1 tvg-id=" TR: Cartoonito" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_de.jpg" group-title="DJEČJI",  TR: Cartoonito
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1059
-
-#EXTINF:-1 tvg-id=" UK: Baby First TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="DJEČJI",  UK: Baby First TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1065
-
-#EXTINF:-1 tvg-id=" UK: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="DJEČJI",  UK: Boomerang
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1058
-
-#EXTINF:-1 tvg-id=" UK: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="DJEČJI",  UK: Cartoon Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1056
-
-#EXTINF:-1 tvg-id=" UK: CBeebies" tvg-logo="noimage.png" group-title="DJEČJI",  UK: CBeebies
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1068
-
-#EXTINF:-1 tvg-id=" UK: Disney Channel" tvg-logo="noimage.png" group-title="DJEČJI",  UK: Disney Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1060
-
-#EXTINF:-1 tvg-id=" UK: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="DJEČJI",  UK: Disney Junior
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1061
-
-#EXTINF:-1 tvg-id=" UK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="DJEČJI",  UK: Disney XD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1062
-
-#EXTINF:-1 tvg-id=" UK: Nick Jr" tvg-logo="noimage.png" group-title="DJEČJI",  UK: Nick Jr
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1063
-
-#EXTINF:-1 tvg-id=" UK: Nickelodeon" tvg-logo="noimage.png" group-title="DJEČJI",  UK: Nickelodeon
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1066
-
-#EXTINF:-1 tvg-id=" UK: Nicktoons" tvg-logo="noimage.png" group-title="DJEČJI",  UK: Nicktoons
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1064
-
-#EXTINF:-1 tvg-id=" UK: POP Max" tvg-logo="noimage.png" group-title="DJEČJI",  UK: POP Max
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1088
-
-#EXTINF:-1 tvg-id=" UK: Tiny Pop" tvg-logo="noimage.png" group-title="DJEČJI",  UK: Tiny Pop
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1070
-
-#EXTINF:-1 tvg-id=" US: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="DJEČJI",  US: Cartoon Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1057
-
-#EXTINF:-1 tvg-id="DK: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="DJEČJI", DK: Cartoon Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1436
-
-#EXTINF:-1 tvg-id="DK: Disney Channel" tvg-logo="noimage.png" group-title="DJEČJI", DK: Disney Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/635
-
-#EXTINF:-1 tvg-id="DK: Nickelodeon" tvg-logo="noimage.png" group-title="DJEČJI", DK: Nickelodeon
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1432
-
-#EXTINF:-1 tvg-id="Mini Ultra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mini_ultra_rs.jpg" group-title="DJEČJI", Mini Ultra
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1087
-
-#EXTINF:-1 tvg-id="SE: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="DJEČJI", SE: Cartoon Network
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/21573
+#EXTINF:-1 tvg-id="sportgolf.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="SPORT", SPORT: Sport Klub Golf
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/717
 
 #EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-kitchen.svg" group-title="DOKU", 24 Kitchen
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1150
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1150
 
 #EXTINF:-1 tvg-id="animalplanet.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" group-title="DOKU", Animal Planet
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1148
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1148
+
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="noimage.png" group-title="DOKU", BBC Earth
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39852
 
 #EXTINF:-1 tvg-id="crimeandinvestigation.rs" tvg-logo="noimage.png" group-title="DOKU", Crime & Investigation
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1140
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1140
 
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/da_vinci_learning.jpg" group-title="DOKU", Da Vinci Learning
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1155
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1155
 
 #EXTINF:-1 tvg-id="discoverychannel.rs" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="DOKU", Discovery Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1145
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1145
 
 #EXTINF:-1 tvg-id="Discovery DTX" tvg-logo="noimage.png" group-title="DOKU", Discovery DTX
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39139
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39139
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="DOKU", Discovery Science
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1147
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1147
 
 #EXTINF:-1 tvg-id="DocuBox" tvg-logo="noimage.png" group-title="DOKU", DocuBox
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1144
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1144
 
 #EXTINF:-1 tvg-id="DokuTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/doku-tv-hr.png" group-title="DOKU", DokuTV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/38581
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/38581
 
 #EXTINF:-1 tvg-id="history2.rs" tvg-logo="noimage.png" group-title="DOKU", History 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1149
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1149
 
 #EXTINF:-1 tvg-id="history.rs" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="DOKU", History Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1138
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1138
 
 #EXTINF:-1 tvg-id="discoveryidxtra.rs" tvg-logo="https://w7.pngwing.com/pngs/58/935/png-transparent-investigation-discovery-television-show-television-channel-logo-id-thumbnail.png" group-title="DOKU", ID Xtra
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1139
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1139
 
 #EXTINF:-1 tvg-id="loviribolov.rs" tvg-logo="noimage.png" group-title="DOKU", Lov & Ribolov
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1141
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1141
 
 #EXTINF:-1 tvg-id="nationalgeographic.rs" tvg-logo="noimage.png" group-title="DOKU", National Geographic
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1136
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1136
 
 #EXTINF:-1 tvg-id="natgeowild.rs" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="DOKU", National Geographic Wild
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1137
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1137
 
 #EXTINF:-1 tvg-id="travelchannel.rs" tvg-logo="noimage.png" group-title="DOKU", Travel Channel
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1159
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1159
 
 #EXTINF:-1 tvg-id="viasatexplore.rs" tvg-logo="noimage.png" group-title="DOKU", Viasat Explore
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1151
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1151
 
 #EXTINF:-1 tvg-id="viasathistory.rs" tvg-logo="noimage.png" group-title="DOKU", Viasat History
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1152
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1152
 
 #EXTINF:-1 tvg-id="viasatnature.rs" tvg-logo="noimage.png" group-title="DOKU", Viasat Nature
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1153
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1153
+
+#EXTINF:-1 tvg-id="CAR: Disney Channel" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Disney Channel
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1083
+
+#EXTINF:-1 tvg-id="CAR: Nick JR" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Nick JR
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1082
+
+#EXTINF:-1 tvg-id="CAR: Nickelodeon" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Nickelodeon
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1084
+
+#EXTINF:-1 tvg-id="CAR: Pikaboo" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Pikaboo
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1080
+
+#EXTINF:-1 tvg-id="CAR: Pink Kids" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Pink Kids
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1086
+
+#EXTINF:-1 tvg-id="CAR: Rtl Kockica" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Rtl Kockica
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1081
+
+#EXTINF:-1 tvg-id="CAR: PINK PANTHER" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: PINK PANTHER
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1089
+
+#EXTINF:-1 tvg-id="CAR: Tom & Jerry" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Tom & Jerry
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1090
+
+#EXTINF:-1 tvg-id="CAR: UK: Baby First TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="DJEČIJI", CAR: UK: Baby First TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1065
+
+#EXTINF:-1 tvg-id="CAR: US: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="DJEČIJI", CAR: US: Cartoon Network
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1057
+
+#EXTINF:-1 tvg-id="CAR:Mini Ultra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mini_ultra_rs.jpg" group-title="DJEČIJI", CAR:Mini Ultra
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1087
+
+#EXTINF:-1 tvg-id=" Cine+ Select 8" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI",  Cine+ Select 8
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46613
 
 #EXTINF:-1 tvg-id=" M1 Film" tvg-logo="noimage.png" group-title="FILMSKI",  M1 Film
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1178
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1178
 
 #EXTINF:-1 tvg-id="axn.rs" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle-thumbnail.png" group-title="FILMSKI", AXN
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1171
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1171
 
 #EXTINF:-1 tvg-id="axnspin.rs" tvg-logo="noimage.png" group-title="FILMSKI", AXN Spin
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1172
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1172
+
+#EXTINF:-1 tvg-id="Cine+ Select 1" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40677
+
+#EXTINF:-1 tvg-id="Cine+ Select 10" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 10
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40686
+
+#EXTINF:-1 tvg-id="Cine+ Select 2" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40687
+
+#EXTINF:-1 tvg-id="Cine+ Select 3" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI", Cine+ Select 3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46614
+
+#EXTINF:-1 tvg-id="Cine+ Select 4" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI", Cine+ Select 4
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46611
+
+#EXTINF:-1 tvg-id="Cine+ Select 5" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI", Cine+ Select 5
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46610
+
+#EXTINF:-1 tvg-id="Cine+ Select 6" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 6
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40682
+
+#EXTINF:-1 tvg-id="Cine+ Select 7" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 7
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40683
+
+#EXTINF:-1 tvg-id="Cine+ Select 9" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 9
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40685
 
 #EXTINF:-1 tvg-id="cinemania.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemania-rs.png" group-title="FILMSKI", Cinemania
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/38580
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/38580
 
 #EXTINF:-1 tvg-id="cinemaxhd.rs" tvg-logo="noimage.png" group-title="FILMSKI", Cinemax 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1175
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1175
 
 #EXTINF:-1 tvg-id="cinemax2.rs" tvg-logo="noimage.png" group-title="FILMSKI", Cinemax 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1176
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1176
 
 #EXTINF:-1 tvg-id="cinestaraction.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-action-hr.png" group-title="FILMSKI", CineStar Action
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1168
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1168
 
 #EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-fantasy-hr.png" group-title="FILMSKI", Cinestar Fantasy
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1169
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1169
 
 #EXTINF:-1 tvg-id="Cinestar Premiere 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-1-hr.png" group-title="FILMSKI", Cinestar Premiere 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1166
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1166
 
 #EXTINF:-1 tvg-id="Cinestar Premiere 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-2-hr.png" group-title="FILMSKI", Cinestar Premiere 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1167
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1167
 
 #EXTINF:-1 tvg-id="cinestartv.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-1-hr.png" group-title="FILMSKI", Cinestar TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1165
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1165
 
 #EXTINF:-1 tvg-id="Cinestar TV 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-2-hr.png" group-title="FILMSKI", Cinestar TV 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36502
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36502
 
 #EXTINF:-1 tvg-id="cinestarcomedy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-comedy-hr.png" group-title="FILMSKI", CineStar TV Comedy
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39055
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39055
 
 #EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/46618
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46618
+
+#EXTINF:-1 tvg-id="Euro Cinema 2" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46617
 
 #EXTINF:-1 tvg-id="Euro Cinema 3" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/46616
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46616
 
 #EXTINF:-1 tvg-id="Euro Cinema 4" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/46615
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46615
 
 #EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-logo="noimage.png" group-title="FILMSKI", Filmbox Arthouse
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1180
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1180
 
 #EXTINF:-1 tvg-id="Filmbox Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/filmbox_extra.jpg" group-title="FILMSKI", Filmbox Extra
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1179
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1179
 
 #EXTINF:-1 tvg-id="hbohd.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_adria.jpg" group-title="FILMSKI", HBO
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1161
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1161
 
 #EXTINF:-1 tvg-id="hbo2hd.rs" tvg-logo="noimage.png" group-title="FILMSKI", HBO 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1162
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1162
 
 #EXTINF:-1 tvg-id="hbo3hd.rs" tvg-logo="noimage.png" group-title="FILMSKI", HBO 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1163
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1163
 
 #EXTINF:-1 tvg-id="Kino TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kino_tv_hr.png" group-title="FILMSKI", Kino TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1164
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1164
 
 #EXTINF:-1 tvg-id="Klasik TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klasik-tv-hr.svg" group-title="FILMSKI", Klasik TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1173
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1173
 
 #EXTINF:-1 tvg-id="M1 Family" tvg-logo="noimage.png" group-title="FILMSKI", M1 Family
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36515
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36515
 
 #EXTINF:-1 tvg-id="M1 Film Gold" tvg-logo="noimage.png" group-title="FILMSKI", M1 Film Gold
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/36513
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36513
 
 #EXTINF:-1 tvg-id="MAXCRO Select 1" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1182
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1182
 
 #EXTINF:-1 tvg-id="MAXCRO Select 2" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1183
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1183
 
 #EXTINF:-1 tvg-id="MAXCRO Select 3" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1184
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1184
 
 #EXTINF:-1 tvg-id="MAXCRO Select 4" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 4
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1185
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1185
 
 #EXTINF:-1 tvg-id="MAXCRO Select 5" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 5
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1186
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1186
+
+#EXTINF:-1 tvg-id="NETIP  2" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46589
+
+#EXTINF:-1 tvg-id="NETIP  3" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46590
+
+#EXTINF:-1 tvg-id="NETIP  4" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  4
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46591
+
+#EXTINF:-1 tvg-id="NETIP  5" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  5
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46592
+
+#EXTINF:-1 tvg-id="NETIP 1" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46588
+
+#EXTINF:-1 tvg-id="Nova Cinema 2 ᴴᴰ" tvg-logo="noimage.png" group-title="FILMSKI", Nova Cinema 2 ᴴᴰ
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40669
+
+#EXTINF:-1 tvg-id="Nova Cinema ᴴᴰ" tvg-logo="noimage.png" group-title="FILMSKI", Nova Cinema ᴴᴰ
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40667
+
+#EXTINF:-1 tvg-id="Nova Plus Family" tvg-logo="noimage.png" group-title="FILMSKI", Nova Plus Family
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40668
+
+#EXTINF:-1 tvg-id="STAR Channel" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.svg" group-title="FILMSKI", STAR Channel
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50411
+
+#EXTINF:-1 tvg-id="STAR Crime" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-crime-us.svg" group-title="FILMSKI", STAR Crime
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50412
+
+#EXTINF:-1 tvg-id="STAR Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-life-us.svg" group-title="FILMSKI", STAR Life
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50413
+
+#EXTINF:-1 tvg-id="Star Movies" tvg-logo="noimage.png" group-title="FILMSKI", Star Movies
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50414
 
 #EXTINF:-1 tvg-id="tv1000.rs" tvg-logo="noimage.png" group-title="FILMSKI", TV 1000
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1170
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1170
 
-#EXTINF:-1 tvg-id="M1 Film" tvg-logo="noimage.png" group-title="FILMSKI", M1 Film
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1177
+#EXTINF:-1 tvg-id="FILM: M1 Film" tvg-logo="noimage.png" group-title="FILMSKI", FILM: M1 Film
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1177
 
-#EXTINF:-1 tvg-id="Balkanika (MUSIC)" tvg-logo="noimage.png" group-title="MUZIČKI", Balkanika (MUSIC)
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1107
+#EXTINF:-1 tvg-id="Balkanika (MUSIC)" tvg-logo="noimage.png" group-title="GLAZBENI", Balkanika (MUSIC)
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1107
 
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="noimage.png" group-title="MUZIČKI", PLAY TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/48543
+#EXTINF:-1 tvg-id="Bujrum TV" tvg-logo="noimage.png" group-title="GLAZBENI", Bujrum TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29052
 
-#EXTINF:-1 tvg-id="Muzzik" tvg-logo="noimage.png" group-title="MUZIČKI", Muzzik
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39065
+#EXTINF:-1 tvg-id="Hema TV" tvg-logo="noimage.png" group-title="GLAZBENI", Hema TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29065
 
-#EXTINF:-1 tvg-id="Muzzik World Wide" tvg-logo="noimage.png" group-title="MUZIČKI", Muzzik World Wide
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39064
+#EXTINF:-1 tvg-id="RTV City UB" tvg-logo="noimage.png" group-title="GLAZBENI", RTV City UB
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29062
 
-#EXTINF:-1 tvg-id="Bravo Music" tvg-logo="noimage.png" group-title="MUZIČKI", Bravo Music
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1536
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="noimage.png" group-title="GLAZBENI", PLAY TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48543
 
-#EXTINF:-1 tvg-id="Grand 2" tvg-logo="noimage.png" group-title="MUZIČKI", Grand 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1110
+#EXTINF:-1 tvg-id="♫ Muzzik" tvg-logo="noimage.png" group-title="GLAZBENI", ♫ Muzzik
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39065
 
-#EXTINF:-1 tvg-id="IN TV" tvg-logo="noimage.png" group-title="MUZIČKI", IN TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/23575
+#EXTINF:-1 tvg-id="♫ Muzzik World Wide" tvg-logo="noimage.png" group-title="GLAZBENI", ♫ Muzzik World Wide
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39064
 
-#EXTINF:-1 tvg-id="Kafanska TV" tvg-logo="noimage.png" group-title="MUZIČKI", Kafanska TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1714
+#EXTINF:-1 tvg-id="♫: Grand 2" tvg-logo="noimage.png" group-title="GLAZBENI", ♫: Grand 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1110
 
-#EXTINF:-1 tvg-id="BN Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" group-title="MUZIČKI", BN Music
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1120
+#EXTINF:-1 tvg-id="♫: IN TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫: IN TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/23575
 
-#EXTINF:-1 tvg-id="CMC TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmc_tv_hr.png" group-title="MUZIČKI", CMC TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1112
+#EXTINF:-1 tvg-id="♫: Kafanska TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫: Kafanska TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1714
 
-#EXTINF:-1 tvg-id="Deluxe Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deluxe_music.jpg" group-title="MUZIČKI", Deluxe Music
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1135
+#EXTINF:-1 tvg-id="♫♫: BN Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" group-title="GLAZBENI", ♫♫: BN Music
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1120
 
-#EXTINF:-1 tvg-id="DM SAT" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dm_sat_rs.png" group-title="MUZIČKI", DM SAT
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1111
+#EXTINF:-1 tvg-id="♫♫: CMC TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmc_tv_hr.png" group-title="GLAZBENI", ♫♫: CMC TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1112
 
-#EXTINF:-1 tvg-id="FEN TV" tvg-logo="noimage.png" group-title="MUZIČKI", FEN TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1131
+#EXTINF:-1 tvg-id="♫♫: Deluxe Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deluxe_music.jpg" group-title="GLAZBENI", ♫♫: Deluxe Music
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1135
 
-#EXTINF:-1 tvg-id="Grand Narodna" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-rs.png" group-title="MUZIČKI", Grand Narodna
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1109
+#EXTINF:-1 tvg-id="♫♫: DM SAT" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dm_sat_rs.png" group-title="GLAZBENI", ♫♫: DM SAT
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1111
 
-#EXTINF:-1 tvg-id="Hayat Folk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_folk.jpg" group-title="MUZIČKI", Hayat Folk
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1121
+#EXTINF:-1 tvg-id="♫♫: FEN TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: FEN TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1131
 
-#EXTINF:-1 tvg-id="Hayat Music" tvg-logo="noimage.png" group-title="MUZIČKI", Hayat Music
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1122
+#EXTINF:-1 tvg-id="♫♫: Grand Narodna" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-rs.png" group-title="GLAZBENI", ♫♫: Grand Narodna
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1109
 
-#EXTINF:-1 tvg-id="IDJ TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idj-tv-rs.png" group-title="MUZIČKI", IDJ TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1114
+#EXTINF:-1 tvg-id="♫♫: Hayat Folk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_folk.jpg" group-title="GLAZBENI", ♫♫: Hayat Folk
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1121
 
-#EXTINF:-1 tvg-id="Jugoton" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jugoton_tv_hr.png" group-title="MUZIČKI", Jugoton
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1113
+#EXTINF:-1 tvg-id="♫♫: Hayat Music" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Hayat Music
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1122
 
-#EXTINF:-1 tvg-id="KCN 1" tvg-logo="noimage.png" group-title="MUZIČKI", KCN 1
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1116
+#EXTINF:-1 tvg-id="♫♫: IDJ TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idj-tv-rs.png" group-title="GLAZBENI", ♫♫: IDJ TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1114
 
-#EXTINF:-1 tvg-id="KCN 2" tvg-logo="noimage.png" group-title="MUZIČKI", KCN 2
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1117
+#EXTINF:-1 tvg-id="♫♫: Jugoton" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jugoton_tv_hr.png" group-title="GLAZBENI", ♫♫: Jugoton
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1113
 
-#EXTINF:-1 tvg-id="KCN 3" tvg-logo="noimage.png" group-title="MUZIČKI", KCN 3
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1118
+#EXTINF:-1 tvg-id="♫♫: KCN 1" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: KCN 1
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1116
 
-#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="noimage.png" group-title="MUZIČKI", Pink Koncert
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1108
+#EXTINF:-1 tvg-id="♫♫: KCN 2" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: KCN 2
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1117
 
-#EXTINF:-1 tvg-id="Planeta" tvg-logo="noimage.png" group-title="MUZIČKI", Planeta
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1132
+#EXTINF:-1 tvg-id="♫♫: KCN 3" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: KCN 3
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1118
 
-#EXTINF:-1 tvg-id="Planeta Folk" tvg-logo="noimage.png" group-title="MUZIČKI", Planeta Folk
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1133
+#EXTINF:-1 tvg-id="♫♫: Pink Koncert" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Pink Koncert
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1108
 
-#EXTINF:-1 tvg-id="Roma TV" tvg-logo="noimage.png" group-title="MUZIČKI", Roma TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1130
+#EXTINF:-1 tvg-id="♫♫: Planeta" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Planeta
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1132
 
-#EXTINF:-1 tvg-id="S.K.Y Folk" tvg-logo="noimage.png" group-title="MUZIČKI", S.K.Y Folk
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1128
+#EXTINF:-1 tvg-id="♫♫: Planeta Folk" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Planeta Folk
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1133
 
-#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="noimage.png" group-title="MUZIČKI", Sevdah TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1119
+#EXTINF:-1 tvg-id="♫♫: Roma TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Roma TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1130
 
-#EXTINF:-1 tvg-id="Taraf" tvg-logo="noimage.png" group-title="MUZIČKI", Taraf
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1125
+#EXTINF:-1 tvg-id="♫♫: S.K.Y Folk" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: S.K.Y Folk
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1128
 
-#EXTINF:-1 tvg-id="TOP TV" tvg-logo="noimage.png" group-title="MUZIČKI", TOP TV
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1115
+#EXTINF:-1 tvg-id="♫♫: Sevdah TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Sevdah TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1119
 
-#EXTINF:-1 tvg-id="TV Sehara" tvg-logo="noimage.png" group-title="MUZIČKI", TV Sehara
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1124
+#EXTINF:-1 tvg-id="♫♫: Taraf" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Taraf
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1125
 
-#EXTINF:-1 tvg-id="YU Planet" tvg-logo="noimage.png" group-title="MUZIČKI", YU Planet
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1126
+#EXTINF:-1 tvg-id="♫♫: TOP TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: TOP TV
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1115
+
+#EXTINF:-1 tvg-id="♫♫: TV Sehara" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: TV Sehara
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1124
+
+#EXTINF:-1 tvg-id="♫♫: YU Planet" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: YU Planet
+http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1126
+
+
 
 
 
