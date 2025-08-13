@@ -1,1494 +1,705 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="✦●✦●      GENERAL      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", ✦●✦●      GENERAL      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/215613
-
-#EXTINF:-1 tvg-id="hrt1.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HRT%201.png" group-title="HRVATSKA", HRT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9231
-
-#EXTINF:-1 tvg-id="hrt2.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HRT2HD.png" group-title="HRVATSKA", HRT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9229
-
-#EXTINF:-1 tvg-id="hrt3.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HRT3.png" group-title="HRVATSKA", HRT 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9227
-
-#EXTINF:-1 tvg-id="hrt4.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HRT%204.png" group-title="HRVATSKA", HRT 4
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9225
-
-#EXTINF:-1 tvg-id="HRT 5" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HRT5.png" group-title="HRVATSKA", HRT 5
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9224
-
-#EXTINF:-1 tvg-id="HRT INT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRTint_logo.png" group-title="HRVATSKA", HRT INT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122597
-
-#EXTINF:-1 tvg-id="novatv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Nova%20TV.png" group-title="HRVATSKA", NOVA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/18649
-
-#EXTINF:-1 tvg-id="domatv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/DOMATV.png" group-title="HRVATSKA", DOMA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9239
-
-#EXTINF:-1 tvg-id="VTV TELEVIZIJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VTV_televizija_Logo.svg/2560px-VTV_televizija_Logo.svg.png" group-title="HRVATSKA", VTV TELEVIZIJA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122602
-
-#EXTINF:-1 tvg-id="rtl.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTL2.png" group-title="HRVATSKA", RTL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9258
-
-#EXTINF:-1 tvg-id="rtl2.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTL2.png" group-title="HRVATSKA", RTL 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9208
-
-#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTLCRIME.png" group-title="HRVATSKA", RTL CRIME
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122594
-
-#EXTINF:-1 tvg-id="rtlliving.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTLLIVING.png" group-title="HRVATSKA", RTL LIVING
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9205
-
-#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTLPASSION.png" group-title="HRVATSKA", RTL PASSION
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9204
-
-#EXTINF:-1 tvg-id="RTL ADRIA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", RTL ADRIA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/202881
-
-#EXTINF:-1 tvg-id="RTL CROATIA WORLD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", RTL CROATIA WORLD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/202879
-
-#EXTINF:-1 tvg-id="RTL TELEVIZIJA" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/05/TV_CRO_RTL-TELEVIZIA.jpg" group-title="HRVATSKA", RTL TELEVIZIJA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9203
-
-#EXTINF:-1 tvg-id="rtlkockica.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTLKOCKICA.png" group-title="HRVATSKA", RTL KOCKICA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9259
-
-#EXTINF:-1 tvg-id="z1.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Z1.png" group-title="HRVATSKA", Z1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9195
-
-#EXTINF:-1 tvg-id="n1.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/N1HR.png" group-title="HRVATSKA", N1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122598
-
-#EXTINF:-1 tvg-id="vinkovackatv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/VINKOVACKATV.png" group-title="HRVATSKA", VINKOVACKA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9196
-
-#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", SLAVONSKA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9202
-
-#EXTINF:-1 tvg-id="MREZA SPLIT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", MREZA SPLIT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190768
-
-#EXTINF:-1 tvg-id="TV DUBROVNIK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", TV DUBROVNIK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/202880
-
-#EXTINF:-1 tvg-id="tvjadran.hr" tvg-logo="https://tvjadran.hr/wp-content/uploads/2021/02/Tv_jadran_logo_1.png" group-title="HRVATSKA", TV JADRAN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122601
-
-#EXTINF:-1 tvg-id="jabuka.hr" tvg-logo="noimage.png" group-title="HRVATSKA", JABUKA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190755
-
-#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/OSJECKATV.png" group-title="HRVATSKA", OSJECKA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9210
-
-#EXTINF:-1 tvg-id="laudatotv.hr" tvg-logo="noimage.png" group-title="HRVATSKA", LAUDATO TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9219
-
-#EXTINF:-1 tvg-id="BANOVINA" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/TVBANOVINA.png" group-title="HRVATSKA", BANOVINA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190692
-
-#EXTINF:-1 tvg-id="AL JAZEERA BALKANS" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/AlJazeera.png" group-title="HRVATSKA", AL JAZEERA BALKANS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9250
-
-#EXTINF:-1 tvg-id="CRIME & INVESTIGATION" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CRIMEINVESTIGATION.png" group-title="HRVATSKA", CRIME & INVESTIGATION
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9253
-
-#EXTINF:-1 tvg-id="orlandokids.hr" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", ORLANDO KIDS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9211
-
-#EXTINF:-1 tvg-id="FILM KLUB" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTKLUBHD.png" group-title="HRVATSKA", FILM KLUB
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9235
-
-#EXTINF:-1 tvg-id="FIGHT WORLD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", FIGHT WORLD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9236
-
-#EXTINF:-1 tvg-id="CINEMAX 1" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CINEMAX1.png" group-title="HRVATSKA", CINEMAX 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190694
-
-#EXTINF:-1 tvg-id="GINIX" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="HRVATSKA", GINIX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9234
-
-#EXTINF:-1 tvg-id="CMC" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CMCMUSIC.png" group-title="HRVATSKA", CMC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9252
-
-#EXTINF:-1 tvg-id="✦●✦●      SPORT      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/croatia.png" group-title="HRVATSKA", ✦●✦●      SPORT      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/181564
-
-#EXTINF:-1 tvg-id="RTRS" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTRS.png" group-title="HRVATSKA", RTRS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190764
-
-#EXTINF:-1 tvg-id="BN TELEVIZIJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BN_Televizija_Logo.svg/1200px-BN_Televizija_Logo.svg.png" group-title="HRVATSKA", BN TELEVIZIJA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190766
-
-#EXTINF:-1 tvg-id="PRVA PLUS" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PRVAPLUS.png" group-title="HRVATSKA", PRVA PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190771
-
-#EXTINF:-1 tvg-id="✦●✦●      GENERAL      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", ✦●✦●      GENERAL      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/215612
-
-#EXTINF:-1 tvg-id="bht1.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/BHT%201%20HD.png" group-title="BOSNA I HERCEGOVINA", BIH | BHT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9108
-
-#EXTINF:-1 tvg-id="BIH | BHRT 1 BACKUP" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | BHRT 1 BACKUP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/18650
-
-#EXTINF:-1 tvg-id="BIH | FEDERALNA TV" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FEDERALNATV.png" group-title="BOSNA I HERCEGOVINA", BIH | FEDERALNA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122588
-
-#EXTINF:-1 tvg-id="ftv.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FACETV.png" group-title="BOSNA I HERCEGOVINA", BIH | FEDERALNA BACKUP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9101
-
-#EXTINF:-1 tvg-id="facetv.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FACETVHD.png" group-title="BOSNA I HERCEGOVINA", BIH | FACE TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9102
-
-#EXTINF:-1 tvg-id="obn.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/OBN.png" group-title="BOSNA I HERCEGOVINA", BIH | OBN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9088
-
-#EXTINF:-1 tvg-id="bn.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/BNSAT.png" group-title="BOSNA I HERCEGOVINA", BIH | BN TELEVIZIJA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9105
-
-#EXTINF:-1 tvg-id="n1.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/AlternativnaTV.png" group-title="BOSNA I HERCEGOVINA", BIH | N1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/61504
-
-#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | Al JAZEERA BALKAN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/202885
-
-#EXTINF:-1 tvg-id="nova.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/NOVABH.png" group-title="BOSNA I HERCEGOVINA", BIH | NOVA BH
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9072
-
-#EXTINF:-1 tvg-id="BIH | NOVA BH BACKUP" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/NOVATV.png" group-title="BOSNA I HERCEGOVINA", BIH | NOVA BH BACKUP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9089
-
-#EXTINF:-1 tvg-id="pinkbh.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%20Premium.png" group-title="BOSNA I HERCEGOVINA", BA | PINK BH
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9085
-
-#EXTINF:-1 tvg-id="BIH | NOVA BH BACKUP2" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/NOVABH.png" group-title="BOSNA I HERCEGOVINA", BIH | NOVA BH BACKUP2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9090
-
-#EXTINF:-1 tvg-id="hayat.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HAYATHD.png" group-title="BOSNA I HERCEGOVINA", BIH | HAYAT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/21220
-
-#EXTINF:-1 tvg-id="hayat.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HAYATHD.png" group-title="BOSNA I HERCEGOVINA", BIH | HAYAT BACKUP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9096
-
-#EXTINF:-1 tvg-id="hayatplus.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HAYATPLUS.png" group-title="BOSNA I HERCEGOVINA", BIH | HAYAT PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9097
-
-#EXTINF:-1 tvg-id="hayatovci.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HAYATOVCIBIH.png" group-title="BOSNA I HERCEGOVINA", BIH | HAYATOVCI
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9095
-
-#EXTINF:-1 tvg-id="rtrs.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTRS.png" group-title="BOSNA I HERCEGOVINA", BIH | RTRS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9083
-
-#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTRS.png" group-title="BOSNA I HERCEGOVINA", BIH | RTRS PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9082
-
-#EXTINF:-1 tvg-id="atv.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logotip_rebrendirani_ATV.png" group-title="BOSNA I HERCEGOVINA", BIH | ATV HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190721
-
-#EXTINF:-1 tvg-id="BIH | ATV BACKUP" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/AlternativnaTV.png" group-title="BOSNA I HERCEGOVINA", BIH | ATV BACKUP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9110
-
-#EXTINF:-1 tvg-id="BIH | K3 PRNJAVOR" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/K3PRNJAVOR.png" group-title="BOSNA I HERCEGOVINA", BIH | K3 PRNJAVOR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9092
-
-#EXTINF:-1 tvg-id="kanal6.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/KANAL6HD.png" group-title="BOSNA I HERCEGOVINA", BIH | KANAL 6
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/209777
-
-#EXTINF:-1 tvg-id="BIH | O KANAL" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | O KANAL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/202884
-
-#EXTINF:-1 tvg-id="tvsarajevo.ba" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tvsa-logo.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV TVSA SARAJEVO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9075
-
-#EXTINF:-1 tvg-id="tv1.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/TV1.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV TV1 SARAJEVO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9077
-
-#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ALFATV.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV ALFA SARAJEVO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9111
-
-#EXTINF:-1 tvg-id="BIH | RTV NOVI PAZAR" tvg-logo="https://pbs.twimg.com/profile_images/854777063378694144/Aix7Bi8E_400x400.jpg" group-title="BOSNA I HERCEGOVINA", BIH | RTV NOVI PAZAR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/125715
-
-#EXTINF:-1 tvg-id="BIH | RTV USK" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTVTK.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV USK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9081
-
-#EXTINF:-1 tvg-id="BIH | RTV HIT BRCKO" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HITBRCKO.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV HIT BRCKO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9094
-
-#EXTINF:-1 tvg-id="rtvzenica.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTVZENICA.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV ZENICA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9080
-
-#EXTINF:-1 tvg-id="BIH | RTV VISOKO HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV VISOKO HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197048
-
-#EXTINF:-1 tvg-id="BIH | RTV KAKANJ" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV KAKANJ
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/207311
-
-#EXTINF:-1 tvg-id="otvvalentino.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/OTVVALENTINO.png" group-title="BOSNA I HERCEGOVINA", BIH | OTV VALENTINO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9086
-
-#EXTINF:-1 tvg-id="BIH | ARENA SPORT 1" tvg-logo="http://logo.cms-s.com/logo/L-sat05.01.21/Europe/Serbia/arena-esport-rs.png" group-title="BOSNA I HERCEGOVINA", BIH | ARENA SPORT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/430944
-
-#EXTINF:-1 tvg-id="BIH | ARENA SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/arenasport2.png" group-title="BOSNA I HERCEGOVINA", BIH | ARENA SPORT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/430945
-
-#EXTINF:-1 tvg-id="BIH | ISLAM IGMAN" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/MTVIGMAN.png" group-title="BOSNA I HERCEGOVINA", BIH | ISLAM IGMAN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9091
-
-#EXTINF:-1 tvg-id="BIH | RTV SLON TUZLA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV SLON TUZLA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197049
-
-#EXTINF:-1 tvg-id="BIH | ISLAM MEKKA TV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | ISLAM MEKKA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/202888
-
-#EXTINF:-1 tvg-id="rtvtktuzla.ba" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTV_TK_Logo.jpg" group-title="BOSNA I HERCEGOVINA", BIH | RTV TK TUZLA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/21216
-
-#EXTINF:-1 tvg-id="BIH | RTV BUGOJNO" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTVBUGOJNO.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV BUGOJNO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9076
-
-#EXTINF:-1 tvg-id="BIH | RTV SEHARA" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/TVSEHARA.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV SEHARA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9079
-
-#EXTINF:-1 tvg-id="BIH | RTV USK BACKUP" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/TVUSK.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV USK BACKUP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122589
-
-#EXTINF:-1 tvg-id="rtvzenica.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV HERCEG - BOSNE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122592
-
-#EXTINF:-1 tvg-id="BIH | RTV B1 GRADACAC" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | RTV B1 GRADACAC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197050
-
-#EXTINF:-1 tvg-id="BIH | TATABRADA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | TATABRADA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/387659
-
-#EXTINF:-1 tvg-id="BIH | ISLAM TV5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="BOSNA I HERCEGOVINA", BIH | ISLAM TV5
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190722
-
-#EXTINF:-1 tvg-id="CG | ✦●✦●      MONTENGRO      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="CRNA GORA", CG | ✦●✦●      MONTENGRO      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/214766
-
-#EXTINF:-1 tvg-id="rtcg1.me" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/RTCG_logo.svg" group-title="CRNA GORA", CG | RTCG 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/84845
-
-#EXTINF:-1 tvg-id="rtcg2.me" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/RTCG_logo.svg" group-title="CRNA GORA", CG | RTCG 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/84846
-
-#EXTINF:-1 tvg-id="CG | RTCG SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/RTCG_logo.svg" group-title="CRNA GORA", CG | RTCG SAT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/84848
-
-#EXTINF:-1 tvg-id="CG | TV VIJESTI" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="CRNA GORA", CG | TV VIJESTI
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203123
-
-#EXTINF:-1 tvg-id="vijesti.me" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="CRNA GORA", CG | 24 VIJESTI
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/84843
-
-#EXTINF:-1 tvg-id="CG | NOVA M" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="CRNA GORA", CG | NOVA M
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/84847
-
-#EXTINF:-1 tvg-id="prva.me" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/3/3f/Prva_srpska_televizija_logo.png" group-title="CRNA GORA", CG | PRVA CG
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/84844
-
-#EXTINF:-1 tvg-id="CG | PRVA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Prva_Plus_Logo.png" group-title="CRNA GORA", CG | PRVA PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/120735
-
-#EXTINF:-1 tvg-id="CG | TV 777" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="CRNA GORA", CG | TV 777
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203122
-
-#EXTINF:-1 tvg-id="CG | PINK M" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/Pink_M_logo-min.png" group-title="CRNA GORA", CG | PINK M
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316683
-
-#EXTINF:-1 tvg-id="CG | TV 7" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/Televizija_TV7-min.png" group-title="CRNA GORA", CG | TV 7
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316684
-
-#EXTINF:-1 tvg-id="✦●✦●      KIDS      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="DJECIJI", ✦●✦●      KIDS      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/215186
-
-#EXTINF:-1 tvg-id="PIKABOO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="DJECIJI", PIKABOO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9209
-
-#EXTINF:-1 tvg-id="nickjr.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/NICKJUNIOR.png" group-title="DJECIJI", NICK JR.
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9215
-
-#EXTINF:-1 tvg-id="nickelodeon.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/NICKELODEONSR.png" group-title="DJECIJI", NICKELODEON
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9214
-
-#EXTINF:-1 tvg-id="BABY TV" tvg-logo="https://logo.diamondtv.one/images/logos/UK/BABYTV.png" group-title="DJECIJI", BABY TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9241
-
-#EXTINF:-1 tvg-id="minitv.hr" tvg-logo="noimage.png" group-title="DJECIJI", MINI TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9216
-
-#EXTINF:-1 tvg-id="MINIMAX. TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/MinimaxLogo2013.png" group-title="DJECIJI", MINIMAX. TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190776
-
-#EXTINF:-1 tvg-id="24/7 SPUZVA BOB" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 SPUZVA BOB
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397038
-
-#EXTINF:-1 tvg-id="24/7 DORA I PRIJATELJI" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 DORA I PRIJATELJI
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397036
-
-#EXTINF:-1 tvg-id="24/7 LUCKY LUKE" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 LUCKY LUKE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397034
-
-#EXTINF:-1 tvg-id="24/7 LOLEK I BOLEK" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 LOLEK I BOLEK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397033
-
-#EXTINF:-1 tvg-id="24/7 LOONEY TUNES" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 LOONEY TUNES
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397032
-
-#EXTINF:-1 tvg-id="24/7 LOONEY TUNES CARTOONS" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 LOONEY TUNES CARTOONS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397031
-
-#EXTINF:-1 tvg-id="24/7 MR BEAN" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 MR BEAN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397030
-
-#EXTINF:-1 tvg-id="24/7 MASA I MEDVED" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 MASA I MEDVED
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397029
-
-#EXTINF:-1 tvg-id="24/7 MICKEY MOUSE" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 MICKEY MOUSE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397028
-
-#EXTINF:-1 tvg-id="24/7 NINDJA KORNJAČE" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 NINDJA KORNJAČE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397027
-
-#EXTINF:-1 tvg-id="24/7 PAW PATROL" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 PAW PATROL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397026
-
-#EXTINF:-1 tvg-id="24/7 PROFESOR BALTAZAR" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 PROFESOR BALTAZAR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397024
-
-#EXTINF:-1 tvg-id="24/7 PINK PANTHER" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 PINK PANTHER
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397023
-
-#EXTINF:-1 tvg-id="24/7 TOM & JERRY" tvg-logo="https://icsolutions247.com/wp-content/uploads/2016/08/24-7.png" group-title="DJECIJI", 24/7 TOM & JERRY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/397022
-
-#EXTINF:-1 tvg-id="✦●✦ KIDS 24/7 ✦●✦" tvg-logo="noimage.png" group-title="DJECIJI", ✦●✦ KIDS 24/7 ✦●✦
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271062
-
-#EXTINF:-1 tvg-id="minimax.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Minimax_logo.png" group-title="DJECIJI", RS | MINIMAX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113429
-
-#EXTINF:-1 tvg-id="cartoonnetwork.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/CARTOONNETWORK.png" group-title="DJECIJI", RS | CARTOON NETWORK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113477
-
-#EXTINF:-1 tvg-id="boomerang.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/BOOMERANG.png" group-title="DJECIJI", RS | BOOMERANG
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113478
-
-#EXTINF:-1 tvg-id="✦●✦ CINEMA ✦●✦" tvg-logo="https://cdn3.iconfinder.com/data/icons/world-flags-circled-vol-3/48/Serbia-512.png" group-title="KINO UZIVO", ✦●✦ CINEMA ✦●✦
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271002
-
-#EXTINF:-1 tvg-id="HBO MAX" tvg-logo="http://focustv.xyz/files/ch/EXYU/hbomax.jpg" group-title="KINO UZIVO", HBO MAX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271003
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://focustv.xyz/files/ch/EXYU/HBO%203%20HD%20SRB.png" group-title="KINO UZIVO", HBO HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271005
-
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://focustv.xyz/files/ch/BULGAR/HBO2.png" group-title="KINO UZIVO", HBO 2 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271006
-
-#EXTINF:-1 tvg-id="HBO 3 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/HBO--3.png" group-title="KINO UZIVO", HBO 3 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271007
-
-#EXTINF:-1 tvg-id="SKY GO 1" tvg-logo="http://focustv.xyz/files/ch/EXYU/Sky-GO.jpg" group-title="KINO UZIVO", SKY GO 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271008
-
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="http://focustv.xyz/files/ch/BULGAR/FOX.png" group-title="KINO UZIVO", FOX HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271009
-
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-logo="http://focustv.xyz/files/ch/PORTEK%C4%B0Z/FOX%20CRIME.png" group-title="KINO UZIVO", FOX CRIME
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271010
-
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://focustv.xyz/files/ch/EXYU/Fox_life_logo.png" group-title="KINO UZIVO", FOX LIFE HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271011
-
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/foxmovies-WHITE.png" group-title="KINO UZIVO", FOX MOVIES
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271012
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/axn.png" group-title="KINO UZIVO", AXN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271013
-
-#EXTINF:-1 tvg-id="AMC" tvg-logo="http://focustv.xyz/files/ch/EXYU/AMC_logo.png" group-title="KINO UZIVO", AMC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271014
-
-#EXTINF:-1 tvg-id="SUPER STAR TV FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/SUPERSTARTV.png" group-title="KINO UZIVO", SUPER STAR TV FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271015
-
-#EXTINF:-1 tvg-id="RTL PLAY PREMIUM FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/rtl_rtl_play.png" group-title="KINO UZIVO", RTL PLAY PREMIUM FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271018
-
-#EXTINF:-1 tvg-id="KLASIK TV" tvg-logo="http://focustv.xyz/files/ch/EXYU/Klasik_TV_logo.png" group-title="KINO UZIVO", KLASIK TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271019
-
-#EXTINF:-1 tvg-id="TV 1000" tvg-logo="http://focustv.xyz/files/ch/RUSYA/TV1000.png" group-title="KINO UZIVO", TV 1000
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271020
-
-#EXTINF:-1 tvg-id="CINEMAX FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/cinemax-hd.png" group-title="KINO UZIVO", CINEMAX FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271021
-
-#EXTINF:-1 tvg-id="CINEMAX 2 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/cinemax2.png" group-title="KINO UZIVO", CINEMAX 2 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271022
-
-#EXTINF:-1 tvg-id="CINESTAR TV 1 HD" tvg-logo="http://focustv.xyz/files/ch/EXYU/CINE_STAR1.png" group-title="KINO UZIVO", CINESTAR TV 1 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271023
-
-#EXTINF:-1 tvg-id="CINESTAR TV 2" tvg-logo="http://focustv.xyz/files/ch/EXYU/Cinestar_tv2_logo.png" group-title="KINO UZIVO", CINESTAR TV 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271024
-
-#EXTINF:-1 tvg-id="CINESTAR PREMIERE 1 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/CineStar_TV_premiere_1.png" group-title="KINO UZIVO", CINESTAR PREMIERE 1 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271025
-
-#EXTINF:-1 tvg-id="CINESTAR PREMIERE 2 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/CineStar_TV_premiere_2.png" group-title="KINO UZIVO", CINESTAR PREMIERE 2 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271026
-
-#EXTINF:-1 tvg-id="CINESTAR ACTION FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/CineStar_TV_action.png" group-title="KINO UZIVO", CINESTAR ACTION FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271027
-
-#EXTINF:-1 tvg-id="CINESTAR COMEDY" tvg-logo="http://focustv.xyz/files/ch/EXYU/STARCOMEDY.png" group-title="KINO UZIVO", CINESTAR COMEDY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271028
-
-#EXTINF:-1 tvg-id="CINESTAR FANTASY" tvg-logo="http://focustv.xyz/files/ch/EXYU/CineStar_Fantasy.png" group-title="KINO UZIVO", CINESTAR FANTASY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271029
-
-#EXTINF:-1 tvg-id="EPIC DRAMA HD" tvg-logo="http://focustv.xyz/files/ch/POLONYA/EPICDRAMAHD.png" group-title="KINO UZIVO", EPIC DRAMA HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271030
-
-#EXTINF:-1 tvg-id="DIVA CHANNEL" tvg-logo="http://focustv.xyz/files/ch/EXYU/Diva_logo.png" group-title="KINO UZIVO", DIVA CHANNEL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271031
-
-#EXTINF:-1 tvg-id="NOVA CINEMA 1 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/NOVA_CINEMA.png" group-title="KINO UZIVO", NOVA CINEMA 1 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271032
-
-#EXTINF:-1 tvg-id="NOVA CINEMA 2K" tvg-logo="http://focustv.xyz/files/ch/EXYU/NOVA_CINEMA_2.png" group-title="KINO UZIVO", NOVA CINEMA 2K
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271033
-
-#EXTINF:-1 tvg-id="M1 FILM HD" tvg-logo="http://focustv.xyz/files/ch/EXYU/M1film.jpg" group-title="KINO UZIVO", M1 FILM HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271037
-
-#EXTINF:-1 tvg-id="M1 FAMILY FILM HD" tvg-logo="http://focustv.xyz/files/ch/EXYU/M1film.jpg" group-title="KINO UZIVO", M1 FAMILY FILM HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271038
-
-#EXTINF:-1 tvg-id="CINEMANIA FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/cinemaniA.jpg" group-title="KINO UZIVO", CINEMANIA FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271039
-
-#EXTINF:-1 tvg-id="BOX OFFICE 1 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/BOXOFFICE.png" group-title="KINO UZIVO", BOX OFFICE 1 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271040
-
-#EXTINF:-1 tvg-id="BOX OFFICE 2 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/BOXOFFICE.png" group-title="KINO UZIVO", BOX OFFICE 2 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271041
-
-#EXTINF:-1 tvg-id="BOX OFFICE 3 FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/BOXOFFICE.png" group-title="KINO UZIVO", BOX OFFICE 3 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271042
-
-#EXTINF:-1 tvg-id="TOTAL CINEMA 3 FHD" tvg-logo="https://seeklogo.com/images/C/cinema-logo-1816B261B0-seeklogo.com.png" group-title="KINO UZIVO", TOTAL CINEMA 3 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271043
-
-#EXTINF:-1 tvg-id="TOTAL CINEMA 2 FHD" tvg-logo="https://seeklogo.com/images/C/cinema-logo-1816B261B0-seeklogo.com.png" group-title="KINO UZIVO", TOTAL CINEMA 2 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271044
-
-#EXTINF:-1 tvg-id="TOTAL CINEMA 1 FHD" tvg-logo="https://seeklogo.com/images/C/cinema-logo-1816B261B0-seeklogo.com.png" group-title="KINO UZIVO", TOTAL CINEMA 1 FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271045
-
-#EXTINF:-1 tvg-id="✦●✦●      CROATIA MUSIC      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="MUZIKA", ✦●✦●      CROATIA MUSIC      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/215184
-
-#EXTINF:-1 tvg-id="cmusic.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CMCMUSIC.png" group-title="MUZIKA", CMC MUSIC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9240
-
-#EXTINF:-1 tvg-id="jugoton.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/JUGOTON.png" group-title="MUZIKA", JUGOTON TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9223
-
-#EXTINF:-1 tvg-id="RS | IMPERIA TV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="MUZIKA", RS | IMPERIA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/390274
-
-#EXTINF:-1 tvg-id="✦●✦●      SERBIA MUSIC      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="MUZIKA", ✦●✦●      SERBIA MUSIC      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/215185
-
-#EXTINF:-1 tvg-id="pinkmusic.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKMUSIC.png" group-title="MUZIKA", RS | PINK MUSIC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2207
-
-#EXTINF:-1 tvg-id="pinkmusic2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKMUSIC.png" group-title="MUZIKA", RS | PINK MUSIC 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27045
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKFOLK.png" group-title="MUZIKA", RS | PINK FOLK 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2200
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKFOLK.png" group-title="MUZIKA", RS | PINK FOLK 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2201
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-1-logo-png-transparent.png" group-title="MUZIKA", RS | PINK HITS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27049
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINK2.png" group-title="MUZIKA", RS | PINK HITS 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2202
-
-#EXTINF:-1 tvg-id="pinkandroll.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKNROLL.png" group-title="MUZIKA", RS | PINK ROLL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27044
-
-#EXTINF:-1 tvg-id="pinkkoncert.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKKONCERT.png" group-title="MUZIKA", RS | PINK KONCERT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27048
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/BALKANIKATV.png" group-title="MUZIKA", RS | BALKANIKA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2176
-
-#EXTINF:-1 tvg-id="RS | BALKANIKA" tvg-logo="https://logo.diamondtv.one/images/logos/ALBANIA/BALKANIKAMUSIC.png" group-title="MUZIKA", RS | BALKANIKA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/135361
-
-#EXTINF:-1 tvg-id="RS | SANDZACKA TV MREZA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="MUZIKA", RS | SANDZACKA TV MREZA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197043
-
-#EXTINF:-1 tvg-id="grand2.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Grand_Tv.png" group-title="MUZIKA", RS | GRAND 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113440
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/DMSAT.png" group-title="MUZIKA", RS | DM SAT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2181
-
-#EXTINF:-1 tvg-id="RS | DUGA TV" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/DUGATV.png" group-title="MUZIKA", RS | DUGA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2182
-
-#EXTINF:-1 tvg-id="RS | MTV ADRIA" tvg-logo="https://logo.diamondtv.one/images/logos/UK/MTV.png" group-title="MUZIKA", RS | MTV ADRIA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113428
-
-#EXTINF:-1 tvg-id="rtsmuzika.rs" tvg-logo="noimage.png" group-title="MUZIKA", RS | IDJ MUZIKA 24/7
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113431
-
-#EXTINF:-1 tvg-id="RS | X TOXIC RAP" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1922.jpg?91773" group-title="MUZIKA", RS | X TOXIC RAP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/433387
-
-#EXTINF:-1 tvg-id="RS | X TOXIC FOLK" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/901.jpg?77309" group-title="MUZIKA", RS | X TOXIC FOLK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/433386
-
-#EXTINF:-1 tvg-id="RS | KAFANSKO VECE" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/kafansko.vece.png" group-title="MUZIKA", RS | KAFANSKO VECE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/765308
-
-#EXTINF:-1 tvg-id="✦●✦●      BOSNIA MUSIC      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="MUZIKA", ✦●✦●      BOSNIA MUSIC      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/215183
-
-#EXTINF:-1 tvg-id="BA | BN MUSIC" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/BNMUSIC.png" group-title="MUZIKA", BA | BN MUSIC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9106
-
-#EXTINF:-1 tvg-id="hayatfolk.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HAYATFOLK.png" group-title="MUZIKA", BA | HAYAT FOLK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9099
-
-#EXTINF:-1 tvg-id="hayatmusic.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HAYATMUSIC.png" group-title="MUZIKA", BA | HAYAT MUSIC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9098
-
-#EXTINF:-1 tvg-id="citytv.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CITYTV.png" group-title="MUZIKA", BA | CITY TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9103
-
-#EXTINF:-1 tvg-id="BA | GLAS DRINE" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/GLASDRINE.png" group-title="MUZIKA", BA | GLAS DRINE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9100
-
-#EXTINF:-1 tvg-id="BA | SEVDAH" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SEVDAHTV.png" group-title="MUZIKA", BA | SEVDAH
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9078
-
-#EXTINF:-1 tvg-id="BA | IZVORNA TV" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/IZVORNATV.png" group-title="MUZIKA", BA | IZVORNA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9093
-
-#EXTINF:-1 tvg-id="BA | DUGA TV" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/DUGATV.png" group-title="MUZIKA", BA | DUGA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122593
-
-#EXTINF:-1 tvg-id="posavinatv.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/POSAVINATV.png" group-title="MUZIKA", BA | POSAVINA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9084
-
-#EXTINF:-1 tvg-id="✦●✦●      MACEDONIA MUSIC      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="MUZIKA", ✦●✦●      MACEDONIA MUSIC      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/215182
-
-#EXTINF:-1 tvg-id="RS |  Narodna" tvg-logo="https://r.resimlink.com/LbRaI6msY.png" group-title="PINK", RS |  Narodna
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/727516
-
-#EXTINF:-1 tvg-id="RS | ✦●✦●      PINK      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/serbia.png" group-title="PINK", RS | ✦●✦●      PINK      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/181567
-
-#EXTINF:-1 tvg-id="pink1.rs" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-1-logo-png-transparent.png" group-title="PINK", RS | PINK 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2190
-
-#EXTINF:-1 tvg-id="pink2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINK2.png" group-title="PINK", RS | PINK 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2191
-
-#EXTINF:-1 tvg-id="pink3.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%203.png" group-title="PINK", RS | PINK 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2192
-
-#EXTINF:-1 tvg-id="pinkbh.rs" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-1-logo-png-transparent.png" group-title="PINK", RS | PINK BH
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2194
-
-#EXTINF:-1 tvg-id="pinkaction.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKACTION.png" group-title="PINK", RS | PINK ACTION
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2193
-
-#EXTINF:-1 tvg-id="pinkclassic.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%20Classic.png" group-title="PINK", RS | PINK CLASSIC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2195
-
-#EXTINF:-1 tvg-id="pinkcomedy.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKCOMEDY.png" group-title="PINK", RS | PINK COMEDY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2196
-
-#EXTINF:-1 tvg-id="pinkcrimeandmystery.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKCRIME&MYSTERY.png" group-title="PINK", RS | PINK CRIME AND MYSTERY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2197
-
-#EXTINF:-1 tvg-id="pinkextra.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKEXTRA.png" group-title="PINK", RS | PINK EXTRA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2198
-
-#EXTINF:-1 tvg-id="pinkfilm.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%20Film.png" group-title="PINK", RS | PINK FILM
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2199
-
-#EXTINF:-1 tvg-id="pinkhorror.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKHORROR.png" group-title="PINK", RS | PINK HORROR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2203
-
-#EXTINF:-1 tvg-id="pinkkuvar.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKKUVAR.png" group-title="PINK", RS | PINK KUVAR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2205
-
-#EXTINF:-1 tvg-id="pinkkids.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKKIDS.png" group-title="PINK", RS | PINK KIDS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2204
-
-#EXTINF:-1 tvg-id="pinkpremium.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKPREMIUM.png" group-title="PINK", RS | PINK PREMIUM
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2210
-
-#EXTINF:-1 tvg-id="pinkpedia.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKPEDIA.png" group-title="PINK", RS | PINK PEDIA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2208
-
-#EXTINF:-1 tvg-id="pinksoap.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKSOAP.png" group-title="PINK", RS | PINK SOAP
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2214
-
-#EXTINF:-1 tvg-id="pinkscifiandfantasy.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKSCI-FI-FANTASY.png" group-title="PINK", RS | PINK SCI-FI AND FANTASY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2213
-
-#EXTINF:-1 tvg-id="pinkthriller.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%20Thriller.png" group-title="PINK", RS | PINK THRILLER
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2215
-
-#EXTINF:-1 tvg-id="pinkworld.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%20World%20Cinema.png" group-title="PINK", RS | PINK WORLD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2217
-
-#EXTINF:-1 tvg-id="pinkwestern.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKWESTERN.png" group-title="PINK", RS | PINK WESTERN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2216
-
-#EXTINF:-1 tvg-id="pinkzabava.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%20Zabava.png" group-title="PINK", RS | PINK ZABAVA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2218
-
-#EXTINF:-1 tvg-id="pinkm.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKMUSIC.png" group-title="PINK", RS | PINK M
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2206
-
-#EXTINF:-1 tvg-id="pinkplus.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKPLUS.png" group-title="PINK", RS | PINK PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2209
-
-#EXTINF:-1 tvg-id="pinkreality.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKREALITY.png" group-title="PINK", RS | PINK REALITY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2211
-
-#EXTINF:-1 tvg-id="pinkromance.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKROMANCE.png" group-title="PINK", RS | PINK ROMANCE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2212
-
-#EXTINF:-1 tvg-id="pinkworldcinema.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Pink%20World%20Cinema.png" group-title="PINK", RS | PINK WORLD CINEMA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27040
-
-#EXTINF:-1 tvg-id="pinksuperkids.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKKIDS.png" group-title="PINK", RS | PINK SUPER KIDS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27041
-
-#EXTINF:-1 tvg-id="pinkstyle.rs" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-1-logo-png-transparent.png" group-title="PINK", RS | PINK STYLE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27042
-
-#EXTINF:-1 tvg-id="pinkserije.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKSERIJE.png" group-title="PINK", RS | PINK SERIJE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27043
-
-#EXTINF:-1 tvg-id="pinkmovies.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FOXMOVIESHD.png" group-title="PINK", RS | PINK MOVIES
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27046
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKLOL.png" group-title="PINK", RS | PINK LOL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27047
-
-#EXTINF:-1 tvg-id="RS | PINK HAHA" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PINKHAHA.png" group-title="PINK", RS | PINK HAHA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27050
-
-#EXTINF:-1 tvg-id="pinkfashion.rs" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-1-logo-png-transparent.png" group-title="PINK", RS | PINK FASHION
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27051
-
-#EXTINF:-1 tvg-id="pinkfamily.rs" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-1-logo-png-transparent.png" group-title="PINK", RS | PINK FAMILY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27052
-
-#EXTINF:-1 tvg-id="RS | PINK BRAVO" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pink-1-logo-png-transparent.png" group-title="PINK", RS | PINK BRAVO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/27053
-
-#EXTINF:-1 tvg-id="SI | ✦●✦●      SLOVENIA      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/slovenia.png" group-title="SLOVENIA", SI | ✦●✦●      SLOVENIA      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/181596
-
-#EXTINF:-1 tvg-id="tvslovenija1.si" tvg-logo="https://pbs.twimg.com/profile_images/1278246575291215872/9kqUdz3__400x400.jpg" group-title="SLOVENIA", SI | SLO 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9360
-
-#EXTINF:-1 tvg-id="tvslovenija2.si" tvg-logo="https://pbs.twimg.com/profile_images/1278246575291215872/9kqUdz3__400x400.jpg" group-title="SLOVENIA", SI | SLO 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9359
-
-#EXTINF:-1 tvg-id="tvslovenija3.si" tvg-logo="https://i.imgur.com/9vxN8Bc.png" group-title="SLOVENIA", SI | SLO 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316524
-
-#EXTINF:-1 tvg-id="kanala.si" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Kanal_A.png" group-title="SLOVENIA", SI | KANAL A
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9366
-
-#EXTINF:-1 tvg-id="nova24tv.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | NOVA 24 TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316551
-
-#EXTINF:-1 tvg-id="poptv.si" tvg-logo="https://logo.diamondtv.one/images/logos/UK/POP1.png" group-title="SLOVENIA", SI | POP TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9361
-
-#EXTINF:-1 tvg-id="oto.si" tvg-logo="https://logo.diamondtv.one/images/logos/UK/POP1.png" group-title="SLOVENIA", SI | POP OTO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9362
-
-#EXTINF:-1 tvg-id="kino.si" tvg-logo="https://logo.diamondtv.one/images/logos/UK/POP1.png" group-title="SLOVENIA", SI | POP KINO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9363
-
-#EXTINF:-1 tvg-id="brio.si" tvg-logo="https://logo.diamondtv.one/images/logos/UK/POP1.png" group-title="SLOVENIA", SI | POP BRIO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9364
-
-#EXTINF:-1 tvg-id="planettv.si" tvg-logo="https://www.total-slovenia-news.com/media/k2/items/cache/4963dc3efdc429d22dc01efe09f9de84_XL.jpg" group-title="SLOVENIA", SI | PLANET TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9365
-
-#EXTINF:-1 tvg-id="planet2.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | PLANET 2 TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316525
-
-#EXTINF:-1 tvg-id="SI | PLANET PLUS" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | PLANET PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316537
-
-#EXTINF:-1 tvg-id="telemaribor.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | TELE MARIBOR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316540
-
-#EXTINF:-1 tvg-id="SI | DIVA" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | DIVA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316528
-
-#EXTINF:-1 tvg-id="axn.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | AXN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316533
-
-#EXTINF:-1 tvg-id="cinestarfantasy.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | CINESTAR FANTASY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316529
-
-#EXTINF:-1 tvg-id="SI | DISCOVERY SCIENCE" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | DISCOVERY SCIENCE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316549
-
-#EXTINF:-1 tvg-id="discoveryidxtra.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | DISCOVERY TURBO XTRA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316550
-
-#EXTINF:-1 tvg-id="tvveseljak.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | VESELJAK TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316541
-
-#EXTINF:-1 tvg-id="SI | RTV MMC" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SLOVENIA", SI | RTV MMC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/187087
-
-#EXTINF:-1 tvg-id="tvkoper.si" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SLOVENIA", SI | KOPER TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/187092
-
-#EXTINF:-1 tvg-id="hbo.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | HBO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316534
-
-#EXTINF:-1 tvg-id="hbo2.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | HBO 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316535
-
-#EXTINF:-1 tvg-id="hbo3.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | HBO 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316536
-
-#EXTINF:-1 tvg-id="SI | FILMBOX STARS" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | FILMBOX STARS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316526
-
-#EXTINF:-1 tvg-id="SI | FILMBOX FAMILY" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | FILMBOX FAMILY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316527
-
-#EXTINF:-1 tvg-id="SI | FOX CRIME" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | FOX CRIME
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316530
-
-#EXTINF:-1 tvg-id="SI | FOX" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | FOX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316531
-
-#EXTINF:-1 tvg-id="SI | FOX LIFE" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | FOX LIFE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316532
-
-#EXTINF:-1 tvg-id="SI | VTV" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | VTV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316538
-
-#EXTINF:-1 tvg-id="goldtv.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | GOLD TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316539
-
-#EXTINF:-1 tvg-id="kino.si" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | KINO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316542
-
-#EXTINF:-1 tvg-id="SI | DUCK TV" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | DUCK TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316543
-
-#EXTINF:-1 tvg-id="SI | JIMJAM" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | JIMJAM
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316544
-
-#EXTINF:-1 tvg-id="SI | JOJKO" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | JOJKO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316545
-
-#EXTINF:-1 tvg-id="SI | BABY TV" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | BABY TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316546
-
-#EXTINF:-1 tvg-id="SI | MINIMAX" tvg-logo="https://i.imgur.com/9HYrSvk.png" group-title="SLOVENIA", SI | MINIMAX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316547
-
-#EXTINF:-1 tvg-id="sporttv1.si" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/SPORTV%203.png" group-title="SLOVENIA", SI | SPORT TV 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9356
-
-#EXTINF:-1 tvg-id="sporttv2.si" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/SPORTV%203.png" group-title="SLOVENIA", SI | SPORT TV 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9355
-
-#EXTINF:-1 tvg-id="sporttv3.si" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/SPORTV%203.png" group-title="SLOVENIA", SI | SPORT TV 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9354
-
-#EXTINF:-1 tvg-id="SI | EUROSPORT 2" tvg-logo="https://i.imgur.com/oQwbxGC.png" group-title="SLOVENIA", SI | EUROSPORT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316552
-
-#EXTINF:-1 tvg-id="sportklubhd.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB SPECIAL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316553
-
-#EXTINF:-1 tvg-id="sportklubhd.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316554
-
-#EXTINF:-1 tvg-id="SI | SPORT KLUB GOLF FHD" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB GOLF FHD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316555
-
-#EXTINF:-1 tvg-id="sportklub1.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316556
-
-#EXTINF:-1 tvg-id="sportklub2.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316557
-
-#EXTINF:-1 tvg-id="sportklub3.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316558
-
-#EXTINF:-1 tvg-id="sportklub4.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB 4
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316559
-
-#EXTINF:-1 tvg-id="sportklub5.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB 5
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316560
-
-#EXTINF:-1 tvg-id="sportklub6.si" tvg-logo="https://i.imgur.com/PCVUZeF.png" group-title="SLOVENIA", SI | SPORT KLUB 6
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/316561
-
-#EXTINF:-1 tvg-id="✦●✦●      CROATIA SP⚽RT      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", ✦●✦●      CROATIA SP⚽RT      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/214850
-
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/SPORTV%201.png" group-title="SPORT", SPORT TV 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/63041
-
-#EXTINF:-1 tvg-id="SI | SPORT TV2" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/SPORTV%202.png" group-title="SPORT", SI | SPORT TV2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/63042
-
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/SPORTV%203.png" group-title="SPORT", SPORT TV 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/63043
-
-#EXTINF:-1 tvg-id="sportklub1.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", SPORT KLUB 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9200
-
-#EXTINF:-1 tvg-id="sportklub2.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB2HD.png" group-title="SPORT", SPORT KLUB 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9199
-
-#EXTINF:-1 tvg-id="sportklub3.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB3HD.png" group-title="SPORT", SPORT KLUB 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9198
-
-#EXTINF:-1 tvg-id="sportklub4.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", SPORT KLUB 4
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271795
-
-#EXTINF:-1 tvg-id="sportklub5.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", SPORT KLUB 5
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271796
-
-#EXTINF:-1 tvg-id="sportklub6.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", SPORT KLUB 6
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271797
-
-#EXTINF:-1 tvg-id="sportklub7.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB3HD.png" group-title="SPORT", SPORT KLUB 7
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271792
-
-#EXTINF:-1 tvg-id="sportklub8.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", SPORT KLUB 8
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271794
-
-#EXTINF:-1 tvg-id="sportklub9.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", SPORT KLUB 9
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271793
-
-#EXTINF:-1 tvg-id="sportklub10.hr" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", SPORT KLUB 10
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/272083
-
-#EXTINF:-1 tvg-id="SPORT KLUB GOLF" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUBHD.png" group-title="SPORT", SPORT KLUB GOLF
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190762
-
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT1HD.png" group-title="SPORT", ARENA SPORT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9247
-
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT2HD.png" group-title="SPORT", ARENA SPORT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9246
-
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT3HD.png" group-title="SPORT", ARENA SPORT 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9245
-
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT4HD.png" group-title="SPORT", ARENA SPORT 4
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9244
-
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT5HR.png" group-title="SPORT", ARENA SPORT 5
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9243
-
-#EXTINF:-1 tvg-id="arenasport6.hr" tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-6-Live.png" group-title="SPORT", ARENA SPORT 6
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9242
-
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/EuroSport%201%20HD.png" group-title="SPORT", EUROSPORT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122595
-
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/EuroSport%202%20HD.png" group-title="SPORT", EUROSPORT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/122596
-
-#EXTINF:-1 tvg-id="sportskatv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", SPORTSKA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9197
-
-#EXTINF:-1 tvg-id="kreatortv.hr" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/Kreator%20TV.jpg" group-title="SPORT", KREATOR TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9220
-
-#EXTINF:-1 tvg-id="MAX SPORT 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", MAX SPORT 1 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/269977
-
-#EXTINF:-1 tvg-id="MAX SPORT 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", MAX SPORT 2 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/269978
-
-#EXTINF:-1 tvg-id="SPORTKLUB FIGHT" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FIGHTCHANEL.png" group-title="SPORT", SPORTKLUB FIGHT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190772
-
-#EXTINF:-1 tvg-id="✦●✦●      SERBIA SP⚽RT      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", ✦●✦●      SERBIA SP⚽RT      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/214854
-
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113414
-
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113413
-
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113412
-
-#EXTINF:-1 tvg-id="sportklub4.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB 4
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113411
-
-#EXTINF:-1 tvg-id="sportklub5.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB 5
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113410
-
-#EXTINF:-1 tvg-id="sportklub6.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB 6
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113409
-
-#EXTINF:-1 tvg-id="RS | SPORTKLUB" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113407
-
-#EXTINF:-1 tvg-id="RS | SPORTKLUB GOLF" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/SPORTKLUB1HD.png" group-title="SPORT", RS | SPORTKLUB GOLF
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113408
-
-#EXTINF:-1 tvg-id="RS | SPORTKLUB FIGHT" tvg-logo="noimage.png" group-title="SPORT", RS | SPORTKLUB FIGHT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/272075
-
-#EXTINF:-1 tvg-id="EX YU | ARENA SPORT PREMIUM 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", EX YU | ARENA SPORT PREMIUM 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/260717
-
-#EXTINF:-1 tvg-id="EX YU | ARENA SPORT PREMIUM 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", EX YU | ARENA SPORT PREMIUM 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/260716
-
-#EXTINF:-1 tvg-id="EX YU | ARENA SPORT PREMIUM 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", EX YU | ARENA SPORT PREMIUM 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/260718
-
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT1HD.png" group-title="SPORT", RS | ARENA SPORT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2170
-
-#EXTINF:-1 tvg-id="RS | ARENA SPORT 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", RS | ARENA SPORT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/125729
-
-#EXTINF:-1 tvg-id="RS | ARENA SPORT 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", RS | ARENA SPORT 1 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/125728
-
-#EXTINF:-1 tvg-id="arenasport2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT2HD.png" group-title="SPORT", RS | ARENA SPORT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2171
-
-#EXTINF:-1 tvg-id="RS | ARENA SPORT 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", RS | ARENA SPORT 2 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/125727
-
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT3HD.png" group-title="SPORT", RS | ARENA SPORT 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2172
-
-#EXTINF:-1 tvg-id="RS | ARENA SPORT 3 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", RS | ARENA SPORT 3 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/125726
-
-#EXTINF:-1 tvg-id="arenasport4.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT4HD.png" group-title="SPORT", RS | ARENA SPORT 4
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2173
-
-#EXTINF:-1 tvg-id="RS | ARENA SPORT 4 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", RS | ARENA SPORT 4 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/125725
-
-#EXTINF:-1 tvg-id="arenasport5.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ARENASPORT5HR.png" group-title="SPORT", RS | ARENA SPORT 5
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2174
-
-#EXTINF:-1 tvg-id="arenasport6.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", RS | ARENA SPORT 6
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/271798
-
-#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SPORT", RS | ARENA SPORT 1X2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/272092
-
-#EXTINF:-1 tvg-id="RS | Arena Premium 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3986.png?86725" group-title="SPORT", RS | Arena Premium 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/421600
-
-#EXTINF:-1 tvg-id="RS | Arena Premium 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3762.png?52680" group-title="SPORT", RS | Arena Premium 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/421599
-
-#EXTINF:-1 tvg-id="RS | Arena Premium 3" tvg-logo="https://sltv-logo.cms-s.com/logo/ExYu/sport/arenaPremium1.png" group-title="SPORT", RS | Arena Premium 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/421598
-
-#EXTINF:-1 tvg-id="eurosport1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/EuroSport%201%20HD.png" group-title="SPORT", RS | EUROSPORT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2184
-
-#EXTINF:-1 tvg-id="eurosport1.rs" tvg-logo="https://logosrated.net/wp-content/uploads/parser/ESP.co.uk-Ltd-Logo-1.jpg" group-title="SPORT", RS | EUROSPORT 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113456
-
-#EXTINF:-1 tvg-id="eurosport2.rs" tvg-logo="https://logosrated.net/wp-content/uploads/parser/ESP.co.uk-Ltd-Logo-1.jpg" group-title="SPORT", RS | EUROSPORT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113455
-
-#EXTINF:-1 tvg-id="eurosport2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/EuroSport%202%20HD.png" group-title="SPORT", RS | EUROSPORT 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2185
-
-#EXTINF:-1 tvg-id="fightnetwork.rs" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fight-network.png" group-title="SPORT", RS | ARENA FIGHT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113454
-
-#EXTINF:-1 tvg-id="sos.rs" tvg-logo="https://www.usns.rs/wp-content/uploads/2017/05/sos-kanal-novi-logo.png" group-title="SPORT", RS | SOS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190732
-
-#EXTINF:-1 tvg-id="RS|Kafansko" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/kafansko.vece.png" group-title="SRBIJA", RS|Kafansko
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/789534
-
-#EXTINF:-1 tvg-id="RS | ✦●✦●      GENERAL      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/serbia.png" group-title="SRBIJA", RS | ✦●✦●      GENERAL      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/181566
-
-#EXTINF:-1 tvg-id="rts1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTS3.png" group-title="SRBIJA", RS | RTS 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2222
-
-#EXTINF:-1 tvg-id="rts2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTS%202.png" group-title="SRBIJA", RS | RTS 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2223
-
-#EXTINF:-1 tvg-id="rts3.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTS3.png" group-title="SRBIJA", RS | RTS 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2224
-
-#EXTINF:-1 tvg-id="rts1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/RTS1.png" group-title="SRBIJA", RS | RTS HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2225
-
-#EXTINF:-1 tvg-id="rtssvet.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | RTS SVET
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197037
-
-#EXTINF:-1 tvg-id="rtsdrama.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | RTS DRAMA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197034
-
-#EXTINF:-1 tvg-id="rtstrezor.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | RTS TREZOR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197036
-
-#EXTINF:-1 tvg-id="rtszivot.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | RTS ZIVOT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197033
-
-#EXTINF:-1 tvg-id="rtskolo.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | RTS KOLO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197035
-
-#EXTINF:-1 tvg-id="prva.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Prva%20TV.png" group-title="SRBIJA", RS | PRVA 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2219
-
-#EXTINF:-1 tvg-id="prvaplus.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/PRVAPLUS.png" group-title="SRBIJA", RS | PRVA PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2220
-
-#EXTINF:-1 tvg-id="prvaworld.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | PRVA WORLD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113393
-
-#EXTINF:-1 tvg-id="prvamax.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | PRVA MAX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113386
-
-#EXTINF:-1 tvg-id="prvakick.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | Prva Kick
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203046
-
-#EXTINF:-1 tvg-id="prvafiles.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | PRVA FILES
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203051
-
-#EXTINF:-1 tvg-id="happytv.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HAPPYTV.png" group-title="SRBIJA", RS | HAPPY TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2187
-
-#EXTINF:-1 tvg-id="RS | HAPPY PAROVI UZIVO 24H 1" tvg-logo="https://i.pinimg.com/236x/19/ea/9f/19ea9fb82dfd6d4bdc896de970971d30.jpg" group-title="SRBIJA", RS | HAPPY PAROVI UZIVO 24H 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113495
-
-#EXTINF:-1 tvg-id="RS | HAPPY PAROVI UZIVO 24H 2" tvg-logo="https://i.pinimg.com/236x/19/ea/9f/19ea9fb82dfd6d4bdc896de970971d30.jpg" group-title="SRBIJA", RS | HAPPY PAROVI UZIVO 24H 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113496
-
-#EXTINF:-1 tvg-id="RS | HAPPY DRUSTVO" tvg-logo="http://focustv.xyz/files/ch/EXYU/happydrustvo.jpg" group-title="SRBIJA", RS | HAPPY DRUSTVO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/365677
-
-#EXTINF:-1 tvg-id="rtszivot.rs" tvg-logo="http://focustv.xyz/files/ch/EXYU/happyzvt.jpg" group-title="SRBIJA", RS | HAPPY ŽIVOT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/365676
-
-#EXTINF:-1 tvg-id="RS | HAPPY ZEMLJA" tvg-logo="http://focustv.xyz/files/ch/EXYU/happyzemlja.png" group-title="SRBIJA", RS | HAPPY ZEMLJA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/365675
-
-#EXTINF:-1 tvg-id="RS | RTV VOJVODINA 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | RTV VOJVODINA 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113389
-
-#EXTINF:-1 tvg-id="RS | RTV VOJVODINA 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | RTV VOJVODINA 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197046
-
-#EXTINF:-1 tvg-id="b92.rs" tvg-logo="https://pbs.twimg.com/profile_images/1234148109351051264/6ADWO9Pg_400x400.jpg" group-title="SRBIJA", RS | B92
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2175
-
-#EXTINF:-1 tvg-id="n1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/N1SRBIJA.png" group-title="SRBIJA", RS | N1 INFO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/61503
-
-#EXTINF:-1 tvg-id="novas.sr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Nova_S_logo.png" group-title="SRBIJA", RS | NOVA S
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113387
-
-#EXTINF:-1 tvg-id="tvpalmaplus.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | PALMA PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197039
-
-#EXTINF:-1 tvg-id="RS | BELL AMIE" tvg-logo="http://www.rtvd.com/productimages/1468971167.jpg" group-title="SRBIJA", RS | BELL AMIE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113479
-
-#EXTINF:-1 tvg-id="kcn1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | KCN 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203047
-
-#EXTINF:-1 tvg-id="kcn2music.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | KCN 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203048
-
-#EXTINF:-1 tvg-id="kcn3svetplus.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | KCN 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203049
-
-#EXTINF:-1 tvg-id="RS | TV DUGA PLUS" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | TV DUGA PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197042
-
-#EXTINF:-1 tvg-id="zadrugalive1.rs" tvg-logo="noimage.png" group-title="SRBIJA", RS | ZADRUGA 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113491
-
-#EXTINF:-1 tvg-id="zadrugalive2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | ZADRUGA 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113492
-
-#EXTINF:-1 tvg-id="zadrugalive4.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | ZADRUGA 4
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113494
-
-#EXTINF:-1 tvg-id="zadrugalive3.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | ZADRUGA 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113493
-
-#EXTINF:-1 tvg-id="RS | NOVI PAZAR" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | NOVI PAZAR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113420
-
-#EXTINF:-1 tvg-id="RS | SANDZAK TV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | SANDZAK TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197038
-
-#EXTINF:-1 tvg-id="RS | TV LESKOVAC" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | TV LESKOVAC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197044
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://rtvnp.rs/wp-content/uploads/2020/04/RTV-UZIVO.jpg" group-title="SRBIJA", RS | RTV NOVI PAZAR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2227
-
-#EXTINF:-1 tvg-id="sos.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/sos.png" group-title="SRBIJA", RS | SOS KANAL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2228
-
-#EXTINF:-1 tvg-id="grand.rs" tvg-logo="https://grand.online/resources/img/grand-tv-og.jpg" group-title="SRBIJA", RS | GRAND TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2186
-
-#EXTINF:-1 tvg-id="natgeowild.rs" tvg-logo="https://logo.diamondtv.one/images/logos/ITALY/NATGEOWILDFHD.png" group-title="SRBIJA", RS | NATONAL GEO WILD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113424
-
-#EXTINF:-1 tvg-id="discoverychannel.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISCOVERYCHANNEL.png" group-title="SRBIJA", RS | DISCOVERY CHANNEL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190728
-
-#EXTINF:-1 tvg-id="crimeandinvestigation.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CRIMEINVESTIGATION.png" group-title="SRBIJA", RS | CRIME & INVESTIGATION NETWORK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113470
-
-#EXTINF:-1 tvg-id="RS | TV ISTOK 1" tvg-logo="noimage.png" group-title="SRBIJA", RS | TV ISTOK 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190724
-
-#EXTINF:-1 tvg-id="RS | TV ISTOK 2" tvg-logo="noimage.png" group-title="SRBIJA", RS | TV ISTOK 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190725
-
-#EXTINF:-1 tvg-id="RS | BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="SRBIJA", RS | BBC EARTH
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113480
-
-#EXTINF:-1 tvg-id="RS | DOCU BOX" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | DOCU BOX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113459
-
-#EXTINF:-1 tvg-id="cinemania.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | CINEMANIA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113474
-
-#EXTINF:-1 tvg-id="RS | FILMBOX PLUS" tvg-logo="https://spiintl.com/data/files/zdjecie/66/39/66392040950979bb4f3b635b5f3928d6e9cdb2b2fe5145000cd881214671cb58.png" group-title="SRBIJA", RS | FILMBOX PLUS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113451
-
-#EXTINF:-1 tvg-id="RS | FILMBOX PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/FilmBox_Premium_HD_logo.png" group-title="SRBIJA", RS | FILMBOX PREMIUM
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113452
-
-#EXTINF:-1 tvg-id="RS | FILM KLUB EXTRA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | FILM KLUB EXTRA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113453
-
-#EXTINF:-1 tvg-id="rtv2.rs" tvg-logo="https://static.rtv.rs/slike/2019/06/11/rtv2.jpg" group-title="SRBIJA", RS | RTV 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113390
-
-#EXTINF:-1 tvg-id="studiob.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | STUDIO B
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113391
-
-#EXTINF:-1 tvg-id="woman.rs" tvg-logo="http://kickmedia.tv/Woman/Woman_logo_last.png" group-title="SRBIJA", RS | WOMAN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113394
-
-#EXTINF:-1 tvg-id="tv1000.rs" tvg-logo="noimage.png" group-title="SRBIJA", RS | TV1000
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113401
-
-#EXTINF:-1 tvg-id="scifi.rs" tvg-logo="https://logo.diamondtv.one/images/logos/USA/SYFYHD.png" group-title="SRBIJA", RS | SYFY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113405
-
-#EXTINF:-1 tvg-id="RS | SIMIC TV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | SIMIC TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113415
-
-#EXTINF:-1 tvg-id="RS | RTCG SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/RTCG_logo.svg/1200px-RTCG_logo.svg.png" group-title="SRBIJA", RS | RTCG SAT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113416
-
-#EXTINF:-1 tvg-id="RS | PICKBOX" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/08/pickbox-tv-ok.jpg" group-title="SRBIJA", RS | PICKBOX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113418
-
-#EXTINF:-1 tvg-id="RS | GRAND NARODNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Grand_Tv.png" group-title="SRBIJA", RS | GRAND NARODNA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113439
-
-#EXTINF:-1 tvg-id="RS | FINE LIVING" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | FINE LIVING
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113450
-
-#EXTINF:-1 tvg-id="disneychannel.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title="SRBIJA", RS | DISNEY CHANNEL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113461
-
-#EXTINF:-1 tvg-id="RS | ✦●✦●      ENTERTAINMENT      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/serbia.png" group-title="SRBIJA", RS | ✦●✦●      ENTERTAINMENT      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/181568
-
-#EXTINF:-1 tvg-id="RS | ✦●✦●      DOCU      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/serbia.png" group-title="SRBIJA", RS | ✦●✦●      DOCU      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/181575
-
-#EXTINF:-1 tvg-id="RS | 1TV (MK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/1%D1%82%D0%B2.png" group-title="SRBIJA", RS | 1TV (MK)
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190729
-
-#EXTINF:-1 tvg-id="RS | RTCG 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/RTCG_logo.svg/1200px-RTCG_logo.svg.png" group-title="SRBIJA", RS | RTCG 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190730
-
-#EXTINF:-1 tvg-id="RS | RTCG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/RTCG_logo.svg/1200px-RTCG_logo.svg.png" group-title="SRBIJA", RS | RTCG 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190731
-
-#EXTINF:-1 tvg-id="RS | JEFIMIJA TV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | JEFIMIJA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197040
-
-#EXTINF:-1 tvg-id="RS | HRAM TV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | HRAM TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197041
-
-#EXTINF:-1 tvg-id="RS | TV BOR" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | TV BOR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/197045
-
-#EXTINF:-1 tvg-id="pink1.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="SRBIJA", RS | K1 TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/203050
-
-#EXTINF:-1 tvg-id="novas.sr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="SRBIJA", RS | NOVA M
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113421
-
-#EXTINF:-1 tvg-id="novas.sr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/NOVATV.png" group-title="SRBIJA", RS | NOVA TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2189
-
-#EXTINF:-1 tvg-id="✦●✦●      CROATIA DOKU      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="ZIVOT I DOKUMENTARCI", ✦●✦●      CROATIA DOKU      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/214957
-
-#EXTINF:-1 tvg-id="nationalgeographic.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/DISCOVERYID.png" group-title="ZIVOT I DOKUMENTARCI", NATIONAL GEOGRAPHIC CHANNEL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9257
-
-#EXTINF:-1 tvg-id="CBS REALITY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="ZIVOT I DOKUMENTARCI", CBS REALITY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190693
-
-#EXTINF:-1 tvg-id="animalplanet.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/ANIMALPLANETHD.png" group-title="ZIVOT I DOKUMENTARCI", ANIMAL PLANET
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9251
-
-#EXTINF:-1 tvg-id="historychannel.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HISTORYHD.png" group-title="ZIVOT I DOKUMENTARCI", HISTORY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9256
-
-#EXTINF:-1 tvg-id="✦●✦●      CROATIA MOVIE      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="ZIVOT I DOKUMENTARCI", ✦●✦●      CROATIA MOVIE      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/214958
-
-#EXTINF:-1 tvg-id="HBO 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HBO1HD.png" group-title="ZIVOT I DOKUMENTARCI", HBO 1 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190689
-
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HBO%202%20HD%20SRB.png" group-title="ZIVOT I DOKUMENTARCI", HBO 2 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190690
-
-#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HBO%203%20HD%20SRB.png" group-title="ZIVOT I DOKUMENTARCI", HBO 3 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190691
-
-#EXTINF:-1 tvg-id="HBO ADRIA" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/HBO1HD.png" group-title="ZIVOT I DOKUMENTARCI", HBO ADRIA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9255
-
-#EXTINF:-1 tvg-id="M1 GOLD" tvg-logo="https://lh3.googleusercontent.com/proxy/1IY83EpqLgq-PWg5JBfr_EpEfyotSMhStgeOkOnzHNj7hjaDSzjqXJF3uLgC_BMkry_sLQDk15l0CEzGOMHyjsVMTtyJHw" group-title="ZIVOT I DOKUMENTARCI", M1 GOLD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9217
-
-#EXTINF:-1 tvg-id="M1 FILM" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="ZIVOT I DOKUMENTARCI", M1 FILM
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9218
-
-#EXTINF:-1 tvg-id="CINESTAR" tvg-logo="noimage.png" group-title="ZIVOT I DOKUMENTARCI", CINESTAR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190695
-
-#EXTINF:-1 tvg-id="CINESTAR TV PREMIERE 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CINESTARPREMIERE1.png" group-title="ZIVOT I DOKUMENTARCI", CINESTAR TV PREMIERE 1 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190697
-
-#EXTINF:-1 tvg-id="CINESTAR TV PREMIERE 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CINESTARPREMIERE2.png" group-title="ZIVOT I DOKUMENTARCI", CINESTAR TV PREMIERE 2 HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190698
-
-#EXTINF:-1 tvg-id="CINESTAR AKTION" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CINESTARACTION.png" group-title="ZIVOT I DOKUMENTARCI", CINESTAR AKTION
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190696
-
-#EXTINF:-1 tvg-id="CINESTAR TV FANTASY" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CINESTARFANTASY.png" group-title="ZIVOT I DOKUMENTARCI", CINESTAR TV FANTASY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190769
-
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FOXMOVIESHD.png" group-title="ZIVOT I DOKUMENTARCI", FOX MOVIES
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190770
-
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FOX%20Life.png" group-title="ZIVOT I DOKUMENTARCI", FOX LIFE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190774
-
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/FOXMOVIESHD.png" group-title="ZIVOT I DOKUMENTARCI", FOX MOVIES
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190775
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/AXNHR.png" group-title="ZIVOT I DOKUMENTARCI", AXN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190736
-
-#EXTINF:-1 tvg-id="AXN SPIN" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/AXNHR.png" group-title="ZIVOT I DOKUMENTARCI", AXN SPIN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190737
-
-#EXTINF:-1 tvg-id="klasiktv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/KLASIKTV.png" group-title="ZIVOT I DOKUMENTARCI", KLASIK TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9221
-
-#EXTINF:-1 tvg-id="kinotv.hr" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/KINOTVHR.png" group-title="ZIVOT I DOKUMENTARCI", KINO TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9222
-
-#EXTINF:-1 tvg-id="EPIC DRAMA" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/EPICDRAMAHD.png" group-title="ZIVOT I DOKUMENTARCI", EPIC DRAMA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9237
-
-#EXTINF:-1 tvg-id="24 KITCHEN" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/24KITCHEN.png" group-title="ZIVOT I DOKUMENTARCI", 24 KITCHEN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9249
-
-#EXTINF:-1 tvg-id="✦●✦●      SERBIA DOKU      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/serbia.png" group-title="ZIVOT I DOKUMENTARCI", ✦●✦●      SERBIA DOKU      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/181597
-
-#EXTINF:-1 tvg-id="viasatnature.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/VIASATNATURE.png" group-title="ZIVOT I DOKUMENTARCI", RS | VIASAT NATURE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113395
-
-#EXTINF:-1 tvg-id="viasathistory.rs" tvg-logo="https://www.chillglobal.com/images/channels/viasat-history-1432653724.jpg" group-title="ZIVOT I DOKUMENTARCI", RS | VIASAT HISTORY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113397
-
-#EXTINF:-1 tvg-id="viasatexplore.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Viasat%20Explore.png" group-title="ZIVOT I DOKUMENTARCI", RS | VIASAT EXPLORE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113398
-
-#EXTINF:-1 tvg-id="history2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/ITALY/HISTORYFHD.png" group-title="ZIVOT I DOKUMENTARCI", RS | HISTORY 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113435
-
-#EXTINF:-1 tvg-id="history2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/ITALY/HISTORYFHD.png" group-title="ZIVOT I DOKUMENTARCI", RS | HISTORY H2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113432
-
-#EXTINF:-1 tvg-id="history.rs" tvg-logo="https://logo.diamondtv.one/images/logos/ITALY/HISTORYFHD.png" group-title="ZIVOT I DOKUMENTARCI", RS | HISTORY CHANNEL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113434
-
-#EXTINF:-1 tvg-id="nationalgeographic.rs" tvg-logo="https://logo.diamondtv.one/images/logos/ITALY/NATGEOWILDFHD.png" group-title="ZIVOT I DOKUMENTARCI", RS | NATIONAL GEOGRAPHIC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113425
-
-#EXTINF:-1 tvg-id="RS | DISCOVERY DTX" tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem.png" group-title="ZIVOT I DOKUMENTARCI", RS | DISCOVERY DTX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113462
-
-#EXTINF:-1 tvg-id="RS | DISCOVERY XTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Discovery_Turbo_Xtra.png" group-title="ZIVOT I DOKUMENTARCI", RS | DISCOVERY XTRA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113463
-
-#EXTINF:-1 tvg-id="RS | DISCOVERY WORLD" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/DISCOVERY%20CHANNEL.png" group-title="ZIVOT I DOKUMENTARCI", RS | DISCOVERY WORLD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113464
-
-#EXTINF:-1 tvg-id="RS | DISCOVERY SHOWCASE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERY.png" group-title="ZIVOT I DOKUMENTARCI", RS | DISCOVERY SHOWCASE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113465
-
-#EXTINF:-1 tvg-id="discoveryidxtra.rs" tvg-logo="https://logo.diamondtv.one/images/logos/FRANCE/DISCOVERYINVESTIGATIONHD.png" group-title="ZIVOT I DOKUMENTARCI", RS | DISCOVERY ID
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113467
-
-#EXTINF:-1 tvg-id="travelchannel.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/TRAVELCHANNEL.png" group-title="ZIVOT I DOKUMENTARCI", RS | TRAVEL CHANNEL
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113403
-
-#EXTINF:-1 tvg-id="cbsreality.rs" tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/CBS%20REALITY.png" group-title="ZIVOT I DOKUMENTARCI", RS | CBS REALITY
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113476
-
-#EXTINF:-1 tvg-id="animalplanet.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/ANIMALPLANET.png" group-title="ZIVOT I DOKUMENTARCI", RS | ANIMAL PLANET
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113484
-
-#EXTINF:-1 tvg-id="RS | FOOD NETWORK" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FOODNETWORK.png" group-title="ZIVOT I DOKUMENTARCI", RS | FOOD NETWORK
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113449
-
-#EXTINF:-1 tvg-id="tlc.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/TLC.png" group-title="ZIVOT I DOKUMENTARCI", RS | TLC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113404
-
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/24kitchen.png" group-title="ZIVOT I DOKUMENTARCI", RS | 24 KITCHEN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113489
-
-#EXTINF:-1 tvg-id="RS | DA VINCI LEARNING" tvg-logo="noimage.png" group-title="ZIVOT I DOKUMENTARCI", RS | DA VINCI LEARNING
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190727
-
-#EXTINF:-1 tvg-id="loviribolov.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/LOVIRIBOLOV.png" group-title="ZIVOT I DOKUMENTARCI", RS | LOV AND RIBOLOV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2188
-
-#EXTINF:-1 tvg-id="✦●✦●      SERBIA MOVIE      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/serbia.png" group-title="ZIVOT I DOKUMENTARCI", ✦●✦●      SERBIA MOVIE      ✦●✦●
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/214959
-
-#EXTINF:-1 tvg-id="fox.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/FOX.png" group-title="ZIVOT I DOKUMENTARCI", RS | FOX
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113445
-
-#EXTINF:-1 tvg-id="foxmovies.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/FOX.png" group-title="ZIVOT I DOKUMENTARCI", RS | FOX MOVIES
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113441
-
-#EXTINF:-1 tvg-id="foxlife.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/FOX.png" group-title="ZIVOT I DOKUMENTARCI", RS | FOX LIFE
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113443
-
-#EXTINF:-1 tvg-id="foxcrime.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/FOX.png" group-title="ZIVOT I DOKUMENTARCI", RS | FOX CRIME
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113446
-
-#EXTINF:-1 tvg-id="cinemax.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Cinemax1HD.png" group-title="ZIVOT I DOKUMENTARCI", RS | CINEMAX 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2177
-
-#EXTINF:-1 tvg-id="cinemax2.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/Cinemax2HD.png" group-title="ZIVOT I DOKUMENTARCI", RS | CINEMAX 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2178
-
-#EXTINF:-1 tvg-id="RS | CINESTAR TV PREMIERE 1" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CINESTARPREMIERE1.png" group-title="ZIVOT I DOKUMENTARCI", RS | CINESTAR TV PREMIERE 1
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2180
-
-#EXTINF:-1 tvg-id="RS | CINESTAR PREMIERE 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="ZIVOT I DOKUMENTARCI", RS | CINESTAR PREMIERE 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113473
-
-#EXTINF:-1 tvg-id="cinestaraction.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/CINESTARACTIONTV.png" group-title="ZIVOT I DOKUMENTARCI", RS | CINESTAR TV ACTION
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2179
-
-#EXTINF:-1 tvg-id="cinestartv.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="ZIVOT I DOKUMENTARCI", RS | CINESTAR TV
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113472
-
-#EXTINF:-1 tvg-id="hbohd.rs" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/HBO.png" group-title="ZIVOT I DOKUMENTARCI", RS | HBO
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113436
-
-#EXTINF:-1 tvg-id="hbo2hd.rs" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO2.png" group-title="ZIVOT I DOKUMENTARCI", RS | HBO 2
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113438
-
-#EXTINF:-1 tvg-id="hbo3hd.rs" tvg-logo="https://logo.diamondtv.one/images/logos/BULGARIA/HBO3.png" group-title="ZIVOT I DOKUMENTARCI", RS | HBO 3
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113437
-
-#EXTINF:-1 tvg-id="eentertainment.rs" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/E!.png" group-title="ZIVOT I DOKUMENTARCI", RS |  E!
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/2183
-
-#EXTINF:-1 tvg-id="eentertainment.rs" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="ZIVOT I DOKUMENTARCI", RS | E! ENTERTEIMENT
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113457
-
-#EXTINF:-1 tvg-id="axn.rs" tvg-logo="https://upload.wikimedia.org//wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="ZIVOT I DOKUMENTARCI", RS | AXN HD
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190726
-
-#EXTINF:-1 tvg-id="axnspin.rs" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNSPIN.png" group-title="ZIVOT I DOKUMENTARCI", RS | AXN SPIN
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113482
-
-#EXTINF:-1 tvg-id="RS | AXN ADRIA" tvg-logo="https://logo.diamondtv.one/images/logos/SPAIN/AXNHD.png" group-title="ZIVOT I DOKUMENTARCI", RS | AXN ADRIA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113483
-
-#EXTINF:-1 tvg-id="RS | AMC" tvg-logo="https://logo.diamondtv.one/images/logos/UK/AMC.png" group-title="ZIVOT I DOKUMENTARCI", RS | AMC
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113486
-
-#EXTINF:-1 tvg-id="RS | DIVA" tvg-logo="https://logo.diamondtv.one/images/logos/ITALY/diva_global.png" group-title="ZIVOT I DOKUMENTARCI", RS | DIVA
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/113460
-
-#EXTINF:-1 tvg-id="RS | SUPER STAR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SuperstarTV_logo.png" group-title="ZIVOT I DOKUMENTARCI", RS | SUPER STAR
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/190733
-
-#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-logo="https://logo.diamondtv.one/images/logos/EXYU/AlJazeera.png" group-title="ZIVOT I DOKUMENTARCI", BA | AL JEZZERA BALKANS
-http://line.team-tv.link:80/ziPjCejBx/eigNyNS806/9112
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ HRVATSKA ✦●✦" tvg-logo="" group-title="HRVATSKA",✦●✦ HRVATSKA ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491599
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 1 FHD" tvg-logo="" group-title="HRVATSKA",HRT 1 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491598
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 1 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA",HRT 1 FHD (HEVC)
+http://luxe-smarters.co:2052/Nivek786/78655/491597
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 2 FHD" tvg-logo="" group-title="HRVATSKA",HRT 2 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491596
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 2 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA",HRT 2 FHD (HEVC)
+http://luxe-smarters.co:2052/Nivek786/78655/491595
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 3 FHD" tvg-logo="" group-title="HRVATSKA",HRT 3 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491594
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 3 FHD (hevc)" tvg-logo="" group-title="HRVATSKA",HRT 3 FHD (hevc)
+http://luxe-smarters.co:2052/Nivek786/78655/491593
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 4 FHD" tvg-logo="" group-title="HRVATSKA",HRT 4 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491592
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 4 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA",HRT 4 FHD (HEVC)
+http://luxe-smarters.co:2052/Nivek786/78655/491591
+#EXTINF:-1 tvg-ID="" tvg-name="HRT INT. HD" tvg-logo="" group-title="HRVATSKA",HRT INT. HD
+http://luxe-smarters.co:2052/Nivek786/78655/491590
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA TV HD" tvg-logo="" group-title="HRVATSKA",NOVA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491589
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA TV FHD (hevc)" tvg-logo="" group-title="HRVATSKA",NOVA TV FHD (hevc)
+http://luxe-smarters.co:2052/Nivek786/78655/491588
+#EXTINF:-1 tvg-ID="" tvg-name="DOMA TV HD" tvg-logo="" group-title="HRVATSKA",DOMA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491587
+#EXTINF:-1 tvg-ID="" tvg-name="DOMA TV FHD (HEVC)" tvg-logo="" group-title="HRVATSKA",DOMA TV FHD (HEVC)
+http://luxe-smarters.co:2052/Nivek786/78655/491586
+#EXTINF:-1 tvg-ID="" tvg-name="RTL HR HD" tvg-logo="" group-title="HRVATSKA",RTL HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491585
+#EXTINF:-1 tvg-ID="" tvg-name="RTL FHD (HEVC)" tvg-logo="" group-title="HRVATSKA",RTL FHD (HEVC)
+http://luxe-smarters.co:2052/Nivek786/78655/491584
+#EXTINF:-1 tvg-ID="" tvg-name="RTL 2 HR HD" tvg-logo="" group-title="HRVATSKA",RTL 2 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491583
+#EXTINF:-1 tvg-ID="" tvg-name="RTL 2 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA",RTL 2 FHD (HEVC)
+http://luxe-smarters.co:2052/Nivek786/78655/491582
+#EXTINF:-1 tvg-ID="" tvg-name="RTL CRIME" tvg-logo="" group-title="HRVATSKA",RTL CRIME
+http://luxe-smarters.co:2052/Nivek786/78655/491581
+#EXTINF:-1 tvg-ID="" tvg-name="RTL LIVING" tvg-logo="" group-title="HRVATSKA",RTL LIVING
+http://luxe-smarters.co:2052/Nivek786/78655/491580
+#EXTINF:-1 tvg-ID="" tvg-name="RTL PASSION" tvg-logo="" group-title="HRVATSKA",RTL PASSION
+http://luxe-smarters.co:2052/Nivek786/78655/491579
+#EXTINF:-1 tvg-ID="" tvg-name="N1 HR" tvg-logo="" group-title="HRVATSKA",N1 HR
+http://luxe-smarters.co:2052/Nivek786/78655/491578
+#EXTINF:-1 tvg-ID="" tvg-name="Z1 HR" tvg-logo="" group-title="HRVATSKA",Z1 HR
+http://luxe-smarters.co:2052/Nivek786/78655/491577
+#EXTINF:-1 tvg-ID="" tvg-name="OSJECKA TV" tvg-logo="" group-title="HRVATSKA",OSJECKA TV
+http://luxe-smarters.co:2052/Nivek786/78655/491576
+#EXTINF:-1 tvg-ID="" tvg-name="STV SLAVONIJA HD" tvg-logo="" group-title="HRVATSKA",STV SLAVONIJA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491575
+#EXTINF:-1 tvg-ID="" tvg-name="PLAVA VINKOVACKA" tvg-logo="" group-title="HRVATSKA",PLAVA VINKOVACKA
+http://luxe-smarters.co:2052/Nivek786/78655/491574
+#EXTINF:-1 tvg-ID="" tvg-name="VTV" tvg-logo="" group-title="HRVATSKA",VTV
+http://luxe-smarters.co:2052/Nivek786/78655/491573
+#EXTINF:-1 tvg-ID="" tvg-name="LIBERTAS TV HD" tvg-logo="" group-title="HRVATSKA",LIBERTAS TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491572
+#EXTINF:-1 tvg-ID="" tvg-name="LAUDATO TV" tvg-logo="" group-title="HRVATSKA",LAUDATO TV
+http://luxe-smarters.co:2052/Nivek786/78655/491571
+#EXTINF:-1 tvg-ID="" tvg-name="MREZA TV HD" tvg-logo="" group-title="HRVATSKA",MREZA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491570
+#EXTINF:-1 tvg-ID="" tvg-name="CRO TV HD" tvg-logo="" group-title="HRVATSKA",CRO TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491569
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ BOSNA I HERCEGOVINA ✦●✦" tvg-logo="" group-title="BIH",✦●✦ BOSNA I HERCEGOVINA ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491568
+#EXTINF:-1 tvg-ID="" tvg-name="BHT 1 HD" tvg-logo="" group-title="BIH",BHT 1 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491567
+#EXTINF:-1 tvg-ID="" tvg-name="FEDERALNA TV HD" tvg-logo="" group-title="BIH",FEDERALNA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491566
+#EXTINF:-1 tvg-ID="" tvg-name="OBN HD" tvg-logo="" group-title="BIH",OBN HD
+http://luxe-smarters.co:2052/Nivek786/78655/491565
+#EXTINF:-1 tvg-ID="" tvg-name="H TV HD" tvg-logo="" group-title="BIH",H TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491564
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA BH HD" tvg-logo="" group-title="BIH",NOVA BH HD
+http://luxe-smarters.co:2052/Nivek786/78655/491563
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA BH FHD" tvg-logo="" group-title="BIH",NOVA BH FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491562
+#EXTINF:-1 tvg-ID="" tvg-name="AL JAZEERA BALKANS HD" tvg-logo="" group-title="BIH",AL JAZEERA BALKANS HD
+http://luxe-smarters.co:2052/Nivek786/78655/491561
+#EXTINF:-1 tvg-ID="" tvg-name="PINK BH" tvg-logo="" group-title="BIH",PINK BH
+http://luxe-smarters.co:2052/Nivek786/78655/491560
+#EXTINF:-1 tvg-ID="" tvg-name="N1 BH" tvg-logo="" group-title="BIH",N1 BH
+http://luxe-smarters.co:2052/Nivek786/78655/491559
+#EXTINF:-1 tvg-ID="" tvg-name="BN FHD" tvg-logo="" group-title="BIH",BN FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491558
+#EXTINF:-1 tvg-ID="" tvg-name="BN 2 HD" tvg-logo="" group-title="BIH",BN 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491557
+#EXTINF:-1 tvg-ID="" tvg-name="FACE TV" tvg-logo="" group-title="BIH",FACE TV
+http://luxe-smarters.co:2052/Nivek786/78655/491556
+#EXTINF:-1 tvg-ID="" tvg-name="H TV 2 HD" tvg-logo="" group-title="BIH",H TV 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491555
+#EXTINF:-1 tvg-ID="" tvg-name="RTV USK HD" tvg-logo="" group-title="BIH",RTV USK HD
+http://luxe-smarters.co:2052/Nivek786/78655/491554
+#EXTINF:-1 tvg-ID="" tvg-name="UNA TV BH HD" tvg-logo="" group-title="BIH",UNA TV BH HD
+http://luxe-smarters.co:2052/Nivek786/78655/491553
+#EXTINF:-1 tvg-ID="" tvg-name="RTV TK HD" tvg-logo="" group-title="BIH",RTV TK HD
+http://luxe-smarters.co:2052/Nivek786/78655/491552
+#EXTINF:-1 tvg-ID="" tvg-name="BIR TV HD" tvg-logo="" group-title="BIH",BIR TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491551
+#EXTINF:-1 tvg-ID="" tvg-name="MTV IGMAN" tvg-logo="" group-title="BIH",MTV IGMAN
+http://luxe-smarters.co:2052/Nivek786/78655/491550
+#EXTINF:-1 tvg-ID="" tvg-name="TV SARAJEVO HD" tvg-logo="" group-title="BIH",TV SARAJEVO HD
+http://luxe-smarters.co:2052/Nivek786/78655/491549
+#EXTINF:-1 tvg-ID="" tvg-name="RTV ZENICA HD" tvg-logo="" group-title="BIH",RTV ZENICA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491548
+#EXTINF:-1 tvg-ID="" tvg-name="NTVIC KAKANJ" tvg-logo="" group-title="BIH",NTVIC KAKANJ
+http://luxe-smarters.co:2052/Nivek786/78655/491547
+#EXTINF:-1 tvg-ID="" tvg-name="TELEVIZIJA 5" tvg-logo="" group-title="BIH",TELEVIZIJA 5
+http://luxe-smarters.co:2052/Nivek786/78655/491546
+#EXTINF:-1 tvg-ID="" tvg-name="O KANAL HD" tvg-logo="" group-title="BIH",O KANAL HD
+http://luxe-smarters.co:2052/Nivek786/78655/491545
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 6" tvg-logo="" group-title="BIH",KANAL 6
+http://luxe-smarters.co:2052/Nivek786/78655/491544
+#EXTINF:-1 tvg-ID="" tvg-name="TATABRADA TV HD" tvg-logo="" group-title="BIH",TATABRADA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491543
+#EXTINF:-1 tvg-ID="" tvg-name="RTV HIT BRCKO" tvg-logo="" group-title="BIH",RTV HIT BRCKO
+http://luxe-smarters.co:2052/Nivek786/78655/491542
+#EXTINF:-1 tvg-ID="" tvg-name="ALFA TV" tvg-logo="" group-title="BIH",ALFA TV
+http://luxe-smarters.co:2052/Nivek786/78655/491541
+#EXTINF:-1 tvg-ID="" tvg-name="RTV SLON HD" tvg-logo="" group-title="BIH",RTV SLON HD
+http://luxe-smarters.co:2052/Nivek786/78655/491540
+#EXTINF:-1 tvg-ID="" tvg-name="ATV BANJALUKA" tvg-logo="" group-title="BIH",ATV BANJALUKA
+http://luxe-smarters.co:2052/Nivek786/78655/491539
+#EXTINF:-1 tvg-ID="" tvg-name="K3 PRNJAVOR HD" tvg-logo="" group-title="BIH",K3 PRNJAVOR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491538
+#EXTINF:-1 tvg-ID="" tvg-name="RTV HERCEG BOSNE HD" tvg-logo="" group-title="BIH",RTV HERCEG BOSNE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491537
+#EXTINF:-1 tvg-ID="" tvg-name="SUPER TV MEDIA" tvg-logo="" group-title="BIH",SUPER TV MEDIA
+http://luxe-smarters.co:2052/Nivek786/78655/491536
+#EXTINF:-1 tvg-ID="" tvg-name="HEMA TV" tvg-logo="" group-title="BIH",HEMA TV
+http://luxe-smarters.co:2052/Nivek786/78655/491535
+#EXTINF:-1 tvg-ID="" tvg-name="RTV VISOKO" tvg-logo="" group-title="BIH",RTV VISOKO
+http://luxe-smarters.co:2052/Nivek786/78655/491534
+#EXTINF:-1 tvg-ID="" tvg-name="RTV BUGOJNO" tvg-logo="" group-title="BIH",RTV BUGOJNO
+http://luxe-smarters.co:2052/Nivek786/78655/491533
+#EXTINF:-1 tvg-ID="" tvg-name="GLAS DRINE" tvg-logo="" group-title="BIH",GLAS DRINE
+http://luxe-smarters.co:2052/Nivek786/78655/491532
+#EXTINF:-1 tvg-ID="" tvg-name="PODRINJE TV" tvg-logo="" group-title="BIH",PODRINJE TV
+http://luxe-smarters.co:2052/Nivek786/78655/491531
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ SRBIJA ✦●✦" tvg-logo="" group-title="SRBIJA",✦●✦ SRBIJA ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491530
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 1 FHD" tvg-logo="" group-title="SRBIJA",RTS 1 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491529
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 2 FHD" tvg-logo="" group-title="SRBIJA",RTS 2 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491528
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 3 FHD" tvg-logo="" group-title="SRBIJA",RTS 3 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491527
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 3 FHD" tvg-logo="" group-title="SRBIJA",RTS 3 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491526
+#EXTINF:-1 tvg-ID="" tvg-name="PRVA TV HD" tvg-logo="" group-title="SRBIJA",PRVA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491525
+#EXTINF:-1 tvg-ID="" tvg-name="RTRS" tvg-logo="" group-title="SRBIJA",RTRS
+http://luxe-smarters.co:2052/Nivek786/78655/491524
+#EXTINF:-1 tvg-ID="" tvg-name="RTRS PLUS" tvg-logo="" group-title="SRBIJA",RTRS PLUS
+http://luxe-smarters.co:2052/Nivek786/78655/491523
+#EXTINF:-1 tvg-ID="" tvg-name="b92 HD" tvg-logo="" group-title="SRBIJA",b92 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491522
+#EXTINF:-1 tvg-ID="" tvg-name="N1 SR" tvg-logo="" group-title="SRBIJA",N1 SR
+http://luxe-smarters.co:2052/Nivek786/78655/491521
+#EXTINF:-1 tvg-ID="" tvg-name="RTCG 1  ME" tvg-logo="" group-title="SRBIJA",RTCG 1  ME
+http://luxe-smarters.co:2052/Nivek786/78655/494857
+#EXTINF:-1 tvg-ID="" tvg-name="RTCG 2 ME" tvg-logo="" group-title="SRBIJA",RTCG 2 ME
+http://luxe-smarters.co:2052/Nivek786/78655/494858
+#EXTINF:-1 tvg-ID="" tvg-name="HAPPY TV" tvg-logo="" group-title="SRBIJA",HAPPY TV
+http://luxe-smarters.co:2052/Nivek786/78655/491520
+#EXTINF:-1 tvg-ID="" tvg-name="HAPPY DRUSTVO" tvg-logo="" group-title="SRBIJA",HAPPY DRUSTVO
+http://luxe-smarters.co:2052/Nivek786/78655/491519
+#EXTINF:-1 tvg-ID="" tvg-name="HAPPY ZIVOT" tvg-logo="" group-title="SRBIJA",HAPPY ZIVOT
+http://luxe-smarters.co:2052/Nivek786/78655/491518
+#EXTINF:-1 tvg-ID="" tvg-name="HAPPY REALITY 24/7" tvg-logo="" group-title="SRBIJA",HAPPY REALITY 24/7
+http://luxe-smarters.co:2052/Nivek786/78655/491517
+#EXTINF:-1 tvg-ID="" tvg-name="HAPPY MUZIKA" tvg-logo="" group-title="SRBIJA",HAPPY MUZIKA
+http://luxe-smarters.co:2052/Nivek786/78655/491516
+#EXTINF:-1 tvg-ID="" tvg-name="GRADSKA M" tvg-logo="" group-title="SRBIJA",GRADSKA M
+http://luxe-smarters.co:2052/Nivek786/78655/491515
+#EXTINF:-1 tvg-ID="" tvg-name="STUDIO B" tvg-logo="" group-title="SRBIJA",STUDIO B
+http://luxe-smarters.co:2052/Nivek786/78655/491514
+#EXTINF:-1 tvg-ID="" tvg-name="PIROT" tvg-logo="" group-title="SRBIJA",PIROT
+http://luxe-smarters.co:2052/Nivek786/78655/491513
+#EXTINF:-1 tvg-ID="" tvg-name="TV ISTOK" tvg-logo="" group-title="SRBIJA",TV ISTOK
+http://luxe-smarters.co:2052/Nivek786/78655/491512
+#EXTINF:-1 tvg-ID="" tvg-name="TANJUG HD" tvg-logo="" group-title="SRBIJA",TANJUG HD
+http://luxe-smarters.co:2052/Nivek786/78655/491511
+#EXTINF:-1 tvg-ID="" tvg-name="TV PALMA PLUS" tvg-logo="" group-title="SRBIJA",TV PALMA PLUS
+http://luxe-smarters.co:2052/Nivek786/78655/491510
+#EXTINF:-1 tvg-ID="" tvg-name="HRAM TV" tvg-logo="" group-title="SRBIJA",HRAM TV
+http://luxe-smarters.co:2052/Nivek786/78655/491509
+#EXTINF:-1 tvg-ID="" tvg-name="INSAJDER TV HD" tvg-logo="" group-title="SRBIJA",INSAJDER TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491508
+#EXTINF:-1 tvg-ID="" tvg-name="KURIR TV HD" tvg-logo="" group-title="SRBIJA",KURIR TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491507
+#EXTINF:-1 tvg-ID="" tvg-name="SANDZAK TV" tvg-logo="" group-title="SRBIJA",SANDZAK TV
+http://luxe-smarters.co:2052/Nivek786/78655/491506
+#EXTINF:-1 tvg-ID="" tvg-name="RTV NOVI PAZAR" tvg-logo="" group-title="SRBIJA",RTV NOVI PAZAR
+http://luxe-smarters.co:2052/Nivek786/78655/491505
+#EXTINF:-1 tvg-ID="" tvg-name="K1 HD" tvg-logo="" group-title="SRBIJA",K1 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491504
+#EXTINF:-1 tvg-ID="" tvg-name="UNA TV SR" tvg-logo="" group-title="SRBIJA",UNA TV SR
+http://luxe-smarters.co:2052/Nivek786/78655/491503
+#EXTINF:-1 tvg-ID="" tvg-name="RTV VOJVODINA 2" tvg-logo="" group-title="SRBIJA",RTV VOJVODINA 2
+http://luxe-smarters.co:2052/Nivek786/78655/491502
+#EXTINF:-1 tvg-ID="" tvg-name="RTV VOJVODINA 1" tvg-logo="" group-title="SRBIJA",RTV VOJVODINA 1
+http://luxe-smarters.co:2052/Nivek786/78655/491501
+#EXTINF:-1 tvg-ID="" tvg-name="RTS NAUKA HD" tvg-logo="" group-title="SRBIJA",RTS NAUKA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491500
+#EXTINF:-1 tvg-ID="" tvg-name="RTS POLETARAC" tvg-logo="" group-title="SRBIJA",RTS POLETARAC
+http://luxe-smarters.co:2052/Nivek786/78655/491499
+#EXTINF:-1 tvg-ID="" tvg-name="RTS MUZIKA" tvg-logo="" group-title="SRBIJA",RTS MUZIKA
+http://luxe-smarters.co:2052/Nivek786/78655/491498
+#EXTINF:-1 tvg-ID="" tvg-name="RTS KOLO" tvg-logo="" group-title="SRBIJA",RTS KOLO
+http://luxe-smarters.co:2052/Nivek786/78655/491497
+#EXTINF:-1 tvg-ID="" tvg-name="RTS ZIVOT" tvg-logo="" group-title="SRBIJA",RTS ZIVOT
+http://luxe-smarters.co:2052/Nivek786/78655/491496
+#EXTINF:-1 tvg-ID="" tvg-name="RTS TREZOR" tvg-logo="" group-title="SRBIJA",RTS TREZOR
+http://luxe-smarters.co:2052/Nivek786/78655/491495
+#EXTINF:-1 tvg-ID="" tvg-name="RTS DRAMA" tvg-logo="" group-title="SRBIJA",RTS DRAMA
+http://luxe-smarters.co:2052/Nivek786/78655/491494
+#EXTINF:-1 tvg-ID="" tvg-name="RTS SVET HD" tvg-logo="" group-title="SRBIJA",RTS SVET HD
+http://luxe-smarters.co:2052/Nivek786/78655/491493
+#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS SRBIJA FHD" tvg-logo="" group-title="SRBIJA",EURONEWS SRBIJA FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491492
+#EXTINF:-1 tvg-ID="" tvg-name="INSTA TV HD" tvg-logo="" group-title="SRBIJA",INSTA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491491
+#EXTINF:-1 tvg-ID="" tvg-name="BLIC TV FHD" tvg-logo="" group-title="SRBIJA",BLIC TV FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491490
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA S HD" tvg-logo="" group-title="SRBIJA",NOVA S HD
+http://luxe-smarters.co:2052/Nivek786/78655/491489
+#EXTINF:-1 tvg-ID="" tvg-name="TV PARTIZAN HD" tvg-logo="" group-title="SRBIJA",TV PARTIZAN HD
+http://luxe-smarters.co:2052/Nivek786/78655/491488
+#EXTINF:-1 tvg-ID="" tvg-name="ZVEZDA TV HD" tvg-logo="" group-title="SRBIJA",ZVEZDA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491487
+#EXTINF:-1 tvg-ID="" tvg-name="CITY TV HD" tvg-logo="" group-title="SRBIJA",CITY TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491486
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ PINK PAKET ✦●✦" tvg-logo="" group-title="PINK",✦●✦ PINK PAKET ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491485
+#EXTINF:-1 tvg-ID="" tvg-name="PINK HD" tvg-logo="" group-title="PINK",PINK HD
+http://luxe-smarters.co:2052/Nivek786/78655/491484
+#EXTINF:-1 tvg-ID="" tvg-name="RED TV (PINK 2) FHD" tvg-logo="" group-title="PINK",RED TV (PINK 2) FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491483
+#EXTINF:-1 tvg-ID="" tvg-name="Vesti (PINK 3) FHD" tvg-logo="" group-title="PINK",Vesti (PINK 3) FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491482
+#EXTINF:-1 tvg-ID="" tvg-name="PINK WESTERN" tvg-logo="" group-title="PINK",PINK WESTERN
+http://luxe-smarters.co:2052/Nivek786/78655/491481
+#EXTINF:-1 tvg-ID="" tvg-name="PINK THRILLER" tvg-logo="" group-title="PINK",PINK THRILLER
+http://luxe-smarters.co:2052/Nivek786/78655/491480
+#EXTINF:-1 tvg-ID="" tvg-name="PINK PREMIUM FHD" tvg-logo="" group-title="PINK",PINK PREMIUM FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491479
+#EXTINF:-1 tvg-ID="" tvg-name="PINK PREMIUM HD" tvg-logo="" group-title="PINK",PINK PREMIUM HD
+http://luxe-smarters.co:2052/Nivek786/78655/491478
+#EXTINF:-1 tvg-ID="" tvg-name="PINK HORROR" tvg-logo="" group-title="PINK",PINK HORROR
+http://luxe-smarters.co:2052/Nivek786/78655/491477
+#EXTINF:-1 tvg-ID="" tvg-name="PINK FILM" tvg-logo="" group-title="PINK",PINK FILM
+http://luxe-smarters.co:2052/Nivek786/78655/491476
+#EXTINF:-1 tvg-ID="" tvg-name="PINK MOVIES" tvg-logo="" group-title="PINK",PINK MOVIES
+http://luxe-smarters.co:2052/Nivek786/78655/491475
+#EXTINF:-1 tvg-ID="" tvg-name="PINK COMEDY" tvg-logo="" group-title="PINK",PINK COMEDY
+http://luxe-smarters.co:2052/Nivek786/78655/491474
+#EXTINF:-1 tvg-ID="" tvg-name="PINK ACTION" tvg-logo="" group-title="PINK",PINK ACTION
+http://luxe-smarters.co:2052/Nivek786/78655/491473
+#EXTINF:-1 tvg-ID="" tvg-name="PINK SCI FI FANTASY" tvg-logo="" group-title="PINK",PINK SCI FI FANTASY
+http://luxe-smarters.co:2052/Nivek786/78655/491472
+#EXTINF:-1 tvg-ID="" tvg-name="PINK CRIME & MISTERY" tvg-logo="" group-title="PINK",PINK CRIME & MISTERY
+http://luxe-smarters.co:2052/Nivek786/78655/491471
+#EXTINF:-1 tvg-ID="" tvg-name="PINK REALITY" tvg-logo="" group-title="PINK",PINK REALITY
+http://luxe-smarters.co:2052/Nivek786/78655/491470
+#EXTINF:-1 tvg-ID="" tvg-name="PINK STYLE" tvg-logo="" group-title="PINK",PINK STYLE
+http://luxe-smarters.co:2052/Nivek786/78655/491469
+#EXTINF:-1 tvg-ID="" tvg-name="PINK ZABAVA" tvg-logo="" group-title="PINK",PINK ZABAVA
+http://luxe-smarters.co:2052/Nivek786/78655/491468
+#EXTINF:-1 tvg-ID="" tvg-name="PINK HA HA" tvg-logo="" group-title="PINK",PINK HA HA
+http://luxe-smarters.co:2052/Nivek786/78655/491467
+#EXTINF:-1 tvg-ID="" tvg-name="PINK LOL" tvg-logo="" group-title="PINK",PINK LOL
+http://luxe-smarters.co:2052/Nivek786/78655/491466
+#EXTINF:-1 tvg-ID="" tvg-name="PINK PEDIA" tvg-logo="" group-title="PINK",PINK PEDIA
+http://luxe-smarters.co:2052/Nivek786/78655/491465
+#EXTINF:-1 tvg-ID="" tvg-name="PINK SHOW" tvg-logo="" group-title="PINK",PINK SHOW
+http://luxe-smarters.co:2052/Nivek786/78655/491464
+#EXTINF:-1 tvg-ID="" tvg-name="PINK FASHION" tvg-logo="" group-title="PINK",PINK FASHION
+http://luxe-smarters.co:2052/Nivek786/78655/491463
+#EXTINF:-1 tvg-ID="" tvg-name="PINK FAMILY" tvg-logo="" group-title="PINK",PINK FAMILY
+http://luxe-smarters.co:2052/Nivek786/78655/491462
+#EXTINF:-1 tvg-ID="" tvg-name="PINK CLASSIC" tvg-logo="" group-title="PINK",PINK CLASSIC
+http://luxe-smarters.co:2052/Nivek786/78655/491461
+#EXTINF:-1 tvg-ID="" tvg-name="PINK EXTRA" tvg-logo="" group-title="PINK",PINK EXTRA
+http://luxe-smarters.co:2052/Nivek786/78655/491460
+#EXTINF:-1 tvg-ID="" tvg-name="PINK PLUS" tvg-logo="" group-title="PINK",PINK PLUS
+http://luxe-smarters.co:2052/Nivek786/78655/491459
+#EXTINF:-1 tvg-ID="" tvg-name="PINK WORLD CINEMA" tvg-logo="" group-title="PINK",PINK WORLD CINEMA
+http://luxe-smarters.co:2052/Nivek786/78655/491458
+#EXTINF:-1 tvg-ID="" tvg-name="PINK WORLD" tvg-logo="" group-title="PINK",PINK WORLD
+http://luxe-smarters.co:2052/Nivek786/78655/491457
+#EXTINF:-1 tvg-ID="" tvg-name="PINK SOAP" tvg-logo="" group-title="PINK",PINK SOAP
+http://luxe-smarters.co:2052/Nivek786/78655/491456
+#EXTINF:-1 tvg-ID="" tvg-name="PINK SERIJE" tvg-logo="" group-title="PINK",PINK SERIJE
+http://luxe-smarters.co:2052/Nivek786/78655/491455
+#EXTINF:-1 tvg-ID="" tvg-name="PINK ROMANCE" tvg-logo="" group-title="PINK",PINK ROMANCE
+http://luxe-smarters.co:2052/Nivek786/78655/491454
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ FILMSKI ✦●✦" tvg-logo="" group-title="FILMSKI",✦●✦ FILMSKI ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491453
+#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR PREMIERE HD" tvg-logo="" group-title="FILMSKI",CINESTAR PREMIERE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491452
+#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR PREMIERE 2 HD" tvg-logo="" group-title="FILMSKI",CINESTAR PREMIERE 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491451
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX HD" tvg-logo="" group-title="FILMSKI",CINEMAX HD
+http://luxe-smarters.co:2052/Nivek786/78655/491450
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX 2 HD" tvg-logo="" group-title="FILMSKI",CINEMAX 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491449
+#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR COMEDY HD" tvg-logo="" group-title="FILMSKI",CINESTAR COMEDY HD
+http://luxe-smarters.co:2052/Nivek786/78655/491448
+#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR FANTASY HD" tvg-logo="" group-title="FILMSKI",CINESTAR FANTASY HD
+http://luxe-smarters.co:2052/Nivek786/78655/491447
+#EXTINF:-1 tvg-ID="" tvg-name="STAR HD" tvg-logo="" group-title="FILMSKI",STAR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491446
+#EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="FILMSKI",STAR MOVIES HD
+http://luxe-smarters.co:2052/Nivek786/78655/491445
+#EXTINF:-1 tvg-ID="" tvg-name="STAR CRIME HD" tvg-logo="" group-title="FILMSKI",STAR CRIME HD
+http://luxe-smarters.co:2052/Nivek786/78655/491444
+#EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE HD" tvg-logo="" group-title="FILMSKI",STAR LIFE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491443
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FHD" tvg-logo="" group-title="FILMSKI",HBO FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491442
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 FHD" tvg-logo="" group-title="FILMSKI",HBO 2 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491441
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 3 FHD" tvg-logo="" group-title="FILMSKI",HBO 3 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491440
+#EXTINF:-1 tvg-ID="" tvg-name="M1 GOLD" tvg-logo="" group-title="FILMSKI",M1 GOLD
+http://luxe-smarters.co:2052/Nivek786/78655/491439
+#EXTINF:-1 tvg-ID="" tvg-name="M1 FILM" tvg-logo="" group-title="FILMSKI",M1 FILM
+http://luxe-smarters.co:2052/Nivek786/78655/491438
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD" tvg-logo="" group-title="FILMSKI",AMC HD
+http://luxe-smarters.co:2052/Nivek786/78655/491437
+#EXTINF:-1 tvg-ID="" tvg-name="PICKBOX TV HD" tvg-logo="" group-title="FILMSKI",PICKBOX TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491436
+#EXTINF:-1 tvg-ID="" tvg-name="KLASIK TV HD" tvg-logo="" group-title="FILMSKI",KLASIK TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491435
+#EXTINF:-1 tvg-ID="" tvg-name="AXN SPIN" tvg-logo="" group-title="FILMSKI",AXN SPIN
+http://luxe-smarters.co:2052/Nivek786/78655/491434
+#EXTINF:-1 tvg-ID="" tvg-name="AXN ADRIA" tvg-logo="" group-title="FILMSKI",AXN ADRIA
+http://luxe-smarters.co:2052/Nivek786/78655/491433
+#EXTINF:-1 tvg-ID="" tvg-name="SCI FI HD" tvg-logo="" group-title="FILMSKI",SCI FI HD
+http://luxe-smarters.co:2052/Nivek786/78655/491432
+#EXTINF:-1 tvg-ID="" tvg-name="KINO TV HD" tvg-logo="" group-title="FILMSKI",KINO TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491431
+#EXTINF:-1 tvg-ID="" tvg-name="DIVA TV" tvg-logo="" group-title="FILMSKI",DIVA TV
+http://luxe-smarters.co:2052/Nivek786/78655/491430
+#EXTINF:-1 tvg-ID="" tvg-name="TV 1000" tvg-logo="" group-title="FILMSKI",TV 1000
+http://luxe-smarters.co:2052/Nivek786/78655/491429
+#EXTINF:-1 tvg-ID="" tvg-name="SUPERSTAR TV FHD" tvg-logo="" group-title="FILMSKI",SUPERSTAR TV FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491428
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ 24/7 EX YU KINO ✦●✦" tvg-logo="" group-title="24/7 EX YU KINO",✦●✦ 24/7 EX YU KINO ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491427
+#EXTINF:-1 tvg-ID="" tvg-name="DE| CINE STAR ANIMATION HD" tvg-logo="" group-title="24/7 EX YU KINO",DE| CINE STAR ANIMATION HD
+http://luxe-smarters.co:2052/Nivek786/78655/491426
+#EXTINF:-1 tvg-ID="" tvg-name="DE| CINE STAR CRIME HD" tvg-logo="" group-title="24/7 EX YU KINO",DE| CINE STAR CRIME HD
+http://luxe-smarters.co:2052/Nivek786/78655/491425
+#EXTINF:-1 tvg-ID="" tvg-name="DE|CINE STAR DRAMA HD" tvg-logo="" group-title="24/7 EX YU KINO",DE|CINE STAR DRAMA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491424
+#EXTINF:-1 tvg-ID="" tvg-name="DE| CINE STAR FAMILIE HD" tvg-logo="" group-title="24/7 EX YU KINO",DE| CINE STAR FAMILIE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491423
+#EXTINF:-1 tvg-ID="" tvg-name="DE| CINE STAR HORROR HD" tvg-logo="" group-title="24/7 EX YU KINO",DE| CINE STAR HORROR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491422
+#EXTINF:-1 tvg-ID="" tvg-name="DE| CINE STAR PREMIERE HD" tvg-logo="" group-title="24/7 EX YU KINO",DE| CINE STAR PREMIERE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491421
+#EXTINF:-1 tvg-ID="" tvg-name="DE| BOLLYWOOD 1 HD" tvg-logo="" group-title="24/7 EX YU KINO",DE| BOLLYWOOD 1 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491420
+#EXTINF:-1 tvg-ID="" tvg-name="DE| BOLLYWOOD 2 HD" tvg-logo="" group-title="24/7 EX YU KINO",DE| BOLLYWOOD 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491419
+#EXTINF:-1 tvg-ID="" tvg-name="BALKAN SKY ACTION HD" tvg-logo="" group-title="24/7 EX YU KINO",BALKAN SKY ACTION HD
+http://luxe-smarters.co:2052/Nivek786/78655/491418
+#EXTINF:-1 tvg-ID="" tvg-name="BALKAN SKY ADVENTURE HD" tvg-logo="" group-title="24/7 EX YU KINO",BALKAN SKY ADVENTURE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491417
+#EXTINF:-1 tvg-ID="" tvg-name="BALKAN SKY COMEDY HD" tvg-logo="" group-title="24/7 EX YU KINO",BALKAN SKY COMEDY HD
+http://luxe-smarters.co:2052/Nivek786/78655/491416
+#EXTINF:-1 tvg-ID="" tvg-name="BALKAN SKY CRIME" tvg-logo="" group-title="24/7 EX YU KINO",BALKAN SKY CRIME
+http://luxe-smarters.co:2052/Nivek786/78655/491415
+#EXTINF:-1 tvg-ID="" tvg-name="BALKAN SKY DRAMA HD" tvg-logo="" group-title="24/7 EX YU KINO",BALKAN SKY DRAMA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491414
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP SELECT 1 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP SELECT 1 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491413
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP SELECT 2 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP SELECT 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491412
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP SELECT 3 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP SELECT 3 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491411
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP SELECT 4 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP SELECT 4 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491410
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP NETFLIX 1 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP NETFLIX 1 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491409
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP NETFLIX 2 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP NETFLIX 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491408
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP NETFLIX 3 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP NETFLIX 3 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491407
+#EXTINF:-1 tvg-ID="" tvg-name="NETIP NETFLIX 4 HD" tvg-logo="" group-title="24/7 EX YU KINO",NETIP NETFLIX 4 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491406
+#EXTINF:-1 tvg-ID="" tvg-name="EURO CINEMA 4 HD" tvg-logo="" group-title="24/7 EX YU KINO",EURO CINEMA 4 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491405
+#EXTINF:-1 tvg-ID="" tvg-name="EURO CINEMA 3 HD" tvg-logo="" group-title="24/7 EX YU KINO",EURO CINEMA 3 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491404
+#EXTINF:-1 tvg-ID="" tvg-name="EURO CINEMA 2 HD" tvg-logo="" group-title="24/7 EX YU KINO",EURO CINEMA 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491403
+#EXTINF:-1 tvg-ID="" tvg-name="EURO CINEMA 1 HD" tvg-logo="" group-title="24/7 EX YU KINO",EURO CINEMA 1 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491402
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ EX YU SPORT ✦●✦" tvg-logo="" group-title="SPORT",✦●✦ EX YU SPORT ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491401
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 BiH HD" tvg-logo="" group-title="SPORT",ARENA SPORT 1 BiH HD
+http://luxe-smarters.co:2052/Nivek786/78655/491400
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT PREMIUM 1 FHD" tvg-logo="" group-title="SPORT",ARENA SPORT PREMIUM 1 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491399
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT PREMIUM 2 FHD" tvg-logo="" group-title="SPORT",ARENA SPORT PREMIUM 2 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491398
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT PREMIUM 3 FHD" tvg-logo="" group-title="SPORT",ARENA SPORT PREMIUM 3 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491397
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 SR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 1 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491396
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 2 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491395
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 3 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491394
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 4 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491393
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 5 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491392
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 SR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 1 SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491391
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 2 SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491390
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 3 SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491389
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 4 SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491388
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 5 SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491387
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 1 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491386
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 2 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491385
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 3 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491384
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 4 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491383
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 5 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491382
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 6 HD HR" tvg-logo="" group-title="SPORT",ARENA SPORT 6 HD HR
+http://luxe-smarters.co:2052/Nivek786/78655/491381
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 7 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 7 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491380
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 8 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 8 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491379
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 9 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 9 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491378
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 10 HR HD" tvg-logo="" group-title="SPORT",ARENA SPORT 10 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491377
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 1 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491376
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 2 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491375
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 3 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491374
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 4 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491373
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 5 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491372
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 6 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 6 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491371
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 7 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 7 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491370
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 8 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 8 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491369
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 9 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 9 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491368
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 10 HR FHD" tvg-logo="" group-title="SPORT",ARENA SPORT 10 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491367
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1X2 HD" tvg-logo="" group-title="SPORT",ARENA SPORT 1X2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491366
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA ESPORT HD" tvg-logo="" group-title="SPORT",ARENA ESPORT HD
+http://luxe-smarters.co:2052/Nivek786/78655/491365
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA FIGHT HD" tvg-logo="" group-title="SPORT",ARENA FIGHT HD
+http://luxe-smarters.co:2052/Nivek786/78655/491364
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB HR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491363
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 1 HR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB 1 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491362
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 2 HR HD" tvg-logo="" group-title="SPORT",SPORT KLUB 2 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491361
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 3 HR HD" tvg-logo="" group-title="SPORT",SPORT KLUB 3 HR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491360
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 4 HR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB 4 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491359
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 5 HR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB 5 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491358
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 6 HR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB 6 HR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491357
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB SR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491356
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 1 SR HD" tvg-logo="" group-title="SPORT",SPORT KLUB 1 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491355
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 2 SR HD" tvg-logo="" group-title="SPORT",SPORT KLUB 2 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491354
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 3 SR HD" tvg-logo="" group-title="SPORT",SPORT KLUB 3 SR HD
+http://luxe-smarters.co:2052/Nivek786/78655/491353
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 4 SR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB 4 SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491352
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 5 SR FHD" tvg-logo="" group-title="SPORT",SPORT KLUB 5 SR FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491351
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT FHD" tvg-logo="" group-title="SPORT",EUROSPORT FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491350
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2 FHD" tvg-logo="" group-title="SPORT",EUROSPORT 2 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491349
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHTBOX" tvg-logo="" group-title="SPORT",FIGHTBOX
+http://luxe-smarters.co:2052/Nivek786/78655/491348
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK" tvg-logo="" group-title="SPORT",FIGHT NETWORK
+http://luxe-smarters.co:2052/Nivek786/78655/491347
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTSKA TV" tvg-logo="" group-title="SPORT",SPORTSKA TV
+http://luxe-smarters.co:2052/Nivek786/78655/491346
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA SPORT HD" tvg-logo="" group-title="SPORT",NOVA SPORT HD
+http://luxe-smarters.co:2052/Nivek786/78655/491345
+#EXTINF:-1 tvg-ID="" tvg-name="MOJA TV/MY TV HD" tvg-logo="" group-title="SPORT",MOJA TV/MY TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491344
+#EXTINF:-1 tvg-ID="" tvg-name="MAXSPORT 2 FHD" tvg-logo="" group-title="SPORT",MAXSPORT 2 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491343
+#EXTINF:-1 tvg-ID="" tvg-name="MAXSPORT 1 FHD" tvg-logo="" group-title="SPORT",MAXSPORT 1 FHD
+http://luxe-smarters.co:2052/Nivek786/78655/491342
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ DOKUMENTARNI ✦●✦" tvg-logo="" group-title="DOKUMENTARNI",✦●✦ DOKUMENTARNI ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491341
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA DOCUMENTARY HD" tvg-logo="" group-title="DOKUMENTARNI",NOVA DOCUMENTARY HD
+http://luxe-smarters.co:2052/Nivek786/78655/491340
+#EXTINF:-1 tvg-ID="" tvg-name="HRT DOCUMENTARY HD" tvg-logo="" group-title="DOKUMENTARNI",HRT DOCUMENTARY HD
+http://luxe-smarters.co:2052/Nivek786/78655/491339
+#EXTINF:-1 tvg-ID="" tvg-name="BALKAN TRIP HD" tvg-logo="" group-title="DOKUMENTARNI",BALKAN TRIP HD
+http://luxe-smarters.co:2052/Nivek786/78655/491338
+#EXTINF:-1 tvg-ID="" tvg-name="TRAVEL CHANNEL HD" tvg-logo="" group-title="DOKUMENTARNI",TRAVEL CHANNEL HD
+http://luxe-smarters.co:2052/Nivek786/78655/491337
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV HD" tvg-logo="" group-title="DOKUMENTARNI",HGTV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491336
+#EXTINF:-1 tvg-ID="" tvg-name="DOKU TV HD" tvg-logo="" group-title="DOKUMENTARNI",DOKU TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491335
+#EXTINF:-1 tvg-ID="" tvg-name="DA VINCI LEARNING HD" tvg-logo="" group-title="DOKUMENTARNI",DA VINCI LEARNING HD
+http://luxe-smarters.co:2052/Nivek786/78655/491334
+#EXTINF:-1 tvg-ID="" tvg-name="PLANET EARTH HD" tvg-logo="" group-title="DOKUMENTARNI",PLANET EARTH HD
+http://luxe-smarters.co:2052/Nivek786/78655/491333
+#EXTINF:-1 tvg-ID="" tvg-name="AGRO TV HD" tvg-logo="" group-title="DOKUMENTARNI",AGRO TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491332
+#EXTINF:-1 tvg-ID="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="DOKUMENTARNI",FOOD NETWORK HD
+http://luxe-smarters.co:2052/Nivek786/78655/491331
+#EXTINF:-1 tvg-ID="" tvg-name="BBC EARTH HD" tvg-logo="" group-title="DOKUMENTARNI",BBC EARTH HD
+http://luxe-smarters.co:2052/Nivek786/78655/491330
+#EXTINF:-1 tvg-ID="" tvg-name="EPIC DRAMA HD" tvg-logo="" group-title="DOKUMENTARNI",EPIC DRAMA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491329
+#EXTINF:-1 tvg-ID="" tvg-name="E! Enterteinment" tvg-logo="" group-title="DOKUMENTARNI",E! Enterteinment
+http://luxe-smarters.co:2052/Nivek786/78655/491328
+#EXTINF:-1 tvg-ID="" tvg-name="PINK KUVAR" tvg-logo="" group-title="DOKUMENTARNI",PINK KUVAR
+http://luxe-smarters.co:2052/Nivek786/78655/491327
+#EXTINF:-1 tvg-ID="" tvg-name="24 KITCHEN HD" tvg-logo="" group-title="DOKUMENTARNI",24 KITCHEN HD
+http://luxe-smarters.co:2052/Nivek786/78655/491326
+#EXTINF:-1 tvg-ID="" tvg-name="LOV I RIBOLOV" tvg-logo="" group-title="DOKUMENTARNI",LOV I RIBOLOV
+http://luxe-smarters.co:2052/Nivek786/78655/491325
+#EXTINF:-1 tvg-ID="" tvg-name="CRIME & INVESTIGATION" tvg-logo="" group-title="DOKUMENTARNI",CRIME & INVESTIGATION
+http://luxe-smarters.co:2052/Nivek786/78655/491324
+#EXTINF:-1 tvg-ID="" tvg-name="VIASAT NATURE HD" tvg-logo="" group-title="DOKUMENTARNI",VIASAT NATURE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491323
+#EXTINF:-1 tvg-ID="" tvg-name="VIASAT EXPLORE HD" tvg-logo="" group-title="DOKUMENTARNI",VIASAT EXPLORE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491322
+#EXTINF:-1 tvg-ID="" tvg-name="VIASAT HISTORY HD" tvg-logo="" group-title="DOKUMENTARNI",VIASAT HISTORY HD
+http://luxe-smarters.co:2052/Nivek786/78655/491321
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY 2 HD" tvg-logo="" group-title="DOKUMENTARNI",HISTORY 2 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491320
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY HD" tvg-logo="" group-title="DOKUMENTARNI",HISTORY HD
+http://luxe-smarters.co:2052/Nivek786/78655/491319
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="DOKUMENTARNI",ANIMAL PLANET HD
+http://luxe-smarters.co:2052/Nivek786/78655/491318
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="DOKUMENTARNI",NAT GEO WILD HD
+http://luxe-smarters.co:2052/Nivek786/78655/491317
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC HD
+http://luxe-smarters.co:2052/Nivek786/78655/491316
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="DOKUMENTARNI",DISCOVERY SCIENCE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491315
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ID HD" tvg-logo="" group-title="DOKUMENTARNI",DISCOVERY ID HD
+http://luxe-smarters.co:2052/Nivek786/78655/491314
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TLC HD" tvg-logo="" group-title="DOKUMENTARNI",DISCOVERY TLC HD
+http://luxe-smarters.co:2052/Nivek786/78655/491313
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="DOKUMENTARNI",DISCOVERY CHANNEL HD
+http://luxe-smarters.co:2052/Nivek786/78655/491312
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ DJECIJI ✦●✦" tvg-logo="" group-title="DJEČIJI",✦●✦ DJECIJI ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491311
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 PSICI U OPHODNJI" tvg-logo="" group-title="DJEČIJI",24/7 PSICI U OPHODNJI
+http://luxe-smarters.co:2052/Nivek786/78655/491310
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 PEPA PRASE" tvg-logo="" group-title="DJEČIJI",24/7 PEPA PRASE
+http://luxe-smarters.co:2052/Nivek786/78655/491309
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 MASA I MEDO" tvg-logo="" group-title="DJEČIJI",24/7 MASA I MEDO
+http://luxe-smarters.co:2052/Nivek786/78655/491308
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 HEY KIDS" tvg-logo="" group-title="DJEČIJI",24/7 HEY KIDS
+http://luxe-smarters.co:2052/Nivek786/78655/491307
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 COCOMELON" tvg-logo="" group-title="DJEČIJI",24/7 COCOMELON
+http://luxe-smarters.co:2052/Nivek786/78655/491306
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA KIDS HD" tvg-logo="" group-title="DJEČIJI",NOVA KIDS HD
+http://luxe-smarters.co:2052/Nivek786/78655/491305
+#EXTINF:-1 tvg-ID="" tvg-name="TNT KIDS" tvg-logo="" group-title="DJEČIJI",TNT KIDS
+http://luxe-smarters.co:2052/Nivek786/78655/491304
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV" tvg-logo="" group-title="DJEČIJI",BABY TV
+http://luxe-smarters.co:2052/Nivek786/78655/491303
+#EXTINF:-1 tvg-ID="" tvg-name="IDJ KIDS HD" tvg-logo="" group-title="DJEČIJI",IDJ KIDS HD
+http://luxe-smarters.co:2052/Nivek786/78655/491302
+#EXTINF:-1 tvg-ID="" tvg-name="PINK SUPER KIDS" tvg-logo="" group-title="DJEČIJI",PINK SUPER KIDS
+http://luxe-smarters.co:2052/Nivek786/78655/491301
+#EXTINF:-1 tvg-ID="" tvg-name="PINK KIDS" tvg-logo="" group-title="DJEČIJI",PINK KIDS
+http://luxe-smarters.co:2052/Nivek786/78655/491300
+#EXTINF:-1 tvg-ID="" tvg-name="H OVCI HD" tvg-logo="" group-title="DJEČIJI",H OVCI HD
+http://luxe-smarters.co:2052/Nivek786/78655/491299
+#EXTINF:-1 tvg-ID="" tvg-name="MINIMAX" tvg-logo="" group-title="DJEČIJI",MINIMAX
+http://luxe-smarters.co:2052/Nivek786/78655/491298
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON SR" tvg-logo="" group-title="DJEČIJI",NICKELODEON SR
+http://luxe-smarters.co:2052/Nivek786/78655/491297
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON HR" tvg-logo="" group-title="DJEČIJI",NICKELODEON HR
+http://luxe-smarters.co:2052/Nivek786/78655/491296
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR HR" tvg-logo="" group-title="DJEČIJI",NICK JR HR
+http://luxe-smarters.co:2052/Nivek786/78655/491295
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR SR" tvg-logo="" group-title="DJEČIJI",NICK JR SR
+http://luxe-smarters.co:2052/Nivek786/78655/491294
+#EXTINF:-1 tvg-ID="" tvg-name="RTL KOCKICA HD" tvg-logo="" group-title="DJEČIJI",RTL KOCKICA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491293
+
+#EXTINF:-1 tvg-ID="" tvg-name="✦●✦ MUZICKI ✦●✦" tvg-logo="" group-title="MUZIČKI",✦●✦ MUZICKI ✦●✦
+http://luxe-smarters.co:2052/Nivek786/78655/491292
+#EXTINF:-1 tvg-ID="" tvg-name="BANOVINA TV HD" tvg-logo="" group-title="MUZIČKI",BANOVINA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491291
+#EXTINF:-1 tvg-ID="" tvg-name="MTV 80s" tvg-logo="" group-title="MUZIČKI",MTV 80s
+http://luxe-smarters.co:2052/Nivek786/78655/491290
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="" group-title="MUZIČKI",MTV
+http://luxe-smarters.co:2052/Nivek786/78655/491289
+#EXTINF:-1 tvg-ID="" tvg-name="SEHARA HD" tvg-logo="" group-title="MUZIČKI",SEHARA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491288
+#EXTINF:-1 tvg-ID="" tvg-name="PESTER TV" tvg-logo="" group-title="MUZIČKI",PESTER TV
+http://luxe-smarters.co:2052/Nivek786/78655/491287
+#EXTINF:-1 tvg-ID="" tvg-name="KAFANSKO VECE HD" tvg-logo="" group-title="MUZIČKI",KAFANSKO VECE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491286
+#EXTINF:-1 tvg-ID="" tvg-name="PINK KONCERT" tvg-logo="" group-title="MUZIČKI",PINK KONCERT
+http://luxe-smarters.co:2052/Nivek786/78655/491285
+#EXTINF:-1 tvg-ID="" tvg-name="PINK & ROLL" tvg-logo="" group-title="MUZIČKI",PINK & ROLL
+http://luxe-smarters.co:2052/Nivek786/78655/491284
+#EXTINF:-1 tvg-ID="" tvg-name="PINK HITS 2" tvg-logo="" group-title="MUZIČKI",PINK HITS 2
+http://luxe-smarters.co:2052/Nivek786/78655/491283
+#EXTINF:-1 tvg-ID="" tvg-name="PINK HITS" tvg-logo="" group-title="MUZIČKI",PINK HITS
+http://luxe-smarters.co:2052/Nivek786/78655/491282
+#EXTINF:-1 tvg-ID="" tvg-name="PINK FOLK 2" tvg-logo="" group-title="MUZIČKI",PINK FOLK 2
+http://luxe-smarters.co:2052/Nivek786/78655/491281
+#EXTINF:-1 tvg-ID="" tvg-name="PINK FOLK" tvg-logo="" group-title="MUZIČKI",PINK FOLK
+http://luxe-smarters.co:2052/Nivek786/78655/491280
+#EXTINF:-1 tvg-ID="" tvg-name="PINK MUSIC 2" tvg-logo="" group-title="MUZIČKI",PINK MUSIC 2
+http://luxe-smarters.co:2052/Nivek786/78655/491279
+#EXTINF:-1 tvg-ID="" tvg-name="PINK MUSIC" tvg-logo="" group-title="MUZIČKI",PINK MUSIC
+http://luxe-smarters.co:2052/Nivek786/78655/491278
+#EXTINF:-1 tvg-ID="" tvg-name="JUGOTON TV" tvg-logo="" group-title="MUZIČKI",JUGOTON TV
+http://luxe-smarters.co:2052/Nivek786/78655/491277
+#EXTINF:-1 tvg-ID="" tvg-name="DUGA TV" tvg-logo="" group-title="MUZIČKI",DUGA TV
+http://luxe-smarters.co:2052/Nivek786/78655/491276
+#EXTINF:-1 tvg-ID="" tvg-name="IZVORNA TV HD" tvg-logo="" group-title="MUZIČKI",IZVORNA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491275
+#EXTINF:-1 tvg-ID="" tvg-name="YU PLANET" tvg-logo="" group-title="MUZIČKI",YU PLANET
+http://luxe-smarters.co:2052/Nivek786/78655/491274
+#EXTINF:-1 tvg-ID="" tvg-name="SEVDAH TV" tvg-logo="" group-title="MUZIČKI",SEVDAH TV
+http://luxe-smarters.co:2052/Nivek786/78655/491273
+#EXTINF:-1 tvg-ID="" tvg-name="KLAPE I TAMBURE HD" tvg-logo="" group-title="MUZIČKI",KLAPE I TAMBURE HD
+http://luxe-smarters.co:2052/Nivek786/78655/491272
+#EXTINF:-1 tvg-ID="" tvg-name="CITY PLAY" tvg-logo="" group-title="MUZIČKI",CITY PLAY
+http://luxe-smarters.co:2052/Nivek786/78655/491271
+#EXTINF:-1 tvg-ID="" tvg-name="POSAVINA TV" tvg-logo="" group-title="MUZIČKI",POSAVINA TV
+http://luxe-smarters.co:2052/Nivek786/78655/491270
+#EXTINF:-1 tvg-ID="" tvg-name="BRAVO MUSIC" tvg-logo="" group-title="MUZIČKI",BRAVO MUSIC
+http://luxe-smarters.co:2052/Nivek786/78655/491269
+#EXTINF:-1 tvg-ID="" tvg-name="BALKANIKA HD" tvg-logo="" group-title="MUZIČKI",BALKANIKA HD
+http://luxe-smarters.co:2052/Nivek786/78655/491268
+#EXTINF:-1 tvg-ID="" tvg-name="TOXIC FOLK HD" tvg-logo="" group-title="MUZIČKI",TOXIC FOLK HD
+http://luxe-smarters.co:2052/Nivek786/78655/491267
+#EXTINF:-1 tvg-ID="" tvg-name="TOXIC TV HD" tvg-logo="" group-title="MUZIČKI",TOXIC TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491266
+#EXTINF:-1 tvg-ID="" tvg-name="KCN Kopernikus 1 HD" tvg-logo="" group-title="MUZIČKI",KCN Kopernikus 1 HD
+http://luxe-smarters.co:2052/Nivek786/78655/491265
+#EXTINF:-1 tvg-ID="" tvg-name="CMC HD" tvg-logo="" group-title="MUZIČKI",CMC HD
+http://luxe-smarters.co:2052/Nivek786/78655/491264
+#EXTINF:-1 tvg-ID="" tvg-name="IDJ TV HD" tvg-logo="" group-title="MUZIČKI",IDJ TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491263
+#EXTINF:-1 tvg-ID="" tvg-name="BN MUSIC HD" tvg-logo="" group-title="MUZIČKI",BN MUSIC HD
+http://luxe-smarters.co:2052/Nivek786/78655/491262
+#EXTINF:-1 tvg-ID="" tvg-name="OTV VALENTINO ETNO" tvg-logo="" group-title="MUZIČKI",OTV VALENTINO ETNO
+http://luxe-smarters.co:2052/Nivek786/78655/491261
+#EXTINF:-1 tvg-ID="" tvg-name="OTV VALENTINO" tvg-logo="" group-title="MUZIČKI",OTV VALENTINO
+http://luxe-smarters.co:2052/Nivek786/78655/491260
+#EXTINF:-1 tvg-ID="" tvg-name="DM SAT" tvg-logo="" group-title="MUZIČKI",DM SAT
+http://luxe-smarters.co:2052/Nivek786/78655/491259
+#EXTINF:-1 tvg-ID="" tvg-name="H MUSIC BOX HD" tvg-logo="" group-title="MUZIČKI",H MUSIC BOX HD
+http://luxe-smarters.co:2052/Nivek786/78655/491258
+#EXTINF:-1 tvg-ID="" tvg-name="H FOLK BOX HD" tvg-logo="" group-title="MUZIČKI",H FOLK BOX HD
+http://luxe-smarters.co:2052/Nivek786/78655/491257
+#EXTINF:-1 tvg-ID="" tvg-name="GRAND NARODNA TV HD" tvg-logo="" group-title="MUZIČKI",GRAND NARODNA TV HD
+http://luxe-smarters.co:2052/Nivek786/78655/491256
 
 
 
@@ -15160,6 +14371,7 @@ http://bntvs.com:2052/movie/miloradp/34028439023/26291.mp4
 
 
 #kraj
+
 
 
 
