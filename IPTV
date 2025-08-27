@@ -1,1203 +1,1763 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HRT 1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-1-hr.png" group-title="HRVATSKA", HRT 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1189
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1hd.gif" group-title="Hrvatska", HRT  1 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30473.m3u8
 
-#EXTINF:-1 tvg-id="HRT 2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-2-hr.png" group-title="HRVATSKA", HRT 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1190
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2hd.gif" group-title="Hrvatska", HRT  2 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30474.m3u8
 
-#EXTINF:-1 tvg-id="HRT 3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-3-hr.png" group-title="HRVATSKA", HRT 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1191
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3hd.gif" group-title="Hrvatska", HRT 3 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30475.m3u8
 
-#EXTINF:-1 tvg-id="HRT 4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-4-hr.png" group-title="HRVATSKA", HRT 4
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1192
+#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/78320.m3u8
 
-#EXTINF:-1 tvg-id="HRT international" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt-international-hr.png" group-title="HRVATSKA", HRT international
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1193
+#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatskahd.gif" group-title="Hrvatska", RTL HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30476.m3u8
 
-#EXTINF:-1 tvg-id="Nova TV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="HRVATSKA", NOVA
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1200
+#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45.m3u8
 
-#EXTINF:-1 tvg-id="Nova Family" tvg-logo="noimage.png" group-title="HRVATSKA", Nova Family
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47792
+#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/112.m3u8
 
-#EXTINF:-1 tvg-id="TV Nova.hr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-hr.png" group-title="HRVATSKA", Nova TV (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1199
+#EXTINF:-1 tvg-id="n1-hr" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/n1hr.gif" group-title="Hrvatska", N1 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3774.m3u8
 
-#EXTINF:-1 tvg-id="Nova World" tvg-logo="noimage.png" group-title="HRVATSKA", Nova World
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47791
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt1.gif" group-title="Hrvatska", HRT 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/40.m3u8
 
-#EXTINF:-1 tvg-id="RTL HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl-hrvatska-de-hr.svg" group-title="HRVATSKA", RTL
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1194
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt2.gif" group-title="Hrvatska", HRT 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/41.m3u8
 
-#EXTINF:-1 tvg-id="RTL 2.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1195
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt3.gif" group-title="Hrvatska", HRT 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/353.m3u8
 
-#EXTINF:-1 tvg-id="RTL Adria HD.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Adria
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/37022
+#EXTINF:-1 tvg-id="htv4" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt4.gif" group-title="Hrvatska", HRT 4
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/354.m3u8
 
-#EXTINF:-1 tvg-id="RTL Crime.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Crime
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1196
+#EXTINF:-1 tvg-id="htv5" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hrt5.gif" group-title="Hrvatska", HRT int.
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/9049.m3u8
 
-#EXTINF:-1 tvg-id="RTL Living.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Living
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1197
+#EXTINF:-1 tvg-id="HRT Doku" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/hrtdoku.gif" group-title="Hrvatska", HRT Doku
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/73694.m3u8
 
-#EXTINF:-1 tvg-id="RTL Passion.hr" tvg-logo="noimage.png" group-title="HRVATSKA", RTL Passion
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1198
+#EXTINF:-1 tvg-id="nova" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/nova.gif" group-title="Hrvatska", Nova TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/22.m3u8
 
-#EXTINF:-1 tvg-id="Star Channel (FOX)" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="HRVATSKA", Star Channel (FOX)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1201
+#EXTINF:-1 tvg-id="doma-tv" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/domatv.gif" group-title="Hrvatska", Doma
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68556.m3u8
 
-#EXTINF:-1 tvg-id="Star Life" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="HRVATSKA", Star Life
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1202
+#EXTINF:-1 tvg-id="nova-world" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novaworld.gif" group-title="Hrvatska", Nova World
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45126.m3u8
 
-#EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://w7.pngwing.com/pngs/704/511/png-transparent-fox-movies-television-channel-star-movies-logo-fox-miscellaneous-television-text-thumbnail.png" group-title="HRVATSKA", Star Movies
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1204
+#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://repo.ottshow.net/pikoni/hrvatska/novafamily.gif" group-title="Hrvatska", Nova Family
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39435.m3u8
 
-#EXTINF:-1 tvg-id="Z1.hr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/z1_hr.jpg" group-title="HRVATSKA", Z1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1206
+#EXTINF:-1 tvg-id="Nova Series" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/novaseries.gif" group-title="Hrvatska", Nova Series
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72613.m3u8
 
-#EXTINF:-1 tvg-id="B92" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b92-rs.svg" group-title="SRBIJA",  B92
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1271
+#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/novacinema.gif" group-title="Hrvatska", Nova Cinema
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39476.m3u8
 
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-rs.png" group-title="SRBIJA", Agro RTV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39237
+#EXTINF:-1 tvg-id="Nova Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/novacinema2.gif" group-title="Hrvatska", Nova Cinema 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45121.m3u8
 
-#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo-thumbnail.png" group-title="SRBIJA", AMC
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1278
+#EXTINF:-1 tvg-id="rtl" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlhrvatska.gif" group-title="Hrvatska", RTL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", Balkan Trip
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40467
+#EXTINF:-1 tvg-id="rtl2" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtl2hrvatska.gif" group-title="Hrvatska", RTL 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68558.m3u8
 
-#EXTINF:-1 tvg-id="Balkan TV" tvg-logo="noimage.png" group-title="SRBIJA", Balkan TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5057
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlworld.gif" group-title="Hrvatska", RTL World
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45127.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blic-tv-rs.png" group-title="SRBIJA", Blic TV ᴴᴰ
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47744
+#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlpassion.gif" group-title="Hrvatska", RTL Passion
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1198.m3u8
 
-#EXTINF:-1 tvg-id="Domaci Ratni Filmovi 24/7" tvg-logo="noimage.png" group-title="SRBIJA", Domaci Ratni Filmovi 24/7
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40469
+#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlkrime.gif" group-title="Hrvatska", RTL Crime
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1199.m3u8
 
-#EXTINF:-1 tvg-id="Dox Tv" tvg-logo="noimage.png" group-title="SRBIJA", Dox Tv
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39056
+#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlliving.gif" group-title="Hrvatska", RTL Living
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2502.m3u8
 
-#EXTINF:-1 tvg-id="TV Duga plus.rs" tvg-logo="noimage.png" group-title="SRBIJA", Duga TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1274
+#EXTINF:-1 tvg-id="rtl-adria" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtladria.gif" group-title="Hrvatska", RTL Adria
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/26431.m3u8
 
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_de_hd.jpg" group-title="SRBIJA", E!  Entertaiment
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1275
+#EXTINF:-1 tvg-id="RTL+" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/rtlplus.gif" group-title="Hrvatska", RTL+
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45113.m3u8
 
-#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="noimage.png" group-title="SRBIJA", Epic Drama
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39858
+#EXTINF:-1 tvg-id="RTL Play" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/RTL%20Pley.gif" group-title="Hrvatska", RTL Play
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45120.m3u8
 
-#EXTINF:-1 tvg-id="Euronews HD" tvg-logo="https://w7.pngwing.com/pngs/1019/693/png-transparent-euronews-television-channel-logo-streaming-media-euronews-television-blue-text-thumbnail.png" group-title="SRBIJA", EuroNews Srbija
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39242
+#EXTINF:-1 tvg-id="z1" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/z1.gif" group-title="Hrvatska", Z1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1550.m3u8
 
-#EXTINF:-1 tvg-id="Moja Happy Muzika.rs" tvg-logo="noimage.png" group-title="SRBIJA", Happy Muzika
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/51491
+#EXTINF:-1 tvg-id="Laudato" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/laudatotv.gif" group-title="Hrvatska", Laudato
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24581.m3u8
 
-#EXTINF:-1 tvg-id="Happy Reality 2.rs" tvg-logo="noimage.png" group-title="SRBIJA", Happy Reality
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1287
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vinkovacka.gif" group-title="Hrvatska", Vinkovacka
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/551.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/hh/happy-rs.png" group-title="SRBIJA", Happy TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1283
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/slavonskatv.gif" group-title="Hrvatska", Slavonska
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1176.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hype-tv-rs.png" group-title="SRBIJA", Hype TV ᴴᴰ
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48994
+#EXTINF:-1 tvg-id="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="Hrvatska", OTV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4537.m3u8
 
-#EXTINF:-1 tvg-id="Informer TV" tvg-logo="noimage.png" group-title="SRBIJA", Informer TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/54738
+#EXTINF:-1 tvg-id="cakovec" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/srcetv.gif" group-title="Hrvatska", Zdrava Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4632.m3u8
 
-#EXTINF:-1 tvg-id="Insajder TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insajder-rs.svg" group-title="SRBIJA", INSAJDER TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50410
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/vtvvarazdintv.gif" group-title="Hrvatska", VTV Varaždin
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/5015.m3u8
 
-#EXTINF:-1 tvg-id="K1 TV" tvg-logo="noimage.png" group-title="SRBIJA", K1 TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39063
+#EXTINF:-1 tvg-id="rtv-hb" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hercegbosnatv.gif" group-title="Hrvatska", Herceg Bosna
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/5017.m3u8
 
-#EXTINF:-1 tvg-id="Kanal 6" tvg-logo="noimage.png" group-title="SRBIJA", Kanal 6
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19640
+#EXTINF:-1 tvg-id="tv-jadran" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jadrantv.gif" group-title="Hrvatska", Jadran tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/5018.m3u8
 
-#EXTINF:-1 tvg-id="Kurir TV.rs" tvg-logo="noimage.png" group-title="SRBIJA", Kurir TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29054
+#EXTINF:-1 tvg-id="tv-dalmacija" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/televizija-dalmacija.gif" group-title="Hrvatska", Televizija Dalmacija
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69879.m3u8
 
-#EXTINF:-1 tvg-id="n1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1-rs.svg" group-title="SRBIJA", N1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1146
+#EXTINF:-1 tvg-id="sbtv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/sbtv.gif" group-title="Hrvatska", SBTV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/9125.m3u8
 
-#EXTINF:-1 tvg-id="Narodna Televizija" tvg-logo="noimage.png" group-title="SRBIJA", Narodna Televizija
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19639
+#EXTINF:-1 tvg-id="libertas-tv" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/libertastv.gif" group-title="Hrvatska", Libertas
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24582.m3u8
 
-#EXTINF:-1 tvg-id="Nova M HD" tvg-logo="noimage.png" group-title="SRBIJA", Nova M
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1268
+#EXTINF:-1 tvg-id="Osjecka" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/osijeckatv.gif" group-title="Hrvatska", Osjecka
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1207.m3u8
 
-#EXTINF:-1 tvg-id="NOVA S HD" tvg-logo="noimage.png" group-title="SRBIJA", Nova S
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1272
+#EXTINF:-1 tvg-id="Marry TV Medugorje" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/marrytvmedugorije.gif" group-title="Hrvatska", Marry TV Medugorje
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29258.m3u8
 
-#EXTINF:-1 tvg-id="Nova Series" tvg-logo="noimage.png" group-title="SRBIJA", Nova Series
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/47790
+#EXTINF:-1 tvg-id="kanal-ri" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/kanal-ir.gif" group-title="Hrvatska", kanalR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/66467.m3u8
 
-#EXTINF:-1 tvg-id="Parovi Uzivo" tvg-logo="noimage.png" group-title="SRBIJA", Parovi Uzivo
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1286
+#EXTINF:-1 tvg-id="Mreža tv Zagreb" tvg-logo="http://web.izipizi1.info/pi/mreza-zg-tv.png" group-title="Hrvatska", Mreža tv Zagreb
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39477.m3u8
 
-#EXTINF:-1 tvg-id="Pickbox HD (RS)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pickbox-tv-hr.png" group-title="SRBIJA", PickBox TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5045
+#EXTINF:-1 tvg-id="CroTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/crotv.gif" group-title="Hrvatska", CroTV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67281.m3u8
 
-#EXTINF:-1 tvg-id="Prva Kick" tvg-logo="noimage.png" group-title="SRBIJA", Prva Kick
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1265
+#EXTINF:-1 tvg-id="Trend Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/trend-tv.gif" group-title="Hrvatska", Trend Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69886.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", Prva Life
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36147
+#EXTINF:-1 tvg-id="Tv Zapad" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/tvz.gif" group-title="Hrvatska", Tv Zapad
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69895.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", Prva Max
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1266
+#EXTINF:-1 tvg-id="Prigorska Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/hr/prigorska-tv.gif" group-title="Hrvatska", Prigorska Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69903.m3u8
 
-#EXTINF:-1 tvg-id="Prva plus" tvg-logo="noimage.png" group-title="SRBIJA", Prva Plus
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1264
+#EXTINF:-1 tvg-id="Tv Sibenik" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/hr/tv-sibenik.gif" group-title="Hrvatska", Tv Sibenik
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71763.m3u8
 
-#EXTINF:-1 tvg-id="Prva HD (SR)" tvg-logo="noimage.png" group-title="SRBIJA", Prva TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1263
+#EXTINF:-1 tvg-id="aurora-tv" tvg-logo="noimage.png" group-title="Hrvatska", Aurora TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/78934.m3u8
 
-#EXTINF:-1 tvg-id="Prva World" tvg-logo="noimage.png" group-title="SRBIJA", Prva World
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1267
+#EXTINF:-1 tvg-id="Nova Cinema 4K" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/hrvatska/novacinema4k.gif" group-title="Hrvatska", Nova Cinema 4K
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69176.m3u8
 
-#EXTINF:-1 tvg-id="RTRS" tvg-logo="noimage.png" group-title="SRBIJA", RTRS
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1258
+#EXTINF:-1 tvg-id="ftv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ftvhd.gif" group-title="Bosna i Hercegovina", FTV HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/31733.m3u8
 
-#EXTINF:-1 tvg-id="RTRS Plus" tvg-logo="noimage.png" group-title="SRBIJA", RTRS Plus
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1259
+#EXTINF:-1 tvg-id="bht1" tvg-logo="http://repo.ottshow.net/pikoni/bosna/bhthd.gif" group-title="Bosna i Hercegovina", BHT HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/214.m3u8
 
-#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_1.png" group-title="SRBIJA", RTS 1 (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1255
+#EXTINF:-1 tvg-id="nova-bh" tvg-logo="http://repo.ottshow.net/pikoni/bosna/novabhhd.gif" group-title="Bosna i Hercegovina", Nova BH HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4.m3u8
 
-#EXTINF:-1 tvg-id="RTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_2.png" group-title="SRBIJA", RTS 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1256
+#EXTINF:-1 tvg-id="face-tv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/facetvhd.gif" group-title="Bosna i Hercegovina", Face TV HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2469.m3u8
 
-#EXTINF:-1 tvg-id="RTS 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_3.png" group-title="SRBIJA", RTS 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1257
+#EXTINF:-1 tvg-id="hayat-tv" tvg-logo="https://repo.ottshow.net/pikoni/bosna/hayathd.gif" group-title="Bosna i Hercegovina", HAYAT HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/40636.m3u8
 
-#EXTINF:-1 tvg-id="RTS Drama.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-drama-rs.png" group-title="SRBIJA", RTS Drama
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1262
+#EXTINF:-1 tvg-id="obn" tvg-logo="http://repo.ottshow.net/pikoni/bosna/obn.gif" group-title="Bosna i Hercegovina", OBN HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/11.m3u8
 
-#EXTINF:-1 tvg-id="RTS Kolo.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-kolo-rs.png" group-title="SRBIJA", RTS Kolo
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1276
+#EXTINF:-1 tvg-id="MY TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", MY TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/80930.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-muzika-rs.png" group-title="SRBIJA", RTS Muzika
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19638
+#EXTINF:-1 tvg-id="n1" tvg-logo="http://repo.ottshow.net/pikoni/bosna/n1bih.gif" group-title="Bosna i Hercegovina", N1 BIH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29845.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-nauka-rs.png" group-title="SRBIJA", RTS Nauka
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40466
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-logo="http://repo.ottshow.net/pikoni/bosna/aljazeerabalkans.gif" group-title="Bosna i Hercegovina", Al Jazeera Balkans
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/99.m3u8
 
-#EXTINF:-1 tvg-id="RTS Poletarac.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-poletarac-rs.png" group-title="SRBIJA", RTS Poletarac
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/17957
+#EXTINF:-1 tvg-id="ftv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ftv.gif" group-title="Bosna i Hercegovina", FTV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1.m3u8
 
-#EXTINF:-1 tvg-id="RTS Svet" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-svet-rs.png" group-title="SRBIJA", RTS Svet
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19637
+#EXTINF:-1 tvg-id="bht1" tvg-logo="http://repo.ottshow.net/pikoni/bosna/bht.gif" group-title="Bosna i Hercegovina", BHT 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2.m3u8
 
-#EXTINF:-1 tvg-id="RTS Trezor.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-trezor-rs.png" group-title="SRBIJA", RTS Trezor
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1260
+#EXTINF:-1 tvg-id="nova-bh" tvg-logo="http://repo.ottshow.net/pikoni/bosna/novabh.gif" group-title="Bosna i Hercegovina", Nova BH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/13939.m3u8
 
-#EXTINF:-1 tvg-id="RTS Život.rs" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-zivot-rs.png" group-title="SRBIJA", RTS Zivot
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1261
+#EXTINF:-1 tvg-id="face-tv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/facetv.gif" group-title="Bosna i Hercegovina", Face TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/26.m3u8
 
-#EXTINF:-1 tvg-id="RTV 1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_rs_1.png" group-title="SRBIJA", RTV 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1280
+#EXTINF:-1 tvg-id="hayat-tv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/hayat.gif" group-title="Bosna i Hercegovina", Hayat
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29454.m3u8
 
-#EXTINF:-1 tvg-id="RTV 2" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_rs_2.png" group-title="SRBIJA", RTV 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1281
+#EXTINF:-1 tvg-id="hayat-plus" tvg-logo="http://repo.ottshow.net/pikoni/bosna/hayatplus.gif" group-title="Bosna i Hercegovina", Hayat Plus
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/546.m3u8
 
-#EXTINF:-1 tvg-id="tvbor.rs" tvg-logo="noimage.png" group-title="SRBIJA", RTV Bor
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39057
+#EXTINF:-1 tvg-id="obn" tvg-logo="http://repo.ottshow.net/pikoni/bosna/obn.gif" group-title="Bosna i Hercegovina", OBN
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68600.m3u8
 
-#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-srbija-us-rs.png" group-title="SRBIJA", SciFi
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1273
+#EXTINF:-1 tvg-id="bn" tvg-logo="https://repo.ottshow.net/pikoni/bosna/bn.gif" group-title="Bosna i Hercegovina", BN
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68755.m3u8
 
-#EXTINF:-1 tvg-id="Sezam TV" tvg-logo="noimage.png" group-title="SRBIJA", Sezam TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39241
+#EXTINF:-1 tvg-id="bn-sat" tvg-logo="http://repo.ottshow.net/pikoni/bosna/bn2.gif" group-title="Bosna i Hercegovina", BN 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/32379.m3u8
 
-#EXTINF:-1 tvg-id="SOS Kanal Plus.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sos-kanal-plus-rs.png" group-title="SRBIJA", SOS Kanal +
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1269
+#EXTINF:-1 tvg-id="rtrs" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtrs.gif" group-title="Bosna i Hercegovina", RTRS
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/96.m3u8
 
-#EXTINF:-1 tvg-id="Studio B" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studio-b-rs.png" group-title="SRBIJA", Studio B
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1284
+#EXTINF:-1 tvg-id="atv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/atv.gif" group-title="Bosna i Hercegovina", ATV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/10.m3u8
 
-#EXTINF:-1 tvg-id="SUPERSTAR TV.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superstar-rs.png" group-title="SRBIJA", SuperStar  TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36514
+#EXTINF:-1 tvg-id="o-kanal" tvg-logo="http://repo.ottshow.net/pikoni/bosna/0kanal.gif" group-title="Bosna i Hercegovina", 0 Kanal
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/12.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", SuperStar 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5043
+#EXTINF:-1 tvg-id="o-kanal-plus" tvg-logo="http://repo.ottshow.net/pikoni/bosna/O%20KANAL%20PLUS.gif" group-title="Bosna i Hercegovina", O Kanal Plus
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/36411.m3u8
 
-#EXTINF:-1 tvg-id="TLC HD (RS)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_de.png" group-title="SRBIJA", TLC
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1279
+#EXTINF:-1 tvg-id="Historija" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", Historija
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/83194.m3u8
 
-#EXTINF:-1 tvg-id="TV Istok.rs" tvg-logo="noimage.png" group-title="SRBIJA", TV Istok
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/13164
+#EXTINF:-1 tvg-id="RTV Puls" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", RTV Puls
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/83869.m3u8
 
-#EXTINF:-1 tvg-id="2000s.rs" tvg-logo="noimage.png" group-title="SRBIJA", TV Kazbuka
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40468
+#EXTINF:-1 tvg-id="televizija-alfa" tvg-logo="http://repo.ottshow.net/pikoni/bosna/alfasarajevo.gif" group-title="Bosna i Hercegovina", Alfa Sarajevo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/13.m3u8
 
-#EXTINF:-1 tvg-id="TV Leskovac" tvg-logo="noimage.png" group-title="SRBIJA", TV Leskovac
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39058
+#EXTINF:-1 tvg-id="tv-sarajevo" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvsarajevo.gif" group-title="Bosna i Hercegovina", TV Sarajevo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/234.m3u8
 
-#EXTINF:-1 tvg-id="TV Palma Plus Jagodina" tvg-logo="noimage.png" group-title="SRBIJA", TV Palma Plus Jagodina
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1537
+#EXTINF:-1 tvg-id="rtv-ze" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtvz.gif" group-title="Bosna i Hercegovina", TV Zenica
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1209.m3u8
 
-#EXTINF:-1 tvg-id="UNA" tvg-logo="noimage.png" group-title="SRBIJA", UNA
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29064
+#EXTINF:-1 tvg-id="mtv-igman" tvg-logo="http://repo.ottshow.net/pikoni/bosna/mtvigman.gif" group-title="Bosna i Hercegovina", TV Igman
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/14.m3u8
 
-#EXTINF:-1 tvg-id="Zadruga Live 1" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga 1 Live
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1285
+#EXTINF:-1 tvg-id="bir-tv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/birtv.gif" group-title="Bosna i Hercegovina", BIR TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/28677.m3u8
 
-#EXTINF:-1 tvg-id="Zadruga Live 2" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga 2 Live
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19632
+#EXTINF:-1 tvg-id="televizija-5" tvg-logo="http://repo.ottshow.net/pikoni/bosna/televizija5.gif" group-title="Bosna i Hercegovina", Televizija 5
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1568.m3u8
 
-#EXTINF:-1 tvg-id="Zadruga Live 3" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga Live 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19633
+#EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/sandzaktv.gif" group-title="Bosna i Hercegovina", Sandzak TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1070.m3u8
 
-#EXTINF:-1 tvg-id="Zadruga Live 4" tvg-logo="noimage.png" group-title="SRBIJA", Zadruga Live 4
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19634
+#EXTINF:-1 tvg-id="rtvtk" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tk.gif" group-title="Bosna i Hercegovina", TK
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3.m3u8
 
-#EXTINF:-1 tvg-id="BiH: RTV Cazin" tvg-logo="noimage.png" group-title="BIH", BiH: RTV Cazin
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49809
+#EXTINF:-1 tvg-id="rtv-usk" tvg-logo="https://repo.ottshow.net/pikoni/bosna/usk.gif" group-title="Bosna i Hercegovina", USK
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/81615.m3u8
 
-#EXTINF:-1 tvg-id="Alfa TV Sarajevo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alfa_televizija.jpg" group-title="BIH", Alfa TV Sarajevo
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19641
+#EXTINF:-1 tvg-id="rtv-bpk-gorazde" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/bosna/bpk.gif" group-title="Bosna i Hercegovina", BPK
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69412.m3u8
 
-#EXTINF:-1 tvg-id="Aljazeera Balkans" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg" group-title="BIH", Aljazeera Balkans
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1207
+#EXTINF:-1 tvg-id="rtv-hit" tvg-logo="http://repo.ottshow.net/pikoni/bosna/hitbrcko.gif" group-title="Bosna i Hercegovina", HIT Brcko
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/650.m3u8
 
-#EXTINF:-1 tvg-id="Alternativna TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_tv_ba.jpg" group-title="BIH", Alternativna TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1226
+#EXTINF:-1 tvg-id="rtv7" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bosna/rtv7.gif" group-title="Bosna i Hercegovina", RTV7
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71621.m3u8
 
-#EXTINF:-1 tvg-id="BHT 1" tvg-logo="noimage.png" group-title="BIH", BHT 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1215
+#EXTINF:-1 tvg-id="rtv-slon" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvslon.gif" group-title="Bosna i Hercegovina", RTV Slon
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/218.m3u8
 
-#EXTINF:-1 tvg-id="BN Televizija" tvg-logo="noimage.png" group-title="BIH", BN Televizija
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1210
+#EXTINF:-1 tvg-id="ntv-ic" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvkakanj.gif" group-title="Bosna i Hercegovina", TV Kakanj
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/210.m3u8
 
-#EXTINF:-1 tvg-id="Diva" tvg-logo="noimage.png" group-title="BIH", Diva
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1227
+#EXTINF:-1 tvg-id="Visoko TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", Visoko TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/79123.m3u8
 
-#EXTINF:-1 tvg-id="Face" tvg-logo="noimage.png" group-title="BIH", Face
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1216
+#EXTINF:-1 tvg-id="kanal-6" tvg-logo="http://repo.ottshow.net/pikoni/bosna/kanal6.gif" group-title="Bosna i Hercegovina", Kanal 6 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/9126.m3u8
 
-#EXTINF:-1 tvg-id="Federalna TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ftv_ba.jpg" group-title="BIH", Federalna TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1217
+#EXTINF:-1 tvg-id="TV Maglaj" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", TV Maglaj
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/82133.m3u8
 
-#EXTINF:-1 tvg-id="Glas Drine" tvg-logo="noimage.png" group-title="BIH", Glas Drine
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1218
+#EXTINF:-1 tvg-id="smart-tv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/smarttv.gif" group-title="Bosna i Hercegovina", Smart tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/33158.m3u8
 
-#EXTINF:-1 tvg-id="Hayat" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_ba.jpg" group-title="BIH", Hayat
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1211
+#EXTINF:-1 tvg-id="Tatabrada TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tatabradatv.gif" group-title="Bosna i Hercegovina", Tatabrada TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1114.m3u8
 
-#EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_plus.jpg" group-title="BIH", Hayat Plus
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1212
+#EXTINF:-1 tvg-id="TV Posavina" tvg-logo="http://repo.ottshow.net/pikoni/bosna/posavinatv.gif" group-title="Bosna i Hercegovina", TV Posavina
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1074.m3u8
 
-#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="noimage.png" group-title="BIH", Izvorna TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1228
+#EXTINF:-1 tvg-id="TV Zivinice" tvg-logo="https://repo.ottshow.net/pikoni/ikone/tvzivinice.gif" group-title="Bosna i Hercegovina", TV Zivinice
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/65411.m3u8
 
-#EXTINF:-1 tvg-id="MTV Igman" tvg-logo="noimage.png" group-title="BIH", MTV Igman
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1230
+#EXTINF:-1 tvg-id="B1 Gradacac" tvg-logo="http://repo.ottshow.net/pikoni/bosna/b1gradacac.gif" group-title="Bosna i Hercegovina", B1 Gradacac
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2485.m3u8
 
-#EXTINF:-1 tvg-id="N1" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1-rs.svg" group-title="BIH", N1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1220
+#EXTINF:-1 tvg-id="RTV Sana" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtvsana.gif" group-title="Bosna i Hercegovina", RTV Sana
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/11587.m3u8
 
-#EXTINF:-1 tvg-id="Nova (BiH)" tvg-logo="noimage.png" group-title="BIH", Nova (BiH)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1213
+#EXTINF:-1 tvg-id="RTV Cazin" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtvcazin.gif" group-title="Bosna i Hercegovina", RTV Cazin
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24947.m3u8
 
-#EXTINF:-1 tvg-id="Novi Pazar" tvg-logo="noimage.png" group-title="BIH", Novi Pazar
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1219
+#EXTINF:-1 tvg-id="TV Podrinje" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvpodrinje.gif" group-title="Bosna i Hercegovina", TV Podrinje
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24511.m3u8
 
-#EXTINF:-1 tvg-id="O Kanal" tvg-logo="https://totaltv.tv/oec/images/tv_channels/c94c5a006f1e411521742c4d90828d53.png" group-title="BIH", O Kanal
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1221
+#EXTINF:-1 tvg-id="Glas Drine" tvg-logo="http://repo.ottshow.net/pikoni/bosna/glasdrine.gif" group-title="Bosna i Hercegovina", Glas Drine
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1072.m3u8
 
-#EXTINF:-1 tvg-id="OBN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/obn.jpg" group-title="BIH", OBN
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1208
+#EXTINF:-1 tvg-id="Neon TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/NEON%20TV.gif" group-title="Bosna i Hercegovina", Neon TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/36346.m3u8
 
-#EXTINF:-1 tvg-id="OBN reserve" tvg-logo="noimage.png" group-title="BIH", OBN reserve
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36283
+#EXTINF:-1 tvg-id="rtv-vogosca" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/rtvvogosca.gif" group-title="Bosna i Hercegovina", RTV Vogosca
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71117.m3u8
 
-#EXTINF:-1 tvg-id="Posavina TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/posavina_tv_ba.jpg" group-title="BIH", Posavina TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1229
+#EXTINF:-1 tvg-id="kanal-3-prnjavor" tvg-logo="http://repo.ottshow.net/pikoni/bosna/k3tv.gif" group-title="Bosna i Hercegovina", K3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1851.m3u8
 
-#EXTINF:-1 tvg-id="RTV Herceg Bosne" tvg-logo="noimage.png" group-title="BIH", RTV Herceg Bosne
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1127
+#EXTINF:-1 tvg-id="protv-bh" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", Pro-TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/83174.m3u8
 
-#EXTINF:-1 tvg-id="RTV USK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_usk.jpg" group-title="BIH", RTV USK
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1222
+#EXTINF:-1 tvg-id="rtv-hb" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/hercegbosnatv.gif" group-title="Bosna i Hercegovina", RTV HB
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/32084.m3u8
 
-#EXTINF:-1 tvg-id="RTV Zenica" tvg-logo="noimage.png" group-title="BIH", RTV Zenica
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1223
+#EXTINF:-1 tvg-id="Jata tv" tvg-logo="https://repo.ottshow.net/pikoni/mix/jata-tv.gif" group-title="Bosna i Hercegovina", Jata tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/62989.m3u8
 
-#EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="noimage.png" group-title="BIH", Sandzak TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39240
+#EXTINF:-1 tvg-id="Saudi Kur an" tvg-logo="http://repo.ottshow.net/pikoni/bosna/saudi_kuran.gif" group-title="Bosna i Hercegovina", Saudi Kur an
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35955.m3u8
 
-#EXTINF:-1 tvg-id="Slon TV" tvg-logo="noimage.png" group-title="BIH", Slon TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29056
+#EXTINF:-1 tvg-id="tvcg1" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/rtcg.gif" group-title="Crna Gora", RTCG 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1080.m3u8
 
-#EXTINF:-1 tvg-id="TV Sarajevo" tvg-logo="noimage.png" group-title="BIH", TV Sarajevo
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1214
+#EXTINF:-1 tvg-id="tvcg2" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/rtcg2.gif" group-title="Crna Gora", RTCG 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2543.m3u8
 
-#EXTINF:-1 tvg-id="TV TK" tvg-logo="noimage.png" group-title="BIH", TV TK
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1209
+#EXTINF:-1 tvg-id="tvcg-sat" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/rtcgsat.gif" group-title="Crna Gora", RTCG Sat
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71118.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv24-mk.png" group-title="MAKEDONIJA", 24 Vesti
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1243
+#EXTINF:-1 tvg-id="prva-tv-cg" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/prvacg.gif" group-title="Crna Gora", Prva M
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/9920.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alfa-tv-mk.png" group-title="MAKEDONIJA", Alfa
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1241
+#EXTINF:-1 tvg-id="nova-m" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/novam.gif" group-title="Crna Gora", Nova M
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23607.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alsat-m-al-mk.png" group-title="MAKEDONIJA", ALSAT M
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1249
+#EXTINF:-1 tvg-id="pink-m" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkm.gif" group-title="Crna Gora", Pink M
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/159.m3u8
 
-#EXTINF:-1 tvg-id="B1 (Sutel TV)" tvg-logo="noimage.png" group-title="MAKEDONIJA", B1 (Sutel TV)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1244
+#EXTINF:-1 tvg-id="tv-vijesti" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/tvvijesticg.gif" group-title="Crna Gora", TV Vijesti CG
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1623.m3u8
 
-#EXTINF:-1 tvg-id="Hugo 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", Hugo 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1253
+#EXTINF:-1 tvg-id="rtv7" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/tv7.gif" group-title="Crna Gora", TV 7
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2770.m3u8
 
-#EXTINF:-1 tvg-id="Hugo 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", Hugo 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1254
+#EXTINF:-1 tvg-id="RTV Rozaje" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/rtvrozaje.gif" group-title="Crna Gora", RTV Rozaje
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71120.m3u8
 
-#EXTINF:-1 tvg-id="24 Вести.mk" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal5_mk.png" group-title="MAKEDONIJA", Kanal 5 (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1251
+#EXTINF:-1 tvg-id="RTCG Parlament" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/rtvcgparlament.gif" group-title="Crna Gora", RTCG Parlament
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71122.m3u8
 
-#EXTINF:-1 tvg-id="M Net" tvg-logo="noimage.png" group-title="MAKEDONIJA", M Net
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/23569
+#EXTINF:-1 tvg-id="mrt1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/mrt1.gif" group-title="Makedonija", MRT 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1186.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt_mk_tv_1.png" group-title="MAKEDONIJA", MRT 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1235
+#EXTINF:-1 tvg-id="mrt2" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/mrt2.gif" group-title="Makedonija", MRT 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4611.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt_mk_tv_2_sat.png" group-title="MAKEDONIJA", MRT 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1236
+#EXTINF:-1 tvg-id="MRT 3" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/mrt3.gif" group-title="Makedonija", MRT 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68077.m3u8
 
-#EXTINF:-1 tvg-id="24 Вести.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-3-mk.png" group-title="MAKEDONIJA", MRT 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1715
+#EXTINF:-1 tvg-id="MRT 5" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/mrt5.gif" group-title="Makedonija", MRT 5
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68084.m3u8
 
-#EXTINF:-1 tvg-id="MRT4.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-4-mk.png" group-title="MAKEDONIJA", MRT 4
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29061
+#EXTINF:-1 tvg-id="sitel" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/tvsitel.gif" group-title="Makedonija", TV Sitel
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1162.m3u8
 
-#EXTINF:-1 tvg-id="MRT5.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-5-mk.png" group-title="MAKEDONIJA", MRT 5
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1248
+#EXTINF:-1 tvg-id="TV Telma" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/tvtelma.gif" group-title="Makedonija", TV Telma
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1174.m3u8
 
-#EXTINF:-1 tvg-id="MTM Skopska" tvg-logo="noimage.png" group-title="MAKEDONIJA", MTM Skopska
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1252
+#EXTINF:-1 tvg-id="kanal5" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/tvkanal5.gif" group-title="Makedonija", TV Kanal 5
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1406.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_mk.png" group-title="MAKEDONIJA", Nasha TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1245
+#EXTINF:-1 tvg-id="alfa-tv" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/tvalfa.gif" group-title="Makedonija", TV Alfa
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1411.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sitel-tv-mk.svg" group-title="MAKEDONIJA", SITEL
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1238
+#EXTINF:-1 tvg-id="24vesti" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/24vesti.gif" group-title="Makedonija", 24 Vesti
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2792.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sitel-tv-mk.svg" group-title="MAKEDONIJA", SITEL (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1237
+#EXTINF:-1 tvg-id="Hugo 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/HUGO1.gif" group-title="Makedonija", Hugo 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68081.m3u8
 
-#EXTINF:-1 tvg-id="MRTSobraniskikanal.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrt-sobraniski-kanal-mk.png" group-title="MAKEDONIJA", Sobraniski Kanal
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1717
+#EXTINF:-1 tvg-id="Hugo 2" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/hugo2.gif" group-title="Makedonija", Hugo 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68082.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telma_mk.png" group-title="MAKEDONIJA", Telma
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1242
+#EXTINF:-1 tvg-id="Hugo 3" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/hugo3.gif" group-title="Makedonija", Hugo 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68083.m3u8
 
-#EXTINF:-1 tvg-id="TeraTV.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", Tera Bitola
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/23577
+#EXTINF:-1 tvg-id="Tera TV HD" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/teratvhdmk.gif" group-title="Makedonija", Tera TV HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29583.m3u8
 
-#EXTINF:-1 tvg-id="TVSonce.mk" tvg-logo="https://www.lyngsat.com/logo/tv/mm/makedonsko-soncega.png" group-title="MAKEDONIJA", TV Sonce
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1246
+#EXTINF:-1 tvg-id="IN TV Avstralija" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/intvavstralija.gif" group-title="Makedonija", IN TV Avstralija
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29584.m3u8
 
-#EXTINF:-1 tvg-id="TV+ Kumanovo" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV+ Kumanovo
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1247
+#EXTINF:-1 tvg-id="TV Sonce" tvg-logo="https://repo.ottshow.net/pikoni/cgmk/tvsonce.gif" group-title="Makedonija", TV Sonce
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68079.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", Cinemax 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48561
+#EXTINF:-1 tvg-id="Alsat M" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/Alsat-M.gif" group-title="Makedonija", Alsat M
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68080.m3u8
 
-#EXTINF:-1 tvg-id="Film Box Stars" tvg-logo="noimage.png" group-title="MAKEDONIJA", Film Box Stars
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48558
+#EXTINF:-1 tvg-id="Folk tv MK" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/Folk-TV-mk.gif" group-title="Makedonija", Folk tv MK
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68078.m3u8
 
-#EXTINF:-1 tvg-id="MNet Gourmet" tvg-logo="noimage.png" group-title="MAKEDONIJA", MNet Gourmet
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48545
+#EXTINF:-1 tvg-id="hbo" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/hbo.gif" group-title="Makedonija", HBO
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30519.m3u8
 
-#EXTINF:-1 tvg-id="MNet INFO" tvg-logo="noimage.png" group-title="MAKEDONIJA", MNet INFO
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48549
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="http://repo.ottshow.net/pikoni/cgmk/hbo2.gif" group-title="Makedonija", HBO 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30520.m3u8
 
-#EXTINF:-1 tvg-id="MNet KIDS" tvg-logo="noimage.png" group-title="MAKEDONIJA", MNet KIDS
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48550
+#EXTINF:-1 tvg-id="slo1" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/slo1tv.gif" group-title="Slovenia", SLO 1 TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2379.m3u8
 
-#EXTINF:-1 tvg-id="MNet SPORT" tvg-logo="noimage.png" group-title="MAKEDONIJA", MNet SPORT
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48548
+#EXTINF:-1 tvg-id="slo2" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/slo2tv.gif" group-title="Slovenia", SLO 2 TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2628.m3u8
 
-#EXTINF:-1 tvg-id="TravelXp" tvg-logo="noimage.png" group-title="MAKEDONIJA", TravelXp
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48539
+#EXTINF:-1 tvg-id="slo3" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/slo3tv.gif" group-title="Slovenia", SLO 3 TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23262.m3u8
 
-#EXTINF:-1 tvg-id="TV 1000 HD.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV 1000
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48553
+#EXTINF:-1 tvg-id="planettv" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/planettv.gif" group-title="Slovenia", Planet Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2577.m3u8
 
-#EXTINF:-1 tvg-id="Viasat Explorer.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", Viasat Explorer
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48554
+#EXTINF:-1 tvg-id="planet-2" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/planet2tv.gif" group-title="Slovenia", Planet 2 Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/12755.m3u8
 
-#EXTINF:-1 tvg-id="Viasat History.mk" tvg-logo="noimage.png" group-title="MAKEDONIJA", Viasat History
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48555
+#EXTINF:-1 tvg-id="pop-tv" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/poptv.gif" group-title="Slovenia", POP TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2576.m3u8
 
-#EXTINF:-1 tvg-id="Македонски Документарен" tvg-logo="noimage.png" group-title="MAKEDONIJA", Македонски Документарен
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48540
+#EXTINF:-1 tvg-id="pop-brio" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/popbriotv.gif" group-title="Slovenia", POP Brio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4746.m3u8
 
-#EXTINF:-1 tvg-id="Фолк Македонија" tvg-logo="noimage.png" group-title="MAKEDONIJA", Фолк Македонија
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48541
+#EXTINF:-1 tvg-id="pop-kino" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/popkinotv.gif" group-title="Slovenia", Pop Kino
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3657.m3u8
 
-#EXTINF:-1 tvg-id="21 JUNIOR.mk" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal5_mk.png" group-title="MAKEDONIJA", КАНАЛ 5
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1240
+#EXTINF:-1 tvg-id="pop-oto" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/popoto.gif" group-title="Slovenia", Pop Oto
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3697.m3u8
 
-#EXTINF:-1 tvg-id="Cinestar Premiere" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-1-hr.png" group-title="SLOVENIA", Cinestar Premiere
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36158
+#EXTINF:-1 tvg-id="kanal-a" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/kanala.gif" group-title="Slovenia", Kanal A
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2627.m3u8
 
-#EXTINF:-1 tvg-id="Diva" tvg-logo="noimage.png" group-title="SLOVENIA", Diva
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36171
+#EXTINF:-1 tvg-id="maribor" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/rtsmaribor.gif" group-title="Slovenia", RTS Maribor
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23263.m3u8
 
-#EXTINF:-1 tvg-id="Epic Drama" tvg-logo="noimage.png" group-title="SLOVENIA", Epic Drama
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36155
+#EXTINF:-1 tvg-id="Nova 24 TV" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/nova24tvslo.gif" group-title="Slovenia", Nova 24 TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23264.m3u8
 
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="SLOVENIA", Fox HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36170
+#EXTINF:-1 tvg-id="tv-veseljak" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/tvveseljak.gif" group-title="Slovenia", TV VESELJAK
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23257.m3u8
 
-#EXTINF:-1 tvg-id="Fox Life" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="SLOVENIA", Fox Life
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36169
+#EXTINF:-1 tvg-id="hbo" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/hboslo.gif" group-title="Slovenia", HBO
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4747.m3u8
 
-#EXTINF:-1 tvg-id="Golica TV" tvg-logo="noimage.png" group-title="SLOVENIA", Golica TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36157
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/hbo2slo.gif" group-title="Slovenia", HBO 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23290.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36168
+#EXTINF:-1 tvg-id="hbo3" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/hbo3slo.gif" group-title="Slovenia", HBO 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23291.m3u8
 
-#EXTINF:-1 tvg-id="History" tvg-logo="noimage.png" group-title="SLOVENIA", History
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36153
+#EXTINF:-1 tvg-id="fox-si" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/foxslo.gif" group-title="Slovenia", Star
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4745.m3u8
 
-#EXTINF:-1 tvg-id="Kanal A" tvg-logo="noimage.png" group-title="SLOVENIA", Kanal A
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36162
+#EXTINF:-1 tvg-id="fox-life-si" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/foxlifeslo.gif" group-title="Slovenia", Star Life
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23266.m3u8
 
-#EXTINF:-1 tvg-id="Net TV" tvg-logo="noimage.png" group-title="SLOVENIA", Net TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36156
+#EXTINF:-1 tvg-id="fox-crime-si" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/foxcrime.gif" group-title="Slovenia", Star Crime
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23267.m3u8
 
-#EXTINF:-1 tvg-id="Nova 24 TV" tvg-logo="noimage.png" group-title="SLOVENIA", Nova 24 TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36167
+#EXTINF:-1 tvg-id="fox-movies-si" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/foxmovies.gif" group-title="Slovenia", Star Movies
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23268.m3u8
 
-#EXTINF:-1 tvg-id="Planet TV" tvg-logo="noimage.png" group-title="SLOVENIA", Planet TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36159
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/cinetarpremijerslo1.gif" group-title="Slovenia", Cinestar premiere 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23270.m3u8
 
-#EXTINF:-1 tvg-id="Pop Brio HD" tvg-logo="noimage.png" group-title="SLOVENIA", Pop Brio HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36166
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/cinestarpremijer2.gif" group-title="Slovenia", Cinestar Premiere 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23269.m3u8
 
-#EXTINF:-1 tvg-id="Pop Kino" tvg-logo="noimage.png" group-title="SLOVENIA", Pop Kino
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36165
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/tv1000slo.gif" group-title="Slovenia", TV 1000
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23258.m3u8
 
-#EXTINF:-1 tvg-id="Pop Oto" tvg-logo="noimage.png" group-title="SLOVENIA", Pop Oto
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36164
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/nationalgeographicslo.gif" group-title="Slovenia", National Geographic
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23275.m3u8
 
-#EXTINF:-1 tvg-id="Pop TV" tvg-logo="noimage.png" group-title="SLOVENIA", Pop TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36163
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/natgeowild.gif" group-title="Slovenia", National Geographic Wild
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23274.m3u8
 
-#EXTINF:-1 tvg-id="Slo 1" tvg-logo="noimage.png" group-title="SLOVENIA", Slo 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36148
+#EXTINF:-1 tvg-id="discovery-europe" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/discoveryslo.gif" group-title="Slovenia", Discovery Channel
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23278.m3u8
 
-#EXTINF:-1 tvg-id="Slo 2" tvg-logo="noimage.png" group-title="SLOVENIA", Slo 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36149
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/tlcslo.gif" group-title="Slovenia", Discovery TLC
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23260.m3u8
 
-#EXTINF:-1 tvg-id="Slo 3" tvg-logo="noimage.png" group-title="SLOVENIA", Slo 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36150
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/discoveryidslo.gif" group-title="Slovenia", Discovery ID
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23277.m3u8
 
-#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="noimage.png" group-title="SLOVENIA", Sport TV 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36525
+#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="http://repo.ottshow.net/pikoni/slovenia/animalplanetslo.gif" group-title="Slovenia", Animal Planet
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/23279.m3u8
 
-#EXTINF:-1 tvg-id="Sport TV 2" tvg-logo="noimage.png" group-title="SLOVENIA", Sport TV 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36160
+#EXTINF:-1 tvg-id="rts1" tvg-logo="https://repo.ottshow.net/pikoni/srbija/rts1hd.gif" group-title="Srbija", RTS 1 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39647.m3u8
 
-#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="noimage.png" group-title="SLOVENIA", Sport TV 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36154
+#EXTINF:-1 tvg-id="rts2" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts2hd.gif" group-title="Srbija", RTS 2 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/17.m3u8
 
-#EXTINF:-1 tvg-id="Tele Maribor" tvg-logo="noimage.png" group-title="SLOVENIA", Tele Maribor
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36152
+#EXTINF:-1 tvg-id="rts-digital" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts3hd.gif" group-title="Srbija", RTS 3 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1529.m3u8
 
-#EXTINF:-1 tvg-id="TV 1000" tvg-logo="noimage.png" group-title="SLOVENIA", TV 1000
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36161
+#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhd.gif" group-title="Srbija", Pink HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68555.m3u8
 
-#EXTINF:-1 tvg-id="VTV" tvg-logo="noimage.png" group-title="SLOVENIA", VTV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36151
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prvahd.gif" group-title="Srbija", Prva HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25974.m3u8
 
-#EXTINF:-1 tvg-id="CG: RTCG 1" tvg-logo="noimage.png" group-title="CRNA GORA", CG: RTCG 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1234
+#EXTINF:-1 tvg-id="nova-s" tvg-logo="http://repo.ottshow.net/pikoni/srbija/novashd.gif" group-title="Srbija", Nova S HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29409.m3u8
 
-#EXTINF:-1 tvg-id="CG: RTCG 2" tvg-logo="noimage.png" group-title="CRNA GORA", CG: RTCG 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1233
+#EXTINF:-1 tvg-id="happytv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/happy.gif" group-title="Srbija", Happy
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25975.m3u8
 
-#EXTINF:-1 tvg-id="RTCG Sat" tvg-logo="noimage.png" group-title="CRNA GORA", CG: RTCG Sat
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1232
+#EXTINF:-1 tvg-id="b92" tvg-logo="http://repo.ottshow.net/pikoni/srbija/B92hd.gif" group-title="Srbija", b92 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39.m3u8
 
-#EXTINF:-1 tvg-id="TV Vijesti" tvg-logo="noimage.png" group-title="CRNA GORA", CG: TV Vijesti
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/13159
+#EXTINF:-1 tvg-id="n1-rs" tvg-logo="http://repo.ottshow.net/pikoni/srbija/n1srb.gif" group-title="Srbija", N1 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3775.m3u8
 
-#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="https://mts.rs/oec/images/tv_channels/ba363e0ab4c5f6647c94823d437373d0.png" group-title="PINK",  Pink Thriller
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1301
+#EXTINF:-1 tvg-id="superstar-tv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/superstartv.gif" group-title="Srbija", SUPERSTAR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3985.m3u8
 
-#EXTINF:-1 tvg-id="Pink n roll" tvg-logo="https://logo.iptveditor.com/pinkandrollrs.png" group-title="PINK", Pink & Roll
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/20941
+#EXTINF:-1 tvg-id="star-tv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/startv.gif" group-title="Srbija", SUPERSTAR 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4293.m3u8
 
-#EXTINF:-1 tvg-id="RED TV (Pink 2 HD)" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-tv-rs.svg" group-title="PINK", Pink 2 (Red TV)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1290
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prva.gif" group-title="Srbija", Prva TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30191.m3u8
 
-#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_action.jpg" group-title="PINK", Pink Action
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1295
+#EXTINF:-1 tvg-id="prva-plus" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prvaplus.gif" group-title="Srbija", Prva Plus
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/47.m3u8
 
-#EXTINF:-1 tvg-id="pinkbh.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_bh.jpg" group-title="PINK", Pink BH
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1311
+#EXTINF:-1 tvg-id="prva-files" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prvafiles.gif" group-title="Srbija", Prva Files
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/19.m3u8
 
-#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="noimage.png" group-title="PINK", Pink Classic
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1298
+#EXTINF:-1 tvg-id="prva-kick" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prvakick.gif" group-title="Srbija", Prva Kick
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4739.m3u8
 
-#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="noimage.png" group-title="PINK", Pink Comedy
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1296
+#EXTINF:-1 tvg-id="prva-life" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prvalife.gif" group-title="Srbija", Prva Life
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29824.m3u8
 
-#EXTINF:-1 tvg-id="Pink Crime and Mystery" tvg-logo="https://mts.rs/oec/images/tv_channels/5a0669323860927259d003494c470ebb.png" group-title="PINK", Pink Crime & Mystery
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1299
+#EXTINF:-1 tvg-id="prva-max" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prvamax.gif" group-title="Srbija", Prva Max
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2848.m3u8
 
-#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_extra.jpg" group-title="PINK", Pink Extra
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1312
+#EXTINF:-1 tvg-id="prva-world" tvg-logo="http://repo.ottshow.net/pikoni/srbija/prvaworld.gif" group-title="Srbija", Prva World
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2828.m3u8
 
-#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_family.jpg" group-title="PINK", Pink Family
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/5058
+#EXTINF:-1 tvg-id="rts1" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts1.gif" group-title="Srbija", RTS 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30272.m3u8
 
-#EXTINF:-1 tvg-id="Pink Fashion" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="PINK", Pink Fashion
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1316
+#EXTINF:-1 tvg-id="rts2" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts2.gif" group-title="Srbija", RTS 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30274.m3u8
 
-#EXTINF:-1 tvg-id="Pink Film" tvg-logo="https://mts.rs/oec/images/tv_channels/b4030ab97770d19f5daa0e180adff3f6.png" group-title="PINK", Pink Film
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1292
+#EXTINF:-1 tvg-id="rts-sat" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtshd.gif" group-title="Srbija", RTS Sat
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/361.m3u8
 
-#EXTINF:-1 tvg-id="Pink Folk" tvg-logo="noimage.png" group-title="PINK", Pink Folk 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1319
+#EXTINF:-1 tvg-id="rts-drama" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtsdrama.gif" group-title="Srbija", RTS Drama
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/7174.m3u8
 
-#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_folk2.jpg" group-title="PINK", Pink Folk 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1320
+#EXTINF:-1 tvg-id="rts-trezor" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtstrezor.gif" group-title="Srbija", RTS Trezor
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/7173.m3u8
 
-#EXTINF:-1 tvg-id="Ha ha" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pink-haha-rs.png" group-title="PINK", Pink HaHa
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1317
+#EXTINF:-1 tvg-id="rts-zivot" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtszivot.gif" group-title="Srbija", RTS Zivot
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/7175.m3u8
 
-#EXTINF:-1 tvg-id="Pink Hits" tvg-logo="noimage.png" group-title="PINK", Pink Hits
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1323
+#EXTINF:-1 tvg-id="rts-kolo" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/rtskolo.gif" group-title="Srbija", RTS Kolo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/73653.m3u8
 
-#EXTINF:-1 tvg-id="Pink Hits 2" tvg-logo="noimage.png" group-title="PINK", Pink Hits 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1324
+#EXTINF:-1 tvg-id="rts-poletarac" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/rtsproleterac.gif" group-title="Srbija", RTS Poletarac
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/73663.m3u8
 
-#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="noimage.png" group-title="PINK", Pink Horror
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1297
+#EXTINF:-1 tvg-id="Happy Drustvo" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/happydrustvo.gif" group-title="Srbija", Happy Drustvo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/73641.m3u8
 
-#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="noimage.png" group-title="PINK", Pink Kuvar
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1303
+#EXTINF:-1 tvg-id="Happy Zivot" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/happyzivot.gif" group-title="Srbija", Happy Zivot
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/73642.m3u8
 
-#EXTINF:-1 tvg-id="Lol" tvg-logo="noimage.png" group-title="PINK", Pink LoL
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1318
+#EXTINF:-1 tvg-id="Happy Zemlja" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/happyzemlja.gif" group-title="Srbija", Happy Zemlja
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/73643.m3u8
 
-#EXTINF:-1 tvg-id="pinkm.rs" tvg-logo="noimage.png" group-title="PINK", Pink M
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/19630
+#EXTINF:-1 tvg-id="k1-tv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/k1.gif" group-title="Srbija", K1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3821.m3u8
 
-#EXTINF:-1 tvg-id="Pink HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Pink_TV_logo.png" group-title="PINK", Pink Media
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1289
+#EXTINF:-1 tvg-id="Blic tv" tvg-logo="https://repo.ottshow.net/pikoni/ikone/blictv.gif" group-title="Srbija", Blic tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/64142.m3u8
 
-#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="https://mtsantenatv.rs/pinkmovies.png" group-title="PINK", Pink Movies
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1294
+#EXTINF:-1 tvg-id="una-tv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/unatv.gif" group-title="Srbija", Una TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67963.m3u8
 
-#EXTINF:-1 tvg-id="Pink Music" tvg-logo="noimage.png" group-title="PINK", Pink Music
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1321
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtv1.gif" group-title="Srbija", RTV 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1172.m3u8
 
-#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_music2.jpg" group-title="PINK", Pink Music 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1322
+#EXTINF:-1 tvg-id="vojvodina-2" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtv2.gif" group-title="Srbija", RTV 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2837.m3u8
 
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="noimage.png" group-title="PINK", Pink Pedia
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1304
+#EXTINF:-1 tvg-id="RTV Pazar" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtvnovipazar.gif" group-title="Srbija", RTV Pazar
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20.m3u8
 
-#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://www.ion.tv/canada/img/logoch/pnk2.jpg" group-title="PINK", Pink Plus
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1315
+#EXTINF:-1 tvg-id="studio-b-yu" tvg-logo="http://repo.ottshow.net/pikoni/srbija/studiob.gif" group-title="Srbija", Studio B
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1173.m3u8
 
-#EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="noimage.png" group-title="PINK", Pink Premium
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1307
+#EXTINF:-1 tvg-id="Euronews Serbia" tvg-logo="http://repo.ottshow.net/pikoni/srbija/euronewssrbija.gif" group-title="Srbija", Euronews Serbia
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/37917.m3u8
 
-#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="noimage.png" group-title="PINK", Pink Reality
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1305
+#EXTINF:-1 tvg-id="kurir-tv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/kurirtv.gif" group-title="Srbija", Kurir TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/12617.m3u8
 
-#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="https://mts.rs/oec/images/tv_channels/fcc019b84bd5bba48bd1e74dc36188ec.png" group-title="PINK", Pink Romance
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1306
+#EXTINF:-1 tvg-id="TSD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/novosadskatv.gif" group-title="Srbija", TSD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2540.m3u8
 
-#EXTINF:-1 tvg-id="Pink Sci-Fi and Fantasy" tvg-logo="https://mts.rs/oec/images/tv_channels/b0f76c45a3bfaf7b93fbf8cad85ccf5a.png" group-title="PINK", Pink Sci-Fi&Fantasy
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1300
+#EXTINF:-1 tvg-id="agro-tv" tvg-logo="http://repo.ottshow.net/pikoni/srbija/agrotv.gif" group-title="Srbija", Agro tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/8412.m3u8
 
-#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/4e7eb9cc3b3280f2421614978de360de.png" group-title="PINK", Pink Serije
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1293
+#EXTINF:-1 tvg-id="Yu Planet" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/srb/yu-planet.gif" group-title="Srbija", Yu Planet
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/70254.m3u8
 
-#EXTINF:-1 tvg-id="Pink Show" tvg-logo="noimage.png" group-title="PINK", Pink Show
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1310
+#EXTINF:-1 tvg-id="belle-amie" tvg-logo="http://repo.ottshow.net/pikoni/srbija/belleammi.gif" group-title="Srbija", Belle Ammi
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3856.m3u8
 
-#EXTINF:-1 tvg-id="Pink Soap" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_soap_rs.jpg" group-title="PINK", Pink Soap
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1314
+#EXTINF:-1 tvg-id="MLAVA TV" tvg-logo="http://repo.ottshow.net/pikoni/srbija/mlavatv.gif" group-title="Srbija", MLAVA TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2838.m3u8
 
-#EXTINF:-1 tvg-id="Pink Style" tvg-logo="noimage.png" group-title="PINK", Pink Style
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1313
+#EXTINF:-1 tvg-id="Palma Plus" tvg-logo="http://repo.ottshow.net/pikoni/srbija/palmaplus.gif" group-title="Srbija", Palma Plus
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/157.m3u8
 
-#EXTINF:-1 tvg-id="Vesti HD (Pink 3 info)" tvg-logo="noimage.png" group-title="PINK", Pink Vesti
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1291
+#EXTINF:-1 tvg-id="tv-hram" tvg-logo="http://repo.ottshow.net/pikoni/srbija/hramtv.gif" group-title="Srbija", TV Hram
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2787.m3u8
 
-#EXTINF:-1 tvg-id="Pink Western" tvg-logo="noimage.png" group-title="PINK", Pink Western
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1302
+#EXTINF:-1 tvg-id="TV Kraljevo" tvg-logo="http://repo.ottshow.net/pikoni/srbija/tvkraljevo.gif" group-title="Srbija", TV Kraljevo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30215.m3u8
 
-#EXTINF:-1 tvg-id="Pink World" tvg-logo="noimage.png" group-title="PINK", Pink World
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1309
+#EXTINF:-1 tvg-id="TV Plus" tvg-logo="http://repo.ottshow.net/pikoni/srbija/leskovactv.gif" group-title="Srbija", TV Plus
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29825.m3u8
 
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="noimage.png" group-title="PINK", Pink World Cinema
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1308
+#EXTINF:-1 tvg-id="TV Bor" tvg-logo="http://repo.ottshow.net/pikoni/srbija/tvbor.gif" group-title="Srbija", TV Bor
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25999.m3u8
 
-#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="noimage.png" group-title="PINK", Pink Zabava
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1325
+#EXTINF:-1 tvg-id="TV Kladovo" tvg-logo="http://repo.ottshow.net/pikoni/srbija/tvkladovo.gif" group-title="Srbija", TV Kladovo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2789.m3u8
 
-#EXTINF:-1 tvg-id="MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="SPORT", MAX SPORT 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/41332
+#EXTINF:-1 tvg-id="TV ISTOK" tvg-logo="http://repo.ottshow.net/pikoni/srbija/tvistok.gif" group-title="Srbija", TV ISTOK
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15.m3u8
 
-#EXTINF:-1 tvg-id="MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="SPORT", MAX SPORT 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/41333
+#EXTINF:-1 tvg-id="TV ISTOK 2" tvg-logo="http://repo.ottshow.net/pikoni/srbija/tvistok2.gif" group-title="Srbija", TV ISTOK 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2523.m3u8
 
-#EXTINF:-1 tvg-id="ARENA FIGHT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="SPORT", ARENA FIGHT
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39561
+#EXTINF:-1 tvg-id="TV  Sumadija" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/tv-centar.gif" group-title="Srbija", TV  Sumadija
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71823.m3u8
 
-#EXTINF:-1 tvg-id="FC Partizan TV" tvg-logo="noimage.png" group-title="SPORT", FC Partizan TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29063
+#EXTINF:-1 tvg-id="TV Pirot" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/tv-pirot.gif" group-title="Srbija", TV Pirot
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/74837.m3u8
 
-#EXTINF:-1 tvg-id="Nova Sport" tvg-logo="noimage.png" group-title="SPORT", Nova Sport
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36529
+#EXTINF:-1 tvg-id="TV  Informer" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/srb/tv-koreni.gif" group-title="Srbija", TV  Informer
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/76475.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", Sport Klub 1 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36530
+#EXTINF:-1 tvg-id="Hype Tv" tvg-logo="noimage.png" group-title="Srbija", Hype Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/80871.m3u8
 
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", Sport Klub 1 SR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36527
+#EXTINF:-1 tvg-id="tanjug-tacno" tvg-logo="noimage.png" group-title="Srbija", Tanjug TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/83224.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36531
+#EXTINF:-1 tvg-id="Insajder" tvg-logo="noimage.png" group-title="Srbija", Insajder
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/84748.m3u8
 
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 SR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36528
+#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhd.gif" group-title="Pink", PINK HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/5.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", Sport Klub 3 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36532
+#EXTINF:-1 tvg-id="pink" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink.gif" group-title="Pink", Pink
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30275.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="SPORT", Zvezda TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36284
+#EXTINF:-1 tvg-id="pink-bih" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkbh.gif" group-title="Pink", Pink BH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/12616.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", Sport Klub 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36521
+#EXTINF:-1 tvg-id="Pink Vesti" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkvesti.gif" group-title="Pink", Pink Vesti
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67719.m3u8
 
-#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="noimage.png" group-title="SPORT", Sport TV 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36172
+#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="Pink", Narodna TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/81555.m3u8
 
-#EXTINF:-1 tvg-id="Sport TV 2" tvg-logo="noimage.png" group-title="SPORT", Sport TV 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36173
+#EXTINF:-1 tvg-id="pink-film" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfilm.gif" group-title="Pink", Pink Film
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/6.m3u8
 
-#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="noimage.png" group-title="SPORT", Sport TV 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36174
+#EXTINF:-1 tvg-id="pink-action" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkaction.gif" group-title="Pink", Pink Action
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/150.m3u8
 
-#EXTINF:-1 tvg-id=" Sport Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT",  Sport Klub 1 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/718
+#EXTINF:-1 tvg-id="pink-classic" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkclasic.gif" group-title="Pink", Pink Classic
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1182.m3u8
 
-#EXTINF:-1 tvg-id=" Sport Klub 4 HR" tvg-logo="noimage.png" group-title="SPORT",  Sport Klub 4 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/721
+#EXTINF:-1 tvg-id="pink-comedy" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcomedy.gif" group-title="Pink", Pink Comedy
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/42.m3u8
 
-#EXTINF:-1 tvg-id=" Sport Klub 5 HR" tvg-logo="noimage.png" group-title="SPORT",  Sport Klub 5 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/722
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="noimage.png" group-title="Pink", Pink Premium
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/77668.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 1 (BIH)" tvg-logo="noimage.png" group-title="SPORT", Arena Sport Premium 1 (BIH)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49158
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkcrime&mystery.gif" group-title="Pink", Pink Crime & Mystery
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/110.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 2 (BIH)" tvg-logo="noimage.png" group-title="SPORT", Arena Sport Premium 2 (BIH)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49159
+#EXTINF:-1 tvg-id="pink-family" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkfamily.gif" group-title="Pink", Pink Family
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/614.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 3 (BIH)" tvg-logo="noimage.png" group-title="SPORT", Arena Sport Premium 3 (BIH)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/49160
+#EXTINF:-1 tvg-id="pink-horror" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhoror.gif" group-title="Pink", Pink Horror
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/108.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 1.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/699
+#EXTINF:-1 tvg-id="pink-movies" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkmovies.gif" group-title="Pink", Pink Movies
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1143.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 1 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29070
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkromance.gif" group-title="Pink", Pink Romance
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2796.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/705
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkscifi&fantasy.gif" group-title="Pink", Pink Sci-Fi & Fantasy
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1412.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT", ArenaSport 1 SR (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29066
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkthriler.gif" group-title="Pink", Pink Thriller
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/111.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 2.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/700
+#EXTINF:-1 tvg-id="pink-western" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkwestern.gif" group-title="Pink", Pink Western
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/49.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 2 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29071
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworldcinema.gif" group-title="Pink", Pink World Cinema
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/153.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/706
+#EXTINF:-1 tvg-id="pink-2" tvg-logo="http://repo.ottshow.net/pikoni/pink/redtv.gif" group-title="Pink", Red TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/37937.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORT", ArenaSport 2 SR (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29067
+#EXTINF:-1 tvg-id="pink-plus" tvg-logo="http://repo.ottshow.net/pikoni/pink/pink_plus.gif" group-title="Pink", Pink Plus
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35958.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 3.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/701
+#EXTINF:-1 tvg-id="pink-extra" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkextra.gif" group-title="Pink", Pink Extra
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1211.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29072
+#EXTINF:-1 tvg-id="pink-reality" tvg-logo="http://web.izipizi1.info/pi/pink-reality.png" group-title="Pink", Pink Reality
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/707
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkkuvar.gif" group-title="Pink", Pink Kuvar
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/43.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORT", ArenaSport 3 SR (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29068
+#EXTINF:-1 tvg-id="pink-pedia" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkpedia.gif" group-title="Pink", Pink Pedia
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1140.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 4.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/702
+#EXTINF:-1 tvg-id="pink-style" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkstyle.gif" group-title="Pink", Pink Style
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1144.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29073
+#EXTINF:-1 tvg-id="pink-soap" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinksoap.gif" group-title="Pink", Pink Soap
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1214.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/708
+#EXTINF:-1 tvg-id="pink-show" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkshow.gif" group-title="Pink", Pink Show
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/211.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORT", ArenaSport 4 SR (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29069
+#EXTINF:-1 tvg-id="pink-zabava" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkzabava.gif" group-title="Pink", Pink Zabava
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2795.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", ArenaSport 5 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/703
+#EXTINF:-1 tvg-id="pink-world" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkworld.gif" group-title="Pink", Pink World
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1142.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", ArenaSport 5 HR HD
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29074
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhaha.gif" group-title="Pink", Pink HA HA
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1161.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORT", ArenaSport 5 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/709
+#EXTINF:-1 tvg-id="pink-lol" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinklol.gif" group-title="Pink", Pink LOL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2612.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="SPORT", ArenaSport 6 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/710
+#EXTINF:-1 tvg-id="pink-serije" tvg-logo="https://repo.ottshow.net/pikoni/pink/pinkserije.gif" group-title="Pink", Pink Serije
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/79614.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport BH" tvg-logo="noimage.png" group-title="SPORT", ArenaSport BH
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/704
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif" group-title="Sport", Eurosport 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/66.m3u8
 
-#EXTINF:-1 tvg-id="ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="SPORT", ARENA PREMIUM 2 (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40636
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif" group-title="Sport", Eurosport 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67.m3u8
 
-#EXTINF:-1 tvg-id="ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="SPORT", ARENA PREMIUM 3 (HD)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40637
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="noimage.png" group-title="Sport", Euro 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/84315.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="SPORT", Eurosport 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/723
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="noimage.png" group-title="Sport", Euro 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/84316.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="noimage.png" group-title="SPORT", Eurosport 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/724
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif" group-title="Sport", Sport Klub
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/34330.m3u8
 
-#EXTINF:-1 tvg-id="FightClub" tvg-logo="noimage.png" group-title="SPORT", FightClub
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/933
+#EXTINF:-1 tvg-id="sport-klub" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif" group-title="Sport", Sport Klub 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39321.m3u8
 
-#EXTINF:-1 tvg-id="MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="SPORT", MAX SPORT 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/41332
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif" group-title="Sport", Sport Klub 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/62.m3u8
 
-#EXTINF:-1 tvg-id="MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="SPORT", MAX SPORT 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/41333
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif" group-title="Sport", Sport Klub 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/64.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub ESport" tvg-logo="noimage.png" group-title="SPORT", Sport Klub ESport
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48038
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdhr.gif" group-title="Sport", Sport Klub 1 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39318.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORT", Sport Klub Fight
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/848
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdhr.gif" group-title="Sport", Sport Klub 2 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/33.m3u8
 
-#EXTINF:-1 tvg-id="fightchannel.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-klub-fight-hu-rs.png" group-title="SPORT", Sport Klub Fight
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48037
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hdhr.gif" group-title="Sport", Sport Klub 3 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/34.m3u8
 
-#EXTINF:-1 tvg-id="Sportska TV" tvg-logo="noimage.png" group-title="SPORT", Sportska TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/884
+#EXTINF:-1 tvg-id="sport-klub-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdslo.gif" group-title="Sport", Sport Klub 1 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29776.m3u8
 
-#EXTINF:-1 tvg-id="Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="SPORT", Fight Channel
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/931
+#EXTINF:-1 tvg-id="sport-klub-plus-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdslo.gif" group-title="Sport", Sport Klub 2 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29777.m3u8
 
-#EXTINF:-1 tvg-id="Fight Network" tvg-logo="noimage.png" group-title="SPORT", Fight Network
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/859
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3slohd.gif" group-title="Sport", Sport Klub 3 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29779.m3u8
 
-#EXTINF:-1 tvg-id="FightBox" tvg-logo="noimage.png" group-title="SPORT", FightBox
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/856
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif" group-title="Sport", Sport Klub 4
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/205.m3u8
 
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="SPORT", Sport Klub 1 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/711
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif" group-title="Sport", Sport Klub 5
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1202.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/719
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif" group-title="Sport", Sport Klub 6
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1626.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="SPORT", Sport Klub 2 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/712
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif" group-title="Sport", Sport Klub 7
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69870.m3u8
 
-#EXTINF:-1 tvg-id="Sport Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", Sport Klub 3 HR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/720
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif" group-title="Sport", Sport Klub 8
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69871.m3u8
 
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="SPORT", Sport Klub 3 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/713
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif" group-title="Sport", Sport Klub 9
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69872.m3u8
 
-#EXTINF:-1 tvg-id="sportklub4.rs" tvg-logo="noimage.png" group-title="SPORT", Sport Klub 4 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/714
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif" group-title="Sport", Sport Klub 10
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69873.m3u8
 
-#EXTINF:-1 tvg-id="sportklub6.rs" tvg-logo="noimage.png" group-title="SPORT", Sport Klub 6 SR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/716
+#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 BiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67283.m3u8
 
-#EXTINF:-1 tvg-id="sportgolf.rs" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="SPORT", Sport Klub Golf
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/717
+#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 BiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67284.m3u8
 
-#EXTINF:-1 tvg-id="24kitchen.rs" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-kitchen.svg" group-title="DOKU", 24 Kitchen
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1150
+#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 BiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67285.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" group-title="DOKU", Animal Planet
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1148
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39440.m3u8
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="noimage.png" group-title="DOKU", BBC Earth
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39852
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="Sport", Arena Premium 2 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39441.m3u8
 
-#EXTINF:-1 tvg-id="crimeandinvestigation.rs" tvg-logo="noimage.png" group-title="DOKU", Crime & Investigation
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1140
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="Sport", Arena Premium 3 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39439.m3u8
 
-#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/da_vinci_learning.jpg" group-title="DOKU", Da Vinci Learning
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1155
+#EXTINF:-1 tvg-id="arena-sport-1-premium-si" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="Sport", Arena Premium 1 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/62594.m3u8
 
-#EXTINF:-1 tvg-id="discoverychannel.rs" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="DOKU", Discovery Channel
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1145
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="Sport", Arena Sport 1 BiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/128.m3u8
 
-#EXTINF:-1 tvg-id="Discovery DTX" tvg-logo="noimage.png" group-title="DOKU", Discovery DTX
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39139
+#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="Sport", Arena Sport 2 BiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="DOKU", Discovery Science
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1147
+#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="Sport", Arena Sport 3 BiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30.m3u8
 
-#EXTINF:-1 tvg-id="DocuBox" tvg-logo="noimage.png" group-title="DOKU", DocuBox
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1144
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="Sport", Arena Sport 4 BiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/31.m3u8
 
-#EXTINF:-1 tvg-id="DokuTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/doku-tv-hr.png" group-title="DOKU", DokuTV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/38581
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif" group-title="Sport", Arena Sport 1 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/27.m3u8
 
-#EXTINF:-1 tvg-id="history2.rs" tvg-logo="noimage.png" group-title="DOKU", History 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1149
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif" group-title="Sport", Arena Sport 2 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/192.m3u8
 
-#EXTINF:-1 tvg-id="history.rs" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="DOKU", History Channel
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1138
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif" group-title="Sport", Arena Sport 3 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/193.m3u8
 
-#EXTINF:-1 tvg-id="discoveryidxtra.rs" tvg-logo="https://w7.pngwing.com/pngs/58/935/png-transparent-investigation-discovery-television-show-television-channel-logo-id-thumbnail.png" group-title="DOKU", ID Xtra
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1139
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif" group-title="Sport", Arena Sport 4 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/194.m3u8
 
-#EXTINF:-1 tvg-id="loviribolov.rs" tvg-logo="noimage.png" group-title="DOKU", Lov & Ribolov
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1141
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/645.m3u8
 
-#EXTINF:-1 tvg-id="nationalgeographic.rs" tvg-logo="noimage.png" group-title="DOKU", National Geographic
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1136
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/37928.m3u8
 
-#EXTINF:-1 tvg-id="natgeowild.rs" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="DOKU", National Geographic Wild
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1137
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="Sport", Arena Sport 7 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35185.m3u8
 
-#EXTINF:-1 tvg-id="travelchannel.rs" tvg-logo="noimage.png" group-title="DOKU", Travel Channel
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1159
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="Sport", Arena Sport 8 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35186.m3u8
 
-#EXTINF:-1 tvg-id="viasatexplore.rs" tvg-logo="noimage.png" group-title="DOKU", Viasat Explore
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1151
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif" group-title="Sport", Arena Sport 9 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35187.m3u8
 
-#EXTINF:-1 tvg-id="viasathistory.rs" tvg-logo="noimage.png" group-title="DOKU", Viasat History
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1152
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="Sport", Arena Sport 10 HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35188.m3u8
 
-#EXTINF:-1 tvg-id="viasatnature.rs" tvg-logo="noimage.png" group-title="DOKU", Viasat Nature
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1153
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/28.m3u8
 
-#EXTINF:-1 tvg-id="CAR: Disney Channel" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Disney Channel
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1083
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1043.m3u8
 
-#EXTINF:-1 tvg-id="CAR: Nick JR" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Nick JR
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1082
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1044.m3u8
 
-#EXTINF:-1 tvg-id="CAR: Nickelodeon" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Nickelodeon
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1084
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1045.m3u8
 
-#EXTINF:-1 tvg-id="CAR: Pikaboo" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Pikaboo
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1080
+#EXTINF:-1 tvg-id="Arena Sport 5 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="Sport", Arena Sport 5 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/66258.m3u8
 
-#EXTINF:-1 tvg-id="CAR: Pink Kids" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Pink Kids
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1086
+#EXTINF:-1 tvg-id="Arena Sport 6 SR" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="Sport", Arena Sport 6 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/66259.m3u8
 
-#EXTINF:-1 tvg-id="CAR: Rtl Kockica" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Rtl Kockica
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1081
+#EXTINF:-1 tvg-id="Arena Sport 7 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT7.gif" group-title="Sport", Arena Sport 7 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/70657.m3u8
 
-#EXTINF:-1 tvg-id="CAR: PINK PANTHER" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: PINK PANTHER
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1089
+#EXTINF:-1 tvg-id="Arena Sport 8 SR" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT8.gif" group-title="Sport", Arena Sport 8 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/70658.m3u8
 
-#EXTINF:-1 tvg-id="CAR: Tom & Jerry" tvg-logo="noimage.png" group-title="DJEČIJI", CAR: Tom & Jerry
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1090
+#EXTINF:-1 tvg-id="arena-sport-9-rs" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT9.gif" group-title="Sport", Arena Sport 9 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/70659.m3u8
 
-#EXTINF:-1 tvg-id="CAR: UK: Baby First TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="DJEČIJI", CAR: UK: Baby First TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1065
+#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-logo="https://repo.ottshow.net/pikoni/sport/srbarena%2010.gif" group-title="Sport", Arena Sport 10 SR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/70660.m3u8
 
-#EXTINF:-1 tvg-id="CAR: US: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="DJEČIJI", CAR: US: Cartoon Network
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1057
+#EXTINF:-1 tvg-id="arena-sport-1-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1.gif" group-title="Sport", Arena Sport 1 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/62590.m3u8
 
-#EXTINF:-1 tvg-id="CAR:Mini Ultra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mini_ultra_rs.jpg" group-title="DJEČIJI", CAR:Mini Ultra
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1087
+#EXTINF:-1 tvg-id="arena-sport-2-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2.gif" group-title="Sport", Arena Sport 2 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/62591.m3u8
 
-#EXTINF:-1 tvg-id=" Cine+ Select 8" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI",  Cine+ Select 8
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46613
+#EXTINF:-1 tvg-id="arena-sport-3-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3.gif" group-title="Sport", Arena Sport 3 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/62592.m3u8
 
-#EXTINF:-1 tvg-id=" M1 Film" tvg-logo="noimage.png" group-title="FILMSKI",  M1 Film
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1178
+#EXTINF:-1 tvg-id="arena-sport-4-si" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4.gif" group-title="Sport", Arena Sport 4 SL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/62593.m3u8
 
-#EXTINF:-1 tvg-id="axn.rs" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle-thumbnail.png" group-title="FILMSKI", AXN
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1171
+#EXTINF:-1 tvg-id="arena-esport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif" group-title="Sport", Arena ESport
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/36410.m3u8
 
-#EXTINF:-1 tvg-id="axnspin.rs" tvg-logo="noimage.png" group-title="FILMSKI", AXN Spin
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1172
+#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Sport", Arena Sport 1x2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/66260.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 1" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40677
+#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="noimage.png" group-title="Sport", Nova Sport HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/79936.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 10" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 10
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40686
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif" group-title="Sport", Sport SLO 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/206.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 2" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40687
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif" group-title="Sport", Sport SLO 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/207.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 3" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI", Cine+ Select 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46614
+#EXTINF:-1 tvg-id="stv3" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif" group-title="Sport", Sport SLO 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/208.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 4" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI", Cine+ Select 4
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46611
+#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1 SD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71739.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 5" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/cine+.png" group-title="FILMSKI", Cine+ Select 5
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46610
+#EXTINF:-1 tvg-id="maxsport-1" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif" group-title="Sport", MAXSport 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2496.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 6" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 6
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40682
+#EXTINF:-1 tvg-id="maxsport-2" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif" group-title="Sport", MAXSport 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/61224.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 7" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 7
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40683
+#EXTINF:-1 tvg-id="Max sport 3" tvg-logo="noimage.png" group-title="Sport", Max sport 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/84312.m3u8
 
-#EXTINF:-1 tvg-id="Cine+ Select 9" tvg-logo="noimage.png" group-title="FILMSKI", Cine+ Select 9
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40685
+#EXTINF:-1 tvg-id="Max sport 4" tvg-logo="noimage.png" group-title="Sport", Max sport 4
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/84311.m3u8
 
-#EXTINF:-1 tvg-id="cinemania.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemania-rs.png" group-title="FILMSKI", Cinemania
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/38580
+#EXTINF:-1 tvg-id="max sport 5" tvg-logo="noimage.png" group-title="Sport", max sport 5
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/84310.m3u8
 
-#EXTINF:-1 tvg-id="cinemaxhd.rs" tvg-logo="noimage.png" group-title="FILMSKI", Cinemax 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1175
+#EXTINF:-1 tvg-id="max sport 6" tvg-logo="noimage.png" group-title="Sport", max sport 6
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/84309.m3u8
 
-#EXTINF:-1 tvg-id="cinemax2.rs" tvg-logo="noimage.png" group-title="FILMSKI", Cinemax 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1176
+#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="noimage.png" group-title="Sport", Hajduk TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/83182.m3u8
 
-#EXTINF:-1 tvg-id="cinestaraction.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-action-hr.png" group-title="FILMSKI", CineStar Action
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1168
+#EXTINF:-1 tvg-id="city-tv" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif" group-title="Sport", City TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29606.m3u8
 
-#EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-fantasy-hr.png" group-title="FILMSKI", Cinestar Fantasy
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1169
+#EXTINF:-1 tvg-id="sportska-televizija" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif" group-title="Sport", SPTV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/12622.m3u8
 
-#EXTINF:-1 tvg-id="Cinestar Premiere 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-1-hr.png" group-title="FILMSKI", Cinestar Premiere 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1166
+#EXTINF:-1 tvg-id="sos" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif" group-title="Sport", SOS Kanal
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/204.m3u8
 
-#EXTINF:-1 tvg-id="Cinestar Premiere 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-premiere-2-hr.png" group-title="FILMSKI", Cinestar Premiere 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1167
+#EXTINF:-1 tvg-id="Zvezda Tv" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif" group-title="Sport", Zvezda Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69875.m3u8
 
-#EXTINF:-1 tvg-id="cinestartv.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-1-hr.png" group-title="FILMSKI", Cinestar TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1165
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif" group-title="Sport", Tv Partizan
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69874.m3u8
 
-#EXTINF:-1 tvg-id="Cinestar TV 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-2-hr.png" group-title="FILMSKI", Cinestar TV 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36502
+#EXTINF:-1 tvg-id="fight-klub-hd" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif" group-title="Sport", Sport Klub Golf
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68481.m3u8
 
-#EXTINF:-1 tvg-id="cinestarcomedy.rs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinestar-comedy-hr.png" group-title="FILMSKI", CineStar TV Comedy
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39055
+#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif" group-title="Sport", Sport Klub Fight
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68480.m3u8
 
-#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46618
+#EXTINF:-1 tvg-id="arena-fight" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif" group-title="Sport", Arena Fight
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30491.m3u8
 
-#EXTINF:-1 tvg-id="Euro Cinema 2" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46617
+#EXTINF:-1 tvg-id="fight-network" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif" group-title="Sport", Fight Network
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/61.m3u8
 
-#EXTINF:-1 tvg-id="Euro Cinema 3" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46616
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://picons.ottshow.net/pikoni/doku/nationalgeographic.gif" group-title="Doku", National Geographic
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25978.m3u8
 
-#EXTINF:-1 tvg-id="Euro Cinema 4" tvg-logo="noimage.png" group-title="FILMSKI", Euro Cinema 4
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46615
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://picons.ottshow.net/pikoni/doku/natgeowild.gif" group-title="Doku", NatGeo Wild
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25977.m3u8
 
-#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-logo="noimage.png" group-title="FILMSKI", Filmbox Arthouse
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1180
+#EXTINF:-1 tvg-id="discovery-europe" tvg-logo="https://picons.ottshow.net/pikoni/doku/discovery.gif" group-title="Doku", Discovery Channel
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68.m3u8
 
-#EXTINF:-1 tvg-id="Filmbox Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/filmbox_extra.jpg" group-title="FILMSKI", Filmbox Extra
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1179
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoveryid.gif" group-title="Doku", Discovery ID
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25980.m3u8
 
-#EXTINF:-1 tvg-id="hbohd.rs" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_adria.jpg" group-title="FILMSKI", HBO
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1161
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoverysince.gif" group-title="Doku", Discovery Science
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25984.m3u8
 
-#EXTINF:-1 tvg-id="hbo2hd.rs" tvg-logo="noimage.png" group-title="FILMSKI", HBO 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1162
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="https://picons.ottshow.net/pikoni/doku/tlc.gif" group-title="Doku", TLC
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/74.m3u8
 
-#EXTINF:-1 tvg-id="hbo3hd.rs" tvg-logo="noimage.png" group-title="FILMSKI", HBO 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1163
+#EXTINF:-1 tvg-id="discovery-animal" tvg-logo="https://picons.ottshow.net/pikoni/doku/AnimalPlanet.gif" group-title="Doku", Animal Planet
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25983.m3u8
 
-#EXTINF:-1 tvg-id="Kino TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kino_tv_hr.png" group-title="FILMSKI", Kino TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1164
+#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://picons.ottshow.net/pikoni/doku/invs+.gif" group-title="Doku", Crime & Invvestigation
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25982.m3u8
 
-#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klasik-tv-hr.svg" group-title="FILMSKI", Klasik TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1173
+#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/history.gif" group-title="Doku", History
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2574.m3u8
 
-#EXTINF:-1 tvg-id="M1 Family" tvg-logo="noimage.png" group-title="FILMSKI", M1 Family
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36515
+#EXTINF:-1 tvg-id="history-channel-2" tvg-logo="https://picons.ottshow.net/pikoni/doku/h2history%202.gif" group-title="Doku", History 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25981.m3u8
 
-#EXTINF:-1 tvg-id="M1 Film Gold" tvg-logo="noimage.png" group-title="FILMSKI", M1 Film Gold
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/36513
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://picons.ottshow.net/pikoni/doku/Vaistnature.gif" group-title="Doku", Viasat Nature
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4126.m3u8
 
-#EXTINF:-1 tvg-id="MAXCRO Select 1" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1182
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://picons.ottshow.net/pikoni/doku/viasthistory.gif" group-title="Doku", Viasat History
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2797.m3u8
 
-#EXTINF:-1 tvg-id="MAXCRO Select 2" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1183
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-logo="https://picons.ottshow.net/pikoni/doku/vaisetexpliore.gif" group-title="Doku", Viasat Explorer
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1204.m3u8
 
-#EXTINF:-1 tvg-id="MAXCRO Select 3" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1184
+#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://repo.ottshow.net/pikoni/srbija/balkantriptv.gif" group-title="Doku", Balkan Trip
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4485.m3u8
 
-#EXTINF:-1 tvg-id="MAXCRO Select 4" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 4
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1185
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="Doku", Lov i Ribolov
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/65.m3u8
 
-#EXTINF:-1 tvg-id="MAXCRO Select 5" tvg-logo="noimage.png" group-title="FILMSKI", MAXCRO Select 5
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1186
+#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/travel.gif" group-title="Doku", Travel Channel
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/181.m3u8
 
-#EXTINF:-1 tvg-id="NETIP  2" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46589
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/bbcearth.gif" group-title="Doku", BBC Earth
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24373.m3u8
 
-#EXTINF:-1 tvg-id="NETIP  3" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46590
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://picons.ottshow.net/pikoni/doku/fooodnewttork.gif" group-title="Doku", Food Network
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/33261.m3u8
 
-#EXTINF:-1 tvg-id="NETIP  4" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  4
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46591
+#EXTINF:-1 tvg-id="24kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku", 24 Kitchen
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25985.m3u8
 
-#EXTINF:-1 tvg-id="NETIP  5" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP  5
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46592
+#EXTINF:-1 tvg-id="entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku", E! Entertainment
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2572.m3u8
 
-#EXTINF:-1 tvg-id="NETIP 1" tvg-logo="http://diaspromedia.tv:8383/images/Filmski/gora.png" group-title="FILMSKI", NETIP 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/46588
+#EXTINF:-1 tvg-id="doku-tv" tvg-logo="http://repo.ottshow.net/pikoni/doku/dokutv.gif" group-title="Doku", Doku TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/31853.m3u8
 
-#EXTINF:-1 tvg-id="Nova Cinema 2 ᴴᴰ" tvg-logo="noimage.png" group-title="FILMSKI", Nova Cinema 2 ᴴᴰ
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40669
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://web.izipizi1.info/pi/jyw.png" group-title="Doku", HGTV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/39108.m3u8
 
-#EXTINF:-1 tvg-id="Nova Cinema ᴴᴰ" tvg-logo="noimage.png" group-title="FILMSKI", Nova Cinema ᴴᴰ
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40667
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/natucialchannel.gif" group-title="Doku", Nautical Channel
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71247.m3u8
 
-#EXTINF:-1 tvg-id="Nova Plus Family" tvg-logo="noimage.png" group-title="FILMSKI", Nova Plus Family
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/40668
+#EXTINF:-1 tvg-id="pink-fashion" tvg-logo="https://picons.ottshow.net/pikoni/doku/FashonTV.gif" group-title="Doku", Fashion TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/9108.m3u8
 
-#EXTINF:-1 tvg-id="STAR Channel" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.svg" group-title="FILMSKI", STAR Channel
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50411
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/doku/love4knaturer.gif" group-title="Doku", Love Nature 4K
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68948.m3u8
 
-#EXTINF:-1 tvg-id="STAR Crime" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-crime-us.svg" group-title="FILMSKI", STAR Crime
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50412
+#EXTINF:-1 tvg-id="hbo" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/44.m3u8
 
-#EXTINF:-1 tvg-id="STAR Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-life-us.svg" group-title="FILMSKI", STAR Life
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50413
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo2.gif" group-title="Film", HBO 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72.m3u8
 
-#EXTINF:-1 tvg-id="Star Movies" tvg-logo="noimage.png" group-title="FILMSKI", Star Movies
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/50414
+#EXTINF:-1 tvg-id="hbo3" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo3.gif" group-title="Film", HBO 3
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1555.m3u8
 
-#EXTINF:-1 tvg-id="tv1000.rs" tvg-logo="noimage.png" group-title="FILMSKI", TV 1000
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1170
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax.gif" group-title="Film", Cinemax
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/70.m3u8
 
-#EXTINF:-1 tvg-id="FILM: M1 Film" tvg-logo="noimage.png" group-title="FILMSKI", FILM: M1 Film
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1177
+#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax2.gif" group-title="Film", Cinemax  2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/126.m3u8
 
-#EXTINF:-1 tvg-id="Balkanika (MUSIC)" tvg-logo="noimage.png" group-title="GLAZBENI", Balkanika (MUSIC)
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1107
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier1.gif" group-title="Film", CineStar Premiere 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/36.m3u8
 
-#EXTINF:-1 tvg-id="Bujrum TV" tvg-logo="noimage.png" group-title="GLAZBENI", Bujrum TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29052
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier2.gif" group-title="Film", CineStar Premiere 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/37.m3u8
 
-#EXTINF:-1 tvg-id="Hema TV" tvg-logo="noimage.png" group-title="GLAZBENI", Hema TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29065
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestartv.gif" group-title="Film", CineStar TV 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3851.m3u8
 
-#EXTINF:-1 tvg-id="RTV City UB" tvg-logo="noimage.png" group-title="GLAZBENI", RTV City UB
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/29062
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-logo="http://web.izipizi1.info/pi/cinestartv2.png" group-title="Film", CineStar TV 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/37920.m3u8
 
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="noimage.png" group-title="GLAZBENI", PLAY TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/48543
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestaraction.gif" group-title="Film", CineStar Action
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2685.m3u8
 
-#EXTINF:-1 tvg-id="♫ Muzzik" tvg-logo="noimage.png" group-title="GLAZBENI", ♫ Muzzik
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39065
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarfantasy.gif" group-title="Film", CineStar Fantasy
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/10444.m3u8
 
-#EXTINF:-1 tvg-id="♫ Muzzik World Wide" tvg-logo="noimage.png" group-title="GLAZBENI", ♫ Muzzik World Wide
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/39064
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarcomedy.gif" group-title="Film", CineStar Comedy
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/30492.m3u8
 
-#EXTINF:-1 tvg-id="♫: Grand 2" tvg-logo="noimage.png" group-title="GLAZBENI", ♫: Grand 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1110
+#EXTINF:-1 tvg-id="fox" tvg-logo="http://repo.ottshow.net/pikoni/film/fox.gif" group-title="Film", STAR Channel
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/178.m3u8
 
-#EXTINF:-1 tvg-id="♫: IN TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫: IN TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/23575
+#EXTINF:-1 tvg-id="fox-movies" tvg-logo="http://repo.ottshow.net/pikoni/film/foxmovies.gif" group-title="Film", STAR Movies
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25990.m3u8
 
-#EXTINF:-1 tvg-id="♫: Kafanska TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫: Kafanska TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1714
+#EXTINF:-1 tvg-id="fox-life" tvg-logo="http://repo.ottshow.net/pikoni/film/foxlife.gif" group-title="Film", STAR Life
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1378.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: BN Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" group-title="GLAZBENI", ♫♫: BN Music
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1120
+#EXTINF:-1 tvg-id="fox-crime" tvg-logo="http://repo.ottshow.net/pikoni/film/foxcrime.gif" group-title="Film", STAR Crime
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1553.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: CMC TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmc_tv_hr.png" group-title="GLAZBENI", ♫♫: CMC TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1112
+#EXTINF:-1 tvg-id="m1-gold" tvg-logo="http://repo.ottshow.net/pikoni/film/m1goldfilm.gif" group-title="Film", M1 Gold
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1351.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Deluxe Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deluxe_music.jpg" group-title="GLAZBENI", ♫♫: Deluxe Music
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1135
+#EXTINF:-1 tvg-id="m1-film" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Film
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2494.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: DM SAT" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dm_sat_rs.png" group-title="GLAZBENI", ♫♫: DM SAT
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1111
+#EXTINF:-1 tvg-id="m1-family" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film", M1 Family
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24936.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: FEN TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: FEN TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1131
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-logo="http://repo.ottshow.net/pikoni/film/tv1000.gif" group-title="Film", TV 1000
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/705.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Grand Narodna" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-rs.png" group-title="GLAZBENI", ♫♫: Grand Narodna
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1109
+#EXTINF:-1 tvg-id="axn" tvg-logo="http://repo.ottshow.net/pikoni/film/axn.gif" group-title="Film", AXN
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1181.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Hayat Folk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_folk.jpg" group-title="GLAZBENI", ♫♫: Hayat Folk
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1121
+#EXTINF:-1 tvg-id="axn-spin" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/axnspin.gif" group-title="Film", AXN Spin
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69009.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Hayat Music" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Hayat Music
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1122
+#EXTINF:-1 tvg-id="scifi" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Film", SciFi
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/8859.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: IDJ TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idj-tv-rs.png" group-title="GLAZBENI", ♫♫: IDJ TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1114
+#EXTINF:-1 tvg-id="cinemania" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemania.gif" group-title="Film", Cinemania
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/357.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Jugoton" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jugoton_tv_hr.png" group-title="GLAZBENI", ♫♫: Jugoton
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1113
+#EXTINF:-1 tvg-id="cinema-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/cinematvbh.gif" group-title="Film", RTL Play Premium
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/174.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: KCN 1" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: KCN 1
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1116
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="http://repo.ottshow.net/pikoni/film/pickboxtv.gif" group-title="Film", PickboxTV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1630.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: KCN 2" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: KCN 2
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1117
+#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://repo.ottshow.net/pikoni/film/kinotv.gif" group-title="Film", Kino TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4223.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: KCN 3" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: KCN 3
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1118
+#EXTINF:-1 tvg-id="universal-channel" tvg-logo="http://repo.ottshow.net/pikoni/film/divatv.gif" group-title="Film", DIVA
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4224.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Pink Koncert" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Pink Koncert
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1108
+#EXTINF:-1 tvg-id="amc" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film", AMC
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/9109.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Planeta" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Planeta
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1132
+#EXTINF:-1 tvg-id="epic-drama" tvg-logo="http://repo.ottshow.net/pikoni/film/epicdrama.gif" group-title="Film", EPIC Drama
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24362.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Planeta Folk" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Planeta Folk
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1133
+#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://repo.ottshow.net/pikoni/film/tvsehara.gif" group-title="Film", Sehara TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/29202.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Roma TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Roma TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1130
+#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="http://repo.ottshow.net/pikoni/film/klasiktv.gif" group-title="Film", Klasik TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/38.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: S.K.Y Folk" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: S.K.Y Folk
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1128
+#EXTINF:-1 tvg-id="Film Klub" tvg-logo="http://repo.ottshow.net/pikoni/film/filmklub.gif" group-title="Film", Film Klub
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1073.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Sevdah TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Sevdah TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1119
+#EXTINF:-1 tvg-id="Dizi" tvg-logo="noimage.png" group-title="Film", Dizi
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/77667.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: Taraf" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: Taraf
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1125
+#EXTINF:-1 tvg-id="Euro Cinema 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/eurocinema.gif" group-title="Film", Euro Cinema 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68477.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: TOP TV" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: TOP TV
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1115
+#EXTINF:-1 tvg-id="Euro Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/eurocinema2.gif" group-title="Film", Euro Cinema 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68478.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: TV Sehara" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: TV Sehara
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1124
+#EXTINF:-1 tvg-id="HBO MAX" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film", HBO MAX
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45107.m3u8
 
-#EXTINF:-1 tvg-id="♫♫: YU Planet" tvg-logo="noimage.png" group-title="GLAZBENI", ♫♫: YU Planet
-http://localiptv.site:85/antalgyongyiuj12/antalgyongyiuj12/1126
+#EXTINF:-1 tvg-id="Cine+Select 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 1 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45268.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 2 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45269.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 3 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45270.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 4 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 4 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45271.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 5 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 5 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45272.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 6 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 6 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45273.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 7 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 7 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45274.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 8 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 8 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45275.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 9 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 9 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45276.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film", Cine+Select 10 HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45277.m3u8
+
+#EXTINF:-1 tvg-id="Lud Zbunjen Normalan" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/lzn.gif" group-title="Film", Lud Zbunjen Normalan
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68944.m3u8
+
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Djecji", Baby TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/40217.m3u8
+
+#EXTINF:-1 tvg-id="minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Djecji", Minimax
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/93.m3u8
+
+#EXTINF:-1 tvg-id="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Djecji", Mini Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/265.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Djecji", Nick Jr Hr.
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25986.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Djecji", Nick Jr
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68475.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Djecji", Nicktoons Hr.
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71269.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Djecji", Nicktoons
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/40979.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Djecji", Nickelodeon Hr.
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25987.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Djecji", Nickelodeon
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68476.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Djecji", Cartoon Network Hr.
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71267.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Djecji", Cartoon Network
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71113.m3u8
+
+#EXTINF:-1 tvg-id="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Djecji", Tnt Kids
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/66257.m3u8
+
+#EXTINF:-1 tvg-id="pink-kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Djecji", Pink Kids
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/266.m3u8
+
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Djecji", Pink Super Kids
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71270.m3u8
+
+#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Djecji", Kazbuka
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71116.m3u8
+
+#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Djecji", Pikaboo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3854.m3u8
+
+#EXTINF:-1 tvg-id="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Djecji", Toon Kids
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/8858.m3u8
+
+#EXTINF:-1 tvg-id="hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Djecji", Hayatovci
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25970.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Djecji", Cartoonito
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71114.m3u8
+
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Djecji", Rtl Kockica
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/25997.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Djecji", Disney Chanel
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71109.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Djecji", Disney Junior
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71268.m3u8
+
+#EXTINF:-1 tvg-id="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Djecji", Dexy Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67745.m3u8
+
+#EXTINF:-1 tvg-id="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Djecji", Nova  Kids
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67744.m3u8
+
+#EXTINF:-1 tvg-id="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Djecji", CoComelon
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69637.m3u8
+
+#EXTINF:-1 tvg-id="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Djecji", IDJ Kids
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68943.m3u8
+
+#EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Djecji", Looney Tunes
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45122.m3u8
+
+#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Djecji", Tom and Jerry
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67747.m3u8
+
+#EXTINF:-1 tvg-id="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Djecji", Psici u Ophodnji
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69630.m3u8
+
+#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/mickymouse.gif" group-title="Djecji", Mickey Mouse
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/74173.m3u8
+
+#EXTINF:-1 tvg-id="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Djecji", Masa i Medo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67743.m3u8
+
+#EXTINF:-1 tvg-id="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Djecji", Pepa Prašcic
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/67746.m3u8
+
+#EXTINF:-1 tvg-id="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Djecji", Tri Mace
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69635.m3u8
+
+#EXTINF:-1 tvg-id="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Djecji", A Je To
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69632.m3u8
+
+#EXTINF:-1 tvg-id="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Djecji", Strumpfovi
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69633.m3u8
+
+#EXTINF:-1 tvg-id="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Djecji", Pingvini
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69634.m3u8
+
+#EXTINF:-1 tvg-id="Mickey Mouse" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mickymouse.gif" group-title="Djecji", Mickey Mouse
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72012.m3u8
+
+#EXTINF:-1 tvg-id="Mr Magoo" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrmago.gif" group-title="Djecji", Mr Magoo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72013.m3u8
+
+#EXTINF:-1 tvg-id="Larva" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/larva.gif" group-title="Djecji", Larva
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72014.m3u8
+
+#EXTINF:-1 tvg-id="Blippi" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bliipi.gif" group-title="Djecji", Blippi
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72015.m3u8
+
+#EXTINF:-1 tvg-id="Lucky Luke" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/luckyluck.gif" group-title="Djecji", Lucky Luke
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72016.m3u8
+
+#EXTINF:-1 tvg-id="Alice i Lewis" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/aliceilewis.gif" group-title="Djecji", Alice i Lewis
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72017.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBob" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/spongebob.gif" group-title="Djecji", SpongeBob
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72018.m3u8
+
+#EXTINF:-1 tvg-id="Pink Panther" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/thepinkpanter.gif" group-title="Djecji", Pink Panther
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72019.m3u8
+
+#EXTINF:-1 tvg-id="Profesor Baltazar" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/profesorbaltezar.gif" group-title="Djecji", Profesor Baltazar
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72020.m3u8
+
+#EXTINF:-1 tvg-id="Gormiti" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/gormiti.gif" group-title="Djecji", Gormiti
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72021.m3u8
+
+#EXTINF:-1 tvg-id="MetaJets" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/metajets.gif" group-title="Djecji", MetaJets
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72022.m3u8
+
+#EXTINF:-1 tvg-id="Agent Binky" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/agnetbinky.gif" group-title="Djecji", Agent Binky
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72023.m3u8
+
+#EXTINF:-1 tvg-id="Bolek i Lolek" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/bolekilolek.gif" group-title="Djecji", Bolek i Lolek
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72024.m3u8
+
+#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://repo.ottshow.net/pikoni/ikone5/mrbean.gif" group-title="Djecji", Mr Bean
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72029.m3u8
+
+#EXTINF:-1 tvg-id="La Linea" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/kids/la-liane.gif" group-title="Djecji", La Linea
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/73980.m3u8
+
+#EXTINF:-1 tvg-id="Lov Smuda na Dunavu" tvg-logo="https://oruzje.net/storage/users/236/167484931263d42c206e49e.png" group-title="Lov i Ribolov", Lov Smuda na Dunavu
+http://gradina1.info:80/movie/SuleMa23/SuleMa232033/79849.mp4
+
+#EXTINF:-1 tvg-id="Jesenski i Zimski Lov Srne" tvg-logo="https://oruzje.net/storage/users/236/167484931263d42c206e49e.png" group-title="Lov i Ribolov", Jesenski i Zimski Lov Srne
+http://gradina1.info:80/movie/SuleMa23/SuleMa232033/79848.mp4
+
+#EXTINF:-1 tvg-id="Lov na Sakala" tvg-logo="https://oruzje.net/storage/users/236/167484931263d42c206e49e.png" group-title="Lov i Ribolov", Lov na Sakala
+http://gradina1.info:80/movie/SuleMa23/SuleMa232033/79847.mp4
+
+#EXTINF:-1 tvg-id="Feeder Ribolov" tvg-logo="https://oruzje.net/storage/users/236/167484931263d42c206e49e.png" group-title="Lov i Ribolov", Feeder Ribolov
+http://gradina1.info:80/movie/SuleMa23/SuleMa232033/79846.mp4
+
+#EXTINF:-1 tvg-id="Tajne Saranskog Ribolova" tvg-logo="https://oruzje.net/storage/users/236/167484931263d42c206e49e.png" group-title="Lov i Ribolov", Tajne Saranskog Ribolova
+http://gradina1.info:80/movie/SuleMa23/SuleMa232033/79845.mp4
+
+#EXTINF:-1 tvg-id="imperiatv" tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Glazbeni", Imperija
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/24800.m3u8
+
+#EXTINF:-1 tvg-id="toxic-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Glazbeni", Toxic TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3823.m3u8
+
+#EXTINF:-1 tvg-id="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Glazbeni", IDJ TV HD
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1112.m3u8
+
+#EXTINF:-1 tvg-id="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Glazbeni", UZIVOTEKA
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/45114.m3u8
+
+#EXTINF:-1 tvg-id="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Glazbeni", Kafansko Vece
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/70263.m3u8
+
+#EXTINF:-1 tvg-id="extratv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Glazbeni", Extra Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68474.m3u8
+
+#EXTINF:-1 tvg-id="hayat-music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Glazbeni", Hayat Music
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/51.m3u8
+
+#EXTINF:-1 tvg-id="hayat-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Glazbeni", Hayat Folk
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/131.m3u8
+
+#EXTINF:-1 tvg-id="bn-music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Glazbeni", BN Music
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/46.m3u8
+
+#EXTINF:-1 tvg-id="dmsat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Glazbeni", DM Sat
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/26004.m3u8
+
+#EXTINF:-1 tvg-id="bravo-mjuzik" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Glazbeni", Bravo Music
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/35952.m3u8
+
+#EXTINF:-1 tvg-id="pink-folk" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Glazbeni", Pink Folk 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/97.m3u8
+
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Glazbeni", Pink Folk 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/504.m3u8
+
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Glazbeni", Grand
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/21.m3u8
+
+#EXTINF:-1 tvg-id="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Glazbeni", Grand 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1071.m3u8
+
+#EXTINF:-1 tvg-id="sevdah-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Glazbeni", TV Sevdah
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/730.m3u8
+
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Glazbeni", Izvorna TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/231.m3u8
+
+#EXTINF:-1 tvg-id="otv-valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Glazbeni", OTV Valentino
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/152.m3u8
+
+#EXTINF:-1 tvg-id="valentino-music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Glazbeni", Valentino Music
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/32083.m3u8
+
+#EXTINF:-1 tvg-id="valentino-etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Glazbeni", Valentino Etno
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/32082.m3u8
+
+#EXTINF:-1 tvg-id="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Glazbeni", CityPlay
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69400.m3u8
+
+#EXTINF:-1 tvg-id="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Glazbeni", Toxic Folk
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/66261.m3u8
+
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Glazbeni", Duga TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/549.m3u8
+
+#EXTINF:-1 tvg-id="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Glazbeni", KCN 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/630.m3u8
+
+#EXTINF:-1 tvg-id="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Glazbeni", KCN 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/641.m3u8
+
+#EXTINF:-1 tvg-id="bravo!" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/music/bravo.gif" group-title="Glazbeni", bravo!
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/74027.m3u8
+
+#EXTINF:-1 tvg-id="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Glazbeni", DMC Tv
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69133.m3u8
+
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Glazbeni", Jugoton TV
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/251.m3u8
+
+#EXTINF:-1 tvg-id="cmc" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Glazbeni", CMC
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/113.m3u8
+
+#EXTINF:-1 tvg-id="Banovina" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Glazbeni", Banovina
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/1552.m3u8
+
+#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Glazbeni", Klape i Tambure
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69348.m3u8
+
+#EXTINF:-1 tvg-id="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Glazbeni", Croatia Records
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69902.m3u8
+
+#EXTINF:-1 tvg-id="pink-hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Glazbeni", Pink Hits
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/4140.m3u8
+
+#EXTINF:-1 tvg-id="pink-n-roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Glazbeni", Pink n Roll
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69401.m3u8
+
+#EXTINF:-1 tvg-id="balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Glazbeni", Balkanika
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/239.m3u8
+
+#EXTINF:-1 tvg-id="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Glazbeni", Krone Hit
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69786.m3u8
+
+#EXTINF:-1 tvg-id="mtv-hits-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Glazbeni", MTV Hits
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/16758.m3u8
+
+#EXTINF:-1 tvg-id="mtv00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Glazbeni", MTV 00s
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/50.m3u8
+
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Glazbeni", MTV 80s
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69350.m3u8
+
+#EXTINF:-1 tvg-id="mtv-dance-international" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Glazbeni", MTV Club
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/16759.m3u8
+
+#EXTINF:-1 tvg-id="Bravo! Rock" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Rock
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72615.m3u8
+
+#EXTINF:-1 tvg-id="Bravo! Balade" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Balade
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72616.m3u8
+
+#EXTINF:-1 tvg-id="Bravo! Pop" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Bravo! Pop
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/72617.m3u8
+
+#EXTINF:-1 tvg-id="Extra Fm" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Extra Fm
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71271.m3u8
+
+#EXTINF:-1 tvg-id="Extra Fresh" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Extra Fresh
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/71273.m3u8
+
+#EXTINF:-1 tvg-id="Big Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Big Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68892.m3u8
+
+#EXTINF:-1 tvg-id="Naxi  Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi  Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/68905.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Slager Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Slager Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69337.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Boem Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Boem Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69338.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Ex-Yu Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Ex-Yu Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69340.m3u8
+
+#EXTINF:-1 tvg-id="Radio Valentino" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Valentino
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/63461.m3u8
+
+#EXTINF:-1 tvg-id="RSG-radio stari grad" tvg-logo="http://repo.ottshow.net/slika/xr2kory8DLaw.gif" group-title="Radio", RSG-radio stari grad
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/21880.m3u8
+
+#EXTINF:-1 tvg-id="BH Radio" tvg-logo="http://repo.ottshow.net/slika/344iFox4Snfa.gif" group-title="Radio", BH Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/21881.m3u8
+
+#EXTINF:-1 tvg-id="Radio FBiH" tvg-logo="http://repo.ottshow.net/slika/syN6UTktNwV9.gif" group-title="Radio", Radio FBiH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/21882.m3u8
+
+#EXTINF:-1 tvg-id="Kalman radio-Narodni radio" tvg-logo="http://repo.ottshow.net/slika/L9GmsH3x8IIk.gif" group-title="Radio", Kalman radio-Narodni radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20704.m3u8
+
+#EXTINF:-1 tvg-id="Antena radio jelah" tvg-logo="http://repo.ottshow.net/slika/2sW2kPtCFDCP.gif" group-title="Radio", Antena radio jelah
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/21879.m3u8
+
+#EXTINF:-1 tvg-id="Radio Avaz" tvg-logo="http://repo.ottshow.net/slika/L9oEm6S1XdIU.gif" group-title="Radio", Radio Avaz
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2534.m3u8
+
+#EXTINF:-1 tvg-id="BN Radio" tvg-logo="http://repo.ottshow.net/slika/hvvpOXEWqR4I.gif" group-title="Radio", BN Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2527.m3u8
+
+#EXTINF:-1 tvg-id="Radio Nostalgija" tvg-logo="http://repo.ottshow.net/slika/UYWPzygiJvXB.gif" group-title="Radio", Radio Nostalgija
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2528.m3u8
+
+#EXTINF:-1 tvg-id="Radio-VAL" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio-VAL
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/59382.m3u8
+
+#EXTINF:-1 tvg-id="Radio Blato" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Blato
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/49322.m3u8
+
+#EXTINF:-1 tvg-id="Radio Korcula" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Korcula
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/59383.m3u8
+
+#EXTINF:-1 tvg-id="Narodni radio HR" tvg-logo="http://repo.ottshow.net/slika/8TvPbr1KwFmB.gif" group-title="Radio", Narodni radio HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20719.m3u8
+
+#EXTINF:-1 tvg-id="Radio Split" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Split
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/59384.m3u8
+
+#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="http://repo.ottshow.net/slika/WINMwlYCZGu0.gif" group-title="Radio", HRT HR 1
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15282.m3u8
+
+#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="http://repo.ottshow.net/slika/5ToHhYxpSB0Y.gif" group-title="Radio", HRT HR 2
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15281.m3u8
+
+#EXTINF:-1 tvg-id="Radio Dalmacija" tvg-logo="http://repo.ottshow.net/slika/KSLq9kB583VU.gif" group-title="Radio", Radio Dalmacija
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20720.m3u8
+
+#EXTINF:-1 tvg-id="Hit Radio" tvg-logo="http://repo.ottshow.net/slika/oBNGskggCQs7.gif" group-title="Radio", Hit Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2530.m3u8
+
+#EXTINF:-1 tvg-id="Radio Sevdah" tvg-logo="http://repo.ottshow.net/slika/YjUTXp68M01M.gif" group-title="Radio", Radio Sevdah
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2535.m3u8
+
+#EXTINF:-1 tvg-id="Radio Gold" tvg-logo="http://repo.ottshow.net/slika/3BYdixSDJVRT.gif" group-title="Radio", Radio Gold
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/2633.m3u8
+
+#EXTINF:-1 tvg-id="Radio Marija BH" tvg-logo="http://repo.ottshow.net/slika/TSUYBFsL2ZDu.gif" group-title="Radio", Radio Marija BH
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/3735.m3u8
+
+#EXTINF:-1 tvg-id="OK Radio" tvg-logo="http://repo.ottshow.net/slika/0pLmNukBKWB7.gif" group-title="Radio", OK Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/9141.m3u8
+
+#EXTINF:-1 tvg-id="Rovinj FM" tvg-logo="http://repo.ottshow.net/slika/YnAvsnhHtJRW.gif" group-title="Radio", Rovinj FM
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15211.m3u8
+
+#EXTINF:-1 tvg-id="Radio Vrbovec 94.5" tvg-logo="http://repo.ottshow.net/slika/yBECbKVjNaGe.gif" group-title="Radio", Radio Vrbovec 94.5
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15215.m3u8
+
+#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="http://repo.ottshow.net/slika/PQ3QVitJf8wq.gif" group-title="Radio", Radio Sunce
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15219.m3u8
+
+#EXTINF:-1 tvg-id="Radio Quirinus 91.7" tvg-logo="http://repo.ottshow.net/slika/FW0MtZSR8Cbh.gif" group-title="Radio", Radio Quirinus 91.7
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15226.m3u8
+
+#EXTINF:-1 tvg-id="Radio Ogulin" tvg-logo="http://repo.ottshow.net/slika/PQzbNzPYBFMS.gif" group-title="Radio", Radio Ogulin
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15228.m3u8
+
+#EXTINF:-1 tvg-id="Radio Moslavina" tvg-logo="http://repo.ottshow.net/slika/Sdad8zh5bC5i.gif" group-title="Radio", Radio Moslavina
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15231.m3u8
+
+#EXTINF:-1 tvg-id="Radio Martin" tvg-logo="http://repo.ottshow.net/slika/5PT18pUvG71J.gif" group-title="Radio", Radio Martin
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15233.m3u8
+
+#EXTINF:-1 tvg-id="Radio Mir Medugorje" tvg-logo="http://repo.ottshow.net/slika/PqPntQtstCPA.gif" group-title="Radio", Radio Mir Medugorje
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15234.m3u8
+
+#EXTINF:-1 tvg-id="Radio Kaj" tvg-logo="http://repo.ottshow.net/slika/uxZRrFc6GzP5.gif" group-title="Radio", Radio Kaj
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15239.m3u8
+
+#EXTINF:-1 tvg-id="Radio Deejay HR" tvg-logo="http://repo.ottshow.net/slika/IwoP7d9hPO4I.gif" group-title="Radio", Radio Deejay HR
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15242.m3u8
+
+#EXTINF:-1 tvg-id="Radio Banovina" tvg-logo="http://repo.ottshow.net/slika/W3geWzgS5QsG.gif" group-title="Radio", Radio Banovina
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15245.m3u8
+
+#EXTINF:-1 tvg-id="Radio 101 FM" tvg-logo="http://repo.ottshow.net/slika/P0V4s7bwNJIn.gif" group-title="Radio", Radio 101 FM
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15249.m3u8
+
+#EXTINF:-1 tvg-id="Radio 057" tvg-logo="http://repo.ottshow.net/slika/5DBStAk3GUEK.gif" group-title="Radio", Radio 057
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15251.m3u8
+
+#EXTINF:-1 tvg-id="Obiteljski Radio Ivanic" tvg-logo="http://repo.ottshow.net/slika/EwrTaJV4ran7.gif" group-title="Radio", Obiteljski Radio Ivanic
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15255.m3u8
+
+#EXTINF:-1 tvg-id="Novi Radio Zadar" tvg-logo="http://repo.ottshow.net/slika/mRBcFbczjJUs.gif" group-title="Radio", Novi Radio Zadar
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15256.m3u8
+
+#EXTINF:-1 tvg-id="KLFM.ORG" tvg-logo="http://repo.ottshow.net/slika/6KNTFvnmmMbt.gif" group-title="Radio", KLFM.ORG
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15265.m3u8
+
+#EXTINF:-1 tvg-id="KLFM" tvg-logo="http://repo.ottshow.net/slika/NrntXJeKkXsh.gif" group-title="Radio", KLFM
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15266.m3u8
+
+#EXTINF:-1 tvg-id="Hit Rado Sinj" tvg-logo="http://repo.ottshow.net/slika/liHKpP7MTOFz.gif" group-title="Radio", Hit Rado Sinj
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15285.m3u8
+
+#EXTINF:-1 tvg-id="Gold FM Uzivo" tvg-logo="http://repo.ottshow.net/slika/Iy1UQ2JbDpvL.gif" group-title="Radio", Gold FM Uzivo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15286.m3u8
+
+#EXTINF:-1 tvg-id="Gold FM" tvg-logo="http://repo.ottshow.net/slika/pzk3I8jsWA2f.gif" group-title="Radio", Gold FM
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15287.m3u8
+
+#EXTINF:-1 tvg-id="ENTER Zagreb" tvg-logo="http://repo.ottshow.net/slika/4Dps4411d8gs.gif" group-title="Radio", ENTER Zagreb
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15289.m3u8
+
+#EXTINF:-1 tvg-id="City-radio 88.6" tvg-logo="http://repo.ottshow.net/slika/eZtvYAjDvk2U.gif" group-title="Radio", City-radio 88.6
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15310.m3u8
+
+#EXTINF:-1 tvg-id="Antena Zagreb Uživo" tvg-logo="http://repo.ottshow.net/slika/vIJ5tfiybx1d.gif" group-title="Radio", Antena Zagreb Uživo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/15313.m3u8
+
+#EXTINF:-1 tvg-id="Cool Radio" tvg-logo="http://repo.ottshow.net/slika/63U52lklxUZG.gif" group-title="Radio", Cool Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20702.m3u8
+
+#EXTINF:-1 tvg-id="Kitt Radio Wien 23" tvg-logo="http://repo.ottshow.net/slika/fJj96IhKCfCu.gif" group-title="Radio", Kitt Radio Wien 23
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20705.m3u8
+
+#EXTINF:-1 tvg-id="Radio DJ Sultan M" tvg-logo="http://repo.ottshow.net/slika/dsCE2b8cB1mW.gif" group-title="Radio", Radio DJ Sultan M
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20706.m3u8
+
+#EXTINF:-1 tvg-id="RADIO HIT Merak" tvg-logo="http://repo.ottshow.net/slika/QZjs7c9rDxQY.gif" group-title="Radio", RADIO HIT Merak
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20707.m3u8
+
+#EXTINF:-1 tvg-id="Radio BIR Bosna" tvg-logo="http://repo.ottshow.net/slika/OjlLXGjCbsHH.gif" group-title="Radio", Radio BIR Bosna
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20708.m3u8
+
+#EXTINF:-1 tvg-id="Vip zvuci rodnog kraja" tvg-logo="http://repo.ottshow.net/slika/DvBIds2N8GyY.gif" group-title="Radio", Vip zvuci rodnog kraja
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20710.m3u8
+
+#EXTINF:-1 tvg-id="Antena Radio Krusevac" tvg-logo="http://repo.ottshow.net/slika/C1ENeA4PZgom.gif" group-title="Radio", Antena Radio Krusevac
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20711.m3u8
+
+#EXTINF:-1 tvg-id="Civijas Radio Sabac" tvg-logo="http://repo.ottshow.net/slika/MtsVx6JWSk0L.gif" group-title="Radio", Civijas Radio Sabac
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20712.m3u8
+
+#EXTINF:-1 tvg-id="Otvorena Mreza Sarajavo" tvg-logo="http://repo.ottshow.net/slika/VOhv4YkoT5g8.gif" group-title="Radio", Otvorena Mreza Sarajavo
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/20718.m3u8
+
+#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="http://repo.ottshow.net/slika/aLVYroXYfbKI.gif" group-title="Radio", Radio Posavina
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/36344.m3u8
+
+#EXTINF:-1 tvg-id="CER (SABAC)" tvg-logo="http://repo.ottshow.net/slika/429gF5wZPOdH" group-title="Radio", CER (SABAC)
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/38433.m3u8
+
+#EXTINF:-1 tvg-id="Radio S Juzni" tvg-logo="http://repo.ottshow.net/slika/bh0Z0PYgSFAl" group-title="Radio", Radio S Juzni
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/38538.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Latino" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Latino
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69328.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Cafe Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Cafe Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69329.m3u8
+
+#EXTINF:-1 tvg-id="Naxi 80E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 80E Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69330.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Dance Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Dance Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69331.m3u8
+
+#EXTINF:-1 tvg-id="Naxi 90E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 90E Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69332.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Love Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Love Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69333.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Jaaz radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Jaaz radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69334.m3u8
+
+#EXTINF:-1 tvg-id="Naxi 70E Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi 70E Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69335.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Classic Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Classic Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69336.m3u8
+
+#EXTINF:-1 tvg-id="Naxi Rock Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Naxi Rock Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/69341.m3u8
+
+#EXTINF:-1 tvg-id="Radio Feral" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Feral
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/76741.m3u8
+
+#EXTINF:-1 tvg-id="Radio Glas Drine" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Radio Glas Drine
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/76742.m3u8
+
+#EXTINF:-1 tvg-id="Buban Radio" tvg-logo="http://repo.ottshow.net/slika/radio.png" group-title="Radio", Buban Radio
+http://gradina1.info:80/live/SuleMa23/SuleMa232033/82901.m3u8
+
+
 
 
 
@@ -14883,6 +15443,7 @@ http://tv.nova-iptv.com/movie/Ivan_Knez/PMxk9LhwPg/10066.mp4
 
 
 #kraj
+
 
 
 
