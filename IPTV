@@ -15439,11 +15439,21 @@ http://tv.nova-iptv.com/movie/Ivan_Knez/PMxk9LhwPg/6906.mp4
 
 #sjene prošlosti 2 sezona
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_SJENE PROŠLOSTI 2", Sjene prošlosti s2e1
+http://api.ottshow.net/series/Bernard.s9/Reactor10050/85106.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_SJENE PROŠLOSTI 2", Sjene prošlosti s2e2
+http://api.ottshow.net/series/Bernard.s9/Reactor10050/85107.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_SJENE PROŠLOSTI 2", Sjene prošlosti s2e3
+http://api.ottshow.net/series/Bernard.s9/Reactor10050/85108.mp4
+
 
 
 
 
 #kraj
+
 
 
 
