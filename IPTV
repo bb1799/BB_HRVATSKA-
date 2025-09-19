@@ -15439,20 +15439,46 @@ http://tv.nova-iptv.com/movie/Ivan_Knez/PMxk9LhwPg/6906.mp4
 
 #sjene prošlosti 2 sezona
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_SJENE PROŠLOSTI 2", Sjene prošlosti s2e1
-http://gradina1.info:80/series/SuleMa23/SuleMa232033/85106.mp4
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E01" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E01
+http://45.11.57.189/series/zamaskiraoSe2025/luluHOlu25/85151.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_SJENE PROŠLOSTI 2", Sjene prošlosti s2e2
-http://gradina1.info:80/series/SuleMa23/SuleMa232033/85107.mp4
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E02" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E02
+http://45.11.57.189/series/zamaskiraoSe2025/luluHOlu25/85152.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_SJENE PROŠLOSTI 2", Sjene prošlosti s2e3
-http://gradina1.info:80/series/SuleMa23/SuleMa232033/85108.mp4
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E03" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E03
+http://45.11.57.189/series/zamaskiraoSe2025/luluHOlu25/85153.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E04" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E04
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85193.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E05" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E05
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85194.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E06" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E06
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85195.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E07" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E07
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85196.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E08" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E08
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85197.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E09" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E09
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85198.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E10" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E10
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85199.mp4
+
+#EXTINF:-1 tvg-id="Sjene prošlosti  S02 E11" tvg-logo="http://repo.ottshow.net/slika/Ou1UrSoEhvjOIsefCnRVd4VMQ7xcwz.png" group-title="BB_SJENE_PROŠLOSTI_2", Sjene prošlosti  S02 E11
+http://cdn.gradina2.info/series/zamaskiraoSe2025/luluHOlu25/85200.mp4
+
 
 
 
 
 
 #kraj
+
 
 
 
