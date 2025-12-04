@@ -1865,36 +1865,31 @@ http://api.ottshow.net:80/Bernard.s9/Reactor10050/61224
 
 
 
-# otv-zelina tv
+# otv-tv zapad
 
 
 
 
 
+#EXTINF:-1 tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-TV ZAPAD",OTV
+http://cms-portals.com:80/live/Petrovic_Zoran_138/r91Gm1i890/10249.ts
 
-#EXTINF:-1 tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://line.trx-ott.com/live/57f9354f2a/72f44484a6e7/1861969.ts
+#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-TV ZAPAD",OTV
+http://xyjnymwu.eldervpn.xyz/live/MQYASQF2/2Z6N7H9W/161149.ts
 
-#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://ottshow.net:80/Miljenko.gospocic9/Reactor10050/4537
+#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-TV ZAPAD",OTV
+http://cms-portals.com:80/live/Karlo_Ojdanic/RaGmgXqohG/10249.ts
 
-#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://fjpunye.mchenh.xyz/live/8211805823/63AADA7A/161149.ts
+#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-TV ZAPAD",OTV
+http://xyjnymwu.eldervpn.xyz/live/MQYASQF2/2Z6N7H9W/161149.ts
 
-#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://tciptv.com.streamtv.to:8080/live/AzLnRUPyoJ/YKXRLqcSbj/24161.ts
+#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-TV ZAPAD",TV ZAPAD
+http://xyjnymwu.eldervpn.xyz/live/MQYASQF2/2Z6N7H9W/400154488.ts
 
-#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://family4k.co:8080/live/WVuOxD2anadl6r/1oG6vlbnHitSRL/822473.ts
+#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-TV ZAPAD",TV ZAPAD
+http://amazingiptv.life:8080/live/hasa1623ozde/BkMSXpHNFvhU/455619.ts
 
-#EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-ZELINA TV",OTV
-http://api.ottshow.net:80/Bernard.s9/Reactor10050/4537
 
-#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
-http://fjpunye.mchenh.xyz/live/8211805823/63AADA7A/33812.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-ZELINA TV",TV ZELINA
-http://petica.info/live/GECI-Darko4/wfX0P4e5/69903.ts
 
 
 
@@ -15567,46 +15562,11 @@ http://bgamered.com:17009/series/pelivan@za@dubai/HywGAoRa7LhDseRt54321J/16758.m
 
 
 
-#fate the winx saga 2
-
-
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_FATE THE VINX SAGA 2", Fate The Vinx Saga s02e01
-https://eu9.raffaellocdn.net:2223/v3-hls-playback/a52d524b16b322374eaba7191bc8865e510004e3798795453c8512a67c5b887dfe736bce4b754006b7c77b8b3df29113f9706707786850953ae788d69d621fc486e004e98ce1350a968966a17498c3fb2d6a58d6f849e6a7aff5c024d9460b7146c1e80b3a09aa33a9e5c0935827f6d6f21d406e4d176e8e53e78b04b964783bd2d63d0f908e34c3a2f024a3bee9a9cf4a4985f56f2e90249a4269205c28dfe9f54bf47992091654e3d5eadb6be044846acc72bd9c157757deb7579a100d6dd6/720/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_FATE THE VINX SAGA 2", Fate The Vinx Saga s02e02
-https://eu1.raffaellocdn.net:2223/v3-hls-playback/cf719fc42566f9a75f5c3c0199746c54b52c495ff61ac3f9e8ee9e43d843e4e2317efc43d14118953c1cea73666c349ffc12da3c3f3b31d9ddd07d0dfb52e5ad01bb9b3558d4dab9ae479c4d9af4682a8e24526fbf8eed64b41fe6c90d0705ebb9bec920c2c5c44b3e507dd55dfcb0fbb17bb3dd37b32d6b492cbc6a704dbcc1c35602e4af54dff60cf0a9a79f0dd13d9570a429759567bc79c10277950df86e37a5f6eb1b2defe48dbd54c916f25929819dabc07f01dfc349eb08286f778f43/720/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_FATE THE VINX SAGA 2", Fate The Vinx Saga s02e03
-https://f3.megacdn.co:2228/v3-hls-playback/e7437a539e54be298f969cc92487ca2459b7436f3e7c5ff2e39b6894deed091a7c31d7fe817c5873f078c90995dc581fa9a0a60fec2efbd5f227068d0fe4d2337b87b9a24be09657b6945b19c26ca95d9099cd24f835d2548df3414d8426d5763ad2b58f8db0d489172c287011319bf3c9d40cd26d14d788f9a363d96e2db15083678725555cb4c00a57bfcf9daa366ca0d602f61218ba73828a259b792de102eede5a84ac9257755421c612e155ea6fa55f5d381bc9fb2fa8a7844ff2327b86/720/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_FATE THE VINX SAGA 2", Fate The Vinx Saga s02e04
-https://eu7.raffaellocdn.net:2223/v3-hls-playback/e7437a539e54be298f969cc92487ca2459b7436f3e7c5ff2e39b6894deed091a7c31d7fe817c5873f078c90995dc581fa9a0a60fec2efbd5f227068d0fe4d233b369cb1c25e421c31763c641c4db61a2c6a318816992cf6558b4c483fed66ee1c822dbad594de8d7603be26b0cdcc15f6b3ea54583fb91489d3ae2139d899f93d48ac6ecad6bdc2b84999c9d3fc689fb33a6f6e846da8a7fa079729492fc73db15960fce93b66e6749d4c56df4abb0cf0f39eb68ea05a0cd11ee39cdff3cf07c/720/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_FATE THE VINX SAGA 2", Fate The Vinx Saga s02e05
-https://eu9.raffaellocdn.net:2223/v3-hls-playback/fe8ca6405e415ee89caf413f948e3b2e632aa5bf1f2dbca62f47c1b79e4cb26d7d16d8ceeb39cccbb31b6c6601c41e2b90c742c25b10d4efa8e454535cbc7b77a0607ec2b5755f005ba5072e092c09944a0c8eead29ceb27dffcbd00a345e86bf6c73ea8016c1f483f908a790432d73abea245e0edfbb5273d612a1565c5a539755fbde16b9fa459499eeab5279e400eef740e216d49b093707a899a3899ebffb9480ad1d8a933add21d251bf2f4ac161ef29978f8487f307fcac488cd635ca9/720/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_FATE THE VINX SAGA 2", Fate The Vinx Saga s02e06
-https://eu11.raffaellocdn.net:2223/v3-hls-playback/a45ed0a39689866bbad162dbd65e6135142cf7d3e8a0dfec4b3fa35378635ec4fca895e3d1d3f95e96a4645cfa284a72168c5b40f348394ac9ca1374927be28e23dfc4f473a44f9a3a50b474a06d637fdda23ac5e141360df032ac353cc29c7b24dd340c9b1d7ebea06e8dd3e9f130862f53228a5820a34c13211711fb823f80474fbd4f8a87a198dfc1b64c4edb408d70ad4cb26445bee1d926995e89ee733bcba0415106f14143da2844d1362222d321f85e18a0cf026dcf88a5ed8a6a76e9/720/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BB_FATE THE VINX SAGA 2", Fate The Vinx Saga s02e07
-https://f3.megacdn.co:2228/v3-hls-playback/1034b526df11517242ab22bc468286e28ca1fc4bcca021bc1a8a2fa3db5addd78991c6955f76c8bf40df7ac2e195e426a3c888ed324f8bc9d4c67f65e363c12c734d9f2b91f71ee7da85370710138eba40cfa2251ea641e715ef8ef04f9dac577dafa4b3a2591dc87fabd97ffba3061afa768ac413ccaf6e30de254325e63d3e79af4a969c24e0cfd096e623215825a65ba865cabee586d8464b4328fb6206173ca286c37fad092ddca77a7a4d983c7536a5f3d06443d04ea2858d1ca14664c2/720/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 #kraj
+
 
 
 
