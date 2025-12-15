@@ -1875,6 +1875,7 @@ http://api.ottshow.net:80/Bernard.s9/Reactor10050/61224
 
 
 
+
 #EXTINF:-1 tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-TV ZAPAD",OTV
 http://cms-portals.com:80/live/Petrovic_Zoran_138/r91Gm1i890/10249.ts
 
@@ -1887,13 +1888,11 @@ http://cms-portals.com:80/live/Karlo_Ojdanic/RaGmgXqohG/10249.ts
 #EXTINF:-1  tvg-name="OTV" tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/jabukatv.gif" group-title="OTV-TV ZAPAD",OTV
 http://xyjnymwu.eldervpn.xyz/live/MQYASQF2/2Z6N7H9W/161149.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-TV ZAPAD",TV ZAPAD
+#EXTINF:-1 tvg-id="" tvg-name="televizija zapad" tvg-logo="https://youngmasters.com.hr/ymweb/wp-content/uploads/2016/11/youngmasters-sponsors-logo-300x300-televizija-zapad.jpg" group-title="OTV-TV ZAPAD",TV ZAPAD
+http://atlantistv.pro:8080/live/gokhandanismz/YJxO04eyXo/797601.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="https://youngmasters.com.hr/ymweb/wp-content/uploads/2016/11/youngmasters-sponsors-logo-300x300-televizija-zapad.jpg" group-title="OTV-TV ZAPAD",TV ZAPAD
 http://xyjnymwu.eldervpn.xyz/live/MQYASQF2/2Z6N7H9W/400154488.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="prigorska tv" tvg-logo="http://iptvunited.org:8080/images/c1fcf060c6d00d1994a8af21fae38474.png" group-title="OTV-TV ZAPAD",TV ZAPAD
-http://amazingiptv.life:8080/live/hasa1623ozde/BkMSXpHNFvhU/455619.ts
-
-
 
 
 
@@ -17283,6 +17282,7 @@ http://bgamered.com:17009/series/pelivan@za@dubai/HywGAoRa7LhDseRt54321J/16758.m
 
 
 #kraj
+
 
 
 
