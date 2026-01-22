@@ -1,1062 +1,1901 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV Jadran HR" tvg-logo="noimage.png" group-title="HRVATSKA", TV Jadran HR
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/104056
+#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/560
 
-#EXTINF:-1 tvg-id="TV Dalmacija HR" tvg-logo="noimage.png" group-title="HRVATSKA", TV Dalmacija HR
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/104055
+#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6049
 
-#EXTINF:-1 tvg-id="Kino TV ex-Yu" tvg-logo="https://static.epg.best/hr/Kinotv.hr.png" group-title="HRVATSKA", Kino TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9032
+#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/558
 
-#EXTINF:-1 tvg-id="HRT 1 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/201
+#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/557
 
-#EXTINF:-1 tvg-id="HRT 3 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/202
+#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6858
 
-#EXTINF:-1 tvg-id="HRT 3 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/203
+#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/559
 
-#EXTINF:-1 tvg-id="HRT 4 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/204
+#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6859
 
-#EXTINF:-1 tvg-id="RTL 1 ex-Yu" tvg-logo="https://static.epg.best/hr/Rtl.hr.png" group-title="HRVATSKA", RTL 1 HR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/217
+#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6860
 
-#EXTINF:-1 tvg-id="RTL 2 ex-Yu" tvg-logo="https://static.epg.best/hr/Rtl2.hr.png" group-title="HRVATSKA", RTL 2 HR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/216
+#EXTINF:-1 tvg-id="htv5" tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA", HRT 5
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/556
 
-#EXTINF:-1 tvg-id="RTL Crime ex-Yu" tvg-logo="https://static.epg.best/hr/RtlCrime.hr.png" group-title="HRVATSKA", RTL Crime ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/184
+#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12097
 
-#EXTINF:-1 tvg-id="Z1 ex-Yu" tvg-logo="https://static.epg.best/hr/Z1.hr.png" group-title="HRVATSKA", Z1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/3837
+#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12100
 
-#EXTINF:-1 tvg-id="RTL Living ex-Yu" tvg-logo="https://static.epg.best/hr/RtlLiving.hr.png" group-title="HRVATSKA", RTL Living ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/219
+#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12098
 
-#EXTINF:-1 tvg-id="RTL Passion ex-Yu" tvg-logo="https://static.epg.best/hr/RtlPassion.hr.png" group-title="HRVATSKA", RTL Passion ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/185
+#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12099
 
-#EXTINF:-1 tvg-id="Doma TV ex-Yu" tvg-logo="https://static.epg.best/hr/DomaTv.hr.png" group-title="HRVATSKA", Doma TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/195
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HRVATSKA", Rtl Croatia World
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10165
 
-#EXTINF:-1 tvg-id="NOVA TV ex-Yu" tvg-logo="https://static.epg.best/hr/NovaTv.hr.png" group-title="HRVATSKA", Nova TV HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9039
+#EXTINF:-1 tvg-id="RTL Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Adria_2020.png" group-title="HRVATSKA", RTL Adria
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8629
 
-#EXTINF:-1 tvg-id="Nova ex-Yu" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="HRVATSKA", Nova ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/3838
+#EXTINF:-1 tvg-id="rtl.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7516
 
-#EXTINF:-1 tvg-id="Diva TV ex-Yu" tvg-logo="https://static.epg.best/hr/Diva.hr.png" group-title="HRVATSKA", Diva TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9033
+#EXTINF:-1 tvg-id="RTL HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8220
 
-#EXTINF:-1 tvg-id="Arena Premium 2 HR FHD ex-Yu" tvg-logo="noimage.png" group-title="HRVATSKA", Arena Premium 2 HR FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/126174
+#EXTINF:-1 tvg-id="RTL HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12092
 
-#EXTINF:-1 tvg-id="N1 HR ex-YU" tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="HRVATSKA", N1 HR ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/82765
+#EXTINF:-1 tvg-id="RTL 2 HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7519
 
-#EXTINF:-1 tvg-id="N1 HR FHD ex-YU" tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="HRVATSKA", N1 HR FHD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/82766
+#EXTINF:-1 tvg-id="RTL 2 HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8298
 
-#EXTINF:-1 tvg-id="HRT 5 VIP ex-Yu" tvg-logo="https://static.hercegovina.info/img/repository/2017/12/image_640x396/hrt5_95821211.jpg" group-title="HRVATSKA", HRT 5 VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10905
+#EXTINF:-1 tvg-id="RTL 2 HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12093
 
-#EXTINF:-1 tvg-id="OTV HR ex-Yu" tvg-logo="https://static.epg.best/ba/OTVValentino.ba.png" group-title="HRVATSKA", OTV HR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/24161
+#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7518
 
-#EXTINF:-1 tvg-id="Mreza ZG ex-Yu" tvg-logo="https://static.epg.best/hr/Mrezazg.hr.png" group-title="HRVATSKA", Mreza ZG ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/24162
+#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion FHD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8281
 
-#EXTINF:-1 tvg-id="Banovina TV HR ex-Yu" tvg-logo="https://photos.live-tv-channels.org/tv-logo/hr-tv-banovina-8918-300x225.jpg" group-title="HRVATSKA", Banovina TV HR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/24164
+#EXTINF:-1 tvg-id="RTL Crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7517
 
-#EXTINF:-1 tvg-id="Kanal Ri (Rijeka TV) HR ex-Yu" tvg-logo="https://static.epg.best/hr/KanalRi.hr.png" group-title="HRVATSKA", Kanal Ri (Rijeka TV) HR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/24163
+#EXTINF:-1 tvg-id="RTL Crime FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime FHD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8299
 
-#EXTINF:-1 tvg-id="Markiza HD ex-Yu" tvg-logo="https://static.epg.best/sk/Markiza.sk.png" group-title="HRVATSKA", Markiza HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/6850
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8001
 
-#EXTINF:-1 tvg-id="Osjecka TV ex-Yu" tvg-logo="https://static.epg.best/hr/OsjeckaTv.hr.png" group-title="HRVATSKA", Osjecka TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/21782
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living FHD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8301
 
-#EXTINF:-1 tvg-id="Planeta TV ex-Yu" tvg-logo="https://static.epg.best/si/PlanetTV.si.png" group-title="HRVATSKA", Planeta TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2338
+#EXTINF:-1 tvg-id="N1 HD (HR)" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="HRVATSKA", N1 HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9272
 
-#EXTINF:-1 tvg-id="SB TV ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/SB.TV_logo.png" group-title="HRVATSKA", SB TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/21784
+#EXTINF:-1 tvg-id="Nova HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9270
 
-#EXTINF:-1 tvg-id="Trend TV Karlovac ex-Yu" tvg-logo="https://etnojazz-karlovac.com/wp-content/uploads/2020/07/trendtv-1024x405.png" group-title="HRVATSKA", Trend TV Karlovac ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/21786
+#EXTINF:-1 tvg-id="Nova HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9278
 
-#EXTINF:-1 tvg-id="POSAVINA VIP ex-YU" tvg-logo="https://satsis.net/uploads/posts/2018-03/1522158382_www.satsis.info__posavina-tv.png" group-title="HRVATSKA", POSAVINA VIP ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78684
+#EXTINF:-1 tvg-id="Nova HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12090
 
-#EXTINF:-1 tvg-id="Vinkovacka TV ex-Yu" tvg-logo="https://static.epg.best/hr/VinkovackaTv.hr.png" group-title="HRVATSKA", Vinkovacka TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/21789
+#EXTINF:-1 tvg-id="Nova World" tvg-logo="http://nova-iptv.com/logo/Nova_World_2011.png" group-title="HRVATSKA", Nova World
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12617
 
-#EXTINF:-1 tvg-id="VTV Varazdin ex-Yu" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1485363863/oostdqijhsxnhdxykj9o.png" group-title="HRVATSKA", VTV Varazdin ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/21788
+#EXTINF:-1 tvg-id="Nova Cinema" tvg-logo="http://nova-iptv.com/logo/Nova_Cinema_logo.png" group-title="HRVATSKA", Nova Cinema
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12618
 
-#EXTINF:-1 tvg-id="Laudato TV ex-Yu" tvg-logo="https://static.epg.best/hr/LaudatoTV.hr.png" group-title="HRVATSKA", Laudato TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/21780
+#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://nova-iptv.com/logo/Nova_Family_logo.png" group-title="HRVATSKA", Nova Family
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12619
 
-#EXTINF:-1 tvg-id="Arena Premium 1 HR FHD ex-Yu" tvg-logo="noimage.png" group-title="HRVATSKA", Arena Premium 1 HR FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/126173
+#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9286
 
-#EXTINF:-1 tvg-id="Arena Premium 3 HR FHD ex-Yu" tvg-logo="noimage.png" group-title="HRVATSKA", Arena Premium 3 HR FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/126175
+#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9287
 
-#EXTINF:-1 tvg-id="Tatabrada TV FHD BH ex-YU" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Tatabrada TV FHD BH ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/116878
+#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD (Hevc)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12091
 
-#EXTINF:-1 tvg-id="Tatabrada TV HD BH ex-YU" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Tatabrada TV HD BH ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/116877
+#EXTINF:-1 tvg-id="z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="HRVATSKA", Z1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/499
 
-#EXTINF:-1 tvg-id="Al Jazeera Balkans ex-Yu" tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="BOSNA I HERCEGOVINA", Al Jazeera Balkans ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2331
+#EXTINF:-1 tvg-id="Laudato TV" tvg-logo="http://116.203.156.75/logo/laudato.png" group-title="HRVATSKA", Laudato TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/553
 
-#EXTINF:-1 tvg-id="Aljazeera Balkans BH FHD ex-Yu" tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="BOSNA I HERCEGOVINA", Aljazeera Balkans BH FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4568
+#EXTINF:-1 tvg-id="Mreza Zagreb" tvg-logo="noimage.png" group-title="HRVATSKA", Mreza Zagreb
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8041
 
-#EXTINF:-1 tvg-id="Televizija 5 BH ex-Yu" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/televizija-5.png" group-title="BOSNA I HERCEGOVINA", Televizija 5 BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4017
+#EXTINF:-1 tvg-id="RTV Banovina" tvg-logo="http://116.203.156.75/logo/banovina.png" group-title="HRVATSKA", Banovina TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/593
 
-#EXTINF:-1 tvg-id="BH TV BH ex-Yu" tvg-logo="https://static.epg.best/ba/BHT1.ba.png" group-title="BOSNA I HERCEGOVINA", BH TV BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4565
+#EXTINF:-1 tvg-id="Osjecka TV" tvg-logo="http://116.203.156.75/logo/osjecka.jpeg" group-title="HRVATSKA", Osjecka TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/554
 
-#EXTINF:-1 tvg-id="BHT1 ex-Yu" tvg-logo="https://static.epg.best/ba/BHT1.ba.png" group-title="BOSNA I HERCEGOVINA", BHT 1 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/192
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="http://116.203.156.75/logo/plava_vinkovacka.jpg" group-title="HRVATSKA", Vinkovacka TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5845
 
-#EXTINF:-1 tvg-id="OBN ex-Yu" tvg-logo="https://static.epg.best/ba/OBN.ba.png" group-title="BOSNA I HERCEGOVINA", OBN ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2333
+#EXTINF:-1 tvg-id="TV KARLOVAC" tvg-logo="noimage.png" group-title="HRVATSKA", TV KARLOVAC
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8856
 
-#EXTINF:-1 tvg-id="BN Sat ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BOSNA I HERCEGOVINA", BN Sat ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2342
+#EXTINF:-1 tvg-id="posavinatv" tvg-logo="http://116.203.156.75/logo/posavina.jpg" group-title="HRVATSKA", Posavina TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/397
 
-#EXTINF:-1 tvg-id="BN TV BH ex-Yu" tvg-logo="https://static.epg.best/ba/BN.ba.png" group-title="BOSNA I HERCEGOVINA", BN TV BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4564
+#EXTINF:-1 tvg-id="Slavonska Televizija" tvg-logo="http://116.203.156.75/logo/slavnonska.jpg" group-title="HRVATSKA", Slavonska Televizija
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/555
 
-#EXTINF:-1 tvg-id="RTRS ex-Yu" tvg-logo="https://static.epg.best/ba/RTRS.ba.png" group-title="BOSNA I HERCEGOVINA", RTRS ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/220
+#EXTINF:-1 tvg-id="Jabuka TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Jabukatvlogo.png" group-title="HRVATSKA", Jabuka TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6331
 
-#EXTINF:-1 tvg-id="FTV ex-Yu" tvg-logo="https://static.epg.best/ba/FTV.ba.png" group-title="BOSNA I HERCEGOVINA", FTV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4185
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/kanalr-logo.png" group-title="HRVATSKA", KanalR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6330
 
-#EXTINF:-1 tvg-id="Face TV BH ex-Yu" tvg-logo="https://static.epg.best/ba/FaceTV.ba.png" group-title="BOSNA I HERCEGOVINA", Face TV BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4015
+#EXTINF:-1 tvg-id="Libertas TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LibertasTV.png" group-title="HRVATSKA", Libertas TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6329
 
-#EXTINF:-1 tvg-id="Federalna ex-Yu" tvg-logo="https://static.epg.best/hr/FederalnaTv.hr.png" group-title="BOSNA I HERCEGOVINA", Federalna ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2344
+#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA", Poljoprivredna TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6328
 
-#EXTINF:-1 tvg-id="Islam Channel BH ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png" group-title="BOSNA I HERCEGOVINA", Islam Channel BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4570
+#EXTINF:-1 tvg-id="Srce TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/srcetv-logo.png" group-title="HRVATSKA", Srce TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6324
 
-#EXTINF:-1 tvg-id="MTV Igman ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/MTV_Igman_Logo.png" group-title="BOSNA I HERCEGOVINA", MTV Igman ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4186
+#EXTINF:-1 tvg-id="Dubrovacka Televizija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/dutv-logo.png" group-title="HRVATSKA", Dubrovacka Televizija
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6322
 
-#EXTINF:-1 tvg-id="TV Sarajevo BH ex-Yu" tvg-logo="https://static.epg.best/ba/TVSarajevo.ba.png" group-title="BOSNA I HERCEGOVINA", TV Sarajevo BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4018
+#EXTINF:-1 tvg-id="TV Istra" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TV-Istra_logo.png" group-title="HRVATSKA", TV Istra
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6321
 
-#EXTINF:-1 tvg-id="TV Sehara HD ex-Yu" tvg-logo="http://tugapt.com/picons/tvseharahdexyu.png" group-title="BOSNA I HERCEGOVINA", TV Sehara HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/188
+#EXTINF:-1 tvg-id="TV Jadran" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-jadran-logo.png" group-title="HRVATSKA", TV Jadran
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6320
 
-#EXTINF:-1 tvg-id="Bosna TV 1 ex-Yu" tvg-logo="https://static.epg.best/ba/OBN.ba.png" group-title="BOSNA I HERCEGOVINA", Bosna TV 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/193
+#EXTINF:-1 tvg-id="Capital TV" tvg-logo="noimage.png" group-title="HRVATSKA", Capital TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6502
 
-#EXTINF:-1 tvg-id="USK BH ex-Yu" tvg-logo="https://cdn.dribbble.com/users/721601/screenshots/6487249/rtvusk_2_-_green_shades_1x.png" group-title="BOSNA I HERCEGOVINA", USK BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4563
+#EXTINF:-1 tvg-id="ZDRAVA TV-7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdrava-televizija-logo.jpg" group-title="HRVATSKA", Zdrava TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8886
 
-#EXTINF:-1 tvg-id="RTV Slon ex-Yu" tvg-logo="http://tugapt.com/picons/rtvslonexyu.png" group-title="BOSNA I HERCEGOVINA", RTV Slon ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/222
+#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="noimage.png" group-title="HRVATSKA", Klape i Tambure
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10237
 
-#EXTINF:-1 tvg-id="N1 ex-Yu" tvg-logo="https://static.epg.best/hr/N1.hr.png" group-title="BOSNA I HERCEGOVINA", N1 Bosna ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2341
+#EXTINF:-1 tvg-id="b2305127f3e5eceffb591f82cf93c07d" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA", TV TREND KARLOVAC
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10246
 
-#EXTINF:-1 tvg-id="TV1 ex-Yu" tvg-logo="https://static.epg.best/ba/TV1.ba.png" group-title="BOSNA I HERCEGOVINA", TV 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2332
+#EXTINF:-1 tvg-id="MARY TV MEDJUGORJE" tvg-logo="noimage.png" group-title="HRVATSKA", MARY TV MEDJUGORJE
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10247
 
-#EXTINF:-1 tvg-id="Hayat TV ex-Yu" tvg-logo="https://static.epg.best/ba/Hayat.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat BIH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2337
+#EXTINF:-1 tvg-id="MARS TV" tvg-logo="noimage.png" group-title="HRVATSKA", MARS TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10248
 
-#EXTINF:-1 tvg-id="Hayat Folk ex-Yu" tvg-logo="https://static.epg.best/ba/HayatFolk.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat Folk ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/178
+#EXTINF:-1 tvg-id="cf00a93b9e783577a4926ad239a60a43" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA", OTV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10249
 
-#EXTINF:-1 tvg-id="Hayat Music ex-Yu" tvg-logo="https://static.epg.best/ba/HayatMusic.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat Music ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/198
+#EXTINF:-1 tvg-id="MAX SPORT 1 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_1_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12540
 
-#EXTINF:-1 tvg-id="Hayat Plus ex-Yu" tvg-logo="https://static.epg.best/ba/HayatPlus.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat Plus ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/179
+#EXTINF:-1 tvg-id="MAX SPORT 2 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_2_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12986
 
-#EXTINF:-1 tvg-id="Hayat ex-Yu" tvg-logo="https://static.epg.best/ba/Hayat.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/197
+#EXTINF:-1 tvg-id="MAX SPORT 3 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_3_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 3 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13490
 
-#EXTINF:-1 tvg-id="Pink BH ex-Yu" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="BOSNA I HERCEGOVINA", Nova BH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4037
+#EXTINF:-1 tvg-id="MAX SPORT 4 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_4_HR_logo.png" group-title="SPORTSKI", MAX SPORT 4 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13491
 
-#EXTINF:-1 tvg-id="Nova BIH ex-Yu" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="BOSNA I HERCEGOVINA", Nova BIH ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2305
+#EXTINF:-1 tvg-id="MAX SPORT 5 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_5_HR_logo.png" group-title="SPORTSKI", MAX SPORT 5 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13492
 
-#EXTINF:-1 tvg-id="Pink BH ex-YU" tvg-logo="https://static.epg.best/ba/PinkBH.ba.png" group-title="BOSNA I HERCEGOVINA", Pink BH ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78221
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12342
 
-#EXTINF:-1 tvg-id="ATV Banja Luka ex-YU" tvg-logo="https://static.epg.best/ba/ATV.ba.png" group-title="BOSNA I HERCEGOVINA", ATV Banja Luka ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/95062
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12343
 
-#EXTINF:-1 tvg-id="B1 TV GRADACAC ex-YU" tvg-logo="http://www.b1tv.ba/wp-content/uploads/2018/12/fav-257x300.png" group-title="BOSNA I HERCEGOVINA", B1 TV GRADACAC ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/95059
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12344
 
-#EXTINF:-1 tvg-id="RTV SLOBOMIR ex-YU" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="BOSNA I HERCEGOVINA", RTV SLOBOMIR ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/95058
+#EXTINF:-1 tvg-id="Arena Sport 4 Premium HD" tvg-logo="http://116.203.156.75/logo/arena4premium.png" group-title="SPORTSKI", Arena Sport 4 Premium HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13565
 
-#EXTINF:-1 tvg-id="RTV HERCEG ex-YU" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="BOSNA I HERCEGOVINA", RTV HERCEG ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/95057
+#EXTINF:-1 tvg-id="Arena Sport 5 Premium HD" tvg-logo="http://116.203.156.75/logo/arena5premium.png" group-title="SPORTSKI", Arena Sport 5 Premium HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13566
 
-#EXTINF:-1 tvg-id="Podrinje TV HD ex-YU" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Podrinje TV HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/95056
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12362
 
-#EXTINF:-1 tvg-id="O Kanal HD ex-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/o_kanal_widelogo.png" group-title="BOSNA I HERCEGOVINA", O Kanal HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/83213
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12363
 
-#EXTINF:-1 tvg-id="Hit TV Brcko VIP ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BOSNA I HERCEGOVINA", Hit TV Brcko VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12625
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12392
 
-#EXTINF:-1 tvg-id="Moj Kanal HD VIP ex-Yu" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Moj Kanal HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12626
+#EXTINF:-1 tvg-id="Arena1Premium BA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13011
 
-#EXTINF:-1 tvg-id="NTV 101 Prijedor VIP ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/NTV_101_BiH_Logo.png" group-title="BOSNA I HERCEGOVINA", NTV 101 Prijedor VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12627
+#EXTINF:-1 tvg-id="Arena2Premium BA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13012
 
-#EXTINF:-1 tvg-id="RTV 7 VIP ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RTV-7_Logo.svg/1200px-RTV-7_Logo.svg.png" group-title="BOSNA I HERCEGOVINA", RTV 7 VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12628
+#EXTINF:-1 tvg-id="Arena3Premium BA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13013
 
-#EXTINF:-1 tvg-id="TV Glas Drine VIP ex-Yu" tvg-logo="https://www.radio.net/images/broadcasts/24/58/4940/4/c175.png" group-title="BOSNA I HERCEGOVINA", TV Glas Drine VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12629
+#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12166
 
-#EXTINF:-1 tvg-id="TV Slon VIP ex-Yu" tvg-logo="https://televisor.top/uploads/posts/2019-06/1560621487_televizija-osm.jpg" group-title="BOSNA I HERCEGOVINA", TV Slon VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12630
+#EXTINF:-1 tvg-id="ArenaSport 2 BA" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13002
 
-#EXTINF:-1 tvg-id="Elta 1 VIP ex-Yu" tvg-logo="https://static.epg.best/ba/Elta1.ba.png" group-title="BOSNA I HERCEGOVINA", Elta 1 VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12624
+#EXTINF:-1 tvg-id="ArenaSport 3 BA" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13003
 
-#EXTINF:-1 tvg-id="TV Lukavac ex-YU" tvg-logo="https://television-live.com/uploads/posts/2019-06/1560663433_tv-lukavac.jpg" group-title="BOSNA I HERCEGOVINA", TV Lukavac ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/102565
+#EXTINF:-1 tvg-id="ArenaSport 4 BA" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13004
 
-#EXTINF:-1 tvg-id="A1 Face TV HD ex-Yu" tvg-logo="https://static.epg.best/ba/FaceTV.ba.png" group-title="BOSNA I HERCEGOVINA", A1 Face TV HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/6917
+#EXTINF:-1 tvg-id="ArenaSport 5 BA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13005
 
-#EXTINF:-1 tvg-id="RTRS Plus HD ex-Yu" tvg-logo="https://static.epg.best/ba/RTRSPlus.ba.png" group-title="BOSNA I HERCEGOVINA", RTRS Plus HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/72557
+#EXTINF:-1 tvg-id="ArenaSport 6 BA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="SPORTSKI", Arena Sport 6 BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13006
 
-#EXTINF:-1 tvg-id="X TOXIC FOLK HD ex-YU" tvg-logo="noimage.png" group-title="SRBIJA", X TOXIC FOLK HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/115100
+#EXTINF:-1 tvg-id="BN TV" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6776
 
-#EXTINF:-1 tvg-id="Sandzak TV ex-Yu" tvg-logo="http://sandzak.tv/wp-content/uploads/2016/10/logo_high_line-1.png" group-title="SRBIJA", Sandzak TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4187
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/490
 
-#EXTINF:-1 tvg-id="RTV Vojvodina 2 SRB ex-Yu" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Vojvodina 2 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/92742
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12051
 
-#EXTINF:-1 tvg-id="Nova S ex-Yu" tvg-logo="https://static.epg.best/rs/Nova.rs.png" group-title="SRBIJA", Nova S ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9038
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12050
 
-#EXTINF:-1 tvg-id="RTS 1 ex-Yu" tvg-logo="https://static.epg.best/rs/RTS1.rs.png" group-title="SRBIJA", RTS 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/187
+#EXTINF:-1 tvg-id="ArenaSport 4 SR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12049
 
-#EXTINF:-1 tvg-id="RTS 1 ex-Yu" tvg-logo="https://static.epg.best/rs/RTS1.rs.png" group-title="SRBIJA", RTS 1 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2346
+#EXTINF:-1 tvg-id="ArenaSport 5 SR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/491
 
-#EXTINF:-1 tvg-id="RTS 2 ex-Yu" tvg-logo="https://static.epg.best/rs/RTS2.rs.png" group-title="SRBIJA", RTS 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/186
+#EXTINF:-1 tvg-id="Arena Sport 6 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13068
 
-#EXTINF:-1 tvg-id="RTS 3 ex-Yu" tvg-logo="https://static.epg.best/rs/RTS3.rs.png" group-title="SRBIJA", RTS 3 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4024
+#EXTINF:-1 tvg-id="Arena Sport 7 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13069
 
-#EXTINF:-1 tvg-id="RTS SAT ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS1_logo.png" group-title="SRBIJA", RTS Satelit ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/221
+#EXTINF:-1 tvg-id="Arena Sport 8 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13070
 
-#EXTINF:-1 tvg-id="Prva 1 SRB ex-Yu" tvg-logo="https://static.epg.best/rs/Prva.rs.png" group-title="SRBIJA", Prva 1 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/212
+#EXTINF:-1 tvg-id="Arena Sport 9 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13071
 
-#EXTINF:-1 tvg-id="Nova RS SRB ex-Yu" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="SRBIJA", Nova RS SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/210
+#EXTINF:-1 tvg-id="Arena Sport 10 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13072
 
-#EXTINF:-1 tvg-id="RTV 1 ex-Yu" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9062
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/486
 
-#EXTINF:-1 tvg-id="MRTV 2 ex-Yu" tvg-logo="https://static.epg.best/mk/MRT2.mk.png" group-title="SRBIJA", MRTV 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9061
+#EXTINF:-1 tvg-id="Arena Sport 2 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/485
 
-#EXTINF:-1 tvg-id="TV Kraljevo ex-Yu" tvg-logo="http://rtvkraljevo.com/wp-content/uploads/2015/10/rtvkvlogotp.png" group-title="SRBIJA", TV Kraljevo ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9051
+#EXTINF:-1 tvg-id="Arena Sport 3 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12052
 
-#EXTINF:-1 tvg-id="B92 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B 92 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2345
+#EXTINF:-1 tvg-id="Arena Sport 4 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12053
 
-#EXTINF:-1 tvg-id="O2.TV ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png" group-title="SRBIJA", O2.TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9067
+#EXTINF:-1 tvg-id="Arena Sport 5 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/482
 
-#EXTINF:-1 tvg-id="Duga TV ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv_duga_plus.png" group-title="SRBIJA", Duga TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/3839
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/481
 
-#EXTINF:-1 tvg-id="TV ISTOK 1 ex-Yu" tvg-logo="https://cdn.shopify.com/s/files/1/0274/9612/0417/files/logo.png" group-title="SRBIJA", TV ISTOK 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9046
+#EXTINF:-1 tvg-id="Arena Sport 7 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12106
 
-#EXTINF:-1 tvg-id="TV ISTOK 2 ex-Yu" tvg-logo="http://tugapt.com/picons/tvistok2.png" group-title="SRBIJA", TV ISTOK 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13948
+#EXTINF:-1 tvg-id="Arena Sport 8 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12107
 
-#EXTINF:-1 tvg-id="RTV Vojvodina 1 SRB ex-Yu" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Vojvodina 1 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4019
+#EXTINF:-1 tvg-id="Arena Sport 9 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12108
 
-#EXTINF:-1 tvg-id="RTV Pazar ex-Yu" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Pazar ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9059
+#EXTINF:-1 tvg-id="Arena Sport 10 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12109
 
-#EXTINF:-1 tvg-id="RTV MLAVA ex-Yu" tvg-logo="https://pbs.twimg.com/profile_images/1828812683/mlava_400x400.jpg" group-title="SRBIJA", RTV MLAVA ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9043
+#EXTINF:-1 tvg-id="Arena Sport 1x2" tvg-logo="http://nova-iptv.com/logo/Arena_1x2_RS_logo.png" group-title="SPORTSKI", Arena Sport 1x2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12533
 
-#EXTINF:-1 tvg-id="TLC ex-Yu" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="SRBIJA", TLC SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/223
+#EXTINF:-1 tvg-id="Arena Esport" tvg-logo="http://nova-iptv.com/logo/arena_esport_logo.png" group-title="SPORTSKI", Arena Esport
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12555
 
-#EXTINF:-1 tvg-id="TV Hram ex-Yu" tvg-logo="https://serbianchurch.org/wp-content/uploads/2018/08/Banner-TV-Hram-2.jpeg" group-title="SRBIJA", TV Hram ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9047
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/495
 
-#EXTINF:-1 tvg-id="TV KLADOVO ex-Yu" tvg-logo="http://hotelkladovo.rs/images/TV%20Kladovo%20logo.png" group-title="SRBIJA", TV KLADOVO ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9044
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12045
 
-#EXTINF:-1 tvg-id="Prva Max ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/prva-max_logo.jpg" group-title="SRBIJA", Prva Max ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/181
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12046
 
-#EXTINF:-1 tvg-id="Prva Plus ex-Yu" tvg-logo="https://static.epg.best/rs/PrvaPlus.rs.png" group-title="SRBIJA", Prva Plus SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/213
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12047
 
-#EXTINF:-1 tvg-id="Novi Pazar SRB ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtv-novi-pazar-logo.png" group-title="SRBIJA", Novi Pazar SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4021
+#EXTINF:-1 tvg-id="Arena Fight HD" tvg-logo="http://116.203.156.75/logo/arena_fight.png" group-title="SPORTSKI", Arena Fight HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13402
 
-#EXTINF:-1 tvg-id="AXN ex-Yu" tvg-logo="https://static.epg.best/si/AXNAdria.si.png" group-title="SRBIJA", AXN SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4020
+#EXTINF:-1 tvg-id="Arena Adrenalin" tvg-logo="http://116.203.156.75/logo/adrenalin.png" group-title="SPORTSKI", Arena Adrenalin
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13567
 
-#EXTINF:-1 tvg-id="Prva World ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/prva_world_logo.png" group-title="SRBIJA", Prva World ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/182
+#EXTINF:-1 tvg-id="Arena Tenis" tvg-logo="http://116.203.156.75/logo/arena_tenis.png" group-title="SPORTSKI", Arena Tenis
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13568
 
-#EXTINF:-1 tvg-id="KCN 1 ex-Yu" tvg-logo="https://static.epg.best/rs/KCN1.rs.png" group-title="SRBIJA", KCN 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/205
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://nova-iptv.com/logo/SK_HD_RS_logo.png" group-title="SPORTSKI", Sport Klub HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9301
 
-#EXTINF:-1 tvg-id="KCN 2 ex-Yu" tvg-logo="https://static.epg.best/rs/KCN2.rs.png" group-title="SRBIJA", KCN 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/206
+#EXTINF:-1 tvg-id="sport-klub.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12037
 
-#EXTINF:-1 tvg-id="KCN 3 ex-Yu" tvg-logo="https://static.epg.best/rs/KCN3SvetPlus.rs.png" group-title="SRBIJA", KCN 3 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/207
+#EXTINF:-1 tvg-id="SK 2 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12038
 
-#EXTINF:-1 tvg-id="Palma Plus ex-Yu" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_palma_plus_rs.png" group-title="SRBIJA", Palma Plus ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9060
+#EXTINF:-1 tvg-id="SK 3 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12039
 
-#EXTINF:-1 tvg-id="Studio B ex-Yu" tvg-logo="https://static.epg.best/rs/StudioB.rs.png" group-title="SRBIJA", Studio B ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/5623
+#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12040
 
-#EXTINF:-1 tvg-id="Happy TV ex-Yu" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2326
+#EXTINF:-1 tvg-id="Sport Klub 5 SRB" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9293
 
-#EXTINF:-1 tvg-id="Parovi 1 Live ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Parovi_logo.jpg" group-title="SRBIJA", Parovi 1 Live ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9064
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12001
 
-#EXTINF:-1 tvg-id="Parovi 2 Live ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Parovi_logo.jpg" group-title="SRBIJA", Parovi 2 Live ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9063
+#EXTINF:-1 tvg-id="sportklub-hr.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12041
 
-#EXTINF:-1 tvg-id="Parovi Uzivo ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Parovi_logo.jpg" group-title="SRBIJA", Parovi Uzivo ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/180
+#EXTINF:-1 tvg-id="Sport Klub 2 HD HR" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12042
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SRBIJA", ========== Pink Kanali ==========
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12317
+#EXTINF:-1 tvg-id="Sport Klub 3 HD HR" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12043
 
-#EXTINF:-1 tvg-id="Pink 1 ex-Yu" tvg-logo="https://static.epg.best/rs/Pink1.rs.png" group-title="SRBIJA", Pink 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2311
+#EXTINF:-1 tvg-id="Sport Klub 4 HR" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12044
 
-#EXTINF:-1 tvg-id="Pink 2 ex-Yu" tvg-logo="https://static.epg.best/rs/Pink2.rs.png" group-title="SRBIJA", Pink 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2308
+#EXTINF:-1 tvg-id="sk5" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9299
 
-#EXTINF:-1 tvg-id="Pink 3 INFO ex-Yu" tvg-logo="https://static.epg.best/rs/Pink3.rs.png" group-title="SRBIJA", Pink 3 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2307
+#EXTINF:-1 tvg-id="Sport Klub 6 HR" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 HR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9300
 
-#EXTINF:-1 tvg-id="Pink Action ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink-action-logo.png" group-title="SRBIJA", Pink Action SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4033
+#EXTINF:-1 tvg-id="SK 7 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 7
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12239
 
-#EXTINF:-1 tvg-id="Pink Action ex-Yu" tvg-logo="https://static.epg.best/rs/PinkAction.rs.png" group-title="SRBIJA", Pink Action ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2306
+#EXTINF:-1 tvg-id="SK 8 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 8
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12236
 
-#EXTINF:-1 tvg-id="RED TV ex-Yu" tvg-logo="https://logodix.com/logo/76398.png" group-title="SRBIJA", RED TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/94111
+#EXTINF:-1 tvg-id="SK 9 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 9
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12237
 
-#EXTINF:-1 tvg-id="Pink Classic ex-Yu" tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="SRBIJA", Pink Classic SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4031
+#EXTINF:-1 tvg-id="SK 10 (SR)" tvg-logo="http://nova-iptv.com/logo/SK10_RS_logo.png" group-title="SPORTSKI", Sport Klub 10
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12238
 
-#EXTINF:-1 tvg-id="Pink Comedy ex-Yu" tvg-logo="https://static.epg.best/rs/PinkComedy.rs.png" group-title="SRBIJA", Pink Comedy ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2302
+#EXTINF:-1 tvg-id="Sport Klub 4K" tvg-logo="http://nova-iptv.com/logo/sk-4k.png" group-title="SPORTSKI", Sport Klub 4K
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12569
 
-#EXTINF:-1 tvg-id="Pink Crime and Mystery ex-Yu" tvg-logo="https://static.epg.best/rs/PinkCrimeAndMystery.rs.png" group-title="SRBIJA", Pink Crime &amp; Mystery ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2285
+#EXTINF:-1 tvg-id="SK Golf" tvg-logo="http://nova-iptv.com/logo/SK_Golf_HR_logo.png" group-title="SPORTSKI", Sport Klub Golf
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9303
 
-#EXTINF:-1 tvg-id="Pink Extra ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/PinkExtra.png" group-title="SRBIJA", Pink Extra ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2286
+#EXTINF:-1 tvg-id="SK Esports" tvg-logo="http://nova-iptv.com/logo/SK_esports_RS_logo.png" group-title="SPORTSKI", Sport Klub Esport
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9302
 
-#EXTINF:-1 tvg-id="Pink Family ex-Yu" tvg-logo="https://static.epg.best/rs/PinkFamily.rs.png" group-title="SRBIJA", Pink Family ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9029
+#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Klub Fight
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12770
 
-#EXTINF:-1 tvg-id="Pink Film ex-Yu" tvg-logo="https://static.epg.best/rs/PinkFilm.rs.png" group-title="SRBIJA", Pink Film ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2310
+#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="http://nova-iptv.com/logo/nova_sport.png" group-title="SPORTSKI", Nova Sport HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9288
 
-#EXTINF:-1 tvg-id="Pink Folk 1 ex-Yu" tvg-logo="https://static.epg.best/rs/PinkThriller.rs.png" group-title="SRBIJA", Pink Folk 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2299
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="http://nova-iptv.com/logo/eurosport.png" group-title="SPORTSKI", EUROSPORT 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6540
 
-#EXTINF:-1 tvg-id="Pink Folk 2 ex-Yu" tvg-logo="https://static.epg.best/rs/PinkZabava.rs.png" group-title="SRBIJA", Pink Folk 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2297
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="http://nova-iptv.com/logo/eurosport-2.png" group-title="SPORTSKI", EUROSPORT 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/467
 
-#EXTINF:-1 tvg-id="Pink HAHA SRB ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HaHa.png" group-title="SRBIJA", Pink HAHA SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4038
+#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="http://116.203.156.75/logo/hajduktv.png" group-title="SPORTSKI", Hajduk TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13559
 
-#EXTINF:-1 tvg-id="Pink Hits 1 SRB ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkHits_logo.png" group-title="SRBIJA", Pink Hits 1 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4035
+#EXTINF:-1 tvg-id="Kuvo TV HD" tvg-logo="http://nova-iptv.com/kuvo.png" group-title="SPORTSKI", Kuvo TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12514
 
-#EXTINF:-1 tvg-id="Pink Horror ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pinkHorror.png" group-title="SRBIJA", Pink Horror ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2287
+#EXTINF:-1 tvg-id="GP 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/GP1-logo.png" group-title="SPORTSKI", GP 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12589
 
-#EXTINF:-1 tvg-id="Pink Kids ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink-kids-logo.png" group-title="SRBIJA", Pink Kids ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2288
+#EXTINF:-1 tvg-id="Fight Box HD" tvg-logo="noimage.png" group-title="SPORTSKI", Fight Box HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5509
 
-#EXTINF:-1 tvg-id="Pink Kuvar ex-Yu" tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="SRBIJA", Pink Kuvar SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4032
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="noimage.png" group-title="SPORTSKI", Extreme Sports
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10478
 
-#EXTINF:-1 tvg-id="Pink LOL SRB ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/LOL.png" group-title="SRBIJA", Pink LOL SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4039
+#EXTINF:-1 tvg-id="SOS" tvg-logo="noimage.png" group-title="SPORTSKI", SOS
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/438
 
-#EXTINF:-1 tvg-id="Pink Movies ex-Yu" tvg-logo="https://static.epg.best/rs/PinkMovies.rs.png" group-title="SRBIJA", Pink Movies ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2304
+#EXTINF:-1 tvg-id="Partizan TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Partizan TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5508
 
-#EXTINF:-1 tvg-id="Pink Music 2 SRB ex-Yu" tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="SRBIJA", Pink Music 2 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4034
+#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="SPORTSKI", Zvezda TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8302
 
-#EXTINF:-1 tvg-id="Pink Music ex-Yu" tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="SRBIJA", Pink Music ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2301
+#EXTINF:-1 tvg-id="Sportska TV" tvg-logo="noimage.png" group-title="SPORTSKI", Sportska TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/439
 
-#EXTINF:-1 tvg-id="Pink Pedia ex-Yu" tvg-logo="https://static.epg.best/rs/PinkPedia.rs.png" group-title="SRBIJA", Pink Pedia ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2290
+#EXTINF:-1 tvg-id="Moja TV Premier Liga BiH" tvg-logo="noimage.png" group-title="SPORTSKI", Moja TV Premier Liga BiH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/480
 
-#EXTINF:-1 tvg-id="Pink Plus ex-Yu" tvg-logo="https://static.epg.best/hr/PinkPlus.hr.png" group-title="SRBIJA", Pink Plus ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2291
+#EXTINF:-1 tvg-id="HNTV" tvg-logo="noimage.png" group-title="SPORTSKI", HNTV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/464
 
-#EXTINF:-1 tvg-id="Pink Premium ex-Yu" tvg-logo="https://static.epg.best/rs/PinkPremium.rs.png" group-title="SRBIJA", Pink Premium ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2309
+#EXTINF:-1 tvg-id="Kreator TV" tvg-logo="noimage.png" group-title="SPORTSKI", Kreator TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/463
 
-#EXTINF:-1 tvg-id="Pink Reality ex-Yu" tvg-logo="https://static.epg.best/rs/PinkReality.rs.png" group-title="SRBIJA", Pink Reality ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2292
+#EXTINF:-1 tvg-id="loviribolov" tvg-logo="noimage.png" group-title="SPORTSKI", Lov i Ribolov
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9304
 
-#EXTINF:-1 tvg-id="Pink Romance ex-Yu" tvg-logo="https://static.epg.best/rs/PinkRomance.rs.png" group-title="SRBIJA", Pink Romance ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2293
+#EXTINF:-1 tvg-id="Sky Sport 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 1 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12055
 
-#EXTINF:-1 tvg-id="Pink SciFi and Fantasy ex-Yu" tvg-logo="https://static.epg.best/rs/PinkScifiAndFantasy.rs.png" group-title="SRBIJA", Pink Sci Fi & Fantasy ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2303
+#EXTINF:-1 tvg-id="Sky Sport 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 2 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12056
 
-#EXTINF:-1 tvg-id="Pink Serije ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Serije_logo.png" group-title="SRBIJA", Pink Serije SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4036
+#EXTINF:-1 tvg-id="Sky Sport 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 3 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12057
 
-#EXTINF:-1 tvg-id="Pink Show ex-Yu" tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="SRBIJA", Pink Show SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4030
+#EXTINF:-1 tvg-id="Sky Sport 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 4 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12058
 
-#EXTINF:-1 tvg-id="Pink Soap ex-Yu" tvg-logo="https://static.epg.best/rs/PinkSoap.rs.png" group-title="SRBIJA", Pink Soap ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2294
+#EXTINF:-1 tvg-id="Sky Sport 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 5 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12059
 
-#EXTINF:-1 tvg-id="Pink Style ex-Yu" tvg-logo="https://static.epg.best/rs/PinkStyle.rs.png" group-title="SRBIJA", Pink Style ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9028
+#EXTINF:-1 tvg-id="Sky Sport 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 6 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12060
 
-#EXTINF:-1 tvg-id="Pink Thriller ex-Yu" tvg-logo="https://static.epg.best/rs/PinkThriller.rs.png" group-title="SRBIJA", Pink Thriler ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2295
+#EXTINF:-1 tvg-id="Sky Sport 7 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 7 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12061
 
-#EXTINF:-1 tvg-id="Pink Western ex-Yu" tvg-logo="https://static.epg.best/rs/PinkWestern.rs.png" group-title="SRBIJA", Pink Western ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2300
+#EXTINF:-1 tvg-id="Sky Sport 8 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 8 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12062
 
-#EXTINF:-1 tvg-id="Pink World Cinema ex-Yu" tvg-logo="https://static.epg.best/rs/PinkWorldCinema.rs.png" group-title="SRBIJA", Pink World Cinema ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9027
+#EXTINF:-1 tvg-id="Sky Sport 9 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 9 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12063
 
-#EXTINF:-1 tvg-id="Pink World Cinema ex-Yu" tvg-logo="https://static.epg.best/rs/PinkWorldCinema.rs.png" group-title="SRBIJA", Pink World ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2296
+#EXTINF:-1 tvg-id="Sky Sport 10 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 10 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12064
 
-#EXTINF:-1 tvg-id="Pink Zabava ex-Yu" tvg-logo="https://static.epg.best/rs/PinkZabava.rs.png" group-title="SRBIJA", Pink Zabava ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2298
+#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 1 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12065
 
-#EXTINF:-1 tvg-id="Scifi ex-Yu" tvg-logo="https://static.epg.best/hr/SciFi.hr.png" group-title="SRBIJA", SciFi SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4023
+#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 2 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12066
 
-#EXTINF:-1 tvg-id="Zadruga Live 1 ex-Yu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Zadruga_Live_1.png" group-title="SRBIJA", Zadruga Live 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78191
+#EXTINF:-1 tvg-id="Sky Bundesliga 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 3 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12067
 
-#EXTINF:-1 tvg-id="Zadruga Live 2 ex-Yu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Zadruga_Live_2.png" group-title="SRBIJA", Zadruga Live 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78192
+#EXTINF:-1 tvg-id="Sky Bundesliga 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 4 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12068
 
-#EXTINF:-1 tvg-id="Zadruga Live 3 ex-Yu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Zadruga_Live_3.png" group-title="SRBIJA", Zadruga Live 3 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78193
+#EXTINF:-1 tvg-id="Sky Bundesliga 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 5 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12069
 
-#EXTINF:-1 tvg-id="Zadruga Live 4 ex-Yu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zadruga_Live_4.png" group-title="SRBIJA", Zadruga Live 4 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78194
+#EXTINF:-1 tvg-id="Sky Bundesliga 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 6 HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12070
 
-#EXTINF:-1 tvg-id="Belle Amie TV ex-YU" tvg-logo="https://static.epg.best/rs/BelleAmie.rs.png" group-title="SRBIJA", Belle Amie TV ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78222
+#EXTINF:-1 tvg-id="SKY Sport News HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", SKY Sport News HD (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12054
 
-#EXTINF:-1 tvg-id="RTS Drama ex-YU" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-drama-rs.png" group-title="SRBIJA", RTS Drama ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79204
+#EXTINF:-1 tvg-id="Sky Sport Premier DE" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Premier DE
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13027
 
-#EXTINF:-1 tvg-id="PRVA KICK ex-YU" tvg-logo="https://www.donasport.com/slike/prva-kick-tv-srbija.jpg" group-title="SRBIJA", PRVA KICK ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/80953
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austria 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12075
 
-#EXTINF:-1 tvg-id="RTS Svet FHD ex-YU" tvg-logo="https://static.epg.best/hr/RTSSvet.hr.png" group-title="SRBIJA", RTS Svet FHD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/82746
+#EXTINF:-1 tvg-id="Sky Sport Austira 6" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austira 6
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13032
 
-#EXTINF:-1 tvg-id="Happy Parovi TV 1 VIP ex-Yu" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy Parovi TV 1 VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10894
+#EXTINF:-1 tvg-id="Sky Sport F1 (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (DE)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12078
 
-#EXTINF:-1 tvg-id="Happy Parovi TV 2 VIP ex-Yu" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy Parovi TV 2 VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10893
+#EXTINF:-1 tvg-id="Sky Sport F1 (ENG)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (ENG)
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12251
 
-#EXTINF:-1 tvg-id="N1 SRB FHD VIP ex-Yu" tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="SRBIJA", N1 SRB FHD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13956
+#EXTINF:-1 tvg-id="Sky Sport Tenis" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Tenis
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13052
 
-#EXTINF:-1 tvg-id="O2 TV VIP ex-Yu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png" group-title="SRBIJA", O2 TV VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10902
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Golf
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13053
 
-#EXTINF:-1 tvg-id="Happy TV ex-Yu" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy TV HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/17985
+#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12071
 
-#EXTINF:-1 tvg-id="Kurir TV MK" tvg-logo="noimage.png" group-title="SRBIJA", Kurir TV MK
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/96411
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12072
 
-#EXTINF:-1 tvg-id="Arena Premium 1 SR FHD ex-Yu" tvg-logo="https://static.epg.best/rs/ArenaPremium1.rs.png" group-title="SRBIJA", Arena Premium 1 SR FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/103221
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 3 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12073
 
-#EXTINF:-1 tvg-id="Arena Premium 2 SR FHD ex-Yu" tvg-logo="https://static.epg.best/rs/ArenaPremium2.rs.png" group-title="SRBIJA", Arena Premium 2 SR FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/103222
+#EXTINF:-1 tvg-id="SPORT TV 1 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 1 HD SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12074
 
-#EXTINF:-1 tvg-id="Arena Premium 3 SR FHD ex-Yu" tvg-logo="https://static.epg.best/rs/ArenaPremium3.rs.png" group-title="SRBIJA", Arena Premium 3 SR FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/103223
+#EXTINF:-1 tvg-id="SPORT TV 2 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 2 HD SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/214
 
-#EXTINF:-1 tvg-id="########## Slovenia ##########" tvg-logo="noimage.png" group-title="SLOVENIA", ########## Slovenia ##########
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10228
+#EXTINF:-1 tvg-id="SPORT TV 3 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 3 HD SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/213
 
-#EXTINF:-1 tvg-id="BRIO SI" tvg-logo="http://tugapt.com/picons/briohd.png" group-title="SLOVENIA", BRIO HD SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/14230
+#EXTINF:-1 tvg-id="ELEVEN SP 1 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 1 FHD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5764
 
-#EXTINF:-1 tvg-id="Discovery Channel SI" tvg-logo="http://tugapt.com/picons/discoverychannel.png" group-title="SLOVENIA", Discovery Channel SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/14231
+#EXTINF:-1 tvg-id="ELEVEN SP 2 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 2 FHD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5765
 
-#EXTINF:-1 tvg-id="Gold TV HD SI" tvg-logo="http://tugapt.com/picons/goldtv.png" group-title="SLOVENIA", Gold TV HD SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13987
+#EXTINF:-1 tvg-id="ELEVEN SP 3 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 3 FHD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5766
 
-#EXTINF:-1 tvg-id="HBO SI" tvg-logo="http://tugapt.com/picons/hbo.png" group-title="SLOVENIA", HBO SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/14229
+#EXTINF:-1 tvg-id="EUROSPORT 1 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 1 DE
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6296
 
-#EXTINF:-1 tvg-id="HBO 2 SI" tvg-logo="http://tugapt.com/picons/hbo2.png" group-title="SLOVENIA", HBO 2 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/8934
+#EXTINF:-1 tvg-id="EUROSPORT 2 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 2 DE
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6297
 
-#EXTINF:-1 tvg-id="HBO 3 SI" tvg-logo="http://tugapt.com/picons/hbo3.png" group-title="SLOVENIA", HBO 3 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/8935
+#EXTINF:-1 tvg-id="Bayern TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Bayern TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6103
 
-#EXTINF:-1 tvg-id="Kanal A SI" tvg-logo="http://tugapt.com/picons/kanala.png" group-title="SLOVENIA", Kanal A SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13985
+#EXTINF:-1 tvg-id="Sport Digital HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Digital HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/461
 
-#EXTINF:-1 tvg-id="Kino SI" tvg-logo="http://tugapt.com/picons/kino.png" group-title="SLOVENIA", Kino SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13984
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-logo="noimage.png" group-title="SPORTSKI", Motorvision HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/327
 
-#EXTINF:-1 tvg-id="NET TV SI" tvg-logo="http://tugapt.com/picons/nettvsi.png" group-title="SLOVENIA", Net TV SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/14002
+#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-logo="noimage.png" group-title="SPORTSKI", Auto Motor Sport
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/340
 
-#EXTINF:-1 tvg-id="Nova24TV SI" tvg-logo="http://tugapt.com/picons/nova24tv.png" group-title="SLOVENIA", Nova24TV SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13998
+#EXTINF:-1 tvg-id="Sport1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/440
 
-#EXTINF:-1 tvg-id="POP TV SI" tvg-logo="http://tugapt.com/picons/poptv.png" group-title="SLOVENIA", POP TV SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13999
+#EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/471
 
-#EXTINF:-1 tvg-id="Planet TV SI" tvg-logo="http://tugapt.com/picons/planettv.png" group-title="SLOVENIA", Planet TV SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13986
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/470
 
-#EXTINF:-1 tvg-id="SLO1 SI" tvg-logo="http://tugapt.com/picons/slo1.png" group-title="SLOVENIA", SLO 1 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13981
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9255
 
-#EXTINF:-1 tvg-id="SLO2 SI" tvg-logo="http://tugapt.com/picons/slo2.png" group-title="SLOVENIA", SLO 2 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13982
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9256
 
-#EXTINF:-1 tvg-id="SLO3 SI" tvg-logo="http://tugapt.com/picons/slo3.png" group-title="SLOVENIA", SLO 3 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13983
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 3
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9257
 
-#EXTINF:-1 tvg-id="Sport Klub 1 SI" tvg-logo="http://tugapt.com/picons/sportklub1.png" group-title="SLOVENIA", Sport Klub 1 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13991
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 4
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9258
 
-#EXTINF:-1 tvg-id="Sport Klub 2 SI" tvg-logo="http://tugapt.com/picons/sportklub2.png" group-title="SLOVENIA", Sport Klub 2 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13992
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 5
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9259
 
-#EXTINF:-1 tvg-id="Sport Klub 3 SI" tvg-logo="http://tugapt.com/picons/sportklub3.png" group-title="SLOVENIA", Sport Klub 3 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13993
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 6
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9260
 
-#EXTINF:-1 tvg-id="Sport Klub 4 SI" tvg-logo="http://tugapt.com/picons/sportklub4.png" group-title="SLOVENIA", Sport Klub 4 SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13994
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 7
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9261
 
-#EXTINF:-1 tvg-id="Sport Klub Golf SI" tvg-logo="http://tugapt.com/picons/sportklubgolf.png" group-title="SLOVENIA", Sport Klub Golf FHD SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13995
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 8
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9262
 
-#EXTINF:-1 tvg-id="TV Koper SI" tvg-logo="http://tugapt.com/picons/kopertv.png" group-title="SLOVENIA", TV Koper SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13997
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 9
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9263
 
-#EXTINF:-1 tvg-id="VOYO SI" tvg-logo="http://tugapt.com/picons/voyo.png" group-title="SLOVENIA", VOYO SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/14000
+#EXTINF:-1 tvg-id="Bein Sports 10" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 10
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9264
 
-#EXTINF:-1 tvg-id="VTV SI" tvg-logo="http://tugapt.com/picons/vtv.png" group-title="SLOVENIA", VTV SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/14012
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="http://116.203.156.75/logo/minimax.png" group-title="DJECIJI", MINIMAX
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/384
 
-#EXTINF:-1 tvg-id="Sport TV 1 SI" tvg-logo="http://tugapt.com/picons/sporttv1si.png" group-title="SLOVENIA", Šport TV 1 HD SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13988
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/382
 
-#EXTINF:-1 tvg-id="Sport TV 2 SI" tvg-logo="http://tugapt.com/picons/sporttv2si.png" group-title="SLOVENIA", Šport TV 2 HD SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13989
+#EXTINF:-1 tvg-id="Nickelodeon." tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6864
 
-#EXTINF:-1 tvg-id="Sport TV 3 SI" tvg-logo="http://tugapt.com/picons/sporttv3si.png" group-title="SLOVENIA", Šport TV 3 HD SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13990
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://116.203.156.75/logo/nickjr.png" group-title="DJECIJI", Nick Jr.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/383
 
-#EXTINF:-1 tvg-id="TV MARIBOR SI" tvg-logo="noimage.png" group-title="SLOVENIA", TV MARIBOR SI
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79737
+#EXTINF:-1 tvg-id="Nicktoons (HR)" tvg-logo="http://nova-iptv.com/logo/nicktoons.png" group-title="DJECIJI", Nicktoons
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8861
 
-#EXTINF:-1 tvg-id="Max Sport 2 HD HR" tvg-logo="noimage.png" group-title="SPORT", Max Sport 2 HD HR
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/108389
+#EXTINF:-1 tvg-id="Disney" tvg-logo="http://nova-iptv.com/logo/disney_channel_2019.png" group-title="DJECIJI", Disney
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12559
 
-#EXTINF:-1 tvg-id="Max Sport 1 HD HR" tvg-logo="noimage.png" group-title="SPORT", Max Sport 1 HD HR
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/108388
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://nova-iptv.com/logo/disney-junior-logo.png" group-title="DJECIJI", Disney Junior
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12560
 
-#EXTINF:-1 tvg-id="Lov i ribolov ex-Yu" tvg-logo="https://static.epg.best/rs/LoviRibolov.rs.png" group-title="SPORT", Lov i Ribolov ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2334
+#EXTINF:-1 tvg-id="Jim Jam" tvg-logo="http://nova-iptv.com/logo/JimJam-_logo_new3.png" group-title="DJECIJI", Jim Jam
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12561
 
-#EXTINF:-1 tvg-id="Eurosport 1 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="SPORT", EuroSport 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/594
+#EXTINF:-1 tvg-id="minitv" tvg-logo="http://nova-iptv.com/logo/minitv.png" group-title="DJECIJI", Mini TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9282
 
-#EXTINF:-1 tvg-id="Eurosport 2 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="SPORT", EuroSport 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/593
+#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="http://nova-iptv.com/logo/tnt-kids_logo.png" group-title="DJECIJI", TNT Kids
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12389
 
-#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="SPORT", Arena Sport 1 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2284
+#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://nova-iptv.com/logo/pikaboo_logo.png" group-title="DJECIJI", Pikaboo
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9285
 
-#EXTINF:-1 tvg-id="Arena Sport 2 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="SPORT", Arena Sport 2 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2283
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://nova-iptv.com/logo/rtl-kockica-logo.png" group-title="DJECIJI", RTL KOCKICA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7520
 
-#EXTINF:-1 tvg-id="Arena Sport 3 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="SPORT", Arena Sport 3 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2282
+#EXTINF:-1 tvg-id="Hayatovci" tvg-logo="http://116.203.156.75/logo/hayatovci-logo.png" group-title="DJECIJI", Hayatovci
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/562
 
-#EXTINF:-1 tvg-id="Arena Sport 4 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="SPORT", Arena Sport 4 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2281
+#EXTINF:-1 tvg-id="Pink super kids" tvg-logo="http://nova-iptv.com/logo/PinkSuperKids_logo.png" group-title="DJECIJI", Pink Super Kids
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8048
 
-#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="SPORT", Arena Sport 5 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2280
+#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="http://nova-iptv.com/logo/kazbuka.png" group-title="DJECIJI", Kazbuka
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12550
 
-#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="SPORT", Arena Sport 1 HR HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/589
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://116.203.156.75/logo/Babytv.png" group-title="DJECIJI", Baby TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/388
 
-#EXTINF:-1 tvg-id="Arena Sport 2 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="SPORT", Arena Sport 2 HR HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/588
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://116.203.156.75/logo/Cartoon_Network_Logo.jpg" group-title="DJECIJI", Cartoon Network
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/389
 
-#EXTINF:-1 tvg-id="Arena Sport 3 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="SPORT", Arena Sport 3 HR HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/587
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://116.203.156.75/logo/Boomerang_Logo_2014.png" group-title="DJECIJI", Cartoonito
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/387
 
-#EXTINF:-1 tvg-id="Arena Sport 4 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="SPORT", Arena Sport 4 HR HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/586
+#EXTINF:-1 tvg-id="VAVOOM" tvg-logo="http://nova-iptv.com/logo/vavoom.png" group-title="DJECIJI", VAVOOM
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10255
 
-#EXTINF:-1 tvg-id="Arena Sport 5 ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="SPORT", Arena Sport 5 HR HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/585
+#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Duck_TV_Plus_PL_logo.png" group-title="DJECIJI", DUCK TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10256
 
-#EXTINF:-1 tvg-id="Arena Sport 6 HR ex-Yu" tvg-logo="https://static.epg.best/hr/ArenaSport6.hr.png" group-title="SPORT", Arena Sport 6 HR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/80963
+#EXTINF:-1 tvg-id="Nova Kids" tvg-logo="noimage.png" group-title="DJECIJI", Nova Kids
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12085
 
-#EXTINF:-1 tvg-id="Arena Sport 5 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORT", ARENA SPORT 7 (HR) FHD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/101751
+#EXTINF:-1 tvg-id="GORA KIDS HD" tvg-logo="noimage.png" group-title="DJECIJI", GORA KIDS HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10259
 
-#EXTINF:-1 tvg-id="ARENA SPORT 8 HR FHD ex-YU" tvg-logo="https://static.epg.best/rs/Arenasport8.rs.png" group-title="SPORT", ARENA SPORT 8 HR FHD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/101752
+#EXTINF:-1 tvg-id="Ginx TV" tvg-logo="noimage.png" group-title="DJECIJI", Ginx TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10268
 
-#EXTINF:-1 tvg-id="ARENA SPORT 9 HR FHD ex-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORT", ARENA SPORT 9 HR FHD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/101753
+#EXTINF:-1 tvg-id="Pink Panter TV" tvg-logo="noimage.png" group-title="DJECIJI", Pink Panter TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8232
 
-#EXTINF:-1 tvg-id="ARENA SPORT 10 HR FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORT", ARENA SPORT 10 HR FHD
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/101754
+#EXTINF:-1 tvg-id="Grizzy & the Lemmings" tvg-logo="noimage.png" group-title="DJECIJI", Grizzy & the Lemmings
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8233
 
-#EXTINF:-1 tvg-id="Arena Sport 1x2 HD ex-YU" tvg-logo="noimage.png" group-title="SPORT", Arena Sport 1x2 HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127975
+#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="noimage.png" group-title="DJECIJI", Tom and Jerry
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8046
 
-#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium HD ex-YU" tvg-logo="noimage.png" group-title="SPORT", Arena Sport 1 SR Premium HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127974
+#EXTINF:-1 tvg-id="PEPA PRASE" tvg-logo="noimage.png" group-title="DJECIJI", PEPA PRASE
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10029
 
-#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium ex-YU" tvg-logo="noimage.png" group-title="SPORT", Arena Sport 1 SR Premium ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127973
+#EXTINF:-1 tvg-id="MASA I MEDVJED" tvg-logo="noimage.png" group-title="DJECIJI", MASA I MEDVJED
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5671
 
-#EXTINF:-1 tvg-id="Arena Sport 2 SR Premium HD ex-YU" tvg-logo="noimage.png" group-title="SPORT", Arena Sport 2 SR Premium HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127972
+#EXTINF:-1 tvg-id="NOVA DOKU" tvg-logo="noimage.png" group-title="DOKUMENTARNI", NOVA DOKU
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10319
 
-#EXTINF:-1 tvg-id="Arena Sport 3 SR Premium HD ex-YU" tvg-logo="noimage.png" group-title="SPORT", Arena Sport 3 SR Premium HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127971
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/49.png" group-title="DOKUMENTARNI", National Geographic
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6303
 
-#EXTINF:-1 tvg-id="Arena Fight FHD ex-YU" tvg-logo="noimage.png" group-title="SPORT", Arena Fight FHD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/110122
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/national_geographic_logo.png" group-title="DOKUMENTARNI", National Geographic HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/546
 
-#EXTINF:-1 tvg-id="Sport Klub 1 SRB ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORT", Sport Klub 1 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/592
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/598
 
-#EXTINF:-1 tvg-id="SportKlub 1 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORT", Sport Klub HD 1 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2279
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8848
 
-#EXTINF:-1 tvg-id="Sport Klub 2 SRB ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORT", Sport Klub 2 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/591
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/183.png" group-title="DOKUMENTARNI", Nat Geo Wild
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/547
 
-#EXTINF:-1 tvg-id="SportKlub 2 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORT", Sport Klub HD 2 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2278
+#EXTINF:-1 tvg-id="discovery-europe.doc" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/47.png" group-title="DOKUMENTARNI", Discovery Channel
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/583
 
-#EXTINF:-1 tvg-id="Sport Klub 3 SRB ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORT", Sport Klub 3 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/590
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation-discovery-logo.png" group-title="DOKUMENTARNI", Discovery ID
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7275
 
-#EXTINF:-1 tvg-id="SportKlub 3 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORT", Sport Klub HD 3 Srb ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2277
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/70.png" group-title="DOKUMENTARNI", Discovery TLC
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12942
 
-#EXTINF:-1 tvg-id="SportKlub 4 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_4.png" group-title="SPORT", Sport Klub 4 SR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/1173
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://116.203.156.75/logo/Entertainment.jpg" group-title="DOKUMENTARNI", Entertaimment +
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3664
 
-#EXTINF:-1 tvg-id="SportKlub 5 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_5.png" group-title="SPORT", Sport Klub 5 SR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/1172
+#EXTINF:-1 tvg-id="Crime & Investigation" tvg-logo="http://116.203.156.75/logo/crimeinvest.jpg" group-title="DOKUMENTARNI", Crime & Investigation
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/585
 
-#EXTINF:-1 tvg-id="SportKlub 6 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_6.png" group-title="SPORT", Sport Klub 6 SR ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/1171
+#EXTINF:-1 tvg-id="davinci" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/90.png" group-title="DOKUMENTARNI", Da Vinci Learning
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/584
 
-#EXTINF:-1 tvg-id="Nova Sport HD SRB ex-YU" tvg-logo="https://static.epg.best/rs/Nova.rs.png" group-title="SPORT", Nova Sport HD SRB ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79722
+#EXTINF:-1 tvg-id="Viasat Explore HD" tvg-logo="http://116.203.156.75/logo/9.png" group-title="DOKUMENTARNI", Viasat Explore HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/503
 
-#EXTINF:-1 tvg-id="Arena Sport 1 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport1.rs.png" group-title="SPORT", Arena Sport 1 Srb FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79821
+#EXTINF:-1 tvg-id="Viasat History HD" tvg-logo="http://116.203.156.75/logo/6.png" group-title="DOKUMENTARNI", Viasat History HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/502
 
-#EXTINF:-1 tvg-id="Arena Sport 2 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport2.rs.png" group-title="SPORT", Arena Sport 2 Srb FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79822
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="http://116.203.156.75/logo/naturelogo.png" group-title="DOKUMENTARNI", Viasat Nature
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/501
 
-#EXTINF:-1 tvg-id="Arena Sport 3 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport3.rs.png" group-title="SPORT", Arena Sport 3 Srb FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79823
+#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://nova-iptv.com/logo/balkan-trip_logo.png" group-title="DOKUMENTARNI", Balkan Trip
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10270
 
-#EXTINF:-1 tvg-id="Arena Sport 4 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport4.rs.png" group-title="SPORT", Arena Sport 4 Srb FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79824
+#EXTINF:-1 tvg-id="DR FIT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dr_Fit_logo.png" group-title="DOKUMENTARNI", DR FIT
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/524
 
-#EXTINF:-1 tvg-id="Arena Sport 5 Srb FHD ex-Yu" tvg-logo="https://static.epg.best/rs/Arenasport5.rs.png" group-title="SPORT", Arena Sport 5 Srb FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/79825
+#EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/woman_logo.png" group-title="DOKUMENTARNI", Woman TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8866
 
-#EXTINF:-1 tvg-id="PARTIZAN TV HD VIP ex-Yu" tvg-logo="https://www.danas.tv/wp-content/uploads/2016/10/tv-partizan-logo-isecen.png" group-title="SPORT", PARTIZAN TV HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10895
+#EXTINF:-1 tvg-id="Turizam +" tvg-logo="http://nova-iptv.com/logo/turizam_plus.jpg" group-title="DOKUMENTARNI", Turizam +
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8867
 
-#EXTINF:-1 tvg-id="Sport Klub 1 FHD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORT", Sport Klub 1 FHD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10900
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hgtv_logo.png" group-title="DOKUMENTARNI", HGTV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6298
 
-#EXTINF:-1 tvg-id="Sport Klub 1 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORT", Sport Klub 1 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13966
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="http://116.203.156.75/logo/travel.png" group-title="DOKUMENTARNI", Travel Channel HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3651
 
-#EXTINF:-1 tvg-id="Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORT", Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10884
+#EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fashiontv-logo.png" group-title="DOKUMENTARNI", Travel XP
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/587
 
-#EXTINF:-1 tvg-id="Sport Klub 2 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORT", Sport Klub 2 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10896
+#EXTINF:-1 tvg-id="planet-earth" tvg-logo="http://116.203.156.75/logo/PlanetEarth.png" group-title="DOKUMENTARNI", Planet Earth
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5389
 
-#EXTINF:-1 tvg-id="Sport Klub 3 FHD SRB/HRV/SLO VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORT", Sport Klub 3 FHD SRB/HRV/SLO VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10883
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12803
 
-#EXTINF:-1 tvg-id="Sport Klub 3 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORT", Sport Klub 3 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10897
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5677
 
-#EXTINF:-1 tvg-id="Moja TV Sport HD VIP ex-Yu" tvg-logo="https://www.bhtelecom.ba/wp-content/uploads/2020/10/Moja_tv_logo_02.jpg" group-title="SPORT", Moja TV Sport HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/67260
+#EXTINF:-1 tvg-id="DOKU TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/DOKUTV_logo.png" group-title="DOKUMENTARNI", DOKU TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5673
 
-#EXTINF:-1 tvg-id="Sport Klub 7 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORT", Sport Klub 7 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/80959
+#EXTINF:-1 tvg-id="DOX TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DoxTV_logo.png" group-title="DOKUMENTARNI", DOX TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12588
 
-#EXTINF:-1 tvg-id="Sport Klub 8 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORT", Sport Klub 8 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/80960
+#EXTINF:-1 tvg-id="docubox-hd" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/158.png" group-title="DOKUMENTARNI", Docu Box HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/577
 
-#EXTINF:-1 tvg-id="Sport Klub 9 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORT", Sport Klub 9 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/80961
+#EXTINF:-1 tvg-id="History HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/66.png" group-title="DOKUMENTARNI", History Channel
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/561
 
-#EXTINF:-1 tvg-id="Sport Klub 10 ex-Yu" tvg-logo="https://static.epg.best/rs/SportKlub10.rs.png" group-title="SPORT", Sport Klub 10 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/80962
+#EXTINF:-1 tvg-id="History 2 HD" tvg-logo="http://116.203.156.75/logo/h2-logo.png" group-title="DOKUMENTARNI", History Channel 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/569
 
-#EXTINF:-1 tvg-id="SportKlub 1 ex-Yu" tvg-logo="noimage.png" group-title="SPORT", Sport Klub HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/104838
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOKUMENTARNI", Food Network
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6314
 
-#EXTINF:-1 tvg-id="24 Kitchen ex-Yu" tvg-logo="https://static.epg.best/pt/24Kitchen.pt.png" group-title="DOKU", 24 Kitchen ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/189
+#EXTINF:-1 tvg-id="24Kitchen HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/71.png" group-title="DOKUMENTARNI", 24 Kitchen
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/601
 
-#EXTINF:-1 tvg-id="AMC HD ex-Yu" tvg-logo="noimage.png" group-title="DOKU", AMC HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127840
+#EXTINF:-1 tvg-id="NOVA PREMIUM HD" tvg-logo="noimage.png" group-title="FILMSKI", NOVA PREMIUM HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8219
 
-#EXTINF:-1 tvg-id="Animal Planet ex-Yu" tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="DOKU", Animal Planet ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/190
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/419
 
-#EXTINF:-1 tvg-id="Da Vinci Learning VIP ex-Yu" tvg-logo="https://static.epg.best/hr/DaVinciLearning.hr.png" group-title="DOKU", Da Vinci Learning VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10888
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12809
 
-#EXTINF:-1 tvg-id="Discovery Channel ex-Yu" tvg-logo="https://static.epg.best/hr/DiscoveryChannel.hr.png" group-title="DOKU", Discovery Channel ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2325
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/418
 
-#EXTINF:-1 tvg-id="Discovery ID ex-Yu" tvg-logo="https://static.epg.best/ro/DiscoveryID.ro.png" group-title="DOKU", Discovery ID ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2324
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12810
 
-#EXTINF:-1 tvg-id="Discovery Science ex-Yu" tvg-logo="noimage.png" group-title="DOKU", Discovery Science SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4014
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/417
 
-#EXTINF:-1 tvg-id="Discovery Turbo Xtra FHD VIP ex-Yu" tvg-logo="https://static.epg.best/hu/DiscoveryTurboXtra.hu.png" group-title="DOKU", Discovery Turbo Xtra FHD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10904
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12811
 
-#EXTINF:-1 tvg-id="Docu Box SRB ex-Yu" tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKU", Docu Box SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4569
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://116.203.156.75/logo/176.png" group-title="FILMSKI", Cinemax 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/435
 
-#EXTINF:-1 tvg-id="DocuBox FHD VIP ex-Yu" tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKU", DocuBox FHD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13965
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-logo="http://116.203.156.75/logo/177.png" group-title="FILMSKI", Cinemax 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/434
 
-#EXTINF:-1 tvg-id="E! FHD VIP ex-Yu" tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKU", E! FHD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13964
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6543
 
-#EXTINF:-1 tvg-id="E ex-Yu" tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKU", E! SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4022
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6542
 
-#EXTINF:-1 tvg-id="History 2 SRB ex-Yu" tvg-logo="https://static.epg.best/rs/HistoryChannel2.rs.png" group-title="DOKU", History 2 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/199
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/431
 
-#EXTINF:-1 tvg-id="History Channel ex-Yu" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="DOKU", History Channel ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2323
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/430
 
-#EXTINF:-1 tvg-id="Nasa ex-Yu" tvg-logo="https://static.epg.best/ba/NasaTV.ba.png" group-title="DOKU", Nasa ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9057
+#EXTINF:-1 tvg-id="CineStar TV (HR)" tvg-logo="http://116.203.156.75/logo/cine.png" group-title="FILMSKI", CineStar TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/429
 
-#EXTINF:-1 tvg-id="National Geographic ex-Yu" tvg-logo="https://static.epg.best/hr/NationalGeographic.hr.png" group-title="DOKU", Nat Geo ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/208
+#EXTINF:-1 tvg-id="CineStar TV 2 HD" tvg-logo="http://nova-iptv.com/logo/Cinestar_tv2_logo.png" group-title="FILMSKI", CineStar TV 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8304
 
-#EXTINF:-1 tvg-id="Nat Geo Wild ex-Yu" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="DOKU", Nat Geo Wild ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/209
+#EXTINF:-1 tvg-id="CineStar TV Fantasy HD" tvg-logo="http://116.203.156.75/logo/cinestartv_fantasy_logo.png" group-title="FILMSKI", CineStar Fantasy
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/432
 
-#EXTINF:-1 tvg-id="TLC VIP ex-Yu" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="DOKU", TLC VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13970
+#EXTINF:-1 tvg-id="CineStar TV Action (HR)" tvg-logo="http://116.203.156.75/logo/cineaction.png" group-title="FILMSKI", Cinestar Action
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/433
 
-#EXTINF:-1 tvg-id="Viasat Explore ex-Yu" tvg-logo="https://static.epg.best/hr/ViasatExplore.hr.png" group-title="DOKU", Viasat Explorer ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/224
+#EXTINF:-1 tvg-id="CineStar TV Comedy & Family HD" tvg-logo="http://nova-iptv.com/logo/cinestartv_comedy_logo.png" group-title="FILMSKI", Cinestar Comedy
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10320
 
-#EXTINF:-1 tvg-id="Viasat History ex-Yu" tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="DOKU", Viasat History ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/225
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-logo="http://nova-iptv.com/logo/cinemania-logo.png" group-title="FILMSKI", Cinemania HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9284
 
-#EXTINF:-1 tvg-id="Viasat Nature / History FHD VIP ex-Yu" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="DOKU", Viasat Nature / History FHD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10910
+#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/423
 
-#EXTINF:-1 tvg-id="Viasat Nature ex-Yu" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="DOKU", Viasat Nature ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/226
+#EXTINF:-1 tvg-id="FOX Crime (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/422
 
-#EXTINF:-1 tvg-id="Cinemania ex-Yu" tvg-logo="https://static.epg.best/rs/Cinemania.rs.png" group-title="FILM", Cinemania ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9036
+#EXTINF:-1 tvg-id="FOX Life (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/421
 
-#EXTINF:-1 tvg-id="Cinemax 1 ex-Yu" tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="FILM", Cinemax 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2315
+#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/420
 
-#EXTINF:-1 tvg-id="Cinemax 1 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="FILM", Cinemax 1 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10912
+#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6305
 
-#EXTINF:-1 tvg-id="Cinemax 2 ex-Yu" tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="FILM", Cinemax 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2314
+#EXTINF:-1 tvg-id="FOX Life (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6307
 
-#EXTINF:-1 tvg-id="Cinemax 2 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="FILM", Cinemax 2 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10913
+#EXTINF:-1 tvg-id="FOX Crime (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6306
 
-#EXTINF:-1 tvg-id="Cinestar Action and Thriller ex-Yu" tvg-logo="https://static.epg.best/rs/CineStarAction.rs.png" group-title="FILM", Cinestar Action SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4028
+#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6308
 
-#EXTINF:-1 tvg-id="Cinestar Fantasy ex-YU" tvg-logo="https://static.epg.best/hr/CinestarFantasy.hr.png" group-title="FILM", Cinestar Fantasy ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/80954
+#EXTINF:-1 tvg-id="Superstar TV HD" tvg-logo="http://nova-iptv.com/logo/SuperstarTV_logo.png" group-title="FILMSKI", SUPER STAR TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6270
 
-#EXTINF:-1 tvg-id="Cinestar Premiere 1 ex-Yu" tvg-logo="https://static.epg.best/rs/CineStarPremiere1.rs.png" group-title="FILM", Cinestar Premiere 1 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2313
+#EXTINF:-1 tvg-id="SUPERSTAR 2" tvg-logo="http://nova-iptv.com/logo/Superstar_2_RS_logo.png" group-title="FILMSKI", SUPER STAR 2 TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6748
 
-#EXTINF:-1 tvg-id="Cinestar Premiere 2 ex-Yu" tvg-logo="https://static.epg.best/rs/CineStarPremiere2.rs.png" group-title="FILM", Cinestar Premiere 2 ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2312
+#EXTINF:-1 tvg-id="SUPER STAR 3 TV" tvg-logo="http://116.203.156.75/logo/superstar_3.png" group-title="FILMSKI", SUPER STAR 3 TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13281
 
-#EXTINF:-1 tvg-id="CINESTAR TV 2 HD ex-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="FILM", CINESTAR TV 2 HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/83207
+#EXTINF:-1 tvg-id="Film Box Premium HD" tvg-logo="http://nova-iptv.com/logo/FilmBox_Premium_logo.png" group-title="FILMSKI", Film Box Premium HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12802
 
-#EXTINF:-1 tvg-id="CINESTAR TV COMEDY FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", CINESTAR TV COMEDY FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127855
+#EXTINF:-1 tvg-id="Film Box Extra HD" tvg-logo="http://nova-iptv.com/logo/filmboxextrahd_logo.png" group-title="FILMSKI", Film Box Extra HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/424
 
-#EXTINF:-1 tvg-id="Cinestar TV ex-Yu" tvg-logo="https://static.epg.best/hr/CinestarTv.hr.png" group-title="FILM", Cinestar TV SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4029
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://nova-iptv.com/logo/FilmboxStars_Black.png" group-title="FILMSKI", Film Box Stars
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5510
 
-#EXTINF:-1 tvg-id="CrimeandInvestigation ex-Yu" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/crime-and-investigation-de.png" group-title="FILM", Crime &amp; Investigation HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2322
+#EXTINF:-1 tvg-id="TV1000" tvg-logo="http://116.203.156.75/logo/viasat_kino.png" group-title="FILMSKI", Viasat Kino
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/408
 
-#EXTINF:-1 tvg-id="CROMAX Select 1 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 1 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31910
+#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/99.png" group-title="FILMSKI", AMC
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/599
 
-#EXTINF:-1 tvg-id="CROMAX Select 2 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 2 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31909
+#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="http://nova-iptv.com/logo/Epic_Drama_BG_logo.png" group-title="FILMSKI", Epic Drama
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6656
 
-#EXTINF:-1 tvg-id="CROMAX Select 3 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 3 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31908
+#EXTINF:-1 tvg-id="Diva" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/50.png" group-title="FILMSKI", Diva
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/576
 
-#EXTINF:-1 tvg-id="CROMAX Select 4 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 4 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31907
+#EXTINF:-1 tvg-id="Dizi" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DIZI_PL_logo.png" group-title="FILMSKI", Dizi
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9342
 
-#EXTINF:-1 tvg-id="CROMAX Select 5 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 5 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31906
+#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="http://116.203.156.75/logo/sci_fi.png" group-title="FILMSKI", SciFi
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/409
 
-#EXTINF:-1 tvg-id="CROMAX Select 6 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 6 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31905
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/axn.png" group-title="FILMSKI", AXN
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/596
 
-#EXTINF:-1 tvg-id="CROMAX Select 7 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 7 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31904
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/axn_spin_logo.png" group-title="FILMSKI", AXN Spin
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/595
 
-#EXTINF:-1 tvg-id="CROMAX Select 8 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 8 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31903
+#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="http://nova-iptv.com/logo/comedy_central_ro.png" group-title="FILMSKI", Comedy Central Extra
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/586
 
-#EXTINF:-1 tvg-id="CROMAX Select 9 HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select 9 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31902
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/klasik.png" group-title="FILMSKI", Klasik Tv
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/415
 
-#EXTINF:-1 tvg-id="CROMAX Select Premium HD ex-Yu" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILM", CROMAX Select Premium HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/31898
+#EXTINF:-1 tvg-id="kinotv.hr" tvg-logo="http://nova-iptv.com/logo/kinotv_logo.png" group-title="FILMSKI", Kino TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/416
 
-#EXTINF:-1 tvg-id="Epic Drama HD ex-YU" tvg-logo="https://static.epg.best/hr/EpicDrama.hr.png" group-title="FILM", Epic Drama HD ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78228
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/m1film-logo.png" group-title="FILMSKI", M1 Film
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/414
 
-#EXTINF:-1 tvg-id="HBO1 ex-Yu" tvg-logo="https://static.epg.best/hr/HBO.hr.png" group-title="FILM", HBO 1 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4573
+#EXTINF:-1 tvg-id="M1 Gold" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Gold
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8900
 
-#EXTINF:-1 tvg-id="HBO2 ex-Yu" tvg-logo="noimage.png" group-title="FILM", HBO 2 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4572
+#EXTINF:-1 tvg-id="M1 Family" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Family
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12861
 
-#EXTINF:-1 tvg-id="HBO 3 HD VIP ex-Yu" tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="FILM", HBO 3 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10914
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="http://nova-iptv.com/logo/pickbox_logo_new.png" group-title="FILMSKI", PickBox TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8563
 
-#EXTINF:-1 tvg-id="HBO3 ex-Yu" tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="FILM", HBO 3 SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4571
+#EXTINF:-1 tvg-id="Euro Cinema 1 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_1_RS_logo.png" group-title="FILMSKI", Euro Cinema 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12842
 
-#EXTINF:-1 tvg-id="HBO MAX FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", HBO MAX FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127856
+#EXTINF:-1 tvg-id="Euro Cinema 2 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_2_RS_logo.png" group-title="FILMSKI", Euro Cinema 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12843
 
-#EXTINF:-1 tvg-id="KINO TV HD ex-Yu" tvg-logo="noimage.png" group-title="FILM", KINO TV HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127844
+#EXTINF:-1 tvg-id="Euro Cinema 3 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_3_RS_logo.png" group-title="FILMSKI", Euro Cinema 3 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12844
 
-#EXTINF:-1 tvg-id="Klasik TV ex-Yu" tvg-logo="https://static.epg.best/hr/KlasikTv.hr.png" group-title="FILM", Klasik TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2335
+#EXTINF:-1 tvg-id="Euro Cinema 4 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_4_RS_logo.png" group-title="FILMSKI", Euro Cinema 4 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12845
 
-#EXTINF:-1 tvg-id="M1 Film ex-Yu" tvg-logo="https://static.epg.best/ba/M1Film.ba.png" group-title="FILM", M1 Film ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/227
+#EXTINF:-1 tvg-id="Prijatelji 24/7" tvg-logo="http://airlink.club:8080/images/d63fed889a25761dbce570906b51a44e.png" group-title="FILMSKI", Prijatelji 24/7
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12337
 
-#EXTINF:-1 tvg-id="M1 GOLD HD ex-Yu" tvg-logo="noimage.png" group-title="FILM", M1 GOLD HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127839
+#EXTINF:-1 tvg-id="Mucke 24/7" tvg-logo="http://airlink.club:8080/images/c249201905aae2f76d255257f41ee1d1.png" group-title="FILMSKI", Mucke 24/7
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12339
 
-#EXTINF:-1 tvg-id="Max Select 1 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 1 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12622
+#EXTINF:-1 tvg-id="Dva i po muskarca 24/7" tvg-logo="http://airlink.club:8080/images/2de61cc6752576441802cd008295c009.png" group-title="FILMSKI", Dva i po muskarca 24/7
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12870
 
-#EXTINF:-1 tvg-id="Max Select 2 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 2 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12621
+#EXTINF:-1 tvg-id="HBO MAX HD" tvg-logo="noimage.png" group-title="FILMSKI", HBO MAX HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6273
 
-#EXTINF:-1 tvg-id="Max Select 3 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 3 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12620
+#EXTINF:-1 tvg-id="Gora Premiere HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Premiere HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3799
 
-#EXTINF:-1 tvg-id="Max Select 5 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 5 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12619
+#EXTINF:-1 tvg-id="Gora Select 1 HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Select 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5467
 
-#EXTINF:-1 tvg-id="Max Select 6 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 6 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12618
+#EXTINF:-1 tvg-id="NOVA PORN" tvg-logo="noimage.png" group-title="FOR ADULTS", NOVA PORN
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10028
 
-#EXTINF:-1 tvg-id="Max Select 7 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 7 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12617
+#EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo="noimage.png" group-title="FOR ADULTS", HUSTLER HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12645
 
-#EXTINF:-1 tvg-id="Max Select 8 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 8 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12616
+#EXTINF:-1 tvg-id="Dorcel HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Dorcel HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12656
 
-#EXTINF:-1 tvg-id="Max Select 9 HD VIP ex-Yu" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILM", Max Select 9 HD VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/12615
+#EXTINF:-1 tvg-id="Brazzers TV" tvg-logo="noimage.png" group-title="FOR ADULTS", Brazzers TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12644
 
-#EXTINF:-1 tvg-id="NOVA TV CINEMA FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", NOVA TV CINEMA FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127883
+#EXTINF:-1 tvg-id="PENTHOUSE GOLD HD" tvg-logo="noimage.png" group-title="FOR ADULTS", PENTHOUSE GOLD HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12642
 
-#EXTINF:-1 tvg-id="SCI FI HD ex-Yu" tvg-logo="noimage.png" group-title="FILM", SCI FI HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127843
+#EXTINF:-1 tvg-id="REALITY KINGS" tvg-logo="noimage.png" group-title="FOR ADULTS", REALITY KINGS
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12651
 
-#EXTINF:-1 tvg-id="STAR CRIME FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", STAR CRIME FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127852
+#EXTINF:-1 tvg-id="Evil Angel HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Evil Angel HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12660
 
-#EXTINF:-1 tvg-id="STAR FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", STAR FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127854
+#EXTINF:-1 tvg-id="Barely Legal" tvg-logo="noimage.png" group-title="FOR ADULTS", Barely Legal
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12661
 
-#EXTINF:-1 tvg-id="STAR LIFE FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", STAR LIFE FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127853
+#EXTINF:-1 tvg-id="VIVID RED" tvg-logo="noimage.png" group-title="FOR ADULTS", VIVID RED
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12691
 
-#EXTINF:-1 tvg-id="STAR MOVIES FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", STAR MOVIES FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127851
+#EXTINF:-1 tvg-id="Fake Taxi" tvg-logo="noimage.png" group-title="FOR ADULTS", Fake Taxi
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12662
 
-#EXTINF:-1 tvg-id="STAR TV ex-YU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Star_Television_logo.svg" group-title="FILM", STAR TV ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78229
+#EXTINF:-1 tvg-id="Dusk" tvg-logo="noimage.png" group-title="FOR ADULTS", Dusk
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12663
 
-#EXTINF:-1 tvg-id="Super Star TV HD ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SuperstarTV_logo.png" group-title="FILM", Super Star TV HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/34315
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-logo="noimage.png" group-title="FOR ADULTS", Blue Hustler
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12664
 
-#EXTINF:-1 tvg-id="SUPERSTAR TV 1 FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", SUPERSTAR TV 1 FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127850
+#EXTINF:-1 tvg-id="Eroxxx HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Eroxxx HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12665
 
-#EXTINF:-1 tvg-id="SUPERSTAR TV 2 FHD ex-Yu" tvg-logo="noimage.png" group-title="FILM", SUPERSTAR TV 2 FHD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127849
+#EXTINF:-1 tvg-id="Mofos" tvg-logo="noimage.png" group-title="FOR ADULTS", Mofos
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12653
 
-#EXTINF:-1 tvg-id="SUPERSTAR TV 3 HD ex-Yu" tvg-logo="noimage.png" group-title="FILM", SUPERSTAR TV 3 HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/127848
+#EXTINF:-1 tvg-id="ADULT 1 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12336
 
-#EXTINF:-1 tvg-id="SuperStar TV RS VIP ex-Yu" tvg-logo="https://superstartv.rs/wp-content/uploads/2021/07/SUPERSTARTV-01-300x77.png" group-title="FILM", SuperStar TV RS VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10907
+#EXTINF:-1 tvg-id="ADULT 2 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12335
 
-#EXTINF:-1 tvg-id="Masa i Medo VIP ex-Yu" tvg-logo="https://static.wikia.nocookie.net/masha-and-bear/images/a/a9/Masha_and_the_Bear.png" group-title="DJEČJI", Masa i Medo VIP ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/13961
+#EXTINF:-1 tvg-id="ADULT 3 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 3 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12334
 
-#EXTINF:-1 tvg-id="Mini Ultra TV ex-Yu" tvg-logo="https://static.epg.best/hr/MiniTv.hr.png" group-title="DJEČJI", Mini Ultra TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2328
+#EXTINF:-1 tvg-id="ADULT 4 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 4 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12333
 
-#EXTINF:-1 tvg-id="Nick Jr. (SR) ex-YU" tvg-logo="https://static.epg.best/hr/NickJr.hr.png" group-title="DJEČJI", Nick Jr. (SR) ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78197
+#EXTINF:-1 tvg-id="ADULT 5 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 5 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12332
 
-#EXTINF:-1 tvg-id="Nickelodeon (SR) ex-Yu" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJEČJI", Nickelodeon (SR) ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/78195
+#EXTINF:-1 tvg-id="ADULT 6 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 6 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12331
 
-#EXTINF:-1 tvg-id="Nickelodeon ex-Yu" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJEČJI", Nickelodeon ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2330
+#EXTINF:-1 tvg-id="ADULT 7 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 7 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12330
 
-#EXTINF:-1 tvg-id="Tom And Jerry HD ex-Yu" tvg-logo="https://logodix.com/logo/330403.png" group-title="DJEČJI", Tom And Jerry HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/10559
+#EXTINF:-1 tvg-id="Pink Erotic 1" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12667
 
-#EXTINF:-1 tvg-id="Baby TV ex-Yu" tvg-logo="https://static.epg.best/rs/BabyTV.rs.png" group-title="DJEČJI", Baby TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2327
+#EXTINF:-1 tvg-id="Pink Erotic 2" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12668
 
-#EXTINF:-1 tvg-id="BN Music ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/logo-www.bnmusic.org_logo.png" group-title="MUZIČKI", BN Music ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2343
+#EXTINF:-1 tvg-id="Pink Erotic 3" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 3
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12669
 
-#EXTINF:-1 tvg-id="CMC Music HD ex-Yu" tvg-logo="https://static.epg.best/rs/CMC.rs.png" group-title="MUZIČKI", CMC Music HD ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/2340
+#EXTINF:-1 tvg-id="Pink Erotic 4" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 4
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12670
 
-#EXTINF:-1 tvg-id="DM Sat ex-Yu" tvg-logo="noimage.png" group-title="MUZIČKI", DM SAT ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/194
+#EXTINF:-1 tvg-id="Pink Erotic 5" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 5
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12671
 
-#EXTINF:-1 tvg-id="Folk TV Bujrum ex-Yu" tvg-logo="https://pbs.twimg.com/profile_images/745842877/logotv-01_400x400.png" group-title="MUZIČKI", Folk TV Bujrum ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9023
+#EXTINF:-1 tvg-id="Pink Erotic 6" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 6
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12672
 
-#EXTINF:-1 tvg-id="Jugoton SRB ex-Yu" tvg-logo="https://static.epg.best/hr/Jugoton.hr.png" group-title="MUZIČKI", Jugoton SRB ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/4012
+#EXTINF:-1 tvg-id="Pink Erotic 7" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 7
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12673
 
-#EXTINF:-1 tvg-id="OTV Valentino ex-Yu" tvg-logo="https://static.epg.best/ba/OTVValentino.ba.png" group-title="MUZIČKI", OTV Valentino ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/3836
+#EXTINF:-1 tvg-id="Pink Erotic 8" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 8
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12674
 
-#EXTINF:-1 tvg-id="Sevdah TV ex-Yu" tvg-logo="http://tugapt.com/picons/sevdahtvexyu.png" group-title="MUZIČKI", Sevdah TV ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/5701
+#EXTINF:-1 tvg-id="Balkan Erotic" tvg-logo="noimage.png" group-title="FOR ADULTS", Balkan Erotic
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12675
 
-#EXTINF:-1 tvg-id="Top Kanal ex-Yu" tvg-logo="https://static.epg.best/al/TopChannel.al.png" group-title="MUZIČKI", Top Kanal ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/24398
+#EXTINF:-1 tvg-id="Playboy Europe" tvg-logo="noimage.png" group-title="FOR ADULTS", Playboy Europe
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12654
 
-#EXTINF:-1 tvg-id="TOP SOUND ex-Yu" tvg-logo="https://i1.sndcdn.com/avatars-000316166379-sk1weo-t500x500.jpg" group-title="MUZIČKI", TOP SOUND ex-Yu
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/9019
+#EXTINF:-1 tvg-id="Passion_XXX" tvg-logo="noimage.png" group-title="FOR ADULTS", Passion_XXX
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12643
 
-#EXTINF:-1 tvg-id="TOXIC TV ex-YU" tvg-logo="noimage.png" group-title="MUZIČKI", TOXIC TV ex-YU
-http://bobiniho.123tv.to:8080/LLXnCrjcKW/wcbmH1s5qB/94906
+#EXTINF:-1 tvg-id="Spank Monster" tvg-logo="noimage.png" group-title="FOR ADULTS", Spank Monster
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12646
+
+#EXTINF:-1 tvg-id="NF Busty" tvg-logo="noimage.png" group-title="FOR ADULTS", NF Busty
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12647
+
+#EXTINF:-1 tvg-id="PRIVATE HD" tvg-logo="noimage.png" group-title="FOR ADULTS", PRIVATE HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12648
+
+#EXTINF:-1 tvg-id="Blacked" tvg-logo="noimage.png" group-title="FOR ADULTS", Blacked
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12649
+
+#EXTINF:-1 tvg-id="BANG U" tvg-logo="noimage.png" group-title="FOR ADULTS", BANG U
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12657
+
+#EXTINF:-1 tvg-id="Mia Khalifa" tvg-logo="noimage.png" group-title="FOR ADULTS", Mia Khalifa
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12658
+
+#EXTINF:-1 tvg-id="MOFOS" tvg-logo="noimage.png" group-title="FOR ADULTS", MOFOS
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12659
+
+#EXTINF:-1 tvg-id="XXL" tvg-logo="noimage.png" group-title="FOR ADULTS", XXL
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12666
+
+#EXTINF:-1 tvg-id="Naughty TV HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Naughty TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12676
+
+#EXTINF:-1 tvg-id="Babes HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Babes HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12677
+
+#EXTINF:-1 tvg-id="N1 Adult" tvg-logo="noimage.png" group-title="FOR ADULTS", N1 Adult
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12686
+
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="noimage.png" group-title="FOR ADULTS", Milf TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12689
+
+#EXTINF:-1 tvg-id="Leo TV" tvg-logo="noimage.png" group-title="FOR ADULTS", Leo TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12692
+
+#EXTINF:-1 tvg-id="Penhouse Reality" tvg-logo="noimage.png" group-title="FOR ADULTS", Penhouse Reality
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12693
+
+#EXTINF:-1 tvg-id="REDLIGHT HD" tvg-logo="noimage.png" group-title="FOR ADULTS", REDLIGHT HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12694
+
+#EXTINF:-1 tvg-id="OLDTIMER" tvg-logo="noimage.png" group-title="FOR ADULTS", OLDTIMER
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12696
+
+#EXTINF:-1 tvg-id="Casting" tvg-logo="noimage.png" group-title="FOR ADULTS", Casting
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12697
+
+#EXTINF:-1 tvg-id="New Girl" tvg-logo="noimage.png" group-title="FOR ADULTS", New Girl
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12698
+
+#EXTINF:-1 tvg-id="Vixen HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Vixen HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12700
+
+#EXTINF:-1 tvg-id="True Amateurs" tvg-logo="noimage.png" group-title="FOR ADULTS", True Amateurs
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12701
+
+#EXTINF:-1 tvg-id="EXTAZY HD" tvg-logo="noimage.png" group-title="FOR ADULTS", EXTAZY HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12702
+
+#EXTINF:-1 tvg-id="Toxic HD" tvg-logo="noimage.png" group-title="MUZICKI", Toxic HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9064
+
+#EXTINF:-1 tvg-id="Toxic Folk HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Folk_RS_logo.png" group-title="MUZICKI", Toxic Folk HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12846
+
+#EXTINF:-1 tvg-id="Toxic Rap HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Rap_RS_logo.png" group-title="MUZICKI", Toxic Rap HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12847
+
+#EXTINF:-1 tvg-id="Balkanika TV" tvg-logo="noimage.png" group-title="MUZICKI", Balkanika TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/391
+
+#EXTINF:-1 tvg-id="MTV Adria" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/46.png" group-title="MUZICKI", MTV Adria
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/551
+
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 80s
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/394
+
+#EXTINF:-1 tvg-id="MTV Music" tvg-logo="noimage.png" group-title="MUZICKI", MTV Music
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/392
+
+#EXTINF:-1 tvg-id="MTV Live" tvg-logo="noimage.png" group-title="MUZICKI", MTV Live
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10260
+
+#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 90s
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10261
+
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 00s
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/504
+
+#EXTINF:-1 tvg-id="Muzzik HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12526
+
+#EXTINF:-1 tvg-id="Muzzik Rock HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Rock HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12527
+
+#EXTINF:-1 tvg-id="Muzzik World HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik World HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12528
+
+#EXTINF:-1 tvg-id="Muzzik Jeka HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Jeka HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12529
+
+#EXTINF:-1 tvg-id="Muzzik Riviera HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Riviera HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12530
+
+#EXTINF:-1 tvg-id="Muzzik HipHop HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HipHop HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12531
+
+#EXTINF:-1 tvg-id="Muzzik OKK HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik OKK HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12532
+
+#EXTINF:-1 tvg-id="CMC" tvg-logo="noimage.png" group-title="MUZICKI", CMC
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/588
+
+#EXTINF:-1 tvg-id="BN Music HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/34.png" group-title="MUZICKI", BN Music HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/591
+
+#EXTINF:-1 tvg-id="IDJ TV" tvg-logo="noimage.png" group-title="MUZICKI", IDJ TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9283
+
+#EXTINF:-1 tvg-id="Grand" tvg-logo="noimage.png" group-title="MUZICKI", Grand
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9275
+
+#EXTINF:-1 tvg-id="Grand 2" tvg-logo="noimage.png" group-title="MUZICKI", Grand 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9276
+
+#EXTINF:-1 tvg-id="DM Sat" tvg-logo="noimage.png" group-title="MUZICKI", DM Sat
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/406
+
+#EXTINF:-1 tvg-id="ExYu Melody" tvg-logo="noimage.png" group-title="MUZICKI", ExYu Melody
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9038
+
+#EXTINF:-1 tvg-id="Top Sound" tvg-logo="noimage.png" group-title="MUZICKI", Top Sound
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8864
+
+#EXTINF:-1 tvg-id="Duga TV" tvg-logo="noimage.png" group-title="MUZICKI", Duga TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5416
+
+#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="http://116.203.156.75/logo/izvorna.png" group-title="MUZICKI", Izvorna TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/402
+
+#EXTINF:-1 tvg-id="Amari" tvg-logo="noimage.png" group-title="MUZICKI", Amari
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12390
+
+#EXTINF:-1 tvg-id="Jugoton TV" tvg-logo="noimage.png" group-title="MUZICKI", Jugoton TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/401
+
+#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="MUZICKI", Narodna TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/393
+
+#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/62.png" group-title="MUZICKI", OTV Valentino
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/540
+
+#EXTINF:-1 tvg-id="Hayat Music Box" tvg-logo="http://116.203.156.75/logo/hayat-music-box.png" group-title="MUZICKI", Hayat Music Box
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/564
+
+#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="noimage.png" group-title="MUZICKI", Sevdah TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/396
+
+#EXTINF:-1 tvg-id="Hayat Folk Box" tvg-logo="http://116.203.156.75/logo/hayat-folk-box.png" group-title="MUZICKI", Hayat Folk Box
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/565
+
+#EXTINF:-1 tvg-id="Pink BH" tvg-logo="http://116.203.156.75/logo/pink_bh.png" group-title="PINK", Pink BH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3647
+
+#EXTINF:-1 tvg-id="pink.sr" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK", PINK HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/376
+
+#EXTINF:-1 tvg-id="RED" tvg-logo="http://116.203.156.75/logo/Red-TV-Pink-Logo.png" group-title="PINK", Red TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/375
+
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/Vesti_RS_logo.png" group-title="PINK", Pink Vesti
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/374
+
+#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://116.203.156.75/logo/pink_action.png" group-title="PINK", Pink Action HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/373
+
+#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="http://116.203.156.75/logo/pink_comedy.png" group-title="PINK", Pink Comedy
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/371
+
+#EXTINF:-1 tvg-id="Pink Crime & Mystery" tvg-logo="http://116.203.156.75/logo/pink_crime_mistery.png" group-title="PINK", Pink Crime & Mystery
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/370
+
+#EXTINF:-1 tvg-id="Pink Film" tvg-logo="http://116.203.156.75/logo/pink_film.png" group-title="PINK", Pink Film
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/369
+
+#EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="http://116.203.156.75/logo/pink_folk1.png" group-title="PINK", Pink Folk 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/368
+
+#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://116.203.156.75/logo/pink_folk2.png" group-title="PINK", Pink Folk 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/367
+
+#EXTINF:-1 tvg-id="PINK HA HA" tvg-logo="http://116.203.156.75/logo/pink_haha.jpg" group-title="PINK", PINK HA HA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/366
+
+#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="http://116.203.156.75/logo/pink_horor.png" group-title="PINK", Pink Horror
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/356
+
+#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="http://116.203.156.75/logo/pink_kids.png" group-title="PINK", Pink Kids
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/365
+
+#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="http://116.203.156.75/logo/pink_movies.png" group-title="PINK", Pink Movies
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/363
+
+#EXTINF:-1 tvg-id="Pink Music 1" tvg-logo="http://116.203.156.75/logo/pink_music.png" group-title="PINK", Pink Music 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/362
+
+#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://116.203.156.75/logo/pink_music2.png" group-title="PINK", Pink Music 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/361
+
+#EXTINF:-1 tvg-id="Pink & Roll" tvg-logo="http://116.203.156.75/logo/PinkNRoll_logo.png" group-title="PINK", Pink & Roll
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6640
+
+#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="http://116.203.156.75/logo/pink_plus.png" group-title="PINK", Pink Plus
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/360
+
+#EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="http://116.203.156.75/logo/pink_premium.png" group-title="PINK", Pink Premium
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/359
+
+#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="http://116.203.156.75/logo/pinkReality.png" group-title="PINK", Pink Reality
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/358
+
+#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="http://116.203.156.75/logo/Pink_Romance_logo.png" group-title="PINK", Pink Romance
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/357
+
+#EXTINF:-1 tvg-id="Pink Sci-Fi & Fantasy" tvg-logo="http://116.203.156.75/logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK", Pink Sci Fi & Fantasy
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/355
+
+#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="http://116.203.156.75/logo/pink_serije.png" group-title="PINK", Pink Serije
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/353
+
+#EXTINF:-1 tvg-id="Pink Show" tvg-logo="http://116.203.156.75/logo/PinkShow.png" group-title="PINK", Pink Show
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/352
+
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/pinksoap.png" group-title="PINK", PINK SOAP
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/351
+
+#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="http://116.203.156.75/logo/Pink_Thriller_logo.png" group-title="PINK", Pink Thriler
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/354
+
+#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="http://116.203.156.75/logo/pink_classic.png" group-title="PINK", Pink Classic
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5665
+
+#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://116.203.156.75/logo/pink_family.png" group-title="PINK", Pink Family
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5666
+
+#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="http://116.203.156.75/logo/pink_kuvar.png" group-title="PINK", Pink Kuvar
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5664
+
+#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://nova-iptv.com/logo/pink-extra.png" group-title="PINK", Pink Extra
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12557
+
+#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="http://nova-iptv.com/logo/PinkKoncert_logo.png" group-title="PINK", Pink Koncert
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12558
+
+#EXTINF:-1 tvg-id="Pink LOL" tvg-logo="http://116.203.156.75/logo/pink_lol.png" group-title="PINK", Pink LOL
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5663
+
+#EXTINF:-1 tvg-id="Pink World" tvg-logo="http://116.203.156.75/logo/pink_world.png" group-title="PINK", Pink World
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5667
+
+#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="http://116.203.156.75/logo/pink_pedia.png" group-title="PINK", Pink Pedia
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/350
+
+#EXTINF:-1 tvg-id="Pink Western" tvg-logo="http://116.203.156.75/logo/pink-western-logo.png" group-title="PINK", Pink Western
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/349
+
+#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="http://116.203.156.75/logo/pink_world_cinema.png" group-title="PINK", Pink World Cinema
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/348
+
+#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="http://116.203.156.75/logo/pink_zabava.png" group-title="PINK", Pink Zabava
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/347
+
+#EXTINF:-1 tvg-id="VIP Radio" tvg-logo="noimage.png" group-title="RADIO", VIP Radio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8681
+
+#EXTINF:-1 tvg-id="Radio KRAJINA Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio KRAJINA Cazin
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3782
+
+#EXTINF:-1 tvg-id="BN Radio" tvg-logo="noimage.png" group-title="RADIO", BN Radio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3
+
+#EXTINF:-1 tvg-id="Rock Radio" tvg-logo="noimage.png" group-title="RADIO", Rock Radio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6
+
+#EXTINF:-1 tvg-id="Play Radio" tvg-logo="noimage.png" group-title="RADIO", Play Radio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10
+
+#EXTINF:-1 tvg-id="Pink Radio" tvg-logo="noimage.png" group-title="RADIO", Pink Radio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/4
+
+#EXTINF:-1 tvg-id="Radio Livno" tvg-logo="noimage.png" group-title="RADIO", Radio Livno
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9
+
+#EXTINF:-1 tvg-id="BIG Radio" tvg-logo="noimage.png" group-title="RADIO", BIG Radio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5
+
+#EXTINF:-1 tvg-id="Radio Tomislavgrad" tvg-logo="noimage.png" group-title="RADIO", Radio Tomislavgrad
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7
+
+#EXTINF:-1 tvg-id="Radio Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio Cazin
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6636
+
+#EXTINF:-1 tvg-id="Radio USK" tvg-logo="noimage.png" group-title="RADIO", Radio USK
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6637
+
+#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="noimage.png" group-title="RADIO", HRT HR 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6709
+
+#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="noimage.png" group-title="RADIO", HRT HR 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6710
+
+#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="noimage.png" group-title="RADIO", Radio Posavina
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6707
+
+#EXTINF:-1 tvg-id="Radio Sibenik" tvg-logo="noimage.png" group-title="RADIO", Radio Sibenik
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6705
+
+#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="noimage.png" group-title="RADIO", Radio Sunce
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6702
+
+#EXTINF:-1 tvg-id="Radio Zapresic" tvg-logo="noimage.png" group-title="RADIO", Radio Zapresic
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6708
+
+#EXTINF:-1 tvg-id="Enter Zagreb" tvg-logo="noimage.png" group-title="RADIO", Enter Zagreb
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6706
+
+#EXTINF:-1 tvg-id="Antena Zagreb" tvg-logo="noimage.png" group-title="RADIO", Antena Zagreb
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6704
+
+#EXTINF:-1 tvg-id="RTG Music" tvg-logo="noimage.png" group-title="RADIO", RTG Music
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10240
+
+#EXTINF:-1 tvg-id="RTG Bastina" tvg-logo="noimage.png" group-title="RADIO", RTG Bastina
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12562
+
+#EXTINF:-1 tvg-id="RTG Frama" tvg-logo="noimage.png" group-title="RADIO", RTG Frama
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12563
+
+#EXTINF:-1 tvg-id="RTG Djeciji" tvg-logo="noimage.png" group-title="RADIO", RTG Djeciji
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12564
+
+#EXTINF:-1 tvg-id="RTG Domovina" tvg-logo="noimage.png" group-title="RADIO", RTG Domovina
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12565
+
+#EXTINF:-1 tvg-id="Radiopostaja Mir Medjugorje" tvg-logo="noimage.png" group-title="RADIO", Radiopostaja Mir Medjugorje
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10241
+
+#EXTINF:-1 tvg-id="Kupreski Radio" tvg-logo="noimage.png" group-title="RADIO", Kupreski Radio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10242
+
+#EXTINF:-1 tvg-id="Federalna TV" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH", Federalna TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/572
+
+#EXTINF:-1 tvg-id="BHT 1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/22.png" group-title="BIH", BHT 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/592
+
+#EXTINF:-1 tvg-id="RTRS" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/3.png" group-title="BIH", RTRS
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/523
+
+#EXTINF:-1 tvg-id="RTRS Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTRS_PLUS_logo.png" group-title="BIH", RTRS Plus
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7274
+
+#EXTINF:-1 tvg-id="OBN" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/33.png" group-title="BIH", OBN
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/541
+
+#EXTINF:-1 tvg-id="Face HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/35.png" group-title="BIH", Face Tv HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/573
+
+#EXTINF:-1 tvg-id="hayat-tv.ba" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/43.png" group-title="BIH", Hayat HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/566
+
+#EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="http://116.203.156.75/logo/hayat-2.png" group-title="BIH", Hayat 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/563
+
+#EXTINF:-1 tvg-id="Nova BH HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaBH_logo.png" group-title="BIH", NOVA BH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9279
+
+#EXTINF:-1 tvg-id="Nova BH HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaBH_logo.png" group-title="BIH", NOVA BH.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9280
+
+#EXTINF:-1 tvg-id="N1 HD (BH)" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="BIH", N1 BIH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9273
+
+#EXTINF:-1 tvg-id="Alternativna TV" tvg-logo="http://116.203.156.75/logo/atv.png" group-title="BIH", ATV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/597
+
+#EXTINF:-1 tvg-id="BN" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH", BN TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/590
+
+#EXTINF:-1 tvg-id="BN" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH", BN TV.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8847
+
+#EXTINF:-1 tvg-id="BN TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BIH", BN 2 TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10233
+
+#EXTINF:-1 tvg-id="O Kanal HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/o_kanal_widelogo.png" group-title="BIH", O Kanal
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/508
+
+#EXTINF:-1 tvg-id="UNA TV BH" tvg-logo="http://nova-iptv.com/logo/UNA_TV_HR_logo.png" group-title="BIH", UNA TV BH
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12464
+
+#EXTINF:-1 tvg-id="K3 Prnjavor" tvg-logo="http://116.203.156.75/logo/k3.png" group-title="BIH", K3 Prnjavor
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/509
+
+#EXTINF:-1 tvg-id="RTV HIT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BIH", HIT
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5749
+
+#EXTINF:-1 tvg-id="Tok TV" tvg-logo="noimage.png" group-title="BIH", Tok TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13001
+
+#EXTINF:-1 tvg-id="RTV IS" tvg-logo="http://116.203.156.75/logo/rtv-is.png" group-title="BIH", RTV IS
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12391
+
+#EXTINF:-1 tvg-id="Neon TV" tvg-logo="http://116.203.156.75/logo/neon_tv.png" group-title="BIH", Neon TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9192
+
+#EXTINF:-1 tvg-id="Bosansko Posavska TV" tvg-logo="http://116.203.156.75/logo/bp.jpg" group-title="BIH", Bosansko Posavska TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9065
+
+#EXTINF:-1 tvg-id="RTV HB" tvg-logo="noimage.png" group-title="BIH", RTV HB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6762
+
+#EXTINF:-1 tvg-id="RTV Cazin" tvg-logo="noimage.png" group-title="BIH", RTV Cazin
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6901
+
+#EXTINF:-1 tvg-id="RTV Sana" tvg-logo="noimage.png" group-title="BIH", RTV Sana
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8661
+
+#EXTINF:-1 tvg-id="RTV Krajina" tvg-logo="noimage.png" group-title="BIH", RTV Krajina
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9066
+
+#EXTINF:-1 tvg-id="TV Sarajevo HD (BH)" tvg-logo="http://116.203.156.75/logo/SARAJEVO.png" group-title="BIH", TV Sarajevo HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/511
+
+#EXTINF:-1 tvg-id="PRVA HERCEGOVACKA" tvg-logo="noimage.png" group-title="BIH", PRVA HERCEGOVACKA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10250
+
+#EXTINF:-1 tvg-id="KANAL 6 HD" tvg-logo="noimage.png" group-title="BIH", KANAL 6 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10252
+
+#EXTINF:-1 tvg-id="CITY TV" tvg-logo="noimage.png" group-title="BIH", CITY TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10253
+
+#EXTINF:-1 tvg-id="NTV 101" tvg-logo="noimage.png" group-title="BIH", NTV 101
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10264
+
+#EXTINF:-1 tvg-id="RTV Lukavac" tvg-logo="noimage.png" group-title="BIH", RTV Lukavac
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10265
+
+#EXTINF:-1 tvg-id="Alfa (Sarajevo)" tvg-logo="http://nova-iptv.com/logo/alfatvlogo.png" group-title="BIH", Alfa TV Sarajevo
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5600
+
+#EXTINF:-1 tvg-id="RTV TK" tvg-logo="http://116.203.156.75/logo/tk.png" group-title="BIH", TV TK
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3687
+
+#EXTINF:-1 tvg-id="TV 7 Tuzla" tvg-logo="noimage.png" group-title="BIH", TV 7 Tuzla
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8901
+
+#EXTINF:-1 tvg-id="USK HD" tvg-logo="http://116.203.156.75/logo/RTVUSK.png" group-title="BIH", USK HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/506
+
+#EXTINF:-1 tvg-id="Bugojno TV" tvg-logo="noimage.png" group-title="BIH", Bugojno TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/7429
+
+#EXTINF:-1 tvg-id="B1 Gradacac" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b1tv-logo.png" group-title="BIH", B1 Gradacac
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6736
+
+#EXTINF:-1 tvg-id="NTV IC Kakanj" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/NTV_IC_Logo_BiH.png" group-title="BIH", NTV IC Kakanj
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5603
+
+#EXTINF:-1 tvg-id="RTV Zenica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Logo_of_RTV_Zenica.png" group-title="BIH", TV Zenica
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5598
+
+#EXTINF:-1 tvg-id="RTV Slon Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/TV_Slon_Extra_logo.jpg" group-title="BIH", RTV Slon Extra
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/510
+
+#EXTINF:-1 tvg-id="MIR TV HD" tvg-logo="noimage.png" group-title="BIH", MIR TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6457
+
+#EXTINF:-1 tvg-id="MTV Igman" tvg-logo="http://116.203.156.75/logo/mtv-igman-logo.png" group-title="BIH", MTV Igman
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3795
+
+#EXTINF:-1 tvg-id="VIKOM" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/vikom_tv_ba.png" group-title="BIH", VIKOM
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8852
+
+#EXTINF:-1 tvg-id="Televizija Hema" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/hema-tv-logo.png" group-title="BIH", HEMA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5660
+
+#EXTINF:-1 tvg-id="TV 5 HD Islam" tvg-logo="http://116.203.156.75/logo/tv5.jpg" group-title="BIH", TV 5 HD Islam
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5477
+
+#EXTINF:-1 tvg-id="Mekka TV" tvg-logo="http://116.203.156.75/logo/makkah.png" group-title="BIH", Mekka TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5602
+
+#EXTINF:-1 tvg-id="BIR TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/BIR_TV_logo.png" group-title="BIH", BIR TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8899
+
+#EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="https://www.cenzolovka.rs/wp-content/uploads/2015/06/sandzak-tv-logo.jpg" group-title="BIH", Sandzak TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6026
+
+#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://116.203.156.75/logo/sehara.jpeg" group-title="BIH", Sehara TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/5366
+
+#EXTINF:-1 tvg-id="RTV Visoko" tvg-logo="http://nova-iptv.com/logo/rtvvisoko.jpeg" group-title="BIH", TV Visoko
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/395
+
+#EXTINF:-1 tvg-id="TATABRADA TV" tvg-logo="noimage.png" group-title="BIH", TATABRADA TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10267
+
+#EXTINF:-1 tvg-id="Pro TV" tvg-logo="http://116.203.156.75/logo/protv.png" group-title="BIH", Pro TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13286
+
+#EXTINF:-1 tvg-id="RTCG 1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/534
+
+#EXTINF:-1 tvg-id="rtcg2" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/533
+
+#EXTINF:-1 tvg-id="RTCG Sat" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG Sat
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/535
+
+#EXTINF:-1 tvg-id="prva-tv-cg" tvg-logo="http://116.203.156.75/logo/prva_cg.png" group-title="CRNA GORA", Prva TV CG
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/532
+
+#EXTINF:-1 tvg-id="Vijesti 24" tvg-logo="http://116.203.156.75/logo/tv-vijesti.jpg" group-title="CRNA GORA", Vijesti 24
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/531
+
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="noimage.png" group-title="CRNA GORA", PINK M
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6429
+
+#EXTINF:-1 tvg-id="nova-m" tvg-logo="noimage.png" group-title="CRNA GORA", NOVA M
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9281
+
+#EXTINF:-1 tvg-id="[MK] 24 VESTI" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] 24 VESTI
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3655
+
+#EXTINF:-1 tvg-id="[MK] ALFA TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] ALFA TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3658
+
+#EXTINF:-1 tvg-id="[MK] KANAL 5" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] KANAL 5
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3660
+
+#EXTINF:-1 tvg-id="[MK] MRT 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3656
+
+#EXTINF:-1 tvg-id="[MK] MRT 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3657
+
+#EXTINF:-1 tvg-id="[MK] MRT 5" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 5
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10190
+
+#EXTINF:-1 tvg-id="[MK] Hugo TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6469
+
+#EXTINF:-1 tvg-id="[MK] Hugo 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8860
+
+#EXTINF:-1 tvg-id="[MK] Hugo 3" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo 3
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10192
+
+#EXTINF:-1 tvg-id="[MK] Cineplex HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cineplex HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10193
+
+#EXTINF:-1 tvg-id="[MK] Cinestar TV Premiere 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cinestar TV Premiere 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6897
+
+#EXTINF:-1 tvg-id="[MK] MEGA BITOLA" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MEGA BITOLA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3654
+
+#EXTINF:-1 tvg-id="[MK] SITEL" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SITEL
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3662
+
+#EXTINF:-1 tvg-id="[MK] SITEL 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SITEL 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3661
+
+#EXTINF:-1 tvg-id="[MK] NASA TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] NASA TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6657
+
+#EXTINF:-1 tvg-id="[MK] SONCE TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SONCE TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3653
+
+#EXTINF:-1 tvg-id="[MK] TELMA" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] TELMA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3659
+
+#EXTINF:-1 tvg-id="[MK] SUTEL" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SUTEL
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3652
+
+#EXTINF:-1 tvg-id="[MK] TERA TV Bitola" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] TERA TV Bitola
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6527
+
+#EXTINF:-1 tvg-id="[MK] Cinestar TV Premiere 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cinestar TV Premiere 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8868
+
+#EXTINF:-1 tvg-id="[MK] Folk HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Folk HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6525
+
+#EXTINF:-1 tvg-id="[MK] Sky Folk HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Sky Folk HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6526
+
+#EXTINF:-1 tvg-id="SLO 1" tvg-logo="noimage.png" group-title="SLOVENIA", SLO 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/217
+
+#EXTINF:-1 tvg-id="SLO 2" tvg-logo="noimage.png" group-title="SLOVENIA", SLO 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/216
+
+#EXTINF:-1 tvg-id="HBO 1 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 1 SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/226
+
+#EXTINF:-1 tvg-id="HBO 2 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 2 SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/225
+
+#EXTINF:-1 tvg-id="HBO 3 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 3 SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/224
+
+#EXTINF:-1 tvg-id="POP Brio" tvg-logo="noimage.png" group-title="SLOVENIA", POP Brio
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/221
+
+#EXTINF:-1 tvg-id="POP Kino" tvg-logo="noimage.png" group-title="SLOVENIA", POP Kino
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/219
+
+#EXTINF:-1 tvg-id="POP Oto" tvg-logo="noimage.png" group-title="SLOVENIA", POP Oto
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/218
+
+#EXTINF:-1 tvg-id="POP TV" tvg-logo="noimage.png" group-title="SLOVENIA", POP TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/220
+
+#EXTINF:-1 tvg-id="Planet TV" tvg-logo="noimage.png" group-title="SLOVENIA", Planet TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/222
+
+#EXTINF:-1 tvg-id="Kanal A" tvg-logo="noimage.png" group-title="SLOVENIA", Kanal A
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/223
+
+#EXTINF:-1 tvg-id="GOLICA" tvg-logo="noimage.png" group-title="SLOVENIA", GOLICA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/209
+
+#EXTINF:-1 tvg-id="Planet SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Planet SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8035
+
+#EXTINF:-1 tvg-id="Planet Plus SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Planet Plus SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8038
+
+#EXTINF:-1 tvg-id="Nova 24 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Nova 24 SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8037
+
+#EXTINF:-1 tvg-id="Fox Crime SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Fox Crime SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8040
+
+#EXTINF:-1 tvg-id="Fox Life SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Fox Life SLO
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8039
+
+#EXTINF:-1 tvg-id="rts1.sr" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA", RTS 1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/521
+
+#EXTINF:-1 tvg-id="rts2.sr" tvg-logo="http://116.203.156.75/logo/RTS2_logo.png" group-title="SRBIJA", RTS 2 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/520
+
+#EXTINF:-1 tvg-id="RTS 3" tvg-logo="http://116.203.156.75/logo/rts3.png" group-title="SRBIJA", RTS 3 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/519
+
+#EXTINF:-1 tvg-id="rts1.sr" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA", RTS 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6886
+
+#EXTINF:-1 tvg-id="rts2.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS2_logo.png" group-title="SRBIJA", RTS 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9353
+
+#EXTINF:-1 tvg-id="rts-sat" tvg-logo="http://116.203.156.75/logo/rts_svet.png" group-title="SRBIJA", RTS Svet HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/516
+
+#EXTINF:-1 tvg-id="RTS Nauka" tvg-logo="http://nova-iptv.com/logo/rtsnauka.png" group-title="SRBIJA", RTS Nauka
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12552
+
+#EXTINF:-1 tvg-id="rtsdrama.rs" tvg-logo="http://116.203.156.75/logo/RTS_Drama_logo.png" group-title="SRBIJA", RTS Drama
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/518
+
+#EXTINF:-1 tvg-id="RTS Zivot" tvg-logo="http://nova-iptv.com/logo/RTS_Zivot_logo.png" group-title="SRBIJA", RTS Zivot
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/517
+
+#EXTINF:-1 tvg-id="RTS Kolo" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Kolo_logo.jpg" group-title="SRBIJA", RTS Kolo
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6399
+
+#EXTINF:-1 tvg-id="RTS Muzika" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Muzika_logo.png" group-title="SRBIJA", RTS Muzika
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6398
+
+#EXTINF:-1 tvg-id="RTS Trezor" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Trezor_logo.png" group-title="SRBIJA", RTS Trezor
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6400
+
+#EXTINF:-1 tvg-id="RTS Poletarac" tvg-logo="http://nova-iptv.com/logo/RTS_Poletarac_logo.png" group-title="SRBIJA", RTS Poletarac
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12340
+
+#EXTINF:-1 tvg-id="RTS Klasika" tvg-logo="http://nova-iptv.com/logo/rts-klasika-logo.png" group-title="SRBIJA", RTS Klasika
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12525
+
+#EXTINF:-1 tvg-id="Kurir TV" tvg-logo="http://116.203.156.75/logo/KurirTV_logo.png" group-title="SRBIJA", Kurir TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9305
+
+#EXTINF:-1 tvg-id="Blic TV HD" tvg-logo="http://nova-iptv.com/logo/blictv.png" group-title="SRBIJA", Blic TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12703
+
+#EXTINF:-1 tvg-id="N1 HD (SR)" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="SRBIJA", N1 SRB
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9271
+
+#EXTINF:-1 tvg-id="Euro News Srb" tvg-logo="http://nova-iptv.com/logo/Euronews_2016_Logo.png" group-title="SRBIJA", Euro News Srb
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6524
+
+#EXTINF:-1 tvg-id="Tanjug TV" tvg-logo="http://nova-iptv.com/logo/tanjug_logo.png" group-title="SRBIJA", Tanjug HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12524
+
+#EXTINF:-1 tvg-id="Informer TV" tvg-logo="http://nova-iptv.com/logo/informer_tv.png" group-title="SRBIJA", Informer TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/13010
+
+#EXTINF:-1 tvg-id="K1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/k1-tv-srbija.png" group-title="SRBIJA", K1 HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/10263
+
+#EXTINF:-1 tvg-id="TV DR" tvg-logo="http://nova-iptv.com/logo/tvdr.png" group-title="SRBIJA", TV DR
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12551
+
+#EXTINF:-1 tvg-id="b92.sr" tvg-logo="http://116.203.156.75/logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8022
+
+#EXTINF:-1 tvg-id="b92.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/594
+
+#EXTINF:-1 tvg-id="b92.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV HD.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12345
+
+#EXTINF:-1 tvg-id="NOVA S HD (RS)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/nova_s_logo.png" group-title="SRBIJA", NOVA S
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/9274
+
+#EXTINF:-1 tvg-id="Nova Series HD" tvg-logo="https://mojtv.hr/m2/img/ch/726.png" group-title="SRBIJA", Nova Series HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12973
+
+#EXTINF:-1 tvg-id="nova-m.cg" tvg-logo="http://nova-iptv.com/logo/Nova_MAX.png" group-title="SRBIJA", NOVA Max HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12748
+
+#EXTINF:-1 tvg-id="france24.fr" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA", Happy TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/567
+
+#EXTINF:-1 tvg-id="Happy Zivot" tvg-logo="http://nova-iptv.com/logo/happy_zivot.png" group-title="SRBIJA", Happy Zivot
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12705
+
+#EXTINF:-1 tvg-id="Happy Drustvo" tvg-logo="http://nova-iptv.com/logo/happy_drustvo.png" group-title="SRBIJA", Happy Drustvo
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12704
+
+#EXTINF:-1 tvg-id="Happy Zemlja" tvg-logo="http://nova-iptv.com/logo/happy_zemlja.png" group-title="SRBIJA", Happy Zemlja
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12800
+
+#EXTINF:-1 tvg-id="Happy Muzika" tvg-logo="http://nova-iptv.com/logo/happy_muzika.png" group-title="SRBIJA", Happy Muzika
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12706
+
+#EXTINF:-1 tvg-id="Prva" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", Prva TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8021
+
+#EXTINF:-1 tvg-id="Prva" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", Prva HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/539
+
+#EXTINF:-1 tvg-id="Prva" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", PRVA HD.
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12346
+
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/Prva_Max.png" group-title="SRBIJA", Prva Max
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/538
+
+#EXTINF:-1 tvg-id="Prva plus" tvg-logo="http://116.203.156.75/logo/prva_plus.png" group-title="SRBIJA", Prva Plus
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/537
+
+#EXTINF:-1 tvg-id="Prva Kick" tvg-logo="http://116.203.156.75/logo/Prva_Kick.png" group-title="SRBIJA", Prva Kick
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3649
+
+#EXTINF:-1 tvg-id="Prva Life" tvg-logo="http://116.203.156.75/logo/Prva_Life.png" group-title="SRBIJA", Prva Life
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12556
+
+#EXTINF:-1 tvg-id="Prva World" tvg-logo="http://116.203.156.75/logo/Prva_World.png" group-title="SRBIJA", Prva World
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/536
+
+#EXTINF:-1 tvg-id="Prva Files" tvg-logo="http://116.203.156.75/logo/Prva_Files.png" group-title="SRBIJA", Prva Files
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/545
+
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/narodna_tv.png" group-title="SRBIJA", Narodna TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12728
+
+#EXTINF:-1 tvg-id="Hype TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Hype_TV.png" group-title="SRBIJA", Hype TV HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12578
+
+#EXTINF:-1 tvg-id="Bloomberg Adria" tvg-logo="http://nova-iptv.com/logo/bloomberg.png" group-title="SRBIJA", Bloomberg Adria
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12611
+
+#EXTINF:-1 tvg-id="K::CN 1" tvg-logo="http://116.203.156.75/logo/kcn1.png" group-title="SRBIJA", K::CN 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/400
+
+#EXTINF:-1 tvg-id="K::CN Music 2" tvg-logo="http://116.203.156.75/logo/kcn2.png" group-title="SRBIJA", K::CN 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/399
+
+#EXTINF:-1 tvg-id="K::CN Svet +3 (W2)" tvg-logo="http://116.203.156.75/logo/kcn3.png" group-title="SRBIJA", K::CN 3
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/398
+
+#EXTINF:-1 tvg-id="Agro TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/agrotv_logo-1.png" group-title="SRBIJA", Agro TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8865
+
+#EXTINF:-1 tvg-id="Super Sat HD" tvg-logo="http://116.203.156.75/logo/SuperSat.png" group-title="SRBIJA", Super Sat HD
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/12101
+
+#EXTINF:-1 tvg-id="RTV 1" tvg-logo="http://nova-iptv.com/logo/rtv-1.png" group-title="SRBIJA", RTV Vojvodina
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/513
+
+#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://nova-iptv.com/logo/studiob-logo.png" group-title="SRBIJA", Studio B
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3650
+
+#EXTINF:-1 tvg-id="Palma Plus" tvg-logo="http://116.203.156.75/logo/palma_plus.png" group-title="SRBIJA", Palma Plus
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3666
+
+#EXTINF:-1 tvg-id="BELLE AMIE" tvg-logo="http://116.203.156.75/logo/belle-amie-logo.png" group-title="SRBIJA", BELLE AMIE
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/3665
+
+#EXTINF:-1 tvg-id="Insajder TV" tvg-logo="http://nova-iptv.com/logo/InsajderRV_Srb_logo.png" group-title="SRBIJA", Insajder TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/515
+
+#EXTINF:-1 tvg-id="Hram TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png" group-title="SRBIJA", Hram TV
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8227
+
+#EXTINF:-1 tvg-id="RTV Novi Pazar" tvg-logo="http://116.203.156.75/logo/novi_pazar.png" group-title="SRBIJA", RTV Novi Pazar
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/512
+
+#EXTINF:-1 tvg-id="HAPPY PAROVI 24 SATA" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA", HAPPY PAROVI 24 SATA
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/568
+
+#EXTINF:-1 tvg-id="Elita Live 1" tvg-logo="http://nova-iptv.com/logo/elita1.png" group-title="SRBIJA", Elita Live 1
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/6334
+
+#EXTINF:-1 tvg-id="Elita Live 2" tvg-logo="http://nova-iptv.com/logo/elita2.png" group-title="SRBIJA", Elita Live 2
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8217
+
+#EXTINF:-1 tvg-id="Elita Live 3" tvg-logo="http://nova-iptv.com/logo/elita3.png" group-title="SRBIJA", Elita Live 3
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8218
+
+#EXTINF:-1 tvg-id="Elita Live 4" tvg-logo="http://nova-iptv.com/logo/elita4.png" group-title="SRBIJA", Elita Live 4
+http://miliongoal.com:80/MAto_Fvilipovic/aLpECR0bvc/8501
+
+
 
 
 
