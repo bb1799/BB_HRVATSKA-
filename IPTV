@@ -1,1897 +1,1091 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/560.m3u8
+#EXTINF:-1 tvg-id="[HR] CMC Music" tvg-logo="noimage.png" group-title="Hrvatska", [HR] CMC Music
+http://asmr4k.pro:8080//live/0421020409/05848383993/359556.ts
 
-#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6049.m3u8
+#EXTINF:-1 tvg-id="[HR] Doma TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Doma TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359557.ts
 
-#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/558.m3u8
+#EXTINF:-1 tvg-id="[HR] Dubrovnik TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Dubrovnik TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359558.ts
 
-#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/557.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359559.ts
 
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6858.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 1 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 1 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359560.ts
 
-#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/559.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 2" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359561.ts
 
-#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6859.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 2 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 2 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359562.ts
 
-#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6860.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 3" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359563.ts
 
-#EXTINF:-1 tvg-id="htv5" tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA", HRT 5
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/556.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 3 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 3 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359564.ts
 
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12097.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 4" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 4
+http://asmr4k.pro:8080//live/0421020409/05848383993/359565.ts
 
-#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12100.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT 4 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 4 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359566.ts
 
-#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12098.m3u8
+#EXTINF:-1 tvg-id="[HR] HRT Int" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT Int
+http://asmr4k.pro:8080//live/0421020409/05848383993/359567.ts
 
-#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12099.m3u8
+#EXTINF:-1 tvg-id="[HR] Jabuka TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Jabuka TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359568.ts
 
-#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HRVATSKA", Rtl Croatia World
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10165.m3u8
+#EXTINF:-1 tvg-id="[HR] Kanal Ri" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Kanal Ri
+http://asmr4k.pro:8080//live/0421020409/05848383993/359569.ts
 
-#EXTINF:-1 tvg-id="RTL Adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Adria_2020.png" group-title="HRVATSKA", RTL Adria
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8629.m3u8
+#EXTINF:-1 tvg-id="[HR] Laudato TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Laudato TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359570.ts
 
-#EXTINF:-1 tvg-id="rtl.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7516.m3u8
+#EXTINF:-1 tvg-id="[HR] Libertas TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Libertas TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359571.ts
 
-#EXTINF:-1 tvg-id="RTL HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8220.m3u8
+#EXTINF:-1 tvg-id="[HR] Mreza Zagreb" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Mreza Zagreb
+http://asmr4k.pro:8080//live/0421020409/05848383993/359572.ts
 
-#EXTINF:-1 tvg-id="RTL HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12092.m3u8
+#EXTINF:-1 tvg-id="[HR] N1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] N1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359573.ts
 
-#EXTINF:-1 tvg-id="RTL 2 HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7519.m3u8
+#EXTINF:-1 tvg-id="[HR] Nova TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Nova TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359574.ts
 
-#EXTINF:-1 tvg-id="RTL 2 HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8298.m3u8
+#EXTINF:-1 tvg-id="[HR] Nova TV (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Nova TV (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359575.ts
 
-#EXTINF:-1 tvg-id="RTL 2 HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12093.m3u8
+#EXTINF:-1 tvg-id="[HR] Osjecka TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Osjecka TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359576.ts
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7518.m3u8
+#EXTINF:-1 tvg-id="[HR] Poljoprivredna tv" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Poljoprivredna tv
+http://asmr4k.pro:8080//live/0421020409/05848383993/359577.ts
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion FHD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8281.m3u8
+#EXTINF:-1 tvg-id="[HR] RTL 1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359578.ts
 
-#EXTINF:-1 tvg-id="RTL Crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7517.m3u8
+#EXTINF:-1 tvg-id="[HR] RTL 2" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359579.ts
 
-#EXTINF:-1 tvg-id="RTL Crime FHD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime FHD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8299.m3u8
+#EXTINF:-1 tvg-id="[HR] RTL Crime" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL Crime
+http://asmr4k.pro:8080//live/0421020409/05848383993/359580.ts
 
-#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8001.m3u8
+#EXTINF:-1 tvg-id="[HR] RTL Living" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL Living
+http://asmr4k.pro:8080//live/0421020409/05848383993/359581.ts
 
-#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living FHD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8301.m3u8
+#EXTINF:-1 tvg-id="[HR] RTL Passion" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL Passion
+http://asmr4k.pro:8080//live/0421020409/05848383993/359582.ts
 
-#EXTINF:-1 tvg-id="N1 HD (HR)" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="HRVATSKA", N1 HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9272.m3u8
+#EXTINF:-1 tvg-id="[HR] SB TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] SB TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359583.ts
 
-#EXTINF:-1 tvg-id="Nova HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9270.m3u8
+#EXTINF:-1 tvg-id="[HR] Slavonska TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Slavonska TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359584.ts
 
-#EXTINF:-1 tvg-id="Nova HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9278.m3u8
+#EXTINF:-1 tvg-id="[HR] TV Banovina" tvg-logo="noimage.png" group-title="Hrvatska", [HR] TV Banovina
+http://asmr4k.pro:8080//live/0421020409/05848383993/359585.ts
 
-#EXTINF:-1 tvg-id="Nova HR HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12090.m3u8
+#EXTINF:-1 tvg-id="[HR] TV Sibenik" tvg-logo="noimage.png" group-title="Hrvatska", [HR] TV Sibenik
+http://asmr4k.pro:8080//live/0421020409/05848383993/359586.ts
 
-#EXTINF:-1 tvg-id="Nova World" tvg-logo="http://nova-iptv.com/logo/Nova_World_2011.png" group-title="HRVATSKA", Nova World
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12617.m3u8
+#EXTINF:-1 tvg-id="[HR] Tv4 Karlovac" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Tv4 Karlovac
+http://asmr4k.pro:8080//live/0421020409/05848383993/359587.ts
 
-#EXTINF:-1 tvg-id="Nova Cinema" tvg-logo="http://nova-iptv.com/logo/Nova_Cinema_logo.png" group-title="HRVATSKA", Nova Cinema
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12618.m3u8
+#EXTINF:-1 tvg-id="[HR] VARAZDINSKA VTV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] VARAZDINSKA VTV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359588.ts
 
-#EXTINF:-1 tvg-id="Nova Family" tvg-logo="http://nova-iptv.com/logo/Nova_Family_logo.png" group-title="HRVATSKA", Nova Family
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12619.m3u8
+#EXTINF:-1 tvg-id="[HR] Vinkovacka TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Vinkovacka TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359589.ts
 
-#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9286.m3u8
+#EXTINF:-1 tvg-id="[HR] Z1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Z1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359590.ts
 
-#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9287.m3u8
+#EXTINF:-1 tvg-id="[HR] Zdrava TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Zdrava TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359591.ts
 
-#EXTINF:-1 tvg-id="doma-tv.movie" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD (Hevc)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12091.m3u8
+#EXTINF:-1 tvg-id="[HR]Jugoton TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR]Jugoton TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359592.ts
 
-#EXTINF:-1 tvg-id="z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="HRVATSKA", Z1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/499.m3u8
+#EXTINF:-1 tvg-id="[BH] A1 Al Jazeera Balkans" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] A1 Al Jazeera Balkans
+http://asmr4k.pro:8080//live/0421020409/05848383993/357370.ts
 
-#EXTINF:-1 tvg-id="Laudato TV" tvg-logo="http://116.203.156.75/logo/laudato.png" group-title="HRVATSKA", Laudato TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/553.m3u8
+#EXTINF:-1 tvg-id="[BH] ATV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] ATV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357371.ts
 
-#EXTINF:-1 tvg-id="Mreza Zagreb" tvg-logo="noimage.png" group-title="HRVATSKA", Mreza Zagreb
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8041.m3u8
+#EXTINF:-1 tvg-id="[BH] BHT 1" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BHT 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/357372.ts
 
-#EXTINF:-1 tvg-id="RTV Banovina" tvg-logo="http://116.203.156.75/logo/banovina.png" group-title="HRVATSKA", Banovina TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/593.m3u8
+#EXTINF:-1 tvg-id="[BH] BHT 1 (B)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BHT 1 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/357373.ts
 
-#EXTINF:-1 tvg-id="Osjecka TV" tvg-logo="http://116.203.156.75/logo/osjecka.jpeg" group-title="HRVATSKA", Osjecka TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/554.m3u8
+#EXTINF:-1 tvg-id="[BH] Bir TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Bir TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357374.ts
 
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="http://116.203.156.75/logo/plava_vinkovacka.jpg" group-title="HRVATSKA", Vinkovacka TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5845.m3u8
+#EXTINF:-1 tvg-id="[BH] BN Music" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BN Music
+http://asmr4k.pro:8080//live/0421020409/05848383993/357375.ts
 
-#EXTINF:-1 tvg-id="TV KARLOVAC" tvg-logo="noimage.png" group-title="HRVATSKA", TV KARLOVAC
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8856.m3u8
+#EXTINF:-1 tvg-id="[BH] BN TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BN TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357376.ts
 
-#EXTINF:-1 tvg-id="posavinatv" tvg-logo="http://116.203.156.75/logo/posavina.jpg" group-title="HRVATSKA", Posavina TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/397.m3u8
+#EXTINF:-1 tvg-id="[BH] Face TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Face TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357377.ts
 
-#EXTINF:-1 tvg-id="Slavonska Televizija" tvg-logo="http://116.203.156.75/logo/slavnonska.jpg" group-title="HRVATSKA", Slavonska Televizija
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/555.m3u8
+#EXTINF:-1 tvg-id="[BH] Federalna" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Federalna
+http://asmr4k.pro:8080//live/0421020409/05848383993/357378.ts
 
-#EXTINF:-1 tvg-id="Jabuka TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Jabukatvlogo.png" group-title="HRVATSKA", Jabuka TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6331.m3u8
+#EXTINF:-1 tvg-id="[BH] Federalna (B)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Federalna (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/357379.ts
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/kanalr-logo.png" group-title="HRVATSKA", KanalR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6330.m3u8
+#EXTINF:-1 tvg-id="[BH] Hayat" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat
+http://asmr4k.pro:8080//live/0421020409/05848383993/357380.ts
 
-#EXTINF:-1 tvg-id="Libertas TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LibertasTV.png" group-title="HRVATSKA", Libertas TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6329.m3u8
+#EXTINF:-1 tvg-id="[BH] Hayat (B)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/357381.ts
 
-#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA", Poljoprivredna TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6328.m3u8
+#EXTINF:-1 tvg-id="[BH] Hayat Folk" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat Folk
+http://asmr4k.pro:8080//live/0421020409/05848383993/357382.ts
 
-#EXTINF:-1 tvg-id="Srce TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/srcetv-logo.png" group-title="HRVATSKA", Srce TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6324.m3u8
+#EXTINF:-1 tvg-id="[BH] Hayat Music" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat Music
+http://asmr4k.pro:8080//live/0421020409/05848383993/357383.ts
 
-#EXTINF:-1 tvg-id="Dubrovacka Televizija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/dutv-logo.png" group-title="HRVATSKA", Dubrovacka Televizija
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6322.m3u8
+#EXTINF:-1 tvg-id="[BH] Hayat Plus" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat Plus
+http://asmr4k.pro:8080//live/0421020409/05848383993/357384.ts
 
-#EXTINF:-1 tvg-id="TV Istra" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TV-Istra_logo.png" group-title="HRVATSKA", TV Istra
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6321.m3u8
+#EXTINF:-1 tvg-id="[BH] Izvorna TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Izvorna TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357385.ts
 
-#EXTINF:-1 tvg-id="TV Jadran" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-jadran-logo.png" group-title="HRVATSKA", TV Jadran
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6320.m3u8
+#EXTINF:-1 tvg-id="[BH] Kanal 6" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Kanal 6
+http://asmr4k.pro:8080//live/0421020409/05848383993/357386.ts
 
-#EXTINF:-1 tvg-id="Capital TV" tvg-logo="noimage.png" group-title="HRVATSKA", Capital TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6502.m3u8
+#EXTINF:-1 tvg-id="[BH] Mir TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Mir TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357387.ts
 
-#EXTINF:-1 tvg-id="ZDRAVA TV-7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdrava-televizija-logo.jpg" group-title="HRVATSKA", Zdrava TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8886.m3u8
+#EXTINF:-1 tvg-id="[BH] MTV Igman" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] MTV Igman
+http://asmr4k.pro:8080//live/0421020409/05848383993/357388.ts
 
-#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="noimage.png" group-title="HRVATSKA", Klape i Tambure
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10237.m3u8
+#EXTINF:-1 tvg-id="[BH] N1" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] N1
+http://asmr4k.pro:8080//live/0421020409/05848383993/357389.ts
 
-#EXTINF:-1 tvg-id="b2305127f3e5eceffb591f82cf93c07d" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA", TV TREND KARLOVAC
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10246.m3u8
+#EXTINF:-1 tvg-id="[BH] Nova BH" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Nova BH
+http://asmr4k.pro:8080//live/0421020409/05848383993/357390.ts
 
-#EXTINF:-1 tvg-id="MARY TV MEDJUGORJE" tvg-logo="noimage.png" group-title="HRVATSKA", MARY TV MEDJUGORJE
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10247.m3u8
+#EXTINF:-1 tvg-id="[BH] Nova BH (b)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Nova BH (b)
+http://asmr4k.pro:8080//live/0421020409/05848383993/357391.ts
 
-#EXTINF:-1 tvg-id="MARS TV" tvg-logo="noimage.png" group-title="HRVATSKA", MARS TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10248.m3u8
+#EXTINF:-1 tvg-id="[BH] O Kanal" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] O Kanal
+http://asmr4k.pro:8080//live/0421020409/05848383993/357392.ts
 
-#EXTINF:-1 tvg-id="cf00a93b9e783577a4926ad239a60a43" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA", OTV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10249.m3u8
+#EXTINF:-1 tvg-id="[BH] OTV Valentino" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] OTV Valentino
+http://asmr4k.pro:8080//live/0421020409/05848383993/357393.ts
 
-#EXTINF:-1 tvg-id="Federalna TV" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH", Federalna TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/572.m3u8
+#EXTINF:-1 tvg-id="[BH] PINK BH" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] PINK BH
+http://asmr4k.pro:8080//live/0421020409/05848383993/357394.ts
 
-#EXTINF:-1 tvg-id="BHT 1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/22.png" group-title="BIH", BHT 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/592.m3u8
+#EXTINF:-1 tvg-id="[BH] Posavina TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Posavina TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357395.ts
 
-#EXTINF:-1 tvg-id="RTRS" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/3.png" group-title="BIH", RTRS
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/523.m3u8
+#EXTINF:-1 tvg-id="[BH] RTRS" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] RTRS
+http://asmr4k.pro:8080//live/0421020409/05848383993/357396.ts
 
-#EXTINF:-1 tvg-id="RTRS Plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTRS_PLUS_logo.png" group-title="BIH", RTRS Plus
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7274.m3u8
+#EXTINF:-1 tvg-id="[BH] RTV Sana" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] RTV Sana
+http://asmr4k.pro:8080//live/0421020409/05848383993/357397.ts
 
-#EXTINF:-1 tvg-id="OBN" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/33.png" group-title="BIH", OBN
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/541.m3u8
+#EXTINF:-1 tvg-id="[BH] RTV USK" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] RTV USK
+http://asmr4k.pro:8080//live/0421020409/05848383993/357398.ts
 
-#EXTINF:-1 tvg-id="Face HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/35.png" group-title="BIH", Face Tv HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/573.m3u8
+#EXTINF:-1 tvg-id="[BH] Sevdah TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Sevdah TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357399.ts
 
-#EXTINF:-1 tvg-id="hayat-tv.ba" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/43.png" group-title="BIH", Hayat HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/566.m3u8
+#EXTINF:-1 tvg-id="[BH] Televizija 5" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Televizija 5
+http://asmr4k.pro:8080//live/0421020409/05848383993/357400.ts
 
-#EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="http://116.203.156.75/logo/hayat-2.png" group-title="BIH", Hayat 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/563.m3u8
+#EXTINF:-1 tvg-id="[BH] Televizija OBN" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Televizija OBN
+http://asmr4k.pro:8080//live/0421020409/05848383993/357401.ts
 
-#EXTINF:-1 tvg-id="Nova BH HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaBH_logo.png" group-title="BIH", NOVA BH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9279.m3u8
+#EXTINF:-1 tvg-id="[BH] TV Glas Drine" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Glas Drine
+http://asmr4k.pro:8080//live/0421020409/05848383993/357402.ts
 
-#EXTINF:-1 tvg-id="Nova BH HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaBH_logo.png" group-title="BIH", NOVA BH.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9280.m3u8
+#EXTINF:-1 tvg-id="[BH] TV Sarajevo" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Sarajevo
+http://asmr4k.pro:8080//live/0421020409/05848383993/357403.ts
 
-#EXTINF:-1 tvg-id="N1 HD (BH)" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="BIH", N1 BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9273.m3u8
+#EXTINF:-1 tvg-id="[BH] TV Sehara" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Sehara
+http://asmr4k.pro:8080//live/0421020409/05848383993/357404.ts
 
-#EXTINF:-1 tvg-id="Alternativna TV" tvg-logo="http://116.203.156.75/logo/atv.png" group-title="BIH", ATV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/597.m3u8
+#EXTINF:-1 tvg-id="[BH] TV Slon Extra" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Slon Extra
+http://asmr4k.pro:8080//live/0421020409/05848383993/357405.ts
 
-#EXTINF:-1 tvg-id="BN" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH", BN TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/590.m3u8
+#EXTINF:-1 tvg-id="[BH] VIKOM TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] VIKOM TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357406.ts
 
-#EXTINF:-1 tvg-id="BN" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH", BN TV.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8847.m3u8
+#EXTINF:-1 tvg-id="[MNE] Nova M" tvg-logo="noimage.png" group-title="Crna gora", [MNE] Nova M
+http://asmr4k.pro:8080//live/0421020409/05848383993/359547.ts
 
-#EXTINF:-1 tvg-id="BN TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BIH", BN 2 TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10233.m3u8
+#EXTINF:-1 tvg-id="[MNE] PINK M" tvg-logo="noimage.png" group-title="Crna gora", [MNE] PINK M
+http://asmr4k.pro:8080//live/0421020409/05848383993/359548.ts
 
-#EXTINF:-1 tvg-id="O Kanal HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/o_kanal_widelogo.png" group-title="BIH", O Kanal
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/508.m3u8
+#EXTINF:-1 tvg-id="[MNE] prva CG" tvg-logo="noimage.png" group-title="Crna gora", [MNE] prva CG
+http://asmr4k.pro:8080//live/0421020409/05848383993/359549.ts
 
-#EXTINF:-1 tvg-id="UNA TV BH" tvg-logo="http://nova-iptv.com/logo/UNA_TV_HR_logo.png" group-title="BIH", UNA TV BH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12464.m3u8
+#EXTINF:-1 tvg-id="[MNE] RTCG 1" tvg-logo="noimage.png" group-title="Crna gora", [MNE] RTCG 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359550.ts
 
-#EXTINF:-1 tvg-id="K3 Prnjavor" tvg-logo="http://116.203.156.75/logo/k3.png" group-title="BIH", K3 Prnjavor
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/509.m3u8
+#EXTINF:-1 tvg-id="[MNE] RTCG 2" tvg-logo="noimage.png" group-title="Crna gora", [MNE] RTCG 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359551.ts
 
-#EXTINF:-1 tvg-id="RTV HIT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BIH", HIT
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5749.m3u8
+#EXTINF:-1 tvg-id="[MNE] RTCG Sat" tvg-logo="noimage.png" group-title="Crna gora", [MNE] RTCG Sat
+http://asmr4k.pro:8080//live/0421020409/05848383993/359552.ts
 
-#EXTINF:-1 tvg-id="Tok TV" tvg-logo="noimage.png" group-title="BIH", Tok TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13001.m3u8
+#EXTINF:-1 tvg-id="[MNE] TV 7" tvg-logo="noimage.png" group-title="Crna gora", [MNE] TV 7
+http://asmr4k.pro:8080//live/0421020409/05848383993/359553.ts
 
-#EXTINF:-1 tvg-id="RTV IS" tvg-logo="http://116.203.156.75/logo/rtv-is.png" group-title="BIH", RTV IS
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12391.m3u8
+#EXTINF:-1 tvg-id="[MNE] TV Vijesti" tvg-logo="noimage.png" group-title="Crna gora", [MNE] TV Vijesti
+http://asmr4k.pro:8080//live/0421020409/05848383993/359554.ts
 
-#EXTINF:-1 tvg-id="Neon TV" tvg-logo="http://116.203.156.75/logo/neon_tv.png" group-title="BIH", Neon TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9192.m3u8
+#EXTINF:-1 tvg-id="[MK] Alfa TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] Alfa TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359518.ts
 
-#EXTINF:-1 tvg-id="Bosansko Posavska TV" tvg-logo="http://116.203.156.75/logo/bp.jpg" group-title="BIH", Bosansko Posavska TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9065.m3u8
+#EXTINF:-1 tvg-id="[MK] Alsat M" tvg-logo="noimage.png" group-title="Makedonia", [MK] Alsat M
+http://asmr4k.pro:8080//live/0421020409/05848383993/359519.ts
 
-#EXTINF:-1 tvg-id="RTV HB" tvg-logo="noimage.png" group-title="BIH", RTV HB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6762.m3u8
+#EXTINF:-1 tvg-id="[MK] ERA TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] ERA TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359520.ts
 
-#EXTINF:-1 tvg-id="RTV Cazin" tvg-logo="noimage.png" group-title="BIH", RTV Cazin
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6901.m3u8
+#EXTINF:-1 tvg-id="[MK] HBO 2" tvg-logo="noimage.png" group-title="Makedonia", [MK] HBO 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359521.ts
 
-#EXTINF:-1 tvg-id="RTV Sana" tvg-logo="noimage.png" group-title="BIH", RTV Sana
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8661.m3u8
+#EXTINF:-1 tvg-id="[MK] HBO 3" tvg-logo="noimage.png" group-title="Makedonia", [MK] HBO 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359522.ts
 
-#EXTINF:-1 tvg-id="RTV Krajina" tvg-logo="noimage.png" group-title="BIH", RTV Krajina
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9066.m3u8
+#EXTINF:-1 tvg-id="[MK] HBO FHD" tvg-logo="noimage.png" group-title="Makedonia", [MK] HBO FHD
+http://asmr4k.pro:8080//live/0421020409/05848383993/359523.ts
 
-#EXTINF:-1 tvg-id="TV Sarajevo HD (BH)" tvg-logo="http://116.203.156.75/logo/SARAJEVO.png" group-title="BIH", TV Sarajevo HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/511.m3u8
+#EXTINF:-1 tvg-id="[MK] Hugo 1" tvg-logo="noimage.png" group-title="Makedonia", [MK] Hugo 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359524.ts
 
-#EXTINF:-1 tvg-id="PRVA HERCEGOVACKA" tvg-logo="noimage.png" group-title="BIH", PRVA HERCEGOVACKA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10250.m3u8
+#EXTINF:-1 tvg-id="[MK] IN TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] IN TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359525.ts
 
-#EXTINF:-1 tvg-id="KANAL 6 HD" tvg-logo="noimage.png" group-title="BIH", KANAL 6 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10252.m3u8
+#EXTINF:-1 tvg-id="[MK] Kanal 5" tvg-logo="noimage.png" group-title="Makedonia", [MK] Kanal 5
+http://asmr4k.pro:8080//live/0421020409/05848383993/359526.ts
 
-#EXTINF:-1 tvg-id="CITY TV" tvg-logo="noimage.png" group-title="BIH", CITY TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10253.m3u8
+#EXTINF:-1 tvg-id="[MK] Kanal 5 Plus" tvg-logo="noimage.png" group-title="Makedonia", [MK] Kanal 5 Plus
+http://asmr4k.pro:8080//live/0421020409/05848383993/359527.ts
 
-#EXTINF:-1 tvg-id="NTV 101" tvg-logo="noimage.png" group-title="BIH", NTV 101
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10264.m3u8
+#EXTINF:-1 tvg-id="[MK] MRT 1" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359528.ts
 
-#EXTINF:-1 tvg-id="RTV Lukavac" tvg-logo="noimage.png" group-title="BIH", RTV Lukavac
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10265.m3u8
+#EXTINF:-1 tvg-id="[MK] MRT 1 (B)" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 1 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359529.ts
 
-#EXTINF:-1 tvg-id="Alfa (Sarajevo)" tvg-logo="http://nova-iptv.com/logo/alfatvlogo.png" group-title="BIH", Alfa TV Sarajevo
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5600.m3u8
+#EXTINF:-1 tvg-id="[MK] MRT 2" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359530.ts
 
-#EXTINF:-1 tvg-id="RTV TK" tvg-logo="http://116.203.156.75/logo/tk.png" group-title="BIH", TV TK
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3687.m3u8
+#EXTINF:-1 tvg-id="[MK] MRT 2 (B)" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 2 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359531.ts
 
-#EXTINF:-1 tvg-id="TV 7 Tuzla" tvg-logo="noimage.png" group-title="BIH", TV 7 Tuzla
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8901.m3u8
+#EXTINF:-1 tvg-id="[MK] MRT Sobraniski" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT Sobraniski
+http://asmr4k.pro:8080//live/0421020409/05848383993/359532.ts
 
-#EXTINF:-1 tvg-id="USK HD" tvg-logo="http://116.203.156.75/logo/RTVUSK.png" group-title="BIH", USK HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/506.m3u8
+#EXTINF:-1 tvg-id="[MK] MTM TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] MTM TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359533.ts
 
-#EXTINF:-1 tvg-id="Bugojno TV" tvg-logo="noimage.png" group-title="BIH", Bugojno TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7429.m3u8
+#EXTINF:-1 tvg-id="[MK] Nasa" tvg-logo="noimage.png" group-title="Makedonia", [MK] Nasa
+http://asmr4k.pro:8080//live/0421020409/05848383993/359534.ts
 
-#EXTINF:-1 tvg-id="B1 Gradacac" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b1tv-logo.png" group-title="BIH", B1 Gradacac
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6736.m3u8
+#EXTINF:-1 tvg-id="[MK] s*y Folk" tvg-logo="noimage.png" group-title="Makedonia", [MK] s*y Folk
+http://asmr4k.pro:8080//live/0421020409/05848383993/359535.ts
 
-#EXTINF:-1 tvg-id="NTV IC Kakanj" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/NTV_IC_Logo_BiH.png" group-title="BIH", NTV IC Kakanj
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5603.m3u8
+#EXTINF:-1 tvg-id="[MK] Shutel TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] Shutel TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359536.ts
 
-#EXTINF:-1 tvg-id="RTV Zenica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Logo_of_RTV_Zenica.png" group-title="BIH", TV Zenica
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5598.m3u8
+#EXTINF:-1 tvg-id="[MK] Sitel TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] Sitel TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359537.ts
 
-#EXTINF:-1 tvg-id="RTV Slon Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/TV_Slon_Extra_logo.jpg" group-title="BIH", RTV Slon Extra
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/510.m3u8
+#EXTINF:-1 tvg-id="[MK] Sitel TV (B)" tvg-logo="noimage.png" group-title="Makedonia", [MK] Sitel TV (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359538.ts
 
-#EXTINF:-1 tvg-id="MIR TV HD" tvg-logo="noimage.png" group-title="BIH", MIR TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6457.m3u8
+#EXTINF:-1 tvg-id="[MK] Telma" tvg-logo="noimage.png" group-title="Makedonia", [MK] Telma
+http://asmr4k.pro:8080//live/0421020409/05848383993/359539.ts
 
-#EXTINF:-1 tvg-id="MTV Igman" tvg-logo="http://116.203.156.75/logo/mtv-igman-logo.png" group-title="BIH", MTV Igman
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3795.m3u8
+#EXTINF:-1 tvg-id="[MK] Tera Bitola" tvg-logo="noimage.png" group-title="Makedonia", [MK] Tera Bitola
+http://asmr4k.pro:8080//live/0421020409/05848383993/359540.ts
 
-#EXTINF:-1 tvg-id="VIKOM" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/vikom_tv_ba.png" group-title="BIH", VIKOM
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8852.m3u8
+#EXTINF:-1 tvg-id="[MK] TV 24" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV 24
+http://asmr4k.pro:8080//live/0421020409/05848383993/359541.ts
 
-#EXTINF:-1 tvg-id="Televizija Hema" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/hema-tv-logo.png" group-title="BIH", HEMA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5660.m3u8
+#EXTINF:-1 tvg-id="[MK] TV Edo" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV Edo
+http://asmr4k.pro:8080//live/0421020409/05848383993/359542.ts
 
-#EXTINF:-1 tvg-id="TV 5 HD Islam" tvg-logo="http://116.203.156.75/logo/tv5.jpg" group-title="BIH", TV 5 HD Islam
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5477.m3u8
+#EXTINF:-1 tvg-id="[MK] TV Nova 12" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV Nova 12
+http://asmr4k.pro:8080//live/0421020409/05848383993/359543.ts
 
-#EXTINF:-1 tvg-id="Mekka TV" tvg-logo="http://116.203.156.75/logo/makkah.png" group-title="BIH", Mekka TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5602.m3u8
+#EXTINF:-1 tvg-id="[MK] TV+" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV+
+http://asmr4k.pro:8080//live/0421020409/05848383993/359544.ts
 
-#EXTINF:-1 tvg-id="BIR TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/BIR_TV_logo.png" group-title="BIH", BIR TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8899.m3u8
+#EXTINF:-1 tvg-id="[MK] TV21" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV21
+http://asmr4k.pro:8080//live/0421020409/05848383993/359545.ts
 
-#EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="https://www.cenzolovka.rs/wp-content/uploads/2015/06/sandzak-tv-logo.jpg" group-title="BIH", Sandzak TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6026.m3u8
+#EXTINF:-1 tvg-id="[SL] BRIO" tvg-logo="noimage.png" group-title="Slovenija", [SL] BRIO
+http://asmr4k.pro:8080//live/0421020409/05848383993/359085.ts
 
-#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://116.203.156.75/logo/sehara.jpeg" group-title="BIH", Sehara TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5366.m3u8
+#EXTINF:-1 tvg-id="[SL] Discovery Channel" tvg-logo="noimage.png" group-title="Slovenija", [SL] Discovery Channel
+http://asmr4k.pro:8080//live/0421020409/05848383993/359086.ts
 
-#EXTINF:-1 tvg-id="RTV Visoko" tvg-logo="http://nova-iptv.com/logo/rtvvisoko.jpeg" group-title="BIH", TV Visoko
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/395.m3u8
+#EXTINF:-1 tvg-id="[SL] Golica TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Golica TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359087.ts
 
-#EXTINF:-1 tvg-id="TATABRADA TV" tvg-logo="noimage.png" group-title="BIH", TATABRADA TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10267.m3u8
+#EXTINF:-1 tvg-id="[SL] HBO" tvg-logo="noimage.png" group-title="Slovenija", [SL] HBO
+http://asmr4k.pro:8080//live/0421020409/05848383993/359088.ts
 
-#EXTINF:-1 tvg-id="Pro TV" tvg-logo="http://116.203.156.75/logo/protv.png" group-title="BIH", Pro TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13286.m3u8
+#EXTINF:-1 tvg-id="[SL] HBO 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] HBO 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359089.ts
 
-#EXTINF:-1 tvg-id="RTCG 1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/534.m3u8
+#EXTINF:-1 tvg-id="[SL] HBO 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] HBO 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359090.ts
 
-#EXTINF:-1 tvg-id="rtcg2" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/533.m3u8
+#EXTINF:-1 tvg-id="[SL] Kanal A" tvg-logo="noimage.png" group-title="Slovenija", [SL] Kanal A
+http://asmr4k.pro:8080//live/0421020409/05848383993/359091.ts
 
-#EXTINF:-1 tvg-id="RTCG Sat" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG Sat
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/535.m3u8
+#EXTINF:-1 tvg-id="[SL] Kanal A (B)" tvg-logo="noimage.png" group-title="Slovenija", [SL] Kanal A (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359092.ts
 
-#EXTINF:-1 tvg-id="prva-tv-cg" tvg-logo="http://116.203.156.75/logo/prva_cg.png" group-title="CRNA GORA", Prva TV CG
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/532.m3u8
+#EXTINF:-1 tvg-id="[SL] Kino" tvg-logo="noimage.png" group-title="Slovenija", [SL] Kino
+http://asmr4k.pro:8080//live/0421020409/05848383993/359093.ts
 
-#EXTINF:-1 tvg-id="Vijesti 24" tvg-logo="http://116.203.156.75/logo/tv-vijesti.jpg" group-title="CRNA GORA", Vijesti 24
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/531.m3u8
+#EXTINF:-1 tvg-id="[SL] Net TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Net TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359094.ts
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="noimage.png" group-title="CRNA GORA", PINK M
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6429.m3u8
+#EXTINF:-1 tvg-id="[SL] Nova 24 TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Nova 24 TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359095.ts
 
-#EXTINF:-1 tvg-id="nova-m" tvg-logo="noimage.png" group-title="CRNA GORA", NOVA M
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9281.m3u8
+#EXTINF:-1 tvg-id="[SL] Planet TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Planet TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359096.ts
 
-#EXTINF:-1 tvg-id="[MK] 24 VESTI" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] 24 VESTI
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3655.m3u8
+#EXTINF:-1 tvg-id="[SL] POP TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] POP TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359097.ts
 
-#EXTINF:-1 tvg-id="[MK] ALFA TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] ALFA TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3658.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport Klub 1" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359098.ts
 
-#EXTINF:-1 tvg-id="[MK] KANAL 5" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] KANAL 5
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3660.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport Klub 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359099.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3656.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport Klub 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359100.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3657.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport Klub 4" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 4
+http://asmr4k.pro:8080//live/0421020409/05848383993/359101.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT 5" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 5
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10190.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport Klub 5" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 5
+http://asmr4k.pro:8080//live/0421020409/05848383993/359102.ts
 
-#EXTINF:-1 tvg-id="[MK] Hugo TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6469.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport Klub Golf" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub Golf
+http://asmr4k.pro:8080//live/0421020409/05848383993/359103.ts
 
-#EXTINF:-1 tvg-id="[MK] Hugo 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8860.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport TV 1" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport TV 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359104.ts
 
-#EXTINF:-1 tvg-id="[MK] Hugo 3" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo 3
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10192.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport TV 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport TV 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359105.ts
 
-#EXTINF:-1 tvg-id="[MK] Cineplex HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cineplex HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10193.m3u8
+#EXTINF:-1 tvg-id="[SL] Sport TV 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport TV 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359106.ts
 
-#EXTINF:-1 tvg-id="[MK] Cinestar TV Premiere 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cinestar TV Premiere 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6897.m3u8
+#EXTINF:-1 tvg-id="[SL] TV Koper" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Koper
+http://asmr4k.pro:8080//live/0421020409/05848383993/359107.ts
 
-#EXTINF:-1 tvg-id="[MK] MEGA BITOLA" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MEGA BITOLA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3654.m3u8
+#EXTINF:-1 tvg-id="[SL] TV Slovenija 1" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359108.ts
 
-#EXTINF:-1 tvg-id="[MK] SITEL" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SITEL
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3662.m3u8
+#EXTINF:-1 tvg-id="[SL] TV Slovenija 1 (B)" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 1 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359109.ts
 
-#EXTINF:-1 tvg-id="[MK] SITEL 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SITEL 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3661.m3u8
+#EXTINF:-1 tvg-id="[SL] TV Slovenija 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359110.ts
 
-#EXTINF:-1 tvg-id="[MK] NASA TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] NASA TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6657.m3u8
+#EXTINF:-1 tvg-id="[SL] TV Slovenija 2 (B)" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 2 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359111.ts
 
-#EXTINF:-1 tvg-id="[MK] SONCE TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SONCE TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3653.m3u8
+#EXTINF:-1 tvg-id="[SL] TV Slovenija 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359112.ts
 
-#EXTINF:-1 tvg-id="[MK] TELMA" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] TELMA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3659.m3u8
+#EXTINF:-1 tvg-id="[SL] VTV" tvg-logo="noimage.png" group-title="Slovenija", [SL] VTV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359113.ts
 
-#EXTINF:-1 tvg-id="[MK] SUTEL" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SUTEL
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3652.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] b92 TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] b92 TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359627.ts
 
-#EXTINF:-1 tvg-id="[MK] TERA TV Bitola" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] TERA TV Bitola
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6527.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] city tv" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] city tv
+http://asmr4k.pro:8080//live/0421020409/05848383993/359638.ts
 
-#EXTINF:-1 tvg-id="[MK] Cinestar TV Premiere 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cinestar TV Premiere 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8868.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] DM SAT" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] DM SAT
+http://asmr4k.pro:8080//live/0421020409/05848383993/359644.ts
 
-#EXTINF:-1 tvg-id="[MK] Folk HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Folk HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6525.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] DocuBox SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] DocuBox SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359645.ts
 
-#EXTINF:-1 tvg-id="[MK] Sky Folk HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Sky Folk HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6526.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Duga TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Duga TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359648.ts
 
-#EXTINF:-1 tvg-id="SLO 1" tvg-logo="noimage.png" group-title="SLOVENIA", SLO 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/217.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Grand TV 1 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Grand TV 1 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359661.ts
 
-#EXTINF:-1 tvg-id="SLO 2" tvg-logo="noimage.png" group-title="SLOVENIA", SLO 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/216.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Grand TV 2 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Grand TV 2 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359662.ts
 
-#EXTINF:-1 tvg-id="HBO 1 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 1 SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/226.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Happy Parovi" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Happy Parovi
+http://asmr4k.pro:8080//live/0421020409/05848383993/359663.ts
 
-#EXTINF:-1 tvg-id="HBO 2 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 2 SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/225.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Happy TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Happy TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359664.ts
 
-#EXTINF:-1 tvg-id="HBO 3 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 3 SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/224.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] N1 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] N1 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359702.ts
 
-#EXTINF:-1 tvg-id="POP Brio" tvg-logo="noimage.png" group-title="SLOVENIA", POP Brio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/221.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Nova S" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Nova S
+http://asmr4k.pro:8080//live/0421020409/05848383993/359710.ts
 
-#EXTINF:-1 tvg-id="POP Kino" tvg-logo="noimage.png" group-title="SLOVENIA", POP Kino
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/219.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359715.ts
 
-#EXTINF:-1 tvg-id="POP Oto" tvg-logo="noimage.png" group-title="SLOVENIA", POP Oto
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/218.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Action" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Action
+http://asmr4k.pro:8080//live/0421020409/05848383993/359716.ts
 
-#EXTINF:-1 tvg-id="POP TV" tvg-logo="noimage.png" group-title="SLOVENIA", POP TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/220.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Classic" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Classic
+http://asmr4k.pro:8080//live/0421020409/05848383993/359717.ts
 
-#EXTINF:-1 tvg-id="Planet TV" tvg-logo="noimage.png" group-title="SLOVENIA", Planet TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/222.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Comedy" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Comedy
+http://asmr4k.pro:8080//live/0421020409/05848383993/359718.ts
 
-#EXTINF:-1 tvg-id="Kanal A" tvg-logo="noimage.png" group-title="SLOVENIA", Kanal A
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/223.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Crime & Mystery" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Crime & Mystery
+http://asmr4k.pro:8080//live/0421020409/05848383993/359719.ts
 
-#EXTINF:-1 tvg-id="GOLICA" tvg-logo="noimage.png" group-title="SLOVENIA", GOLICA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/209.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Extra" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Extra
+http://asmr4k.pro:8080//live/0421020409/05848383993/359720.ts
 
-#EXTINF:-1 tvg-id="Planet SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Planet SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8035.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Family" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Family
+http://asmr4k.pro:8080//live/0421020409/05848383993/359721.ts
 
-#EXTINF:-1 tvg-id="Planet Plus SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Planet Plus SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8038.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Film" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Film
+http://asmr4k.pro:8080//live/0421020409/05848383993/359722.ts
 
-#EXTINF:-1 tvg-id="Nova 24 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Nova 24 SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8037.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Folk 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359723.ts
 
-#EXTINF:-1 tvg-id="Fox Crime SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Fox Crime SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8040.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Folk 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359724.ts
 
-#EXTINF:-1 tvg-id="Fox Life SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Fox Life SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8039.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink HAHA" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink HAHA
+http://asmr4k.pro:8080//live/0421020409/05848383993/359725.ts
 
-#EXTINF:-1 tvg-id="rts1.sr" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA", RTS 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/521.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Hits 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359726.ts
 
-#EXTINF:-1 tvg-id="rts2.sr" tvg-logo="http://116.203.156.75/logo/RTS2_logo.png" group-title="SRBIJA", RTS 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/520.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Hits 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359727.ts
 
-#EXTINF:-1 tvg-id="RTS 3" tvg-logo="http://116.203.156.75/logo/rts3.png" group-title="SRBIJA", RTS 3 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/519.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Horror" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Horror
+http://asmr4k.pro:8080//live/0421020409/05848383993/359728.ts
 
-#EXTINF:-1 tvg-id="rts1.sr" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA", RTS 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6886.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Kids" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Kids
+http://asmr4k.pro:8080//live/0421020409/05848383993/359729.ts
 
-#EXTINF:-1 tvg-id="rts2.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS2_logo.png" group-title="SRBIJA", RTS 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9353.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink LOL" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink LOL
+http://asmr4k.pro:8080//live/0421020409/05848383993/359730.ts
 
-#EXTINF:-1 tvg-id="rts-sat" tvg-logo="http://116.203.156.75/logo/rts_svet.png" group-title="SRBIJA", RTS Svet HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/516.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Movies" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Movies
+http://asmr4k.pro:8080//live/0421020409/05848383993/359731.ts
 
-#EXTINF:-1 tvg-id="RTS Nauka" tvg-logo="http://nova-iptv.com/logo/rtsnauka.png" group-title="SRBIJA", RTS Nauka
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12552.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Music 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359732.ts
 
-#EXTINF:-1 tvg-id="france24.fr" tvg-logo="http://116.203.156.75/logo/RTS_Drama_logo.png" group-title="SRBIJA", RTS Drama
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/518.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Music 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359733.ts
 
-#EXTINF:-1 tvg-id="RTS Zivot" tvg-logo="http://nova-iptv.com/logo/RTS_Zivot_logo.png" group-title="SRBIJA", RTS Zivot
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/517.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Pedia" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Pedia
+http://asmr4k.pro:8080//live/0421020409/05848383993/359734.ts
 
-#EXTINF:-1 tvg-id="RTS Kolo" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Kolo_logo.jpg" group-title="SRBIJA", RTS Kolo
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6399.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Plus" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Plus
+http://asmr4k.pro:8080//live/0421020409/05848383993/359735.ts
 
-#EXTINF:-1 tvg-id="RTS Muzika" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Muzika_logo.png" group-title="SRBIJA", RTS Muzika
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6398.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Premium" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Premium
+http://asmr4k.pro:8080//live/0421020409/05848383993/359736.ts
 
-#EXTINF:-1 tvg-id="RTS Trezor" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Trezor_logo.png" group-title="SRBIJA", RTS Trezor
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6400.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Reality" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Reality
+http://asmr4k.pro:8080//live/0421020409/05848383993/359737.ts
 
-#EXTINF:-1 tvg-id="RTS Poletarac" tvg-logo="http://nova-iptv.com/logo/RTS_Poletarac_logo.png" group-title="SRBIJA", RTS Poletarac
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12340.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Romance" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Romance
+http://asmr4k.pro:8080//live/0421020409/05848383993/359738.ts
 
-#EXTINF:-1 tvg-id="RTS Klasika" tvg-logo="http://nova-iptv.com/logo/rts-klasika-logo.png" group-title="SRBIJA", RTS Klasika
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12525.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Sci Fi & Fantasy" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Sci Fi & Fantasy
+http://asmr4k.pro:8080//live/0421020409/05848383993/359739.ts
 
-#EXTINF:-1 tvg-id="Kurir TV" tvg-logo="http://116.203.156.75/logo/KurirTV_logo.png" group-title="SRBIJA", Kurir TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9305.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Serije" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Serije
+http://asmr4k.pro:8080//live/0421020409/05848383993/359740.ts
 
-#EXTINF:-1 tvg-id="Blic TV HD" tvg-logo="http://nova-iptv.com/logo/blictv.png" group-title="SRBIJA", Blic TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12703.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Show SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Show SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359741.ts
 
-#EXTINF:-1 tvg-id="N1 HD (SR)" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="SRBIJA", N1 SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9271.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Soap" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Soap
+http://asmr4k.pro:8080//live/0421020409/05848383993/359742.ts
 
-#EXTINF:-1 tvg-id="Euro News Srb" tvg-logo="http://nova-iptv.com/logo/Euronews_2016_Logo.png" group-title="SRBIJA", Euro News Srb
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6524.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Style" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Style
+http://asmr4k.pro:8080//live/0421020409/05848383993/359743.ts
 
-#EXTINF:-1 tvg-id="Tanjug TV" tvg-logo="http://nova-iptv.com/logo/tanjug_logo.png" group-title="SRBIJA", Tanjug HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12524.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Thriller" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Thriller
+http://asmr4k.pro:8080//live/0421020409/05848383993/359744.ts
 
-#EXTINF:-1 tvg-id="Informer TV" tvg-logo="http://nova-iptv.com/logo/informer_tv.png" group-title="SRBIJA", Informer TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13010.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Western" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Western
+http://asmr4k.pro:8080//live/0421020409/05848383993/359745.ts
 
-#EXTINF:-1 tvg-id="K1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/k1-tv-srbija.png" group-title="SRBIJA", K1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10263.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink World" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink World
+http://asmr4k.pro:8080//live/0421020409/05848383993/359746.ts
 
-#EXTINF:-1 tvg-id="TV DR" tvg-logo="http://nova-iptv.com/logo/tvdr.png" group-title="SRBIJA", TV DR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12551.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink World Cinema" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink World Cinema
+http://asmr4k.pro:8080//live/0421020409/05848383993/359747.ts
 
-#EXTINF:-1 tvg-id="b92.sr" tvg-logo="http://116.203.156.75/logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8022.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Zabava" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Zabava
+http://asmr4k.pro:8080//live/0421020409/05848383993/359748.ts
 
-#EXTINF:-1 tvg-id="b92.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/594.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Prva" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva
+http://asmr4k.pro:8080//live/0421020409/05848383993/359749.ts
 
-#EXTINF:-1 tvg-id="b92.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV HD.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12345.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Prva Kick" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva Kick
+http://asmr4k.pro:8080//live/0421020409/05848383993/359750.ts
 
-#EXTINF:-1 tvg-id="NOVA S HD (RS)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/nova_s_logo.png" group-title="SRBIJA", NOVA S
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9274.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Prva Max" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva Max
+http://asmr4k.pro:8080//live/0421020409/05848383993/359751.ts
 
-#EXTINF:-1 tvg-id="Nova Series HD" tvg-logo="https://mojtv.hr/m2/img/ch/726.png" group-title="SRBIJA", Nova Series HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12973.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Prva Plus" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva Plus
+http://asmr4k.pro:8080//live/0421020409/05848383993/359752.ts
 
-#EXTINF:-1 tvg-id="nova-m.cg" tvg-logo="http://nova-iptv.com/logo/Nova_MAX.png" group-title="SRBIJA", NOVA Max HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12748.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Prva World" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva World
+http://asmr4k.pro:8080//live/0421020409/05848383993/359753.ts
 
-#EXTINF:-1 tvg-id="france24.fr" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA", Happy TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/567.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Red TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Red TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359754.ts
 
-#EXTINF:-1 tvg-id="Happy Zivot" tvg-logo="http://nova-iptv.com/logo/happy_zivot.png" group-title="SRBIJA", Happy Zivot
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12705.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Roma TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Roma TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359755.ts
 
-#EXTINF:-1 tvg-id="Happy Drustvo" tvg-logo="http://nova-iptv.com/logo/happy_drustvo.png" group-title="SRBIJA", Happy Drustvo
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12704.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTS 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359757.ts
 
-#EXTINF:-1 tvg-id="Happy Zemlja" tvg-logo="http://nova-iptv.com/logo/happy_zemlja.png" group-title="SRBIJA", Happy Zemlja
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12800.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTS 1 (B)" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 1 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359758.ts
 
-#EXTINF:-1 tvg-id="Happy Muzika" tvg-logo="http://nova-iptv.com/logo/happy_muzika.png" group-title="SRBIJA", Happy Muzika
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12706.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTS 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359759.ts
 
-#EXTINF:-1 tvg-id="Prva" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", Prva TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8021.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTS 2 (B)" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 2 (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359760.ts
 
-#EXTINF:-1 tvg-id="Prva" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", Prva HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/539.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTS 3" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359761.ts
 
-#EXTINF:-1 tvg-id="Prva" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", PRVA HD.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12346.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTS Svet" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS Svet
+http://asmr4k.pro:8080//live/0421020409/05848383993/359762.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/Prva_Max.png" group-title="SRBIJA", Prva Max
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/538.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTV 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359763.ts
 
-#EXTINF:-1 tvg-id="Prva plus" tvg-logo="http://116.203.156.75/logo/prva_plus.png" group-title="SRBIJA", Prva Plus
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/537.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTV 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359764.ts
 
-#EXTINF:-1 tvg-id="Prva Kick" tvg-logo="http://116.203.156.75/logo/Prva_Kick.png" group-title="SRBIJA", Prva Kick
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3649.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTV Krajina" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV Krajina
+http://asmr4k.pro:8080//live/0421020409/05848383993/359765.ts
 
-#EXTINF:-1 tvg-id="Prva Life" tvg-logo="http://116.203.156.75/logo/Prva_Life.png" group-title="SRBIJA", Prva Life
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12556.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTV MLAVA" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV MLAVA
+http://asmr4k.pro:8080//live/0421020409/05848383993/359766.ts
 
-#EXTINF:-1 tvg-id="Prva World" tvg-logo="http://116.203.156.75/logo/Prva_World.png" group-title="SRBIJA", Prva World
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/536.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTV Novi Pazar" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV Novi Pazar
+http://asmr4k.pro:8080//live/0421020409/05848383993/359767.ts
 
-#EXTINF:-1 tvg-id="Prva Files" tvg-logo="http://116.203.156.75/logo/Prva_Files.png" group-title="SRBIJA", Prva Files
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/545.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sandzak TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Sandzak TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359768.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/narodna_tv.png" group-title="SRBIJA", Narodna TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12728.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] SOS Kanal SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] SOS Kanal SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359769.ts
 
-#EXTINF:-1 tvg-id="Hype TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Hype_TV.png" group-title="SRBIJA", Hype TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12578.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] STAR TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] STAR TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359789.ts
 
-#EXTINF:-1 tvg-id="Bloomberg Adria" tvg-logo="http://nova-iptv.com/logo/bloomberg.png" group-title="SRBIJA", Bloomberg Adria
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12611.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Studio B" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Studio B
+http://asmr4k.pro:8080//live/0421020409/05848383993/359790.ts
 
-#EXTINF:-1 tvg-id="K::CN 1" tvg-logo="http://116.203.156.75/logo/kcn1.png" group-title="SRBIJA", K::CN 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/400.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] SUPERSTAR TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] SUPERSTAR TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359792.ts
 
-#EXTINF:-1 tvg-id="K::CN Music 2" tvg-logo="http://116.203.156.75/logo/kcn2.png" group-title="SRBIJA", K::CN 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/399.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] TV Hram" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] TV Hram
+http://asmr4k.pro:8080//live/0421020409/05848383993/359798.ts
 
-#EXTINF:-1 tvg-id="K::CN Svet +3 (W2)" tvg-logo="http://116.203.156.75/logo/kcn3.png" group-title="SRBIJA", K::CN 3
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/398.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] TV Vesti" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] TV Vesti
+http://asmr4k.pro:8080//live/0421020409/05848383993/359799.ts
 
-#EXTINF:-1 tvg-id="Agro TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/agrotv_logo-1.png" group-title="SRBIJA", Agro TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8865.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] TV1000 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] TV1000 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359800.ts
 
-#EXTINF:-1 tvg-id="Super Sat HD" tvg-logo="http://116.203.156.75/logo/SuperSat.png" group-title="SRBIJA", Super Sat HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12101.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga 2 Live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga 2 Live
+http://asmr4k.pro:8080//live/0421020409/05848383993/359805.ts
 
-#EXTINF:-1 tvg-id="RTV 1" tvg-logo="http://nova-iptv.com/logo/rtv-1.png" group-title="SRBIJA", RTV Vojvodina
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/513.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga 3 Live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga 3 Live
+http://asmr4k.pro:8080//live/0421020409/05848383993/359806.ts
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://nova-iptv.com/logo/studiob-logo.png" group-title="SRBIJA", Studio B
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3650.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga 4 live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga 4 live
+http://asmr4k.pro:8080//live/0421020409/05848383993/359807.ts
 
-#EXTINF:-1 tvg-id="Palma Plus" tvg-logo="http://116.203.156.75/logo/palma_plus.png" group-title="SRBIJA", Palma Plus
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3666.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga Live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga Live
+http://asmr4k.pro:8080//live/0421020409/05848383993/359808.ts
 
-#EXTINF:-1 tvg-id="BELLE AMIE" tvg-logo="http://116.203.156.75/logo/belle-amie-logo.png" group-title="SRBIJA", BELLE AMIE
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3665.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Zvezda TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zvezda TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359809.ts
 
-#EXTINF:-1 tvg-id="Insajder TV" tvg-logo="http://nova-iptv.com/logo/InsajderRV_Srb_logo.png" group-title="SRBIJA", Insajder TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/515.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359596.ts
 
-#EXTINF:-1 tvg-id="Hram TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png" group-title="SRBIJA", Hram TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8227.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 HR (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359597.ts
 
-#EXTINF:-1 tvg-id="RTV Novi Pazar" tvg-logo="http://116.203.156.75/logo/novi_pazar.png" group-title="SRBIJA", RTV Novi Pazar
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/512.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 Srb
+http://asmr4k.pro:8080//live/0421020409/05848383993/359598.ts
 
-#EXTINF:-1 tvg-id="HAPPY PAROVI 24 SATA" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA", HAPPY PAROVI 24 SATA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/568.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 Srb (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359599.ts
 
-#EXTINF:-1 tvg-id="Elita Live 1" tvg-logo="http://nova-iptv.com/logo/elita1.png" group-title="SRBIJA", Elita Live 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6334.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 10 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 10 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359600.ts
 
-#EXTINF:-1 tvg-id="Elita Live 2" tvg-logo="http://nova-iptv.com/logo/elita2.png" group-title="SRBIJA", Elita Live 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8217.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359601.ts
 
-#EXTINF:-1 tvg-id="Elita Live 3" tvg-logo="http://nova-iptv.com/logo/elita3.png" group-title="SRBIJA", Elita Live 3
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8218.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 HR (B)" tvg-logo="http://asmr4k.pro:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWMskmhzFMxz9xbM_-b-8mRipkljiBZMes4rrxhX8dZEDJqvB1rUPn-qgiw6GO-QKjalcZImfClDwWY_HCi0cDd.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 HR (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359602.ts
 
-#EXTINF:-1 tvg-id="Elita Live 4" tvg-logo="http://nova-iptv.com/logo/elita4.png" group-title="SRBIJA", Elita Live 4
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8501.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 Srb
+http://asmr4k.pro:8080//live/0421020409/05848383993/359603.ts
 
-#EXTINF:-1 tvg-id="Minimax" tvg-logo="http://116.203.156.75/logo/minimax.png" group-title="DJECIJI", MINIMAX
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/384.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 Srb (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359604.ts
 
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/382.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359605.ts
 
-#EXTINF:-1 tvg-id="Nickelodeon." tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6864.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 HR (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359606.ts
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://116.203.156.75/logo/nickjr.png" group-title="DJECIJI", Nick Jr.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/383.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 Srb
+http://asmr4k.pro:8080//live/0421020409/05848383993/359607.ts
 
-#EXTINF:-1 tvg-id="Nicktoons (HR)" tvg-logo="http://nova-iptv.com/logo/nicktoons.png" group-title="DJECIJI", Nicktoons
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8861.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 Srb (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359608.ts
 
-#EXTINF:-1 tvg-id="Disney" tvg-logo="http://nova-iptv.com/logo/disney_channel_2019.png" group-title="DJECIJI", Disney
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12559.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359609.ts
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://nova-iptv.com/logo/disney-junior-logo.png" group-title="DJECIJI", Disney Junior
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12560.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 HR (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359610.ts
 
-#EXTINF:-1 tvg-id="Jim Jam" tvg-logo="http://nova-iptv.com/logo/JimJam-_logo_new3.png" group-title="DJECIJI", Jim Jam
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12561.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 Srb
+http://asmr4k.pro:8080//live/0421020409/05848383993/359611.ts
 
-#EXTINF:-1 tvg-id="minitv" tvg-logo="http://nova-iptv.com/logo/minitv.png" group-title="DJECIJI", Mini TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9282.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 Srb (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359612.ts
 
-#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="http://nova-iptv.com/logo/tnt-kids_logo.png" group-title="DJECIJI", TNT Kids
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12389.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359613.ts
 
-#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://nova-iptv.com/logo/pikaboo_logo.png" group-title="DJECIJI", Pikaboo
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9285.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 HR (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359614.ts
 
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://nova-iptv.com/logo/rtl-kockica-logo.png" group-title="DJECIJI", RTL KOCKICA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7520.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 Srb
+http://asmr4k.pro:8080//live/0421020409/05848383993/359615.ts
 
-#EXTINF:-1 tvg-id="Hayatovci" tvg-logo="http://116.203.156.75/logo/hayatovci-logo.png" group-title="DJECIJI", Hayatovci
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/562.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 Srb (B)
+http://asmr4k.pro:8080//live/0421020409/05848383993/359616.ts
 
-#EXTINF:-1 tvg-id="Pink super kids" tvg-logo="http://nova-iptv.com/logo/PinkSuperKids_logo.png" group-title="DJECIJI", Pink Super Kids
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8048.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 6 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 6 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359617.ts
 
-#EXTINF:-1 tvg-id="Kazbuka" tvg-logo="http://nova-iptv.com/logo/kazbuka.png" group-title="DJECIJI", Kazbuka
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12550.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 7 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 7 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359618.ts
 
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://116.203.156.75/logo/Babytv.png" group-title="DJECIJI", Baby TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/388.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 8 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 8 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359619.ts
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://116.203.156.75/logo/Cartoon_Network_Logo.jpg" group-title="DJECIJI", Cartoon Network
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/389.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 9 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 9 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359620.ts
 
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://116.203.156.75/logo/Boomerang_Logo_2014.png" group-title="DJECIJI", Cartoonito
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/387.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport BiH" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport BiH
+http://asmr4k.pro:8080//live/0421020409/05848383993/359621.ts
 
-#EXTINF:-1 tvg-id="VAVOOM" tvg-logo="http://nova-iptv.com/logo/vavoom.png" group-title="DJECIJI", VAVOOM
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10255.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT PREMIUM 1 HD" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT PREMIUM 1 HD
+http://asmr4k.pro:8080//live/0421020409/05848383993/359622.ts
 
-#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Duck_TV_Plus_PL_logo.png" group-title="DJECIJI", DUCK TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10256.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT PREMIUM 2 HD" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT PREMIUM 2 HD
+http://asmr4k.pro:8080//live/0421020409/05848383993/359623.ts
 
-#EXTINF:-1 tvg-id="Nova Kids" tvg-logo="noimage.png" group-title="DJECIJI", Nova Kids
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12085.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT PREMIUM 3 HD" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT PREMIUM 3 HD
+http://asmr4k.pro:8080//live/0421020409/05848383993/359624.ts
 
-#EXTINF:-1 tvg-id="GORA KIDS HD" tvg-logo="noimage.png" group-title="DJECIJI", GORA KIDS HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10259.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] EuroSport 1" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] EuroSport 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359650.ts
 
-#EXTINF:-1 tvg-id="Ginx TV" tvg-logo="noimage.png" group-title="DJECIJI", Ginx TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10268.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] EuroSport 2" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] EuroSport 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359651.ts
 
-#EXTINF:-1 tvg-id="Pink Panter TV" tvg-logo="noimage.png" group-title="DJECIJI", Pink Panter TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8232.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Fight Channel" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Fight Channel
+http://asmr4k.pro:8080//live/0421020409/05848383993/359652.ts
 
-#EXTINF:-1 tvg-id="Grizzy & the Lemmings" tvg-logo="noimage.png" group-title="DJECIJI", Grizzy & the Lemmings
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8233.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] FightBox" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] FightBox
+http://asmr4k.pro:8080//live/0421020409/05848383993/359653.ts
 
-#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="noimage.png" group-title="DJECIJI", Tom and Jerry
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8046.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Max Sport 1" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Max Sport 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359684.ts
 
-#EXTINF:-1 tvg-id="PEPA PRASE" tvg-logo="noimage.png" group-title="DJECIJI", PEPA PRASE
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10029.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Max Sport 2" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Max Sport 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359685.ts
 
-#EXTINF:-1 tvg-id="MASA I MEDVJED" tvg-logo="noimage.png" group-title="DJECIJI", MASA I MEDVJED
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5671.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Nova Sport" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Nova Sport
+http://asmr4k.pro:8080//live/0421020409/05848383993/359711.ts
 
-#EXTINF:-1 tvg-id="NOVA DOKU" tvg-logo="noimage.png" group-title="DOKUMENTARNI", NOVA DOKU
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10319.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] PARTIZAN TV" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] PARTIZAN TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359712.ts
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/49.png" group-title="DOKUMENTARNI", National Geographic
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6303.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 1 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 1 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359770.ts
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/national_geographic_logo.png" group-title="DOKUMENTARNI", National Geographic HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/546.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 1 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 1 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359771.ts
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/598.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 10 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 10 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359772.ts
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8848.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 2 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 2 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359773.ts
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/183.png" group-title="DOKUMENTARNI", Nat Geo Wild
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/547.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 2 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 2 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359774.ts
 
-#EXTINF:-1 tvg-id="discovery-europe.doc" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/47.png" group-title="DOKUMENTARNI", Discovery Channel
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/583.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 3 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 3 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359775.ts
 
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation-discovery-logo.png" group-title="DOKUMENTARNI", Discovery ID
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7275.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 3 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 3 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359776.ts
 
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/70.png" group-title="DOKUMENTARNI", Discovery TLC
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12942.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 4 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 4 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359777.ts
 
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://116.203.156.75/logo/Entertainment.jpg" group-title="DOKUMENTARNI", Entertaimment +
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3664.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 4 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 4 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359778.ts
 
-#EXTINF:-1 tvg-id="Crime & Investigation" tvg-logo="http://116.203.156.75/logo/crimeinvest.jpg" group-title="DOKUMENTARNI", Crime & Investigation
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/585.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 5 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 5 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359779.ts
 
-#EXTINF:-1 tvg-id="davinci" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/90.png" group-title="DOKUMENTARNI", Da Vinci Learning
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/584.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 5 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 5 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359780.ts
 
-#EXTINF:-1 tvg-id="Viasat Explore HD" tvg-logo="http://116.203.156.75/logo/9.png" group-title="DOKUMENTARNI", Viasat Explore HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/503.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 6 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 6 HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359781.ts
 
-#EXTINF:-1 tvg-id="Viasat History HD" tvg-logo="http://116.203.156.75/logo/6.png" group-title="DOKUMENTARNI", Viasat History HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/502.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 6 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 6 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359782.ts
 
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="http://116.203.156.75/logo/naturelogo.png" group-title="DOKUMENTARNI", Viasat Nature
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/501.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 7 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 7 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359783.ts
 
-#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://nova-iptv.com/logo/balkan-trip_logo.png" group-title="DOKUMENTARNI", Balkan Trip
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10270.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 8 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 8 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359784.ts
 
-#EXTINF:-1 tvg-id="DR FIT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dr_Fit_logo.png" group-title="DOKUMENTARNI", DR FIT
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/524.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 9 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 9 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359785.ts
 
-#EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/woman_logo.png" group-title="DOKUMENTARNI", Woman TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8866.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub GOLF" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub GOLF
+http://asmr4k.pro:8080//live/0421020409/05848383993/359786.ts
 
-#EXTINF:-1 tvg-id="Turizam +" tvg-logo="http://nova-iptv.com/logo/turizam_plus.jpg" group-title="DOKUMENTARNI", Turizam +
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8867.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359787.ts
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hgtv_logo.png" group-title="DOKUMENTARNI", HGTV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6298.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359788.ts
 
-#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="http://116.203.156.75/logo/travel.png" group-title="DOKUMENTARNI", Travel Channel HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3651.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Hayatovci" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Hayatovci
+http://asmr4k.pro:8080//live/0421020409/05848383993/359665.ts
 
-#EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fashiontv-logo.png" group-title="DOKUMENTARNI", Travel XP
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/587.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MASA I MEDO" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] MASA I MEDO
+http://asmr4k.pro:8080//live/0421020409/05848383993/359683.ts
 
-#EXTINF:-1 tvg-id="planet-earth" tvg-logo="http://116.203.156.75/logo/PlanetEarth.png" group-title="DOKUMENTARNI", Planet Earth
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5389.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Mini TV" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Mini TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359696.ts
 
-#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12803.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MINIMAX" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] MINIMAX
+http://asmr4k.pro:8080//live/0421020409/05848383993/359697.ts
 
-#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5677.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Nick Junior HR" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Nick Junior HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359705.ts
 
-#EXTINF:-1 tvg-id="DOKU TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/DOKUTV_logo.png" group-title="DOKUMENTARNI", DOKU TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5673.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Nick Junior SRB" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Nick Junior SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359706.ts
 
-#EXTINF:-1 tvg-id="DOX TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DoxTV_logo.png" group-title="DOKUMENTARNI", DOX TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12588.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Nickelodeon" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Nickelodeon
+http://asmr4k.pro:8080//live/0421020409/05848383993/359707.ts
 
-#EXTINF:-1 tvg-id="docubox-hd" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/158.png" group-title="DOKUMENTARNI", Docu Box HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/577.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Kids" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Pink Kids
+http://asmr4k.pro:8080//live/0421020409/05848383993/359729.ts
 
-#EXTINF:-1 tvg-id="History HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/66.png" group-title="DOKUMENTARNI", History Channel
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/561.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Super Kids" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Super Kids
+http://asmr4k.pro:8080//live/0421020409/05848383993/359791.ts
 
-#EXTINF:-1 tvg-id="History 2 HD" tvg-logo="http://116.203.156.75/logo/h2-logo.png" group-title="DOKUMENTARNI", History Channel 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/569.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Tom and Jerry Channel" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Tom and Jerry Channel
+http://asmr4k.pro:8080//live/0421020409/05848383993/359795.ts
 
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOKUMENTARNI", Food Network
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6314.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] RTL Kockica" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] RTL Kockica
+http://asmr4k.pro:8080//live/0421020409/05848383993/359756.ts
 
-#EXTINF:-1 tvg-id="24Kitchen HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/71.png" group-title="DOKUMENTARNI", 24 Kitchen
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/601.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Cinemania" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinemania
+http://asmr4k.pro:8080//live/0421020409/05848383993/359630.ts
 
-#EXTINF:-1 tvg-id="NOVA PREMIUM HD" tvg-logo="noimage.png" group-title="FILMSKI", NOVA PREMIUM HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8219.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Cinemax 1" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinemax 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359631.ts
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/419.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Cinemax 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinemax 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359632.ts
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12809.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Cinestar Premiere 1" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinestar Premiere 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359633.ts
 
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/418.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Cinestar Premiere 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinestar Premiere 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359634.ts
 
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12810.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] CineStar TV" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] CineStar TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359635.ts
 
-#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/417.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] CineStar TV ACTION" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] CineStar TV ACTION
+http://asmr4k.pro:8080//live/0421020409/05848383993/359636.ts
 
-#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD.
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12811.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] CineStar TV FANTASY" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] CineStar TV FANTASY
+http://asmr4k.pro:8080//live/0421020409/05848383993/359637.ts
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://116.203.156.75/logo/176.png" group-title="FILMSKI", Cinemax 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/435.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Film Klub" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Film Klub
+http://asmr4k.pro:8080//live/0421020409/05848383993/359654.ts
 
-#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-logo="http://116.203.156.75/logo/177.png" group-title="FILMSKI", Cinemax 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/434.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Filmbox Extra SRB" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Filmbox Extra SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359655.ts
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6543.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Filmbox Stars SRB" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Filmbox Stars SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359656.ts
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6542.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] HBO 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] HBO 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359666.ts
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/431.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] HBO 3" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] HBO 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359667.ts
 
-#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/430.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] HBO Adria HD" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] HBO Adria HD
+http://asmr4k.pro:8080//live/0421020409/05848383993/359668.ts
 
-#EXTINF:-1 tvg-id="CineStar TV (HR)" tvg-logo="http://116.203.156.75/logo/cine.png" group-title="FILMSKI", CineStar TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/429.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Kino TV" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Kino TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359677.ts
 
-#EXTINF:-1 tvg-id="CineStar TV 2 HD" tvg-logo="http://nova-iptv.com/logo/Cinestar_tv2_logo.png" group-title="FILMSKI", CineStar TV 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8304.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Klasik TV" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Klasik TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359678.ts
 
-#EXTINF:-1 tvg-id="CineStar TV Fantasy HD" tvg-logo="http://116.203.156.75/logo/cinestartv_fantasy_logo.png" group-title="FILMSKI", CineStar Fantasy
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/432.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] LUD ZBUNJEN NORMALAN" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] LUD ZBUNJEN NORMALAN
+http://asmr4k.pro:8080//live/0421020409/05848383993/359680.ts
 
-#EXTINF:-1 tvg-id="CineStar TV Action (HR)" tvg-logo="http://116.203.156.75/logo/cineaction.png" group-title="FILMSKI", Cinestar Action
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/433.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] M1 Film" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] M1 Film
+http://asmr4k.pro:8080//live/0421020409/05848383993/359681.ts
 
-#EXTINF:-1 tvg-id="CineStar TV Comedy & Family HD" tvg-logo="http://nova-iptv.com/logo/cinestartv_comedy_logo.png" group-title="FILMSKI", Cinestar Comedy
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10320.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] M1 Film Gold" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] M1 Film Gold
+http://asmr4k.pro:8080//live/0421020409/05848383993/359682.ts
 
-#EXTINF:-1 tvg-id="Cinemania HD" tvg-logo="http://nova-iptv.com/logo/cinemania-logo.png" group-title="FILMSKI", Cinemania HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9284.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 1" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359686.ts
 
-#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/423.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 10" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 10
+http://asmr4k.pro:8080//live/0421020409/05848383993/359687.ts
 
-#EXTINF:-1 tvg-id="FOX Crime (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/422.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359688.ts
 
-#EXTINF:-1 tvg-id="FOX Life (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/421.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 3" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 3
+http://asmr4k.pro:8080//live/0421020409/05848383993/359689.ts
 
-#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/420.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 4" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 4
+http://asmr4k.pro:8080//live/0421020409/05848383993/359690.ts
 
-#EXTINF:-1 tvg-id="FOX HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6305.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 5" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 5
+http://asmr4k.pro:8080//live/0421020409/05848383993/359691.ts
 
-#EXTINF:-1 tvg-id="FOX Life (INT)" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6307.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 6" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 6
+http://asmr4k.pro:8080//live/0421020409/05848383993/359692.ts
 
-#EXTINF:-1 tvg-id="FOX Crime (INT)" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6306.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 7" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 7
+http://asmr4k.pro:8080//live/0421020409/05848383993/359693.ts
 
-#EXTINF:-1 tvg-id="FOX Movies HD (INT)" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6308.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 8" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 8
+http://asmr4k.pro:8080//live/0421020409/05848383993/359694.ts
 
-#EXTINF:-1 tvg-id="Superstar TV HD" tvg-logo="http://nova-iptv.com/logo/SuperstarTV_logo.png" group-title="FILMSKI", SUPER STAR TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6270.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 9" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 9
+http://asmr4k.pro:8080//live/0421020409/05848383993/359695.ts
 
-#EXTINF:-1 tvg-id="SUPERSTAR 2" tvg-logo="http://nova-iptv.com/logo/Superstar_2_RS_logo.png" group-title="FILMSKI", SUPER STAR 2 TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6748.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Nova Cinema" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Nova Cinema
+http://asmr4k.pro:8080//live/0421020409/05848383993/359708.ts
 
-#EXTINF:-1 tvg-id="SUPER STAR 3 TV" tvg-logo="http://116.203.156.75/logo/superstar_3.png" group-title="FILMSKI", SUPER STAR 3 TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13281.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] PICKBOX TV HR" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] PICKBOX TV HR
+http://asmr4k.pro:8080//live/0421020409/05848383993/359713.ts
 
-#EXTINF:-1 tvg-id="Film Box Premium HD" tvg-logo="http://nova-iptv.com/logo/FilmBox_Premium_logo.png" group-title="FILMSKI", Film Box Premium HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12802.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Action" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Action
+http://asmr4k.pro:8080//live/0421020409/05848383993/359716.ts
 
-#EXTINF:-1 tvg-id="Film Box Extra HD" tvg-logo="http://nova-iptv.com/logo/filmboxextrahd_logo.png" group-title="FILMSKI", Film Box Extra HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/424.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Classic" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Classic
+http://asmr4k.pro:8080//live/0421020409/05848383993/359717.ts
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://nova-iptv.com/logo/FilmboxStars_Black.png" group-title="FILMSKI", Film Box Stars
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5510.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Comedy" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Comedy
+http://asmr4k.pro:8080//live/0421020409/05848383993/359718.ts
 
-#EXTINF:-1 tvg-id="TV1000" tvg-logo="http://116.203.156.75/logo/viasat_kino.png" group-title="FILMSKI", Viasat Kino
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/408.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Crime & Mystery" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Crime & Mystery
+http://asmr4k.pro:8080//live/0421020409/05848383993/359719.ts
 
-#EXTINF:-1 tvg-id="AMC HD (INT)" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/99.png" group-title="FILMSKI", AMC
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/599.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Extra" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Extra
+http://asmr4k.pro:8080//live/0421020409/05848383993/359720.ts
 
-#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="http://nova-iptv.com/logo/Epic_Drama_BG_logo.png" group-title="FILMSKI", Epic Drama
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6656.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Family" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Family
+http://asmr4k.pro:8080//live/0421020409/05848383993/359721.ts
 
-#EXTINF:-1 tvg-id="Diva" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/50.png" group-title="FILMSKI", Diva
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/576.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Film" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Film
+http://asmr4k.pro:8080//live/0421020409/05848383993/359722.ts
 
-#EXTINF:-1 tvg-id="Dizi" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DIZI_PL_logo.png" group-title="FILMSKI", Dizi
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9342.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Horror" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Horror
+http://asmr4k.pro:8080//live/0421020409/05848383993/359728.ts
 
-#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="http://116.203.156.75/logo/sci_fi.png" group-title="FILMSKI", SciFi
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/409.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Movies" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Movies
+http://asmr4k.pro:8080//live/0421020409/05848383993/359731.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/axn.png" group-title="FILMSKI", AXN
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/596.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Serije" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Serije
+http://asmr4k.pro:8080//live/0421020409/05848383993/359740.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/axn_spin_logo.png" group-title="FILMSKI", AXN Spin
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/595.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Soap" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Soap
+http://asmr4k.pro:8080//live/0421020409/05848383993/359742.ts
 
-#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="http://nova-iptv.com/logo/comedy_central_ro.png" group-title="FILMSKI", Comedy Central Extra
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/586.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Thriller" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Thriller
+http://asmr4k.pro:8080//live/0421020409/05848383993/359744.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://116.203.156.75/logo/klasik.png" group-title="FILMSKI", Klasik Tv
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/415.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Western" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Western
+http://asmr4k.pro:8080//live/0421020409/05848383993/359745.ts
 
-#EXTINF:-1 tvg-id="kinotv.hr" tvg-logo="http://nova-iptv.com/logo/kinotv_logo.png" group-title="FILMSKI", Kino TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/416.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] 24 Kitchen" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] 24 Kitchen
+http://asmr4k.pro:8080//live/0421020409/05848383993/359594.ts
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="http://nova-iptv.com/logo/m1film-logo.png" group-title="FILMSKI", M1 Film
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/414.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Animal Planet" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Animal Planet
+http://asmr4k.pro:8080//live/0421020409/05848383993/359595.ts
 
-#EXTINF:-1 tvg-id="M1 Gold" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Gold
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8900.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] AXN Adria" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] AXN Adria
+http://asmr4k.pro:8080//live/0421020409/05848383993/359625.ts
 
-#EXTINF:-1 tvg-id="M1 Family" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Family
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12861.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] AXN Spin" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] AXN Spin
+http://asmr4k.pro:8080//live/0421020409/05848383993/359626.ts
 
-#EXTINF:-1 tvg-id="pickbox-tv" tvg-logo="http://nova-iptv.com/logo/pickbox_logo_new.png" group-title="FILMSKI", PickBox TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8563.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Crime & Investigation" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Crime & Investigation
+http://asmr4k.pro:8080//live/0421020409/05848383993/359639.ts
 
-#EXTINF:-1 tvg-id="Euro Cinema 1 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_1_RS_logo.png" group-title="FILMSKI", Euro Cinema 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12842.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Discovery Channel" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Discovery Channel
+http://asmr4k.pro:8080//live/0421020409/05848383993/359640.ts
 
-#EXTINF:-1 tvg-id="Euro Cinema 2 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_2_RS_logo.png" group-title="FILMSKI", Euro Cinema 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12843.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Discovery ID" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Discovery ID
+http://asmr4k.pro:8080//live/0421020409/05848383993/359641.ts
 
-#EXTINF:-1 tvg-id="Euro Cinema 3 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_3_RS_logo.png" group-title="FILMSKI", Euro Cinema 3 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12844.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Discovery Science SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Discovery Science SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359642.ts
 
-#EXTINF:-1 tvg-id="Euro Cinema 4 HD" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_4_RS_logo.png" group-title="FILMSKI", Euro Cinema 4 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12845.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] DocuBox SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] DocuBox SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359645.ts
 
-#EXTINF:-1 tvg-id="Prijatelji 24/7" tvg-logo="http://airlink.club:8080/images/d63fed889a25761dbce570906b51a44e.png" group-title="FILMSKI", Prijatelji 24/7
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12337.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Doku TV" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Doku TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359646.ts
 
-#EXTINF:-1 tvg-id="Mucke 24/7" tvg-logo="http://airlink.club:8080/images/c249201905aae2f76d255257f41ee1d1.png" group-title="FILMSKI", Mucke 24/7
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12339.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] E! Entertainment SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] E! Entertainment SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359649.ts
 
-#EXTINF:-1 tvg-id="Dva i po muskarca 24/7" tvg-logo="http://airlink.club:8080/images/2de61cc6752576441802cd008295c009.png" group-title="FILMSKI", Dva i po muskarca 24/7
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12870.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Food Network" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Food Network
+http://asmr4k.pro:8080//live/0421020409/05848383993/359657.ts
 
-#EXTINF:-1 tvg-id="HBO MAX HD" tvg-logo="noimage.png" group-title="FILMSKI", HBO MAX HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6273.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] History 2 SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] History 2 SRB
+http://asmr4k.pro:8080//live/0421020409/05848383993/359669.ts
 
-#EXTINF:-1 tvg-id="Gora Premiere HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Premiere HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3799.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] History Channel" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] History Channel
+http://asmr4k.pro:8080//live/0421020409/05848383993/359670.ts
 
-#EXTINF:-1 tvg-id="Gora Select 1 HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Select 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5467.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Lov i Ribolov" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Lov i Ribolov
+http://asmr4k.pro:8080//live/0421020409/05848383993/359679.ts
 
-#EXTINF:-1 tvg-id="NOVA PORN" tvg-logo="noimage.png" group-title="FOR ADULTS", NOVA PORN
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10028.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] National Geographic" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] National Geographic
+http://asmr4k.pro:8080//live/0421020409/05848383993/359703.ts
 
-#EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo="noimage.png" group-title="FOR ADULTS", HUSTLER HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12645.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] National Geographic Wild" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] National Geographic Wild
+http://asmr4k.pro:8080//live/0421020409/05848383993/359704.ts
 
-#EXTINF:-1 tvg-id="Dorcel HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Dorcel HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12656.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] TLC" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] TLC
+http://asmr4k.pro:8080//live/0421020409/05848383993/359793.ts
 
-#EXTINF:-1 tvg-id="Brazzers TV" tvg-logo="noimage.png" group-title="FOR ADULTS", Brazzers TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12644.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Travel" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Travel
+http://asmr4k.pro:8080//live/0421020409/05848383993/359797.ts
 
-#EXTINF:-1 tvg-id="PENTHOUSE GOLD HD" tvg-logo="noimage.png" group-title="FOR ADULTS", PENTHOUSE GOLD HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12642.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] DM SAT" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] DM SAT
+http://asmr4k.pro:8080//live/0421020409/05848383993/359644.ts
 
-#EXTINF:-1 tvg-id="REALITY KINGS" tvg-logo="noimage.png" group-title="FOR ADULTS", REALITY KINGS
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12651.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 1" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Folk 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359723.ts
 
-#EXTINF:-1 tvg-id="Evil Angel HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Evil Angel HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12660.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 2" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Folk 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359724.ts
 
-#EXTINF:-1 tvg-id="Barely Legal" tvg-logo="noimage.png" group-title="FOR ADULTS", Barely Legal
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12661.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 1" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Hits 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359726.ts
 
-#EXTINF:-1 tvg-id="VIVID RED" tvg-logo="noimage.png" group-title="FOR ADULTS", VIVID RED
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12691.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 2" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Hits 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359727.ts
 
-#EXTINF:-1 tvg-id="Fake Taxi" tvg-logo="noimage.png" group-title="FOR ADULTS", Fake Taxi
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12662.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 1" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Music 1
+http://asmr4k.pro:8080//live/0421020409/05848383993/359732.ts
 
-#EXTINF:-1 tvg-id="Dusk" tvg-logo="noimage.png" group-title="FOR ADULTS", Dusk
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12663.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 2" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Music 2
+http://asmr4k.pro:8080//live/0421020409/05848383993/359733.ts
 
-#EXTINF:-1 tvg-id="Blue Hustler" tvg-logo="noimage.png" group-title="FOR ADULTS", Blue Hustler
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12664.m3u8
+#EXTINF:-1 tvg-id="[Ex-Yu] TOP SOUND" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] TOP SOUND
+http://asmr4k.pro:8080//live/0421020409/05848383993/359796.ts
 
-#EXTINF:-1 tvg-id="Eroxxx HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Eroxxx HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12665.m3u8
+#EXTINF:-1 tvg-id="[BH] BN Music" tvg-logo="noimage.png" group-title="MUZIKA", [BH] BN Music
+http://asmr4k.pro:8080//live/0421020409/05848383993/357375.ts
 
-#EXTINF:-1 tvg-id="Mofos" tvg-logo="noimage.png" group-title="FOR ADULTS", Mofos
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12653.m3u8
+#EXTINF:-1 tvg-id="[BH] Hayat Folk" tvg-logo="noimage.png" group-title="MUZIKA", [BH] Hayat Folk
+http://asmr4k.pro:8080//live/0421020409/05848383993/357382.ts
 
-#EXTINF:-1 tvg-id="ADULT 1 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12336.m3u8
+#EXTINF:-1 tvg-id="[BH] Hayat Music" tvg-logo="noimage.png" group-title="MUZIKA", [BH] Hayat Music
+http://asmr4k.pro:8080//live/0421020409/05848383993/357383.ts
 
-#EXTINF:-1 tvg-id="ADULT 2 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12335.m3u8
+#EXTINF:-1 tvg-id="[BH] OTV Valentino" tvg-logo="noimage.png" group-title="MUZIKA", [BH] OTV Valentino
+http://asmr4k.pro:8080//live/0421020409/05848383993/357393.ts
 
-#EXTINF:-1 tvg-id="ADULT 3 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 3 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12334.m3u8
+#EXTINF:-1 tvg-id="[BH] Sevdah TV" tvg-logo="noimage.png" group-title="MUZIKA", [BH] Sevdah TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/357399.ts
 
-#EXTINF:-1 tvg-id="ADULT 4 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 4 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12333.m3u8
+#EXTINF:-1 tvg-id="[HR] CMC Music" tvg-logo="noimage.png" group-title="MUZIKA", [HR] CMC Music
+http://asmr4k.pro:8080//live/0421020409/05848383993/359556.ts
 
-#EXTINF:-1 tvg-id="ADULT 5 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 5 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12332.m3u8
+#EXTINF:-1 tvg-id="[HR] TV Banovina" tvg-logo="noimage.png" group-title="MUZIKA", [HR] TV Banovina
+http://asmr4k.pro:8080//live/0421020409/05848383993/359585.ts
 
-#EXTINF:-1 tvg-id="ADULT 6 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 6 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12331.m3u8
+#EXTINF:-1 tvg-id="[HR]Jugoton TV" tvg-logo="noimage.png" group-title="MUZIKA", [HR]Jugoton TV
+http://asmr4k.pro:8080//live/0421020409/05848383993/359592.ts
 
-#EXTINF:-1 tvg-id="ADULT 7 HD" tvg-logo="noimage.png" group-title="FOR ADULTS", ADULT 7 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12330.m3u8
+#EXTINF:-1 tvg-id="[MK] s*y Folk" tvg-logo="noimage.png" group-title="MUZIKA", [MK] sky Folk
+http://asmr4k.pro:8080//live/0421020409/05848383993/359535.ts
 
-#EXTINF:-1 tvg-id="Pink Erotic 1" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12667.m3u8
 
-#EXTINF:-1 tvg-id="Pink Erotic 2" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12668.m3u8
-
-#EXTINF:-1 tvg-id="Pink Erotic 3" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 3
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12669.m3u8
-
-#EXTINF:-1 tvg-id="Pink Erotic 4" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 4
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12670.m3u8
-
-#EXTINF:-1 tvg-id="Pink Erotic 5" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 5
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12671.m3u8
-
-#EXTINF:-1 tvg-id="Pink Erotic 6" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 6
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12672.m3u8
-
-#EXTINF:-1 tvg-id="Pink Erotic 7" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 7
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12673.m3u8
-
-#EXTINF:-1 tvg-id="Pink Erotic 8" tvg-logo="noimage.png" group-title="FOR ADULTS", Pink Erotic 8
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12674.m3u8
-
-#EXTINF:-1 tvg-id="Balkan Erotic" tvg-logo="noimage.png" group-title="FOR ADULTS", Balkan Erotic
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12675.m3u8
-
-#EXTINF:-1 tvg-id="Playboy Europe" tvg-logo="noimage.png" group-title="FOR ADULTS", Playboy Europe
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12654.m3u8
-
-#EXTINF:-1 tvg-id="Passion_XXX" tvg-logo="noimage.png" group-title="FOR ADULTS", Passion_XXX
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12643.m3u8
-
-#EXTINF:-1 tvg-id="Spank Monster" tvg-logo="noimage.png" group-title="FOR ADULTS", Spank Monster
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12646.m3u8
-
-#EXTINF:-1 tvg-id="NF Busty" tvg-logo="noimage.png" group-title="FOR ADULTS", NF Busty
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12647.m3u8
-
-#EXTINF:-1 tvg-id="PRIVATE HD" tvg-logo="noimage.png" group-title="FOR ADULTS", PRIVATE HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12648.m3u8
-
-#EXTINF:-1 tvg-id="Blacked" tvg-logo="noimage.png" group-title="FOR ADULTS", Blacked
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12649.m3u8
-
-#EXTINF:-1 tvg-id="BANG U" tvg-logo="noimage.png" group-title="FOR ADULTS", BANG U
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12657.m3u8
-
-#EXTINF:-1 tvg-id="Mia Khalifa" tvg-logo="noimage.png" group-title="FOR ADULTS", Mia Khalifa
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12658.m3u8
-
-#EXTINF:-1 tvg-id="MOFOS" tvg-logo="noimage.png" group-title="FOR ADULTS", MOFOS
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12659.m3u8
-
-#EXTINF:-1 tvg-id="XXL" tvg-logo="noimage.png" group-title="FOR ADULTS", XXL
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12666.m3u8
-
-#EXTINF:-1 tvg-id="Naughty TV HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Naughty TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12676.m3u8
-
-#EXTINF:-1 tvg-id="Babes HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Babes HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12677.m3u8
-
-#EXTINF:-1 tvg-id="N1 Adult" tvg-logo="noimage.png" group-title="FOR ADULTS", N1 Adult
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12686.m3u8
-
-#EXTINF:-1 tvg-id="Milf TV" tvg-logo="noimage.png" group-title="FOR ADULTS", Milf TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12689.m3u8
-
-#EXTINF:-1 tvg-id="Leo TV" tvg-logo="noimage.png" group-title="FOR ADULTS", Leo TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12692.m3u8
-
-#EXTINF:-1 tvg-id="Penhouse Reality" tvg-logo="noimage.png" group-title="FOR ADULTS", Penhouse Reality
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12693.m3u8
-
-#EXTINF:-1 tvg-id="REDLIGHT HD" tvg-logo="noimage.png" group-title="FOR ADULTS", REDLIGHT HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12694.m3u8
-
-#EXTINF:-1 tvg-id="OLDTIMER" tvg-logo="noimage.png" group-title="FOR ADULTS", OLDTIMER
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12696.m3u8
-
-#EXTINF:-1 tvg-id="Casting" tvg-logo="noimage.png" group-title="FOR ADULTS", Casting
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12697.m3u8
-
-#EXTINF:-1 tvg-id="New Girl" tvg-logo="noimage.png" group-title="FOR ADULTS", New Girl
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12698.m3u8
-
-#EXTINF:-1 tvg-id="Vixen HD" tvg-logo="noimage.png" group-title="FOR ADULTS", Vixen HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12700.m3u8
-
-#EXTINF:-1 tvg-id="True Amateurs" tvg-logo="noimage.png" group-title="FOR ADULTS", True Amateurs
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12701.m3u8
-
-#EXTINF:-1 tvg-id="EXTAZY HD" tvg-logo="noimage.png" group-title="FOR ADULTS", EXTAZY HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12702.m3u8
-
-#EXTINF:-1 tvg-id="Toxic HD" tvg-logo="noimage.png" group-title="MUZICKI", Toxic HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9064.m3u8
-
-#EXTINF:-1 tvg-id="Toxic Folk HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Folk_RS_logo.png" group-title="MUZICKI", Toxic Folk HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12846.m3u8
-
-#EXTINF:-1 tvg-id="Toxic Rap HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Rap_RS_logo.png" group-title="MUZICKI", Toxic Rap HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12847.m3u8
-
-#EXTINF:-1 tvg-id="Balkanika TV" tvg-logo="noimage.png" group-title="MUZICKI", Balkanika TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/391.m3u8
-
-#EXTINF:-1 tvg-id="MTV Adria" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/46.png" group-title="MUZICKI", MTV Adria
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/551.m3u8
-
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 80s
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/394.m3u8
-
-#EXTINF:-1 tvg-id="MTV Music" tvg-logo="noimage.png" group-title="MUZICKI", MTV Music
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/392.m3u8
-
-#EXTINF:-1 tvg-id="MTV Live" tvg-logo="noimage.png" group-title="MUZICKI", MTV Live
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10260.m3u8
-
-#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 90s
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10261.m3u8
-
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 00s
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/504.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12526.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik Rock HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Rock HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12527.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik World HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik World HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12528.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik Jeka HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Jeka HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12529.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik Riviera HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Riviera HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12530.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik SoniDozz HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik SoniDozz HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12531.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik Electro HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Electro HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12532.m3u8
-
-#EXTINF:-1 tvg-id="CMC" tvg-logo="noimage.png" group-title="MUZICKI", CMC
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/588.m3u8
-
-#EXTINF:-1 tvg-id="BN Music HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/34.png" group-title="MUZICKI", BN Music HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/591.m3u8
-
-#EXTINF:-1 tvg-id="IDJ TV" tvg-logo="noimage.png" group-title="MUZICKI", IDJ TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9283.m3u8
-
-#EXTINF:-1 tvg-id="Grand" tvg-logo="noimage.png" group-title="MUZICKI", Grand
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9275.m3u8
-
-#EXTINF:-1 tvg-id="Grand 2" tvg-logo="noimage.png" group-title="MUZICKI", Grand 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9276.m3u8
-
-#EXTINF:-1 tvg-id="DM Sat" tvg-logo="noimage.png" group-title="MUZICKI", DM Sat
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/406.m3u8
-
-#EXTINF:-1 tvg-id="ExYu Melody" tvg-logo="noimage.png" group-title="MUZICKI", ExYu Melody
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9038.m3u8
-
-#EXTINF:-1 tvg-id="Top Sound" tvg-logo="noimage.png" group-title="MUZICKI", Top Sound
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8864.m3u8
-
-#EXTINF:-1 tvg-id="Duga TV" tvg-logo="noimage.png" group-title="MUZICKI", Duga TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5416.m3u8
-
-#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="http://116.203.156.75/logo/izvorna.png" group-title="MUZICKI", Izvorna TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/402.m3u8
-
-#EXTINF:-1 tvg-id="Amari" tvg-logo="noimage.png" group-title="MUZICKI", Amari
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12390.m3u8
-
-#EXTINF:-1 tvg-id="Jugoton TV" tvg-logo="noimage.png" group-title="MUZICKI", Jugoton TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/401.m3u8
-
-#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="MUZICKI", Narodna TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/393.m3u8
-
-#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/62.png" group-title="MUZICKI", OTV Valentino
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/540.m3u8
-
-#EXTINF:-1 tvg-id="Hayat Music Box" tvg-logo="http://116.203.156.75/logo/hayat-music-box.png" group-title="MUZICKI", Hayat Music Box
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/564.m3u8
-
-#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="noimage.png" group-title="MUZICKI", Sevdah TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/396.m3u8
-
-#EXTINF:-1 tvg-id="Hayat Folk Box" tvg-logo="http://116.203.156.75/logo/hayat-folk-box.png" group-title="MUZICKI", Hayat Folk Box
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/565.m3u8
-
-#EXTINF:-1 tvg-id="Pink BH" tvg-logo="http://116.203.156.75/logo/pink_bh.png" group-title="PINK", Pink BH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3647.m3u8
-
-#EXTINF:-1 tvg-id="pink.sr" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK", PINK HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/376.m3u8
-
-#EXTINF:-1 tvg-id="RED" tvg-logo="http://116.203.156.75/logo/Red-TV-Pink-Logo.png" group-title="PINK", Red TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/375.m3u8
-
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/Vesti_RS_logo.png" group-title="PINK", Pink Vesti
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/374.m3u8
-
-#EXTINF:-1 tvg-id="Pink Action" tvg-logo="http://116.203.156.75/logo/pink_action.png" group-title="PINK", Pink Action HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/373.m3u8
-
-#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="http://116.203.156.75/logo/pink_comedy.png" group-title="PINK", Pink Comedy
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/371.m3u8
-
-#EXTINF:-1 tvg-id="Pink Crime & Mystery" tvg-logo="http://116.203.156.75/logo/pink_crime_mistery.png" group-title="PINK", Pink Crime & Mystery
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/370.m3u8
-
-#EXTINF:-1 tvg-id="Pink Film" tvg-logo="http://116.203.156.75/logo/pink_film.png" group-title="PINK", Pink Film
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/369.m3u8
-
-#EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="http://116.203.156.75/logo/pink_folk1.png" group-title="PINK", Pink Folk 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/368.m3u8
-
-#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://116.203.156.75/logo/pink_folk2.png" group-title="PINK", Pink Folk 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/367.m3u8
-
-#EXTINF:-1 tvg-id="PINK HA HA" tvg-logo="http://116.203.156.75/logo/pink_haha.jpg" group-title="PINK", PINK HA HA
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/366.m3u8
-
-#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="http://116.203.156.75/logo/pink_horor.png" group-title="PINK", Pink Horror
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/356.m3u8
-
-#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="http://116.203.156.75/logo/pink_kids.png" group-title="PINK", Pink Kids
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/365.m3u8
-
-#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="http://116.203.156.75/logo/pink_movies.png" group-title="PINK", Pink Movies
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/363.m3u8
-
-#EXTINF:-1 tvg-id="Pink Music 1" tvg-logo="http://116.203.156.75/logo/pink_music.png" group-title="PINK", Pink Music 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/362.m3u8
-
-#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://116.203.156.75/logo/pink_music2.png" group-title="PINK", Pink Music 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/361.m3u8
-
-#EXTINF:-1 tvg-id="Pink & Roll" tvg-logo="http://116.203.156.75/logo/PinkNRoll_logo.png" group-title="PINK", Pink & Roll
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6640.m3u8
-
-#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="http://116.203.156.75/logo/pink_plus.png" group-title="PINK", Pink Plus
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/360.m3u8
-
-#EXTINF:-1 tvg-id="Pink Premium HD" tvg-logo="http://116.203.156.75/logo/pink_premium.png" group-title="PINK", Pink Premium
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/359.m3u8
-
-#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="http://116.203.156.75/logo/pinkReality.png" group-title="PINK", Pink Reality
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/358.m3u8
-
-#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="http://116.203.156.75/logo/Pink_Romance_logo.png" group-title="PINK", Pink Romance
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/357.m3u8
-
-#EXTINF:-1 tvg-id="Pink Sci-Fi & Fantasy" tvg-logo="http://116.203.156.75/logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK", Pink Sci Fi & Fantasy
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/355.m3u8
-
-#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="http://116.203.156.75/logo/pink_serije.png" group-title="PINK", Pink Serije
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/353.m3u8
-
-#EXTINF:-1 tvg-id="Pink Show" tvg-logo="http://116.203.156.75/logo/PinkShow.png" group-title="PINK", Pink Show
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/352.m3u8
-
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/pinksoap.png" group-title="PINK", PINK SOAP
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/351.m3u8
-
-#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="http://116.203.156.75/logo/Pink_Thriller_logo.png" group-title="PINK", Pink Thriler
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/354.m3u8
-
-#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="http://116.203.156.75/logo/pink_classic.png" group-title="PINK", Pink Classic
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5665.m3u8
-
-#EXTINF:-1 tvg-id="Pink Family" tvg-logo="http://116.203.156.75/logo/pink_family.png" group-title="PINK", Pink Family
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5666.m3u8
-
-#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="http://116.203.156.75/logo/pink_kuvar.png" group-title="PINK", Pink Kuvar
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5664.m3u8
-
-#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="http://nova-iptv.com/logo/pink-extra.png" group-title="PINK", Pink Extra
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12557.m3u8
-
-#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="http://nova-iptv.com/logo/PinkKoncert_logo.png" group-title="PINK", Pink Koncert
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12558.m3u8
-
-#EXTINF:-1 tvg-id="Pink LOL" tvg-logo="http://116.203.156.75/logo/pink_lol.png" group-title="PINK", Pink LOL
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5663.m3u8
-
-#EXTINF:-1 tvg-id="Pink World" tvg-logo="http://116.203.156.75/logo/pink_world.png" group-title="PINK", Pink World
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5667.m3u8
-
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="http://116.203.156.75/logo/pink_pedia.png" group-title="PINK", Pink Pedia
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/350.m3u8
-
-#EXTINF:-1 tvg-id="Pink Western" tvg-logo="http://116.203.156.75/logo/pink-western-logo.png" group-title="PINK", Pink Western
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/349.m3u8
-
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="http://116.203.156.75/logo/pink_world_cinema.png" group-title="PINK", Pink World Cinema
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/348.m3u8
-
-#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="http://116.203.156.75/logo/pink_zabava.png" group-title="PINK", Pink Zabava
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/347.m3u8
-
-#EXTINF:-1 tvg-id="VIP Radio" tvg-logo="noimage.png" group-title="RADIO", VIP Radio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8681.m3u8
-
-#EXTINF:-1 tvg-id="Radio KRAJINA Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio KRAJINA Cazin
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3782.m3u8
-
-#EXTINF:-1 tvg-id="BN Radio" tvg-logo="noimage.png" group-title="RADIO", BN Radio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/3.m3u8
-
-#EXTINF:-1 tvg-id="Rock Radio" tvg-logo="noimage.png" group-title="RADIO", Rock Radio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6.m3u8
-
-#EXTINF:-1 tvg-id="Play Radio" tvg-logo="noimage.png" group-title="RADIO", Play Radio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10.m3u8
-
-#EXTINF:-1 tvg-id="Pink Radio" tvg-logo="noimage.png" group-title="RADIO", Pink Radio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/4.m3u8
-
-#EXTINF:-1 tvg-id="Radio Livno" tvg-logo="noimage.png" group-title="RADIO", Radio Livno
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9.m3u8
-
-#EXTINF:-1 tvg-id="BIG Radio" tvg-logo="noimage.png" group-title="RADIO", BIG Radio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5.m3u8
-
-#EXTINF:-1 tvg-id="Radio Tomislavgrad" tvg-logo="noimage.png" group-title="RADIO", Radio Tomislavgrad
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/7.m3u8
-
-#EXTINF:-1 tvg-id="Radio Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio Cazin
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6636.m3u8
-
-#EXTINF:-1 tvg-id="Radio USK" tvg-logo="noimage.png" group-title="RADIO", Radio USK
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6637.m3u8
-
-#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="noimage.png" group-title="RADIO", HRT HR 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6709.m3u8
-
-#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="noimage.png" group-title="RADIO", HRT HR 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6710.m3u8
-
-#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="noimage.png" group-title="RADIO", Radio Posavina
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6707.m3u8
-
-#EXTINF:-1 tvg-id="Radio Sibenik" tvg-logo="noimage.png" group-title="RADIO", Radio Sibenik
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6705.m3u8
-
-#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="noimage.png" group-title="RADIO", Radio Sunce
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6702.m3u8
-
-#EXTINF:-1 tvg-id="Radio Zapresic" tvg-logo="noimage.png" group-title="RADIO", Radio Zapresic
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6708.m3u8
-
-#EXTINF:-1 tvg-id="Enter Zagreb" tvg-logo="noimage.png" group-title="RADIO", Enter Zagreb
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6706.m3u8
-
-#EXTINF:-1 tvg-id="Antena Zagreb" tvg-logo="noimage.png" group-title="RADIO", Antena Zagreb
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6704.m3u8
-
-#EXTINF:-1 tvg-id="RTG Music" tvg-logo="noimage.png" group-title="RADIO", RTG Music
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10240.m3u8
-
-#EXTINF:-1 tvg-id="RTG Bastina" tvg-logo="noimage.png" group-title="RADIO", RTG Bastina
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12562.m3u8
-
-#EXTINF:-1 tvg-id="RTG Frama" tvg-logo="noimage.png" group-title="RADIO", RTG Frama
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12563.m3u8
-
-#EXTINF:-1 tvg-id="RTG Djeciji" tvg-logo="noimage.png" group-title="RADIO", RTG Djeciji
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12564.m3u8
-
-#EXTINF:-1 tvg-id="RTG Domovina" tvg-logo="noimage.png" group-title="RADIO", RTG Domovina
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12565.m3u8
-
-#EXTINF:-1 tvg-id="Radiopostaja Mir Medjugorje" tvg-logo="noimage.png" group-title="RADIO", Radiopostaja Mir Medjugorje
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10241.m3u8
-
-#EXTINF:-1 tvg-id="Kupreski Radio" tvg-logo="noimage.png" group-title="RADIO", Kupreski Radio
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10242.m3u8
-
-#EXTINF:-1 tvg-id="MAX SPORT 1 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_1_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12540.m3u8
-
-#EXTINF:-1 tvg-id="MAX SPORT 2 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_2_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12986.m3u8
-
-#EXTINF:-1 tvg-id="MAX SPORT 3 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_3_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 3 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13490.m3u8
-
-#EXTINF:-1 tvg-id="MAX SPORT 4 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_4_HR_logo.png" group-title="SPORTSKI", MAX SPORT 4 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13491.m3u8
-
-#EXTINF:-1 tvg-id="MAX SPORT 5 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_5_HR_logo.png" group-title="SPORTSKI", MAX SPORT 5 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13492.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12342.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12343.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12344.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 4 Premium HD" tvg-logo="http://116.203.156.75/logo/arena4premium.png" group-title="SPORTSKI", Arena Sport 4 Premium HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13565.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 5 Premium HD" tvg-logo="http://116.203.156.75/logo/arena5premium.png" group-title="SPORTSKI", Arena Sport 5 Premium HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13566.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12362.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12363.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12392.m3u8
-
-#EXTINF:-1 tvg-id="Arena1Premium BA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13011.m3u8
-
-#EXTINF:-1 tvg-id="Arena2Premium BA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13012.m3u8
-
-#EXTINF:-1 tvg-id="Arena3Premium BA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13013.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12166.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport 2 BA" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13002.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport 3 BA" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13003.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport 4 BA" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13004.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport 5 BA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13005.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport 6 BA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="SPORTSKI", Arena Sport 6 BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13006.m3u8
-
-#EXTINF:-1 tvg-id="BN TV" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD BIH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6776.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/490.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12051.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12050.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport 4 SR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12049.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport 5 SR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/491.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 6 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13068.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 7 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13069.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 8 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13070.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 9 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13071.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 10 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13072.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/486.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 2 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/485.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 3 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12052.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 4 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12053.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 5 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/482.m3u8
-
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/481.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 7 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12106.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 8 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12107.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 9 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12108.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 10 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12109.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 1x2" tvg-logo="http://nova-iptv.com/logo/Arena_1x2_RS_logo.png" group-title="SPORTSKI", Arena Sport 1x2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12533.m3u8
-
-#EXTINF:-1 tvg-id="Arena Esport" tvg-logo="http://nova-iptv.com/logo/arena_esport_logo.png" group-title="SPORTSKI", Arena Esport
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12555.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/495.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12045.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12046.m3u8
-
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12047.m3u8
-
-#EXTINF:-1 tvg-id="Arena Fight HD" tvg-logo="http://116.203.156.75/logo/arena_fight.png" group-title="SPORTSKI", Arena Fight HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13402.m3u8
-
-#EXTINF:-1 tvg-id="Arena Adrenalin" tvg-logo="http://116.203.156.75/logo/adrenalin.png" group-title="SPORTSKI", Arena Adrenalin
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13567.m3u8
-
-#EXTINF:-1 tvg-id="Arena Tenis" tvg-logo="http://116.203.156.75/logo/arena_tenis.png" group-title="SPORTSKI", Arena Tenis
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13568.m3u8
-
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://nova-iptv.com/logo/SK_HD_RS_logo.png" group-title="SPORTSKI", Sport Klub HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9301.m3u8
-
-#EXTINF:-1 tvg-id="sport-klub.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12037.m3u8
-
-#EXTINF:-1 tvg-id="SK 2 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12038.m3u8
-
-#EXTINF:-1 tvg-id="SK 3 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12039.m3u8
-
-#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12040.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub 5 SRB" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9293.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 SRB
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12001.m3u8
-
-#EXTINF:-1 tvg-id="sportklub-hr.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12041.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub 2 HD HR" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12042.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub 3 HD HR" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12043.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub 4 HR" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12044.m3u8
-
-#EXTINF:-1 tvg-id="sk5" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9299.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub 6 HR" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 HR
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9300.m3u8
-
-#EXTINF:-1 tvg-id="SK 7 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 7
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12239.m3u8
-
-#EXTINF:-1 tvg-id="SK 8 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 8
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12236.m3u8
-
-#EXTINF:-1 tvg-id="SK 9 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 9
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12237.m3u8
-
-#EXTINF:-1 tvg-id="SK 10 (SR)" tvg-logo="http://nova-iptv.com/logo/SK10_RS_logo.png" group-title="SPORTSKI", Sport Klub 10
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12238.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub 4K" tvg-logo="http://nova-iptv.com/logo/sk-4k.png" group-title="SPORTSKI", Sport Klub 4K
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12569.m3u8
-
-#EXTINF:-1 tvg-id="SK Golf" tvg-logo="http://nova-iptv.com/logo/SK_Golf_HR_logo.png" group-title="SPORTSKI", Sport Klub Golf
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9303.m3u8
-
-#EXTINF:-1 tvg-id="SK Esports" tvg-logo="http://nova-iptv.com/logo/SK_esports_RS_logo.png" group-title="SPORTSKI", Sport Klub Esport
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9302.m3u8
-
-#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Klub Fight
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12770.m3u8
-
-#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="http://nova-iptv.com/logo/nova_sport.png" group-title="SPORTSKI", Nova Sport HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9288.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="http://nova-iptv.com/logo/eurosport.png" group-title="SPORTSKI", EUROSPORT 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6540.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="http://nova-iptv.com/logo/eurosport-2.png" group-title="SPORTSKI", EUROSPORT 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/467.m3u8
-
-#EXTINF:-1 tvg-id="Hajduk TV" tvg-logo="http://116.203.156.75/logo/hajduktv.png" group-title="SPORTSKI", Hajduk TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13559.m3u8
-
-#EXTINF:-1 tvg-id="Kuvo TV HD" tvg-logo="http://nova-iptv.com/kuvo.png" group-title="SPORTSKI", Kuvo TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12514.m3u8
-
-#EXTINF:-1 tvg-id="GP 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/GP1-logo.png" group-title="SPORTSKI", GP 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12589.m3u8
-
-#EXTINF:-1 tvg-id="Fight Box HD" tvg-logo="noimage.png" group-title="SPORTSKI", Fight Box HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5509.m3u8
-
-#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="noimage.png" group-title="SPORTSKI", Extreme Sports
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/10478.m3u8
-
-#EXTINF:-1 tvg-id="SOS" tvg-logo="noimage.png" group-title="SPORTSKI", SOS
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/438.m3u8
-
-#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="SPORTSKI", Zvezda TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/8302.m3u8
-
-#EXTINF:-1 tvg-id="Sportska TV" tvg-logo="noimage.png" group-title="SPORTSKI", Sportska TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/439.m3u8
-
-#EXTINF:-1 tvg-id="Moja TV Premier Liga BiH" tvg-logo="noimage.png" group-title="SPORTSKI", Moja TV Premier Liga BiH
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/480.m3u8
-
-#EXTINF:-1 tvg-id="HNTV" tvg-logo="noimage.png" group-title="SPORTSKI", HNTV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/464.m3u8
-
-#EXTINF:-1 tvg-id="Kreator TV" tvg-logo="noimage.png" group-title="SPORTSKI", Kreator TV
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/463.m3u8
-
-#EXTINF:-1 tvg-id="loviribolov" tvg-logo="noimage.png" group-title="SPORTSKI", Lov i Ribolov
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9304.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 1 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12055.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 2 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12056.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 3 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12057.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 4 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12058.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 5 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12059.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 6 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12060.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 7 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 7 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12061.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 8 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 8 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12062.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 9 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 9 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12063.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 10 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 10 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12064.m3u8
-
-#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 1 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12065.m3u8
-
-#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 2 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12066.m3u8
-
-#EXTINF:-1 tvg-id="Sky Bundesliga 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 3 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12067.m3u8
-
-#EXTINF:-1 tvg-id="Sky Bundesliga 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 4 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12068.m3u8
-
-#EXTINF:-1 tvg-id="Sky Bundesliga 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 5 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12069.m3u8
-
-#EXTINF:-1 tvg-id="Sky Bundesliga 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 6 HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12070.m3u8
-
-#EXTINF:-1 tvg-id="SKY Sport News HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", SKY Sport News HD (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12054.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Premier DE" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Premier DE
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13027.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austria 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12075.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Austira 6" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austira 6
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13032.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport F1 (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (DE)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12078.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport F1 (ENG)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (ENG)
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12251.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Tenis" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Tenis
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13052.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Golf
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/13053.m3u8
-
-#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12071.m3u8
-
-#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 2 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12072.m3u8
-
-#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 3 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12073.m3u8
-
-#EXTINF:-1 tvg-id="SPORT TV 1 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 1 HD SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/12074.m3u8
-
-#EXTINF:-1 tvg-id="SPORT TV 2 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 2 HD SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/214.m3u8
-
-#EXTINF:-1 tvg-id="SPORT TV 3 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 3 HD SLO
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/213.m3u8
-
-#EXTINF:-1 tvg-id="ELEVEN SP 1 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 1 FHD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5764.m3u8
-
-#EXTINF:-1 tvg-id="ELEVEN SP 2 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 2 FHD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5765.m3u8
-
-#EXTINF:-1 tvg-id="ELEVEN SP 3 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 3 FHD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/5766.m3u8
-
-#EXTINF:-1 tvg-id="EUROSPORT 1 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 1 DE
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6296.m3u8
-
-#EXTINF:-1 tvg-id="EUROSPORT 2 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 2 DE
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6297.m3u8
-
-#EXTINF:-1 tvg-id="Bayern TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Bayern TV HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/6103.m3u8
-
-#EXTINF:-1 tvg-id="Sport Digital HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Digital HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/461.m3u8
-
-#EXTINF:-1 tvg-id="Motorvision HD" tvg-logo="noimage.png" group-title="SPORTSKI", Motorvision HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/327.m3u8
-
-#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-logo="noimage.png" group-title="SPORTSKI", Auto Motor Sport
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/340.m3u8
-
-#EXTINF:-1 tvg-id="Sport1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport1 HD
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/440.m3u8
-
-#EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/471.m3u8
-
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/470.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 1
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9255.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 2
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9256.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 3
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9257.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 4
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9258.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 5
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9259.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 6
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9260.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 7
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9261.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 8
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9262.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 9
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9263.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 10" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 10
-http://tv.nova-iptv.com:80/live/Matija_Folnovic/QtCREdUJlW/9264.m3u8
 
 
 
