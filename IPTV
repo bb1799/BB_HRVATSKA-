@@ -1,1089 +1,1487 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="[HR] CMC Music" tvg-logo="noimage.png" group-title="Hrvatska", [HR] CMC Music
-http://asmr4k.pro:8080//live/0421020409/05848383993/359556.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/CROATIA.png" group-title="HRVATSKA", ##### EXYU - HRVATSKA#####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74670.ts
 
-#EXTINF:-1 tvg-id="[HR] Doma TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Doma TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359557.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Aurora TV.png" group-title="HRVATSKA", HR - AURORA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132282.ts
 
-#EXTINF:-1 tvg-id="[HR] Dubrovnik TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Dubrovnik TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359558.ts
+#EXTINF:-1 tvg-id="CMC" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CMC-1.png" group-title="HRVATSKA", HR - CMC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/335627.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359559.ts
+#EXTINF:-1 tvg-id="Doma TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="HRVATSKA", HR - DOMA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74682.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 1 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 1 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359560.ts
+#EXTINF:-1 tvg-id="Doma TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="HRVATSKA", HR - DOMA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74681.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 2" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359561.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/Hajduk_tv.png" group-title="HRVATSKA", HR - HAJDUK TV
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1264923.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 2 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 2 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359562.ts
+#EXTINF:-1 tvg-id="HRT 1 FHD" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74672.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 3" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359563.ts
+#EXTINF:-1 tvg-id="HRT 1" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 1 HD²
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74671.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 3 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 3 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359564.ts
+#EXTINF:-1 tvg-id="HRT 2 FHD" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74674.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 4" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 4
-http://asmr4k.pro:8080//live/0421020409/05848383993/359565.ts
+#EXTINF:-1 tvg-id="HRT 3 FHD" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 3 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74676.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT 4 (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT 4 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359566.ts
+#EXTINF:-1 tvg-id="HRT 3" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 3 HD²
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74675.ts
 
-#EXTINF:-1 tvg-id="[HR] HRT Int" tvg-logo="noimage.png" group-title="Hrvatska", [HR] HRT Int
-http://asmr4k.pro:8080//live/0421020409/05848383993/359567.ts
+#EXTINF:-1 tvg-id="HRT 4 FHD" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 4 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74678.ts
 
-#EXTINF:-1 tvg-id="[HR] Jabuka TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Jabuka TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359568.ts
+#EXTINF:-1 tvg-id="HRT 4 FHD" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 4 HD²
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74677.ts
 
-#EXTINF:-1 tvg-id="[HR] Kanal Ri" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Kanal Ri
-http://asmr4k.pro:8080//live/0421020409/05848383993/359569.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR - HRT 5 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/181618.ts
 
-#EXTINF:-1 tvg-id="[HR] Laudato TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Laudato TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359570.ts
+#EXTINF:-1 tvg-id="laudatotv.hr" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/LAUDATOTV.png" group-title="HRVATSKA", HR - LAUDATO TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74694.ts
 
-#EXTINF:-1 tvg-id="[HR] Libertas TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Libertas TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359571.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/LIBERTAS_TV.png" group-title="HRVATSKA", HR - LIBERTAS TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239896.ts
 
-#EXTINF:-1 tvg-id="[HR] Mreza Zagreb" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Mreza Zagreb
-http://asmr4k.pro:8080//live/0421020409/05848383993/359572.ts
+#EXTINF:-1 tvg-id="N1 HR" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/N1BOSNA.png" group-title="HRVATSKA", HR - N1 HR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74689.ts
 
-#EXTINF:-1 tvg-id="[HR] N1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] N1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359573.ts
+#EXTINF:-1 tvg-id="NOVA TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="HRVATSKA", HR - NOVA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74679.ts
 
-#EXTINF:-1 tvg-id="[HR] Nova TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Nova TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359574.ts
+#EXTINF:-1 tvg-id="NOVA TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="HRVATSKA", HR - NOVA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74680.ts
 
-#EXTINF:-1 tvg-id="[HR] Nova TV (B)" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Nova TV (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359575.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/NOVAWORLD.png" group-title="HRVATSKA", HR - NOVA WORLD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1396566.ts
 
-#EXTINF:-1 tvg-id="[HR] Osjecka TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Osjecka TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359576.ts
+#EXTINF:-1 tvg-id="Osječka TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/OSJECKATV.png" group-title="HRVATSKA", HR - OSJECKA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74690.ts
 
-#EXTINF:-1 tvg-id="[HR] Poljoprivredna tv" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Poljoprivredna tv
-http://asmr4k.pro:8080//live/0421020409/05848383993/359577.ts
+#EXTINF:-1 tvg-id="Vinkovačka" tvg-logo="https://go4.pw/EXYU/Plava.png" group-title="HRVATSKA", HR - PLAVA VINKOVACKA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74691.ts
 
-#EXTINF:-1 tvg-id="[HR] RTL 1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359578.ts
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="HRVATSKA", HR - RTL 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74684.ts
 
-#EXTINF:-1 tvg-id="[HR] RTL 2" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359579.ts
+#EXTINF:-1 tvg-id="RTL Crime" tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="HRVATSKA", HR - RTL CRIME HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74686.ts
 
-#EXTINF:-1 tvg-id="[HR] RTL Crime" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL Crime
-http://asmr4k.pro:8080//live/0421020409/05848383993/359580.ts
+#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="HRVATSKA", HR - RTL LIVING HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74687.ts
 
-#EXTINF:-1 tvg-id="[HR] RTL Living" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL Living
-http://asmr4k.pro:8080//live/0421020409/05848383993/359581.ts
+#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="HRVATSKA", HR - RTL PASSION HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74688.ts
 
-#EXTINF:-1 tvg-id="[HR] RTL Passion" tvg-logo="noimage.png" group-title="Hrvatska", [HR] RTL Passion
-http://asmr4k.pro:8080//live/0421020409/05848383993/359582.ts
+#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-logo="https://go4.pw/EXYU/SLAVONSKA_TV.png" group-title="HRVATSKA", HR - SLAVONSKA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239899.ts
 
-#EXTINF:-1 tvg-id="[HR] SB TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] SB TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359583.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TREND_KARLOVAC.png" group-title="HRVATSKA", HR - TREND KARLOVAC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239897.ts
 
-#EXTINF:-1 tvg-id="[HR] Slavonska TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Slavonska TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359584.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TVBANOVINA.png" group-title="HRVATSKA", HR - TV BANOVINA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74692.ts
 
-#EXTINF:-1 tvg-id="[HR] TV Banovina" tvg-logo="noimage.png" group-title="Hrvatska", [HR] TV Banovina
-http://asmr4k.pro:8080//live/0421020409/05848383993/359585.ts
+#EXTINF:-1 tvg-id="z1.hr" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Z1.png" group-title="HRVATSKA", HR - Z 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74693.ts
 
-#EXTINF:-1 tvg-id="[HR] TV Sibenik" tvg-logo="noimage.png" group-title="Hrvatska", [HR] TV Sibenik
-http://asmr4k.pro:8080//live/0421020409/05848383993/359586.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/ZELINA_TV.png" group-title="HRVATSKA", HR - ZELINA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239898.ts
 
-#EXTINF:-1 tvg-id="[HR] Tv4 Karlovac" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Tv4 Karlovac
-http://asmr4k.pro:8080//live/0421020409/05848383993/359587.ts
+#EXTINF:-1 tvg-id="HRT 2" tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="HRVATSKA", HR- HRT 2 HD²
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74673.ts
 
-#EXTINF:-1 tvg-id="[HR] VARAZDINSKA VTV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] VARAZDINSKA VTV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359588.ts
+#EXTINF:-1 tvg-id="RTL" tvg-logo="http://smartillusion.feniks.team:25002/images/hrvatska/rtl.png" group-title="HRVATSKA", HR- RTL HR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74683.ts
 
-#EXTINF:-1 tvg-id="[HR] Vinkovacka TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Vinkovacka TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359589.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="SPORT", ##### EXYU - ARENA PREMIUM #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1240434.ts
 
-#EXTINF:-1 tvg-id="[HR] Z1" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Z1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359590.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="SPORT", ##### EXYU - ARENA SPORT #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1240433.ts
 
-#EXTINF:-1 tvg-id="[HR] Zdrava TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR] Zdrava TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359591.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="SPORT", ##### EXYU - EUROSPORT #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1240499.ts
 
-#EXTINF:-1 tvg-id="[HR]Jugoton TV" tvg-logo="noimage.png" group-title="Hrvatska", [HR]Jugoton TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359592.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="SPORT", ##### EXYU - SPORT #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/271569.ts
 
-#EXTINF:-1 tvg-id="[BH] A1 Al Jazeera Balkans" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] A1 Al Jazeera Balkans
-http://asmr4k.pro:8080//live/0421020409/05848383993/357370.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="SPORT", ##### EXYU - SPORT KLUB #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1240432.ts
 
-#EXTINF:-1 tvg-id="[BH] ATV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] ATV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357371.ts
+#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="SPORT", EXYU - ARENA PREMIUM 1 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/273118.ts
 
-#EXTINF:-1 tvg-id="[BH] BHT 1" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BHT 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/357372.ts
+#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="SPORT", EXYU - ARENA PREMIUM 2 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/273119.ts
 
-#EXTINF:-1 tvg-id="[BH] BHT 1 (B)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BHT 1 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/357373.ts
+#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="SPORT", EXYU - ARENA PREMIUM 3 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/273120.ts
 
-#EXTINF:-1 tvg-id="[BH] Bir TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Bir TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357374.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="SPORT", EXYU - ARENA PREMIUM 4 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1287060.ts
 
-#EXTINF:-1 tvg-id="[BH] BN Music" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BN Music
-http://asmr4k.pro:8080//live/0421020409/05848383993/357375.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="SPORT", EXYU - ARENA PREMIUM 5 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1287061.ts
 
-#EXTINF:-1 tvg-id="[BH] BN TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] BN TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357376.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-logo="https://go4.pw/EXYU/ARENA1.png" group-title="SPORT", EXYU - ARENA SPORT 1 BIH FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74892.ts
 
-#EXTINF:-1 tvg-id="[BH] Face TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Face TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357377.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-logo="https://go4.pw/EXYU/ARENA1.png" group-title="SPORT", EXYU - ARENA SPORT 1 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74897.ts
 
-#EXTINF:-1 tvg-id="[BH] Federalna" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Federalna
-http://asmr4k.pro:8080//live/0421020409/05848383993/357378.ts
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-logo="https://go4.pw/EXYU/ARENA1.png" group-title="SPORT", EXYU - ARENA SPORT 1 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74893.ts
 
-#EXTINF:-1 tvg-id="[BH] Federalna (B)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Federalna (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/357379.ts
+#EXTINF:-1 tvg-id="arenasport10.rs" tvg-logo="https://go4.pw/EXYU/a.10.png" group-title="SPORT", EXYU - ARENA SPORT 10 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/264026.ts
 
-#EXTINF:-1 tvg-id="[BH] Hayat" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat
-http://asmr4k.pro:8080//live/0421020409/05848383993/357380.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 HR FHD" tvg-logo="https://go4.pw/EXYU/ARENA2.png" group-title="SPORT", EXYU - ARENA SPORT 2 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74898.ts
 
-#EXTINF:-1 tvg-id="[BH] Hayat (B)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/357381.ts
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-logo="https://go4.pw/EXYU/ARENA2.png" group-title="SPORT", EXYU - ARENA SPORT 2 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74894.ts
 
-#EXTINF:-1 tvg-id="[BH] Hayat Folk" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat Folk
-http://asmr4k.pro:8080//live/0421020409/05848383993/357382.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 HR FHD" tvg-logo="https://go4.pw/EXYU/ARENA3.png" group-title="SPORT", EXYU - ARENA SPORT 3 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74899.ts
 
-#EXTINF:-1 tvg-id="[BH] Hayat Music" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat Music
-http://asmr4k.pro:8080//live/0421020409/05848383993/357383.ts
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-logo="https://go4.pw/EXYU/ARENA3.png" group-title="SPORT", EXYU - ARENA SPORT 3 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74895.ts
 
-#EXTINF:-1 tvg-id="[BH] Hayat Plus" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Hayat Plus
-http://asmr4k.pro:8080//live/0421020409/05848383993/357384.ts
+#EXTINF:-1 tvg-id="Arena Sport 4 HR FHD" tvg-logo="https://go4.pw/EXYU/ARENA4.png" group-title="SPORT", EXYU - ARENA SPORT 4 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74900.ts
 
-#EXTINF:-1 tvg-id="[BH] Izvorna TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Izvorna TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357385.ts
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-logo="https://go4.pw/EXYU/ARENA4.png" group-title="SPORT", EXYU - ARENA SPORT 4 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74896.ts
 
-#EXTINF:-1 tvg-id="[BH] Kanal 6" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Kanal 6
-http://asmr4k.pro:8080//live/0421020409/05848383993/357386.ts
+#EXTINF:-1 tvg-id="Arena Sport 5 HR FHD" tvg-logo="https://go4.pw/EXYU/ARENA5.png" group-title="SPORT", EXYU - ARENA SPORT 5 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74901.ts
 
-#EXTINF:-1 tvg-id="[BH] Mir TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Mir TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357387.ts
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-logo="https://go4.pw/EXYU/ARENA5.png" group-title="SPORT", EXYU - ARENA SPORT 5 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/267472.ts
 
-#EXTINF:-1 tvg-id="[BH] MTV Igman" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] MTV Igman
-http://asmr4k.pro:8080//live/0421020409/05848383993/357388.ts
+#EXTINF:-1 tvg-id="arenasport6.rs" tvg-logo="https://go4.pw/EXYU/a-6.png" group-title="SPORT", EXYU - ARENA SPORT 6 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/264022.ts
 
-#EXTINF:-1 tvg-id="[BH] N1" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] N1
-http://asmr4k.pro:8080//live/0421020409/05848383993/357389.ts
+#EXTINF:-1 tvg-id="arenasport7.rs" tvg-logo="https://go4.pw/EXYU/a.7.png" group-title="SPORT", EXYU - ARENA SPORT 7 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/264023.ts
 
-#EXTINF:-1 tvg-id="[BH] Nova BH" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Nova BH
-http://asmr4k.pro:8080//live/0421020409/05848383993/357390.ts
+#EXTINF:-1 tvg-id="arenasport8.rs" tvg-logo="https://go4.pw/EXYU/a.8.png" group-title="SPORT", EXYU - ARENA SPORT 8 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/264024.ts
 
-#EXTINF:-1 tvg-id="[BH] Nova BH (b)" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Nova BH (b)
-http://asmr4k.pro:8080//live/0421020409/05848383993/357391.ts
+#EXTINF:-1 tvg-id="arenasport9.rs" tvg-logo="https://go4.pw/EXYU/a.9.png" group-title="SPORT", EXYU - ARENA SPORT 9 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/264025.ts
 
-#EXTINF:-1 tvg-id="[BH] O Kanal" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] O Kanal
-http://asmr4k.pro:8080//live/0421020409/05848383993/357392.ts
+#EXTINF:-1 tvg-id="Eurosport 1 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="SPORT", EXYU - EUROSPORT 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/77987.ts
 
-#EXTINF:-1 tvg-id="[BH] OTV Valentino" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] OTV Valentino
-http://asmr4k.pro:8080//live/0421020409/05848383993/357393.ts
+#EXTINF:-1 tvg-id="Eurosport 2 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="SPORT", EXYU - EUROSPORT 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/77988.ts
 
-#EXTINF:-1 tvg-id="[BH] PINK BH" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] PINK BH
-http://asmr4k.pro:8080//live/0421020409/05848383993/357394.ts
+#EXTINF:-1 tvg-id="Fight Channel" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FIGHTNETWORK-1.png" group-title="SPORT", EXYU - FIGHT NETWORK FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/77989.ts
 
-#EXTINF:-1 tvg-id="[BH] Posavina TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Posavina TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357395.ts
+#EXTINF:-1 tvg-id="FightBox" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="SPORT", EXYU - FIGHTBOX FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/77990.ts
 
-#EXTINF:-1 tvg-id="[BH] RTRS" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] RTRS
-http://asmr4k.pro:8080//live/0421020409/05848383993/357396.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/FK_CRVENA_ZVEZDA.png" group-title="SPORT", EXYU - FK CRVENA ZVEZDA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239911.ts
 
-#EXTINF:-1 tvg-id="[BH] RTV Sana" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] RTV Sana
-http://asmr4k.pro:8080//live/0421020409/05848383993/357397.ts
+#EXTINF:-1 tvg-id="maxsport1.hr" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9706.png?13434" group-title="SPORT", EXYU - MAX SPORT 1 HR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/306959.ts
 
-#EXTINF:-1 tvg-id="[BH] RTV USK" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] RTV USK
-http://asmr4k.pro:8080//live/0421020409/05848383993/357398.ts
+#EXTINF:-1 tvg-id="Max Sport 2 BG FHD" tvg-logo="https://go4.pw/EXYU/2.png" group-title="SPORT", EXYU - MAX SPORT 2 HR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/306960.ts
 
-#EXTINF:-1 tvg-id="[BH] Sevdah TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Sevdah TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357399.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MOJATV-1.png" group-title="SPORT", EXYU - MOJA TV PREMIER LIGA FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74876.ts
 
-#EXTINF:-1 tvg-id="[BH] Televizija 5" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Televizija 5
-http://asmr4k.pro:8080//live/0421020409/05848383993/357400.ts
+#EXTINF:-1 tvg-id="novasport.rs" tvg-logo="https://go4.pw/EXYU/NOVA SPORT.png" group-title="SPORT", EXYU - NOVA SPORT FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/174903.ts
 
-#EXTINF:-1 tvg-id="[BH] Televizija OBN" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] Televizija OBN
-http://asmr4k.pro:8080//live/0421020409/05848383993/357401.ts
+#EXTINF:-1 tvg-id="SK1 HR SD" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 1 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74882.ts
 
-#EXTINF:-1 tvg-id="[BH] TV Glas Drine" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Glas Drine
-http://asmr4k.pro:8080//live/0421020409/05848383993/357402.ts
+#EXTINF:-1 tvg-id="Sport Klub 10" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 10 FHD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74891.ts
 
-#EXTINF:-1 tvg-id="[BH] TV Sarajevo" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Sarajevo
-http://asmr4k.pro:8080//live/0421020409/05848383993/357403.ts
+#EXTINF:-1 tvg-id="SK2 FHD" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 2  HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74883.ts
 
-#EXTINF:-1 tvg-id="[BH] TV Sehara" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Sehara
-http://asmr4k.pro:8080//live/0421020409/05848383993/357404.ts
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 2 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74880.ts
 
-#EXTINF:-1 tvg-id="[BH] TV Slon Extra" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] TV Slon Extra
-http://asmr4k.pro:8080//live/0421020409/05848383993/357405.ts
+#EXTINF:-1 tvg-id="SK3 FHD" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 3 HD  (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74884.ts
 
-#EXTINF:-1 tvg-id="[BH] VIKOM TV" tvg-logo="noimage.png" group-title="Bosna i Hercegovina", [BH] VIKOM TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357406.ts
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 3 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74881.ts
 
-#EXTINF:-1 tvg-id="[MNE] Nova M" tvg-logo="noimage.png" group-title="Crna gora", [MNE] Nova M
-http://asmr4k.pro:8080//live/0421020409/05848383993/359547.ts
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 4 HD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74885.ts
 
-#EXTINF:-1 tvg-id="[MNE] PINK M" tvg-logo="noimage.png" group-title="Crna gora", [MNE] PINK M
-http://asmr4k.pro:8080//live/0421020409/05848383993/359548.ts
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 5 FHD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74886.ts
 
-#EXTINF:-1 tvg-id="[MNE] prva CG" tvg-logo="noimage.png" group-title="Crna gora", [MNE] prva CG
-http://asmr4k.pro:8080//live/0421020409/05848383993/359549.ts
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 6 FHD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74887.ts
 
-#EXTINF:-1 tvg-id="[MNE] RTCG 1" tvg-logo="noimage.png" group-title="Crna gora", [MNE] RTCG 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359550.ts
+#EXTINF:-1 tvg-id="Sport Klub 7" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 7 FHD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74888.ts
 
-#EXTINF:-1 tvg-id="[MNE] RTCG 2" tvg-logo="noimage.png" group-title="Crna gora", [MNE] RTCG 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359551.ts
+#EXTINF:-1 tvg-id="Sport Klub 8" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 8 FHD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74889.ts
 
-#EXTINF:-1 tvg-id="[MNE] RTCG Sat" tvg-logo="noimage.png" group-title="Crna gora", [MNE] RTCG Sat
-http://asmr4k.pro:8080//live/0421020409/05848383993/359552.ts
+#EXTINF:-1 tvg-id="Sport Klub 9" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB 9 FHD (HR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74890.ts
 
-#EXTINF:-1 tvg-id="[MNE] TV 7" tvg-logo="noimage.png" group-title="Crna gora", [MNE] TV 7
-http://asmr4k.pro:8080//live/0421020409/05848383993/359553.ts
+#EXTINF:-1 tvg-id="SK HD" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORT KLUB HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74878.ts
 
-#EXTINF:-1 tvg-id="[MNE] TV Vijesti" tvg-logo="noimage.png" group-title="Crna gora", [MNE] TV Vijesti
-http://asmr4k.pro:8080//live/0421020409/05848383993/359554.ts
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SPORT", EXYU - SPORTKLUB 1 HD (SR)
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74879.ts
 
-#EXTINF:-1 tvg-id="[MK] Alfa TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] Alfa TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359518.ts
+#EXTINF:-1 tvg-id="PARTIZAN TV HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/tv_00000-1.png" group-title="SPORT", EXYU - TV PARTIZAN (SR) FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74873.ts
 
-#EXTINF:-1 tvg-id="[MK] Alsat M" tvg-logo="noimage.png" group-title="Makedonia", [MK] Alsat M
-http://asmr4k.pro:8080//live/0421020409/05848383993/359519.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="KIDS", ##### EXYU - DJECIJI KANALI #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74837.ts
 
-#EXTINF:-1 tvg-id="[MK] ERA TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] ERA TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359520.ts
+#EXTINF:-1 tvg-id="Hayatovci" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOCUBOX-1.png" group-title="KIDS", EXYU - HAYATOVCI FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74841.ts
 
-#EXTINF:-1 tvg-id="[MK] HBO 2" tvg-logo="noimage.png" group-title="Makedonia", [MK] HBO 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359521.ts
+#EXTINF:-1 tvg-id="IDJ TV FHD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/IDJTV-1.png" group-title="KIDS", EXYU - IDJ KIDS FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74838.ts
 
-#EXTINF:-1 tvg-id="[MK] HBO 3" tvg-logo="noimage.png" group-title="Makedonia", [MK] HBO 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359522.ts
+#EXTINF:-1 tvg-id="masa i medo" tvg-logo="https://go4.pw/EXYU/MASA.png" group-title="KIDS", EXYU - MASA I MEDO FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74839.ts
 
-#EXTINF:-1 tvg-id="[MK] HBO FHD" tvg-logo="noimage.png" group-title="Makedonia", [MK] HBO FHD
-http://asmr4k.pro:8080//live/0421020409/05848383993/359523.ts
+#EXTINF:-1 tvg-id="minitv.hr" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MINITV-1.png" group-title="KIDS", EXYU - MINI TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74845.ts
 
-#EXTINF:-1 tvg-id="[MK] Hugo 1" tvg-logo="noimage.png" group-title="Makedonia", [MK] Hugo 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359524.ts
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MINIMAX-1.png" group-title="KIDS", EXYU - MINIMAX FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74846.ts
 
-#EXTINF:-1 tvg-id="[MK] IN TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] IN TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359525.ts
+#EXTINF:-1 tvg-id="nickjr.hu" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="KIDS", EXYU - NICK JR HR FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74851.ts
 
-#EXTINF:-1 tvg-id="[MK] Kanal 5" tvg-logo="noimage.png" group-title="Makedonia", [MK] Kanal 5
-http://asmr4k.pro:8080//live/0421020409/05848383993/359526.ts
+#EXTINF:-1 tvg-id="nickjunior.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="KIDS", EXYU - NICK JR SR FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74850.ts
 
-#EXTINF:-1 tvg-id="[MK] Kanal 5 Plus" tvg-logo="noimage.png" group-title="Makedonia", [MK] Kanal 5 Plus
-http://asmr4k.pro:8080//live/0421020409/05848383993/359527.ts
+#EXTINF:-1 tvg-id="nickelodeon.hu" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON.png" group-title="KIDS", EXYU - NICKELODEON HR FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74849.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT 1" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359528.ts
+#EXTINF:-1 tvg-id="nickelodeon.rs" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON.png" group-title="KIDS", EXYU - NICKELODEON SR FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74848.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT 1 (B)" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 1 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359529.ts
+#EXTINF:-1 tvg-id="Pikaboo" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PIKABOO-1.png" group-title="KIDS", EXYU - PIKABOO FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74847.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT 2" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359530.ts
+#EXTINF:-1 tvg-id="RTL Kockica" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTLKOCKICA-1.png" group-title="KIDS", EXYU - RTL KOCKICA FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74844.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT 2 (B)" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT 2 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359531.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TNTKIDS-1.png" group-title="KIDS", EXYU - TNT KIDS FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74843.ts
 
-#EXTINF:-1 tvg-id="[MK] MRT Sobraniski" tvg-logo="noimage.png" group-title="Makedonia", [MK] MRT Sobraniski
-http://asmr4k.pro:8080//live/0421020409/05848383993/359532.ts
+#EXTINF:-1 tvg-id="dummy004" tvg-logo="https://go4.pw/EUROPE/ALBANIA/tomjerryjump.png" group-title="KIDS", EXYU - TOM & JERRY FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74840.ts
 
-#EXTINF:-1 tvg-id="[MK] MTM TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] MTM TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359533.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TOON_KIDS.png" group-title="KIDS", EXYU - TOON KIDS
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239910.ts
 
-#EXTINF:-1 tvg-id="[MK] Nasa" tvg-logo="noimage.png" group-title="Makedonia", [MK] Nasa
-http://asmr4k.pro:8080//live/0421020409/05848383993/359534.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", ##### EXYU - MAXCRO SELECT #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277709.ts
 
-#EXTINF:-1 tvg-id="[MK] s*y Folk" tvg-logo="noimage.png" group-title="Makedonia", [MK] s*y Folk
-http://asmr4k.pro:8080//live/0421020409/05848383993/359535.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", EXYU - MAXCRO SELECT 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1167997.ts
 
-#EXTINF:-1 tvg-id="[MK] Shutel TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] Shutel TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359536.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", EXYU - MAXCRO SELECT 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1167998.ts
 
-#EXTINF:-1 tvg-id="[MK] Sitel TV" tvg-logo="noimage.png" group-title="Makedonia", [MK] Sitel TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359537.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", EXYU - MAXCRO SELECT 3 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1167999.ts
 
-#EXTINF:-1 tvg-id="[MK] Sitel TV (B)" tvg-logo="noimage.png" group-title="Makedonia", [MK] Sitel TV (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359538.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", EXYU - MAXCRO SELECT 4 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1168005.ts
 
-#EXTINF:-1 tvg-id="[MK] Telma" tvg-logo="noimage.png" group-title="Makedonia", [MK] Telma
-http://asmr4k.pro:8080//live/0421020409/05848383993/359539.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", EXYU - MAXCRO SELECT 5 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1168006.ts
 
-#EXTINF:-1 tvg-id="[MK] Tera Bitola" tvg-logo="noimage.png" group-title="Makedonia", [MK] Tera Bitola
-http://asmr4k.pro:8080//live/0421020409/05848383993/359540.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", EXYU - MAXCRO SELECT 6 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1168008.ts
 
-#EXTINF:-1 tvg-id="[MK] TV 24" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV 24
-http://asmr4k.pro:8080//live/0421020409/05848383993/359541.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/2.png" group-title="24/7 FILMOVI I SERIJE", EXYU - MAXCRO SELECT 7 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1168009.ts
 
-#EXTINF:-1 tvg-id="[MK] TV Edo" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV Edo
-http://asmr4k.pro:8080//live/0421020409/05848383993/359542.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BOSNIA.png" group-title="BOSNA I HERCEGOVINA", ##### EXYU - BOSNA GENERAL #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277827.ts
 
-#EXTINF:-1 tvg-id="[MK] TV Nova 12" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV Nova 12
-http://asmr4k.pro:8080//live/0421020409/05848383993/359543.ts
+#EXTINF:-1 tvg-id="tvsarajevo.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Alfa_tv.png" group-title="BOSNA I HERCEGOVINA", BA - ALFA TV SARAJEVO FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74669.ts
 
-#EXTINF:-1 tvg-id="[MK] TV+" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV+
-http://asmr4k.pro:8080//live/0421020409/05848383993/359544.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/ALF_HD.png" group-title="BOSNA I HERCEGOVINA", BA - ALF HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239912.ts
 
-#EXTINF:-1 tvg-id="[MK] TV21" tvg-logo="noimage.png" group-title="Makedonia", [MK] TV21
-http://asmr4k.pro:8080//live/0421020409/05848383993/359545.ts
+#EXTINF:-1 tvg-id="BN" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/BNBIH.png" group-title="BOSNA I HERCEGOVINA", BA - BN 1  FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74646.ts
 
-#EXTINF:-1 tvg-id="[SL] BRIO" tvg-logo="noimage.png" group-title="Slovenija", [SL] BRIO
-http://asmr4k.pro:8080//live/0421020409/05848383993/359085.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/B1_TV_GRADACAC.png" group-title="BOSNA I HERCEGOVINA", BA - B1 TV GRADACAC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239817.ts
 
-#EXTINF:-1 tvg-id="[SL] Discovery Channel" tvg-logo="noimage.png" group-title="Slovenija", [SL] Discovery Channel
-http://asmr4k.pro:8080//live/0421020409/05848383993/359086.ts
+#EXTINF:-1 tvg-id="bn2.ba" tvg-logo="https://go4.pw/EXYU/BN_2_TV.png" group-title="BOSNA I HERCEGOVINA", BA - BN 2 TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239818.ts
 
-#EXTINF:-1 tvg-id="[SL] Golica TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Golica TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359087.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HITBRCKO.png" group-title="BOSNA I HERCEGOVINA", BA - HIT BRCKO FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74665.ts
 
-#EXTINF:-1 tvg-id="[SL] HBO" tvg-logo="noimage.png" group-title="Slovenija", [SL] HBO
-http://asmr4k.pro:8080//live/0421020409/05848383993/359088.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/K3PRNJAVOR.png" group-title="BOSNA I HERCEGOVINA", BA - K 3 PRNJAVOR FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74664.ts
 
-#EXTINF:-1 tvg-id="[SL] HBO 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] HBO 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359089.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MTVIGMAN.png" group-title="BOSNA I HERCEGOVINA", BA - MTV IGMAN FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74663.ts
 
-#EXTINF:-1 tvg-id="[SL] HBO 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] HBO 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359090.ts
+#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/OTVVALENTINO.png" group-title="BOSNA I HERCEGOVINA", BA - OTV VALENTINO FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74662.ts
 
-#EXTINF:-1 tvg-id="[SL] Kanal A" tvg-logo="noimage.png" group-title="Slovenija", [SL] Kanal A
-http://asmr4k.pro:8080//live/0421020409/05848383993/359091.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PODRINJE.png" group-title="BOSNA I HERCEGOVINA", BA - PODRINJE FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74842.ts
 
-#EXTINF:-1 tvg-id="[SL] Kanal A (B)" tvg-logo="noimage.png" group-title="Slovenija", [SL] Kanal A (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359092.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/POSAVINATV.png" group-title="BOSNA I HERCEGOVINA", BA - POSAVSKA TV (PTV) FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74667.ts
 
-#EXTINF:-1 tvg-id="[SL] Kino" tvg-logo="noimage.png" group-title="Slovenija", [SL] Kino
-http://asmr4k.pro:8080//live/0421020409/05848383993/359093.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTVCAZIN.png" group-title="BOSNA I HERCEGOVINA", BA - RTV BUGOJNO FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74661.ts
 
-#EXTINF:-1 tvg-id="[SL] Net TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Net TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359094.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTVCAZIN.png" group-title="BOSNA I HERCEGOVINA", BA - RTV KRAJINA FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74653.ts
 
-#EXTINF:-1 tvg-id="[SL] Nova 24 TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Nova 24 TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359095.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/ROMANIA/slon.png" group-title="BOSNA I HERCEGOVINA", BA - RTV SLON FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/329429.ts
 
-#EXTINF:-1 tvg-id="[SL] Planet TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] Planet TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359096.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_TK.png" group-title="BOSNA I HERCEGOVINA", BA - RTV TK HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239811.ts
 
-#EXTINF:-1 tvg-id="[SL] POP TV" tvg-logo="noimage.png" group-title="Slovenija", [SL] POP TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359097.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_VISOKO.png" group-title="BOSNA I HERCEGOVINA", BA - RTV VISOKO HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239812.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport Klub 1" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359098.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_SANA.png" group-title="BOSNA I HERCEGOVINA", BA - RTV SANA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239813.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport Klub 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359099.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_MIR.png" group-title="BOSNA I HERCEGOVINA", BA - RTV MIR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239814.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport Klub 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359100.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_CAZIN.png" group-title="BOSNA I HERCEGOVINA", BA - RTV CAZIN HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239815.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport Klub 4" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 4
-http://asmr4k.pro:8080//live/0421020409/05848383993/359101.ts
+#EXTINF:-1 tvg-id="rtvtktuzla.ba" tvg-logo="https://go4.pw/EXYU/RTV_7_TUZLA.png" group-title="BOSNA I HERCEGOVINA", BA - RTV 7 TUZLA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239816.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport Klub 5" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub 5
-http://asmr4k.pro:8080//live/0421020409/05848383993/359102.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/TURKIYE/TV5.png" group-title="BOSNA I HERCEGOVINA", BA - TV 5  FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/327283.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport Klub Golf" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport Klub Golf
-http://asmr4k.pro:8080//live/0421020409/05848383993/359103.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TVKAKANJ.png" group-title="BOSNA I HERCEGOVINA", BA - TV KAKANJ FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74657.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport TV 1" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport TV 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359104.ts
+#EXTINF:-1 tvg-id="TV Sarajevo" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TVSARAJEVO.png" group-title="BOSNA I HERCEGOVINA", BA - TV SARAJEVO FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74656.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport TV 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport TV 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359105.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/tv_tk.png" group-title="BOSNA I HERCEGOVINA", BA - TV TK FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/817432.ts
 
-#EXTINF:-1 tvg-id="[SL] Sport TV 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] Sport TV 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359106.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TVUSK.png" group-title="BOSNA I HERCEGOVINA", BA - TV USK FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74651.ts
 
-#EXTINF:-1 tvg-id="[SL] TV Koper" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Koper
-http://asmr4k.pro:8080//live/0421020409/05848383993/359107.ts
+#EXTINF:-1 tvg-id="rtvzenica.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TVZENICA.png" group-title="BOSNA I HERCEGOVINA", BA - TV ZENICA FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74650.ts
 
-#EXTINF:-1 tvg-id="[SL] TV Slovenija 1" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359108.ts
+#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTRS.png" group-title="BOSNA I HERCEGOVINA", BA- RTRS PLUS FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74647.ts
 
-#EXTINF:-1 tvg-id="[SL] TV Slovenija 1 (B)" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 1 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359109.ts
+#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/ALJAZEERABALKAN.png" group-title="BOSNA I HERCEGOVINA", BA - AL JAZEERA BALKAN  FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74640.ts
 
-#EXTINF:-1 tvg-id="[SL] TV Slovenija 2" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359110.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/PRVA_HERCEGOVACKA.png" group-title="BOSNA I HERCEGOVINA", BA - PRVA HERCEGOVACKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239792.ts
 
-#EXTINF:-1 tvg-id="[SL] TV Slovenija 2 (B)" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 2 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359111.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BNV_TV_SANDZAK.png" group-title="BOSNA I HERCEGOVINA", BA - BNV TV SANDZAK HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239793.ts
 
-#EXTINF:-1 tvg-id="[SL] TV Slovenija 3" tvg-logo="noimage.png" group-title="Slovenija", [SL] TV Slovenija 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359112.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SUPER_TV_MEDIA.png" group-title="BOSNA I HERCEGOVINA", BA - SUPER TV MEDIA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239794.ts
 
-#EXTINF:-1 tvg-id="[SL] VTV" tvg-logo="noimage.png" group-title="Slovenija", [SL] VTV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359113.ts
+#EXTINF:-1 tvg-id="vikom.ba" tvg-logo="https://go4.pw/EXYU/VIKOM_TV.png" group-title="BOSNA I HERCEGOVINA", BA - VIKOM TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239795.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] b92 TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] b92 TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359627.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TV_MEKKA.png" group-title="BOSNA I HERCEGOVINA", BA - TV MEKKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239796.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] city tv" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] city tv
-http://asmr4k.pro:8080//live/0421020409/05848383993/359638.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_HERCEG_BOSNE.png" group-title="BOSNA I HERCEGOVINA", BA - RTV HERCEG BOSNE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239797.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] DM SAT" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] DM SAT
-http://asmr4k.pro:8080//live/0421020409/05848383993/359644.ts
+#EXTINF:-1 tvg-id="kanal6.ba" tvg-logo="https://go4.pw/EXYU/KANAL_6.png" group-title="BOSNA I HERCEGOVINA", BA - KANAL 6 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239798.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] DocuBox SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] DocuBox SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359645.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/HEMA_TV.png" group-title="BOSNA I HERCEGOVINA", BA - HEMA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239799.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Duga TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Duga TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359648.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SEHARA_TV.png" group-title="BOSNA I HERCEGOVINA", BA - SEHARA TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239819.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Grand TV 1 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Grand TV 1 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359661.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TV_ISTOK.png" group-title="BOSNA I HERCEGOVINA", BA - TV ISTOK HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239820.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Grand TV 2 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Grand TV 2 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359662.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/JEFIMIJA.png" group-title="BOSNA I HERCEGOVINA", BA - JEFIMIJA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239821.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Happy Parovi" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Happy Parovi
-http://asmr4k.pro:8080//live/0421020409/05848383993/359663.ts
+#EXTINF:-1 tvg-id="bht1.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/BHTHD-1.png" group-title="BOSNA I HERCEGOVINA", BA - BHT FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74631.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Happy TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Happy TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359664.ts
+#EXTINF:-1 tvg-id="bht1.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/BHTHD-1.png" group-title="BOSNA I HERCEGOVINA", BA - BHT FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74630.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] N1 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] N1 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359702.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BOSNIA.png" group-title="BOSNA I HERCEGOVINA", ##### EXYU - BOSNA SPORTS #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277824.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Nova S" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Nova S
-http://asmr4k.pro:8080//live/0421020409/05848383993/359710.ts
+#EXTINF:-1 tvg-id="arenasportpremium1.ba" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA PREMIUM 1 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059878.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359715.ts
+#EXTINF:-1 tvg-id="arenasportpremium2.ba" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA PREMIUM 2 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059879.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Action" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Action
-http://asmr4k.pro:8080//live/0421020409/05848383993/359716.ts
+#EXTINF:-1 tvg-id="arenasportpremium3.ba" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA PREMIUM 3 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059880.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Classic" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Classic
-http://asmr4k.pro:8080//live/0421020409/05848383993/359717.ts
+#EXTINF:-1 tvg-id="arenasport2.ba" tvg-logo="https://go4.pw/EXYU/ARENA2.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA SPORT 2 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059873.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Comedy" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Comedy
-http://asmr4k.pro:8080//live/0421020409/05848383993/359718.ts
+#EXTINF:-1 tvg-id="arenasport3.ba" tvg-logo="https://go4.pw/EXYU/ARENA3.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA SPORT 3 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059874.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Crime & Mystery" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Crime & Mystery
-http://asmr4k.pro:8080//live/0421020409/05848383993/359719.ts
+#EXTINF:-1 tvg-id="arenasport4.ba" tvg-logo="https://go4.pw/EXYU/ARENA4.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA SPORT 4 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059875.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Extra" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Extra
-http://asmr4k.pro:8080//live/0421020409/05848383993/359720.ts
+#EXTINF:-1 tvg-id="arenasport5.ba" tvg-logo="https://go4.pw/EXYU/ARENA5.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA SPORT 5 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059876.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Family" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Family
-http://asmr4k.pro:8080//live/0421020409/05848383993/359721.ts
+#EXTINF:-1 tvg-id="arenasport6.ba" tvg-logo="https://go4.pw/EXYU/a-6.png" group-title="BOSNA I HERCEGOVINA", BA - ARENA SPORT 6 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059877.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Film" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Film
-http://asmr4k.pro:8080//live/0421020409/05848383993/359722.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BOSNIA.png" group-title="BOSNA I HERCEGOVINA", ##### EXYU - BOSNA MOVIES #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74629.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Folk 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359723.ts
+#EXTINF:-1 tvg-id="obn.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/OBNBIH.png" group-title="BOSNA I HERCEGOVINA", BA - OBN FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74643.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Folk 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359724.ts
+#EXTINF:-1 tvg-id="tv1.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TV1-1.png" group-title="BOSNA I HERCEGOVINA", BA - TV 1 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74655.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink HAHA" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink HAHA
-http://asmr4k.pro:8080//live/0421020409/05848383993/359725.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BOSNIA.png" group-title="BOSNA I HERCEGOVINA", ##### EXYU - BOSNA ENTERTAINMENT #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277826.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Hits 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359726.ts
+#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/ALJAZEERABALKAN.png" group-title="BOSNA I HERCEGOVINA", BA - AL JAZEERA BALKAN FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74641.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Hits 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359727.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/ROMANIA/bir-tv.png" group-title="BOSNA I HERCEGOVINA", BA - BIR TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/329430.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Horror" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Horror
-http://asmr4k.pro:8080//live/0421020409/05848383993/359728.ts
+#EXTINF:-1 tvg-id="facetv.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FACE.png" group-title="BOSNA I HERCEGOVINA", BA - FACE TV  FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74638.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Kids" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Kids
-http://asmr4k.pro:8080//live/0421020409/05848383993/359729.ts
+#EXTINF:-1 tvg-id="facetv.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FACE.png" group-title="BOSNA I HERCEGOVINA", BA - FACE TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74639.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink LOL" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink LOL
-http://asmr4k.pro:8080//live/0421020409/05848383993/359730.ts
+#EXTINF:-1 tvg-id="ftv.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FTV.png" group-title="BOSNA I HERCEGOVINA", BA - FTV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74632.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Movies" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Movies
-http://asmr4k.pro:8080//live/0421020409/05848383993/359731.ts
+#EXTINF:-1 tvg-id="hayatplus.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HAYATHD.png" group-title="BOSNA I HERCEGOVINA", BA - HAYAT 2 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74635.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Music 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359732.ts
+#EXTINF:-1 tvg-id="hayat.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HAYATHD.png" group-title="BOSNA I HERCEGOVINA", BA - HAYAT FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74633.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Music 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359733.ts
+#EXTINF:-1 tvg-id="N1 BH" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/N1BOSNA.png" group-title="BOSNA I HERCEGOVINA", BA - N1 BOSNA FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74644.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Pedia" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Pedia
-http://asmr4k.pro:8080//live/0421020409/05848383993/359734.ts
+#EXTINF:-1 tvg-id="nova.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD.png" group-title="BOSNA I HERCEGOVINA", BA - NOVA BH  FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74636.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Plus" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Plus
-http://asmr4k.pro:8080//live/0421020409/05848383993/359735.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/ROMANIA/tatabrada_mal.png" group-title="BOSNA I HERCEGOVINA", BA - TATABRADA TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/329428.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Premium" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Premium
-http://asmr4k.pro:8080//live/0421020409/05848383993/359736.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/mytv.png" group-title="BOSNA I HERCEGOVINA", BA - MYTV
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1341076.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Reality" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Reality
-http://asmr4k.pro:8080//live/0421020409/05848383993/359737.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BDC.png" group-title="BOSNA I HERCEGOVINA", BA - BDC TELEVIZIJA
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1342015.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Romance" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Romance
-http://asmr4k.pro:8080//live/0421020409/05848383993/359738.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTVŽIVINICE.png" group-title="BOSNA I HERCEGOVINA", BA - RTV ŽIVINICE
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1396568.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Sci Fi & Fantasy" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Sci Fi & Fantasy
-http://asmr4k.pro:8080//live/0421020409/05848383993/359739.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/MONTENEGRO.png" group-title="CRNA GORA", ##### EXYU -  CRNA GORA #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75001.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Serije" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Serije
-http://asmr4k.pro:8080//live/0421020409/05848383993/359740.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/tve.png" group-title="CRNA GORA", ME - TV E FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1352291.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Show SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Show SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359741.ts
+#EXTINF:-1 tvg-id="rtcg1.me" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTV-1.png" group-title="CRNA GORA", ME - RTCG 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75002.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Soap" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Soap
-http://asmr4k.pro:8080//live/0421020409/05848383993/359742.ts
+#EXTINF:-1 tvg-id="rtcg2.me" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTV-2.png" group-title="CRNA GORA", ME - RTCG 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75003.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Style" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Style
-http://asmr4k.pro:8080//live/0421020409/05848383993/359743.ts
+#EXTINF:-1 tvg-id="Happy TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HAPPY-1.png" group-title="CRNA GORA", ME - RTCG PARLAMENTARNI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75008.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Thriller" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Thriller
-http://asmr4k.pro:8080//live/0421020409/05848383993/359744.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTV-SAT.png" group-title="CRNA GORA", ME - RTCG SAT HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75004.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Western" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Western
-http://asmr4k.pro:8080//live/0421020409/05848383993/359745.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/VIJESTI-1.png" group-title="CRNA GORA", ME -  TV VIJESTI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/516555.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink World" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink World
-http://asmr4k.pro:8080//live/0421020409/05848383993/359746.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Adria TV.png" group-title="CRNA GORA", ME - ADRIA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132289.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink World Cinema" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink World Cinema
-http://asmr4k.pro:8080//live/0421020409/05848383993/359747.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Boin TV.png" group-title="CRNA GORA", ME - BOIN TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132287.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Zabava" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Pink Zabava
-http://asmr4k.pro:8080//live/0421020409/05848383993/359748.ts
+#EXTINF:-1 tvg-id="gradskatv.me" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Gradska TV.png" group-title="CRNA GORA", ME - GRADSKA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132283.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Prva" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva
-http://asmr4k.pro:8080//live/0421020409/05848383993/359749.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MNE Sport 3.png" group-title="CRNA GORA", ME - MNE SPORT 1 | CG HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132284.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Prva Kick" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva Kick
-http://asmr4k.pro:8080//live/0421020409/05848383993/359750.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MNE Sport 3.png" group-title="CRNA GORA", ME - MNE SPORT 2 | CG HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132285.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Prva Max" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva Max
-http://asmr4k.pro:8080//live/0421020409/05848383993/359751.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MNE Sport 3.png" group-title="CRNA GORA", ME - MNE SPORT 3 | CG HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132286.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Prva Plus" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva Plus
-http://asmr4k.pro:8080//live/0421020409/05848383993/359752.ts
+#EXTINF:-1 tvg-id="Nova M" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVA-1.png" group-title="CRNA GORA", ME - NOVA M HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75005.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Prva World" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Prva World
-http://asmr4k.pro:8080//live/0421020409/05848383993/359753.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Pljevlja TV.png" group-title="CRNA GORA", ME - PLJEVLJA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1132288.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Red TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Red TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359754.ts
+#EXTINF:-1 tvg-id="Prva 1 Crna Gora ex-Yu" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="CRNA GORA", ME - PRVA CG HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75007.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Roma TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Roma TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359755.ts
+#EXTINF:-1 tvg-id="pinkm.me" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Pink-1.png" group-title="CRNA GORA", ME - RTV BUDVA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75010.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTS 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359757.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TV_777_PODGORICA.png" group-title="CRNA GORA", ME - TELEVIZIJA 7 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/516553.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTS 1 (B)" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 1 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359758.ts
+#EXTINF:-1 tvg-id="vijesti.me" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/VIJESTI-1.png" group-title="CRNA GORA", ME - TV VIJESTI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/75011.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTS 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359759.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="DOKUMENTARNI", ##### EXYU - DOKUMENTARNI #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74804.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTS 2 (B)" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 2 (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359760.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/AGROHD.png" group-title="DOKUMENTARNI", EXYU - AGRO RTV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74805.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTS 3" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359761.ts
+#EXTINF:-1 tvg-id="Animal Planet FHD RS" tvg-logo="https://go4.pw/OSN/OSNANIMALPLANETHD.png" group-title="DOKUMENTARNI", EXYU - ANIMAL PLANET HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74806.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTS Svet" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTS Svet
-http://asmr4k.pro:8080//live/0421020409/05848383993/359762.ts
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/24KITCHEN.png" group-title="DOKUMENTARNI", EXYU - 24 KITCHEN HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74808.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTV 1" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359763.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="DOKUMENTARNI", EXYU - DISCOVERY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74809.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTV 2" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359764.ts
+#EXTINF:-1 tvg-id="Discovery ID FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="DOKUMENTARNI", EXYU - DISCOVERY ID HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74811.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTV Krajina" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV Krajina
-http://asmr4k.pro:8080//live/0421020409/05848383993/359765.ts
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="DOKUMENTARNI", EXYU - DISCOVERY ID XTRA  HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74812.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTV MLAVA" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV MLAVA
-http://asmr4k.pro:8080//live/0421020409/05848383993/359766.ts
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="https://go4.pw/PORTUGAL/da_vinci.png" group-title="DOKUMENTARNI", EXYU - DA VINCI LEARNING HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74814.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTV Novi Pazar" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] RTV Novi Pazar
-http://asmr4k.pro:8080//live/0421020409/05848383993/359767.ts
+#EXTINF:-1 tvg-id="Crime & Investigation" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="DOKUMENTARNI", EXYU - CRIME INVESTIGATION HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74816.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sandzak TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Sandzak TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359768.ts
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TLC-1.png" group-title="DOKUMENTARNI", EXYU - TLC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74818.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] SOS Kanal SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] SOS Kanal SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359769.ts
+#EXTINF:-1 tvg-id="E! FHD" tvg-logo="https://go4.pw/AMERICA/USA/E!(1).png" group-title="DOKUMENTARNI", EXYU - E! HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74819.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] STAR TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] STAR TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359789.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOKUTV-1.png" group-title="DOKUMENTARNI", EXYU - DOKU TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74820.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Studio B" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Studio B
-http://asmr4k.pro:8080//live/0421020409/05848383993/359790.ts
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TRAVEL-1.png" group-title="DOKUMENTARNI", EXYU - TRAVEL  CHANNEL HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74821.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] SUPERSTAR TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] SUPERSTAR TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359792.ts
+#EXTINF:-1 tvg-id="DocuBox" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOCUBOX-1.png" group-title="DOKUMENTARNI", EXYU - DOCUBOX HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74823.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] TV Hram" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] TV Hram
-http://asmr4k.pro:8080//live/0421020409/05848383993/359798.ts
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/VHISTORY-1.png" group-title="DOKUMENTARNI", EXYU - VIASAT NATURE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74824.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] TV Vesti" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] TV Vesti
-http://asmr4k.pro:8080//live/0421020409/05848383993/359799.ts
+#EXTINF:-1 tvg-id="Viasat History" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/VIASATHISTORY-1.png" group-title="DOKUMENTARNI", EXYU - VIASAT HISTORY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74825.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] TV1000 SRB" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] TV1000 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359800.ts
+#EXTINF:-1 tvg-id="Viasat Explore FHD RS/HR/MK" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/VIASATEXPLORE-1.png" group-title="DOKUMENTARNI", EXYU - VIASAT EXPLORER FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74826.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga 2 Live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga 2 Live
-http://asmr4k.pro:8080//live/0421020409/05848383993/359805.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NATGEOWILD-1.png" group-title="DOKUMENTARNI", EXYU - NATIONAL GEOGRAPHIC WILD FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74827.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga 3 Live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga 3 Live
-http://asmr4k.pro:8080//live/0421020409/05848383993/359806.ts
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NATGEOGRAPHIC-1.png" group-title="DOKUMENTARNI", EXYU - NATIONAL GEOGRAPHIC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74828.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga 4 live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga 4 live
-http://asmr4k.pro:8080//live/0421020409/05848383993/359807.ts
+#EXTINF:-1 tvg-id="Lov i Ribolov" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RIBOLOV-1.png" group-title="DOKUMENTARNI", EXYU - LOV I RIBOLOV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74831.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Zadruga Live" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zadruga Live
-http://asmr4k.pro:8080//live/0421020409/05848383993/359808.ts
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HISTORY-1.png" group-title="DOKUMENTARNI", EXYU - HISTORY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74832.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Zvezda TV" tvg-logo="noimage.png" group-title="Srbija", [Ex-Yu] Zvezda TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359809.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HISTORY-2.png" group-title="DOKUMENTARNI", EXYU - HISTORY 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74833.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359596.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FOODNETWORK-1.png" group-title="DOKUMENTARNI", EXYU - FOOD NETWORK FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74836.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 HR (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359597.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/NOVA_DOCUMENTARY.png" group-title="DOKUMENTARNI", EXYU - NOVA DOCUMENTARY
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1192980.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 Srb
-http://asmr4k.pro:8080//live/0421020409/05848383993/359598.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="FILMSKI KANALI", ##### EXYU - FILMSKI KANALI #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74774.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 1 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 1 Srb (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359599.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HBO-1.png" group-title="FILMSKI KANALI", EXYU - HBO HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74775.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 10 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 10 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359600.ts
+#EXTINF:-1 tvg-id="HBO 2 FHD RS/HR/SLO/MK" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HBO-1.png" group-title="FILMSKI KANALI", EXYU - HBO 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74776.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359601.ts
+#EXTINF:-1 tvg-id="Epic Drama FHD RS/HR/MK" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/EPICDRAMA.png" group-title="FILMSKI KANALI", EXYU - EPIC DRAMA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74779.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 HR (B)" tvg-logo="http://asmr4k.pro:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWMskmhzFMxz9xbM_-b-8mRipkljiBZMes4rrxhX8dZEDJqvB1rUPn-qgiw6GO-QKjalcZImfClDwWY_HCi0cDd.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 HR (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359602.ts
+#EXTINF:-1 tvg-id="STAR TV FHD TUR" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="FILMSKI KANALI", EXYU - STAR TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74780.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 Srb
-http://asmr4k.pro:8080//live/0421020409/05848383993/359603.ts
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="FILMSKI KANALI", EXYU - STAR LIFE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74797.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 2 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 2 Srb (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359604.ts
+#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="FILMSKI KANALI", EXYU - STAR CRIME HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74798.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359605.ts
+#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="FILMSKI KANALI", EXYU - STAR MOVIES HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74799.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 HR (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359606.ts
+#EXTINF:-1 tvg-id="Fox" tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="FILMSKI KANALI", EXYU - STAR CHANNEL HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74800.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 Srb
-http://asmr4k.pro:8080//live/0421020409/05848383993/359607.ts
+#EXTINF:-1 tvg-id="TV 1000" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TV1000-1.png" group-title="FILMSKI KANALI", EXYU - TV 1000 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74781.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 3 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 3 Srb (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359608.ts
+#EXTINF:-1 tvg-id="Superstar TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="FILMSKI KANALI", EXYU - SUPER STAR TV TEST HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74782.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359609.ts
+#EXTINF:-1 tvg-id="CineStar TV" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="FILMSKI KANALI", EXYU - CINESTAR TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74784.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 HR (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359610.ts
+#EXTINF:-1 tvg-id="CineStar TV Action & Thriller" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="FILMSKI KANALI", EXYU - CINESTAR ACTION TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74785.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 Srb
-http://asmr4k.pro:8080//live/0421020409/05848383993/359611.ts
+#EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="FILMSKI KANALI", EXYU - CINESTAR FANTASY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74786.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 4 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 4 Srb (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359612.ts
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="FILMSKI KANALI", EXYU - CINESTAR PREMIERE 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74787.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359613.ts
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="FILMSKI KANALI", EXYU - CINESTAR PREMIERE 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74788.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 HR (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 HR (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359614.ts
+#EXTINF:-1 tvg-id="Cinemax 1 HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="FILMSKI KANALI", EXYU - CINEMAX 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74789.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 Srb" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 Srb
-http://asmr4k.pro:8080//live/0421020409/05848383993/359615.ts
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="FILMSKI KANALI", EXYU - CINEMAX 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74790.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport 5 Srb (B)" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport 5 Srb (B)
-http://asmr4k.pro:8080//live/0421020409/05848383993/359616.ts
+#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/KLASIKTV.png" group-title="FILMSKI KANALI", EXYU - KLASIK TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74791.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 6 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 6 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359617.ts
+#EXTINF:-1 tvg-id="M1 Film MK" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/M1.png" group-title="FILMSKI KANALI", EXYU - M1 FILM HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74792.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 7 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 7 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359618.ts
+#EXTINF:-1 tvg-id="M1 Gold" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/M1.png" group-title="FILMSKI KANALI", EXYU - M1 FILM GOLD HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74793.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 8 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 8 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359619.ts
+#EXTINF:-1 tvg-id="M1 Film" tvg-logo="https://go4.pw/EXYU/M1_FILM_FAMILY.png" group-title="FILMSKI KANALI", EXYU - M1 FILM FAMILY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239894.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT 9 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT 9 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359620.ts
+#EXTINF:-1 tvg-id="AXN Spin" tvg-logo="https://go4.pw/EUROPE/POLONIA/axnSpin.png" group-title="FILMSKI KANALI", EXYU - AXN SPIN HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74794.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Arena Sport BiH" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Arena Sport BiH
-http://asmr4k.pro:8080//live/0421020409/05848383993/359621.ts
+#EXTINF:-1 tvg-id="kinotv.pl" tvg-logo="https://go4.pw/EXYU/KINO_TV_.png" group-title="FILMSKI KANALI", EXYU - KINO TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74795.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT PREMIUM 1 HD" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT PREMIUM 1 HD
-http://asmr4k.pro:8080//live/0421020409/05848383993/359622.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="FILMSKI KANALI", EXYU - SUPER STAR 2
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1182041.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT PREMIUM 2 HD" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT PREMIUM 2 HD
-http://asmr4k.pro:8080//live/0421020409/05848383993/359623.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="FILMSKI KANALI", EXYU - SUPER STAR 3
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1182040.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] ARENA SPORT PREMIUM 3 HD" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] ARENA SPORT PREMIUM 3 HD
-http://asmr4k.pro:8080//live/0421020409/05848383993/359624.ts
+#EXTINF:-1 tvg-id="SciFi FHD" tvg-logo="https://go4.pw/EXYU/SCI_FI.png" group-title="FILMSKI KANALI", EXYU - SCI-FI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239891.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] EuroSport 1" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] EuroSport 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359650.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/FILMBOX_STAR.png" group-title="FILMSKI KANALI", EXYU - FILMBOX STAR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239892.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] EuroSport 2" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] EuroSport 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359651.ts
+#EXTINF:-1 tvg-id="FilmBox Extra FHD" tvg-logo="https://go4.pw/EXYU/FILMBOX_EXTRA.png" group-title="FILMSKI KANALI", EXYU - FILMBOX EXTRA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239893.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Fight Channel" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Fight Channel
-http://asmr4k.pro:8080//live/0421020409/05848383993/359652.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://go4.pw/EXYU/AXN_ADRIA.png" group-title="FILMSKI KANALI", EXYU - AXN ADRIA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239895.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] FightBox" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] FightBox
-http://asmr4k.pro:8080//live/0421020409/05848383993/359653.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="MAKEDONIJA", ##### EXYU - MAKEDONIJA GENERAL #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277834.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Max Sport 1" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Max Sport 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359684.ts
+#EXTINF:-1 tvg-id="Алсат M" tvg-logo="https://go4.pw/EUROPE/ALBANIA/alsat-m.png" group-title="MAKEDONIJA", MK - ALSAT M HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/304985.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Max Sport 2" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Max Sport 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359685.ts
+#EXTINF:-1 tvg-id="sitel.mk" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SITEL-1.png" group-title="MAKEDONIJA", MK - SITEL HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74988.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Nova Sport" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Nova Sport
-http://asmr4k.pro:8080//live/0421020409/05848383993/359711.ts
+#EXTINF:-1 tvg-id="kanal5.mk" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/KANAL5-1.png" group-title="MAKEDONIJA", MK - KANAL 5 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74985.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] PARTIZAN TV" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] PARTIZAN TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359712.ts
+#EXTINF:-1 tvg-id="Алфа ТВ" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Alfa_tv.png" group-title="MAKEDONIJA", MK - ALFA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74972.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 1 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 1 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359770.ts
+#EXTINF:-1 tvg-id="telma.mk" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TELMA-1.png" group-title="MAKEDONIJA", MK - TELMA HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74993.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 1 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 1 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359771.ts
+#EXTINF:-1 tvg-id="mrt1.mk" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png" group-title="MAKEDONIJA", MK - MRT 1 HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74968.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 10 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 10 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359772.ts
+#EXTINF:-1 tvg-id="mrt2.mk" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MRT2-1.png" group-title="MAKEDONIJA", MK - MRT 2 HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74969.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 2 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 2 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359773.ts
+#EXTINF:-1 tvg-id="mrt3.mk" tvg-logo="https://go4.pw/EXYU/MRT3.png" group-title="MAKEDONIJA", MK - MRT 3 HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272530.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 2 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 2 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359774.ts
+#EXTINF:-1 tvg-id="mrt4.mk" tvg-logo="https://go4.pw/EXYU/MRT4.png" group-title="MAKEDONIJA", MK - MRT 4 HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272531.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 3 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 3 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359775.ts
+#EXTINF:-1 tvg-id="mrt5.mk" tvg-logo="https://go4.pw/EXYU/MRT5.png" group-title="MAKEDONIJA", MK - MRT 5 HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272532.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 3 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 3 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359776.ts
+#EXTINF:-1 tvg-id="tv24.mk" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/24VESTI-1.png" group-title="MAKEDONIJA", MK - 24 VESTI HD  ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74971.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 4 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 4 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359777.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BALKANTRIP.png" group-title="MAKEDONIJA", MK - BALKAN TRIP HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305008.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 4 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 4 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359778.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="MAKEDONIJA", MK - HUGO 1
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239888.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 5 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 5 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359779.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="MAKEDONIJA", MK - HUGO 2
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239887.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 5 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 5 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359780.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="MAKEDONIJA", MK - HUGO 3
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239886.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 6 HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 6 HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359781.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="MAKEDONIJA", MK - HUGO 4
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239885.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 6 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 6 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359782.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/kanal-ri-.png" group-title="MAKEDONIJA", MK - KANALRI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305051.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 7 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 7 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359783.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/OTV%7F.png" group-title="MAKEDONIJA", MK - OTV  HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305071.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 8 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 8 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359784.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="MAKEDONIJA", MK - RTL ADRIA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305079.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub 9 SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub 9 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359785.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SB.TV.png" group-title="MAKEDONIJA", MK - SBTV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305084.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub GOLF" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub GOLF
-http://asmr4k.pro:8080//live/0421020409/05848383993/359786.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TELEVIZIJADALMACIJA.png" group-title="MAKEDONIJA", MK - TELEVIZIJA DALMACIJA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305091.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub HR" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359787.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TV21.png" group-title="MAKEDONIJA", MK - TV 21 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305087.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Sport Klub SRB" tvg-logo="noimage.png" group-title="SPORT", [Ex-Yu] Sport Klub SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359788.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/tv-jadran.png" group-title="MAKEDONIJA", MK - TV JADRAN HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305088.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Hayatovci" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Hayatovci
-http://asmr4k.pro:8080//live/0421020409/05848383993/359665.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/nova(1).png" group-title="MAKEDONIJA", MK - TV NOVA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305089.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MASA I MEDO" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] MASA I MEDO
-http://asmr4k.pro:8080//live/0421020409/05848383993/359683.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/globi.png" group-title="MAKEDONIJA", MK - TV GLOBI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1288117.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Mini TV" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Mini TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359696.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/VTV_televizij.png" group-title="MAKEDONIJA", MK - VTV VARAZDIN HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305096.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MINIMAX" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] MINIMAX
-http://asmr4k.pro:8080//live/0421020409/05848383993/359697.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TV_EDO.png" group-title="MAKEDONIJA", MK - TV EDO HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239878.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Nick Junior HR" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Nick Junior HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359705.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/IN_TV_AUSTRALIA.png" group-title="MAKEDONIJA", MK - IN TV AUSTRALIA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239879.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Nick Junior SRB" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Nick Junior SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359706.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/B_TV_VISTINSKA.png" group-title="MAKEDONIJA", MK - B TV VISTINSKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239880.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Nickelodeon" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Nickelodeon
-http://asmr4k.pro:8080//live/0421020409/05848383993/359707.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/KANAL_8.png" group-title="MAKEDONIJA", MK - KANAL 8 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239881.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Kids" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Pink Kids
-http://asmr4k.pro:8080//live/0421020409/05848383993/359729.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/MPT_SOBRANISKI.png" group-title="MAKEDONIJA", MK - MPT SOBRANISKI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239882.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Super Kids" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Super Kids
-http://asmr4k.pro:8080//live/0421020409/05848383993/359791.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/ROMA_TV.png" group-title="MAKEDONIJA", MK - ROMA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239883.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Tom and Jerry Channel" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] Tom and Jerry Channel
-http://asmr4k.pro:8080//live/0421020409/05848383993/359795.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Zdrava_TV.png" group-title="MAKEDONIJA", MK - ZDRAVA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305102.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] RTL Kockica" tvg-logo="noimage.png" group-title="DJECA", [Ex-Yu] RTL Kockica
-http://asmr4k.pro:8080//live/0421020409/05848383993/359756.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="MAKEDONIJA", ##### EXYU - MAKEDONIJA DOCUMENTARY #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277836.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Cinemania" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinemania
-http://asmr4k.pro:8080//live/0421020409/05848383993/359630.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="MAKEDONIJA", MK - NATIONAL GEOGRAPHIC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305065.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Cinemax 1" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinemax 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359631.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="MAKEDONIJA", MK - NATIONAL GEOGRAPHIC WILD HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305066.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Cinemax 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinemax 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359632.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/FRANCE/NAUTICAL CHANNEL.png" group-title="MAKEDONIJA", MK - NAUTICAL CHANNEL HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305067.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Cinestar Premiere 1" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinestar Premiere 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359633.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/Viasat%20Explore.png" group-title="MAKEDONIJA", MK - VIASAT EXPLORE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305097.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Cinestar Premiere 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Cinestar Premiere 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359634.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/VIASATNATURE.png" group-title="MAKEDONIJA", MK - VIASAT NATURE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305099.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] CineStar TV" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] CineStar TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359635.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="MAKEDONIJA", MK - DA VINCI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305026.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] CineStar TV ACTION" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] CineStar TV ACTION
-http://asmr4k.pro:8080//live/0421020409/05848383993/359636.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOKUTV-1.png" group-title="MAKEDONIJA", MK - DOKU TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305028.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] CineStar TV FANTASY" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] CineStar TV FANTASY
-http://asmr4k.pro:8080//live/0421020409/05848383993/359637.ts
+#EXTINF:-1 tvg-id="BBC First" tvg-logo="https://go4.pw/EUROPE/ALBANIA/bbc-first-hd-.png" group-title="MAKEDONIJA", MK - BBC FIRST HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305007.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Film Klub" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Film Klub
-http://asmr4k.pro:8080//live/0421020409/05848383993/359654.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://smartillusion.feniks.team:25002/images/film/amc.png" group-title="MAKEDONIJA", MK - AMC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/304982.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Filmbox Extra SRB" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Filmbox Extra SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359655.ts
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="MAKEDONIJA", MK - DA VINCI LEARNING HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74975.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Filmbox Stars SRB" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Filmbox Stars SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359656.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/LESKOVAC%20TV.png" group-title="MAKEDONIJA", MK - LESKOVAC TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272539.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] HBO 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] HBO 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359666.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/sunce%20(1).png" group-title="MAKEDONIJA", MK - SONCE TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272534.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] HBO 3" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] HBO 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359667.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TERA%20BITOLA.png" group-title="MAKEDONIJA", MK - TERA BITOLA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272536.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] HBO Adria HD" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] HBO Adria HD
-http://asmr4k.pro:8080//live/0421020409/05848383993/359668.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TERA-BITOLA.png" group-title="MAKEDONIJA", MK - TERA BITOLA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272535.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Kino TV" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Kino TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359677.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TV+KUMANOVO.png" group-title="MAKEDONIJA", MK - TV+ KUMANOVO HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272538.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Klasik TV" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Klasik TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359678.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="MAKEDONIJA", MK - SPORTSKA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272547.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] LUD ZBUNJEN NORMALAN" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] LUD ZBUNJEN NORMALAN
-http://asmr4k.pro:8080//live/0421020409/05848383993/359680.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="MAKEDONIJA", ##### EXYU - MAKEDONIJA MOVIES #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74967.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] M1 Film" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] M1 Film
-http://asmr4k.pro:8080//live/0421020409/05848383993/359681.ts
+#EXTINF:-1 tvg-id="Cinemax 1 FHD RS/HR/SLO/MK" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="MAKEDONIJA", MK - CINEMAX HD [HR]
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305019.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] M1 Film Gold" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] M1 Film Gold
-http://asmr4k.pro:8080//live/0421020409/05848383993/359682.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/EPICDRAMA.png" group-title="MAKEDONIJA", MK - EPIC DRAMA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305033.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 1" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359686.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/CYPRUS/Extra_.png" group-title="MAKEDONIJA", MK - EXTRA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305034.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 10" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 10
-http://asmr4k.pro:8080//live/0421020409/05848383993/359687.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/ALBANIA/digitalb.png" group-title="MAKEDONIJA", MK - FILM AKSION HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305036.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 2" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359688.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/ROMANIA/FILMBOX.png" group-title="MAKEDONIJA", MK - FILM BOX ARTHOUSE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305037.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 3" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 3
-http://asmr4k.pro:8080//live/0421020409/05848383993/359689.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/ALBANIA/digitalb.png" group-title="MAKEDONIJA", MK - FILM KOMEDI HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305039.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 4" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 4
-http://asmr4k.pro:8080//live/0421020409/05848383993/359690.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/ALBANIA/t-hd.png" group-title="MAKEDONIJA", MK - FILM TRILLER HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305040.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 5" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 5
-http://asmr4k.pro:8080//live/0421020409/05848383993/359691.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MAKEDONIJA", MK - HBO HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272549.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 6" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 6
-http://asmr4k.pro:8080//live/0421020409/05848383993/359692.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MAKEDONIJA", MK - HBO HD [HR]
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305042.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 7" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 7
-http://asmr4k.pro:8080//live/0421020409/05848383993/359693.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MAKEDONIJA", MK - HBO2 HD [HR]
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305043.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 8" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 8
-http://asmr4k.pro:8080//live/0421020409/05848383993/359694.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MAKEDONIJA", MK - HBO3 HD [HR]
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305044.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] MaxCro Select 9" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] MaxCro Select 9
-http://asmr4k.pro:8080//live/0421020409/05848383993/359695.ts
+#EXTINF:-1 tvg-id="Cinemax 2 FHD RS/HR/SLO/MK" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="MAKEDONIJA", MK - CINEMAX 2 HD [HR]
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305021.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Nova Cinema" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Nova Cinema
-http://asmr4k.pro:8080//live/0421020409/05848383993/359708.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TV1000.png" group-title="MAKEDONIJA", MK - TV 1000 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305086.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] PICKBOX TV HR" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] PICKBOX TV HR
-http://asmr4k.pro:8080//live/0421020409/05848383993/359713.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/Pink.png" group-title="MAKEDONIJA", MK - PICKBOX TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305074.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Action" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Action
-http://asmr4k.pro:8080//live/0421020409/05848383993/359716.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/GP1_HD.png" group-title="MAKEDONIJA", MK - GP1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305041.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Classic" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Classic
-http://asmr4k.pro:8080//live/0421020409/05848383993/359717.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MAKEDONIJA", MK - HBO 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272563.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Comedy" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Comedy
-http://asmr4k.pro:8080//live/0421020409/05848383993/359718.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="MAKEDONIJA", ##### EXYU - MAKEDONIJA KIDS #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277835.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Crime & Mystery" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Crime & Mystery
-http://asmr4k.pro:8080//live/0421020409/05848383993/359719.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/NICKELODEONSR.png" group-title="MAKEDONIJA", MK - NICKELODEON HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305069.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Extra" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Extra
-http://asmr4k.pro:8080//live/0421020409/05848383993/359720.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/NICKJUNIOR.png" group-title="MAKEDONIJA", MK - NICKJR MASTER HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305068.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Family" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Family
-http://asmr4k.pro:8080//live/0421020409/05848383993/359721.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/NET_KIDS_HD.png" group-title="MAKEDONIJA", MK - M:NET KIDS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239877.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Film" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Film
-http://asmr4k.pro:8080//live/0421020409/05848383993/359722.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="MAKEDONIJA", ##### EXYU - MAKEDONIJA MUSIC #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277837.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Horror" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Horror
-http://asmr4k.pro:8080//live/0421020409/05848383993/359728.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SKY_FOLK_TV.png" group-title="MAKEDONIJA", MK - SKY FOLK TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239884.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Movies" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Movies
-http://asmr4k.pro:8080//live/0421020409/05848383993/359731.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/m1-film.png" group-title="MAKEDONIJA", MK - M1 GOLD HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305056.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Serije" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Serije
-http://asmr4k.pro:8080//live/0421020409/05848383993/359740.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TOXIC.png" group-title="MAKEDONIJA", MK - TOXIC TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/305095.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Soap" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Soap
-http://asmr4k.pro:8080//live/0421020409/05848383993/359742.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/mtm-tv.png" group-title="MAKEDONIJA", MK - FOLK PLUS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272540.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Thriller" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Thriller
-http://asmr4k.pro:8080//live/0421020409/05848383993/359744.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/nasa.png" group-title="MAKEDONIJA", MK - NASA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/272544.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Western" tvg-logo="noimage.png" group-title="FILM", [Ex-Yu] Pink Western
-http://asmr4k.pro:8080//live/0421020409/05848383993/359745.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="SRBIJA", ##### EXYU - SRBIJA GENERAL #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277828.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] 24 Kitchen" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] 24 Kitchen
-http://asmr4k.pro:8080//live/0421020409/05848383993/359594.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_LUKAVAC.png" group-title="SRBIJA", RS - RTV LUKAVAC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239689.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Animal Planet" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Animal Planet
-http://asmr4k.pro:8080//live/0421020409/05848383993/359595.ts
+#EXTINF:-1 tvg-id="rtv2.rs" tvg-logo="https://go4.pw/EXYU/RTV_2.png" group-title="SRBIJA", RS - RTV 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239661.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] AXN Adria" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] AXN Adria
-http://asmr4k.pro:8080//live/0421020409/05848383993/359625.ts
+#EXTINF:-1 tvg-id="rtv1.rs" tvg-logo="https://go4.pw/EXYU/RTV_1.png" group-title="SRBIJA", RS - RTV 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239662.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] AXN Spin" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] AXN Spin
-http://asmr4k.pro:8080//live/0421020409/05848383993/359626.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/ASIA/INDIA/RTV.png" group-title="SRBIJA", RS - RTV OK
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1197599.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Crime & Investigation" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Crime & Investigation
-http://asmr4k.pro:8080//live/0421020409/05848383993/359639.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MLAVATV.png" group-title="SRBIJA", RS - RTV MLAVA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74725.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Discovery Channel" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Discovery Channel
-http://asmr4k.pro:8080//live/0421020409/05848383993/359640.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/RTV_BOR.png" group-title="SRBIJA", RS - RTV BOR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239690.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Discovery ID" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Discovery ID
-http://asmr4k.pro:8080//live/0421020409/05848383993/359641.ts
+#EXTINF:-1 tvg-id="b92.rs" tvg-logo="noimage.png" group-title="SRBIJA", RS - B92 FHD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1388620.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Discovery Science SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Discovery Science SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359642.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/FRANCE/EURONEWSHD.png" group-title="SRBIJA", RS - EURONEWS SERBIA
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1328876.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] DocuBox SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] DocuBox SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359645.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/inf.png" group-title="SRBIJA", RS - INFORMER TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1333629.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Doku TV" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Doku TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359646.ts
+#EXTINF:-1 tvg-id="studiob.rs" tvg-logo="https://go4.pw/EXYU/STUDIO_B.png" group-title="SRBIJA", RS - STUDIO B HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239685.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] E! Entertainment SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] E! Entertainment SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359649.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/O_KANAL.png" group-title="SRBIJA", RS - O KANAL HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239687.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Food Network" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Food Network
-http://asmr4k.pro:8080//live/0421020409/05848383993/359657.ts
+#EXTINF:-1 tvg-id="kcn3svetplus.rs" tvg-logo="https://go4.pw/EXYU/KCN_3.png" group-title="SRBIJA", RS - KCN 3 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239691.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] History 2 SRB" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] History 2 SRB
-http://asmr4k.pro:8080//live/0421020409/05848383993/359669.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/INSAJDER_TV.png" group-title="SRBIJA", RS - INSAJDER TV
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1189405.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] History Channel" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] History Channel
-http://asmr4k.pro:8080//live/0421020409/05848383993/359670.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/KURIR-TV.png" group-title="SRBIJA", RS - KURIR TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/326801.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Lov i Ribolov" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Lov i Ribolov
-http://asmr4k.pro:8080//live/0421020409/05848383993/359679.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BALKAN-TRIP.png" group-title="SRBIJA", RS - BALKAN TRIP TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/690044.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] National Geographic" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] National Geographic
-http://asmr4k.pro:8080//live/0421020409/05848383993/359703.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/TV_KRUSEVAC.png" group-title="SRBIJA", RS - TV KRUSEVAC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239660.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] National Geographic Wild" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] National Geographic Wild
-http://asmr4k.pro:8080//live/0421020409/05848383993/359704.ts
+#EXTINF:-1 tvg-id="rtvnovipazar.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="SRBIJA", RS - NOVI PAZAR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74724.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] TLC" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] TLC
-http://asmr4k.pro:8080//live/0421020409/05848383993/359793.ts
+#EXTINF:-1 tvg-id="tvpalmaplus.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PALMAPLUS.png" group-title="SRBIJA", RS - PALMA PLUS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74730.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Travel" tvg-logo="noimage.png" group-title="DOKU", [Ex-Yu] Travel
-http://asmr4k.pro:8080//live/0421020409/05848383993/359797.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/ATV_BANJA_LUKA.png" group-title="SRBIJA", RS - ATV BANJA LUKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239688.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] DM SAT" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] DM SAT
-http://asmr4k.pro:8080//live/0421020409/05848383993/359644.ts
+#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS 1 FHD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74697.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 1" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Folk 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359723.ts
+#EXTINF:-1 tvg-id="rts1.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS 1 HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74698.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Folk 2" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Folk 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359724.ts
+#EXTINF:-1 tvg-id="rts2.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74699.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 1" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Hits 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359726.ts
+#EXTINF:-1 tvg-id="rts3.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS 3 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74700.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Hits 2" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Hits 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359727.ts
+#EXTINF:-1 tvg-id="rtsdrama.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS DRAMA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74720.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 1" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Music 1
-http://asmr4k.pro:8080//live/0421020409/05848383993/359732.ts
+#EXTINF:-1 tvg-id="rtskolo.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS KOLO HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74719.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] Pink Music 2" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] Pink Music 2
-http://asmr4k.pro:8080//live/0421020409/05848383993/359733.ts
+#EXTINF:-1 tvg-id="rtsmuzika.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS MUZIKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74718.ts
 
-#EXTINF:-1 tvg-id="[Ex-Yu] TOP SOUND" tvg-logo="noimage.png" group-title="MUZIKA", [Ex-Yu] TOP SOUND
-http://asmr4k.pro:8080//live/0421020409/05848383993/359796.ts
+#EXTINF:-1 tvg-id="rtspoletarac.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS POLETARAC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74721.ts
 
-#EXTINF:-1 tvg-id="[BH] BN Music" tvg-logo="noimage.png" group-title="MUZIKA", [BH] BN Music
-http://asmr4k.pro:8080//live/0421020409/05848383993/357375.ts
+#EXTINF:-1 tvg-id="RTS SAT" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS SVET
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74696.ts
 
-#EXTINF:-1 tvg-id="[BH] Hayat Folk" tvg-logo="noimage.png" group-title="MUZIKA", [BH] Hayat Folk
-http://asmr4k.pro:8080//live/0421020409/05848383993/357382.ts
+#EXTINF:-1 tvg-id="rtstrezor.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS TREZOR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74717.ts
 
-#EXTINF:-1 tvg-id="[BH] Hayat Music" tvg-logo="noimage.png" group-title="MUZIKA", [BH] Hayat Music
-http://asmr4k.pro:8080//live/0421020409/05848383993/357383.ts
+#EXTINF:-1 tvg-id="rtszivot.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/RTS.png" group-title="SRBIJA", RS - RTS ZIVOT HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74716.ts
 
-#EXTINF:-1 tvg-id="[BH] OTV Valentino" tvg-logo="noimage.png" group-title="MUZIKA", [BH] OTV Valentino
-http://asmr4k.pro:8080//live/0421020409/05848383993/357393.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="SRBIJA", ##### EXYU - SRBIJA DOCUMENTARY #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277832.ts
 
-#EXTINF:-1 tvg-id="[BH] Sevdah TV" tvg-logo="noimage.png" group-title="MUZIKA", [BH] Sevdah TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/357399.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA GOOD INTERNATION HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239667.ts
 
-#EXTINF:-1 tvg-id="[HR] CMC Music" tvg-logo="noimage.png" group-title="MUZIKA", [HR] CMC Music
-http://asmr4k.pro:8080//live/0421020409/05848383993/359556.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA TRAVEL HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239672.ts
 
-#EXTINF:-1 tvg-id="[HR] TV Banovina" tvg-logo="noimage.png" group-title="MUZIKA", [HR] TV Banovina
-http://asmr4k.pro:8080//live/0421020409/05848383993/359585.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA TV ISLAMSKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239679.ts
 
-#EXTINF:-1 tvg-id="[HR]Jugoton TV" tvg-logo="noimage.png" group-title="MUZIKA", [HR]Jugoton TV
-http://asmr4k.pro:8080//live/0421020409/05848383993/359592.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="SRBIJA", ##### EXYU - SRBIJA ENTERTAINMENT #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277830.ts
 
-#EXTINF:-1 tvg-id="[MK] s*y Folk" tvg-logo="noimage.png" group-title="MUZIKA", [MK] sky Folk
-http://asmr4k.pro:8080//live/0421020409/05848383993/359535.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/HAPPY_REALITU1.png" group-title="SRBIJA", RS - HAPPY REALITU 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239658.ts
+
+#EXTINF:-1 tvg-id="happytv.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HAPPYTV.png" group-title="SRBIJA", RS - HAPPY TV HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74710.ts
+
+#EXTINF:-1 tvg-id="Happy Reality 1" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HAPPYTV.png" group-title="SRBIJA", RS - HAPPY TV PAROVI LIVE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74711.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/BUENA_ESPANOLA.png" group-title="SRBIJA", RS - BUENA ESPANOLA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239664.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA BALKANSKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239676.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA SERIJE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239677.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA PLUS FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239678.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA EXCLUSIVE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239680.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA SVADBA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239681.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239682.ts
+
+#EXTINF:-1 tvg-id="prvalife.rs" tvg-logo="https://go4.pw/EXYU/PRVA_LIFE_HD.png" group-title="SRBIJA", RS - PRVA LIFE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239683.ts
+
+#EXTINF:-1 tvg-id="prva.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="SRBIJA", RS - PRVA HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74701.ts
+
+#EXTINF:-1 tvg-id="prva.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="SRBIJA", RS - PRVA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74702.ts
+
+#EXTINF:-1 tvg-id="prvakick.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="SRBIJA", RS - PRVA KICK HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74707.ts
+
+#EXTINF:-1 tvg-id="prvamax.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="SRBIJA", RS - PRVA MAX HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74705.ts
+
+#EXTINF:-1 tvg-id="prvaplus.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="SRBIJA", RS - PRVA PLUS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74703.ts
+
+#EXTINF:-1 tvg-id="prvaworld.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="SRBIJA", RS - PRVA WORLD HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74704.ts
+
+#EXTINF:-1 tvg-id="Pink Zadruga Live 1" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png" group-title="SRBIJA", RS -  ELITA UZIVO 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74712.ts
+
+#EXTINF:-1 tvg-id="Pink Zadruga Live 2" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png" group-title="SRBIJA", RS -  ELITA UZIVO 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74713.ts
+
+#EXTINF:-1 tvg-id="Pink Zadruga Live 3" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png" group-title="SRBIJA", RS -  ELITA UZIVO 3 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74714.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/ZADRUGAUZIVO1.png" group-title="SRBIJA", RS -  ELITA UZIVO 4 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/275576.ts
+
+#EXTINF:-1 tvg-id="tvbelleamie.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/BELLEAMIE.png" group-title="SRBIJA", RS - BELLE AMIE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74726.ts
+
+#EXTINF:-1 tvg-id="prvafiles.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PRVACG-1.png" group-title="SRBIJA", RS - PRVA FILES TEST HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74708.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/NARODNA_TV.png" group-title="SRBIJA", RS - FARMA 8 / NARODNA TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239686.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/BLIC_TV.png" group-title="SRBIJA", RS - BLIC TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/326802.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/K1_HD.png" group-title="SRBIJA", RS - K1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/330771.ts
+
+#EXTINF:-1 tvg-id="novas.sr" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="SRBIJA", RS - NOVA S HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74715.ts
+
+#EXTINF:-1 tvg-id="kcn1.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/KCN1.png" group-title="SRBIJA", RS - KCN 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74729.ts
+
+#EXTINF:-1 tvg-id="kcn2music.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/KCN2.png" group-title="SRBIJA", RS - KCN 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74728.ts
+
+#EXTINF:-1 tvg-id="n1.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/N1BOSNA.png" group-title="SRBIJA", RS - N1 SRBIJA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74709.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SANDZAKTV.png" group-title="SRBIJA", RS - MREZA MOST HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74723.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="SRBIJA", ##### EXYU - SRBIJA SPORTS #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74695.ts
+
+#EXTINF:-1 tvg-id="tvsandžak.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SANDZAKTV.png" group-title="SRBIJA", RS - SANDZAK TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74722.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SRBIJA", RS - SPORTKLUB 4 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059856.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SRBIJA", RS - SPORTKLUB 5 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059857.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SRBIJA", RS - SPORTKLUB 6 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059858.ts
+
+#EXTINF:-1 tvg-id="Sport Klub 7" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SRBIJA", RS - SPORTKLUB 7 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059859.ts
+
+#EXTINF:-1 tvg-id="SK Golf" tvg-logo="https://go4.pw/EXYU/SPORTKLUB.png" group-title="SRBIJA", RS - SPORTKLUB GOLF HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059861.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/ARENA1.png" group-title="SRBIJA", RS - ARENA SPORT 1X2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059855.ts
+
+#EXTINF:-1 tvg-id="arenasport6.rs" tvg-logo="https://go4.pw/EXYU/a-6.png" group-title="SRBIJA", RS - ARENA SPORT 6 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059850.ts
+
+#EXTINF:-1 tvg-id="arenasport7.rs" tvg-logo="https://go4.pw/EXYU/a.7.png" group-title="SRBIJA", RS - ARENA SPORT 7 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059851.ts
+
+#EXTINF:-1 tvg-id="arenasport8.rs" tvg-logo="https://go4.pw/EXYU/a.8.png" group-title="SRBIJA", RS - ARENA SPORT 8 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059852.ts
+
+#EXTINF:-1 tvg-id="arenasport9.rs" tvg-logo="https://go4.pw/EXYU/a.9.png" group-title="SRBIJA", RS - ARENA SPORT 9 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059853.ts
+
+#EXTINF:-1 tvg-id="arenasport10.rs" tvg-logo="https://go4.pw/EXYU/a.10.png" group-title="SRBIJA", RS - ARENA SPORT 10 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1059854.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - TV DOBRA SRPSKA FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239665.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - TV DOBRA SPORTSKA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239666.ts
+
+#EXTINF:-1 tvg-id="Pink 2" tvg-logo="https://go4.pw/EXYU/RED_TV.png" group-title="SRBIJA", RS - RED TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/975093.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MLAVATV.png" group-title="SRBIJA", RS - RTRS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74731.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="SRBIJA", ##### EXYU - SRBIJA MOVIES #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277829.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/EuroCinema.png" group-title="SRBIJA", RS - EURO CINEMA 1 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1088952.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/EuroCinema.png" group-title="SRBIJA", RS - EURO CINEMA 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1088953.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/EuroCinema.png" group-title="SRBIJA", RS - EURO CINEMA 3 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1088954.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/EuroCinema.png" group-title="SRBIJA", RS - EURO CINEMA 4 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1088955.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/NovaSeries.png" group-title="SRBIJA", RS - NOVA SERIES HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1088951.ts
+
+#EXTINF:-1 tvg-id="Nova M" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVA-1.png" group-title="SRBIJA", RS - NOVA MAX HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74727.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/LUD_ZBUNJEN_NORMALAN.png" group-title="SRBIJA", RS - LUD ZBUNJEN NORMALAN
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239692.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="SRBIJA", ##### EXYU - SRBIJA KIDS #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277831.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DUCK_TV.png" group-title="SRBIJA", RS - DUCK TV HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239684.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="SRBIJA", ##### EXYU - SRBIJA MUSIC #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1277833.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/KAFANSKA.png" group-title="SRBIJA", RS - KAFANSKA FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239659.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/DOBRA.png" group-title="SRBIJA", RS - DOBRA MUZICKA
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239675.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/arenaa.png" group-title="SRBIJA", RS - ARENA ADRENALIN
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1282415.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/arenat.png" group-title="SRBIJA", RS - ARENA TENIS
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1282416.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/moja.png" group-title="SRBIJA", RS - MOJA TV
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1341075.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/ECOVizija.png" group-title="SRBIJA", RS - ECO VIZIJA
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1376367.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="ZABAVNI", ##### EXYU -  PINK MEDIA #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74732.ts
+
+#EXTINF:-1 tvg-id="Pink FHD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK HD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74733.ts
+
+#EXTINF:-1 tvg-id="Pink 3 Info" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK 3 INFO HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74736.ts
+
+#EXTINF:-1 tvg-id="Pink Action" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK ACTION HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74737.ts
+
+#EXTINF:-1 tvg-id="PINK BH" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK BIH HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74738.ts
+
+#EXTINF:-1 tvg-id="Pink M" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK MEDIA M HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74739.ts
+
+#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK CLASSIC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74740.ts
+
+#EXTINF:-1 tvg-id="HA HA" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK HAHA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74741.ts
+
+#EXTINF:-1 tvg-id="LOL" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK LOL HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74742.ts
+
+#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK COMEDY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74743.ts
+
+#EXTINF:-1 tvg-id="Pink Premium" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK PREMIUM HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74744.ts
+
+#EXTINF:-1 tvg-id="Pink Crime & Mistery" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK CRIME & MYSTERY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74745.ts
+
+#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK EXTRA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74746.ts
+
+#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK KUVAR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74747.ts
+
+#EXTINF:-1 tvg-id="Pink Film" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK FILM HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74748.ts
+
+#EXTINF:-1 tvg-id="Pink Soap" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK SOAP HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74749.ts
+
+#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK PEDIA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74750.ts
+
+#EXTINF:-1 tvg-id="Pink SciFi Fantasy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK SCI-FI-FANTASY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74751.ts
+
+#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK HORROR HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74752.ts
+
+#EXTINF:-1 tvg-id="Pink Style" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK STYLE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74753.ts
+
+#EXTINF:-1 tvg-id="Pink Show" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK SHOW HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74754.ts
+
+#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK THRILLER HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74755.ts
+
+#EXTINF:-1 tvg-id="Pink World" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK WORLD HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74756.ts
+
+#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK ZABAVA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74757.ts
+
+#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK WORLD CINEMA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74758.ts
+
+#EXTINF:-1 tvg-id="Pink Western" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK WESTERN HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74759.ts
+
+#EXTINF:-1 tvg-id="Pink Super Kids" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK SUPER KIDS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74760.ts
+
+#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK SERIJE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74761.ts
+
+#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK ROMANCE HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74762.ts
+
+#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK REALITY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74763.ts
+
+#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK PLUS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74764.ts
+
+#EXTINF:-1 tvg-id="Pink&Roll" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK N ROLL HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74765.ts
+
+#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK MUSIC 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74766.ts
+
+#EXTINF:-1 tvg-id="Pink Music" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK MUSIC HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74767.ts
+
+#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK KONCERT HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74768.ts
+
+#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK KIDS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74769.ts
+
+#EXTINF:-1 tvg-id="Pink Hits 2" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK HITS 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74770.ts
+
+#EXTINF:-1 tvg-id="Pink Hits 1" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK HITS HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74771.ts
+
+#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK FOLK 2 HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74772.ts
+
+#EXTINF:-1 tvg-id="Pink Folk" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/PINK.png" group-title="ZABAVNI", EXYU - PINK FOLK HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74773.ts
+
+#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="https://go4.pw/EXYU/PINK_MOVIES.png" group-title="ZABAVNI", EXYU - PINK MOVIES HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239900.ts
+
+#EXTINF:-1 tvg-id="Pink M" tvg-logo="https://go4.pw/EXYU/PINK_M.png" group-title="ZABAVNI", EXYU - PINK M HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239901.ts
+
+#EXTINF:-1 tvg-id="Pink Fashion" tvg-logo="https://go4.pw/EXYU/PINK_FASHION.png" group-title="ZABAVNI", EXYU - PINK FASHION HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239902.ts
+
+#EXTINF:-1 tvg-id="Pink Family" tvg-logo="https://go4.pw/EXYU/PINK_FAMILY.png" group-title="ZABAVNI", EXYU - PINK FAMILY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239903.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/exflag.png" group-title="ZABAVNI", ##### EXYU - MUZICKI KANALI #####
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74853.ts
+
+#EXTINF:-1 tvg-id="Hayat Music" tvg-logo="https://go4.pw/EXYU/HAYAT.png" group-title="ZABAVNI", EXYU - HAYAT MUSIC FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74854.ts
+
+#EXTINF:-1 tvg-id="Hayat Folk" tvg-logo="https://go4.pw/EXYU/HAYATFOLK.png" group-title="ZABAVNI", EXYU - HAYAT  FOLK FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74855.ts
+
+#EXTINF:-1 tvg-id="Grand TV 2" tvg-logo="https://go4.pw/EXYU/GRAND2.png" group-title="ZABAVNI", EXYU - GRAND 2 FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74856.ts
+
+#EXTINF:-1 tvg-id="Grand TV" tvg-logo="https://go4.pw/EXYU/GRAND1.png" group-title="ZABAVNI", EXYU - GRAND FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74857.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/BUJRUMTV-1.png" group-title="ZABAVNI", EXYU - BUJRUM TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74858.ts
+
+#EXTINF:-1 tvg-id="IDJ TV FHD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/IDJTV-1.png" group-title="ZABAVNI", EXYU - IDJ TV FHD ◉
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74859.ts
+
+#EXTINF:-1 tvg-id="DM Sat" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DMSAT-1.png" group-title="ZABAVNI", EXYU - DM SAT FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74861.ts
+
+#EXTINF:-1 tvg-id="Balkanika" tvg-logo="https://go4.pw/EXYU/BALKANIKA.png" group-title="ZABAVNI", EXYU - BALKANIKA TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74862.ts
+
+#EXTINF:-1 tvg-id="BN Music" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/BNMUSIC-1.png" group-title="ZABAVNI", EXYU - BN MUSIC FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74863.ts
+
+#EXTINF:-1 tvg-id="Jugoton TV" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/JUGOTON-1.png" group-title="ZABAVNI", EXYU - JUGOTON FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74865.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/IZVORNATV-1.png" group-title="ZABAVNI", EXYU - IZVORNA TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74866.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SEVDAH-1.png" group-title="ZABAVNI", EXYU - SEVDAH TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74867.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/GLASDRINE-1.png" group-title="ZABAVNI", EXYU - GLAS DRINE FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74868.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/YUPLANET-1.png" group-title="ZABAVNI", EXYU - YU PLANET FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74869.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DUGATV-1.png" group-title="ZABAVNI", EXYU - DUGA TV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74870.ts
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MTVADRIA-1.png" group-title="ZABAVNI", EXYU - MTV FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74871.ts
+
+#EXTINF:-1 tvg-id="MTV Europe" tvg-logo="https://go4.pw/EXYU/MTV_ADRIA.png" group-title="ZABAVNI", EXYU - MTV ADRIA HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239904.ts
+
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://go4.pw/EXYU/MTV_90.png" group-title="ZABAVNI", EXYU - MTV 90'S HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239906.ts
+
+#EXTINF:-1 tvg-id="sos.rs" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SOS-1.png" group-title="ZABAVNI", EXYU - SOS (SR) FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74872.ts
+
+#EXTINF:-1 tvg-id="citytv.ba" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CITYTV-1.png" group-title="ZABAVNI", EXYU - CITY TV (BH) FHD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/74877.ts
+
+#EXTINF:-1 tvg-id="City Play" tvg-logo="https://go4.pw/EXYU/CITY_PLAY.png" group-title="ZABAVNI", EXYU - CITY PLAY HD
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239908.ts
+
+#EXTINF:-1 tvg-id="Bravo Music" tvg-logo="https://go4.pw/EXYU/BRAVO_MUSIC.png" group-title="ZABAVNI", EXYU - BRAVO MUSIC
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1239909.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/EXYU/PICKBOXTV2.png" group-title="ZABAVNI", EXYU - PICKBOX TV 2
+http://btkq72.net/live/n12mtmg032/4MKY8LG/1393744.ts
+
+
 
 
 
