@@ -1,1329 +1,1877 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HRT 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/201
+#EXTINF:-1 tvg-id="HRT 1 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/201
 
-#EXTINF:-1 tvg-id="HRT 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/202
+#EXTINF:-1 tvg-id="HRT 3 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/202
 
-#EXTINF:-1 tvg-id="HRT 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/203
+#EXTINF:-1 tvg-id="HRT 3 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/203
 
-#EXTINF:-1 tvg-id="HRT 4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/204
+#EXTINF:-1 tvg-id="HRT 4 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/204
 
-#EXTINF:-1 tvg-id="HRT 5 VIP" tvg-logo="https://static.hercegovina.info/img/repository/2017/12/image_640x396/hrt5_95821211.jpg" group-title="HRVATSKA", HRT 5 VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10905
+#EXTINF:-1 tvg-id="HRT 5 VIP " tvg-logo="https://static.hercegovina.info/img/repository/2017/12/image_640x396/hrt5_95821211.jpg" group-title="HRVATSKA", HRT 5 VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10905
 
-#EXTINF:-1 tvg-id="Nova" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="HRVATSKA", Nova
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/3838
+#EXTINF:-1 tvg-id="Nova " tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="HRVATSKA", Nova 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/3838
 
-#EXTINF:-1 tvg-id="NOVA TV" tvg-logo="https://static.epg.best/hr/NovaTv.hr.png" group-title="HRVATSKA", Nova TV HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9039
+#EXTINF:-1 tvg-id="NOVA TV " tvg-logo="https://static.epg.best/hr/NovaTv.hr.png" group-title="HRVATSKA", Nova TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9039
 
-#EXTINF:-1 tvg-id="RTL 1" tvg-logo="https://static.epg.best/hr/Rtl.hr.png" group-title="HRVATSKA", RTL 1 HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/217
+#EXTINF:-1 tvg-id="RTL 1 " tvg-logo="https://static.epg.best/hr/Rtl.hr.png" group-title="HRVATSKA", RTL 1 HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/217
 
-#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://static.epg.best/hr/Rtl2.hr.png" group-title="HRVATSKA", RTL 2 HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/216
+#EXTINF:-1 tvg-id="RTL 2 " tvg-logo="https://static.epg.best/hr/Rtl2.hr.png" group-title="HRVATSKA", RTL 2 HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/216
 
-#EXTINF:-1 tvg-id="RTL Crime" tvg-logo="https://static.epg.best/hr/RtlCrime.hr.png" group-title="HRVATSKA", RTL Crime
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/184
+#EXTINF:-1 tvg-id="Banovina TV HR " tvg-logo="https://photos.live-tv-channels.org/tv-logo/hr-tv-banovina-8918-300x225.jpg" group-title="HRVATSKA", Banovina TV HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24164
 
-#EXTINF:-1 tvg-id="RTL Living" tvg-logo="https://static.epg.best/hr/RtlLiving.hr.png" group-title="HRVATSKA", RTL Living
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/219
+#EXTINF:-1 tvg-id="Diva TV " tvg-logo="https://static.epg.best/hr/Diva.hr.png" group-title="HRVATSKA", Diva TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9033
 
-#EXTINF:-1 tvg-id="RTL Passion" tvg-logo="https://static.epg.best/hr/RtlPassion.hr.png" group-title="HRVATSKA", RTL Passion
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/185
+#EXTINF:-1 tvg-id="Doma TV " tvg-logo="https://static.epg.best/hr/DomaTv.hr.png" group-title="HRVATSKA", Doma TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/195
 
-#EXTINF:-1 tvg-id="Doma TV" tvg-logo="https://static.epg.best/hr/DomaTv.hr.png" group-title="HRVATSKA", Doma TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/195
+#EXTINF:-1 tvg-id="FOX Life " tvg-logo="https://static.epg.best/hr/FoxLife.hr.png" group-title="HRVATSKA", Fox Life 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2320
 
-#EXTINF:-1 tvg-id="Mreza ZG" tvg-logo="https://static.epg.best/hr/Mrezazg.hr.png" group-title="HRVATSKA", Mreza ZG
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/24162
+#EXTINF:-1 tvg-id="Kanal Ri (Rijeka TV) HR " tvg-logo="https://static.epg.best/hr/KanalRi.hr.png" group-title="HRVATSKA", Kanal Ri (Rijeka TV) HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24163
 
-#EXTINF:-1 tvg-id="N1 HR" tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="HRVATSKA", N1 HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/82765
+#EXTINF:-1 tvg-id="Laudato TV " tvg-logo="https://static.epg.best/hr/LaudatoTV.hr.png" group-title="HRVATSKA", Laudato TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/21780
 
-#EXTINF:-1 tvg-id="Osjecka TV" tvg-logo="https://static.epg.best/hr/OsjeckaTv.hr.png" group-title="HRVATSKA", Osjecka TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/21782
+#EXTINF:-1 tvg-id="Markiza HD " tvg-logo="https://static.epg.best/sk/Markiza.sk.png" group-title="HRVATSKA", Markiza HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/6850
 
-#EXTINF:-1 tvg-id="OTV HR" tvg-logo="https://static.epg.best/ba/OTVValentino.ba.png" group-title="HRVATSKA", OTV HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/24161
+#EXTINF:-1 tvg-id="Mreza ZG " tvg-logo="https://static.epg.best/hr/Mrezazg.hr.png" group-title="HRVATSKA", Mreza ZG 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24162
 
-#EXTINF:-1 tvg-id="Trend TV Karlovac" tvg-logo="https://etnojazz-karlovac.com/wp-content/uploads/2020/07/trendtv-1024x405.png" group-title="HRVATSKA", Trend TV Karlovac
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/21786
+#EXTINF:-1 tvg-id="N1 HR " tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="HRVATSKA", N1 HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82765
+
+#EXTINF:-1 tvg-id="N1 HR FHD " tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="HRVATSKA", N1 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82766
+
+#EXTINF:-1 tvg-id="Osjecka TV " tvg-logo="https://static.epg.best/hr/OsjeckaTv.hr.png" group-title="HRVATSKA", Osjecka TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/21782
+
+#EXTINF:-1 tvg-id="OTV HR " tvg-logo="https://static.epg.best/ba/OTVValentino.ba.png" group-title="HRVATSKA", OTV HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24161
+
+#EXTINF:-1 tvg-id="Planeta TV " tvg-logo="https://static.epg.best/si/PlanetTV.si.png" group-title="HRVATSKA", Planeta TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2338
+
+#EXTINF:-1 tvg-id="POSAVINA VIP " tvg-logo="https://satsis.net/uploads/posts/2018-03/1522158382_www.satsis.info__posavina-tv.png" group-title="HRVATSKA", POSAVINA VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78684
+
+#EXTINF:-1 tvg-id="RTL Crime " tvg-logo="https://static.epg.best/hr/RtlCrime.hr.png" group-title="HRVATSKA", RTL Crime 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/184
+
+#EXTINF:-1 tvg-id="RTL Living " tvg-logo="https://static.epg.best/hr/RtlLiving.hr.png" group-title="HRVATSKA", RTL Living 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/219
+
+#EXTINF:-1 tvg-id="RTL Passion " tvg-logo="https://static.epg.best/hr/RtlPassion.hr.png" group-title="HRVATSKA", RTL Passion 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/185
+
+#EXTINF:-1 tvg-id="RTV Krajina " tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="HRVATSKA", RTV Krajina 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95061
+
+#EXTINF:-1 tvg-id="SB TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/SB.TV_logo.png" group-title="HRVATSKA", SB TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/21784
+
+#EXTINF:-1 tvg-id="Trend TV Karlovac " tvg-logo="https://etnojazz-karlovac.com/wp-content/uploads/2020/07/trendtv-1024x405.png" group-title="HRVATSKA", Trend TV Karlovac 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/21786
 
 #EXTINF:-1 tvg-id="TV Dalmacija HR" tvg-logo="noimage.png" group-title="HRVATSKA", TV Dalmacija HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/104055
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/104055
 
 #EXTINF:-1 tvg-id="TV Jadran HR" tvg-logo="noimage.png" group-title="HRVATSKA", TV Jadran HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/104056
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/104056
 
-#EXTINF:-1 tvg-id="Vinkovacka TV" tvg-logo="https://static.epg.best/hr/VinkovackaTv.hr.png" group-title="HRVATSKA", Vinkovacka TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/21789
+#EXTINF:-1 tvg-id="Vikom HD " tvg-logo="https://static.epg.best/ba/Vikom.ba.png" group-title="HRVATSKA", Vikom HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/72558
 
-#EXTINF:-1 tvg-id="VTV Varazdin" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1485363863/oostdqijhsxnhdxykj9o.png" group-title="HRVATSKA", VTV Varazdin
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/21788
+#EXTINF:-1 tvg-id="Vinkovacka TV " tvg-logo="https://static.epg.best/hr/VinkovackaTv.hr.png" group-title="HRVATSKA", Vinkovacka TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/21789
 
-#EXTINF:-1 tvg-id="Z1" tvg-logo="https://static.epg.best/hr/Z1.hr.png" group-title="HRVATSKA", Z1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/3837
+#EXTINF:-1 tvg-id="VTV Varazdin " tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1485363863/oostdqijhsxnhdxykj9o.png" group-title="HRVATSKA", VTV Varazdin 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/21788
 
-#EXTINF:-1 tvg-id="Banovina TV HR" tvg-logo="https://photos.live-tv-channels.org/tv-logo/hr-tv-banovina-8918-300x225.jpg" group-title="HRVATSKA", Banovina TV HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/24164
+#EXTINF:-1 tvg-id="Z1 " tvg-logo="https://static.epg.best/hr/Z1.hr.png" group-title="HRVATSKA", Z1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/3837
 
-#EXTINF:-1 tvg-id="A1 Face TV HD" tvg-logo="https://static.epg.best/ba/FaceTV.ba.png" group-title="BOSNA I HERCEGOVINA", A1 Face TV HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/6917
+#EXTINF:-1 tvg-id="Al Jazeera Balkans " tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="BOSNA I HERCEGOVINA", Al Jazeera Balkans 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2331
 
-#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="BOSNA I HERCEGOVINA", Al Jazeera Balkans
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2331
+#EXTINF:-1 tvg-id="Aljazeera Balkans BH FHD " tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="BOSNA I HERCEGOVINA", Aljazeera Balkans BH FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4568
 
-#EXTINF:-1 tvg-id="Aljazeera Balkans BH FHD" tvg-logo="https://static.epg.best/ba/AlJazeeraBalkans.ba.png" group-title="BOSNA I HERCEGOVINA", Aljazeera Balkans BH FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4568
+#EXTINF:-1 tvg-id="ATV Banja Luka " tvg-logo="https://static.epg.best/ba/ATV.ba.png" group-title="BOSNA I HERCEGOVINA", ATV Banja Luka 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95062
 
-#EXTINF:-1 tvg-id="ATV Banja Luka" tvg-logo="https://static.epg.best/ba/ATV.ba.png" group-title="BOSNA I HERCEGOVINA", ATV Banja Luka
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/95062
+#EXTINF:-1 tvg-id="B1 TV GRADACAC " tvg-logo="http://www.b1tv.ba/wp-content/uploads/2018/12/fav-257x300.png" group-title="BOSNA I HERCEGOVINA", B1 TV GRADACAC 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95059
 
-#EXTINF:-1 tvg-id="B1 TV GRADACAC" tvg-logo="http://www.b1tv.ba/wp-content/uploads/2018/12/fav-257x300.png" group-title="BOSNA I HERCEGOVINA", B1 TV GRADACAC
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/95059
+#EXTINF:-1 tvg-id="BH TV BH " tvg-logo="https://static.epg.best/ba/BHT1.ba.png" group-title="BOSNA I HERCEGOVINA", BH TV BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4565
 
-#EXTINF:-1 tvg-id="BH TV BH" tvg-logo="https://static.epg.best/ba/BHT1.ba.png" group-title="BOSNA I HERCEGOVINA", BH TV BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4565
+#EXTINF:-1 tvg-id="BHT1 " tvg-logo="https://static.epg.best/ba/BHT1.ba.png" group-title="BOSNA I HERCEGOVINA", BHT 1 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/192
 
-#EXTINF:-1 tvg-id="BHT1" tvg-logo="https://static.epg.best/ba/BHT1.ba.png" group-title="BOSNA I HERCEGOVINA", BHT 1 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/192
+#EXTINF:-1 tvg-id="Bosna TV 1 " tvg-logo="https://static.epg.best/ba/OBN.ba.png" group-title="BOSNA I HERCEGOVINA", Bosna TV 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/193
 
-#EXTINF:-1 tvg-id="BN Sat" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BOSNA I HERCEGOVINA", BN Sat
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2342
+#EXTINF:-1 tvg-id="Elta 1 VIP " tvg-logo="https://static.epg.best/ba/Elta1.ba.png" group-title="BOSNA I HERCEGOVINA", Elta 1 VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12624
 
-#EXTINF:-1 tvg-id="BN TV BH" tvg-logo="https://static.epg.best/ba/BN.ba.png" group-title="BOSNA I HERCEGOVINA", BN TV BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4564
+#EXTINF:-1 tvg-id="Face TV BH " tvg-logo="https://static.epg.best/ba/FaceTV.ba.png" group-title="BOSNA I HERCEGOVINA", Face TV BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4015
 
-#EXTINF:-1 tvg-id="Bosna TV 1" tvg-logo="https://static.epg.best/ba/OBN.ba.png" group-title="BOSNA I HERCEGOVINA", Bosna TV 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/193
+#EXTINF:-1 tvg-id="Federalna " tvg-logo="https://static.epg.best/hr/FederalnaTv.hr.png" group-title="BOSNA I HERCEGOVINA", Federalna 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2344
 
-#EXTINF:-1 tvg-id="Elta 1 VIP" tvg-logo="https://static.epg.best/ba/Elta1.ba.png" group-title="BOSNA I HERCEGOVINA", Elta 1 VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12624
+#EXTINF:-1 tvg-id="FTV " tvg-logo="https://static.epg.best/ba/FTV.ba.png" group-title="BOSNA I HERCEGOVINA", FTV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4185
 
-#EXTINF:-1 tvg-id="Face TV BH" tvg-logo="https://static.epg.best/ba/FaceTV.ba.png" group-title="BOSNA I HERCEGOVINA", Face TV BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4015
+#EXTINF:-1 tvg-id="Hayat TV " tvg-logo="https://static.epg.best/ba/Hayat.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat BIH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2337
 
-#EXTINF:-1 tvg-id="Federalna" tvg-logo="https://static.epg.best/hr/FederalnaTv.hr.png" group-title="BOSNA I HERCEGOVINA", Federalna
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2344
+#EXTINF:-1 tvg-id="Hayat " tvg-logo="https://static.epg.best/ba/Hayat.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/197
 
-#EXTINF:-1 tvg-id="FTV" tvg-logo="https://static.epg.best/ba/FTV.ba.png" group-title="BOSNA I HERCEGOVINA", FTV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4185
+#EXTINF:-1 tvg-id="Islam Channel BH " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png" group-title="BOSNA I HERCEGOVINA", Islam Channel BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4570
 
-#EXTINF:-1 tvg-id="Hayat TV" tvg-logo="https://static.epg.best/ba/Hayat.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat BIH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2337
+#EXTINF:-1 tvg-id="Moj Kanal HD VIP " tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Moj Kanal HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12626
 
-#EXTINF:-1 tvg-id="Hayat" tvg-logo="https://static.epg.best/ba/Hayat.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/197
+#EXTINF:-1 tvg-id="N1 " tvg-logo="https://static.epg.best/hr/N1.hr.png" group-title="BOSNA I HERCEGOVINA", N1 Bosna 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2341
 
-#EXTINF:-1 tvg-id="Hayat Folk" tvg-logo="https://static.epg.best/ba/HayatFolk.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat Folk
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/178
+#EXTINF:-1 tvg-id="Pink BH " tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="BOSNA I HERCEGOVINA", Nova BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4037
 
-#EXTINF:-1 tvg-id="Hayat Music" tvg-logo="https://static.epg.best/ba/HayatMusic.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat Music
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/198
+#EXTINF:-1 tvg-id="Nova BIH " tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="BOSNA I HERCEGOVINA", Nova BIH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2305
 
-#EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="https://static.epg.best/ba/HayatPlus.ba.png" group-title="BOSNA I HERCEGOVINA", Hayat Plus
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/179
+#EXTINF:-1 tvg-id="NTV 101 Prijedor VIP " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/NTV_101_BiH_Logo.png" group-title="BOSNA I HERCEGOVINA", NTV 101 Prijedor VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12627
 
-#EXTINF:-1 tvg-id="Hit TV Brcko VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BOSNA I HERCEGOVINA", Hit TV Brcko VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12625
+#EXTINF:-1 tvg-id="O Kanal HD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/o_kanal_widelogo.png" group-title="BOSNA I HERCEGOVINA", O Kanal HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/83213
 
-#EXTINF:-1 tvg-id="Islam Channel BH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png" group-title="BOSNA I HERCEGOVINA", Islam Channel BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4570
+#EXTINF:-1 tvg-id="Pink BH " tvg-logo="https://static.epg.best/ba/PinkBH.ba.png" group-title="BOSNA I HERCEGOVINA", Pink BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78221
 
-#EXTINF:-1 tvg-id="Moj Kanal HD VIP" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Moj Kanal HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12626
+#EXTINF:-1 tvg-id="Podrinje TV HD " tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Podrinje TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95056
 
-#EXTINF:-1 tvg-id="MTV Igman" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/MTV_Igman_Logo.png" group-title="BOSNA I HERCEGOVINA", MTV Igman
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4186
+#EXTINF:-1 tvg-id="RTRS " tvg-logo="https://static.epg.best/ba/RTRS.ba.png" group-title="BOSNA I HERCEGOVINA", RTRS 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/220
 
-#EXTINF:-1 tvg-id="N1" tvg-logo="https://static.epg.best/hr/N1.hr.png" group-title="BOSNA I HERCEGOVINA", N1 Bosna
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2341
+#EXTINF:-1 tvg-id="RTRS Plus HD " tvg-logo="https://static.epg.best/ba/RTRSPlus.ba.png" group-title="BOSNA I HERCEGOVINA", RTRS Plus HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/72557
 
-#EXTINF:-1 tvg-id="Pink BH" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="BOSNA I HERCEGOVINA", Nova BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4037
+#EXTINF:-1 tvg-id="RTV 7 VIP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RTV-7_Logo.svg/1200px-RTV-7_Logo.svg.png" group-title="BOSNA I HERCEGOVINA", RTV 7 VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12628
 
-#EXTINF:-1 tvg-id="Nova BIH" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="BOSNA I HERCEGOVINA", Nova BIH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2305
+#EXTINF:-1 tvg-id="RTV HERCEG " tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="BOSNA I HERCEGOVINA", RTV HERCEG 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95057
 
-#EXTINF:-1 tvg-id="NTV 101 Prijedor VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/NTV_101_BiH_Logo.png" group-title="BOSNA I HERCEGOVINA", NTV 101 Prijedor VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12627
+#EXTINF:-1 tvg-id="RTV SLOBOMIR " tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="BOSNA I HERCEGOVINA", RTV SLOBOMIR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95058
 
-#EXTINF:-1 tvg-id="O Kanal HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/o_kanal_widelogo.png" group-title="BOSNA I HERCEGOVINA", O Kanal HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/83213
+#EXTINF:-1 tvg-id="RTV Slon " tvg-logo="http://tugapt.com/picons/rtvslonexyu.png" group-title="BOSNA I HERCEGOVINA", RTV Slon 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/222
 
-#EXTINF:-1 tvg-id="OBN" tvg-logo="https://static.epg.best/ba/OBN.ba.png" group-title="BOSNA I HERCEGOVINA", OBN
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2333
+#EXTINF:-1 tvg-id="Tatabrada TV FHD BH " tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Tatabrada TV FHD BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/116878
 
-#EXTINF:-1 tvg-id="Pink BH" tvg-logo="https://static.epg.best/ba/PinkBH.ba.png" group-title="BOSNA I HERCEGOVINA", Pink BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78221
+#EXTINF:-1 tvg-id="Tatabrada TV HD BH " tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Tatabrada TV HD BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/116877
 
-#EXTINF:-1 tvg-id="Podrinje TV HD" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Podrinje TV HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/95056
+#EXTINF:-1 tvg-id="Televizija 5 BH " tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/televizija-5.png" group-title="BOSNA I HERCEGOVINA", Televizija 5 BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4017
 
-#EXTINF:-1 tvg-id="RTRS" tvg-logo="https://static.epg.best/ba/RTRS.ba.png" group-title="BOSNA I HERCEGOVINA", RTRS
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/220
+#EXTINF:-1 tvg-id="TV1 " tvg-logo="https://static.epg.best/ba/TV1.ba.png" group-title="BOSNA I HERCEGOVINA", TV 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2332
 
-#EXTINF:-1 tvg-id="RTRS Plus HD" tvg-logo="https://static.epg.best/ba/RTRSPlus.ba.png" group-title="BOSNA I HERCEGOVINA", RTRS Plus HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/72557
+#EXTINF:-1 tvg-id="TV Lukavac " tvg-logo="https://television-live.com/uploads/posts/2019-06/1560663433_tv-lukavac.jpg" group-title="BOSNA I HERCEGOVINA", TV Lukavac 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/102565
 
-#EXTINF:-1 tvg-id="RTV 7 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RTV-7_Logo.svg/1200px-RTV-7_Logo.svg.png" group-title="BOSNA I HERCEGOVINA", RTV 7 VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12628
+#EXTINF:-1 tvg-id="TV Sarajevo BH " tvg-logo="https://static.epg.best/ba/TVSarajevo.ba.png" group-title="BOSNA I HERCEGOVINA", TV Sarajevo BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4018
 
-#EXTINF:-1 tvg-id="RTV HERCEG" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="BOSNA I HERCEGOVINA", RTV HERCEG
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/95057
+#EXTINF:-1 tvg-id="TV Slon VIP " tvg-logo="https://televisor.top/uploads/posts/2019-06/1560621487_televizija-osm.jpg" group-title="BOSNA I HERCEGOVINA", TV Slon VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12630
 
-#EXTINF:-1 tvg-id="RTV SLOBOMIR" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="BOSNA I HERCEGOVINA", RTV SLOBOMIR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/95058
+#EXTINF:-1 tvg-id="USK BH " tvg-logo="https://cdn.dribbble.com/users/721601/screenshots/6487249/rtvusk_2_-_green_shades_1x.png" group-title="BOSNA I HERCEGOVINA", USK BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4563
 
-#EXTINF:-1 tvg-id="RTV Slon" tvg-logo="http://tugapt.com/picons/rtvslonexyu.png" group-title="BOSNA I HERCEGOVINA", RTV Slon
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/222
+#EXTINF:-1 tvg-id="Belle Amie TV " tvg-logo="https://static.epg.best/rs/BelleAmie.rs.png" group-title="SRBIJA", Belle Amie TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78222
 
-#EXTINF:-1 tvg-id="Tatabrada TV FHD BH" tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA", Tatabrada TV FHD BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/116878
+#EXTINF:-1 tvg-id="N1 SRB FHD VIP " tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="SRBIJA", N1 SRB FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13956
 
-#EXTINF:-1 tvg-id="Televizija 5 BH" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/televizija-5.png" group-title="BOSNA I HERCEGOVINA", Televizija 5 BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4017
+#EXTINF:-1 tvg-id="Nova RS SRB " tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="SRBIJA", Nova RS SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/210
 
-#EXTINF:-1 tvg-id="TV1" tvg-logo="https://static.epg.best/ba/TV1.ba.png" group-title="BOSNA I HERCEGOVINA", TV 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2332
+#EXTINF:-1 tvg-id="Nova S " tvg-logo="https://static.epg.best/rs/Nova.rs.png" group-title="SRBIJA", Nova S 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9038
 
-#EXTINF:-1 tvg-id="TV Glas Drine VIP" tvg-logo="https://www.radio.net/images/broadcasts/24/58/4940/4/c175.png" group-title="BOSNA I HERCEGOVINA", TV Glas Drine VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12629
+#EXTINF:-1 tvg-id="O2 TV VIP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png" group-title="SRBIJA", O2 TV VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10902
 
-#EXTINF:-1 tvg-id="TV Lukavac" tvg-logo="https://television-live.com/uploads/posts/2019-06/1560663433_tv-lukavac.jpg" group-title="BOSNA I HERCEGOVINA", TV Lukavac
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/102565
+#EXTINF:-1 tvg-id="O2.TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png" group-title="SRBIJA", O2.TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9067
 
-#EXTINF:-1 tvg-id="TV Sarajevo BH" tvg-logo="https://static.epg.best/ba/TVSarajevo.ba.png" group-title="BOSNA I HERCEGOVINA", TV Sarajevo BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4018
+#EXTINF:-1 tvg-id="Palma Plus " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_palma_plus_rs.png" group-title="SRBIJA", Palma Plus 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9060
 
-#EXTINF:-1 tvg-id="TV Sehara HD" tvg-logo="http://tugapt.com/picons/tvseharahdexyu.png" group-title="BOSNA I HERCEGOVINA", TV Sehara HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/188
+#EXTINF:-1 tvg-id="Prva 1 SRB " tvg-logo="https://static.epg.best/rs/Prva.rs.png" group-title="SRBIJA", Prva 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/212
 
-#EXTINF:-1 tvg-id="TV Slon VIP" tvg-logo="https://televisor.top/uploads/posts/2019-06/1560621487_televizija-osm.jpg" group-title="BOSNA I HERCEGOVINA", TV Slon VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12630
+#EXTINF:-1 tvg-id="PRVA KICK " tvg-logo="https://www.donasport.com/slike/prva-kick-tv-srbija.jpg" group-title="SRBIJA", PRVA KICK 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80953
 
-#EXTINF:-1 tvg-id="USK BH" tvg-logo="https://cdn.dribbble.com/users/721601/screenshots/6487249/rtvusk_2_-_green_shades_1x.png" group-title="BOSNA I HERCEGOVINA", USK BH
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4563
+#EXTINF:-1 tvg-id="Prva Max " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/prva-max_logo.jpg" group-title="SRBIJA", Prva Max 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/181
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SRBIJA", ========== Pink Kanali ==========
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12317
+#EXTINF:-1 tvg-id="Prva Plus " tvg-logo="https://static.epg.best/rs/PrvaPlus.rs.png" group-title="SRBIJA", Prva Plus SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/213
 
-#EXTINF:-1 tvg-id="Arena Premium 1 SR FHD" tvg-logo="https://static.epg.best/rs/ArenaPremium1.rs.png" group-title="SRBIJA", Arena Premium 1 SR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/103221
+#EXTINF:-1 tvg-id="Prva World " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/prva_world_logo.png" group-title="SRBIJA", Prva World 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/182
 
-#EXTINF:-1 tvg-id="Arena Premium 2 SR FHD" tvg-logo="https://static.epg.best/rs/ArenaPremium2.rs.png" group-title="SRBIJA", Arena Premium 2 SR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/103222
+#EXTINF:-1 tvg-id="RED TV " tvg-logo="https://logodix.com/logo/76398.png" group-title="SRBIJA", RED TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/94111
 
-#EXTINF:-1 tvg-id="Arena Premium 3 SR FHD" tvg-logo="https://static.epg.best/rs/ArenaPremium3.rs.png" group-title="SRBIJA", Arena Premium 3 SR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/103223
+#EXTINF:-1 tvg-id="RTS 1 " tvg-logo="https://static.epg.best/rs/RTS1.rs.png" group-title="SRBIJA", RTS 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/187
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://static.epg.best/si/AXNAdria.si.png" group-title="SRBIJA", AXN SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4020
+#EXTINF:-1 tvg-id="RTS 1 " tvg-logo="https://static.epg.best/rs/RTS1.rs.png" group-title="SRBIJA", RTS 1 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2346
 
-#EXTINF:-1 tvg-id="B92" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B 92
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2345
+#EXTINF:-1 tvg-id="RTS 2 " tvg-logo="https://static.epg.best/rs/RTS2.rs.png" group-title="SRBIJA", RTS 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/186
 
-#EXTINF:-1 tvg-id="Belle Amie TV" tvg-logo="https://static.epg.best/rs/BelleAmie.rs.png" group-title="SRBIJA", Belle Amie TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78222
+#EXTINF:-1 tvg-id="RTS 3 " tvg-logo="https://static.epg.best/rs/RTS3.rs.png" group-title="SRBIJA", RTS 3 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4024
 
-#EXTINF:-1 tvg-id="Duga TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv_duga_plus.png" group-title="SRBIJA", Duga TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/3839
+#EXTINF:-1 tvg-id="RTS SAT " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS1_logo.png" group-title="SRBIJA", RTS Satelit 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/221
 
-#EXTINF:-1 tvg-id="Happy Parovi TV 1 VIP" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy Parovi TV 1 VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10894
+#EXTINF:-1 tvg-id="RTS Svet FHD " tvg-logo="https://static.epg.best/hr/RTSSvet.hr.png" group-title="SRBIJA", RTS Svet FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82746
 
-#EXTINF:-1 tvg-id="Happy Parovi TV 2 VIP" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy Parovi TV 2 VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10893
+#EXTINF:-1 tvg-id="RTV 1 " tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9062
 
-#EXTINF:-1 tvg-id="Happy TV" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2326
+#EXTINF:-1 tvg-id="RTV MLAVA " tvg-logo="https://pbs.twimg.com/profile_images/1828812683/mlava_400x400.jpg" group-title="SRBIJA", RTV MLAVA 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9043
 
-#EXTINF:-1 tvg-id="Happy TV" tvg-logo="https://static.epg.best/rs/happytv.rs.png" group-title="SRBIJA", Happy TV HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/17985
+#EXTINF:-1 tvg-id="RTV Pazar " tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Pazar 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9059
 
-#EXTINF:-1 tvg-id="KCN 1" tvg-logo="https://static.epg.best/rs/KCN1.rs.png" group-title="SRBIJA", KCN 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/205
+#EXTINF:-1 tvg-id="RTV Vojvodina 1 SRB " tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Vojvodina 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4019
 
-#EXTINF:-1 tvg-id="KCN 2" tvg-logo="https://static.epg.best/rs/KCN2.rs.png" group-title="SRBIJA", KCN 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/206
+#EXTINF:-1 tvg-id="RTV Vojvodina 2 SRB " tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Vojvodina 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/92742
 
-#EXTINF:-1 tvg-id="KCN 3" tvg-logo="https://static.epg.best/rs/KCN3SvetPlus.rs.png" group-title="SRBIJA", KCN 3
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/207
+#EXTINF:-1 tvg-id="Sandzak TV " tvg-logo="http://sandzak.tv/wp-content/uploads/2016/10/logo_high_line-1.png" group-title="SRBIJA", Sandzak TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4187
 
-#EXTINF:-1 tvg-id="Kurir TV MK" tvg-logo="noimage.png" group-title="SRBIJA", Kurir TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/96411
+#EXTINF:-1 tvg-id="TV Hram " tvg-logo="https://serbianchurch.org/wp-content/uploads/2018/08/Banner-TV-Hram-2.jpeg" group-title="SRBIJA", TV Hram 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9047
 
-#EXTINF:-1 tvg-id="MRTV 2" tvg-logo="https://static.epg.best/mk/MRT2.mk.png" group-title="SRBIJA", MRTV 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9061
+#EXTINF:-1 tvg-id="TV ISTOK 1 " tvg-logo="https://cdn.shopify.com/s/files/1/0274/9612/0417/files/logo.png" group-title="SRBIJA", TV ISTOK 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9046
 
-#EXTINF:-1 tvg-id="N1 SRB FHD VIP" tvg-logo="https://static.epg.best/rs/N1.rs.png" group-title="SRBIJA", N1 SRB FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13956
+#EXTINF:-1 tvg-id="TV ISTOK 2 " tvg-logo="http://tugapt.com/picons/tvistok2.png" group-title="SRBIJA", TV ISTOK 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13948
 
-#EXTINF:-1 tvg-id="Nova RS SRB" tvg-logo="https://static.epg.best/ba/NovaBH.ba.png" group-title="SRBIJA", Nova RS SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/210
+#EXTINF:-1 tvg-id="TV KLADOVO " tvg-logo="http://hotelkladovo.rs/images/TV%20Kladovo%20logo.png" group-title="SRBIJA", TV KLADOVO 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9044
 
-#EXTINF:-1 tvg-id="Nova S" tvg-logo="https://static.epg.best/rs/Nova.rs.png" group-title="SRBIJA", Nova S
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9038
+#EXTINF:-1 tvg-id="TV Kraljevo " tvg-logo="http://rtvkraljevo.com/wp-content/uploads/2015/10/rtvkvlogotp.png" group-title="SRBIJA", TV Kraljevo 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9051
 
-#EXTINF:-1 tvg-id="Novi Pazar SRB" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtv-novi-pazar-logo.png" group-title="SRBIJA", Novi Pazar SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4021
+#EXTINF:-1 tvg-id="Nova-M " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="CRNA GORA", Nova-M 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82747
 
-#EXTINF:-1 tvg-id="O2 TV VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png" group-title="SRBIJA", O2 TV VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10902
+#EXTINF:-1 tvg-id="Nova-M HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="CRNA GORA", Nova-M HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82748
 
-#EXTINF:-1 tvg-id="O2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png" group-title="SRBIJA", O2.TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9067
+#EXTINF:-1 tvg-id="Pink M " tvg-logo="https://static.epg.best/rs/PinkMovies.rs.png" group-title="CRNA GORA", Pink M 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2289
 
-#EXTINF:-1 tvg-id="Palma Plus" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_palma_plus_rs.png" group-title="SRBIJA", Palma Plus
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9060
+#EXTINF:-1 tvg-id="RTCG1 " tvg-logo="https://static.epg.best/hr/Rtcg.hr.png" group-title="CRNA GORA", RTCG 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/183
 
-#EXTINF:-1 tvg-id="Parovi 1 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Parovi_logo.jpg" group-title="SRBIJA", Parovi 1 Live
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9064
+#EXTINF:-1 tvg-id="RTCG2 " tvg-logo="https://static.epg.best/hr/Rtcg.hr.png" group-title="CRNA GORA", RTCG 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/214
 
-#EXTINF:-1 tvg-id="Parovi 2 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Parovi_logo.jpg" group-title="SRBIJA", Parovi 2 Live
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9063
+#EXTINF:-1 tvg-id="RTCG SAT " tvg-logo="https://static.epg.best/hr/Rtcg.hr.png" group-title="CRNA GORA", RTCG Sat 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/215
 
-#EXTINF:-1 tvg-id="Parovi Uzivo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Parovi_logo.jpg" group-title="SRBIJA", Parovi Uzivo
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/180
+#EXTINF:-1 tvg-id="TV 777 Podgorica " tvg-logo="https://photos.live-tv-channels.org/tv-logo/me-tv-777-6557.jpg" group-title="CRNA GORA", TV 777 Podgorica 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9041
 
-#EXTINF:-1 tvg-id="Pink 1" tvg-logo="https://static.epg.best/rs/Pink1.rs.png" group-title="SRBIJA", Pink 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2311
-
-#EXTINF:-1 tvg-id="Pink 2" tvg-logo="https://static.epg.best/rs/Pink2.rs.png" group-title="SRBIJA", Pink 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2308
-
-#EXTINF:-1 tvg-id="Pink 3 INFO" tvg-logo="https://static.epg.best/rs/Pink3.rs.png" group-title="SRBIJA", Pink 3
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2307
-
-#EXTINF:-1 tvg-id="Pink Action" tvg-logo="https://static.epg.best/rs/PinkAction.rs.png" group-title="SRBIJA", Pink Action
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2306
-
-#EXTINF:-1 tvg-id="Pink Action" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink-action-logo.png" group-title="SRBIJA", Pink Action SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4033
-
-#EXTINF:-1 tvg-id="Pink Classic" tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="SRBIJA", Pink Classic SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4031
-
-#EXTINF:-1 tvg-id="Pink Comedy" tvg-logo="https://static.epg.best/rs/PinkComedy.rs.png" group-title="SRBIJA", Pink Comedy
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2302
-
-#EXTINF:-1 tvg-id="Pink Crime and Mystery" tvg-logo="https://static.epg.best/rs/PinkCrimeAndMystery.rs.png" group-title="SRBIJA", Pink Crime &amp; Mystery
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2285
-
-#EXTINF:-1 tvg-id="Pink Extra" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/PinkExtra.png" group-title="SRBIJA", Pink Extra
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2286
-
-#EXTINF:-1 tvg-id="Pink Family" tvg-logo="https://static.epg.best/rs/PinkFamily.rs.png" group-title="SRBIJA", Pink Family
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9029
-
-#EXTINF:-1 tvg-id="Pink Film" tvg-logo="https://static.epg.best/rs/PinkFilm.rs.png" group-title="SRBIJA", Pink Film
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2310
-
-#EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="https://static.epg.best/rs/PinkThriller.rs.png" group-title="SRBIJA", Pink Folk 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2299
-
-#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="https://static.epg.best/rs/PinkZabava.rs.png" group-title="SRBIJA", Pink Folk 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2297
-
-#EXTINF:-1 tvg-id="Pink HAHA SRB" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HaHa.png" group-title="SRBIJA", Pink HAHA SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4038
-
-#EXTINF:-1 tvg-id="Pink Hits 1 SRB" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkHits_logo.png" group-title="SRBIJA", Pink Hits 1 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4035
-
-#EXTINF:-1 tvg-id="Pink Horror" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pinkHorror.png" group-title="SRBIJA", Pink Horror
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2287
-
-#EXTINF:-1 tvg-id="Pink Kids" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink-kids-logo.png" group-title="SRBIJA", Pink Kids
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2288
-
-#EXTINF:-1 tvg-id="Pink Kuvar" tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="SRBIJA", Pink Kuvar SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4032
-
-#EXTINF:-1 tvg-id="Pink LOL SRB" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/LOL.png" group-title="SRBIJA", Pink LOL SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4039
-
-#EXTINF:-1 tvg-id="Pink Movies" tvg-logo="https://static.epg.best/rs/PinkMovies.rs.png" group-title="SRBIJA", Pink Movies
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2304
-
-#EXTINF:-1 tvg-id="Pink Music 2 SRB" tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="SRBIJA", Pink Music 2 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4034
-
-#EXTINF:-1 tvg-id="Pink Music" tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="SRBIJA", Pink Music
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2301
-
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-logo="https://static.epg.best/rs/PinkPedia.rs.png" group-title="SRBIJA", Pink Pedia
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2290
-
-#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://static.epg.best/hr/PinkPlus.hr.png" group-title="SRBIJA", Pink Plus
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2291
-
-#EXTINF:-1 tvg-id="Pink Premium" tvg-logo="https://static.epg.best/rs/PinkPremium.rs.png" group-title="SRBIJA", Pink Premium
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2309
-
-#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="https://static.epg.best/rs/PinkReality.rs.png" group-title="SRBIJA", Pink Reality
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2292
-
-#EXTINF:-1 tvg-id="Pink Romance" tvg-logo="https://static.epg.best/rs/PinkRomance.rs.png" group-title="SRBIJA", Pink Romance
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2293
-
-#EXTINF:-1 tvg-id="Pink SciFi and Fantasy" tvg-logo="https://static.epg.best/rs/PinkScifiAndFantasy.rs.png" group-title="SRBIJA", Pink Sci Fi & Fantasy
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2303
-
-#EXTINF:-1 tvg-id="Pink Serije" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Serije_logo.png" group-title="SRBIJA", Pink Serije SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4036
-
-#EXTINF:-1 tvg-id="Pink Show" tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="SRBIJA", Pink Show SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4030
-
-#EXTINF:-1 tvg-id="Pink Soap" tvg-logo="https://static.epg.best/rs/PinkSoap.rs.png" group-title="SRBIJA", Pink Soap
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2294
-
-#EXTINF:-1 tvg-id="Pink Style" tvg-logo="https://static.epg.best/rs/PinkStyle.rs.png" group-title="SRBIJA", Pink Style
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9028
-
-#EXTINF:-1 tvg-id="Pink Thriller" tvg-logo="https://static.epg.best/rs/PinkThriller.rs.png" group-title="SRBIJA", Pink Thriler
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2295
-
-#EXTINF:-1 tvg-id="Pink Western" tvg-logo="https://static.epg.best/rs/PinkWestern.rs.png" group-title="SRBIJA", Pink Western
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2300
-
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="https://static.epg.best/rs/PinkWorldCinema.rs.png" group-title="SRBIJA", Pink World Cinema
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9027
-
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-logo="https://static.epg.best/rs/PinkWorldCinema.rs.png" group-title="SRBIJA", Pink World
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2296
-
-#EXTINF:-1 tvg-id="Pink Zabava" tvg-logo="https://static.epg.best/rs/PinkZabava.rs.png" group-title="SRBIJA", Pink Zabava
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2298
-
-#EXTINF:-1 tvg-id="Prva 1 SRB" tvg-logo="https://static.epg.best/rs/Prva.rs.png" group-title="SRBIJA", Prva 1 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/212
-
-#EXTINF:-1 tvg-id="PRVA KICK" tvg-logo="https://www.donasport.com/slike/prva-kick-tv-srbija.jpg" group-title="SRBIJA", PRVA KICK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/80953
-
-#EXTINF:-1 tvg-id="Prva Max" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/prva-max_logo.jpg" group-title="SRBIJA", Prva Max
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/181
-
-#EXTINF:-1 tvg-id="Prva Plus" tvg-logo="https://static.epg.best/rs/PrvaPlus.rs.png" group-title="SRBIJA", Prva Plus SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/213
-
-#EXTINF:-1 tvg-id="Prva World" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/prva_world_logo.png" group-title="SRBIJA", Prva World
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/182
-
-#EXTINF:-1 tvg-id="RED TV" tvg-logo="https://logodix.com/logo/76398.png" group-title="SRBIJA", RED TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/94111
-
-#EXTINF:-1 tvg-id="RTS 1" tvg-logo="https://static.epg.best/rs/RTS1.rs.png" group-title="SRBIJA", RTS 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/187
-
-#EXTINF:-1 tvg-id="RTS 1" tvg-logo="https://static.epg.best/rs/RTS1.rs.png" group-title="SRBIJA", RTS 1 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2346
-
-#EXTINF:-1 tvg-id="RTS 2" tvg-logo="https://static.epg.best/rs/RTS2.rs.png" group-title="SRBIJA", RTS 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/186
-
-#EXTINF:-1 tvg-id="RTS 3" tvg-logo="https://static.epg.best/rs/RTS3.rs.png" group-title="SRBIJA", RTS 3 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4024
-
-#EXTINF:-1 tvg-id="RTS Drama" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-drama-rs.png" group-title="SRBIJA", RTS Drama
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/79204
-
-#EXTINF:-1 tvg-id="RTS SAT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS1_logo.png" group-title="SRBIJA", RTS Satelit
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/221
-
-#EXTINF:-1 tvg-id="RTS Svet FHD" tvg-logo="https://static.epg.best/hr/RTSSvet.hr.png" group-title="SRBIJA", RTS Svet FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/82746
-
-#EXTINF:-1 tvg-id="RTV 1" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9062
-
-#EXTINF:-1 tvg-id="RTV MLAVA" tvg-logo="https://pbs.twimg.com/profile_images/1828812683/mlava_400x400.jpg" group-title="SRBIJA", RTV MLAVA
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9043
-
-#EXTINF:-1 tvg-id="RTV Pazar" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Pazar
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9059
-
-#EXTINF:-1 tvg-id="RTV Vojvodina 1 SRB" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Vojvodina 1 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4019
-
-#EXTINF:-1 tvg-id="RTV Vojvodina 2 SRB" tvg-logo="https://static.epg.best/rs/RTV1.rs.png" group-title="SRBIJA", RTV Vojvodina 2 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/92742
-
-#EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="http://sandzak.tv/wp-content/uploads/2016/10/logo_high_line-1.png" group-title="SRBIJA", Sandzak TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4187
-
-#EXTINF:-1 tvg-id="Scifi" tvg-logo="https://static.epg.best/hr/SciFi.hr.png" group-title="SRBIJA", SciFi SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4023
-
-#EXTINF:-1 tvg-id="Studio B" tvg-logo="https://static.epg.best/rs/StudioB.rs.png" group-title="SRBIJA", Studio B
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/5623
-
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="SRBIJA", TLC SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/223
-
-#EXTINF:-1 tvg-id="TV Hram" tvg-logo="https://serbianchurch.org/wp-content/uploads/2018/08/Banner-TV-Hram-2.jpeg" group-title="SRBIJA", TV Hram
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9047
-
-#EXTINF:-1 tvg-id="TV ISTOK 1" tvg-logo="https://cdn.shopify.com/s/files/1/0274/9612/0417/files/logo.png" group-title="SRBIJA", TV ISTOK 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9046
-
-#EXTINF:-1 tvg-id="TV ISTOK 2" tvg-logo="http://tugapt.com/picons/tvistok2.png" group-title="SRBIJA", TV ISTOK 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13948
-
-#EXTINF:-1 tvg-id="TV KLADOVO" tvg-logo="http://hotelkladovo.rs/images/TV%20Kladovo%20logo.png" group-title="SRBIJA", TV KLADOVO
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9044
-
-#EXTINF:-1 tvg-id="TV Kraljevo" tvg-logo="http://rtvkraljevo.com/wp-content/uploads/2015/10/rtvkvlogotp.png" group-title="SRBIJA", TV Kraljevo
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9051
-
-#EXTINF:-1 tvg-id="X TOXIC FOLK HD" tvg-logo="noimage.png" group-title="SRBIJA", X TOXIC FOLK HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/115100
-
-#EXTINF:-1 tvg-id="Zadruga Live 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Zadruga_Live_1.png" group-title="SRBIJA", Zadruga Live 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78191
-
-#EXTINF:-1 tvg-id="Zadruga Live 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Zadruga_Live_2.png" group-title="SRBIJA", Zadruga Live 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78192
-
-#EXTINF:-1 tvg-id="Zadruga Live 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Zadruga_Live_3.png" group-title="SRBIJA", Zadruga Live 3
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78193
-
-#EXTINF:-1 tvg-id="Zadruga Live 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zadruga_Live_4.png" group-title="SRBIJA", Zadruga Live 4
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78194
-
-#EXTINF:-1 tvg-id="########## Slovenia ##########" tvg-logo="noimage.png" group-title="SLOVENIJA", ########## Slovenia ##########
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10228
-
-#EXTINF:-1 tvg-id="BRIO SI" tvg-logo="http://tugapt.com/picons/briohd.png" group-title="SLOVENIJA", BRIO HD SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/14230
-
-#EXTINF:-1 tvg-id="Discovery Channel SI" tvg-logo="http://tugapt.com/picons/discoverychannel.png" group-title="SLOVENIJA", Discovery Channel SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/14231
-
-#EXTINF:-1 tvg-id="Gold TV HD SI" tvg-logo="http://tugapt.com/picons/goldtv.png" group-title="SLOVENIJA", Gold TV HD SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13987
-
-#EXTINF:-1 tvg-id="HBO 2 SI" tvg-logo="http://tugapt.com/picons/hbo2.png" group-title="SLOVENIJA", HBO 2 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/8934
-
-#EXTINF:-1 tvg-id="HBO 3 SI" tvg-logo="http://tugapt.com/picons/hbo3.png" group-title="SLOVENIJA", HBO 3 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/8935
-
-#EXTINF:-1 tvg-id="HBO SI" tvg-logo="http://tugapt.com/picons/hbo.png" group-title="SLOVENIJA", HBO SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/14229
-
-#EXTINF:-1 tvg-id="Kanal A SI" tvg-logo="http://tugapt.com/picons/kanala.png" group-title="SLOVENIJA", Kanal A SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13985
-
-#EXTINF:-1 tvg-id="Kino SI" tvg-logo="http://tugapt.com/picons/kino.png" group-title="SLOVENIJA", Kino SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13984
-
-#EXTINF:-1 tvg-id="NET TV SI" tvg-logo="http://tugapt.com/picons/nettvsi.png" group-title="SLOVENIJA", Net TV SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/14002
-
-#EXTINF:-1 tvg-id="Nova24TV SI" tvg-logo="http://tugapt.com/picons/nova24tv.png" group-title="SLOVENIJA", Nova24TV SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13998
-
-#EXTINF:-1 tvg-id="Planet TV SI" tvg-logo="http://tugapt.com/picons/planettv.png" group-title="SLOVENIJA", Planet TV SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13986
-
-#EXTINF:-1 tvg-id="POP TV SI" tvg-logo="http://tugapt.com/picons/poptv.png" group-title="SLOVENIJA", POP TV SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13999
-
-#EXTINF:-1 tvg-id="SLO1 SI" tvg-logo="http://tugapt.com/picons/slo1.png" group-title="SLOVENIJA", SLO 1 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13981
-
-#EXTINF:-1 tvg-id="SLO2 SI" tvg-logo="http://tugapt.com/picons/slo2.png" group-title="SLOVENIJA", SLO 2 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13982
-
-#EXTINF:-1 tvg-id="SLO3 SI" tvg-logo="http://tugapt.com/picons/slo3.png" group-title="SLOVENIJA", SLO 3 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13983
-
-#EXTINF:-1 tvg-id="Sport Klub 1 SI" tvg-logo="http://tugapt.com/picons/sportklub1.png" group-title="SLOVENIJA", Sport Klub 1 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13991
-
-#EXTINF:-1 tvg-id="Sport Klub 2 SI" tvg-logo="http://tugapt.com/picons/sportklub2.png" group-title="SLOVENIJA", Sport Klub 2 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13992
-
-#EXTINF:-1 tvg-id="Sport Klub 3 SI" tvg-logo="http://tugapt.com/picons/sportklub3.png" group-title="SLOVENIJA", Sport Klub 3 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13993
-
-#EXTINF:-1 tvg-id="Sport Klub 4 SI" tvg-logo="http://tugapt.com/picons/sportklub4.png" group-title="SLOVENIJA", Sport Klub 4 SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13994
-
-#EXTINF:-1 tvg-id="Sport Klub Golf SI" tvg-logo="http://tugapt.com/picons/sportklubgolf.png" group-title="SLOVENIJA", Sport Klub Golf FHD SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13995
-
-#EXTINF:-1 tvg-id="TV Koper SI" tvg-logo="http://tugapt.com/picons/kopertv.png" group-title="SLOVENIJA", TV Koper SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13997
-
-#EXTINF:-1 tvg-id="TV MARIBOR SI" tvg-logo="noimage.png" group-title="SLOVENIJA", TV MARIBOR SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/79737
-
-#EXTINF:-1 tvg-id="VOYO SI" tvg-logo="http://tugapt.com/picons/voyo.png" group-title="SLOVENIJA", VOYO SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/14000
-
-#EXTINF:-1 tvg-id="VTV SI" tvg-logo="http://tugapt.com/picons/vtv.png" group-title="SLOVENIJA", VTV SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/14012
-
-#EXTINF:-1 tvg-id="Sport TV 1 SI" tvg-logo="http://tugapt.com/picons/sporttv1si.png" group-title="SLOVENIJA", Šport TV 1 HD SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13988
-
-#EXTINF:-1 tvg-id="Sport TV 2 SI" tvg-logo="http://tugapt.com/picons/sporttv2si.png" group-title="SLOVENIJA", Šport TV 2 HD SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13989
-
-#EXTINF:-1 tvg-id="Sport TV 3 SI" tvg-logo="http://tugapt.com/picons/sporttv3si.png" group-title="SLOVENIJA", Šport TV 3 HD SI
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13990
-
-#EXTINF:-1 tvg-id="RTCG1" tvg-logo="https://static.epg.best/hr/Rtcg.hr.png" group-title="CRNA GORA", RTCG 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/183
-
-#EXTINF:-1 tvg-id="RTCG2" tvg-logo="https://static.epg.best/hr/Rtcg.hr.png" group-title="CRNA GORA", RTCG 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/214
-
-#EXTINF:-1 tvg-id="RTCG SAT" tvg-logo="https://static.epg.best/hr/Rtcg.hr.png" group-title="CRNA GORA", RTCG Sat
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/215
-
-#EXTINF:-1 tvg-id="TV Vijesti CG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Tvvijesti.jpg" group-title="CRNA GORA", TV Vijesti CG
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9042
-
-#EXTINF:-1 tvg-id="TV 777 Podgorica" tvg-logo="https://photos.live-tv-channels.org/tv-logo/me-tv-777-6557.jpg" group-title="CRNA GORA", TV 777 Podgorica
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9041
-
-#EXTINF:-1 tvg-id="Nova-M" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="CRNA GORA", Nova-M
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/82747
-
-#EXTINF:-1 tvg-id="Nova-M HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="CRNA GORA", Nova-M HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/82748
-
-#EXTINF:-1 tvg-id="Pink M" tvg-logo="https://static.epg.best/rs/PinkMovies.rs.png" group-title="CRNA GORA", Pink M
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2289
-
-#EXTINF:-1 tvg-id="##########   Macedonia   ##########" tvg-logo="noimage.png" group-title="MAKEDONIJA", ##########   Macedonia   ##########
-https://static.videezy.com/system/protected/files/000/040/615/Macedonia_Flag_Loop.mp4
+#EXTINF:-1 tvg-id="TV Vijesti CG " tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Tvvijesti.jpg" group-title="CRNA GORA", TV Vijesti CG 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9042
 
 #EXTINF:-1 tvg-id="1 TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", 1 TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18645
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18645
 
 #EXTINF:-1 tvg-id="24 Vesti MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", 24 Vesti MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2355
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2355
 
 #EXTINF:-1 tvg-id="Alfa TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Alfa TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2354
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2354
 
 #EXTINF:-1 tvg-id="Alsat M MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Alsat M MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2482
-
-#EXTINF:-1 tvg-id="Balkan Music HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Balkan Music HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74286
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2482
 
 #EXTINF:-1 tvg-id="Blic TV FHD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Blic TV FHD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/110769
-
-#EXTINF:-1 tvg-id="CinePlex HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", CinePlex HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74290
-
-#EXTINF:-1 tvg-id="Cinestar TV Premiere 1 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Cinestar TV Premiere 1 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74271
-
-#EXTINF:-1 tvg-id="Cinestar TV Premiere 2 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Cinestar TV Premiere 2 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74270
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/110769
 
 #EXTINF:-1 tvg-id="EDO HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", EDO HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74282
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74282
 
 #EXTINF:-1 tvg-id="ERA MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", ERA MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2480
-
-#EXTINF:-1 tvg-id="Film Box Plus HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Film Box Plus HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74269
-
-#EXTINF:-1 tvg-id="Folk FHD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Folk FHD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74288
-
-#EXTINF:-1 tvg-id="Folk Klub TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Folk Klub TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18647
-
-#EXTINF:-1 tvg-id="Folk TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Folk TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18648
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2480
 
 #EXTINF:-1 tvg-id="Fox HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Fox HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74267
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74267
 
 #EXTINF:-1 tvg-id="Fox Life HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Fox Life HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74266
-
-#EXTINF:-1 tvg-id="HBO 1 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", HBO 1 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18649
-
-#EXTINF:-1 tvg-id="HBO 2 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", HBO 2 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18650
-
-#EXTINF:-1 tvg-id="HBO 3 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", HBO 3 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18651
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74266
 
 #EXTINF:-1 tvg-id="Hugo 1 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Hugo 1 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2483
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2483
 
 #EXTINF:-1 tvg-id="Hugo 2 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Hugo 2 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18652
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18652
 
 #EXTINF:-1 tvg-id="INTV Avstralija HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", INTV Avstralija HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74284
-
-#EXTINF:-1 tvg-id="Kafanska HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kafanska HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74287
-
-#EXTINF:-1 tvg-id="Kanal 5 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kanal 5 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2353
-
-#EXTINF:-1 tvg-id="Kanal 5 Plus MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kanal 5 Plus MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2352
-
-#EXTINF:-1 tvg-id="Kanal 8 Kocani HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kanal 8 Kocani HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74280
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74284
 
 #EXTINF:-1 tvg-id="Kanal 21 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kanal 21 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18653
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18653
+
+#EXTINF:-1 tvg-id="Kanal 5 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kanal 5 MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2353
+
+#EXTINF:-1 tvg-id="Kanal 5 Plus MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kanal 5 Plus MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2352
+
+#EXTINF:-1 tvg-id="Kanal 8 Kocani HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Kanal 8 Kocani HD MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74280
 
 #EXTINF:-1 tvg-id="Leskovac TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Leskovac TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18654
-
-#EXTINF:-1 tvg-id="MRT 1 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 1 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2351
-
-#EXTINF:-1 tvg-id="MRT 2 FHD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 2 FHD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18643
-
-#EXTINF:-1 tvg-id="MRT 3 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 3 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18646
-
-#EXTINF:-1 tvg-id="MRT 5 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 5 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/95064
-
-#EXTINF:-1 tvg-id="MRT 4 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 4 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/95063
-
-#EXTINF:-1 tvg-id="MTM TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MTM TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2486
-
-#EXTINF:-1 tvg-id="MTV Igman MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MTV Igman MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2490
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18654
 
 #EXTINF:-1 tvg-id="Makedonska TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Makedonska TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2487
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2487
+
+#EXTINF:-1 tvg-id="MRT 1 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 1 MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2351
+
+#EXTINF:-1 tvg-id="MRT 2 FHD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 2 FHD MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18643
+
+#EXTINF:-1 tvg-id="MRT 3 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 3 HD MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18646
+
+#EXTINF:-1 tvg-id="MRT 4 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 4 MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95063
+
+#EXTINF:-1 tvg-id="MRT 5 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MRT 5 MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/95064
+
+#EXTINF:-1 tvg-id="MTM TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MTM TV MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2486
+
+#EXTINF:-1 tvg-id="MTV Igman MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", MTV Igman MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2490
 
 #EXTINF:-1 tvg-id="Nasha TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Nasha TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74283
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74283
 
 #EXTINF:-1 tvg-id="Nova TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Nova TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2488
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2488
 
 #EXTINF:-1 tvg-id="O2 Ohrid HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", O2 Ohrid HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18656
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18656
 
 #EXTINF:-1 tvg-id="Planeta TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Planeta TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18662
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18662
 
 #EXTINF:-1 tvg-id="Plus TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Plus TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18663
-
-#EXTINF:-1 tvg-id="RTV21 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", RTV21 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2481
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18663
 
 #EXTINF:-1 tvg-id="Roma TV FHD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Roma TV FHD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18657
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18657
+
+#EXTINF:-1 tvg-id="RTV21 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", RTV21 MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2481
 
 #EXTINF:-1 tvg-id="Sandzak TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sandzak TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18658
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18658
 
 #EXTINF:-1 tvg-id="Shutel TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Shutel TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2347
-
-#EXTINF:-1 tvg-id="Sitel TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sitel TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2349
-
-#EXTINF:-1 tvg-id="Sitel TV MK (BackUP)" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sitel TV MK (BackUP)
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10616
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2347
 
 #EXTINF:-1 tvg-id="Sitel 3 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sitel 3 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2350
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2350
+
+#EXTINF:-1 tvg-id="Sitel TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sitel TV MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2349
+
+#EXTINF:-1 tvg-id="Sitel TV MK (BackUP)" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sitel TV MK (BackUP)
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10616
 
 #EXTINF:-1 tvg-id="Sobraniski Kanal HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sobraniski Kanal HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74285
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74285
 
 #EXTINF:-1 tvg-id="Sonce TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sonce TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18659
-
-#EXTINF:-1 tvg-id="Sportska TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Sportska TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18660
-
-#EXTINF:-1 tvg-id="TLC HD MK" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="MAKEDONIJA", TLC HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74275
-
-#EXTINF:-1 tvg-id="TV 1000 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV 1000 HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74268
-
-#EXTINF:-1 tvg-id="TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18661
-
-#EXTINF:-1 tvg-id="TV Iris Stip HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV Iris Stip HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74281
-
-#EXTINF:-1 tvg-id="TV Plus Kumanovo HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV Plus Kumanovo HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74276
-
-#EXTINF:-1 tvg-id="TV Sitel 2 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV Sitel 2 MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9040
-
-#EXTINF:-1 tvg-id="TV+ MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV+ MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2485
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18659
 
 #EXTINF:-1 tvg-id="Telma MK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Telma_logo_%28official%29.png" group-title="MAKEDONIJA", Telma MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2348
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2348
 
-#EXTINF:-1 tvg-id="Travel Channel HD MK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/travel-channel-uk.png" group-title="MAKEDONIJA", Travel Channel HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74274
+#EXTINF:-1 tvg-id="TV 1000 HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV 1000 HD MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74268
+
+#EXTINF:-1 tvg-id="TV HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV HD MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18661
+
+#EXTINF:-1 tvg-id="TV Iris Stip HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV Iris Stip HD MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74281
+
+#EXTINF:-1 tvg-id="TV Plus Kumanovo HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV Plus Kumanovo HD MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/74276
+
+#EXTINF:-1 tvg-id="TV Sitel 2 MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV Sitel 2 MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9040
+
+#EXTINF:-1 tvg-id="TV+ MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", TV+ MK
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2485
 
 #EXTINF:-1 tvg-id="Uskana TV MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Uskana TV MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/18664
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/18664
 
-#EXTINF:-1 tvg-id="Viasat Explore HD MK" tvg-logo="noimage.png" group-title="MAKEDONIJA", Viasat Explore HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74273
+#EXTINF:-1 tvg-id="Gold TV HD SI" tvg-logo="http://tugapt.com/picons/goldtv.png" group-title="SLOVENIJA", Gold TV HD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13987
 
-#EXTINF:-1 tvg-id="Viasat History HD MK" tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="MAKEDONIJA", Viasat History HD MK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/74272
+#EXTINF:-1 tvg-id="Kanal A SI" tvg-logo="http://tugapt.com/picons/kanala.png" group-title="SLOVENIJA", Kanal A SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13985
 
-#EXTINF:-1 tvg-id="Masa i Medo VIP" tvg-logo="https://static.wikia.nocookie.net/masha-and-bear/images/a/a9/Masha_and_the_Bear.png" group-title="DJECJI", Masa i Medo VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13961
+#EXTINF:-1 tvg-id="NET TV SI" tvg-logo="http://tugapt.com/picons/nettvsi.png" group-title="SLOVENIJA", Net TV SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/14002
 
-#EXTINF:-1 tvg-id="Nickelodeon (SR)" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJECJI", Nickelodeon (SR)
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78195
+#EXTINF:-1 tvg-id="Nova24TV SI" tvg-logo="http://tugapt.com/picons/nova24tv.png" group-title="SLOVENIJA", Nova24TV SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13998
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJECJI", Nickelodeon
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2330
+#EXTINF:-1 tvg-id="Planet TV SI" tvg-logo="http://tugapt.com/picons/planettv.png" group-title="SLOVENIJA", Planet TV SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13986
 
-#EXTINF:-1 tvg-id="Pikaboo VIP" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="DJECJI", Pikaboo VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13969
+#EXTINF:-1 tvg-id="POP TV SI" tvg-logo="http://tugapt.com/picons/poptv.png" group-title="SLOVENIJA", POP TV SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13999
 
-#EXTINF:-1 tvg-id="Tom And Jerry HD" tvg-logo="https://logodix.com/logo/330403.png" group-title="DJECJI", Tom And Jerry HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10559
+#EXTINF:-1 tvg-id="SLO1 SI" tvg-logo="http://tugapt.com/picons/slo1.png" group-title="SLOVENIJA", SLO 1 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13981
 
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://static.epg.best/rs/BabyTV.rs.png" group-title="DJECJI", Baby TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2327
+#EXTINF:-1 tvg-id="SLO2 SI" tvg-logo="http://tugapt.com/picons/slo2.png" group-title="SLOVENIJA", SLO 2 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13982
 
-#EXTINF:-1 tvg-id="Classic Looney Tunes VIP" tvg-logo="https://logodix.com/logo/1128780.jpg" group-title="DJECJI", Classic Looney Tunes VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10891
+#EXTINF:-1 tvg-id="SLO3 SI" tvg-logo="http://tugapt.com/picons/slo3.png" group-title="SLOVENIJA", SLO 3 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13983
 
-#EXTINF:-1 tvg-id="Classic Tom And Jerry VIP" tvg-logo="https://logodix.com/logo/330403.png" group-title="DJECJI", Classic Tom And Jerry VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10892
+#EXTINF:-1 tvg-id="TV Koper SI" tvg-logo="http://tugapt.com/picons/kopertv.png" group-title="SLOVENIJA", TV Koper SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13997
 
-#EXTINF:-1 tvg-id="Da Vinci Learning VIP" tvg-logo="https://static.epg.best/hr/DaVinciLearning.hr.png" group-title="DJECJI", Da Vinci Learning VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10888
+#EXTINF:-1 tvg-id="TV MARIBOR SI" tvg-logo="noimage.png" group-title="SLOVENIJA", TV MARIBOR SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79737
 
-#EXTINF:-1 tvg-id="RTL Kockica" tvg-logo="https://static.epg.best/hr/RtlKockica.hr.png" group-title="DJECJI", RTL Kockica
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/218
+#EXTINF:-1 tvg-id="VOYO SI" tvg-logo="http://tugapt.com/picons/voyo.png" group-title="SLOVENIJA", VOYO SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/14000
 
-#EXTINF:-1 tvg-id="Mini Ultra TV" tvg-logo="https://static.epg.best/hr/MiniTv.hr.png" group-title="DJECJI", Mini Ultra TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2328
+#EXTINF:-1 tvg-id="VTV SI" tvg-logo="http://tugapt.com/picons/vtv.png" group-title="SLOVENIJA", VTV SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/14012
 
-#EXTINF:-1 tvg-id="Minimax (SR)" tvg-logo="https://static.epg.best/rs/Minimax.rs.png" group-title="DJECJI", Minimax (SR)
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78196
+#EXTINF:-1 tvg-id="##########      ##########" tvg-logo="noimage.png" group-title="EXYU VIP", ##########      ##########
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2522
 
-#EXTINF:-1 tvg-id="Mr Bean VIP" tvg-logo="https://www.clipartmax.com/png/full/74-749810_the-animated-series-mr-bean-cartoon-png.png" group-title="DJECJI", Mr Bean VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10889
+#EXTINF:-1 tvg-id="AMC HD " tvg-logo="noimage.png" group-title="EXYU VIP", AMC HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127840
 
-#EXTINF:-1 tvg-id="Nick Jr. (SR)" tvg-logo="https://static.epg.best/hr/NickJr.hr.png" group-title="DJECJI", Nick Jr. (SR)
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78197
+#EXTINF:-1 tvg-id="Animal Planet " tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="EXYU VIP", Animal Planet 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/190
 
-#EXTINF:-1 tvg-id="Nickelodeon (SR)" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJECJI", Nickelodeon (SR)
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78195
+#EXTINF:-1 tvg-id="Arena Fight FHD " tvg-logo="noimage.png" group-title="EXYU VIP", Arena Fight FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/110122
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJECJI", Nickelodeon
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2330
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="EXYU VIP", Arena Sport 1 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/589
 
-#EXTINF:-1 tvg-id="Max Sport 1 HD HR" tvg-logo="noimage.png" group-title="SPORTSKI", Max Sport 1 HD HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/108388
+#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium " tvg-logo="noimage.png" group-title="EXYU VIP", Arena Sport 1 SR Premium 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127973
 
-#EXTINF:-1 tvg-id="Max Sport 2 HD HR" tvg-logo="noimage.png" group-title="SPORTSKI", Max Sport 2 HD HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/108389
+#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium HD " tvg-logo="noimage.png" group-title="EXYU VIP", Arena Sport 1 SR Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127974
 
-#EXTINF:-1 tvg-id="Arena Premium 1 HR FHD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Premium 1 HR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/126173
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="EXYU VIP", Arena Sport 1 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2284
 
-#EXTINF:-1 tvg-id="Arena Premium 2 HR FHD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Premium 2 HR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/126174
+#EXTINF:-1 tvg-id="Arena Sport 1 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport1.rs.png" group-title="EXYU VIP", Arena Sport 1 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79821
 
-#EXTINF:-1 tvg-id="Arena Premium 3 HR FHD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Premium 3 HR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/126175
+#EXTINF:-1 tvg-id="ARENA SPORT 10 HR FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="EXYU VIP", ARENA SPORT 10 HR FHD
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101754
 
-#EXTINF:-1 tvg-id="Kreator TV" tvg-logo="https://static.epg.best/hr/KreatorTv.hr.png" group-title="SPORTSKI", Kreator TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/21779
+#EXTINF:-1 tvg-id="Arena Sport 1x2 HD " tvg-logo="noimage.png" group-title="EXYU VIP", Arena Sport 1x2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127975
 
-#EXTINF:-1 tvg-id="Arena Fight FHD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Fight FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/110122
+#EXTINF:-1 tvg-id="Arena Sport 2 " tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="EXYU VIP", Arena Sport 2 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/588
 
-#EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="SPORTSKI", Arena Sport 1 HR HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/589
+#EXTINF:-1 tvg-id="Arena Sport 2 SR Premium HD " tvg-logo="noimage.png" group-title="EXYU VIP", Arena Sport 2 SR Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127972
 
-#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Sport 1 SR Premium
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127973
+#EXTINF:-1 tvg-id="Arena Sport 2 " tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="EXYU VIP", Arena Sport 2 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2283
 
-#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium HD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Sport 1 SR Premium HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127974
+#EXTINF:-1 tvg-id="Arena Sport 2 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport2.rs.png" group-title="EXYU VIP", Arena Sport 2 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79822
 
-#EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="SPORTSKI", Arena Sport 1 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2284
+#EXTINF:-1 tvg-id="Arena Sport 3 " tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="EXYU VIP", Arena Sport 3 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/587
 
-#EXTINF:-1 tvg-id="Arena Sport 1 Srb FHD" tvg-logo="https://static.epg.best/rs/Arenasport1.rs.png" group-title="SPORTSKI", Arena Sport 1 Srb FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/79821
+#EXTINF:-1 tvg-id="Arena Sport 3 SR Premium HD " tvg-logo="noimage.png" group-title="EXYU VIP", Arena Sport 3 SR Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127971
 
-#EXTINF:-1 tvg-id="ARENA SPORT 10 HR FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", ARENA SPORT 10 HR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/101754
+#EXTINF:-1 tvg-id="Arena Sport 3 " tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="EXYU VIP", Arena Sport 3 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2282
 
-#EXTINF:-1 tvg-id="Arena Sport 1x2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Sport 1x2 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127975
+#EXTINF:-1 tvg-id="Arena Sport 3 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport3.rs.png" group-title="EXYU VIP", Arena Sport 3 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79823
 
-#EXTINF:-1 tvg-id="Arena Sport 2" tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="SPORTSKI", Arena Sport 2 HR HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/588
+#EXTINF:-1 tvg-id="Arena Sport 4 " tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="EXYU VIP", Arena Sport 4 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/586
 
-#EXTINF:-1 tvg-id="Arena Sport 2 SR Premium HD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Sport 2 SR Premium HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127972
+#EXTINF:-1 tvg-id="Arena Sport 4 " tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="EXYU VIP", Arena Sport 4 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2281
 
-#EXTINF:-1 tvg-id="Arena Sport 2" tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="SPORTSKI", Arena Sport 2 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2283
+#EXTINF:-1 tvg-id="Arena Sport 4 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport4.rs.png" group-title="EXYU VIP", Arena Sport 4 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79824
 
-#EXTINF:-1 tvg-id="Arena Sport 2 Srb FHD" tvg-logo="https://static.epg.best/rs/Arenasport2.rs.png" group-title="SPORTSKI", Arena Sport 2 Srb FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/79822
+#EXTINF:-1 tvg-id="Arena Sport 5 " tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="EXYU VIP", Arena Sport 5 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/585
 
-#EXTINF:-1 tvg-id="Arena Sport 3" tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="SPORTSKI", Arena Sport 3 HR HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/587
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="EXYU VIP", Arena Sport 5 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2280
 
-#EXTINF:-1 tvg-id="Arena Sport 3 SR Premium HD" tvg-logo="noimage.png" group-title="SPORTSKI", Arena Sport 3 SR Premium HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127971
+#EXTINF:-1 tvg-id="Arena Sport 5 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport5.rs.png" group-title="EXYU VIP", Arena Sport 5 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79825
 
-#EXTINF:-1 tvg-id="Arena Sport 3" tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="SPORTSKI", Arena Sport 3 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2282
+#EXTINF:-1 tvg-id="Arena Sport 6 HR " tvg-logo="https://static.epg.best/hr/ArenaSport6.hr.png" group-title="EXYU VIP", Arena Sport 6 HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80963
 
-#EXTINF:-1 tvg-id="Arena Sport 3 Srb FHD" tvg-logo="https://static.epg.best/rs/Arenasport3.rs.png" group-title="SPORTSKI", Arena Sport 3 Srb FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/79823
+#EXTINF:-1 tvg-id="Arena Sport 5 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="EXYU VIP", ARENA SPORT 7 (HR) FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101751
 
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="SPORTSKI", Arena Sport 4 HR HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/586
+#EXTINF:-1 tvg-id="ARENA SPORT 8 HR FHD " tvg-logo="https://static.epg.best/rs/Arenasport8.rs.png" group-title="EXYU VIP", ARENA SPORT 8 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101752
 
-#EXTINF:-1 tvg-id="Arena Sport 4" tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="SPORTSKI", Arena Sport 4 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2281
+#EXTINF:-1 tvg-id="ARENA SPORT 9 HR FHD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="EXYU VIP", ARENA SPORT 9 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101753
 
-#EXTINF:-1 tvg-id="Arena Sport 4 Srb FHD" tvg-logo="https://static.epg.best/rs/Arenasport4.rs.png" group-title="SPORTSKI", Arena Sport 4 Srb FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/79824
+#EXTINF:-1 tvg-id="AXN ADRIA " tvg-logo="noimage.png" group-title="EXYU VIP", AXN ADRIA 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127842
 
-#EXTINF:-1 tvg-id="Arena Sport 5" tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="SPORTSKI", Arena Sport 5 HR HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/585
+#EXTINF:-1 tvg-id="AXN SPIN " tvg-logo="noimage.png" group-title="EXYU VIP", AXN SPIN 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127841
 
-#EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="SPORTSKI", Arena Sport 5 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2280
+#EXTINF:-1 tvg-id="Baby TV " tvg-logo="https://static.epg.best/rs/BabyTV.rs.png" group-title="EXYU VIP", Baby TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2327
 
-#EXTINF:-1 tvg-id="Arena Sport 5 Srb FHD" tvg-logo="https://static.epg.best/rs/Arenasport5.rs.png" group-title="SPORTSKI", Arena Sport 5 Srb FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/79825
+#EXTINF:-1 tvg-id="BALKAN SKY PREMIERE 2 HD " tvg-logo="noimage.png" group-title="EXYU VIP", BALKAN SKY PREMIERE 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127759
 
-#EXTINF:-1 tvg-id="Arena Sport 6 HR" tvg-logo="https://static.epg.best/hr/ArenaSport6.hr.png" group-title="SPORTSKI", Arena Sport 6 HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/80963
+#EXTINF:-1 tvg-id="Balkanika HD " tvg-logo="https://static.epg.best/hr/BalkanikaMusicTv.hr.png" group-title="EXYU VIP", Balkanika HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2339
 
-#EXTINF:-1 tvg-id="Arena Sport 5" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", ARENA SPORT 7 (HR) FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/101751
+#EXTINF:-1 tvg-id="BBC FIRST HD " tvg-logo="noimage.png" group-title="EXYU VIP", BBC FIRST HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127847
 
-#EXTINF:-1 tvg-id="ARENA SPORT 8 HR FHD" tvg-logo="https://static.epg.best/rs/Arenasport8.rs.png" group-title="SPORTSKI", ARENA SPORT 8 HR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/101752
+#EXTINF:-1 tvg-id="BN Music " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/logo-www.bnmusic.org_logo.png" group-title="EXYU VIP", BN Music 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2343
 
-#EXTINF:-1 tvg-id="ARENA SPORT 9 HR FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", ARENA SPORT 9 HR FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/101753
+#EXTINF:-1 tvg-id="CBS Reality VIP " tvg-logo="https://static.epg.best/hr/CBSReality.hr.png" group-title="EXYU VIP", CBS Reality VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13959
 
-#EXTINF:-1 tvg-id="AXN ADRIA" tvg-logo="noimage.png" group-title="SPORTSKI", AXN ADRIA
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127842
+#EXTINF:-1 tvg-id="Cinemania " tvg-logo="https://static.epg.best/rs/Cinemania.rs.png" group-title="EXYU VIP", Cinemania 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9036
 
-#EXTINF:-1 tvg-id="AXN SPIN" tvg-logo="noimage.png" group-title="SPORTSKI", AXN SPIN
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127841
+#EXTINF:-1 tvg-id="Cinemax 1 " tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="EXYU VIP", Cinemax 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2315
 
-#EXTINF:-1 tvg-id="Fight Channel" tvg-logo="https://static.epg.best/rs/FightChannel.rs.png" group-title="SPORTSKI", Fight Channel
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/82740
+#EXTINF:-1 tvg-id="Cinemax 1 HD VIP " tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="EXYU VIP", Cinemax 1 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10912
 
-#EXTINF:-1 tvg-id="FightBox FHD VIP" tvg-logo="https://static.epg.best/pl/FightBox.pl.png" group-title="SPORTSKI", FightBox FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10901
+#EXTINF:-1 tvg-id="Cinemax 2 " tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="EXYU VIP", Cinemax 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2314
 
-#EXTINF:-1 tvg-id="HNTV" tvg-logo="https://static.epg.best/hr/Hntv.hr.png" group-title="SPORTSKI", HNTV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/200
+#EXTINF:-1 tvg-id="Cinemax 2 HD VIP " tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="EXYU VIP", Cinemax 2 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10913
 
-#EXTINF:-1 tvg-id="PARTIZAN TV HD VIP" tvg-logo="https://www.danas.tv/wp-content/uploads/2016/10/tv-partizan-logo-isecen.png" group-title="SPORTSKI", PARTIZAN TV HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10895
+#EXTINF:-1 tvg-id="Cinestar Action and Thriller " tvg-logo="https://static.epg.best/rs/CineStarAction.rs.png" group-title="EXYU VIP", Cinestar Action SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4028
 
-#EXTINF:-1 tvg-id="Premier Sport 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", Premier Sport 2 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/122472
+#EXTINF:-1 tvg-id="Cinestar Fantasy " tvg-logo="https://static.epg.best/hr/CinestarFantasy.hr.png" group-title="EXYU VIP", Cinestar Fantasy 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80954
 
-#EXTINF:-1 tvg-id="Sport Klub 1 FHD VIP" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORTSKI", Sport Klub 1 FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10900
+#EXTINF:-1 tvg-id="Cinestar Premiere 1 " tvg-logo="https://static.epg.best/rs/CineStarPremiere1.rs.png" group-title="EXYU VIP", Cinestar Premiere 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2313
 
-#EXTINF:-1 tvg-id="Sport Klub 1 HD VIP" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORTSKI", Sport Klub 1 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13966
+#EXTINF:-1 tvg-id="Cinestar Premiere 2 " tvg-logo="https://static.epg.best/rs/CineStarPremiere2.rs.png" group-title="EXYU VIP", Cinestar Premiere 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2312
 
-#EXTINF:-1 tvg-id="Sport Klub 1 SRB" tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORTSKI", Sport Klub 1 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/592
+#EXTINF:-1 tvg-id="CINESTAR TV 2 HD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="EXYU VIP", CINESTAR TV 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/83207
 
-#EXTINF:-1 tvg-id="Sport Klub 10" tvg-logo="https://static.epg.best/rs/SportKlub10.rs.png" group-title="SPORTSKI", Sport Klub 10
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/80962
+#EXTINF:-1 tvg-id="CINESTAR TV COMEDY FHD " tvg-logo="noimage.png" group-title="EXYU VIP", CINESTAR TV COMEDY FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127855
 
-#EXTINF:-1 tvg-id="Sport Klub 2 FHD SRB/HRV/SLO VIP" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORTSKI", Sport Klub 2 FHD SRB/HRV/SLO VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10884
+#EXTINF:-1 tvg-id="Cinestar TV " tvg-logo="https://static.epg.best/hr/CinestarTv.hr.png" group-title="EXYU VIP", Cinestar TV SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4029
 
-#EXTINF:-1 tvg-id="Sport Klub 2 HD VIP" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORTSKI", Sport Klub 2 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10896
+#EXTINF:-1 tvg-id="Classic Looney Tunes VIP " tvg-logo="https://logodix.com/logo/1128780.jpg" group-title="EXYU VIP", Classic Looney Tunes VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10891
 
-#EXTINF:-1 tvg-id="Sport Klub 2 SRB" tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORTSKI", Sport Klub 2 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/591
+#EXTINF:-1 tvg-id="Classic Tom And Jerry VIP " tvg-logo="https://logodix.com/logo/330403.png" group-title="EXYU VIP", Classic Tom And Jerry VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10892
 
-#EXTINF:-1 tvg-id="Sport Klub 3 FHD SRB/HRV/SLO VIP" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORTSKI", Sport Klub 3 FHD SRB/HRV/SLO VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10883
+#EXTINF:-1 tvg-id="CMC Music HD " tvg-logo="https://static.epg.best/rs/CMC.rs.png" group-title="EXYU VIP", CMC Music HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2340
 
-#EXTINF:-1 tvg-id="Sport Klub 3 HD VIP" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORTSKI", Sport Klub 3 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10897
+#EXTINF:-1 tvg-id="CrimeandInvestigation " tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/crime-and-investigation-de.png" group-title="EXYU VIP", Crime &amp; Investigation HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2322
 
-#EXTINF:-1 tvg-id="Sport Klub 3 SRB" tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORTSKI", Sport Klub 3 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/590
+#EXTINF:-1 tvg-id="CRO TV HD " tvg-logo="noimage.png" group-title="EXYU VIP", CRO TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127871
 
-#EXTINF:-1 tvg-id="SportKlub 4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_4.png" group-title="SPORTSKI", Sport Klub 4 SR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/1173
+#EXTINF:-1 tvg-id="CROMAX Select 1 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 1 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31910
 
-#EXTINF:-1 tvg-id="SportKlub 5" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_5.png" group-title="SPORTSKI", Sport Klub 5 SR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/1172
+#EXTINF:-1 tvg-id="CROMAX Select 2 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31909
 
-#EXTINF:-1 tvg-id="SportKlub 6" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_6.png" group-title="SPORTSKI", Sport Klub 6 SR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/1171
+#EXTINF:-1 tvg-id="CROMAX Select 3 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 3 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31908
 
-#EXTINF:-1 tvg-id="Sport Klub 7" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORTSKI", Sport Klub 7
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/80959
+#EXTINF:-1 tvg-id="CROMAX Select 4 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 4 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31907
 
-#EXTINF:-1 tvg-id="Sport Klub 8" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORTSKI", Sport Klub 8
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/80960
+#EXTINF:-1 tvg-id="CROMAX Select 5 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 5 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31906
 
-#EXTINF:-1 tvg-id="Sport Klub 9" tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORTSKI", Sport Klub 9
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/80961
+#EXTINF:-1 tvg-id="CROMAX Select 6 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 6 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31905
 
-#EXTINF:-1 tvg-id="SportKlub 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORTSKI", Sport Klub HD 1 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2279
+#EXTINF:-1 tvg-id="CROMAX Select 7 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 7 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31904
 
-#EXTINF:-1 tvg-id="SportKlub 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORTSKI", Sport Klub HD 2 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2278
+#EXTINF:-1 tvg-id="CROMAX Select 8 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 8 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31903
 
-#EXTINF:-1 tvg-id="SportKlub 3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORTSKI", Sport Klub HD 3 Srb
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2277
+#EXTINF:-1 tvg-id="CROMAX Select 9 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select 9 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31902
 
-#EXTINF:-1 tvg-id="SportKlub 1" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Klub HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/104838
+#EXTINF:-1 tvg-id="CROMAX Select Premium HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="EXYU VIP", CROMAX Select Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31898
 
-#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-logo="https://static.epg.best/es/MovistarFormula1.es.png" group-title="SPORTSKI", Dazn F1 FHD VIP ES
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13960
+#EXTINF:-1 tvg-id="Da Vinci Learning VIP " tvg-logo="https://static.epg.best/hr/DaVinciLearning.hr.png" group-title="EXYU VIP", Da Vinci Learning VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10888
 
-#EXTINF:-1 tvg-id="SSS Sport F1 DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-de.png" group-title="SPORTSKI", Sky Sport F1 FHD DE
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/96730
+#EXTINF:-1 tvg-id="Discovery Channel " tvg-logo="https://static.epg.best/hr/DiscoveryChannel.hr.png" group-title="EXYU VIP", Discovery Channel 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2325
 
-#EXTINF:-1 tvg-id="SSS Sports F1 UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-f1-hz-uk.png" group-title="SPORTSKI", Sky Sports F1 HD VIP UK
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10797
+#EXTINF:-1 tvg-id="Discovery ID " tvg-logo="https://static.epg.best/ro/DiscoveryID.ro.png" group-title="EXYU VIP", Discovery ID 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2324
 
-#EXTINF:-1 tvg-id="Max Sport 1 HD HR" tvg-logo="noimage.png" group-title="SPORTSKI", Max Sport 1 HD HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/108388
+#EXTINF:-1 tvg-id="Discovery Science " tvg-logo="noimage.png" group-title="EXYU VIP", Discovery Science SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4014
 
-#EXTINF:-1 tvg-id="Max Sport 2 HD HR" tvg-logo="noimage.png" group-title="SPORTSKI", Max Sport 2 HD HR
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/108389
+#EXTINF:-1 tvg-id="Discovery Turbo Xtra FHD VIP " tvg-logo="https://static.epg.best/hu/DiscoveryTurboXtra.hu.png" group-title="EXYU VIP", Discovery Turbo Xtra FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10904
 
-#EXTINF:-1 tvg-id="Lov i ribolov" tvg-logo="https://static.epg.best/rs/LoviRibolov.rs.png" group-title="SPORTSKI", Lov i Ribolov
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2334
+#EXTINF:-1 tvg-id="DM Sat " tvg-logo="noimage.png" group-title="EXYU VIP", DM SAT 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/194
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://static.epg.best/hr/DiscoveryChannel.hr.png" group-title="DOKUMENTARNI", Discovery Channel
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2325
+#EXTINF:-1 tvg-id="Docu Box SRB " tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="EXYU VIP", Docu Box SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4569
 
-#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://static.epg.best/ro/DiscoveryID.ro.png" group-title="DOKUMENTARNI", Discovery ID
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2324
+#EXTINF:-1 tvg-id="DocuBox FHD VIP " tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="EXYU VIP", DocuBox FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13965
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="noimage.png" group-title="DOKUMENTARNI", Discovery Science SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4014
+#EXTINF:-1 tvg-id="E! FHD VIP " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="EXYU VIP", E! FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13964
 
-#EXTINF:-1 tvg-id="Discovery Turbo Xtra FHD VIP" tvg-logo="https://static.epg.best/hu/DiscoveryTurboXtra.hu.png" group-title="DOKUMENTARNI", Discovery Turbo Xtra FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10904
+#EXTINF:-1 tvg-id="E " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="EXYU VIP", E! SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4022
 
-#EXTINF:-1 tvg-id="Docu Box SRB" tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKUMENTARNI", Docu Box SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4569
+#EXTINF:-1 tvg-id="ELITA 1 24/7 " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 1 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127861
 
-#EXTINF:-1 tvg-id="DocuBox FHD VIP" tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKUMENTARNI", DocuBox FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13965
+#EXTINF:-1 tvg-id="ELITA 1 24/7 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 1 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127865
 
-#EXTINF:-1 tvg-id="E! FHD VIP" tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKUMENTARNI", E! FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13964
+#EXTINF:-1 tvg-id="ELITA 2 24/7 " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 2 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127860
 
-#EXTINF:-1 tvg-id="E" tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKUMENTARNI", E! SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4022
+#EXTINF:-1 tvg-id="ELITA 2 24/7 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 2 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127864
 
-#EXTINF:-1 tvg-id="Nasa" tvg-logo="https://static.epg.best/ba/NasaTV.ba.png" group-title="DOKUMENTARNI", Nasa
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9057
+#EXTINF:-1 tvg-id="ELITA 3 24/7 " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 3 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127859
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://static.epg.best/hr/NationalGeographic.hr.png" group-title="DOKUMENTARNI", Nat Geo
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/208
+#EXTINF:-1 tvg-id="ELITA 3 24/7 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 3 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127863
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="DOKUMENTARNI", Nat Geo Wild
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/209
+#EXTINF:-1 tvg-id="ELITA 4 24/7 " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 4 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127858
 
-#EXTINF:-1 tvg-id="Viasat Explore" tvg-logo="https://static.epg.best/hr/ViasatExplore.hr.png" group-title="DOKUMENTARNI", Viasat Explorer
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/224
+#EXTINF:-1 tvg-id="ELITA 4 24/7 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", ELITA 4 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127862
 
-#EXTINF:-1 tvg-id="Viasat History" tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="DOKUMENTARNI", Viasat History
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/225
+#EXTINF:-1 tvg-id="Entertainment + " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="EXYU VIP", Entertainment + 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2336
 
-#EXTINF:-1 tvg-id="Viasat Nature / History FHD VIP" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="DOKUMENTARNI", Viasat Nature / History FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10910
+#EXTINF:-1 tvg-id="Epic Drama HD " tvg-logo="https://static.epg.best/hr/EpicDrama.hr.png" group-title="EXYU VIP", Epic Drama HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78228
 
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="DOKUMENTARNI", Viasat Nature
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/226
+#EXTINF:-1 tvg-id="EURO CINEMA 1 HD " tvg-logo="noimage.png" group-title="EXYU VIP", EURO CINEMA 1 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127835
 
-#EXTINF:-1 tvg-id="24 Kitchen" tvg-logo="https://static.epg.best/pt/24Kitchen.pt.png" group-title="DOKUMENTARNI", 24 Kitchen
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/189
+#EXTINF:-1 tvg-id="EURO CINEMA 2 HD " tvg-logo="noimage.png" group-title="EXYU VIP", EURO CINEMA 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127834
 
-#EXTINF:-1 tvg-id="History 2 SRB" tvg-logo="https://static.epg.best/rs/HistoryChannel2.rs.png" group-title="DOKUMENTARNI", History 2 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/199
+#EXTINF:-1 tvg-id="EURO CINEMA 3 HD " tvg-logo="noimage.png" group-title="EXYU VIP", EURO CINEMA 3 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127833
 
-#EXTINF:-1 tvg-id="History Channel" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="DOKUMENTARNI", History Channel
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2323
+#EXTINF:-1 tvg-id="EURO CINEMA 4 HD " tvg-logo="noimage.png" group-title="EXYU VIP", EURO CINEMA 4 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127832
 
-#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="https://static.epg.best/rs/FOXMovies.rs.png" group-title="FILMSKI", Fox Movies
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2319
+#EXTINF:-1 tvg-id="Euronews SRB " tvg-logo="noimage.png" group-title="EXYU VIP", Euronews SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/117167
 
-#EXTINF:-1 tvg-id="Kino TV" tvg-logo="https://static.epg.best/hr/Kinotv.hr.png" group-title="FILMSKI", Kino TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9032
+#EXTINF:-1 tvg-id="Eurosport 1 " tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="EXYU VIP", EuroSport 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/594
 
-#EXTINF:-1 tvg-id="Cinemania" tvg-logo="https://static.epg.best/rs/Cinemania.rs.png" group-title="FILMSKI", Cinemania
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9036
+#EXTINF:-1 tvg-id="Eurosport 2 " tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="EXYU VIP", EuroSport 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/593
 
-#EXTINF:-1 tvg-id="Cinemax 1" tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="FILMSKI", Cinemax 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2315
+#EXTINF:-1 tvg-id="Fight Channel " tvg-logo="https://static.epg.best/rs/FightChannel.rs.png" group-title="EXYU VIP", Fight Channel 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82740
 
-#EXTINF:-1 tvg-id="Cinemax 1 HD VIP" tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="FILMSKI", Cinemax 1 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10912
+#EXTINF:-1 tvg-id="FightBox FHD VIP " tvg-logo="https://static.epg.best/pl/FightBox.pl.png" group-title="EXYU VIP", FightBox FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10901
 
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="FILMSKI", Cinemax 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2314
+#EXTINF:-1 tvg-id="Film Klub " tvg-logo="https://fivestarsfilms.rs/wp-content/uploads/2018/03/Film-Klub-logo-01.png" group-title="EXYU VIP", Film Klub 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9066
 
-#EXTINF:-1 tvg-id="Cinemax 2 HD VIP" tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="FILMSKI", Cinemax 2 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10913
+#EXTINF:-1 tvg-id="Film Klub Extra " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Film_Klub_Extra.png" group-title="EXYU VIP", Film Klub Extra 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9065
 
-#EXTINF:-1 tvg-id="Cinestar Action and Thriller" tvg-logo="https://static.epg.best/rs/CineStarAction.rs.png" group-title="FILMSKI", Cinestar Action SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4028
+#EXTINF:-1 tvg-id="FILMBOX ARTHOUSE " tvg-logo="noimage.png" group-title="EXYU VIP", FILMBOX ARTHOUSE 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127836
 
-#EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-logo="https://static.epg.best/hr/CinestarFantasy.hr.png" group-title="FILMSKI", Cinestar Fantasy
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/80954
+#EXTINF:-1 tvg-id="FilmBox Extra FHD VIP " tvg-logo="https://static.epg.best/hr/FilmBoxExtra.hr.png" group-title="EXYU VIP", FilmBox Extra FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13967
 
-#EXTINF:-1 tvg-id="Cinestar Premiere 1" tvg-logo="https://static.epg.best/rs/CineStarPremiere1.rs.png" group-title="FILMSKI", Cinestar Premiere 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2313
+#EXTINF:-1 tvg-id="Filmbox Extra SRB " tvg-logo="https://static.epg.best/hr/FilmBoxExtra.hr.png" group-title="EXYU VIP", Filmbox Extra SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4027
 
-#EXTINF:-1 tvg-id="Cinestar Premiere 2" tvg-logo="https://static.epg.best/rs/CineStarPremiere2.rs.png" group-title="FILMSKI", Cinestar Premiere 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2312
+#EXTINF:-1 tvg-id="Filmbox Plus SRB " tvg-logo="https://static.epg.best/hr/FilmBoxPlus.hr.png" group-title="EXYU VIP", Filmbox Plus SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4026
 
-#EXTINF:-1 tvg-id="CINESTAR TV 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="FILMSKI", CINESTAR TV 2 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/83207
+#EXTINF:-1 tvg-id="FILMBOX PREMIUM " tvg-logo="noimage.png" group-title="EXYU VIP", FILMBOX PREMIUM 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127838
 
-#EXTINF:-1 tvg-id="CINESTAR TV COMEDY FHD" tvg-logo="noimage.png" group-title="FILMSKI", CINESTAR TV COMEDY FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127855
+#EXTINF:-1 tvg-id="FILMBOX STARS " tvg-logo="noimage.png" group-title="EXYU VIP", FILMBOX STARS 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127837
 
-#EXTINF:-1 tvg-id="Cinestar TV" tvg-logo="https://static.epg.best/hr/CinestarTv.hr.png" group-title="FILMSKI", Cinestar TV SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4029
+#EXTINF:-1 tvg-id="Folk TV Bujrum " tvg-logo="https://pbs.twimg.com/profile_images/745842877/logotv-01_400x400.png" group-title="EXYU VIP", Folk TV Bujrum 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9023
 
-#EXTINF:-1 tvg-id="CROMAX Select 1 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 1 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31910
+#EXTINF:-1 tvg-id="Glas Drine BH " tvg-logo="https://www.radio.net/images/broadcasts/24/58/4940/4/c175.png" group-title="EXYU VIP", Glas Drine BH 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4016
 
-#EXTINF:-1 tvg-id="CROMAX Select 2 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 2 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31909
+#EXTINF:-1 tvg-id="Grand Narodna TV HD " tvg-logo="noimage.png" group-title="EXYU VIP", Grand Narodna TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/123111
 
-#EXTINF:-1 tvg-id="CROMAX Select 3 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 3 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31908
+#EXTINF:-1 tvg-id="Grand TV 1 " tvg-logo="https://static.epg.best/rs/Grand.rs.png" group-title="EXYU VIP", Grand TV 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/191
 
-#EXTINF:-1 tvg-id="CROMAX Select 4 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 4 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31907
+#EXTINF:-1 tvg-id="Grand TV 2 " tvg-logo="https://static.epg.best/rs/Grand2.rs.png" group-title="EXYU VIP", Grand TV 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/196
 
-#EXTINF:-1 tvg-id="CROMAX Select 5 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 5 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31906
+#EXTINF:-1 tvg-id="Hayatovci " tvg-logo="https://static.epg.best/ba/Hayatovci.ba.png" group-title="EXYU VIP", Hayatovci 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2329
 
-#EXTINF:-1 tvg-id="CROMAX Select 6 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 6 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31905
+#EXTINF:-1 tvg-id="HBO1 " tvg-logo="https://static.epg.best/hr/HBO.hr.png" group-title="EXYU VIP", HBO 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4573
 
-#EXTINF:-1 tvg-id="CROMAX Select 7 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 7 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31904
+#EXTINF:-1 tvg-id="HBO2 " tvg-logo="noimage.png" group-title="EXYU VIP", HBO 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4572
 
-#EXTINF:-1 tvg-id="CROMAX Select 8 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 8 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31903
+#EXTINF:-1 tvg-id="HBO 3 HD VIP " tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="EXYU VIP", HBO 3 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10914
 
-#EXTINF:-1 tvg-id="CROMAX Select 9 HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 9 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31902
+#EXTINF:-1 tvg-id="HBO3 " tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="EXYU VIP", HBO 3 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4571
 
-#EXTINF:-1 tvg-id="CROMAX Select Premium HD" tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select Premium HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/31898
+#EXTINF:-1 tvg-id="HBO MAX FHD " tvg-logo="noimage.png" group-title="EXYU VIP", HBO MAX FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127856
 
-#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="https://static.epg.best/hr/EpicDrama.hr.png" group-title="FILMSKI", Epic Drama HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/78228
+#EXTINF:-1 tvg-id="History 2 SRB " tvg-logo="https://static.epg.best/rs/HistoryChannel2.rs.png" group-title="EXYU VIP", History 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/199
 
-#EXTINF:-1 tvg-id="EURO CINEMA 1 HD" tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 1 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127835
+#EXTINF:-1 tvg-id="History Channel " tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="EXYU VIP", History Channel 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2323
 
-#EXTINF:-1 tvg-id="EURO CINEMA 2 HD" tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 2 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127834
+#EXTINF:-1 tvg-id="HNTV " tvg-logo="https://static.epg.best/hr/Hntv.hr.png" group-title="EXYU VIP", HNTV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/200
 
-#EXTINF:-1 tvg-id="EURO CINEMA 3 HD" tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 3 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127833
+#EXTINF:-1 tvg-id="Hype TV 1 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", Hype TV 1 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/128680
 
-#EXTINF:-1 tvg-id="EURO CINEMA 4 HD" tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 4 HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127832
+#EXTINF:-1 tvg-id="Hype TV 2 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", Hype TV 2 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/128681
 
-#EXTINF:-1 tvg-id="Film Klub" tvg-logo="https://fivestarsfilms.rs/wp-content/uploads/2018/03/Film-Klub-logo-01.png" group-title="FILMSKI", Film Klub
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9066
+#EXTINF:-1 tvg-id="ID Xtra FHD VIP " tvg-logo="https://static.epg.best/si/DiscoveryIDXtra.si.png" group-title="EXYU VIP", ID Xtra FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10906
 
-#EXTINF:-1 tvg-id="Film Klub Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Film_Klub_Extra.png" group-title="FILMSKI", Film Klub Extra
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9065
+#EXTINF:-1 tvg-id="ID Xtra " tvg-logo="https://static.epg.best/rs/DiscoveryIDXtra.rs.png" group-title="EXYU VIP", ID Xtra SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4013
 
-#EXTINF:-1 tvg-id="FILMBOX ARTHOUSE" tvg-logo="noimage.png" group-title="FILMSKI", FILMBOX ARTHOUSE
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127836
+#EXTINF:-1 tvg-id="IDJ Kids HD " tvg-logo="noimage.png" group-title="EXYU VIP", IDJ Kids HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/104751
 
-#EXTINF:-1 tvg-id="FilmBox Extra FHD VIP" tvg-logo="https://static.epg.best/hr/FilmBoxExtra.hr.png" group-title="FILMSKI", FilmBox Extra FHD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/13967
+#EXTINF:-1 tvg-id="IDJ TV FHD VIP " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/idj_tv_logo.png" group-title="EXYU VIP", IDJ TV FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13962
 
-#EXTINF:-1 tvg-id="Filmbox Extra SRB" tvg-logo="https://static.epg.best/hr/FilmBoxExtra.hr.png" group-title="FILMSKI", Filmbox Extra SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4027
+#EXTINF:-1 tvg-id="IDJ TV HD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/idj_tv_logo.png" group-title="EXYU VIP", IDJ TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9018
 
-#EXTINF:-1 tvg-id="Filmbox Plus SRB" tvg-logo="https://static.epg.best/hr/FilmBoxPlus.hr.png" group-title="FILMSKI", Filmbox Plus SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4026
+#EXTINF:-1 tvg-id="Izvorna TV " tvg-logo="http://m-edin-a.com/wp-content/uploads/2017/06/izvorna-tv-150x150.png" group-title="EXYU VIP", Izvorna TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24397
 
-#EXTINF:-1 tvg-id="FILMBOX PREMIUM" tvg-logo="noimage.png" group-title="FILMSKI", FILMBOX PREMIUM
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127838
+#EXTINF:-1 tvg-id="Jugoton SRB " tvg-logo="https://static.epg.best/hr/Jugoton.hr.png" group-title="EXYU VIP", Jugoton SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4012
 
-#EXTINF:-1 tvg-id="FILMBOX STARS" tvg-logo="noimage.png" group-title="FILMSKI", FILMBOX STARS
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127837
+#EXTINF:-1 tvg-id="KINO TV HD " tvg-logo="noimage.png" group-title="EXYU VIP", KINO TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127844
 
-#EXTINF:-1 tvg-id="HBO1" tvg-logo="https://static.epg.best/hr/HBO.hr.png" group-title="FILMSKI", HBO 1 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4573
+#EXTINF:-1 tvg-id="Klasik TV " tvg-logo="https://static.epg.best/hr/KlasikTv.hr.png" group-title="EXYU VIP", Klasik TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2335
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="noimage.png" group-title="FILMSKI", HBO 2 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4572
+#EXTINF:-1 tvg-id="LIBERTAS TV HD " tvg-logo="noimage.png" group-title="EXYU VIP", LIBERTAS TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127874
 
-#EXTINF:-1 tvg-id="HBO 3 HD VIP" tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="FILMSKI", HBO 3 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/10914
+#EXTINF:-1 tvg-id="Lov i ribolov " tvg-logo="https://static.epg.best/rs/LoviRibolov.rs.png" group-title="EXYU VIP", Lov i Ribolov 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2334
 
-#EXTINF:-1 tvg-id="HBO3" tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="FILMSKI", HBO 3 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4571
+#EXTINF:-1 tvg-id="Luxe TV FHD VIP " tvg-logo="http://tugapt.com/picons/luxetv.png" group-title="EXYU VIP", Luxe TV FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13963
 
-#EXTINF:-1 tvg-id="HBO MAX FHD" tvg-logo="noimage.png" group-title="FILMSKI", HBO MAX FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127856
+#EXTINF:-1 tvg-id="M1 Film " tvg-logo="https://static.epg.best/ba/M1Film.ba.png" group-title="EXYU VIP", M1 Film 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/227
 
-#EXTINF:-1 tvg-id="KINO TV HD" tvg-logo="noimage.png" group-title="FILMSKI", KINO TV HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127844
+#EXTINF:-1 tvg-id="M1 GOLD HD " tvg-logo="noimage.png" group-title="EXYU VIP", M1 GOLD HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127839
 
-#EXTINF:-1 tvg-id="Klasik TV" tvg-logo="https://static.epg.best/hr/KlasikTv.hr.png" group-title="FILMSKI", Klasik TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2335
+#EXTINF:-1 tvg-id="MARIA VISION MEDUGORJE " tvg-logo="noimage.png" group-title="EXYU VIP", MARIA VISION MEDUGORJE 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127873
 
-#EXTINF:-1 tvg-id="M1 Film" tvg-logo="https://static.epg.best/ba/M1Film.ba.png" group-title="FILMSKI", M1 Film
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/227
+#EXTINF:-1 tvg-id="MARY TV MEDUGORJE " tvg-logo="noimage.png" group-title="EXYU VIP", MARY TV MEDUGORJE 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127872
 
-#EXTINF:-1 tvg-id="Max Select 1 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 1 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12622
+#EXTINF:-1 tvg-id="Masa i Medo VIP " tvg-logo="https://static.wikia.nocookie.net/masha-and-bear/images/a/a9/Masha_and_the_Bear.png" group-title="EXYU VIP", Masa i Medo VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13961
 
-#EXTINF:-1 tvg-id="Max Select 2 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 2 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12621
+#EXTINF:-1 tvg-id="Max Select 1 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 1 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12622
 
-#EXTINF:-1 tvg-id="Max Select 3 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 3 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12620
+#EXTINF:-1 tvg-id="Max Select 2 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 2 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12621
 
-#EXTINF:-1 tvg-id="Max Select 5 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 5 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12619
+#EXTINF:-1 tvg-id="Max Select 3 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 3 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12620
 
-#EXTINF:-1 tvg-id="Max Select 6 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 6 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12618
+#EXTINF:-1 tvg-id="Max Select 5 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 5 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12619
 
-#EXTINF:-1 tvg-id="Max Select 7 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 7 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12617
+#EXTINF:-1 tvg-id="Max Select 6 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 6 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12618
 
-#EXTINF:-1 tvg-id="Max Select 8 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 8 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12616
+#EXTINF:-1 tvg-id="Max Select 7 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 7 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12617
 
-#EXTINF:-1 tvg-id="Max Select 9 HD VIP" tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 9 HD VIP
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/12615
+#EXTINF:-1 tvg-id="Max Select 8 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 8 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12616
 
-#EXTINF:-1 tvg-id="SCI FI HD" tvg-logo="noimage.png" group-title="FILMSKI", SCI FI HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127843
+#EXTINF:-1 tvg-id="Max Select 9 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="EXYU VIP", Max Select 9 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12615
 
-#EXTINF:-1 tvg-id="STAR CRIME FHD" tvg-logo="noimage.png" group-title="FILMSKI", STAR CRIME FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127852
+#EXTINF:-1 tvg-id="Max Sport 1 HD HR" tvg-logo="noimage.png" group-title="EXYU VIP", Max Sport 1 HD HR
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/108388
 
-#EXTINF:-1 tvg-id="STAR MOVIES FHD" tvg-logo="noimage.png" group-title="FILMSKI", STAR MOVIES FHD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/127851
+#EXTINF:-1 tvg-id="Max Sport 2 HD HR" tvg-logo="noimage.png" group-title="EXYU VIP", Max Sport 2 HD HR
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/108389
 
-#EXTINF:-1 tvg-id="Balkanika HD" tvg-logo="https://static.epg.best/hr/BalkanikaMusicTv.hr.png" group-title="GLAZBENI", Balkanika HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2339
+#EXTINF:-1 tvg-id="Mini Ultra TV " tvg-logo="https://static.epg.best/hr/MiniTv.hr.png" group-title="EXYU VIP", Mini Ultra TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2328
 
-#EXTINF:-1 tvg-id="BN Music" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/logo-www.bnmusic.org_logo.png" group-title="GLAZBENI", BN Music
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2343
+#EXTINF:-1 tvg-id="Minimax (SR) " tvg-logo="https://static.epg.best/rs/Minimax.rs.png" group-title="EXYU VIP", Minimax (SR) 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78196
 
-#EXTINF:-1 tvg-id="CMC Music HD" tvg-logo="https://static.epg.best/rs/CMC.rs.png" group-title="GLAZBENI", CMC Music HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2340
+#EXTINF:-1 tvg-id="Moja TV Sport HD VIP " tvg-logo="https://www.bhtelecom.ba/wp-content/uploads/2020/10/Moja_tv_logo_02.jpg" group-title="EXYU VIP", Moja TV Sport HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/67260
 
-#EXTINF:-1 tvg-id="DM Sat" tvg-logo="noimage.png" group-title="GLAZBENI", DM SAT
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/194
+#EXTINF:-1 tvg-id="Mr Bean VIP " tvg-logo="https://www.clipartmax.com/png/full/74-749810_the-animated-series-mr-bean-cartoon-png.png" group-title="EXYU VIP", Mr Bean VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10889
 
-#EXTINF:-1 tvg-id="Folk TV Bujrum" tvg-logo="https://pbs.twimg.com/profile_images/745842877/logotv-01_400x400.png" group-title="GLAZBENI", Folk TV Bujrum
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9023
+#EXTINF:-1 tvg-id="Nasa " tvg-logo="https://static.epg.best/ba/NasaTV.ba.png" group-title="EXYU VIP", Nasa 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9057
 
-#EXTINF:-1 tvg-id="Jugoton SRB" tvg-logo="https://static.epg.best/hr/Jugoton.hr.png" group-title="GLAZBENI", Jugoton SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4012
+#EXTINF:-1 tvg-id="National Geographic " tvg-logo="https://static.epg.best/hr/NationalGeographic.hr.png" group-title="EXYU VIP", Nat Geo 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/208
 
-#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="https://static.epg.best/ba/OTVValentino.ba.png" group-title="GLAZBENI", OTV Valentino
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/3836
+#EXTINF:-1 tvg-id="Nat Geo Wild " tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="EXYU VIP", Nat Geo Wild 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/209
 
-#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="http://tugapt.com/picons/sevdahtvexyu.png" group-title="GLAZBENI", Sevdah TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/5701
+#EXTINF:-1 tvg-id="Nick Jr. (SR) " tvg-logo="https://static.epg.best/hr/NickJr.hr.png" group-title="EXYU VIP", Nick Jr. (SR) 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78197
 
-#EXTINF:-1 tvg-id="Top Kanal" tvg-logo="https://static.epg.best/al/TopChannel.al.png" group-title="GLAZBENI", Top Kanal
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/24398
+#EXTINF:-1 tvg-id="Nickelodeon (SR) " tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="EXYU VIP", Nickelodeon (SR) 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78195
 
-#EXTINF:-1 tvg-id="TOP SOUND" tvg-logo="https://i1.sndcdn.com/avatars-000316166379-sk1weo-t500x500.jpg" group-title="GLAZBENI", TOP SOUND
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/9019
+#EXTINF:-1 tvg-id="Nickelodeon " tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="EXYU VIP", Nickelodeon 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2330
 
-#EXTINF:-1 tvg-id="TOXIC TV" tvg-logo="noimage.png" group-title="GLAZBENI", TOXIC TV
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/94906
+#EXTINF:-1 tvg-id="NOVA PLUS HD " tvg-logo="noimage.png" group-title="EXYU VIP", NOVA PLUS HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127881
 
-#EXTINF:-1 tvg-id="YU Planet" tvg-logo="https://apkplz.net/storage/images/com/tvplanet/tvplanetiptvbox/com.tvplanet.tvplanetiptvbox_1.png" group-title="GLAZBENI", YU Planet
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/82749
+#EXTINF:-1 tvg-id="Nova Sport HD SRB " tvg-logo="https://static.epg.best/rs/Nova.rs.png" group-title="EXYU VIP", Nova Sport HD SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79722
 
-#EXTINF:-1 tvg-id="Hayat Folk" tvg-logo="https://static.epg.best/ba/HayatFolk.ba.png" group-title="GLAZBENI", Hayat Folk
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/178
+#EXTINF:-1 tvg-id="NOVA TV CINEMA FHD " tvg-logo="noimage.png" group-title="EXYU VIP", NOVA TV CINEMA FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127883
 
-#EXTINF:-1 tvg-id="Hayat Music" tvg-logo="https://static.epg.best/ba/HayatMusic.ba.png" group-title="GLAZBENI", Hayat Music
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/198
+#EXTINF:-1 tvg-id="NOVA TV FAMILY FHD " tvg-logo="noimage.png" group-title="EXYU VIP", NOVA TV FAMILY FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127882
 
-#EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="https://static.epg.best/rs/PinkThriller.rs.png" group-title="GLAZBENI", Pink Folk 1
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2299
+#EXTINF:-1 tvg-id="OTV Valentino " tvg-logo="https://static.epg.best/ba/OTVValentino.ba.png" group-title="EXYU VIP", OTV Valentino 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/3836
 
-#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="https://static.epg.best/rs/PinkZabava.rs.png" group-title="GLAZBENI", Pink Folk 2
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2297
+#EXTINF:-1 tvg-id="PARTIZAN TV HD VIP " tvg-logo="https://www.danas.tv/wp-content/uploads/2016/10/tv-partizan-logo-isecen.png" group-title="EXYU VIP", PARTIZAN TV HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10895
 
-#EXTINF:-1 tvg-id="Pink Hits 1 SRB" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkHits_logo.png" group-title="GLAZBENI", Pink Hits 1 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4035
+#EXTINF:-1 tvg-id="Pickbox " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pickbox_logo_new.png" group-title="EXYU VIP", Pickbox 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78341
 
-#EXTINF:-1 tvg-id="Pink Music 2 SRB" tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="GLAZBENI", Pink Music 2 SRB
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/4034
+#EXTINF:-1 tvg-id="Pikaboo VIP " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="EXYU VIP", Pikaboo VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13969
 
-#EXTINF:-1 tvg-id="Pink Music" tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="GLAZBENI", Pink Music
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/2301
+#EXTINF:-1 tvg-id="PINK FASHION " tvg-logo="noimage.png" group-title="EXYU VIP", PINK FASHION 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127857
 
-#EXTINF:-1 tvg-id="X TOXIC FOLK HD" tvg-logo="noimage.png" group-title="GLAZBENI", X TOXIC FOLK HD
-http://fastopen.live:8080/lasmonteiro08/obmHnV9BJp/115100
+#EXTINF:-1 tvg-id="PINK FHD " tvg-logo="noimage.png" group-title="EXYU VIP", PINK FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127868
+
+#EXTINF:-1 tvg-id="PINK HD " tvg-logo="noimage.png" group-title="EXYU VIP", PINK HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127869
+
+#EXTINF:-1 tvg-id="PLAVA VINKOVACKA " tvg-logo="noimage.png" group-title="EXYU VIP", PLAVA VINKOVACKA 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127876
+
+#EXTINF:-1 tvg-id="Premier Sport 2 HD " tvg-logo="noimage.png" group-title="EXYU VIP", Premier Sport 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/122472
+
+#EXTINF:-1 tvg-id="RED TV (PINK 2) FHD " tvg-logo="noimage.png" group-title="EXYU VIP", RED TV (PINK 2) FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127867
+
+#EXTINF:-1 tvg-id="RTL + HD " tvg-logo="noimage.png" group-title="EXYU VIP", RTL + HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127879
+
+#EXTINF:-1 tvg-id="RTL ADRIA FHD " tvg-logo="noimage.png" group-title="EXYU VIP", RTL ADRIA FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127884
+
+#EXTINF:-1 tvg-id="RTL ADRIA HD " tvg-logo="noimage.png" group-title="EXYU VIP", RTL ADRIA HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127870
+
+#EXTINF:-1 tvg-id="RTL CROATIA WORLD " tvg-logo="noimage.png" group-title="EXYU VIP", RTL CROATIA WORLD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127880
+
+#EXTINF:-1 tvg-id="RTL Kockica " tvg-logo="https://static.epg.best/hr/RtlKockica.hr.png" group-title="EXYU VIP", RTL Kockica 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/218
+
+#EXTINF:-1 tvg-id="RTL PLAY PREMIUM FHD " tvg-logo="noimage.png" group-title="EXYU VIP", RTL PLAY PREMIUM FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127878
+
+#EXTINF:-1 tvg-id="SCI FI HD " tvg-logo="noimage.png" group-title="EXYU VIP", SCI FI HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127843
+
+#EXTINF:-1 tvg-id="Sevdah TV " tvg-logo="http://tugapt.com/picons/sevdahtvexyu.png" group-title="EXYU VIP", Sevdah TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/5701
+
+#EXTINF:-1 tvg-id="SOS " tvg-logo="https://static.epg.best/rs/SOS.rs.png" group-title="EXYU VIP", SOS Kanal SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4011
+
+#EXTINF:-1 tvg-id="Sport Klub 1 FHD VIP " tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="EXYU VIP", Sport Klub 1 FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10900
+
+#EXTINF:-1 tvg-id="Sport Klub 1 HD VIP " tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="EXYU VIP", Sport Klub 1 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13966
+
+#EXTINF:-1 tvg-id="Sport Klub 1 SRB " tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="EXYU VIP", Sport Klub 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/592
+
+#EXTINF:-1 tvg-id="Sport Klub 10 " tvg-logo="https://static.epg.best/rs/SportKlub10.rs.png" group-title="EXYU VIP", Sport Klub 10 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80962
+
+#EXTINF:-1 tvg-id="Sport Klub 2 FHD SRB/HRV/SLO VIP " tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="EXYU VIP", Sport Klub 2 FHD SRB/HRV/SLO VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10884
+
+#EXTINF:-1 tvg-id="Sport Klub 2 HD VIP " tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="EXYU VIP", Sport Klub 2 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10896
+
+#EXTINF:-1 tvg-id="Sport Klub 2 SRB " tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="EXYU VIP", Sport Klub 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/591
+
+#EXTINF:-1 tvg-id="Sport Klub 3 FHD SRB/HRV/SLO VIP " tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="EXYU VIP", Sport Klub 3 FHD SRB/HRV/SLO VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10883
+
+#EXTINF:-1 tvg-id="Sport Klub 3 HD VIP " tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="EXYU VIP", Sport Klub 3 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10897
+
+#EXTINF:-1 tvg-id="Sport Klub 3 SRB " tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="EXYU VIP", Sport Klub 3 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/590
+
+#EXTINF:-1 tvg-id="SportKlub 4 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_4.png" group-title="EXYU VIP", Sport Klub 4 SR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/1173
+
+#EXTINF:-1 tvg-id="SportKlub 5 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_5.png" group-title="EXYU VIP", Sport Klub 5 SR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/1172
+
+#EXTINF:-1 tvg-id="SportKlub 6 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_6.png" group-title="EXYU VIP", Sport Klub 6 SR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/1171
+
+#EXTINF:-1 tvg-id="Sport Klub 7 " tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="EXYU VIP", Sport Klub 7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80959
+
+#EXTINF:-1 tvg-id="Sport Klub 8 " tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="EXYU VIP", Sport Klub 8 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80960
+
+#EXTINF:-1 tvg-id="Sport Klub 9 " tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="EXYU VIP", Sport Klub 9 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80961
+
+#EXTINF:-1 tvg-id="SportKlub 1 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="EXYU VIP", Sport Klub HD 1 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2279
+
+#EXTINF:-1 tvg-id="SportKlub 2 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="EXYU VIP", Sport Klub HD 2 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2278
+
+#EXTINF:-1 tvg-id="SportKlub 3 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="EXYU VIP", Sport Klub HD 3 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2277
+
+#EXTINF:-1 tvg-id="SportKlub 1 " tvg-logo="noimage.png" group-title="EXYU VIP", Sport Klub HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/104838
+
+#EXTINF:-1 tvg-id="STAR CRIME FHD " tvg-logo="noimage.png" group-title="EXYU VIP", STAR CRIME FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127852
+
+#EXTINF:-1 tvg-id="STAR FHD " tvg-logo="noimage.png" group-title="EXYU VIP", STAR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127854
+
+#EXTINF:-1 tvg-id="STAR LIFE FHD " tvg-logo="noimage.png" group-title="EXYU VIP", STAR LIFE FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127853
+
+#EXTINF:-1 tvg-id="STAR MOVIES FHD " tvg-logo="noimage.png" group-title="EXYU VIP", STAR MOVIES FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127851
+
+#EXTINF:-1 tvg-id="STAR TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Star_Television_logo.svg" group-title="EXYU VIP", STAR TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78229
+
+#EXTINF:-1 tvg-id="STV SLAVONIJA " tvg-logo="noimage.png" group-title="EXYU VIP", STV SLAVONIJA 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127877
+
+#EXTINF:-1 tvg-id="Super Star TV HD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SuperstarTV_logo.png" group-title="EXYU VIP", Super Star TV HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/34315
+
+#EXTINF:-1 tvg-id="SUPERSTAR TV 1 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", SUPERSTAR TV 1 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127850
+
+#EXTINF:-1 tvg-id="SUPERSTAR TV 2 FHD " tvg-logo="noimage.png" group-title="EXYU VIP", SUPERSTAR TV 2 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127849
+
+#EXTINF:-1 tvg-id="SUPERSTAR TV 3 HD " tvg-logo="noimage.png" group-title="EXYU VIP", SUPERSTAR TV 3 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127848
+
+#EXTINF:-1 tvg-id="SuperStar TV RS VIP " tvg-logo="https://superstartv.rs/wp-content/uploads/2021/07/SUPERSTARTV-01-300x77.png" group-title="EXYU VIP", SuperStar TV RS VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10907
+
+#EXTINF:-1 tvg-id="TDC DIZI HD " tvg-logo="noimage.png" group-title="EXYU VIP", TDC DIZI HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127845
+
+#EXTINF:-1 tvg-id="TLC VIP " tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="EXYU VIP", TLC VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13970
+
+#EXTINF:-1 tvg-id="Tom And Jerry HD " tvg-logo="https://logodix.com/logo/330403.png" group-title="EXYU VIP", Tom And Jerry HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10559
+
+#EXTINF:-1 tvg-id="Top Kanal " tvg-logo="https://static.epg.best/al/TopChannel.al.png" group-title="EXYU VIP", Top Kanal 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24398
+
+#EXTINF:-1 tvg-id="TOP SOUND " tvg-logo="https://i1.sndcdn.com/avatars-000316166379-sk1weo-t500x500.jpg" group-title="EXYU VIP", TOP SOUND 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9019
+
+#EXTINF:-1 tvg-id="TOXIC TV " tvg-logo="noimage.png" group-title="EXYU VIP", TOXIC TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/94906
+
+#EXTINF:-1 tvg-id="Trace Sport Stars FHD VIP " tvg-logo="https://static.epg.best/gb/TraceSportStars.uk.png" group-title="EXYU VIP", Trace Sport Stars FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10911
+
+#EXTINF:-1 tvg-id="TV 1000 " tvg-logo="noimage.png" group-title="EXYU VIP", TV 1000 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127846
+
+#EXTINF:-1 tvg-id="TV Roma HD " tvg-logo="http://oklivetv.com/wp-content/uploads/media/c9269b351e0a98e3a33305945eda7777.jpeg" group-title="EXYU VIP", TV Roma HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4188
+
+#EXTINF:-1 tvg-id="TV 1000 " tvg-logo="https://static.epg.best/hr/ViasatTv1000.hr.png" group-title="EXYU VIP", TV1000 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4025
+
+#EXTINF:-1 tvg-id="Vesti (PINK 3) FHD " tvg-logo="noimage.png" group-title="EXYU VIP", Vesti (PINK 3) FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127866
+
+#EXTINF:-1 tvg-id="Viasat Explore " tvg-logo="https://static.epg.best/hr/ViasatExplore.hr.png" group-title="EXYU VIP", Viasat Explorer 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/224
+
+#EXTINF:-1 tvg-id="Viasat History " tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="EXYU VIP", Viasat History 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/225
+
+#EXTINF:-1 tvg-id="Viasat Nature / History FHD VIP " tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="EXYU VIP", Viasat Nature / History FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10910
+
+#EXTINF:-1 tvg-id="Viasat Nature " tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="EXYU VIP", Viasat Nature 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/226
+
+#EXTINF:-1 tvg-id="VTV " tvg-logo="noimage.png" group-title="EXYU VIP", VTV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127875
+
+#EXTINF:-1 tvg-id="YU Planet " tvg-logo="https://apkplz.net/storage/images/com/tvplanet/tvplanetiptvbox/com.tvplanet.tvplanetiptvbox_1.png" group-title="EXYU VIP", YU Planet 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82749
+
+#EXTINF:-1 tvg-id="Max Sport 1 HD HR" tvg-logo="noimage.png" group-title="SPORT", Max Sport 1 HD HR
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/108388
+
+#EXTINF:-1 tvg-id="Max Sport 2 HD HR" tvg-logo="noimage.png" group-title="SPORT", Max Sport 2 HD HR
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/108389
+
+#EXTINF:-1 tvg-id="Arena Premium 1 HR FHD " tvg-logo="noimage.png" group-title="SPORT", Arena Premium 1 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/126173
+
+#EXTINF:-1 tvg-id="Arena Premium 2 HR FHD " tvg-logo="noimage.png" group-title="SPORT", Arena Premium 2 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/126174
+
+#EXTINF:-1 tvg-id="Arena Premium 3 HR FHD " tvg-logo="noimage.png" group-title="SPORT", Arena Premium 3 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/126175
+
+#EXTINF:-1 tvg-id="Sport Klub 1 SI" tvg-logo="http://tugapt.com/picons/sportklub1.png" group-title="SPORT", Sport Klub 1 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13991
+
+#EXTINF:-1 tvg-id="Sport Klub 2 SI" tvg-logo="http://tugapt.com/picons/sportklub2.png" group-title="SPORT", Sport Klub 2 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13992
+
+#EXTINF:-1 tvg-id="Sport Klub 3 SI" tvg-logo="http://tugapt.com/picons/sportklub3.png" group-title="SPORT", Sport Klub 3 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13993
+
+#EXTINF:-1 tvg-id="Sport Klub 4 SI" tvg-logo="http://tugapt.com/picons/sportklub4.png" group-title="SPORT", Sport Klub 4 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13994
+
+#EXTINF:-1 tvg-id="Sport Klub Golf SI" tvg-logo="http://tugapt.com/picons/sportklubgolf.png" group-title="SPORT", Sport Klub Golf FHD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13995
+
+#EXTINF:-1 tvg-id="Sport TV 1 SI" tvg-logo="http://tugapt.com/picons/sporttv1si.png" group-title="SPORT", Šport TV 1 HD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13988
+
+#EXTINF:-1 tvg-id="Sport TV 2 SI" tvg-logo="http://tugapt.com/picons/sporttv2si.png" group-title="SPORT", Šport TV 2 HD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13989
+
+#EXTINF:-1 tvg-id="Sport TV 3 SI" tvg-logo="http://tugapt.com/picons/sporttv3si.png" group-title="SPORT", Šport TV 3 HD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13990
+
+#EXTINF:-1 tvg-id="Sport Klub 1 SI" tvg-logo="http://tugapt.com/picons/sportklub1.png" group-title="SPORT", Sport Klub 1 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13991
+
+#EXTINF:-1 tvg-id="Sport Klub 2 SI" tvg-logo="http://tugapt.com/picons/sportklub2.png" group-title="SPORT", Sport Klub 2 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13992
+
+#EXTINF:-1 tvg-id="Sport Klub 3 SI" tvg-logo="http://tugapt.com/picons/sportklub3.png" group-title="SPORT", Sport Klub 3 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13993
+
+#EXTINF:-1 tvg-id="Sport Klub 4 SI" tvg-logo="http://tugapt.com/picons/sportklub4.png" group-title="SPORT", Sport Klub 4 SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13994
+
+#EXTINF:-1 tvg-id="Sport Klub Golf SI" tvg-logo="http://tugapt.com/picons/sportklubgolf.png" group-title="SPORT", Sport Klub Golf FHD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13995
+
+#EXTINF:-1 tvg-id="Sport TV 1 SI" tvg-logo="http://tugapt.com/picons/sporttv1si.png" group-title="SPORT", Šport TV 1 HD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13988
+
+#EXTINF:-1 tvg-id="Sport TV 2 SI" tvg-logo="http://tugapt.com/picons/sporttv2si.png" group-title="SPORT", Šport TV 2 HD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13989
+
+#EXTINF:-1 tvg-id="Sport TV 3 SI" tvg-logo="http://tugapt.com/picons/sporttv3si.png" group-title="SPORT", Šport TV 3 HD SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13990
+
+#EXTINF:-1 tvg-id="Arena Premium 1 SR FHD " tvg-logo="https://static.epg.best/rs/ArenaPremium1.rs.png" group-title="SPORT", Arena Premium 1 SR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/103221
+
+#EXTINF:-1 tvg-id="Arena Premium 2 SR FHD " tvg-logo="https://static.epg.best/rs/ArenaPremium2.rs.png" group-title="SPORT", Arena Premium 2 SR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/103222
+
+#EXTINF:-1 tvg-id="Arena Premium 3 SR FHD " tvg-logo="https://static.epg.best/rs/ArenaPremium3.rs.png" group-title="SPORT", Arena Premium 3 SR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/103223
+
+#EXTINF:-1 tvg-id="Arena Fight FHD " tvg-logo="noimage.png" group-title="SPORT", Arena Fight FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/110122
+
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="SPORT", Arena Sport 1 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/589
+
+#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium " tvg-logo="noimage.png" group-title="SPORT", Arena Sport 1 SR Premium 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127973
+
+#EXTINF:-1 tvg-id="Arena Sport 1 SR Premium HD " tvg-logo="noimage.png" group-title="SPORT", Arena Sport 1 SR Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127974
+
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="SPORT", Arena Sport 1 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2284
+
+#EXTINF:-1 tvg-id="Arena Sport 1 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport1.rs.png" group-title="SPORT", Arena Sport 1 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79821
+
+#EXTINF:-1 tvg-id="ARENA SPORT 10 HR FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORT", ARENA SPORT 10 HR FHD
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101754
+
+#EXTINF:-1 tvg-id="Arena Sport 1x2 HD " tvg-logo="noimage.png" group-title="SPORT", Arena Sport 1x2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127975
+
+#EXTINF:-1 tvg-id="Arena Sport 2 " tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="SPORT", Arena Sport 2 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/588
+
+#EXTINF:-1 tvg-id="Arena Sport 2 SR Premium HD " tvg-logo="noimage.png" group-title="SPORT", Arena Sport 2 SR Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127972
+
+#EXTINF:-1 tvg-id="Arena Sport 2 " tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="SPORT", Arena Sport 2 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2283
+
+#EXTINF:-1 tvg-id="Arena Sport 2 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport2.rs.png" group-title="SPORT", Arena Sport 2 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79822
+
+#EXTINF:-1 tvg-id="Arena Sport 3 " tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="SPORT", Arena Sport 3 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/587
+
+#EXTINF:-1 tvg-id="Arena Sport 3 SR Premium HD " tvg-logo="noimage.png" group-title="SPORT", Arena Sport 3 SR Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127971
+
+#EXTINF:-1 tvg-id="Arena Sport 3 " tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="SPORT", Arena Sport 3 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2282
+
+#EXTINF:-1 tvg-id="Arena Sport 3 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport3.rs.png" group-title="SPORT", Arena Sport 3 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79823
+
+#EXTINF:-1 tvg-id="Arena Sport 4 " tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="SPORT", Arena Sport 4 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/586
+
+#EXTINF:-1 tvg-id="Arena Sport 4 " tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="SPORT", Arena Sport 4 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2281
+
+#EXTINF:-1 tvg-id="Arena Sport 4 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport4.rs.png" group-title="SPORT", Arena Sport 4 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79824
+
+#EXTINF:-1 tvg-id="Arena Sport 5 " tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="SPORT", Arena Sport 5 HR HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/585
+
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-logo="https://static.epg.best/hr/ArenaSport5.hr.png" group-title="SPORT", Arena Sport 5 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2280
+
+#EXTINF:-1 tvg-id="Arena Sport 5 Srb FHD " tvg-logo="https://static.epg.best/rs/Arenasport5.rs.png" group-title="SPORT", Arena Sport 5 Srb FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/79825
+
+#EXTINF:-1 tvg-id="Arena Sport 6 HR " tvg-logo="https://static.epg.best/hr/ArenaSport6.hr.png" group-title="SPORT", Arena Sport 6 HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80963
+
+#EXTINF:-1 tvg-id="Arena Sport 5 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORT", ARENA SPORT 7 (HR) FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101751
+
+#EXTINF:-1 tvg-id="ARENA SPORT 8 HR FHD " tvg-logo="https://static.epg.best/rs/Arenasport8.rs.png" group-title="SPORT", ARENA SPORT 8 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101752
+
+#EXTINF:-1 tvg-id="ARENA SPORT 9 HR FHD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORT", ARENA SPORT 9 HR FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/101753
+
+#EXTINF:-1 tvg-id="Fight Channel " tvg-logo="https://static.epg.best/rs/FightChannel.rs.png" group-title="SPORT", Fight Channel 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82740
+
+#EXTINF:-1 tvg-id="FightBox FHD VIP " tvg-logo="https://static.epg.best/pl/FightBox.pl.png" group-title="SPORT", FightBox FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10901
+
+#EXTINF:-1 tvg-id="HNTV " tvg-logo="https://static.epg.best/hr/Hntv.hr.png" group-title="SPORT", HNTV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/200
+
+#EXTINF:-1 tvg-id="Moja TV Sport HD VIP " tvg-logo="https://www.bhtelecom.ba/wp-content/uploads/2020/10/Moja_tv_logo_02.jpg" group-title="SPORT", Moja TV Sport HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/67260
+
+#EXTINF:-1 tvg-id="Sport Klub 1 FHD VIP " tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORT", Sport Klub 1 FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10900
+
+#EXTINF:-1 tvg-id="Sport Klub 1 HD VIP " tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORT", Sport Klub 1 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13966
+
+#EXTINF:-1 tvg-id="Sport Klub 1 SRB " tvg-logo="https://static.epg.best/hr/SportKlub1.hr.png" group-title="SPORT", Sport Klub 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/592
+
+#EXTINF:-1 tvg-id="Sport Klub 10 " tvg-logo="https://static.epg.best/rs/SportKlub10.rs.png" group-title="SPORT", Sport Klub 10 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80962
+
+#EXTINF:-1 tvg-id="Sport Klub 2 FHD SRB/HRV/SLO VIP " tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORT", Sport Klub 2 FHD SRB/HRV/SLO VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10884
+
+#EXTINF:-1 tvg-id="Sport Klub 2 HD VIP " tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORT", Sport Klub 2 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10896
+
+#EXTINF:-1 tvg-id="Sport Klub 2 SRB " tvg-logo="https://static.epg.best/hr/SportKlub2.hr.png" group-title="SPORT", Sport Klub 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/591
+
+#EXTINF:-1 tvg-id="Sport Klub 3 FHD SRB/HRV/SLO VIP " tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORT", Sport Klub 3 FHD SRB/HRV/SLO VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10883
+
+#EXTINF:-1 tvg-id="Sport Klub 3 HD VIP " tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORT", Sport Klub 3 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10897
+
+#EXTINF:-1 tvg-id="Sport Klub 3 SRB " tvg-logo="https://static.epg.best/hr/SportKlub3.hr.png" group-title="SPORT", Sport Klub 3 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/590
+
+#EXTINF:-1 tvg-id="SportKlub 4 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_4.png" group-title="SPORT", Sport Klub 4 SR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/1173
+
+#EXTINF:-1 tvg-id="SportKlub 5 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_5.png" group-title="SPORT", Sport Klub 5 SR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/1172
+
+#EXTINF:-1 tvg-id="SportKlub 6 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_6.png" group-title="SPORT", Sport Klub 6 SR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/1171
+
+#EXTINF:-1 tvg-id="Sport Klub 7 " tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORT", Sport Klub 7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80959
+
+#EXTINF:-1 tvg-id="Sport Klub 8 " tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORT", Sport Klub 8 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80960
+
+#EXTINF:-1 tvg-id="Sport Klub 9 " tvg-logo="https://static.epg.best/rs/SportKlub9.rs.png" group-title="SPORT", Sport Klub 9 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80961
+
+#EXTINF:-1 tvg-id="SportKlub 1 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORT", Sport Klub HD 1 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2279
+
+#EXTINF:-1 tvg-id="SportKlub 2 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORT", Sport Klub HD 2 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2278
+
+#EXTINF:-1 tvg-id="SportKlub 3 " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORT", Sport Klub HD 3 Srb 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2277
+
+#EXTINF:-1 tvg-id="SportKlub 1 " tvg-logo="noimage.png" group-title="SPORT", Sport Klub HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/104838
+
+#EXTINF:-1 tvg-id="Lov i ribolov " tvg-logo="https://static.epg.best/rs/LoviRibolov.rs.png" group-title="SPORT", Lov i Ribolov 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2334
+
+#EXTINF:-1 tvg-id="Baby TV " tvg-logo="https://static.epg.best/rs/BabyTV.rs.png" group-title="DJECA", Baby TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2327
+
+#EXTINF:-1 tvg-id="Hayatovci " tvg-logo="https://static.epg.best/ba/Hayatovci.ba.png" group-title="DJECA", Hayatovci 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2329
+
+#EXTINF:-1 tvg-id="Masa i Medo VIP " tvg-logo="https://static.wikia.nocookie.net/masha-and-bear/images/a/a9/Masha_and_the_Bear.png" group-title="DJECA", Masa i Medo VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13961
+
+#EXTINF:-1 tvg-id="Mini Ultra TV " tvg-logo="https://static.epg.best/hr/MiniTv.hr.png" group-title="DJECA", Mini Ultra TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2328
+
+#EXTINF:-1 tvg-id="Minimax (SR) " tvg-logo="https://static.epg.best/rs/Minimax.rs.png" group-title="DJECA", Minimax (SR) 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78196
+
+#EXTINF:-1 tvg-id="Mr Bean VIP " tvg-logo="https://www.clipartmax.com/png/full/74-749810_the-animated-series-mr-bean-cartoon-png.png" group-title="DJECA", Mr Bean VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10889
+
+#EXTINF:-1 tvg-id="Nick Jr. (SR) " tvg-logo="https://static.epg.best/hr/NickJr.hr.png" group-title="DJECA", Nick Jr. (SR) 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78197
+
+#EXTINF:-1 tvg-id="Nickelodeon (SR) " tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJECA", Nickelodeon (SR) 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78195
+
+#EXTINF:-1 tvg-id="Nickelodeon " tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="DJECA", Nickelodeon 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2330
+
+#EXTINF:-1 tvg-id="Pikaboo VIP " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="DJECA", Pikaboo VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13969
+
+#EXTINF:-1 tvg-id="Tom And Jerry HD " tvg-logo="https://logodix.com/logo/330403.png" group-title="DJECA", Tom And Jerry HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10559
+
+#EXTINF:-1 tvg-id="IDJ Kids HD " tvg-logo="noimage.png" group-title="DJECA", IDJ Kids HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/104751
+
+#EXTINF:-1 tvg-id="RTL Kockica " tvg-logo="https://static.epg.best/hr/RtlKockica.hr.png" group-title="DJECA", RTL Kockica 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/218
+
+#EXTINF:-1 tvg-id="Classic Looney Tunes VIP " tvg-logo="https://logodix.com/logo/1128780.jpg" group-title="DJECA", Classic Looney Tunes VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10891
+
+#EXTINF:-1 tvg-id="24 Kitchen " tvg-logo="https://static.epg.best/pt/24Kitchen.pt.png" group-title="DOKUMENTARNI", 24 Kitchen 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/189
+
+#EXTINF:-1 tvg-id="Animal Planet " tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="DOKUMENTARNI", Animal Planet 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/190
+
+#EXTINF:-1 tvg-id="Docu Box SRB " tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKUMENTARNI", Docu Box SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4569
+
+#EXTINF:-1 tvg-id="DocuBox FHD VIP " tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKUMENTARNI", DocuBox FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13965
+
+#EXTINF:-1 tvg-id="E! FHD VIP " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKUMENTARNI", E! FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13964
+
+#EXTINF:-1 tvg-id="E " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKUMENTARNI", E! SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4022
+
+#EXTINF:-1 tvg-id="History 2 SRB " tvg-logo="https://static.epg.best/rs/HistoryChannel2.rs.png" group-title="DOKUMENTARNI", History 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/199
+
+#EXTINF:-1 tvg-id="History Channel " tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="DOKUMENTARNI", History Channel 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2323
+
+#EXTINF:-1 tvg-id="ID Xtra FHD VIP " tvg-logo="https://static.epg.best/si/DiscoveryIDXtra.si.png" group-title="DOKUMENTARNI", ID Xtra FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10906
+
+#EXTINF:-1 tvg-id="ID Xtra " tvg-logo="https://static.epg.best/rs/DiscoveryIDXtra.rs.png" group-title="DOKUMENTARNI", ID Xtra SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4013
+
+#EXTINF:-1 tvg-id="National Geographic " tvg-logo="https://static.epg.best/hr/NationalGeographic.hr.png" group-title="DOKUMENTARNI", Nat Geo 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/208
+
+#EXTINF:-1 tvg-id="Nat Geo Wild " tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="DOKUMENTARNI", Nat Geo Wild 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/209
+
+#EXTINF:-1 tvg-id="TLC VIP " tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="DOKUMENTARNI", TLC VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13970
+
+#EXTINF:-1 tvg-id="Viasat Explore " tvg-logo="https://static.epg.best/hr/ViasatExplore.hr.png" group-title="DOKUMENTARNI", Viasat Explorer 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/224
+
+#EXTINF:-1 tvg-id="Viasat History " tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="DOKUMENTARNI", Viasat History 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/225
+
+#EXTINF:-1 tvg-id="Viasat Nature / History FHD VIP " tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="DOKUMENTARNI", Viasat Nature / History FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10910
+
+#EXTINF:-1 tvg-id="Viasat Nature " tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="DOKUMENTARNI", Viasat Nature 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/226
+
+#EXTINF:-1 tvg-id="Discovery Channel SI" tvg-logo="http://tugapt.com/picons/discoverychannel.png" group-title="DOKUMENTARNI", Discovery Channel SI
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/14231
+
+#EXTINF:-1 tvg-id="Discovery ID " tvg-logo="https://static.epg.best/ro/DiscoveryID.ro.png" group-title="DOKUMENTARNI", Discovery ID 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2324
+
+#EXTINF:-1 tvg-id="Discovery Science " tvg-logo="noimage.png" group-title="DOKUMENTARNI", Discovery Science SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4014
+
+#EXTINF:-1 tvg-id="Discovery Turbo Xtra FHD VIP " tvg-logo="https://static.epg.best/hu/DiscoveryTurboXtra.hu.png" group-title="DOKUMENTARNI", Discovery Turbo Xtra FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10904
+
+#EXTINF:-1 tvg-id="Docu Box SRB " tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKUMENTARNI", Docu Box SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4569
+
+#EXTINF:-1 tvg-id="DocuBox FHD VIP " tvg-logo="https://static.epg.best/pl/DocuBox.pl.png" group-title="DOKUMENTARNI", DocuBox FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13965
+
+#EXTINF:-1 tvg-id="E! FHD VIP " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKUMENTARNI", E! FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13964
+
+#EXTINF:-1 tvg-id="E " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKUMENTARNI", E! SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4022
+
+#EXTINF:-1 tvg-id="Entertainment + " tvg-logo="https://static.epg.best/rs/EEntertainment.rs.png" group-title="DOKUMENTARNI", Entertainment + 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2336
+
+#EXTINF:-1 tvg-id="Cinemania " tvg-logo="https://static.epg.best/rs/Cinemania.rs.png" group-title="FILMSKI", Cinemania 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9036
+
+#EXTINF:-1 tvg-id="Cinemax 1 " tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="FILMSKI", Cinemax 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2315
+
+#EXTINF:-1 tvg-id="Cinemax 1 HD VIP " tvg-logo="https://static.epg.best/hr/Cinemax.hr.png" group-title="FILMSKI", Cinemax 1 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10912
+
+#EXTINF:-1 tvg-id="Cinemax 2 " tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="FILMSKI", Cinemax 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2314
+
+#EXTINF:-1 tvg-id="Cinemax 2 HD VIP " tvg-logo="https://static.epg.best/hr/Cinemax2.hr.png" group-title="FILMSKI", Cinemax 2 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10913
+
+#EXTINF:-1 tvg-id="Cinestar Action and Thriller " tvg-logo="https://static.epg.best/rs/CineStarAction.rs.png" group-title="FILMSKI", Cinestar Action SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4028
+
+#EXTINF:-1 tvg-id="Cinestar Fantasy " tvg-logo="https://static.epg.best/hr/CinestarFantasy.hr.png" group-title="FILMSKI", Cinestar Fantasy 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/80954
+
+#EXTINF:-1 tvg-id="Cinestar Premiere 1 " tvg-logo="https://static.epg.best/rs/CineStarPremiere1.rs.png" group-title="FILMSKI", Cinestar Premiere 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2313
+
+#EXTINF:-1 tvg-id="Cinestar Premiere 2 " tvg-logo="https://static.epg.best/rs/CineStarPremiere2.rs.png" group-title="FILMSKI", Cinestar Premiere 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2312
+
+#EXTINF:-1 tvg-id="CINESTAR TV 2 HD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="FILMSKI", CINESTAR TV 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/83207
+
+#EXTINF:-1 tvg-id="CINESTAR TV COMEDY FHD " tvg-logo="noimage.png" group-title="FILMSKI", CINESTAR TV COMEDY FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127855
+
+#EXTINF:-1 tvg-id="Cinestar TV " tvg-logo="https://static.epg.best/hr/CinestarTv.hr.png" group-title="FILMSKI", Cinestar TV SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4029
+
+#EXTINF:-1 tvg-id="CROMAX Select 1 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 1 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31910
+
+#EXTINF:-1 tvg-id="CROMAX Select 2 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31909
+
+#EXTINF:-1 tvg-id="CROMAX Select 3 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 3 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31908
+
+#EXTINF:-1 tvg-id="CROMAX Select 4 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 4 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31907
+
+#EXTINF:-1 tvg-id="CROMAX Select 5 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 5 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31906
+
+#EXTINF:-1 tvg-id="CROMAX Select 6 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 6 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31905
+
+#EXTINF:-1 tvg-id="CROMAX Select 7 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 7 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31904
+
+#EXTINF:-1 tvg-id="CROMAX Select 8 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 8 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31903
+
+#EXTINF:-1 tvg-id="CROMAX Select 9 HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select 9 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31902
+
+#EXTINF:-1 tvg-id="CROMAX Select Premium HD " tvg-logo="https://logodix.com/logo/1093652.jpg" group-title="FILMSKI", CROMAX Select Premium HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/31898
+
+#EXTINF:-1 tvg-id="ELITA 1 24/7 " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 1 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127861
+
+#EXTINF:-1 tvg-id="ELITA 1 24/7 FHD " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 1 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127865
+
+#EXTINF:-1 tvg-id="ELITA 2 24/7 " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 2 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127860
+
+#EXTINF:-1 tvg-id="ELITA 2 24/7 FHD " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 2 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127864
+
+#EXTINF:-1 tvg-id="ELITA 3 24/7 " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 3 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127859
+
+#EXTINF:-1 tvg-id="ELITA 3 24/7 FHD " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 3 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127863
+
+#EXTINF:-1 tvg-id="ELITA 4 24/7 " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 4 24/7 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127858
+
+#EXTINF:-1 tvg-id="ELITA 4 24/7 FHD " tvg-logo="noimage.png" group-title="FILMSKI", ELITA 4 24/7 FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127862
+
+#EXTINF:-1 tvg-id="Epic Drama HD " tvg-logo="https://static.epg.best/hr/EpicDrama.hr.png" group-title="FILMSKI", Epic Drama HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/78228
+
+#EXTINF:-1 tvg-id="EURO CINEMA 1 HD " tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 1 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127835
+
+#EXTINF:-1 tvg-id="EURO CINEMA 2 HD " tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 2 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127834
+
+#EXTINF:-1 tvg-id="EURO CINEMA 3 HD " tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 3 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127833
+
+#EXTINF:-1 tvg-id="EURO CINEMA 4 HD " tvg-logo="noimage.png" group-title="FILMSKI", EURO CINEMA 4 HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127832
+
+#EXTINF:-1 tvg-id="Film Klub " tvg-logo="https://fivestarsfilms.rs/wp-content/uploads/2018/03/Film-Klub-logo-01.png" group-title="FILMSKI", Film Klub 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9066
+
+#EXTINF:-1 tvg-id="Film Klub Extra " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Film_Klub_Extra.png" group-title="FILMSKI", Film Klub Extra 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9065
+
+#EXTINF:-1 tvg-id="FilmBox Extra FHD VIP " tvg-logo="https://static.epg.best/hr/FilmBoxExtra.hr.png" group-title="FILMSKI", FilmBox Extra FHD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/13967
+
+#EXTINF:-1 tvg-id="Filmbox Extra SRB " tvg-logo="https://static.epg.best/hr/FilmBoxExtra.hr.png" group-title="FILMSKI", Filmbox Extra SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4027
+
+#EXTINF:-1 tvg-id="Filmbox Plus SRB " tvg-logo="https://static.epg.best/hr/FilmBoxPlus.hr.png" group-title="FILMSKI", Filmbox Plus SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4026
+
+#EXTINF:-1 tvg-id="FILMBOX PREMIUM " tvg-logo="noimage.png" group-title="FILMSKI", FILMBOX PREMIUM 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127838
+
+#EXTINF:-1 tvg-id="FILMBOX STARS " tvg-logo="noimage.png" group-title="FILMSKI", FILMBOX STARS 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127837
+
+#EXTINF:-1 tvg-id="HBO1 " tvg-logo="https://static.epg.best/hr/HBO.hr.png" group-title="FILMSKI", HBO 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4573
+
+#EXTINF:-1 tvg-id="HBO2 " tvg-logo="noimage.png" group-title="FILMSKI", HBO 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4572
+
+#EXTINF:-1 tvg-id="HBO 3 HD VIP " tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="FILMSKI", HBO 3 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/10914
+
+#EXTINF:-1 tvg-id="HBO3 " tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="FILMSKI", HBO 3 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4571
+
+#EXTINF:-1 tvg-id="HBO MAX FHD " tvg-logo="noimage.png" group-title="FILMSKI", HBO MAX FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127856
+
+#EXTINF:-1 tvg-id="Klasik TV " tvg-logo="https://static.epg.best/hr/KlasikTv.hr.png" group-title="FILMSKI", Klasik TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2335
+
+#EXTINF:-1 tvg-id="M1 Film " tvg-logo="https://static.epg.best/ba/M1Film.ba.png" group-title="FILMSKI", M1 Film 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/227
+
+#EXTINF:-1 tvg-id="M1 GOLD HD " tvg-logo="noimage.png" group-title="FILMSKI", M1 GOLD HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127839
+
+#EXTINF:-1 tvg-id="Max Select 1 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 1 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12622
+
+#EXTINF:-1 tvg-id="Max Select 2 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 2 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12621
+
+#EXTINF:-1 tvg-id="Max Select 3 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 3 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12620
+
+#EXTINF:-1 tvg-id="Max Select 5 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 5 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12619
+
+#EXTINF:-1 tvg-id="Max Select 6 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 6 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12618
+
+#EXTINF:-1 tvg-id="Max Select 7 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 7 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12617
+
+#EXTINF:-1 tvg-id="Max Select 8 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 8 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12616
+
+#EXTINF:-1 tvg-id="Max Select 9 HD VIP " tvg-logo="https://logodix.com/logo/719339.jpg" group-title="FILMSKI", Max Select 9 HD VIP 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/12615
+
+#EXTINF:-1 tvg-id="SCI FI HD " tvg-logo="noimage.png" group-title="FILMSKI", SCI FI HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127843
+
+#EXTINF:-1 tvg-id="STAR MOVIES FHD " tvg-logo="noimage.png" group-title="FILMSKI", STAR MOVIES FHD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/127851
+
+#EXTINF:-1 tvg-id="Balkanika HD " tvg-logo="https://static.epg.best/hr/BalkanikaMusicTv.hr.png" group-title="GLAZBENI", Balkanika HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2339
+
+#EXTINF:-1 tvg-id="BN Music " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/logo-www.bnmusic.org_logo.png" group-title="GLAZBENI", BN Music 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2343
+
+#EXTINF:-1 tvg-id="DM Sat " tvg-logo="noimage.png" group-title="GLAZBENI", DM SAT 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/194
+
+#EXTINF:-1 tvg-id="Jugoton SRB " tvg-logo="https://static.epg.best/hr/Jugoton.hr.png" group-title="GLAZBENI", Jugoton SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4012
+
+#EXTINF:-1 tvg-id="Sevdah TV " tvg-logo="http://tugapt.com/picons/sevdahtvexyu.png" group-title="GLAZBENI", Sevdah TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/5701
+
+#EXTINF:-1 tvg-id="TOP SOUND " tvg-logo="https://i1.sndcdn.com/avatars-000316166379-sk1weo-t500x500.jpg" group-title="GLAZBENI", TOP SOUND 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9019
+
+#EXTINF:-1 tvg-id="TOXIC TV " tvg-logo="noimage.png" group-title="GLAZBENI", TOXIC TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/94906
+
+#EXTINF:-1 tvg-id="YU Planet " tvg-logo="https://apkplz.net/storage/images/com/tvplanet/tvplanetiptvbox/com.tvplanet.tvplanetiptvbox_1.png" group-title="GLAZBENI", YU Planet 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82749
+
+#EXTINF:-1 tvg-id="Balkanika HD " tvg-logo="https://static.epg.best/hr/BalkanikaMusicTv.hr.png" group-title="GLAZBENI", Balkanika HD 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2339
+
+#EXTINF:-1 tvg-id="BN Music " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/logo-www.bnmusic.org_logo.png" group-title="GLAZBENI", BN Music 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2343
+
+#EXTINF:-1 tvg-id="DM Sat " tvg-logo="noimage.png" group-title="GLAZBENI", DM SAT 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/194
+
+#EXTINF:-1 tvg-id="Jugoton SRB " tvg-logo="https://static.epg.best/hr/Jugoton.hr.png" group-title="GLAZBENI", Jugoton SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4012
+
+#EXTINF:-1 tvg-id="Sevdah TV " tvg-logo="http://tugapt.com/picons/sevdahtvexyu.png" group-title="GLAZBENI", Sevdah TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/5701
+
+#EXTINF:-1 tvg-id="TOP SOUND " tvg-logo="https://i1.sndcdn.com/avatars-000316166379-sk1weo-t500x500.jpg" group-title="GLAZBENI", TOP SOUND 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9019
+
+#EXTINF:-1 tvg-id="TOXIC TV " tvg-logo="noimage.png" group-title="GLAZBENI", TOXIC TV 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/94906
+
+#EXTINF:-1 tvg-id="YU Planet " tvg-logo="https://apkplz.net/storage/images/com/tvplanet/tvplanetiptvbox/com.tvplanet.tvplanetiptvbox_1.png" group-title="GLAZBENI", YU Planet 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/82749
+
+#EXTINF:-1 tvg-id="Banovina TV HR " tvg-logo="https://photos.live-tv-channels.org/tv-logo/hr-tv-banovina-8918-300x225.jpg" group-title="GLAZBENI", Banovina TV HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24164
+
+#EXTINF:-1 tvg-id="Banovina TV HR " tvg-logo="https://photos.live-tv-channels.org/tv-logo/hr-tv-banovina-8918-300x225.jpg" group-title="GLAZBENI", Banovina TV HR 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/24164
+
+#EXTINF:-1 tvg-id="Pink 1 " tvg-logo="https://static.epg.best/rs/Pink1.rs.png" group-title="PINK PAKET", Pink 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2311
+
+#EXTINF:-1 tvg-id="Pink 2 " tvg-logo="https://static.epg.best/rs/Pink2.rs.png" group-title="PINK PAKET", Pink 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2308
+
+#EXTINF:-1 tvg-id="Pink 3 INFO " tvg-logo="https://static.epg.best/rs/Pink3.rs.png" group-title="PINK PAKET", Pink 3 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2307
+
+#EXTINF:-1 tvg-id="Pink Action " tvg-logo="https://static.epg.best/rs/PinkAction.rs.png" group-title="PINK PAKET", Pink Action 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2306
+
+#EXTINF:-1 tvg-id="Pink Action " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink-action-logo.png" group-title="PINK PAKET", Pink Action SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4033
+
+#EXTINF:-1 tvg-id="Pink Classic " tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="PINK PAKET", Pink Classic SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4031
+
+#EXTINF:-1 tvg-id="Pink Comedy " tvg-logo="https://static.epg.best/rs/PinkComedy.rs.png" group-title="PINK PAKET", Pink Comedy 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2302
+
+#EXTINF:-1 tvg-id="Pink Crime and Mystery " tvg-logo="https://static.epg.best/rs/PinkCrimeAndMystery.rs.png" group-title="PINK PAKET", Pink Crime &amp; Mystery 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2285
+
+#EXTINF:-1 tvg-id="Pink Extra " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/PinkExtra.png" group-title="PINK PAKET", Pink Extra 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2286
+
+#EXTINF:-1 tvg-id="Pink Family " tvg-logo="https://static.epg.best/rs/PinkFamily.rs.png" group-title="PINK PAKET", Pink Family 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9029
+
+#EXTINF:-1 tvg-id="Pink Film " tvg-logo="https://static.epg.best/rs/PinkFilm.rs.png" group-title="PINK PAKET", Pink Film 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2310
+
+#EXTINF:-1 tvg-id="Pink Folk 1 " tvg-logo="https://static.epg.best/rs/PinkThriller.rs.png" group-title="PINK PAKET", Pink Folk 1 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2299
+
+#EXTINF:-1 tvg-id="Pink Folk 2 " tvg-logo="https://static.epg.best/rs/PinkZabava.rs.png" group-title="PINK PAKET", Pink Folk 2 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2297
+
+#EXTINF:-1 tvg-id="Pink HAHA SRB " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HaHa.png" group-title="PINK PAKET", Pink HAHA SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4038
+
+#EXTINF:-1 tvg-id="Pink Hits 1 SRB " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkHits_logo.png" group-title="PINK PAKET", Pink Hits 1 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4035
+
+#EXTINF:-1 tvg-id="Pink Horror " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pinkHorror.png" group-title="PINK PAKET", Pink Horror 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2287
+
+#EXTINF:-1 tvg-id="Pink Kids " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink-kids-logo.png" group-title="PINK PAKET", Pink Kids 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2288
+
+#EXTINF:-1 tvg-id="Pink Kuvar " tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="PINK PAKET", Pink Kuvar SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4032
+
+#EXTINF:-1 tvg-id="Pink LOL SRB " tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/LOL.png" group-title="PINK PAKET", Pink LOL SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4039
+
+#EXTINF:-1 tvg-id="Pink Movies " tvg-logo="https://static.epg.best/rs/PinkMovies.rs.png" group-title="PINK PAKET", Pink Movies 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2304
+
+#EXTINF:-1 tvg-id="Pink Music 2 SRB " tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="PINK PAKET", Pink Music 2 SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4034
+
+#EXTINF:-1 tvg-id="Pink Music " tvg-logo="https://static.epg.best/rs/PinkMusic.rs.png" group-title="PINK PAKET", Pink Music 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2301
+
+#EXTINF:-1 tvg-id="Pink Pedia " tvg-logo="https://static.epg.best/rs/PinkPedia.rs.png" group-title="PINK PAKET", Pink Pedia 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2290
+
+#EXTINF:-1 tvg-id="Pink Plus " tvg-logo="https://static.epg.best/hr/PinkPlus.hr.png" group-title="PINK PAKET", Pink Plus 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2291
+
+#EXTINF:-1 tvg-id="Pink Premium " tvg-logo="https://static.epg.best/rs/PinkPremium.rs.png" group-title="PINK PAKET", Pink Premium 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2309
+
+#EXTINF:-1 tvg-id="Pink Reality " tvg-logo="https://static.epg.best/rs/PinkReality.rs.png" group-title="PINK PAKET", Pink Reality 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2292
+
+#EXTINF:-1 tvg-id="Pink Romance " tvg-logo="https://static.epg.best/rs/PinkRomance.rs.png" group-title="PINK PAKET", Pink Romance 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2293
+
+#EXTINF:-1 tvg-id="Pink SciFi and Fantasy " tvg-logo="https://static.epg.best/rs/PinkScifiAndFantasy.rs.png" group-title="PINK PAKET", Pink Sci Fi & Fantasy 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2303
+
+#EXTINF:-1 tvg-id="Pink Serije " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Serije_logo.png" group-title="PINK PAKET", Pink Serije SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4036
+
+#EXTINF:-1 tvg-id="Pink Show " tvg-logo="https://static.epg.best/rs/PinkKuvar.rs.png" group-title="PINK PAKET", Pink Show SRB 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/4030
+
+#EXTINF:-1 tvg-id="Pink Soap " tvg-logo="https://static.epg.best/rs/PinkSoap.rs.png" group-title="PINK PAKET", Pink Soap 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2294
+
+#EXTINF:-1 tvg-id="Pink Style " tvg-logo="https://static.epg.best/rs/PinkStyle.rs.png" group-title="PINK PAKET", Pink Style 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9028
+
+#EXTINF:-1 tvg-id="Pink Thriller " tvg-logo="https://static.epg.best/rs/PinkThriller.rs.png" group-title="PINK PAKET", Pink Thriler 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2295
+
+#EXTINF:-1 tvg-id="Pink Western " tvg-logo="https://static.epg.best/rs/PinkWestern.rs.png" group-title="PINK PAKET", Pink Western 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2300
+
+#EXTINF:-1 tvg-id="Pink World Cinema " tvg-logo="https://static.epg.best/rs/PinkWorldCinema.rs.png" group-title="PINK PAKET", Pink World Cinema 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/9027
+
+#EXTINF:-1 tvg-id="Pink World Cinema " tvg-logo="https://static.epg.best/rs/PinkWorldCinema.rs.png" group-title="PINK PAKET", Pink World 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2296
+
+#EXTINF:-1 tvg-id="Pink Zabava " tvg-logo="https://static.epg.best/rs/PinkZabava.rs.png" group-title="PINK PAKET", Pink Zabava 
+http://euroserver.streamtv.to:8080/mrcrisismsn/TBdb7xvE1q/2298
+
+
 
 
 
