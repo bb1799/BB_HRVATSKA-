@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/da_vinci_learning.png" group-title="Djeciji", Da Vinci Learning
+http://bntvs.com:2052/SasaM/637572757/8569.ts
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/cartoon_network_logo.png" group-title="Djeciji", Cartoon Network
+http://bntvs.com:2052/SasaM/637572757/8719.ts
+
+#EXTINF:-1 tvg-id="babytv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/babatv-logo.png" group-title="Djeciji", Baby TV
+http://bntvs.com:2052/SasaM/637572757/8720.ts
+
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/boomerang_it_logo.png" group-title="Djeciji", Boomerang
+http://bntvs.com:2052/SasaM/637572757/8721.ts
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/disney_channel_2019.png" group-title="Djeciji", Disney channel
+http://bntvs.com:2052/SasaM/637572757/8722.ts
+
+#EXTINF:-1 tvg-id="minimax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/minimax-logo.png" group-title="Djeciji", Minimax
+http://bntvs.com:2052/SasaM/637572757/8724.ts
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="http://bntvs.com:2052/images/hmQlXjbrZjeiIx8iyXvwK11ie7MJHKBNjKsnRDZCvyJE2fvhcj_LUI2H01VzAsbjZ6OhxbHT28-pcOr-dK5Wu66XZNi6B7FbT1yS8_kzkK0.png" group-title="Djeciji", Nick Jr.
+http://bntvs.com:2052/SasaM/637572757/8725.ts
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://bntvs.com:2052/images/hmQlXjbrZjeiIx8iyXvwK11ie7MJHKBNjKsnRDZCvyJE2fvhcj_LUI2H01VzAsbjfIGKPV87c5ETBpAJmNkMSeaijHS9xohf-VfJzDJ5yxU.png" group-title="Djeciji", Nickelodeon
+http://bntvs.com:2052/SasaM/637572757/8726.ts
+
+#EXTINF:-1 tvg-id="pikaboo" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pikaboo_logo.png" group-title="Djeciji", Pikaboo
+http://bntvs.com:2052/SasaM/637572757/8729.ts
+
+#EXTINF:-1 tvg-id="dexy-tv" tvg-logo="https://tvprofil.com/img/kanali-logo/dexytv_logo.png?1590354047" group-title="Djeciji", Dexy TV
+http://bntvs.com:2052/SasaM/637572757/32191.ts
+
+#EXTINF:-1 tvg-id="toggo-plus" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/toggo-logoUntitled-1.png" group-title="Djeciji", Toggo Plus
+http://bntvs.com:2052/SasaM/637572757/8730.ts
+
+#EXTINF:-1 tvg-id="vavoom" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/vavoom.png" group-title="Djeciji", Vavoom TV
+http://bntvs.com:2052/SasaM/637572757/8734.ts
+
+#EXTINF:-1 tvg-id="Tom and Jerry 24 h" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/4.%20tom%20and%20jerry.png" group-title="Djeciji", Tom and Jerry 24 h
+http://bntvs.com:2052/SasaM/637572757/8718.ts
+
+#EXTINF:-1 tvg-id="24/7 Pepa prase" tvg-logo="https://w7.pngwing.com/pngs/121/655/png-transparent-peppa-pig-logo-daddy-pig-television-show-mummy-pig-astley-baker-davies-pig-television-blue-game.png" group-title="Djeciji", 24/7 Pepa prase
+http://bntvs.com:2052/SasaM/637572757/32190.ts
+
+#EXTINF:-1 tvg-id="Mini Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/mini_ultra_logo.png" group-title="Djeciji", Mini Ultra TV
+http://bntvs.com:2052/SasaM/637572757/8723.ts
+
+#EXTINF:-1 tvg-id="Ultra TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/ultra-tv-logo.png" group-title="Djeciji", Ultra TV
+http://bntvs.com:2052/SasaM/637572757/8727.ts
+
+#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/tnt-kids_logo.png" group-title="Djeciji", TNT Kids
+http://bntvs.com:2052/SasaM/637572757/8728.ts
+
+#EXTINF:-1 tvg-id="Masa i Medo" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/masa%20i%20medo.jpg" group-title="Djeciji", Masa i Medo
+http://bntvs.com:2052/SasaM/637572757/8732.ts
+
+#EXTINF:-1 tvg-id="Sundjer Bob" tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Sundjer%20Bob.png" group-title="Djeciji", Sundjer Bob
+http://bntvs.com:2052/SasaM/637572757/8733.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.161.34.238/dreamtv/tv/Arena_sport.png" group-title="SPORT", ARENA SPORT BIH 1 BA
 http://aheg2025.me/live/01cdq79kbc/rkywwkhliw/227208.ts
 
