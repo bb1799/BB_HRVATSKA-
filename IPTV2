@@ -1,1743 +1,986 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/560
+#EXTINF:-1 tvg-id="EX-YU: Hrt 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/78370948281.png" group-title="HRVATSKA", EX-YU: Hrt 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136099
 
-#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6049
+#EXTINF:-1 tvg-id="EX-YU: Hrt 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/74769945611.png" group-title="HRVATSKA", EX-YU: Hrt 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136100
 
-#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/558
+#EXTINF:-1 tvg-id="EX-YU: Hrt 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/24052763541.png" group-title="HRVATSKA", EX-YU: Hrt 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136101
 
-#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/557
+#EXTINF:-1 tvg-id="EX-YU: Hrt 4" tvg-logo="https://img-cdn.curl.pk/channels_icon/79650273161.png" group-title="HRVATSKA", EX-YU: Hrt 4
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136102
 
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA", HRT 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6858
+#EXTINF:-1 tvg-id="EX-YU: Banovina" tvg-logo="https://img-cdn.curl.pk/chimg/2826379203.png" group-title="HRVATSKA", EX-YU: Banovina
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136110
 
-#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA", HRT 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/559
+#EXTINF:-1 tvg-id="EX-YU: Doma TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/38436117051.png" group-title="HRVATSKA", EX-YU: Doma TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136164
 
-#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA", HRT 3
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6859
+#EXTINF:-1 tvg-id="EX-YU: Klasik TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/90137258511.png" group-title="HRVATSKA", EX-YU: Klasik TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136114
 
-#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA", HRT 4
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6860
+#EXTINF:-1 tvg-id="EX-Yu: MAX SPORT 1 (HR)" tvg-logo="noimage.png" group-title="HRVATSKA", EX-Yu: MAX SPORT 1 (HR)
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136064
 
-#EXTINF:-1 tvg-id="hrt-int" tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA", HRT Int.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/556
+#EXTINF:-1 tvg-id="EX-Yu: MAX SPORT 2 (HR)" tvg-logo="noimage.png" group-title="HRVATSKA", EX-Yu: MAX SPORT 2 (HR)
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136065
 
-#EXTINF:-1 tvg-id="htv1.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12097
+#EXTINF:-1 tvg-id="EX-YU: Z1" tvg-logo="https://img-cdn.curl.pk/channels_icon/39756703291.png" group-title="HRVATSKA", EX-YU: Z1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136132
 
-#EXTINF:-1 tvg-id="htv2.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA", HRT 2 HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12100
+#EXTINF:-1 tvg-id="EX-YU: Banovina" tvg-logo="https://img-cdn.curl.pk/chimg/2826379203.png" group-title="HRVATSKA", EX-YU: Banovina
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136110
 
-#EXTINF:-1 tvg-id="htv3.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA", HRT 3 HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12098
+#EXTINF:-1 tvg-id="EX-YU: Doma TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/38436117051.png" group-title="HRVATSKA", EX-YU: Doma TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136164
 
-#EXTINF:-1 tvg-id="htv4.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA", HRT 4 HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12099
+#EXTINF:-1 tvg-id="EX-YU: Klasik TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/90137258511.png" group-title="HRVATSKA", EX-YU: Klasik TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136114
 
-#EXTINF:-1 tvg-id="rtl-croworld" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HRVATSKA", Rtl Croatia World
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10165
+#EXTINF:-1 tvg-id="EX-Yu: MAX SPORT 1 (HR)" tvg-logo="noimage.png" group-title="HRVATSKA", EX-Yu: MAX SPORT 1 (HR)
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136064
 
-#EXTINF:-1 tvg-id="rtl-adria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Adria_2020.png" group-title="HRVATSKA", RTL Adria
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8629
+#EXTINF:-1 tvg-id="EX-Yu: MAX SPORT 2 (HR)" tvg-logo="noimage.png" group-title="HRVATSKA", EX-Yu: MAX SPORT 2 (HR)
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136065
 
-#EXTINF:-1 tvg-id="rtl.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7516
+#EXTINF:-1 tvg-id="EX-YU: Rtl 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/99589431811.png" group-title="HRVATSKA", EX-YU: Rtl 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136123
 
-#EXTINF:-1 tvg-id="rtl.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8220
+#EXTINF:-1 tvg-id="EX-YU: Rtl Crime" tvg-logo="https://img-cdn.curl.pk/channels_icon/70156491961.png" group-title="HRVATSKA", EX-YU: Rtl Crime
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136124
 
-#EXTINF:-1 tvg-id="rtl-hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HRVATSKA", RTL HR HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12092
+#EXTINF:-1 tvg-id="EX-YU: Rtl Living" tvg-logo="https://img-cdn.curl.pk/channels_icon/67916739121.png" group-title="HRVATSKA", EX-YU: Rtl Living
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136125
 
-#EXTINF:-1 tvg-id="rtl2.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7519
+#EXTINF:-1 tvg-id="EX-YU: Rtl Living" tvg-logo="https://img-cdn.curl.pk/channels_icon/12373086671.png" group-title="HRVATSKA", EX-YU: Rtl Living
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136173
 
-#EXTINF:-1 tvg-id="rtl2.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8298
+#EXTINF:-1 tvg-id="EX-YU: Z1" tvg-logo="https://img-cdn.curl.pk/channels_icon/39756703291.png" group-title="HRVATSKA", EX-YU: Z1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136132
 
-#EXTINF:-1 tvg-id="rtl2.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA", RTL 2 HR HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12093
+#EXTINF:-1 tvg-id="SR: Rtl Kockica" tvg-logo="https://img-cdn.curl.pk/chimg/4898945645.jpg" group-title="HRVATSKA", SR: Rtl Kockica
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136465
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7518
+#EXTINF:-1 tvg-id="SR: Cmc TV" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8e8c470d39a7001e0412ce7b360bcb8a.png" group-title="HRVATSKA", SR: Cmc TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136368
 
-#EXTINF:-1 tvg-id="rtl-passion" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA", RTL Passion FHD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8281
+#EXTINF:-1 tvg-id="BO: Al Jazeera" tvg-logo="https://img-cdn.curl.pk/chimg/3368586947.png" group-title="BIH", BO: Al Jazeera
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136205
 
-#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7517
+#EXTINF:-1 tvg-id="BO: Alfa TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/40799537381.png" group-title="BIH", BO: Alfa TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136204
 
-#EXTINF:-1 tvg-id="rtl-crime" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA", RTL Crime FHD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8299
+#EXTINF:-1 tvg-id="BO: ATV" tvg-logo="https://img-cdn.curl.pk/channels_icon/14544811271.png" group-title="BIH", BO: ATV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136203
 
-#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8001
+#EXTINF:-1 tvg-id="BO: B 92" tvg-logo="https://img-cdn.curl.pk/channels_icon/64142485141.png" group-title="BIH", BO: B 92
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136213
 
-#EXTINF:-1 tvg-id="rtl-living" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA", RTL Living FHD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8301
+#EXTINF:-1 tvg-id="BO: Balkanika" tvg-logo="https://img-cdn.curl.pk/channels_icon/84170791241.png" group-title="BIH", BO: Balkanika
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136210
 
-#EXTINF:-1 tvg-id="n1-hr" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="HRVATSKA", N1 HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9272
+#EXTINF:-1 tvg-id="BO: Bh1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45308514251.png" group-title="BIH", BO: Bh1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136212
 
-#EXTINF:-1 tvg-id="nova.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9270
+#EXTINF:-1 tvg-id="BO: Bht 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/41520634011.png" group-title="BIH", BO: Bht 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136208
 
-#EXTINF:-1 tvg-id="nova.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9278
+#EXTINF:-1 tvg-id="BO: Bht HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41188911541.png" group-title="BIH", BO: Bht HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136207
 
-#EXTINF:-1 tvg-id="nova.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA", NOVA TV HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12090
+#EXTINF:-1 tvg-id="BO: Bn" tvg-logo="https://img-cdn.curl.pk/channels_icon/66798870101.png" group-title="BIH", BO: Bn
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136209
 
-#EXTINF:-1 tvg-id="nova-world" tvg-logo="http://nova-iptv.com/logo/Nova_World_2011.png" group-title="HRVATSKA", Nova World
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12617
+#EXTINF:-1 tvg-id="BO: Bn Music" tvg-logo="https://img-cdn.curl.pk/channels_icon/44295885811.png" group-title="BIH", BO: Bn Music
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136214
 
-#EXTINF:-1 tvg-id="nova-cinema" tvg-logo="http://nova-iptv.com/logo/Nova_Cinema_logo.png" group-title="HRVATSKA", Nova Cinema
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12618
+#EXTINF:-1 tvg-id="BO: City TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/91791157211.png" group-title="BIH", BO: City TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136215
 
-#EXTINF:-1 tvg-id="nova-family" tvg-logo="http://nova-iptv.com/logo/Nova_Family_logo.png" group-title="HRVATSKA", Nova Family
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12619
+#EXTINF:-1 tvg-id="BO: Docubox" tvg-logo="https://img-cdn.curl.pk/channels_icon/24406860991.png" group-title="BIH", BO: Docubox
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136216
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9286
+#EXTINF:-1 tvg-id="BO: Epic Drama" tvg-logo="https://img-cdn.curl.pk/channels_icon/94363977171.png" group-title="BIH", BO: Epic Drama
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136219
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9287
+#EXTINF:-1 tvg-id="BO: Eurosport 1" tvg-logo="https://i.ibb.co/jvFNhFR/british-eurosport-1.png" group-title="BIH", BO: Eurosport 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136217
 
-#EXTINF:-1 tvg-id="doma-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HRVATSKA", DOMA TV HD (Hevc)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12091
+#EXTINF:-1 tvg-id="BO: Eurosport 2" tvg-logo="https://curl.pk/img/u/fbd8b67d806fa8bb6007b7b542160bdb3605.png" group-title="BIH", BO: Eurosport 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136218
 
-#EXTINF:-1 tvg-id="z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="HRVATSKA", Z1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/499
+#EXTINF:-1 tvg-id="BO: Face TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/33525833131.png" group-title="BIH", BO: Face TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136221
 
-#EXTINF:-1 tvg-id="laudato-tv" tvg-logo="http://116.203.156.75/logo/laudato.png" group-title="HRVATSKA", Laudato TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/553
+#EXTINF:-1 tvg-id="BO: Federalna TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/10597711441.png" group-title="BIH", BO: Federalna TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136220
 
-#EXTINF:-1 tvg-id="Mreza Zagreb" tvg-logo="noimage.png" group-title="HRVATSKA", Mreza Zagreb
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8041
+#EXTINF:-1 tvg-id="BO: Fine Living" tvg-logo="https://img-cdn.curl.pk/channels_icon/40069391451.png" group-title="BIH", BO: Fine Living
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136222
 
-#EXTINF:-1 tvg-id="banovina-tv" tvg-logo="http://116.203.156.75/logo/banovina.png" group-title="HRVATSKA", Banovina TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/593
+#EXTINF:-1 tvg-id="BO: Glas Drine" tvg-logo="https://img-cdn.curl.pk/channels_icon/34932623731.png" group-title="BIH", BO: Glas Drine
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136223
 
-#EXTINF:-1 tvg-id="osijecka-tv" tvg-logo="http://116.203.156.75/logo/osjecka.jpeg" group-title="HRVATSKA", Osjecka TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/554
+#EXTINF:-1 tvg-id="BO: Hayat Folk" tvg-logo="https://img-cdn.curl.pk/chimg/3543657563.png" group-title="BIH", BO: Hayat Folk
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136229
 
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-logo="http://116.203.156.75/logo/plava_vinkovacka.jpg" group-title="HRVATSKA", Vinkovacka TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5845
+#EXTINF:-1 tvg-id="BO: Hayat HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/76991039031.png" group-title="BIH", BO: Hayat HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136226
 
-#EXTINF:-1 tvg-id="TV KARLOVAC" tvg-logo="noimage.png" group-title="HRVATSKA", TV KARLOVAC
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8856
+#EXTINF:-1 tvg-id="BO: Hayat Music" tvg-logo="https://img-cdn.curl.pk/channels_icon/66537354981.png" group-title="BIH", BO: Hayat Music
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136224
 
-#EXTINF:-1 tvg-id="posavinatv" tvg-logo="http://116.203.156.75/logo/posavina.jpg" group-title="HRVATSKA", Posavina TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/397
+#EXTINF:-1 tvg-id="BO: Hayat Plus" tvg-logo="https://img-cdn.curl.pk/chimg/5046126596.png" group-title="BIH", BO: Hayat Plus
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136227
 
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-logo="http://116.203.156.75/logo/slavnonska.jpg" group-title="HRVATSKA", Slavonska Televizija
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/555
+#EXTINF:-1 tvg-id="BO: Hayat TV" tvg-logo="https://img-cdn.curl.pk/chimg/1127960918.jpg" group-title="BIH", BO: Hayat TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136225
 
-#EXTINF:-1 tvg-id="Jabuka TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Jabukatvlogo.png" group-title="HRVATSKA", Jabuka TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6331
+#EXTINF:-1 tvg-id="BO: Hayatovci" tvg-logo="https://img-cdn.curl.pk/channels_icon/40236501221.png" group-title="BIH", BO: Hayatovci
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136228
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/kanalr-logo.png" group-title="HRVATSKA", KanalR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6330
+#EXTINF:-1 tvg-id="BO: Hema TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/88748236951.png" group-title="BIH", BO: Hema TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136231
 
-#EXTINF:-1 tvg-id="libertas-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LibertasTV.png" group-title="HRVATSKA", Libertas TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6329
+#EXTINF:-1 tvg-id="BO: Hit Brcko TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/84436111471.png" group-title="BIH", BO: Hit Brcko TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136230
 
-#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA", Poljoprivredna TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6328
+#EXTINF:-1 tvg-id="BO: Idj TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/61267567441.png" group-title="BIH", BO: Idj TV HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136232
 
-#EXTINF:-1 tvg-id="Srce TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/srcetv-logo.png" group-title="HRVATSKA", Srce TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6324
+#EXTINF:-1 tvg-id="BO: Izvorna TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/35145353571.png" group-title="BIH", BO: Izvorna TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136233
 
-#EXTINF:-1 tvg-id="Dubrovacka Televizija" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/dutv-logo.png" group-title="HRVATSKA", Dubrovacka Televizija
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6322
+#EXTINF:-1 tvg-id="BO: K3 Prnjavor" tvg-logo="https://img-cdn.curl.pk/channels_icon/85101474181.png" group-title="BIH", BO: K3 Prnjavor
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136235
 
-#EXTINF:-1 tvg-id="TV Istra" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TV-Istra_logo.png" group-title="HRVATSKA", TV Istra
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6321
+#EXTINF:-1 tvg-id="BO: Kanal 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35830702601.png" group-title="BIH", BO: Kanal 6 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136234
 
-#EXTINF:-1 tvg-id="jadran-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-jadran-logo.png" group-title="HRVATSKA", TV Jadran
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6320
+#EXTINF:-1 tvg-id="BO: M1 Film Gold" tvg-logo="https://img-cdn.curl.pk/channels_icon/86966326711.png" group-title="BIH", BO: M1 Film Gold
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136244
 
-#EXTINF:-1 tvg-id="Capital TV" tvg-logo="noimage.png" group-title="HRVATSKA", Capital TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6502
+#EXTINF:-1 tvg-id="BO: M1 Film HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98428729021.png" group-title="BIH", BO: M1 Film HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136243
 
-#EXTINF:-1 tvg-id="zdrava-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdrava-televizija-logo.jpg" group-title="HRVATSKA", Zdrava TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8886
+#EXTINF:-1 tvg-id="BO: Nova Bh" tvg-logo="https://img-cdn.curl.pk/channels_icon/79138523921.png" group-title="BIH", BO: Nova Bh
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136249
 
-#EXTINF:-1 tvg-id="Klape i Tambure" tvg-logo="noimage.png" group-title="HRVATSKA", Klape i Tambure
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10237
+#EXTINF:-1 tvg-id="BO: Nova M" tvg-logo="https://img-cdn.curl.pk/channels_icon/45387909681.png" group-title="BIH", BO: Nova M
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136247
 
-#EXTINF:-1 tvg-id="b2305127f3e5eceffb591f82cf93c07d" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA", TV TREND KARLOVAC
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10246
+#EXTINF:-1 tvg-id="BO: Nova Sport" tvg-logo="https://img-cdn.curl.pk/channels_icon/92473010831.png" group-title="BIH", BO: Nova Sport
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136248
 
-#EXTINF:-1 tvg-id="MARY TV MEDJUGORJE" tvg-logo="noimage.png" group-title="HRVATSKA", MARY TV MEDJUGORJE
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10247
+#EXTINF:-1 tvg-id="BO: O Kanal" tvg-logo="https://img-cdn.curl.pk/channels_icon/76360529401.png" group-title="BIH", BO: O Kanal
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136253
 
-#EXTINF:-1 tvg-id="MARS TV" tvg-logo="noimage.png" group-title="HRVATSKA", MARS TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10248
+#EXTINF:-1 tvg-id="BO: O Kanal HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17908582071.png" group-title="BIH", BO: O Kanal HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136254
 
-#EXTINF:-1 tvg-id="cf00a93b9e783577a4926ad239a60a43" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/otv_plavi-logo.png" group-title="HRVATSKA", OTV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10249
+#EXTINF:-1 tvg-id="BO: Obn TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/11275853711.png" group-title="BIH", BO: Obn TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136251
 
-#EXTINF:-1 tvg-id="federalna-tv" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH", Federalna TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/572
+#EXTINF:-1 tvg-id="BO: OTV Valentino" tvg-logo="https://img-cdn.curl.pk/channels_icon/92521769961.png" group-title="BIH", BO: OTV Valentino
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136252
 
-#EXTINF:-1 tvg-id="bht1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/22.png" group-title="BIH", BHT 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/592
+#EXTINF:-1 tvg-id="BO: Pink Bh" tvg-logo="https://img-cdn.curl.pk/channels_icon/93141437101.png" group-title="BIH", BO: Pink Bh
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136260
 
-#EXTINF:-1 tvg-id="rtrs" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/3.png" group-title="BIH", RTRS
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/523
+#EXTINF:-1 tvg-id="BO: Prva Cg" tvg-logo="https://img-cdn.curl.pk/channels_icon/53413958441.png" group-title="BIH", BO: Prva Cg
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136257
 
-#EXTINF:-1 tvg-id="rtrs" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTRS_PLUS_logo.png" group-title="BIH", RTRS Plus
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7274
+#EXTINF:-1 tvg-id="BO: Prva Files" tvg-logo="https://img-cdn.curl.pk/channels_icon/12168264991.png" group-title="BIH", BO: Prva Files
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136259
 
-#EXTINF:-1 tvg-id="obn-ba" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/33.png" group-title="BIH", OBN
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/541
+#EXTINF:-1 tvg-id="BO: Prva Max" tvg-logo="https://img-cdn.curl.pk/channels_icon/71562773921.png" group-title="BIH", BO: Prva Max
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136256
 
-#EXTINF:-1 tvg-id="face-tv" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/35.png" group-title="BIH", Face Tv HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/573
+#EXTINF:-1 tvg-id="BO: Prva World" tvg-logo="https://img-cdn.curl.pk/channels_icon/85513807081.png" group-title="BIH", BO: Prva World
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136255
 
-#EXTINF:-1 tvg-id="hayat-tv" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/43.png" group-title="BIH", Hayat HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/566
+#EXTINF:-1 tvg-id="BO: Rtrs Plus" tvg-logo="https://img-cdn.curl.pk/channels_icon/10539914141.png" group-title="BIH", BO: Rtrs Plus
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136268
 
-#EXTINF:-1 tvg-id="hayat2" tvg-logo="http://116.203.156.75/logo/hayat-2.png" group-title="BIH", Hayat 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/563
+#EXTINF:-1 tvg-id="BO: RTV Herceg Bosna" tvg-logo="https://img-cdn.curl.pk/channels_icon/78854114171.png" group-title="BIH", BO: RTV Herceg Bosna
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136261
 
-#EXTINF:-1 tvg-id="nova-bh" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaBH_logo.png" group-title="BIH", NOVA BH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9279
+#EXTINF:-1 tvg-id="BO: RTV Mlava" tvg-logo="https://img-cdn.curl.pk/channels_icon/89210000051.png" group-title="BIH", BO: RTV Mlava
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136262
 
-#EXTINF:-1 tvg-id="nova-bh" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaBH_logo.png" group-title="BIH", NOVA BH.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9280
+#EXTINF:-1 tvg-id="BO: RTV Podrinje" tvg-logo="https://img-cdn.curl.pk/channels_icon/58528385661.png" group-title="BIH", BO: RTV Podrinje
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136264
 
-#EXTINF:-1 tvg-id="n1-bh" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="BIH", N1 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9273
+#EXTINF:-1 tvg-id="BO: RTV Slon HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31538091241.png" group-title="BIH", BO: RTV Slon HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136265
 
-#EXTINF:-1 tvg-id="alternativna-tv" tvg-logo="http://116.203.156.75/logo/atv.png" group-title="BIH", ATV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/597
+#EXTINF:-1 tvg-id="BO: RTV Usk" tvg-logo="https://img-cdn.curl.pk/channels_icon/93638613821.png" group-title="BIH", BO: RTV Usk
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136267
 
-#EXTINF:-1 tvg-id="bntv" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH", BN TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/590
+#EXTINF:-1 tvg-id="BO: RTV Zenica" tvg-logo="https://img-cdn.curl.pk/chimg/3188739260.png" group-title="BIH", BO: RTV Zenica
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136263
 
-#EXTINF:-1 tvg-id="bntv" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH", BN TV.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8847
+#EXTINF:-1 tvg-id="BO: RTV Zenica" tvg-logo="https://img-cdn.curl.pk/channels_icon/49199266151.png" group-title="BIH", BO: RTV Zenica
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136266
 
-#EXTINF:-1 tvg-id="bntv2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BIH", BN 2 TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10233
+#EXTINF:-1 tvg-id="BO: Sandzak TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/64941029731.png" group-title="BIH", BO: Sandzak TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136274
 
-#EXTINF:-1 tvg-id="okanal-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/o_kanal_widelogo.png" group-title="BIH", O Kanal
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/508
+#EXTINF:-1 tvg-id="BO: Sevdah TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/79250677571.png" group-title="BIH", BO: Sevdah TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136206
 
-#EXTINF:-1 tvg-id="kanal3" tvg-logo="http://116.203.156.75/logo/k3.png" group-title="BIH", K3 Prnjavor
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/509
+#EXTINF:-1 tvg-id="BO: Televizija 5 Bih" tvg-logo="https://img-cdn.curl.pk/channels_icon/69493646391.png" group-title="BIH", BO: Televizija 5 Bih
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136277
 
-#EXTINF:-1 tvg-id="rtv-hit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BIH", HIT
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5749
+#EXTINF:-1 tvg-id="BO: Tk Tuzla" tvg-logo="https://img-cdn.curl.pk/channels_icon/53807323921.png" group-title="BIH", BO: Tk Tuzla
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136276
 
-#EXTINF:-1 tvg-id="UNA TV" tvg-logo="http://116.203.156.75/logo/una.jpg" group-title="BIH", UNA TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13664
+#EXTINF:-1 tvg-id="BO: Tk Tuzla" tvg-logo="https://img-cdn.curl.pk/chimg/3354355293.png" group-title="BIH", BO: Tk Tuzla
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136279
 
-#EXTINF:-1 tvg-id="Tok TV" tvg-logo="noimage.png" group-title="BIH", Tok TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13001
+#EXTINF:-1 tvg-id="BO: TV Sarajevo" tvg-logo="https://img-cdn.curl.pk/channels_icon/83371835501.png" group-title="BIH", BO: TV Sarajevo
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136275
 
-#EXTINF:-1 tvg-id="RTV IS" tvg-logo="http://116.203.156.75/logo/rtv-is.png" group-title="BIH", RTV IS
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12391
+#EXTINF:-1 tvg-id="BO: TV Vijesti" tvg-logo="https://img-cdn.curl.pk/channels_icon/92455565781.png" group-title="BIH", BO: TV Vijesti
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136278
 
-#EXTINF:-1 tvg-id="Neon TV" tvg-logo="http://116.203.156.75/logo/neon_tv.png" group-title="BIH", Neon TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9192
+#EXTINF:-1 tvg-id="SR: B92 Rs" tvg-logo="https://img-cdn.curl.pk/chimg/4951489563.png" group-title="SRBIJA", SR: B92 Rs
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136360
 
-#EXTINF:-1 tvg-id="Bosansko Posavska TV" tvg-logo="http://116.203.156.75/logo/bp.jpg" group-title="BIH", Bosansko Posavska TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9065
+#EXTINF:-1 tvg-id="SR: Grand" tvg-logo="https://img-cdn.curl.pk/chimg/9724654655.jpg" group-title="SRBIJA", SR: Grand
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136382
 
-#EXTINF:-1 tvg-id="RTV HB" tvg-logo="noimage.png" group-title="BIH", RTV HB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6762
+#EXTINF:-1 tvg-id="SR: Grand 2" tvg-logo="https://img-cdn.curl.pk/chimg/6763913337.jpg" group-title="SRBIJA", SR: Grand 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136383
 
-#EXTINF:-1 tvg-id="RTV Cazin" tvg-logo="noimage.png" group-title="BIH", RTV Cazin
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6901
+#EXTINF:-1 tvg-id="SR: N1 Rs" tvg-logo="https://img-cdn.curl.pk/chimg/3391356212.png" group-title="SRBIJA", SR: N1 Rs
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136402
 
-#EXTINF:-1 tvg-id="rtv-sana" tvg-logo="noimage.png" group-title="BIH", RTV Sana
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8661
+#EXTINF:-1 tvg-id="SR: Nova HD" tvg-logo="https://img-cdn.curl.pk/chimg/9882471990.jpg" group-title="SRBIJA", SR: Nova HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136403
 
-#EXTINF:-1 tvg-id="RTV Krajina" tvg-logo="noimage.png" group-title="BIH", RTV Krajina
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9066
+#EXTINF:-1 tvg-id="SR: O2 TV" tvg-logo="https://img-cdn.curl.pk/chimg/7150399901.jpg" group-title="SRBIJA", SR: O2 TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136404
 
-#EXTINF:-1 tvg-id="tv-sarajevo" tvg-logo="http://116.203.156.75/logo/SARAJEVO.png" group-title="BIH", TV Sarajevo HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/511
+#EXTINF:-1 tvg-id="SR: Palma Plus" tvg-logo="https://img-cdn.curl.pk/channels_icon/79555341071.png" group-title="SRBIJA", SR: Palma Plus
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136450
 
-#EXTINF:-1 tvg-id="PRVA HERCEGOVACKA" tvg-logo="noimage.png" group-title="BIH", PRVA HERCEGOVACKA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10250
+#EXTINF:-1 tvg-id="SR: Parovi Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a28c347fd2655315a28ab624aa602b5b.png" group-title="SRBIJA", SR: Parovi Live
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136451
 
-#EXTINF:-1 tvg-id="KANAL 6 HD" tvg-logo="noimage.png" group-title="BIH", KANAL 6 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10252
+#EXTINF:-1 tvg-id="SR: Prva 1" tvg-logo="https://img-cdn.curl.pk/chimg/9205402540.jpg" group-title="SRBIJA", SR: Prva 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136446
 
-#EXTINF:-1 tvg-id="CITY TV" tvg-logo="noimage.png" group-title="BIH", CITY TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10253
+#EXTINF:-1 tvg-id="SR: Prva Files" tvg-logo="https://img-cdn.curl.pk/channels_icon/13242969421.png" group-title="SRBIJA", SR: Prva Files
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136448
 
-#EXTINF:-1 tvg-id="NTV 101" tvg-logo="noimage.png" group-title="BIH", NTV 101
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10264
+#EXTINF:-1 tvg-id="SR: Prva Kick" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/42c2804e78c1b2058b1d9059c59155ec.png" group-title="SRBIJA", SR: Prva Kick
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136449
 
-#EXTINF:-1 tvg-id="RTV Lukavac" tvg-logo="noimage.png" group-title="BIH", RTV Lukavac
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10265
+#EXTINF:-1 tvg-id="SR: Prva World" tvg-logo="https://img-cdn.curl.pk/chimg/8305525576.jpg" group-title="SRBIJA", SR: Prva World
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136447
 
-#EXTINF:-1 tvg-id="televizija-alfa" tvg-logo="http://nova-iptv.com/logo/alfatvlogo.png" group-title="BIH", Alfa TV Sarajevo
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5600
+#EXTINF:-1 tvg-id="SR: Ptc 2" tvg-logo="https://img-cdn.curl.pk/chimg/3872306696.jpg" group-title="SRBIJA", SR: Ptc 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136453
 
-#EXTINF:-1 tvg-id="rtv-tk" tvg-logo="http://116.203.156.75/logo/tk.png" group-title="BIH", TV TK
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3687
+#EXTINF:-1 tvg-id="SR: Ptc 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/34333415011.png" group-title="SRBIJA", SR: Ptc 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136454
 
-#EXTINF:-1 tvg-id="TV 7 Tuzla" tvg-logo="noimage.png" group-title="BIH", TV 7 Tuzla
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8901
+#EXTINF:-1 tvg-id="SR: Ptc Drama" tvg-logo="https://img-cdn.curl.pk/channels_icon/66616978321.png" group-title="SRBIJA", SR: Ptc Drama
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136459
 
-#EXTINF:-1 tvg-id="rtv-usk" tvg-logo="http://116.203.156.75/logo/RTVUSK.png" group-title="BIH", USK HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/506
+#EXTINF:-1 tvg-id="SR: Ptc Kolo" tvg-logo="https://img-cdn.curl.pk/channels_icon/98504256161.png" group-title="SRBIJA", SR: Ptc Kolo
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136458
 
-#EXTINF:-1 tvg-id="tv-bugojno" tvg-logo="noimage.png" group-title="BIH", Bugojno TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7429
+#EXTINF:-1 tvg-id="SR: Ptc Muzika" tvg-logo="https://img-cdn.curl.pk/channels_icon/24917202411.png" group-title="SRBIJA", SR: Ptc Muzika
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136460
 
-#EXTINF:-1 tvg-id="b1-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b1tv-logo.png" group-title="BIH", B1 Gradacac
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6736
+#EXTINF:-1 tvg-id="SR: Ptc Svet" tvg-logo="https://img-cdn.curl.pk/channels_icon/20017717341.png" group-title="SRBIJA", SR: Ptc Svet
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136455
 
-#EXTINF:-1 tvg-id="NTV IC Kakanj" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/NTV_IC_Logo_BiH.png" group-title="BIH", NTV IC Kakanj
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5603
+#EXTINF:-1 tvg-id="SR: Ptc Trezor" tvg-logo="https://img-cdn.curl.pk/chimg/5546866885.png" group-title="SRBIJA", SR: Ptc Trezor
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136456
 
-#EXTINF:-1 tvg-id="RTV Zenica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Logo_of_RTV_Zenica.png" group-title="BIH", TV Zenica
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5598
+#EXTINF:-1 tvg-id="SR: Ptc Zivot" tvg-logo="https://img-cdn.curl.pk/channels_icon/64683871861.png" group-title="SRBIJA", SR: Ptc Zivot
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136457
 
-#EXTINF:-1 tvg-id="rtv-slon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/TV_Slon_Extra_logo.jpg" group-title="BIH", RTV Slon Extra
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/510
+#EXTINF:-1 tvg-id="SR: Roma TV" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/eea388e08d514ba5f57410cf11c4f6a9.png" group-title="SRBIJA", SR: Roma TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136468
 
-#EXTINF:-1 tvg-id="MIR TV HD" tvg-logo="noimage.png" group-title="BIH", MIR TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6457
+#EXTINF:-1 tvg-id="SR: Rtrs" tvg-logo="https://img-cdn.curl.pk/chimg/1106298249.jpg" group-title="SRBIJA", SR: Rtrs
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136466
 
-#EXTINF:-1 tvg-id="MTV Igman" tvg-logo="http://116.203.156.75/logo/mtv-igman-logo.png" group-title="BIH", MTV Igman
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3795
+#EXTINF:-1 tvg-id="SR: Rtrs Plus" tvg-logo="https://img-cdn.curl.pk/chimg/1417284453.jpg" group-title="SRBIJA", SR: Rtrs Plus
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136467
 
-#EXTINF:-1 tvg-id="VIKOM" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/vikom_tv_ba.png" group-title="BIH", VIKOM
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8852
+#EXTINF:-1 tvg-id="SR: Rts 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png" group-title="SRBIJA", SR: Rts 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136452
 
-#EXTINF:-1 tvg-id="hema" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/hema-tv-logo.png" group-title="BIH", HEMA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5660
+#EXTINF:-1 tvg-id="SR: RTV 1" tvg-logo="https://img-cdn.curl.pk/chimg/4907532544.jpg" group-title="SRBIJA", SR: RTV 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136461
 
-#EXTINF:-1 tvg-id="TV 5 HD Islam" tvg-logo="http://116.203.156.75/logo/tv5.jpg" group-title="BIH", TV 5 HD Islam
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5477
+#EXTINF:-1 tvg-id="SR: RTV 2" tvg-logo="https://img-cdn.curl.pk/chimg/2843662390.jpg" group-title="SRBIJA", SR: RTV 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136462
 
-#EXTINF:-1 tvg-id="Mekka TV" tvg-logo="http://116.203.156.75/logo/makkah.png" group-title="BIH", Mekka TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5602
+#EXTINF:-1 tvg-id="SR: RTV Novi Pazar" tvg-logo="https://img-cdn.curl.pk/channels_icon/96654588291.png" group-title="SRBIJA", SR: RTV Novi Pazar
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136463
 
-#EXTINF:-1 tvg-id="BIR TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/BIR_TV_logo.png" group-title="BIH", BIR TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8899
+#EXTINF:-1 tvg-id="SR: RTV Vojvodina 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/73519737551.png" group-title="SRBIJA", SR: RTV Vojvodina 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136464
 
-#EXTINF:-1 tvg-id="Sandzak TV" tvg-logo="https://www.cenzolovka.rs/wp-content/uploads/2015/06/sandzak-tv-logo.jpg" group-title="BIH", Sandzak TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6026
+#EXTINF:-1 tvg-id="SR: Sandzak TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/87937087731.png" group-title="SRBIJA", SR: Sandzak TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136477
 
-#EXTINF:-1 tvg-id="Sehara TV" tvg-logo="http://116.203.156.75/logo/sehara.jpeg" group-title="BIH", Sehara TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5366
+#EXTINF:-1 tvg-id="SR: Sos Kanal" tvg-logo="https://img-cdn.curl.pk/chimg/5263600706.png" group-title="SRBIJA", SR: Sos Kanal
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136476
 
-#EXTINF:-1 tvg-id="RTV Visoko" tvg-logo="http://nova-iptv.com/logo/rtvvisoko.jpeg" group-title="BIH", TV Visoko
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/395
+#EXTINF:-1 tvg-id="HR: Arena Sport 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/52085731261.png" group-title="SPORT", HR: Arena Sport 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136082
 
-#EXTINF:-1 tvg-id="tata-brada" tvg-logo="noimage.png" group-title="BIH", TATABRADA TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10267
+#EXTINF:-1 tvg-id="HR: Arena Sport 10" tvg-logo="http://daddyserver.com:80/images/10080732b06363cae739cdec7ad539e1.png" group-title="SPORT", HR: Arena Sport 10
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136060
 
-#EXTINF:-1 tvg-id="Pro TV" tvg-logo="http://116.203.156.75/logo/protv.png" group-title="BIH", Pro TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13286
+#EXTINF:-1 tvg-id="HR: Arena Sport 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79932990191.png" group-title="SPORT", HR: Arena Sport 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136083
 
-#EXTINF:-1 tvg-id="rtcg1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/534
+#EXTINF:-1 tvg-id="HR: Arena Sport 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80793684281.png" group-title="SPORT", HR: Arena Sport 3 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136084
 
-#EXTINF:-1 tvg-id="rtcg2" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/533
+#EXTINF:-1 tvg-id="HR: Arena Sport 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/86065661241.png" group-title="SPORT", HR: Arena Sport 4 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136085
 
-#EXTINF:-1 tvg-id="RTCG Sat" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA", RTCG Sat
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/535
+#EXTINF:-1 tvg-id="HR: Arena Sport 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/12676690491.png" group-title="SPORT", HR: Arena Sport 5 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136086
 
-#EXTINF:-1 tvg-id="prva-tv-cg" tvg-logo="http://116.203.156.75/logo/prva_cg.png" group-title="CRNA GORA", Prva TV CG
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/532
+#EXTINF:-1 tvg-id="HR: Arena Sport 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74387574141.png" group-title="SPORT", HR: Arena Sport 6 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136087
 
-#EXTINF:-1 tvg-id="Vijesti 24" tvg-logo="http://116.203.156.75/logo/tv-vijesti.jpg" group-title="CRNA GORA", Vijesti 24
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/531
+#EXTINF:-1 tvg-id="HR: Arena Sport 7" tvg-logo="http://daddyserver.com:80/images/a1936785b8c274c2ab759a3904264bab.png" group-title="SPORT", HR: Arena Sport 7
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136061
 
-#EXTINF:-1 tvg-id="pink-m" tvg-logo="noimage.png" group-title="CRNA GORA", PINK M
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6429
+#EXTINF:-1 tvg-id="HR: Arena Sport 8" tvg-logo="http://daddyserver.com:80/images/d998ba0b3712f1214520a09361349641.png" group-title="SPORT", HR: Arena Sport 8
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136062
 
-#EXTINF:-1 tvg-id="nova-m.cg" tvg-logo="noimage.png" group-title="CRNA GORA", NOVA M
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9281
+#EXTINF:-1 tvg-id="HR: Arena Sport 9" tvg-logo="http://daddyserver.com:80/images/49d73a95c79a0063a8093f8f6082e65a.png" group-title="SPORT", HR: Arena Sport 9
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136063
 
-#EXTINF:-1 tvg-id="[MK] 24 VESTI" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] 24 VESTI
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3655
+#EXTINF:-1 tvg-id="EX-Yu: MAX SPORT 1 (HR)" tvg-logo="noimage.png" group-title="SPORT", EX-Yu: MAX SPORT 1 (HR)
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136064
 
-#EXTINF:-1 tvg-id="[MK] ALFA TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] ALFA TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3658
+#EXTINF:-1 tvg-id="EX-Yu: MAX SPORT 2 (HR)" tvg-logo="noimage.png" group-title="SPORT", EX-Yu: MAX SPORT 2 (HR)
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136065
 
-#EXTINF:-1 tvg-id="[MK] KANAL 5" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] KANAL 5
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3660
+#EXTINF:-1 tvg-id="BO: Eurosport 1" tvg-logo="https://i.ibb.co/jvFNhFR/british-eurosport-1.png" group-title="SPORT", BO: Eurosport 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136217
 
-#EXTINF:-1 tvg-id="[MK] MRT 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3656
+#EXTINF:-1 tvg-id="BO: Eurosport 2" tvg-logo="https://curl.pk/img/u/fbd8b67d806fa8bb6007b7b542160bdb3605.png" group-title="SPORT", BO: Eurosport 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136218
 
-#EXTINF:-1 tvg-id="[MK] MRT 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3657
+#EXTINF:-1 tvg-id="BO: Nova Sport" tvg-logo="https://img-cdn.curl.pk/channels_icon/92473010831.png" group-title="SPORT", BO: Nova Sport
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136248
 
-#EXTINF:-1 tvg-id="[MK] MRT 5" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MRT 5
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10190
+#EXTINF:-1 tvg-id="BO: Sport Klub 1 Hr" tvg-logo="https://img-cdn.curl.pk/channels_icon/34179968131.png" group-title="SPORT", BO: Sport Klub 1 Hr
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136270
 
-#EXTINF:-1 tvg-id="[MK] Hugo TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6469
+#EXTINF:-1 tvg-id="BO: Sport Klub 3 Hr" tvg-logo="https://img-cdn.curl.pk/channels_icon/27117924581.png" group-title="SPORT", BO: Sport Klub 3 Hr
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136272
 
-#EXTINF:-1 tvg-id="[MK] Hugo 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8860
+#EXTINF:-1 tvg-id="BO: Sport Klub 5" tvg-logo="https://img-cdn.curl.pk/channels_icon/79878078801.png" group-title="SPORT", BO: Sport Klub 5
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136273
 
-#EXTINF:-1 tvg-id="[MK] Hugo 3" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Hugo 3
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10192
+#EXTINF:-1 tvg-id="BO: Sport Klub HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82474146901.png" group-title="SPORT", BO: Sport Klub HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136269
 
-#EXTINF:-1 tvg-id="[MK] Cineplex HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cineplex HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10193
+#EXTINF:-1 tvg-id="EX-YU: Arena Sport Premium 1 (srb)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT", EX-YU: Arena Sport Premium 1 (srb)
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136068
 
-#EXTINF:-1 tvg-id="[MK] Cinestar TV Premiere 1" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cinestar TV Premiere 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6897
+#EXTINF:-1 tvg-id="EX-YU: Arena Sport Premium 2 Sr" tvg-logo="https://img-cdn.curl.pk/channels_icon/30946373081.png" group-title="SPORT", EX-YU: Arena Sport Premium 2 Sr
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136067
 
-#EXTINF:-1 tvg-id="[MK] MEGA BITOLA" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] MEGA BITOLA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3654
+#EXTINF:-1 tvg-id="EX-YU: Arena Sport Premium 3 Sr" tvg-logo="https://img-cdn.curl.pk/channels_icon/11209799061.png" group-title="SPORT", EX-YU: Arena Sport Premium 3 Sr
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136066
 
-#EXTINF:-1 tvg-id="[MK] SITEL" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SITEL
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3662
+#EXTINF:-1 tvg-id="EX-YU: Sport Klub 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32051203241.png" group-title="SPORT", EX-YU: Sport Klub 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136103
 
-#EXTINF:-1 tvg-id="[MK] SITEL 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SITEL 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3661
+#EXTINF:-1 tvg-id="EX-YU: Sport Klub 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/36335858461.png" group-title="SPORT", EX-YU: Sport Klub 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136184
 
-#EXTINF:-1 tvg-id="[MK] NASA TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] NASA TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6657
+#EXTINF:-1 tvg-id="EX-YU: Sport Klub 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56832338951.png" group-title="SPORT", EX-YU: Sport Klub 3 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136104
 
-#EXTINF:-1 tvg-id="[MK] SONCE TV" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SONCE TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3653
+#EXTINF:-1 tvg-id="EX-YU: Sport Klub 4" tvg-logo="https://img-cdn.curl.pk/channels_icon/78254910341.png" group-title="SPORT", EX-YU: Sport Klub 4
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136185
 
-#EXTINF:-1 tvg-id="[MK] TELMA" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] TELMA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3659
+#EXTINF:-1 tvg-id="SR: Arena Sport 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/50232740381.png" group-title="SPORT", SR: Arena Sport 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136491
 
-#EXTINF:-1 tvg-id="[MK] SUTEL" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] SUTEL
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3652
+#EXTINF:-1 tvg-id="SR: Arena Sport 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26457619471.png" group-title="SPORT", SR: Arena Sport 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136351
 
-#EXTINF:-1 tvg-id="[MK] TERA TV Bitola" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] TERA TV Bitola
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6527
+#EXTINF:-1 tvg-id="SR: Arena Sport 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64821966561.png" group-title="SPORT", SR: Arena Sport 3 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136352
 
-#EXTINF:-1 tvg-id="[MK] Cinestar TV Premiere 2" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Cinestar TV Premiere 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8868
+#EXTINF:-1 tvg-id="SR: Arena Sport 3 Sr" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/cbc48af37520fbdde2a2340ba152197e.png" group-title="SPORT", SR: Arena Sport 3 Sr
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136354
 
-#EXTINF:-1 tvg-id="[MK] Folk HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Folk HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6525
+#EXTINF:-1 tvg-id="SR: Arena Sport 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79173615571.png" group-title="SPORT", SR: Arena Sport 4 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136353
 
-#EXTINF:-1 tvg-id="[MK] Sky Folk HD" tvg-logo="noimage.png" group-title="MAKEDONIJA", [MK] Sky Folk HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6526
+#EXTINF:-1 tvg-id="SR: Arena Sport 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33810227281.png" group-title="SPORT", SR: Arena Sport 5 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136355
 
-#EXTINF:-1 tvg-id="slo1" tvg-logo="noimage.png" group-title="SLOVENIA", SLO 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/217
+#EXTINF:-1 tvg-id="SR: Eurosport 1" tvg-logo="https://i.ibb.co/jvFNhFR/british-eurosport-1.png" group-title="SPORT", SR: Eurosport 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136373
 
-#EXTINF:-1 tvg-id="slo2" tvg-logo="noimage.png" group-title="SLOVENIA", SLO 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/216
+#EXTINF:-1 tvg-id="SR: Eurosport 1 HD" tvg-logo="https://i.ibb.co/jvFNhFR/british-eurosport-1.png" group-title="SPORT", SR: Eurosport 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136374
 
-#EXTINF:-1 tvg-id="HBO 1 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 1 SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/226
+#EXTINF:-1 tvg-id="SR: Eurosport 2" tvg-logo="https://curl.pk/img/u/fbd8b67d806fa8bb6007b7b542160bdb3605.png" group-title="SPORT", SR: Eurosport 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136375
 
-#EXTINF:-1 tvg-id="HBO 2 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 2 SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/225
+#EXTINF:-1 tvg-id="SR: Eurosport 2 HD" tvg-logo="https://curl.pk/img/u/fbd8b67d806fa8bb6007b7b542160bdb3605.png" group-title="SPORT", SR: Eurosport 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136376
 
-#EXTINF:-1 tvg-id="HBO 3 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", HBO 3 SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/224
+#EXTINF:-1 tvg-id="SR: Sport Klub 4" tvg-logo="https://img-cdn.curl.pk/channels_icon/65564960641.png" group-title="SPORT", SR: Sport Klub 4
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136472
 
-#EXTINF:-1 tvg-id="pop-brio" tvg-logo="noimage.png" group-title="SLOVENIA", POP Brio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/221
+#EXTINF:-1 tvg-id="SR: Sport Klub 5" tvg-logo="https://img-cdn.curl.pk/channels_icon/45815642851.png" group-title="SPORT", SR: Sport Klub 5
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136473
 
-#EXTINF:-1 tvg-id="pop-kino" tvg-logo="noimage.png" group-title="SLOVENIA", POP Kino
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/219
+#EXTINF:-1 tvg-id="SR: Sport Klub 6" tvg-logo="https://img-cdn.curl.pk/channels_icon/77896716701.png" group-title="SPORT", SR: Sport Klub 6
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136474
 
-#EXTINF:-1 tvg-id="pop-oto" tvg-logo="noimage.png" group-title="SLOVENIA", POP Oto
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/218
+#EXTINF:-1 tvg-id="SR: Sport Klub HD 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/53935170391.png" group-title="SPORT", SR: Sport Klub HD 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136469
 
-#EXTINF:-1 tvg-id="pop-tv" tvg-logo="noimage.png" group-title="SLOVENIA", POP TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/220
+#EXTINF:-1 tvg-id="SR: Sport Klub HD 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/11580956111.png" group-title="SPORT", SR: Sport Klub HD 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136470
 
-#EXTINF:-1 tvg-id="Planet TV" tvg-logo="noimage.png" group-title="SLOVENIA", Planet TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/222
+#EXTINF:-1 tvg-id="SR: Sport Klub HD 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/53266131611.png" group-title="SPORT", SR: Sport Klub HD 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136471
 
-#EXTINF:-1 tvg-id="Kanal A" tvg-logo="noimage.png" group-title="SLOVENIA", Kanal A
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/223
+#EXTINF:-1 tvg-id="SRb: Arena Sport 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18425465951.png" group-title="SPORT", SRb: Arena Sport 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136077
 
-#EXTINF:-1 tvg-id="golica-tv" tvg-logo="noimage.png" group-title="SLOVENIA", GOLICA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/209
+#EXTINF:-1 tvg-id="SRb: Arena Sport 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73155475211.png" group-title="SPORT", SRb: Arena Sport 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136078
 
-#EXTINF:-1 tvg-id="Planet SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Planet SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8035
+#EXTINF:-1 tvg-id="SRb: Arena Sport 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97678525591.png" group-title="SPORT", SRb: Arena Sport 3 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136079
 
-#EXTINF:-1 tvg-id="Planet Plus SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Planet Plus SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8038
+#EXTINF:-1 tvg-id="BO: Docubox" tvg-logo="https://img-cdn.curl.pk/channels_icon/24406860991.png" group-title="DOKU", BO: Docubox
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136216
 
-#EXTINF:-1 tvg-id="Nova 24 SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Nova 24 SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8037
+#EXTINF:-1 tvg-id="EX-YU: 24 Kitchen" tvg-logo="https://img-cdn.curl.pk/channels_icon/63430565111.png" group-title="DOKU", EX-YU: 24 Kitchen
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136075
 
-#EXTINF:-1 tvg-id="Fox Crime SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Fox Crime SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8040
+#EXTINF:-1 tvg-id="EX-YU: Animal Planet" tvg-logo="https://img-cdn.curl.pk/channels_icon/78219120691.png" group-title="DOKU", EX-YU: Animal Planet
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136076
 
-#EXTINF:-1 tvg-id="Fox Life SLO" tvg-logo="noimage.png" group-title="SLOVENIA", Fox Life SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8039
+#EXTINF:-1 tvg-id="EX-YU: Bbc Earth" tvg-logo="https://img-cdn.curl.pk/channels_icon/88192570441.png" group-title="DOKU", EX-YU: Bbc Earth
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136198
 
-#EXTINF:-1 tvg-id="rts1.sr" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA", RTS 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/521
+#EXTINF:-1 tvg-id="EX-YU: Discovery Serbia" tvg-logo="https://img-cdn.curl.pk/chimg/5015388448.jpg" group-title="DOKU", EX-YU: Discovery Serbia
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136199
 
-#EXTINF:-1 tvg-id="rts2.sr" tvg-logo="http://116.203.156.75/logo/RTS2_logo.png" group-title="SRBIJA", RTS 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/520
+#EXTINF:-1 tvg-id="EX-YU: History" tvg-logo="https://img-cdn.curl.pk/channels_icon/74096593401.png" group-title="DOKU", EX-YU: History
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136113
 
-#EXTINF:-1 tvg-id="rts3.sr" tvg-logo="http://116.203.156.75/logo/rts3.png" group-title="SRBIJA", RTS 3 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/519
+#EXTINF:-1 tvg-id="EX-YU: History 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/80033531301.png" group-title="DOKU", EX-YU: History 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136197
 
-#EXTINF:-1 tvg-id="rts1.sr" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA", RTS 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6886
+#EXTINF:-1 tvg-id="EX-YU: History Channel" tvg-logo="https://img-cdn.curl.pk/channels_icon/30219188491.png" group-title="DOKU", EX-YU: History Channel
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136167
 
-#EXTINF:-1 tvg-id="rts2.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS2_logo.png" group-title="SRBIJA", RTS 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9353
+#EXTINF:-1 tvg-id="EX-YU: Tlc" tvg-logo="https://img-cdn.curl.pk/chimg/1105984083.jpg" group-title="DOKU", EX-YU: Tlc
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136200
 
-#EXTINF:-1 tvg-id="rts-svet" tvg-logo="http://116.203.156.75/logo/rts_svet.png" group-title="SRBIJA", RTS Svet HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/516
+#EXTINF:-1 tvg-id="MK: Viasat Explore" tvg-logo="https://img-cdn.curl.pk/channels_icon/17445560551.png" group-title="DOKU", MK: Viasat Explore
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136348
 
-#EXTINF:-1 tvg-id="rts-nauka" tvg-logo="http://nova-iptv.com/logo/rtsnauka.png" group-title="SRBIJA", RTS Nauka
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12552
+#EXTINF:-1 tvg-id="MK: Viasat History" tvg-logo="https://img-cdn.curl.pk/channels_icon/47460924031.png" group-title="DOKU", MK: Viasat History
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136347
 
-#EXTINF:-1 tvg-id="rts-drama" tvg-logo="http://116.203.156.75/logo/RTS_Drama_logo.png" group-title="SRBIJA", RTS Drama
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/518
+#EXTINF:-1 tvg-id="Nat Geo Wild FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62283309881.png" group-title="DOKU", Nat Geo Wild FHD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136193
 
-#EXTINF:-1 tvg-id="rts-zivot" tvg-logo="http://nova-iptv.com/logo/RTS_Zivot_logo.png" group-title="SRBIJA", RTS Zivot
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/517
+#EXTINF:-1 tvg-id="NAtional Geographic HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63793644131.png" group-title="DOKU", NAtional Geographic HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136192
 
-#EXTINF:-1 tvg-id="rts-kolo" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Kolo_logo.jpg" group-title="SRBIJA", RTS Kolo
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6399
+#EXTINF:-1 tvg-id="SR: Da Vinci Learning" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/842271487028daab318892e8cbc3b8da.png" group-title="DOKU", SR: Da Vinci Learning
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136372
 
-#EXTINF:-1 tvg-id="RTS Muzika" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Muzika_logo.png" group-title="SRBIJA", RTS Muzika
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6398
+#EXTINF:-1 tvg-id="SR: Discovery Science" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/899c775331a40af5ed54c3f5c1622372.png" group-title="DOKU", SR: Discovery Science
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136371
 
-#EXTINF:-1 tvg-id="rts-trezor" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS_Trezor_logo.png" group-title="SRBIJA", RTS Trezor
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6400
+#EXTINF:-1 tvg-id="SR: National Geographic HD" tvg-logo="https://img-cdn.curl.pk/chimg/8754545404.png" group-title="DOKU", SR: National Geographic HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136398
 
-#EXTINF:-1 tvg-id="rts-poletarac" tvg-logo="http://nova-iptv.com/logo/RTS_Poletarac_logo.png" group-title="SRBIJA", RTS Poletarac
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12340
+#EXTINF:-1 tvg-id="SR: National Geographic Wild HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26432671221.png" group-title="DOKU", SR: National Geographic Wild HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136399
 
-#EXTINF:-1 tvg-id="RTS Klasika" tvg-logo="http://nova-iptv.com/logo/rts-klasika-logo.png" group-title="SRBIJA", RTS Klasika
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12525
+#EXTINF:-1 tvg-id="SR: Viasat Explore" tvg-logo="https://img-cdn.curl.pk/channels_icon/17351051801.png" group-title="DOKU", SR: Viasat Explore
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136479
 
-#EXTINF:-1 tvg-id="kurir-tv" tvg-logo="http://116.203.156.75/logo/KurirTV_logo.png" group-title="SRBIJA", Kurir TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9305
+#EXTINF:-1 tvg-id="SR: Viasat History" tvg-logo="https://img-cdn.curl.pk/channels_icon/10362395101.png" group-title="DOKU", SR: Viasat History
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136480
 
-#EXTINF:-1 tvg-id="Blic TV HD" tvg-logo="http://nova-iptv.com/logo/blictv.png" group-title="SRBIJA", Blic TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12703
+#EXTINF:-1 tvg-id="SR: Viasat Nature" tvg-logo="https://img-cdn.curl.pk/channels_icon/24978221661.png" group-title="DOKU", SR: Viasat Nature
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136478
 
-#EXTINF:-1 tvg-id="n1-rs" tvg-logo="http://nova-iptv.com/logo/n1-logo.png" group-title="SRBIJA", N1 SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9271
+#EXTINF:-1 tvg-id="VIasat Explore" tvg-logo="https://img-cdn.curl.pk/channels_icon/53142899651.png" group-title="DOKU", VIasat Explore
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136195
 
-#EXTINF:-1 tvg-id="Euro News Srb" tvg-logo="http://nova-iptv.com/logo/Euronews_2016_Logo.png" group-title="SRBIJA", Euro News Srb
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6524
+#EXTINF:-1 tvg-id="VIasat History" tvg-logo="https://img-cdn.curl.pk/chimg/9981213346.jpg" group-title="DOKU", VIasat History
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136194
 
-#EXTINF:-1 tvg-id="tanjug-tv" tvg-logo="http://nova-iptv.com/logo/tanjug_logo.png" group-title="SRBIJA", Tanjug HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12524
+#EXTINF:-1 tvg-id="VIasat Nature" tvg-logo="https://img-cdn.curl.pk/chimg/2716972549.jpg" group-title="DOKU", VIasat Nature
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136196
 
-#EXTINF:-1 tvg-id="informer-tv" tvg-logo="http://nova-iptv.com/logo/informer_tv.png" group-title="SRBIJA", Informer TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13010
+#EXTINF:-1 tvg-id="BO: Pink Bh" tvg-logo="https://img-cdn.curl.pk/channels_icon/93141437101.png" group-title="PINK PAKET", BO: Pink Bh
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136260
 
-#EXTINF:-1 tvg-id="k1.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/k1-tv-srbija.png" group-title="SRBIJA", K1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10263
+#EXTINF:-1 tvg-id="EX-YU: Pink 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/33628465661.png" group-title="PINK PAKET", EX-YU: Pink 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136156
 
-#EXTINF:-1 tvg-id="TV DR" tvg-logo="http://nova-iptv.com/logo/tvdr.png" group-title="SRBIJA", TV DR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12551
+#EXTINF:-1 tvg-id="EX-YU: Pink Action" tvg-logo="https://img-cdn.curl.pk/channels_icon/11103844751.png" group-title="PINK PAKET", EX-YU: Pink Action
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136157
 
-#EXTINF:-1 tvg-id="b92.sr" tvg-logo="http://116.203.156.75/logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8022
+#EXTINF:-1 tvg-id="EX-YU: Pink Crime & Mystery" tvg-logo="https://img-cdn.curl.pk/channels_icon/83710735311.png" group-title="PINK PAKET", EX-YU: Pink Crime & Mystery
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136148
 
-#EXTINF:-1 tvg-id="b92.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/594
+#EXTINF:-1 tvg-id="EX-YU: Pink Extra" tvg-logo="https://img-cdn.curl.pk/channels_icon/68971556591.png" group-title="PINK PAKET", EX-YU: Pink Extra
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136141
 
-#EXTINF:-1 tvg-id="b92.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="SRBIJA", B92 TV HD.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12345
+#EXTINF:-1 tvg-id="EX-YU: Pink Fashion" tvg-logo="https://img-cdn.curl.pk/channels_icon/84729977501.png" group-title="PINK PAKET", EX-YU: Pink Fashion
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136137
 
-#EXTINF:-1 tvg-id="nova-s.sr" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/nova_s_logo.png" group-title="SRBIJA", NOVA S
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9274
+#EXTINF:-1 tvg-id="EX-YU: Pink Folk 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/26666524371.png" group-title="PINK PAKET", EX-YU: Pink Folk 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136144
 
-#EXTINF:-1 tvg-id="Nova Series HD" tvg-logo="https://mojtv.hr/m2/img/ch/726.png" group-title="SRBIJA", Nova Series HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12973
+#EXTINF:-1 tvg-id="EX-YU: Pink Horror" tvg-logo="https://img-cdn.curl.pk/channels_icon/53367389141.png" group-title="PINK PAKET", EX-YU: Pink Horror
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136145
 
-#EXTINF:-1 tvg-id="nova-m.cg" tvg-logo="http://nova-iptv.com/logo/Nova_MAX.png" group-title="SRBIJA", NOVA Max HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12748
+#EXTINF:-1 tvg-id="EX-YU: Pink Kuvar" tvg-logo="https://img-cdn.curl.pk/channels_icon/95792998211.png" group-title="PINK PAKET", EX-YU: Pink Kuvar
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136154
 
-#EXTINF:-1 tvg-id="happy-tv" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA", Happy TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/567
+#EXTINF:-1 tvg-id="EX-YU: Pink Movie" tvg-logo="https://img-cdn.curl.pk/channels_icon/20800277571.png" group-title="PINK PAKET", EX-YU: Pink Movie
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136149
 
-#EXTINF:-1 tvg-id="happy-zivot" tvg-logo="http://nova-iptv.com/logo/happy_zivot.png" group-title="SRBIJA", Happy Zivot
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12705
+#EXTINF:-1 tvg-id="EX-YU: Pink Movies" tvg-logo="https://img-cdn.curl.pk/channels_icon/15483668041.png" group-title="PINK PAKET", EX-YU: Pink Movies
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136155
 
-#EXTINF:-1 tvg-id="happy-drustvo" tvg-logo="http://nova-iptv.com/logo/happy_drustvo.png" group-title="SRBIJA", Happy Drustvo
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12704
+#EXTINF:-1 tvg-id="EX-YU: Pink Music 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/57818110511.png" group-title="PINK PAKET", EX-YU: Pink Music 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136138
 
-#EXTINF:-1 tvg-id="happy-zemlja" tvg-logo="http://nova-iptv.com/logo/happy_zemlja.png" group-title="SRBIJA", Happy Zemlja
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12800
+#EXTINF:-1 tvg-id="EX-YU: Pink Plus" tvg-logo="https://img-cdn.curl.pk/channels_icon/32578675451.png" group-title="PINK PAKET", EX-YU: Pink Plus
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136146
 
-#EXTINF:-1 tvg-id="Happy Muzika" tvg-logo="http://nova-iptv.com/logo/happy_muzika.png" group-title="SRBIJA", Happy Muzika
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12706
+#EXTINF:-1 tvg-id="EX-YU: Pink Premium" tvg-logo="https://img-cdn.curl.pk/channels_icon/48384439481.png" group-title="PINK PAKET", EX-YU: Pink Premium
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136150
 
-#EXTINF:-1 tvg-id="prva-tv.sr" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", Prva TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8021
+#EXTINF:-1 tvg-id="EX-YU: Pink Premium" tvg-logo="https://img-cdn.curl.pk/channels_icon/86319708951.png" group-title="PINK PAKET", EX-YU: Pink Premium
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136158
 
-#EXTINF:-1 tvg-id="prva-tv.sr" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", Prva HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/539
+#EXTINF:-1 tvg-id="EX-YU: Pink Reality" tvg-logo="https://img-cdn.curl.pk/channels_icon/57681660011.png" group-title="PINK PAKET", EX-YU: Pink Reality
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136151
 
-#EXTINF:-1 tvg-id="prva-tv.sr" tvg-logo="http://116.203.156.75/logo/Prva_TV.png" group-title="SRBIJA", PRVA HD.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12346
+#EXTINF:-1 tvg-id="EX-YU: Pink Thriller" tvg-logo="https://img-cdn.curl.pk/channels_icon/66977136011.png" group-title="PINK PAKET", EX-YU: Pink Thriller
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136159
 
-#EXTINF:-1 tvg-id="prva-max" tvg-logo="http://116.203.156.75/logo/Prva_Max.png" group-title="SRBIJA", Prva Max
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/538
+#EXTINF:-1 tvg-id="EX-YU: Pink Western" tvg-logo="https://img-cdn.curl.pk/channels_icon/44958286781.png" group-title="PINK PAKET", EX-YU: Pink Western
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136139
 
-#EXTINF:-1 tvg-id="prva-plus" tvg-logo="http://116.203.156.75/logo/prva_plus.png" group-title="SRBIJA", Prva Plus
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/537
+#EXTINF:-1 tvg-id="EX-YU: Pink Western" tvg-logo="https://img-cdn.curl.pk/channels_icon/42677635581.png" group-title="PINK PAKET", EX-YU: Pink Western
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136152
 
-#EXTINF:-1 tvg-id="Prva Kick" tvg-logo="http://116.203.156.75/logo/Prva_Kick.png" group-title="SRBIJA", Prva Kick
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3649
+#EXTINF:-1 tvg-id="EX-YU: Pink World Cinema" tvg-logo="https://img-cdn.curl.pk/channels_icon/87061106291.png" group-title="PINK PAKET", EX-YU: Pink World Cinema
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136153
 
-#EXTINF:-1 tvg-id="prva-life" tvg-logo="http://116.203.156.75/logo/Prva_Life.png" group-title="SRBIJA", Prva Life
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12556
+#EXTINF:-1 tvg-id="PInk Romance" tvg-logo="https://img-cdn.curl.pk/channels_icon/58184633701.png" group-title="PINK PAKET", PInk Romance
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136147
 
-#EXTINF:-1 tvg-id="prva-world" tvg-logo="http://116.203.156.75/logo/Prva_World.png" group-title="SRBIJA", Prva World
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/536
+#EXTINF:-1 tvg-id="SR: Pink 1" tvg-logo="https://img-cdn.curl.pk/chimg/5580724423.jpg" group-title="PINK PAKET", SR: Pink 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136406
 
-#EXTINF:-1 tvg-id="prva-files" tvg-logo="http://116.203.156.75/logo/Prva_Files.png" group-title="SRBIJA", Prva Files
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/545
+#EXTINF:-1 tvg-id="SR: Pink 2" tvg-logo="https://img-cdn.curl.pk/chimg/8125846244.jpg" group-title="PINK PAKET", SR: Pink 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136407
 
-#EXTINF:-1 tvg-id="narodna-tv" tvg-logo="http://nova-iptv.com/logo/narodna_tv.png" group-title="SRBIJA", Narodna TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12728
+#EXTINF:-1 tvg-id="SR: Pink 2 Red TV" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f02340f4530191299314a0785679aefa.png" group-title="PINK PAKET", SR: Pink 2 Red TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136439
 
-#EXTINF:-1 tvg-id="hype-tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Hype_TV.png" group-title="SRBIJA", Hype TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12578
+#EXTINF:-1 tvg-id="SR: Pink 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/49447912631.png" group-title="PINK PAKET", SR: Pink 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136408
 
-#EXTINF:-1 tvg-id="bloomberg-adria" tvg-logo="http://nova-iptv.com/logo/bloomberg.png" group-title="SRBIJA", Bloomberg Adria
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12611
+#EXTINF:-1 tvg-id="SR: Pink Action" tvg-logo="https://img-cdn.curl.pk/chimg/7807531486.jpg" group-title="PINK PAKET", SR: Pink Action
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136415
 
-#EXTINF:-1 tvg-id="K::CN 1" tvg-logo="http://116.203.156.75/logo/kcn1.png" group-title="SRBIJA", K::CN 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/400
+#EXTINF:-1 tvg-id="SR: Pink Bh" tvg-logo="https://img-cdn.curl.pk/channels_icon/10734826511.png" group-title="PINK PAKET", SR: Pink Bh
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136445
 
-#EXTINF:-1 tvg-id="K::CN Music 2" tvg-logo="http://116.203.156.75/logo/kcn2.png" group-title="SRBIJA", K::CN 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/399
+#EXTINF:-1 tvg-id="SR: Pink Classic Srb" tvg-logo="https://img-cdn.curl.pk/chimg/6858883291.jpg" group-title="PINK PAKET", SR: Pink Classic Srb
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136412
 
-#EXTINF:-1 tvg-id="K::CN Svet +3 (W2)" tvg-logo="http://116.203.156.75/logo/kcn3.png" group-title="SRBIJA", K::CN 3
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/398
+#EXTINF:-1 tvg-id="SR: Pink Comedy" tvg-logo="https://img-cdn.curl.pk/chimg/2387006448.jpg" group-title="PINK PAKET", SR: Pink Comedy
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136423
 
-#EXTINF:-1 tvg-id="agro-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/agrotv_logo-1.png" group-title="SRBIJA", Agro TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8865
+#EXTINF:-1 tvg-id="SR: Pink Crime & Mystery" tvg-logo="https://img-cdn.curl.pk/chimg/4244405703.jpg" group-title="PINK PAKET", SR: Pink Crime & Mystery
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136440
 
-#EXTINF:-1 tvg-id="Super Sat HD" tvg-logo="http://116.203.156.75/logo/SuperSat.png" group-title="SRBIJA", Super Sat HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12101
+#EXTINF:-1 tvg-id="SR: Pink Crime And Mistery" tvg-logo="https://img-cdn.curl.pk/channels_icon/93521132841.png" group-title="PINK PAKET", SR: Pink Crime And Mistery
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136441
 
-#EXTINF:-1 tvg-id="rtv-vojvodina" tvg-logo="http://nova-iptv.com/logo/rtv-1.png" group-title="SRBIJA", RTV Vojvodina
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/513
+#EXTINF:-1 tvg-id="SR: Pink Extra" tvg-logo="https://img-cdn.curl.pk/chimg/3408093011.jpg" group-title="PINK PAKET", SR: Pink Extra
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136410
 
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://nova-iptv.com/logo/studiob-logo.png" group-title="SRBIJA", Studio B
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3650
+#EXTINF:-1 tvg-id="SR: Pink Family" tvg-logo="https://img-cdn.curl.pk/chimg/8875823789.jpg" group-title="PINK PAKET", SR: Pink Family
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136411
 
-#EXTINF:-1 tvg-id="Palma Plus" tvg-logo="http://116.203.156.75/logo/palma_plus.png" group-title="SRBIJA", Palma Plus
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3666
+#EXTINF:-1 tvg-id="SR: Pink Film" tvg-logo="https://img-cdn.curl.pk/chimg/8984482335.jpg" group-title="PINK PAKET", SR: Pink Film
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136422
 
-#EXTINF:-1 tvg-id="BELLE AMIE" tvg-logo="http://116.203.156.75/logo/belle-amie-logo.png" group-title="SRBIJA", BELLE AMIE
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3665
+#EXTINF:-1 tvg-id="SR: Pink Folk 1" tvg-logo="https://img-cdn.curl.pk/chimg/7529418068.jpg" group-title="PINK PAKET", SR: Pink Folk 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136417
 
-#EXTINF:-1 tvg-id="Insajder TV" tvg-logo="http://nova-iptv.com/logo/InsajderRV_Srb_logo.png" group-title="SRBIJA", Insajder TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/515
+#EXTINF:-1 tvg-id="SR: Pink Folk 2 HD" tvg-logo="https://img-cdn.curl.pk/chimg/2202231593.jpg" group-title="PINK PAKET", SR: Pink Folk 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136418
 
-#EXTINF:-1 tvg-id="hram-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/9/96/Logo_Televizija_Hram.png" group-title="SRBIJA", Hram TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8227
+#EXTINF:-1 tvg-id="SR: Pink Haha Srb" tvg-logo="https://img-cdn.curl.pk/channels_icon/80255736001.png" group-title="PINK PAKET", SR: Pink Haha Srb
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136444
 
-#EXTINF:-1 tvg-id="RTV Novi Pazar" tvg-logo="http://116.203.156.75/logo/novi_pazar.png" group-title="SRBIJA", RTV Novi Pazar
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/512
+#EXTINF:-1 tvg-id="SR: Pink Hits 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/42939967351.png" group-title="PINK PAKET", SR: Pink Hits 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136419
 
-#EXTINF:-1 tvg-id="HAPPY PAROVI 24 SATA" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA", HAPPY PAROVI 24 SATA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/568
+#EXTINF:-1 tvg-id="SR: Pink Hits 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/61270405091.png" group-title="PINK PAKET", SR: Pink Hits 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136420
 
-#EXTINF:-1 tvg-id="Elita Live 1" tvg-logo="http://nova-iptv.com/logo/elita1.png" group-title="SRBIJA", Elita Live 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6334
+#EXTINF:-1 tvg-id="SR: Pink Hits Srb" tvg-logo="https://img-cdn.curl.pk/chimg/5607331081.jpg" group-title="PINK PAKET", SR: Pink Hits Srb
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136442
 
-#EXTINF:-1 tvg-id="Elita Live 2" tvg-logo="http://nova-iptv.com/logo/elita2.png" group-title="SRBIJA", Elita Live 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8217
+#EXTINF:-1 tvg-id="SR: Pink Horror" tvg-logo="https://img-cdn.curl.pk/chimg/8619838360.jpg" group-title="PINK PAKET", SR: Pink Horror
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136414
 
-#EXTINF:-1 tvg-id="Elita Live 3" tvg-logo="http://nova-iptv.com/logo/elita3.png" group-title="SRBIJA", Elita Live 3
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8218
+#EXTINF:-1 tvg-id="SR: Pink Kids" tvg-logo="https://img-cdn.curl.pk/chimg/2559764800.jpg" group-title="PINK PAKET", SR: Pink Kids
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136413
 
-#EXTINF:-1 tvg-id="Elita Live 4" tvg-logo="http://nova-iptv.com/logo/elita4.png" group-title="SRBIJA", Elita Live 4
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8501
+#EXTINF:-1 tvg-id="SR: Pink Movies" tvg-logo="https://img-cdn.curl.pk/chimg/6064580897.jpg" group-title="PINK PAKET", SR: Pink Movies
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136421
 
-#EXTINF:-1 tvg-id="max-sport-1" tvg-logo="http://116.203.156.75/logo/MAXSport_1_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12540
+#EXTINF:-1 tvg-id="SR: Pink Music" tvg-logo="https://img-cdn.curl.pk/chimg/6845175396.jpg" group-title="PINK PAKET", SR: Pink Music
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136425
 
-#EXTINF:-1 tvg-id="max-sport-2" tvg-logo="http://116.203.156.75/logo/MAXSport_2_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12986
+#EXTINF:-1 tvg-id="SR: Pink Pedia" tvg-logo="https://img-cdn.curl.pk/chimg/4323481169.jpg" group-title="PINK PAKET", SR: Pink Pedia
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136432
 
-#EXTINF:-1 tvg-id="MAX SPORT 3 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_3_HR_logo_v2.png" group-title="SPORTSKI", MAX SPORT 3 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13490
+#EXTINF:-1 tvg-id="SR: Pink Plus" tvg-logo="https://img-cdn.curl.pk/chimg/4277311120.jpg" group-title="PINK PAKET", SR: Pink Plus
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136409
 
-#EXTINF:-1 tvg-id="MAX SPORT 4 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_4_HR_logo.png" group-title="SPORTSKI", MAX SPORT 4 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13491
+#EXTINF:-1 tvg-id="SR: Pink Premium" tvg-logo="https://img-cdn.curl.pk/chimg/9323969299.jpg" group-title="PINK PAKET", SR: Pink Premium
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136434
 
-#EXTINF:-1 tvg-id="MAX SPORT 5 HD" tvg-logo="http://116.203.156.75/logo/MAXSport_5_HR_logo.png" group-title="SPORTSKI", MAX SPORT 5 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13492
+#EXTINF:-1 tvg-id="SR: Pink Reality" tvg-logo="https://img-cdn.curl.pk/chimg/6790307746.jpg" group-title="PINK PAKET", SR: Pink Reality
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136431
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12342
+#EXTINF:-1 tvg-id="SR: Pink Romance" tvg-logo="https://img-cdn.curl.pk/chimg/5739818388.jpg" group-title="PINK PAKET", SR: Pink Romance
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136416
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12343
+#EXTINF:-1 tvg-id="SR: Pink Sci Fi & Fantasy" tvg-logo="https://img-cdn.curl.pk/chimg/2619971513.jpg" group-title="PINK PAKET", SR: Pink Sci Fi & Fantasy
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136435
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12344
+#EXTINF:-1 tvg-id="SR: Pink Sci-fi And Fantasy" tvg-logo="https://img-cdn.curl.pk/channels_icon/13487393041.png" group-title="PINK PAKET", SR: Pink Sci-fi And Fantasy
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136436
 
-#EXTINF:-1 tvg-id="arena-sport-4-premium" tvg-logo="http://116.203.156.75/logo/arena4premium.png" group-title="SPORTSKI", Arena Sport 4 Premium HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13565
+#EXTINF:-1 tvg-id="SR: Pink Serije Srb" tvg-logo="https://img-cdn.curl.pk/chimg/8390887786.jpg" group-title="PINK PAKET", SR: Pink Serije Srb
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136424
 
-#EXTINF:-1 tvg-id="arena-sport-5-premium" tvg-logo="http://116.203.156.75/logo/arena5premium.png" group-title="SPORTSKI", Arena Sport 5 Premium HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13566
+#EXTINF:-1 tvg-id="SR: Pink Soap" tvg-logo="https://img-cdn.curl.pk/chimg/3669992595.jpg" group-title="PINK PAKET", SR: Pink Soap
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136427
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12362
+#EXTINF:-1 tvg-id="SR: Pink Style" tvg-logo="https://img-cdn.curl.pk/chimg/6104108572.jpg" group-title="PINK PAKET", SR: Pink Style
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136430
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12363
+#EXTINF:-1 tvg-id="SR: Pink Super Kids" tvg-logo="https://img-cdn.curl.pk/channels_icon/35546696201.png" group-title="PINK PAKET", SR: Pink Super Kids
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136429
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12392
+#EXTINF:-1 tvg-id="SR: Pink Thriler" tvg-logo="https://img-cdn.curl.pk/chimg/1275044680.jpg" group-title="PINK PAKET", SR: Pink Thriler
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136426
 
-#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 1 Premium BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13011
+#EXTINF:-1 tvg-id="SR: Pink Thriller" tvg-logo="https://img-cdn.curl.pk/channels_icon/58087546391.png" group-title="PINK PAKET", SR: Pink Thriller
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136438
 
-#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 2 Premium BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13012
+#EXTINF:-1 tvg-id="SR: Pink Western" tvg-logo="https://img-cdn.curl.pk/chimg/4846904111.jpg" group-title="PINK PAKET", SR: Pink Western
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136433
 
-#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI", Arena Sport 3 Premium BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13013
+#EXTINF:-1 tvg-id="SR: Pink World" tvg-logo="https://img-cdn.curl.pk/chimg/2883500951.jpg" group-title="PINK PAKET", SR: Pink World
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136428
 
-#EXTINF:-1 tvg-id="Arena Sport 4 Premium BIH" tvg-logo="http://116.203.156.75/logo/arena4premium.png" group-title="SPORTSKI", Arena Sport 4 Premium BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13759
+#EXTINF:-1 tvg-id="SR: Pink Zabava" tvg-logo="https://img-cdn.curl.pk/channels_icon/99550674301.png" group-title="PINK PAKET", SR: Pink Zabava
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136437
 
-#EXTINF:-1 tvg-id="Arena Sport 5 Premium BIH" tvg-logo="http://116.203.156.75/logo/arena5premium.png" group-title="SPORTSKI", Arena Sport 5 Premium BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13760
+#EXTINF:-1 tvg-id="SR: Pink Zadruga 1 Uzivo 24/7" tvg-logo="https://img-cdn.curl.pk/chimg/4122458697.png" group-title="PINK PAKET", SR: Pink Zadruga 1 Uzivo 24/7
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136443
 
-#EXTINF:-1 tvg-id="arena-sport-1-bih" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12166
+#EXTINF:-1 tvg-id="SRb: Pink Film" tvg-logo="https://img-cdn.curl.pk/channels_icon/89313302521.png" group-title="PINK PAKET", SRb: Pink Film
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136142
 
-#EXTINF:-1 tvg-id="arena-sport-2-bih" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13002
+#EXTINF:-1 tvg-id="SRb: Pink Folk 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/38769061421.png" group-title="PINK PAKET", SRb: Pink Folk 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136143
 
-#EXTINF:-1 tvg-id="arena-sport-3-bih" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13003
+#EXTINF:-1 tvg-id="EX-YU: Hbo 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/45247664501.png" group-title="FILMSKI", EX-YU: Hbo 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136096
 
-#EXTINF:-1 tvg-id="arena-sport-4-bih" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13004
+#EXTINF:-1 tvg-id="EX-YU: Hbo 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/81333281001.png" group-title="FILMSKI", EX-YU: Hbo 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136097
 
-#EXTINF:-1 tvg-id="arena-sport-5-bih" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13005
+#EXTINF:-1 tvg-id="EX-YU: Hbo 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/19764369341.png" group-title="FILMSKI", EX-YU: Hbo 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136098
 
-#EXTINF:-1 tvg-id="arena-sport-6-bih" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="SPORTSKI", Arena Sport 6 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13006
+#EXTINF:-1 tvg-id="EX-YU: Hbo Adria" tvg-logo="https://img-cdn.curl.pk/channels_icon/43779059361.png" group-title="FILMSKI", EX-YU: Hbo Adria
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136202
 
-#EXTINF:-1 tvg-id="Arena Sport 7 BIH" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13758
+#EXTINF:-1 tvg-id="MK: Hbo" tvg-logo="https://img-cdn.curl.pk/channels_icon/53680429621.png" group-title="FILMSKI", MK: Hbo
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136296
 
-#EXTINF:-1 tvg-id="arena-sport-1-bih" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD BIH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6776
+#EXTINF:-1 tvg-id="MK: Hbo 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/14299043771.png" group-title="FILMSKI", MK: Hbo 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136297
 
-#EXTINF:-1 tvg-id="arena-sport-1-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/490
+#EXTINF:-1 tvg-id="MK: Hbo 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/66448314701.png" group-title="FILMSKI", MK: Hbo 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136298
 
-#EXTINF:-1 tvg-id="arena-sport-2-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12051
+#EXTINF:-1 tvg-id="MK: Hbo 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/92779463951.png" group-title="FILMSKI", MK: Hbo 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136299
 
-#EXTINF:-1 tvg-id="arena-sport-3-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12050
+#EXTINF:-1 tvg-id="SR: Hbo 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8793bbbaed74f06c31cd15396c80860d.png" group-title="FILMSKI", SR: Hbo 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136384
 
-#EXTINF:-1 tvg-id="arena-sport-4-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12049
+#EXTINF:-1 tvg-id="SR: Hbo 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a1ecae6496a75ddb5813933e3ac4503a.png" group-title="FILMSKI", SR: Hbo 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136385
 
-#EXTINF:-1 tvg-id="arena-sport-5-sr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/491
+#EXTINF:-1 tvg-id="SR: Hbo 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d86dd6dc8700b6d15fcae9fcbb467eef.png" group-title="FILMSKI", SR: Hbo 3 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136386
 
-#EXTINF:-1 tvg-id="arena-sport-6-sr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13068
+#EXTINF:-1 tvg-id="SR: Hbo Adria" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d3e3a7b7f6ae4ba649f9175ce596d692.png" group-title="FILMSKI", SR: Hbo Adria
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136388
 
-#EXTINF:-1 tvg-id="arena-sport-7-sr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13069
+#EXTINF:-1 tvg-id="SR: Hbo Comedy" tvg-logo="https://img-cdn.curl.pk/channels_icon/41507905381.png" group-title="FILMSKI", SR: Hbo Comedy
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136387
 
-#EXTINF:-1 tvg-id="arena-sport-8-sr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13070
+#EXTINF:-1 tvg-id="BO: Maxcro Select 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74330918471.png" group-title="FILMSKI", BO: Maxcro Select 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136236
 
-#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13071
+#EXTINF:-1 tvg-id="BO: Maxcro Select 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37380283351.png" group-title="FILMSKI", BO: Maxcro Select 3 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136237
 
-#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13072
+#EXTINF:-1 tvg-id="BO: Maxcro Select 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24877820211.png" group-title="FILMSKI", BO: Maxcro Select 4 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136238
 
-#EXTINF:-1 tvg-id="arena-sport-1-hr" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/486
+#EXTINF:-1 tvg-id="BO: Maxcro Select 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53667474311.png" group-title="FILMSKI", BO: Maxcro Select 5 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136239
 
-#EXTINF:-1 tvg-id="arena-sport-2-hr" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/485
+#EXTINF:-1 tvg-id="BO: Maxcro Select 7 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92972995091.png" group-title="FILMSKI", BO: Maxcro Select 7 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136240
 
-#EXTINF:-1 tvg-id="arena-sport-3-hr" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12052
+#EXTINF:-1 tvg-id="BO: Maxcro Select 8 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15349527711.png" group-title="FILMSKI", BO: Maxcro Select 8 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136241
 
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12053
+#EXTINF:-1 tvg-id="BO: Maxcro Select 9 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98911047201.png" group-title="FILMSKI", BO: Maxcro Select 9 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136242
 
-#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI", Arena Sport 5 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/482
+#EXTINF:-1 tvg-id="EX-YU: Hbo 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/45247664501.png" group-title="FILMSKI", EX-YU: Hbo 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136096
 
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI", Arena Sport 6 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/481
+#EXTINF:-1 tvg-id="EX-YU: Hbo 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/81333281001.png" group-title="FILMSKI", EX-YU: Hbo 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136097
 
-#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI", Arena Sport 7 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12106
+#EXTINF:-1 tvg-id="EX-YU: Hbo 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/19764369341.png" group-title="FILMSKI", EX-YU: Hbo 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136098
 
-#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI", Arena Sport 8 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12107
+#EXTINF:-1 tvg-id="EX-YU: Hbo Adria" tvg-logo="https://img-cdn.curl.pk/channels_icon/43779059361.png" group-title="FILMSKI", EX-YU: Hbo Adria
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136202
 
-#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI", Arena Sport 9 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12108
+#EXTINF:-1 tvg-id="MK: Hbo" tvg-logo="https://img-cdn.curl.pk/channels_icon/53680429621.png" group-title="FILMSKI", MK: Hbo
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136296
 
-#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI", Arena Sport 10 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12109
+#EXTINF:-1 tvg-id="MK: Hbo 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/14299043771.png" group-title="FILMSKI", MK: Hbo 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136297
 
-#EXTINF:-1 tvg-id="arena 1x2" tvg-logo="http://nova-iptv.com/logo/Arena_1x2_RS_logo.png" group-title="SPORTSKI", Arena Sport 1x2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12533
+#EXTINF:-1 tvg-id="MK: Hbo 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/66448314701.png" group-title="FILMSKI", MK: Hbo 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136298
 
-#EXTINF:-1 tvg-id="arena-esport" tvg-logo="http://nova-iptv.com/logo/arena_esport_logo.png" group-title="SPORTSKI", Arena Esport
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12555
+#EXTINF:-1 tvg-id="MK: Hbo 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/92779463951.png" group-title="FILMSKI", MK: Hbo 3
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136299
 
-#EXTINF:-1 tvg-id="arena-sport-1-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI", Arena Sport 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/495
+#EXTINF:-1 tvg-id="SR: Hbo 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8793bbbaed74f06c31cd15396c80860d.png" group-title="FILMSKI", SR: Hbo 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136384
 
-#EXTINF:-1 tvg-id="arena-sport-2-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI", Arena Sport 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12045
+#EXTINF:-1 tvg-id="SR: Hbo 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a1ecae6496a75ddb5813933e3ac4503a.png" group-title="FILMSKI", SR: Hbo 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136385
 
-#EXTINF:-1 tvg-id="arena-sport-3-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI", Arena Sport 3
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12046
+#EXTINF:-1 tvg-id="SR: Hbo 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d86dd6dc8700b6d15fcae9fcbb467eef.png" group-title="FILMSKI", SR: Hbo 3 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136386
 
-#EXTINF:-1 tvg-id="arena-sport-4-sr" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI", Arena Sport 4
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12047
+#EXTINF:-1 tvg-id="SR: Hbo Adria" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d3e3a7b7f6ae4ba649f9175ce596d692.png" group-title="FILMSKI", SR: Hbo Adria
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136388
 
-#EXTINF:-1 tvg-id="arena-fight" tvg-logo="http://116.203.156.75/logo/arena_fight.png" group-title="SPORTSKI", Arena Fight HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13402
+#EXTINF:-1 tvg-id="SR: Hbo Comedy" tvg-logo="https://img-cdn.curl.pk/channels_icon/41507905381.png" group-title="FILMSKI", SR: Hbo Comedy
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136387
 
-#EXTINF:-1 tvg-id="arena-adrenalin" tvg-logo="http://116.203.156.75/logo/adrenalin.png" group-title="SPORTSKI", Arena Adrenalin
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13567
+#EXTINF:-1 tvg-id="SR: Maxcro Select 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/27058948361.png" group-title="FILMSKI", SR: Maxcro Select 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136397
 
-#EXTINF:-1 tvg-id="arena-sport-tenis" tvg-logo="http://116.203.156.75/logo/arena_tenis.png" group-title="SPORTSKI", Arena Tenis
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13568
+#EXTINF:-1 tvg-id="EX Yu: Cinestar Premiere 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/70967269261.png" group-title="FILMSKI", EX Yu: Cinestar Premiere 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136190
 
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-logo="http://nova-iptv.com/logo/SK_HD_RS_logo.png" group-title="SPORTSKI", Sport Klub HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9301
+#EXTINF:-1 tvg-id="EX-you Cinestar Premiere 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/17214962971.png" group-title="FILMSKI", EX-you Cinestar Premiere 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136092
 
-#EXTINF:-1 tvg-id="sport-klub.sport" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12037
+#EXTINF:-1 tvg-id="EX-YU: Cinestar Action" tvg-logo="https://img-cdn.curl.pk/channels_icon/29791583021.png" group-title="FILMSKI", EX-YU: Cinestar Action
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136191
 
-#EXTINF:-1 tvg-id="SK 2 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12038
+#EXTINF:-1 tvg-id="EX-YU: Cinestar TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/18452691261.png" group-title="FILMSKI", EX-YU: Cinestar TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136091
 
-#EXTINF:-1 tvg-id="SK 3 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12039
+#EXTINF:-1 tvg-id="EX-YU: Cinestar TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51950839621.png" group-title="FILMSKI", EX-YU: Cinestar TV HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136176
 
-#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12040
+#EXTINF:-1 tvg-id="EX-YU: Filmbox" tvg-logo="https://img-cdn.curl.pk/channels_icon/77368483751.png" group-title="FILMSKI", EX-YU: Filmbox
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136171
 
-#EXTINF:-1 tvg-id="Sport Klub 5 SRB" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9293
+#EXTINF:-1 tvg-id="EX-YU: Fox Movies" tvg-logo="https://img-cdn.curl.pk/channels_icon/38929723891.png" group-title="FILMSKI", EX-YU: Fox Movies
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136095
 
-#EXTINF:-1 tvg-id="Sport Klub 6" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 SRB
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12001
+#EXTINF:-1 tvg-id="EX-YU: Klasik TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/90137258511.png" group-title="FILMSKI", EX-YU: Klasik TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136114
 
-#EXTINF:-1 tvg-id="sport-klub-1-hr" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 1 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12041
+#EXTINF:-1 tvg-id="EX-YU: M1 Film" tvg-logo="https://img-cdn.curl.pk/channels_icon/58263869341.png" group-title="FILMSKI", EX-YU: M1 Film
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136172
 
-#EXTINF:-1 tvg-id="sport-klub-2-hr" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI", Sport Klub 2 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12042
+#EXTINF:-1 tvg-id="MK: Cineplex" tvg-logo="https://img-cdn.curl.pk/chimg/8985530874.png" group-title="FILMSKI", MK: Cineplex
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136287
 
-#EXTINF:-1 tvg-id="sport-klub-3-hr" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI", Sport Klub 3 HD HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12043
+#EXTINF:-1 tvg-id="MK: Cinestar 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64079730521.png" group-title="FILMSKI", MK: Cinestar 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136290
 
-#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI", Sport Klub 4 HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12044
+#EXTINF:-1 tvg-id="MK: Cinestar Premiere 1 Mk" tvg-logo="https://img-cdn.curl.pk/channels_icon/12521259971.png" group-title="FILMSKI", MK: Cinestar Premiere 1 Mk
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136291
 
-#EXTINF:-1 tvg-id="sk5" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI", Sport Klub 5 HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9299
+#EXTINF:-1 tvg-id="MK: Cinestar Premiere 2 Mk" tvg-logo="https://img-cdn.curl.pk/channels_icon/67366833291.png" group-title="FILMSKI", MK: Cinestar Premiere 2 Mk
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136292
 
-#EXTINF:-1 tvg-id="Sport Klub 6 HR" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI", Sport Klub 6 HR
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9300
+#EXTINF:-1 tvg-id="MK: Cinestar TV Premiere 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/40054403111.png" group-title="FILMSKI", MK: Cinestar TV Premiere 1 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136288
 
-#EXTINF:-1 tvg-id="SK 7 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 7
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12239
+#EXTINF:-1 tvg-id="MK: Cinestar TV Premiere 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47062602071.png" group-title="FILMSKI", MK: Cinestar TV Premiere 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136289
 
-#EXTINF:-1 tvg-id="SK 8 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 8
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12236
+#EXTINF:-1 tvg-id="SR: Cinemania" tvg-logo="https://img-cdn.curl.pk/chimg/1900155943.jpg" group-title="FILMSKI", SR: Cinemania
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136366
 
-#EXTINF:-1 tvg-id="SK 9 (SR)" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI", Sport Klub 9
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12237
+#EXTINF:-1 tvg-id="SR: Cinemax 1" tvg-logo="https://img-cdn.curl.pk/chimg/8151524705.jpg" group-title="FILMSKI", SR: Cinemax 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136365
 
-#EXTINF:-1 tvg-id="SK 10 (SR)" tvg-logo="http://nova-iptv.com/logo/SK10_RS_logo.png" group-title="SPORTSKI", Sport Klub 10
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12238
+#EXTINF:-1 tvg-id="SR: Cinestar Premiere 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/98454761011.png" group-title="FILMSKI", SR: Cinestar Premiere 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136363
 
-#EXTINF:-1 tvg-id="Sport Klub 4K" tvg-logo="http://nova-iptv.com/logo/sk-4k.png" group-title="SPORTSKI", Sport Klub 4K
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12569
+#EXTINF:-1 tvg-id="SR: Cinestar Premiere 2" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/723a3e85759c0dae199c0ddca5a84d05.png" group-title="FILMSKI", SR: Cinestar Premiere 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136364
 
-#EXTINF:-1 tvg-id="SK Golf" tvg-logo="http://nova-iptv.com/logo/SK_Golf_HR_logo.png" group-title="SPORTSKI", Sport Klub Golf
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9303
+#EXTINF:-1 tvg-id="SR: Fox Movies" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/07cd66b80b9af952c3a164cae1bbe172.png" group-title="FILMSKI", SR: Fox Movies
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136381
 
-#EXTINF:-1 tvg-id="SK Esports" tvg-logo="http://nova-iptv.com/logo/SK_esports_RS_logo.png" group-title="SPORTSKI", Sport Klub Esport
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9302
+#EXTINF:-1 tvg-id="BO: Mini TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/48388243301.png" group-title="DJECJI", BO: Mini TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136245
 
-#EXTINF:-1 tvg-id="Sport Klub Fight" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Klub Fight
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12770
+#EXTINF:-1 tvg-id="BO: Pikaboo" tvg-logo="https://img-cdn.curl.pk/channels_icon/68158442331.png" group-title="DJECJI", BO: Pikaboo
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136258
 
-#EXTINF:-1 tvg-id="Nova Sport HD" tvg-logo="http://nova-iptv.com/logo/nova_sport.png" group-title="SPORTSKI", Nova Sport HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9288
+#EXTINF:-1 tvg-id="EX-YU: Nickelodeon" tvg-logo="https://img-cdn.curl.pk/channels_icon/78281393201.png" group-title="DJECJI", EX-YU: Nickelodeon
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136168
 
-#EXTINF:-1 tvg-id="eurosport" tvg-logo="http://nova-iptv.com/logo/eurosport.png" group-title="SPORTSKI", EUROSPORT 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6540
+#EXTINF:-1 tvg-id="SR: Nick Jr." tvg-logo="https://img-cdn.curl.pk/channels_icon/86827131281.png" group-title="DJECJI", SR: Nick Jr.
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136401
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://nova-iptv.com/logo/eurosport-2.png" group-title="SPORTSKI", EUROSPORT 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/467
+#EXTINF:-1 tvg-id="SR: Nickelodeon" tvg-logo="https://img-cdn.curl.pk/chimg/9456791295.jpg" group-title="DJECJI", SR: Nickelodeon
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136400
 
-#EXTINF:-1 tvg-id="hajduk-tv" tvg-logo="http://116.203.156.75/logo/hajduktv.png" group-title="SPORTSKI", Hajduk TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13559
+#EXTINF:-1 tvg-id="BO: Mini TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/48388243301.png" group-title="DJECJI", BO: Mini TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136245
 
-#EXTINF:-1 tvg-id="kuvo-tv" tvg-logo="http://nova-iptv.com/kuvo.png" group-title="SPORTSKI", Kuvo TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12514
+#EXTINF:-1 tvg-id="BO: Pikaboo" tvg-logo="https://img-cdn.curl.pk/channels_icon/68158442331.png" group-title="DJECJI", BO: Pikaboo
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136258
 
-#EXTINF:-1 tvg-id="GP 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/GP1-logo.png" group-title="SPORTSKI", GP 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12589
+#EXTINF:-1 tvg-id="EX-YU: Nickelodeon" tvg-logo="https://img-cdn.curl.pk/channels_icon/78281393201.png" group-title="DJECJI", EX-YU: Nickelodeon
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136168
 
-#EXTINF:-1 tvg-id="Fight Box HD" tvg-logo="noimage.png" group-title="SPORTSKI", Fight Box HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5509
+#EXTINF:-1 tvg-id="SR: Nick Jr." tvg-logo="https://img-cdn.curl.pk/channels_icon/86827131281.png" group-title="DJECJI", SR: Nick Jr.
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136401
 
-#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="noimage.png" group-title="SPORTSKI", Extreme Sports
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10478
+#EXTINF:-1 tvg-id="SR: Nickelodeon" tvg-logo="https://img-cdn.curl.pk/chimg/9456791295.jpg" group-title="DJECJI", SR: Nickelodeon
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136400
 
-#EXTINF:-1 tvg-id="sos" tvg-logo="noimage.png" group-title="SPORTSKI", SOS
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/438
+#EXTINF:-1 tvg-id="SR: Tom And Jerry HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/188be7b805120cfb01f724cd6930f2ad.png" group-title="DJECJI", SR: Tom And Jerry HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136486
 
-#EXTINF:-1 tvg-id="Zvezda TV" tvg-logo="noimage.png" group-title="SPORTSKI", Zvezda TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8302
+#EXTINF:-1 tvg-id="BO: Banovina TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/18517176831.png" group-title="GLAZBENI", BO: Banovina TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136211
 
-#EXTINF:-1 tvg-id="sportska-tv" tvg-logo="noimage.png" group-title="SPORTSKI", Sportska TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/439
+#EXTINF:-1 tvg-id="BO: Bn Music" tvg-logo="https://img-cdn.curl.pk/channels_icon/44295885811.png" group-title="GLAZBENI", BO: Bn Music
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136214
 
-#EXTINF:-1 tvg-id="moja-bh" tvg-logo="noimage.png" group-title="SPORTSKI", Moja TV Premier Liga BiH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/480
+#EXTINF:-1 tvg-id="BO: Hayat Folk" tvg-logo="https://img-cdn.curl.pk/chimg/3543657563.png" group-title="GLAZBENI", BO: Hayat Folk
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136229
 
-#EXTINF:-1 tvg-id="HNTV" tvg-logo="noimage.png" group-title="SPORTSKI", HNTV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/464
+#EXTINF:-1 tvg-id="BO: Hayat Music" tvg-logo="https://img-cdn.curl.pk/channels_icon/66537354981.png" group-title="GLAZBENI", BO: Hayat Music
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136224
 
-#EXTINF:-1 tvg-id="Kreator TV" tvg-logo="noimage.png" group-title="SPORTSKI", Kreator TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/463
+#EXTINF:-1 tvg-id="BO: OTV Valentino" tvg-logo="https://img-cdn.curl.pk/channels_icon/92521769961.png" group-title="GLAZBENI", BO: OTV Valentino
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136252
 
-#EXTINF:-1 tvg-id="loviribolov" tvg-logo="noimage.png" group-title="SPORTSKI", Lov i Ribolov
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9304
+#EXTINF:-1 tvg-id="BO: Sevdah TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/79250677571.png" group-title="GLAZBENI", BO: Sevdah TV
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136206
 
-#EXTINF:-1 tvg-id="Sky Sport 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 1 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12055
+#EXTINF:-1 tvg-id="EX-YU: Hayat Folk" tvg-logo="https://img-cdn.curl.pk/channels_icon/39896076181.png" group-title="GLAZBENI", EX-YU: Hayat Folk
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136072
 
-#EXTINF:-1 tvg-id="Sky Sport 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 2 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12056
+#EXTINF:-1 tvg-id="EX-YU: OTV Valentino" tvg-logo="https://img-cdn.curl.pk/channels_icon/89219936501.png" group-title="GLAZBENI", EX-YU: OTV Valentino
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136136
 
-#EXTINF:-1 tvg-id="Sky Sport 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 3 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12057
+#EXTINF:-1 tvg-id="EX-YU: Pink Folk 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/26666524371.png" group-title="GLAZBENI", EX-YU: Pink Folk 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136144
 
-#EXTINF:-1 tvg-id="Sky Sport 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 4 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12058
+#EXTINF:-1 tvg-id="EXyu:  Kafanska" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c031f314964e8492b012711d55b1f652.png" group-title="GLAZBENI", EXyu:  Kafanska
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136059
 
-#EXTINF:-1 tvg-id="Sky Sport 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 5 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12059
+#EXTINF:-1 tvg-id="MK: Balkan Music" tvg-logo="https://img-cdn.curl.pk/channels_icon/90354364701.png" group-title="GLAZBENI", MK: Balkan Music
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136286
 
-#EXTINF:-1 tvg-id="Sky Sport 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 6 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12060
+#EXTINF:-1 tvg-id="SR: Bn Music" tvg-logo="https://img-cdn.curl.pk/chimg/3554349456.png" group-title="GLAZBENI", SR: Bn Music
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136362
 
-#EXTINF:-1 tvg-id="Sky Sport 7 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 7 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12061
+#EXTINF:-1 tvg-id="SR: Dm Sat" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/33bedac8f88636699eaeaed1c0541ae5.png" group-title="GLAZBENI", SR: Dm Sat
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136369
 
-#EXTINF:-1 tvg-id="Sky Sport 8 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 8 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12062
+#EXTINF:-1 tvg-id="SR: Pink Folk 1" tvg-logo="https://img-cdn.curl.pk/chimg/7529418068.jpg" group-title="GLAZBENI", SR: Pink Folk 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136417
 
-#EXTINF:-1 tvg-id="Sky Sport 9 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 9 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12063
+#EXTINF:-1 tvg-id="SR: Pink Folk 2 HD" tvg-logo="https://img-cdn.curl.pk/chimg/2202231593.jpg" group-title="GLAZBENI", SR: Pink Folk 2 HD
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136418
 
-#EXTINF:-1 tvg-id="Sky Sport 10 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport 10 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12064
+#EXTINF:-1 tvg-id="SR: Pink Hits 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/42939967351.png" group-title="GLAZBENI", SR: Pink Hits 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136419
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 1 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 1 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12065
+#EXTINF:-1 tvg-id="SR: Pink Hits 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/61270405091.png" group-title="GLAZBENI", SR: Pink Hits 2
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136420
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 2 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 2 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12066
+#EXTINF:-1 tvg-id="SR: Pink Hits Srb" tvg-logo="https://img-cdn.curl.pk/chimg/5607331081.jpg" group-title="GLAZBENI", SR: Pink Hits Srb
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136442
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 3 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 3 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12067
+#EXTINF:-1 tvg-id="SRb: Pink Folk 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/38769061421.png" group-title="GLAZBENI", SRb: Pink Folk 1
+http://enigmapanel.shadowplay.solutions:8000/ManAnkerDav/2pm7CrUfSR/136143
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 4 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 4 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12068
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 5 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 5 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12069
-
-#EXTINF:-1 tvg-id="Sky Bundesliga 6 HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Bundesliga 6 HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12070
-
-#EXTINF:-1 tvg-id="SKY Sport News HD (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", SKY Sport News HD (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12054
-
-#EXTINF:-1 tvg-id="Sky Sport Premier DE" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Premier DE
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13027
-
-#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austria 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12075
-
-#EXTINF:-1 tvg-id="Sky Sport Austira 6" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Austira 6
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13032
-
-#EXTINF:-1 tvg-id="Sky Sport F1 (DE)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (DE)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12078
-
-#EXTINF:-1 tvg-id="Sky Sport F1 (ENG)" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport F1 (ENG)
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12251
-
-#EXTINF:-1 tvg-id="Sky Sport Tenis" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Tenis
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13052
-
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-logo="noimage.png" group-title="SPORTSKI", Sky Sport Golf
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13053
-
-#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12071
-
-#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12072
-
-#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-logo="noimage.png" group-title="SPORTSKI", BT Sport 3 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12073
-
-#EXTINF:-1 tvg-id="SPORT TV 1 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 1 HD SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12074
-
-#EXTINF:-1 tvg-id="SPORT TV 2 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 2 HD SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/214
-
-#EXTINF:-1 tvg-id="SPORT TV 3 HD SLO" tvg-logo="noimage.png" group-title="SPORTSKI", SPORT TV 3 HD SLO
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/213
-
-#EXTINF:-1 tvg-id="ELEVEN SP 1 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 1 FHD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5764
-
-#EXTINF:-1 tvg-id="ELEVEN SP 2 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 2 FHD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5765
-
-#EXTINF:-1 tvg-id="ELEVEN SP 3 FHD" tvg-logo="noimage.png" group-title="SPORTSKI", ELEVEN SP 3 FHD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5766
-
-#EXTINF:-1 tvg-id="EUROSPORT 1 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 1 DE
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6296
-
-#EXTINF:-1 tvg-id="EUROSPORT 2 DE" tvg-logo="noimage.png" group-title="SPORTSKI", EUROSPORT 2 DE
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6297
-
-#EXTINF:-1 tvg-id="Bayern TV HD" tvg-logo="noimage.png" group-title="SPORTSKI", Bayern TV HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6103
-
-#EXTINF:-1 tvg-id="Sport Digital HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport Digital HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/461
-
-#EXTINF:-1 tvg-id="Motorvision HD" tvg-logo="noimage.png" group-title="SPORTSKI", Motorvision HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/327
-
-#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-logo="noimage.png" group-title="SPORTSKI", Auto Motor Sport
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/340
-
-#EXTINF:-1 tvg-id="Sport1 HD" tvg-logo="noimage.png" group-title="SPORTSKI", Sport1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/440
-
-#EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/471
-
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", FOX Sports 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/470
-
-#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9255
-
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9256
-
-#EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 3
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9257
-
-#EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 4
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9258
-
-#EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 5
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9259
-
-#EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 6
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9260
-
-#EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 7
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9261
-
-#EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 8
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9262
-
-#EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 9
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9263
-
-#EXTINF:-1 tvg-id="Bein Sports 10" tvg-logo="noimage.png" group-title="SPORTSKI", Bein Sports 10
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9264
-
-#EXTINF:-1 tvg-id="minimax" tvg-logo="http://116.203.156.75/logo/minimax.png" group-title="DJECIJI", MINIMAX
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/384
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/382
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI", Nickelodeon.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6864
-
-#EXTINF:-1 tvg-id="nickjr" tvg-logo="http://116.203.156.75/logo/nickjr.png" group-title="DJECIJI", Nick Jr.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/383
-
-#EXTINF:-1 tvg-id="nicktoons" tvg-logo="http://nova-iptv.com/logo/nicktoons.png" group-title="DJECIJI", Nicktoons
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8861
-
-#EXTINF:-1 tvg-id="Disney" tvg-logo="http://nova-iptv.com/logo/disney_channel_2019.png" group-title="DJECIJI", Disney
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12559
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://nova-iptv.com/logo/disney-junior-logo.png" group-title="DJECIJI", Disney Junior
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12560
-
-#EXTINF:-1 tvg-id="Jim Jam" tvg-logo="http://nova-iptv.com/logo/JimJam-_logo_new3.png" group-title="DJECIJI", Jim Jam
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12561
-
-#EXTINF:-1 tvg-id="minitv" tvg-logo="http://nova-iptv.com/logo/minitv.png" group-title="DJECIJI", Mini TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9282
-
-#EXTINF:-1 tvg-id="TNT Kids" tvg-logo="http://nova-iptv.com/logo/tnt-kids_logo.png" group-title="DJECIJI", TNT Kids
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12389
-
-#EXTINF:-1 tvg-id="pikaboo" tvg-logo="http://nova-iptv.com/logo/pikaboo_logo.png" group-title="DJECIJI", Pikaboo
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9285
-
-#EXTINF:-1 tvg-id="rtl-kockica" tvg-logo="http://nova-iptv.com/logo/rtl-kockica-logo.png" group-title="DJECIJI", RTL KOCKICA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7520
-
-#EXTINF:-1 tvg-id="hayatovci" tvg-logo="http://116.203.156.75/logo/hayatovci-logo.png" group-title="DJECIJI", Hayatovci
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/562
-
-#EXTINF:-1 tvg-id="pink-super-kids" tvg-logo="http://nova-iptv.com/logo/PinkSuperKids_logo.png" group-title="DJECIJI", Pink Super Kids
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8048
-
-#EXTINF:-1 tvg-id="kazbuka" tvg-logo="http://nova-iptv.com/logo/kazbuka.png" group-title="DJECIJI", Kazbuka
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12550
-
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://116.203.156.75/logo/Babytv.png" group-title="DJECIJI", Baby TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/388
-
-#EXTINF:-1 tvg-id="cartoon-network.toons" tvg-logo="http://116.203.156.75/logo/Cartoon_Network_Logo.jpg" group-title="DJECIJI", Cartoon Network
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/389
-
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://116.203.156.75/logo/Boomerang_Logo_2014.png" group-title="DJECIJI", Cartoonito
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/387
-
-#EXTINF:-1 tvg-id="VAVOOM" tvg-logo="http://nova-iptv.com/logo/vavoom.png" group-title="DJECIJI", VAVOOM
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10255
-
-#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Duck_TV_Plus_PL_logo.png" group-title="DJECIJI", DUCK TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10256
-
-#EXTINF:-1 tvg-id="Nova Kids" tvg-logo="noimage.png" group-title="DJECIJI", Nova Kids
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12085
-
-#EXTINF:-1 tvg-id="GORA KIDS HD" tvg-logo="noimage.png" group-title="DJECIJI", GORA KIDS HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10259
-
-#EXTINF:-1 tvg-id="Ginx TV" tvg-logo="noimage.png" group-title="DJECIJI", Ginx TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10268
-
-#EXTINF:-1 tvg-id="Pink Panter TV" tvg-logo="noimage.png" group-title="DJECIJI", Pink Panter TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8232
-
-#EXTINF:-1 tvg-id="Grizzy & the Lemmings" tvg-logo="noimage.png" group-title="DJECIJI", Grizzy & the Lemmings
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8233
-
-#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="noimage.png" group-title="DJECIJI", Tom and Jerry
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8046
-
-#EXTINF:-1 tvg-id="PEPA PRASE" tvg-logo="noimage.png" group-title="DJECIJI", PEPA PRASE
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10029
-
-#EXTINF:-1 tvg-id="MASA I MEDVJED" tvg-logo="noimage.png" group-title="DJECIJI", MASA I MEDVJED
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5671
-
-#EXTINF:-1 tvg-id="NOVA DOKU" tvg-logo="noimage.png" group-title="DOKUMENTARNI", NOVA DOKU
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10319
-
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/49.png" group-title="DOKUMENTARNI", National Geographic
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6303
-
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/national_geographic_logo.png" group-title="DOKUMENTARNI", National Geographic HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/546
-
-#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/598
-
-#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI", Animal Planet HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8848
-
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/183.png" group-title="DOKUMENTARNI", Nat Geo Wild
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/547
-
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/47.png" group-title="DOKUMENTARNI", Discovery Channel
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/583
-
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation-discovery-logo.png" group-title="DOKUMENTARNI", Discovery ID
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7275
-
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/70.png" group-title="DOKUMENTARNI", Discovery TLC
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12942
-
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://116.203.156.75/logo/Entertainment.jpg" group-title="DOKUMENTARNI", Entertaimment +
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3664
-
-#EXTINF:-1 tvg-id="Crime & Investigation" tvg-logo="http://116.203.156.75/logo/crimeinvest.jpg" group-title="DOKUMENTARNI", Crime & Investigation
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/585
-
-#EXTINF:-1 tvg-id="davinci-learning" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/90.png" group-title="DOKUMENTARNI", Da Vinci Learning
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/584
-
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-logo="http://116.203.156.75/logo/9.png" group-title="DOKUMENTARNI", Viasat Explore HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/503
-
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="http://116.203.156.75/logo/6.png" group-title="DOKUMENTARNI", Viasat History HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/502
-
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://116.203.156.75/logo/naturelogo.png" group-title="DOKUMENTARNI", Viasat Nature
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/501
-
-#EXTINF:-1 tvg-id="balkan-trip" tvg-logo="http://nova-iptv.com/logo/balkan-trip_logo.png" group-title="DOKUMENTARNI", Balkan Trip
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10270
-
-#EXTINF:-1 tvg-id="DR FIT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dr_Fit_logo.png" group-title="DOKUMENTARNI", DR FIT
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/524
-
-#EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/woman_logo.png" group-title="DOKUMENTARNI", Woman TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8866
-
-#EXTINF:-1 tvg-id="Turizam +" tvg-logo="http://nova-iptv.com/logo/turizam_plus.jpg" group-title="DOKUMENTARNI", Turizam +
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8867
-
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hgtv_logo.png" group-title="DOKUMENTARNI", HGTV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6298
-
-#EXTINF:-1 tvg-id="travel-channel" tvg-logo="http://116.203.156.75/logo/travel.png" group-title="DOKUMENTARNI", Travel Channel HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3651
-
-#EXTINF:-1 tvg-id="travelxp" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fashiontv-logo.png" group-title="DOKUMENTARNI", Travel XP
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/587
-
-#EXTINF:-1 tvg-id="planet-earth" tvg-logo="http://116.203.156.75/logo/PlanetEarth.png" group-title="DOKUMENTARNI", Planet Earth
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5389
-
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12803
-
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI", BBC Earth
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5677
-
-#EXTINF:-1 tvg-id="doku-tv" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/DOKUTV_logo.png" group-title="DOKUMENTARNI", DOKU TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5673
-
-#EXTINF:-1 tvg-id="DOX TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DoxTV_logo.png" group-title="DOKUMENTARNI", DOX TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12588
-
-#EXTINF:-1 tvg-id="docubox" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/158.png" group-title="DOKUMENTARNI", Docu Box HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/577
-
-#EXTINF:-1 tvg-id="history-channel" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/66.png" group-title="DOKUMENTARNI", History Channel
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/561
-
-#EXTINF:-1 tvg-id="history-channel2" tvg-logo="http://116.203.156.75/logo/h2-logo.png" group-title="DOKUMENTARNI", History Channel 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/569
-
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOKUMENTARNI", Food Network
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6314
-
-#EXTINF:-1 tvg-id="24-kitchen" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/71.png" group-title="DOKUMENTARNI", 24 Kitchen
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/601
-
-#EXTINF:-1 tvg-id="NOVA PREMIUM HD" tvg-logo="noimage.png" group-title="FILMSKI", NOVA PREMIUM HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8219
-
-#EXTINF:-1 tvg-id="hbo.sr" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/419
-
-#EXTINF:-1 tvg-id="hbo.sr" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI", HBO 1 HD.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12809
-
-#EXTINF:-1 tvg-id="hbo2.sr" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/418
-
-#EXTINF:-1 tvg-id="hbo2.sr" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI", HBO 2 HD.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12810
-
-#EXTINF:-1 tvg-id="hbo3.sr" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/417
-
-#EXTINF:-1 tvg-id="hbo3.sr" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI", HBO 3 HD.
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12811
-
-#EXTINF:-1 tvg-id="cinemax1" tvg-logo="http://116.203.156.75/logo/176.png" group-title="FILMSKI", Cinemax 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/435
-
-#EXTINF:-1 tvg-id="cinemax2" tvg-logo="http://116.203.156.75/logo/177.png" group-title="FILMSKI", Cinemax 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/434
-
-#EXTINF:-1 tvg-id="cinestar-premiere-1" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6543
-
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6542
-
-#EXTINF:-1 tvg-id="cinestar-premiere-1" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_1_logo.png" group-title="FILMSKI", CineStar Premiere 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/431
-
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-logo="http://nova-iptv.com/logo/CineStar_TV_premiere_2_logo.png" group-title="FILMSKI", CineStar Premiere 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/430
-
-#EXTINF:-1 tvg-id="cinestar1-tv" tvg-logo="http://116.203.156.75/logo/cine.png" group-title="FILMSKI", CineStar TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/429
-
-#EXTINF:-1 tvg-id="cinestar2-tv" tvg-logo="http://nova-iptv.com/logo/Cinestar_tv2_logo.png" group-title="FILMSKI", CineStar TV 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8304
-
-#EXTINF:-1 tvg-id="cinestar-fantasy" tvg-logo="http://116.203.156.75/logo/cinestartv_fantasy_logo.png" group-title="FILMSKI", CineStar Fantasy
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/432
-
-#EXTINF:-1 tvg-id="cinestar-action" tvg-logo="http://116.203.156.75/logo/cineaction.png" group-title="FILMSKI", Cinestar Action
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/433
-
-#EXTINF:-1 tvg-id="cinestar-comedy" tvg-logo="http://nova-iptv.com/logo/cinestartv_comedy_logo.png" group-title="FILMSKI", Cinestar Comedy
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10320
-
-#EXTINF:-1 tvg-id="cinemania" tvg-logo="http://nova-iptv.com/logo/cinemania-logo.png" group-title="FILMSKI", Cinemania HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9284
-
-#EXTINF:-1 tvg-id="star-channel" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/423
-
-#EXTINF:-1 tvg-id="star-crime" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/422
-
-#EXTINF:-1 tvg-id="star-life" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/421
-
-#EXTINF:-1 tvg-id="star-movies" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/420
-
-#EXTINF:-1 tvg-id="star-channel" tvg-logo="http://nova-iptv.com/logo/star_channel.png" group-title="FILMSKI", Star Channel HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6305
-
-#EXTINF:-1 tvg-id="star-life" tvg-logo="http://nova-iptv.com/logo/star_life.png" group-title="FILMSKI", Star Life HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6307
-
-#EXTINF:-1 tvg-id="star-crime" tvg-logo="http://nova-iptv.com/logo/star_crime.png" group-title="FILMSKI", Star Crime HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6306
-
-#EXTINF:-1 tvg-id="star-movies" tvg-logo="http://nova-iptv.com/logo/star_movies.png" group-title="FILMSKI", Star Movies HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6308
-
-#EXTINF:-1 tvg-id="superstar-tv" tvg-logo="http://nova-iptv.com/logo/SuperstarTV_logo.png" group-title="FILMSKI", SUPER STAR TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6270
-
-#EXTINF:-1 tvg-id="superstar2-tv" tvg-logo="http://nova-iptv.com/logo/Superstar_2_RS_logo.png" group-title="FILMSKI", SUPER STAR 2 TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6748
-
-#EXTINF:-1 tvg-id="superstar3-tv" tvg-logo="http://116.203.156.75/logo/superstar_3.png" group-title="FILMSKI", SUPER STAR 3 TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/13281
-
-#EXTINF:-1 tvg-id="filmbox-hits" tvg-logo="http://nova-iptv.com/logo/FILMBOX_Hits.png" group-title="FILMSKI", FilmBox+ Hits HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12802
-
-#EXTINF:-1 tvg-id="filmbox-love-crime" tvg-logo="http://nova-iptv.com/logo/FILMBOX_Love_Crime.png" group-title="FILMSKI", FilmBox+ Love&Crime HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/424
-
-#EXTINF:-1 tvg-id="filmbox-emotion" tvg-logo="http://nova-iptv.com/logo/FILMBOX_Emotion.png" group-title="FILMSKI", FilmBox+ Emotion HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5510
-
-#EXTINF:-1 tvg-id="viasat-kino" tvg-logo="http://116.203.156.75/logo/viasat_kino.png" group-title="FILMSKI", Viasat Kino
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/408
-
-#EXTINF:-1 tvg-id="amc" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/99.png" group-title="FILMSKI", AMC
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/599
-
-#EXTINF:-1 tvg-id="epic-drama" tvg-logo="http://nova-iptv.com/logo/Epic_Drama_BG_logo.png" group-title="FILMSKI", Epic Drama
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6656
-
-#EXTINF:-1 tvg-id="diva" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/50.png" group-title="FILMSKI", Diva
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/576
-
-#EXTINF:-1 tvg-id="Dizi" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DIZI_PL_logo.png" group-title="FILMSKI", Dizi
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9342
-
-#EXTINF:-1 tvg-id="scifi" tvg-logo="http://116.203.156.75/logo/sci_fi.png" group-title="FILMSKI", SciFi
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/409
-
-#EXTINF:-1 tvg-id="axn" tvg-logo="http://116.203.156.75/logo/axn.png" group-title="FILMSKI", AXN
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/596
-
-#EXTINF:-1 tvg-id="axn-spin" tvg-logo="http://nova-iptv.com/logo/axn_spin_logo.png" group-title="FILMSKI", AXN Spin
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/595
-
-#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-logo="http://nova-iptv.com/logo/comedy_central_ro.png" group-title="FILMSKI", Comedy Central Extra
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/586
-
-#EXTINF:-1 tvg-id="klasiktv" tvg-logo="http://116.203.156.75/logo/klasik.png" group-title="FILMSKI", Klasik Tv
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/415
-
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://nova-iptv.com/logo/kinotv_logo.png" group-title="FILMSKI", Kino TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/416
-
-#EXTINF:-1 tvg-id="m1-film" tvg-logo="http://nova-iptv.com/logo/m1film-logo.png" group-title="FILMSKI", M1 Film
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/414
-
-#EXTINF:-1 tvg-id="m1-gold" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Gold
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8900
-
-#EXTINF:-1 tvg-id="M1 Family" tvg-logo="http://nova-iptv.com/logo/M1-glod_logo.png" group-title="FILMSKI", M1 Family
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12861
-
-#EXTINF:-1 tvg-id="pickbox" tvg-logo="http://nova-iptv.com/logo/pickbox_logo_new.png" group-title="FILMSKI", PickBox TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8563
-
-#EXTINF:-1 tvg-id="eurocinema1" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_1_RS_logo.png" group-title="FILMSKI", Euro Cinema 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12842
-
-#EXTINF:-1 tvg-id="eurocinema2" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_2_RS_logo.png" group-title="FILMSKI", Euro Cinema 2 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12843
-
-#EXTINF:-1 tvg-id="eurocinema3" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_3_RS_logo.png" group-title="FILMSKI", Euro Cinema 3 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12844
-
-#EXTINF:-1 tvg-id="eurocinema4" tvg-logo="http://nova-iptv.com/logo/Euro_Cinema_4_RS_logo.png" group-title="FILMSKI", Euro Cinema 4 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12845
-
-#EXTINF:-1 tvg-id="Prijatelji 24/7" tvg-logo="http://airlink.club:8080/images/d63fed889a25761dbce570906b51a44e.png" group-title="FILMSKI", Prijatelji 24/7
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12337
-
-#EXTINF:-1 tvg-id="Mucke 24/7" tvg-logo="http://airlink.club:8080/images/c249201905aae2f76d255257f41ee1d1.png" group-title="FILMSKI", Mucke 24/7
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12339
-
-#EXTINF:-1 tvg-id="HBO MAX HD" tvg-logo="noimage.png" group-title="FILMSKI", HBO MAX HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6273
-
-#EXTINF:-1 tvg-id="Gora Premiere HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Premiere HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3799
-
-#EXTINF:-1 tvg-id="Gora Select 1 HD" tvg-logo="noimage.png" group-title="FILMSKI", Gora Select 1 HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5467
-
-#EXTINF:-1 tvg-id="Toxic HD" tvg-logo="noimage.png" group-title="MUZICKI", Toxic HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9064
-
-#EXTINF:-1 tvg-id="Toxic Folk HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Folk_RS_logo.png" group-title="MUZICKI", Toxic Folk HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12846
-
-#EXTINF:-1 tvg-id="Toxic Rap HD" tvg-logo="http://nova-iptv.com/logo/Toxic_Rap_RS_logo.png" group-title="MUZICKI", Toxic Rap HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12847
-
-#EXTINF:-1 tvg-id="Balkanika TV" tvg-logo="noimage.png" group-title="MUZICKI", Balkanika TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/391
-
-#EXTINF:-1 tvg-id="MTV Adria" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/46.png" group-title="MUZICKI", MTV Adria
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/551
-
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 80s
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/394
-
-#EXTINF:-1 tvg-id="MTV Music" tvg-logo="noimage.png" group-title="MUZICKI", MTV Music
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/392
-
-#EXTINF:-1 tvg-id="MTV Live" tvg-logo="noimage.png" group-title="MUZICKI", MTV Live
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10260
-
-#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 90s
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10261
-
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="noimage.png" group-title="MUZICKI", MTV 00s
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/504
-
-#EXTINF:-1 tvg-id="Muzzik HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12526
-
-#EXTINF:-1 tvg-id="Muzzik Rock HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Rock HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12527
-
-#EXTINF:-1 tvg-id="Muzzik World HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik World HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12528
-
-#EXTINF:-1 tvg-id="Muzzik Jeka HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Jeka HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12529
-
-#EXTINF:-1 tvg-id="Muzzik Riviera HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Riviera HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12530
-
-#EXTINF:-1 tvg-id="Muzzik SoniDozz HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik SoniDozz HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12531
-
-#EXTINF:-1 tvg-id="Muzzik Electro HD" tvg-logo="noimage.png" group-title="MUZICKI", Muzzik Electro HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12532
-
-#EXTINF:-1 tvg-id="CMC" tvg-logo="noimage.png" group-title="MUZICKI", CMC
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/588
-
-#EXTINF:-1 tvg-id="BN Music HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/34.png" group-title="MUZICKI", BN Music HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/591
-
-#EXTINF:-1 tvg-id="IDJ TV" tvg-logo="noimage.png" group-title="MUZICKI", IDJ TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9283
-
-#EXTINF:-1 tvg-id="Grand" tvg-logo="noimage.png" group-title="MUZICKI", Grand
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9275
-
-#EXTINF:-1 tvg-id="Grand 2" tvg-logo="noimage.png" group-title="MUZICKI", Grand 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9276
-
-#EXTINF:-1 tvg-id="DM Sat" tvg-logo="noimage.png" group-title="MUZICKI", DM Sat
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/406
-
-#EXTINF:-1 tvg-id="ExYu Melody" tvg-logo="noimage.png" group-title="MUZICKI", ExYu Melody
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9038
-
-#EXTINF:-1 tvg-id="Top Sound" tvg-logo="noimage.png" group-title="MUZICKI", Top Sound
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8864
-
-#EXTINF:-1 tvg-id="Duga TV" tvg-logo="noimage.png" group-title="MUZICKI", Duga TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5416
-
-#EXTINF:-1 tvg-id="Izvorna TV" tvg-logo="http://116.203.156.75/logo/izvorna.png" group-title="MUZICKI", Izvorna TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/402
-
-#EXTINF:-1 tvg-id="Amari" tvg-logo="noimage.png" group-title="MUZICKI", Amari
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12390
-
-#EXTINF:-1 tvg-id="Jugoton TV" tvg-logo="noimage.png" group-title="MUZICKI", Jugoton TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/401
-
-#EXTINF:-1 tvg-id="Narodna TV" tvg-logo="noimage.png" group-title="MUZICKI", Narodna TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/393
-
-#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/62.png" group-title="MUZICKI", OTV Valentino
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/540
-
-#EXTINF:-1 tvg-id="Hayat Music Box" tvg-logo="http://116.203.156.75/logo/hayat-music-box.png" group-title="MUZICKI", Hayat Music Box
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/564
-
-#EXTINF:-1 tvg-id="Sevdah TV" tvg-logo="noimage.png" group-title="MUZICKI", Sevdah TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/396
-
-#EXTINF:-1 tvg-id="Hayat Folk Box" tvg-logo="http://116.203.156.75/logo/hayat-folk-box.png" group-title="MUZICKI", Hayat Folk Box
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/565
-
-#EXTINF:-1 tvg-id="pink-bh" tvg-logo="http://116.203.156.75/logo/pink_bh.png" group-title="PINK", Pink BH
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3647
-
-#EXTINF:-1 tvg-id="pink.sr" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK", PINK HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/376
-
-#EXTINF:-1 tvg-id="red-tv" tvg-logo="http://116.203.156.75/logo/Red-TV-Pink-Logo.png" group-title="PINK", Red TV
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/375
-
-#EXTINF:-1 tvg-id="DOMA TV HD" tvg-logo="http://116.203.156.75/logo/Vesti_RS_logo.png" group-title="PINK", Pink Vesti
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/374
-
-#EXTINF:-1 tvg-id="13THSTREET.de" tvg-logo="http://116.203.156.75/logo/pink_action.png" group-title="PINK", Pink Action HD
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/373
-
-#EXTINF:-1 tvg-id="pink-comedy" tvg-logo="http://116.203.156.75/logo/pink_comedy.png" group-title="PINK", Pink Comedy
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/371
-
-#EXTINF:-1 tvg-id="pink-crime-mistery" tvg-logo="http://116.203.156.75/logo/pink_crime_mistery.png" group-title="PINK", Pink Crime & Mystery
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/370
-
-#EXTINF:-1 tvg-id="pink-film" tvg-logo="http://116.203.156.75/logo/pink_film.png" group-title="PINK", Pink Film
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/369
-
-#EXTINF:-1 tvg-id="Pink Folk 1" tvg-logo="http://116.203.156.75/logo/pink_folk1.png" group-title="PINK", Pink Folk 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/368
-
-#EXTINF:-1 tvg-id="Pink Folk 2" tvg-logo="http://116.203.156.75/logo/pink_folk2.png" group-title="PINK", Pink Folk 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/367
-
-#EXTINF:-1 tvg-id="PINK HA HA" tvg-logo="http://116.203.156.75/logo/pink_haha.jpg" group-title="PINK", PINK HA HA
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/366
-
-#EXTINF:-1 tvg-id="pink-horror" tvg-logo="http://116.203.156.75/logo/pink_horor.png" group-title="PINK", Pink Horror
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/356
-
-#EXTINF:-1 tvg-id="pink-kids" tvg-logo="http://116.203.156.75/logo/pink_kids.png" group-title="PINK", Pink Kids
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/365
-
-#EXTINF:-1 tvg-id="pink-movies" tvg-logo="http://116.203.156.75/logo/pink_movies.png" group-title="PINK", Pink Movies
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/363
-
-#EXTINF:-1 tvg-id="Pink Music 1" tvg-logo="http://116.203.156.75/logo/pink_music.png" group-title="PINK", Pink Music 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/362
-
-#EXTINF:-1 tvg-id="Pink Music 2" tvg-logo="http://116.203.156.75/logo/pink_music2.png" group-title="PINK", Pink Music 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/361
-
-#EXTINF:-1 tvg-id="Pink & Roll" tvg-logo="http://116.203.156.75/logo/PinkNRoll_logo.png" group-title="PINK", Pink & Roll
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6640
-
-#EXTINF:-1 tvg-id="pink-plus" tvg-logo="http://116.203.156.75/logo/pink_plus.png" group-title="PINK", Pink Plus
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/360
-
-#EXTINF:-1 tvg-id="pink-premium" tvg-logo="http://116.203.156.75/logo/pink_premium.png" group-title="PINK", Pink Premium
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/359
-
-#EXTINF:-1 tvg-id="Pink Reality" tvg-logo="http://116.203.156.75/logo/pinkReality.png" group-title="PINK", Pink Reality
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/358
-
-#EXTINF:-1 tvg-id="pink-romance" tvg-logo="http://116.203.156.75/logo/Pink_Romance_logo.png" group-title="PINK", Pink Romance
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/357
-
-#EXTINF:-1 tvg-id="pink-scifi" tvg-logo="http://116.203.156.75/logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK", Pink Sci Fi & Fantasy
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/355
-
-#EXTINF:-1 tvg-id="pink-serije" tvg-logo="http://116.203.156.75/logo/pink_serije.png" group-title="PINK", Pink Serije
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/353
-
-#EXTINF:-1 tvg-id="pink-show" tvg-logo="http://116.203.156.75/logo/PinkShow.png" group-title="PINK", Pink Show
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/352
-
-#EXTINF:-1 tvg-id="pink-soap" tvg-logo="http://116.203.156.75/logo/pinksoap.png" group-title="PINK", PINK SOAP
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/351
-
-#EXTINF:-1 tvg-id="pink-thriller" tvg-logo="http://116.203.156.75/logo/Pink_Thriller_logo.png" group-title="PINK", Pink Thriler
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/354
-
-#EXTINF:-1 tvg-id="pink-classic" tvg-logo="http://116.203.156.75/logo/pink_classic.png" group-title="PINK", Pink Classic
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5665
-
-#EXTINF:-1 tvg-id="pink-family" tvg-logo="http://116.203.156.75/logo/pink_family.png" group-title="PINK", Pink Family
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5666
-
-#EXTINF:-1 tvg-id="pink-kuvar" tvg-logo="http://116.203.156.75/logo/pink_kuvar.png" group-title="PINK", Pink Kuvar
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5664
-
-#EXTINF:-1 tvg-id="pink-extra" tvg-logo="http://nova-iptv.com/logo/pink-extra.png" group-title="PINK", Pink Extra
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12557
-
-#EXTINF:-1 tvg-id="Pink Koncert" tvg-logo="http://nova-iptv.com/logo/PinkKoncert_logo.png" group-title="PINK", Pink Koncert
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12558
-
-#EXTINF:-1 tvg-id="Pink LOL" tvg-logo="http://116.203.156.75/logo/pink_lol.png" group-title="PINK", Pink LOL
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5663
-
-#EXTINF:-1 tvg-id="pink-world" tvg-logo="http://116.203.156.75/logo/pink_world.png" group-title="PINK", Pink World
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5667
-
-#EXTINF:-1 tvg-id="pink-pedia" tvg-logo="http://116.203.156.75/logo/pink_pedia.png" group-title="PINK", Pink Pedia
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/350
-
-#EXTINF:-1 tvg-id="pink-western" tvg-logo="http://116.203.156.75/logo/pink-western-logo.png" group-title="PINK", Pink Western
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/349
-
-#EXTINF:-1 tvg-id="pink-world-cinema" tvg-logo="http://116.203.156.75/logo/pink_world_cinema.png" group-title="PINK", Pink World Cinema
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/348
-
-#EXTINF:-1 tvg-id="pink-zabava" tvg-logo="http://116.203.156.75/logo/pink_zabava.png" group-title="PINK", Pink Zabava
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/347
-
-#EXTINF:-1 tvg-id="VIP Radio" tvg-logo="noimage.png" group-title="RADIO", VIP Radio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/8681
-
-#EXTINF:-1 tvg-id="Radio KRAJINA Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio KRAJINA Cazin
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3782
-
-#EXTINF:-1 tvg-id="BN Radio" tvg-logo="noimage.png" group-title="RADIO", BN Radio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/3
-
-#EXTINF:-1 tvg-id="Rock Radio" tvg-logo="noimage.png" group-title="RADIO", Rock Radio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6
-
-#EXTINF:-1 tvg-id="Play Radio" tvg-logo="noimage.png" group-title="RADIO", Play Radio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10
-
-#EXTINF:-1 tvg-id="Pink Radio" tvg-logo="noimage.png" group-title="RADIO", Pink Radio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/4
-
-#EXTINF:-1 tvg-id="Radio Livno" tvg-logo="noimage.png" group-title="RADIO", Radio Livno
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/9
-
-#EXTINF:-1 tvg-id="BIG Radio" tvg-logo="noimage.png" group-title="RADIO", BIG Radio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/5
-
-#EXTINF:-1 tvg-id="Radio Tomislavgrad" tvg-logo="noimage.png" group-title="RADIO", Radio Tomislavgrad
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/7
-
-#EXTINF:-1 tvg-id="Radio Cazin" tvg-logo="noimage.png" group-title="RADIO", Radio Cazin
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6636
-
-#EXTINF:-1 tvg-id="Radio USK" tvg-logo="noimage.png" group-title="RADIO", Radio USK
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6637
-
-#EXTINF:-1 tvg-id="HRT HR 1" tvg-logo="noimage.png" group-title="RADIO", HRT HR 1
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6709
-
-#EXTINF:-1 tvg-id="HRT HR 2" tvg-logo="noimage.png" group-title="RADIO", HRT HR 2
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6710
-
-#EXTINF:-1 tvg-id="Radio Posavina" tvg-logo="noimage.png" group-title="RADIO", Radio Posavina
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6707
-
-#EXTINF:-1 tvg-id="Radio Sibenik" tvg-logo="noimage.png" group-title="RADIO", Radio Sibenik
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6705
-
-#EXTINF:-1 tvg-id="Radio Sunce" tvg-logo="noimage.png" group-title="RADIO", Radio Sunce
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6702
-
-#EXTINF:-1 tvg-id="Radio Zapresic" tvg-logo="noimage.png" group-title="RADIO", Radio Zapresic
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6708
-
-#EXTINF:-1 tvg-id="Enter Zagreb" tvg-logo="noimage.png" group-title="RADIO", Enter Zagreb
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6706
-
-#EXTINF:-1 tvg-id="Antena Zagreb" tvg-logo="noimage.png" group-title="RADIO", Antena Zagreb
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/6704
-
-#EXTINF:-1 tvg-id="RTG Music" tvg-logo="noimage.png" group-title="RADIO", RTG Music
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10240
-
-#EXTINF:-1 tvg-id="RTG Bastina" tvg-logo="noimage.png" group-title="RADIO", RTG Bastina
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12562
-
-#EXTINF:-1 tvg-id="RTG Frama" tvg-logo="noimage.png" group-title="RADIO", RTG Frama
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12563
-
-#EXTINF:-1 tvg-id="RTG Djeciji" tvg-logo="noimage.png" group-title="RADIO", RTG Djeciji
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12564
-
-#EXTINF:-1 tvg-id="RTG Domovina" tvg-logo="noimage.png" group-title="RADIO", RTG Domovina
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/12565
-
-#EXTINF:-1 tvg-id="Radiopostaja Mir Medjugorje" tvg-logo="noimage.png" group-title="RADIO", Radiopostaja Mir Medjugorje
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10241
-
-#EXTINF:-1 tvg-id="Kupreski Radio" tvg-logo="noimage.png" group-title="RADIO", Kupreski Radio
-http://onlineswe.com:80/Mario_bajic/SERwnkes5I/10242
 
 
 
